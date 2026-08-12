@@ -21,7 +21,21 @@ def valid_email(email):
 def parse_email_addresses(text):
     if not text:
         return []
-    return [(name, address) for name, address in getaddresses([text]) if address and '@' in address]
+    results = [(name, address) for name, address in getaddresses([text]) if address and '@' in address]
+    if not results:
+        m = re.search(r'<([^>@]+@[^>]+?)>', text)
+        if m:
+            name_m = re.match(r'\s*"?([^"<]+)"?\s*<', text)
+            results = [(name_m.group(1).strip() if name_m else '', m.group(1))]
+    if not results:
+        m = re.search(r'\[mailto:([^\]]+@[^\]]+)\]', text)
+        if m:
+            results = [('', m.group(1))]
+    if not results:
+        m = re.search(r'[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}', text)
+        if m:
+            results = [('', m.group(0))]
+    return results
 
 def main():
     try:

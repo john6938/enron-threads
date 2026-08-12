@@ -16,6 +16,8 @@ for line in sys.stdin:
             continue
         if NO_DOT_DOMAIN.search(address):
             continue
+        if not name:
+            name = address.split('@')[0]
         name = canonical(name)
         address = address.lower().lstrip("'\"").rstrip("'\"")
         print(f"{name}\t{address}")
