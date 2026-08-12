@@ -1,0 +1,6959 @@
+[
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/102",
+   "hops": [
+      {
+         "from": "jeff.youngflesh@enron.com",
+         "line": 4,
+         "rawfrom": "jeff.youngflesh@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer.medcalf@enron.com"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 34,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 12/13/2000 02:41 PM -----\n",
+         "source": "lookup",
+         "to": "Chaz Vaughan/Enron Communications@Enron Communications"
+      },
+      {
+         "from": "chaz_vaughan@enron.net",
+         "line": 65,
+         "rawfrom": "Chaz Vaughan\n",
+         "source": "lookup",
+         "to": "Jeff Youngflesh/NA/Enron@ENRON"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 105,
+         "rawfrom": "Jeff Youngflesh@ENRON\n",
+         "source": "lookup",
+         "to": "Stephen Morse/Enron Communications@Enron Communications, Chaz"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/120",
+   "hops": [
+      {
+         "from": "bob.jordan@compaq.com",
+         "line": 4,
+         "rawfrom": "bob.jordan@compaq.com\r\n",
+         "source": "valid",
+         "to": "jennifer.medcalf@enron.com, david.spurlin@compaq.com, jeff.gooden@compaq.com"
+      },
+      {
+         "from": "jerry.earle@compaq.com",
+         "line": 91,
+         "rawfrom": "\"Earle, Jerry\" <Jerry.Earle@COMPAQ.com>\n",
+         "source": "email",
+         "to": "\"Fiore, Michael\" <Michael.Fiore@compaq.com>"
+      },
+      {
+         "from": "michael.fiore@compaq.com",
+         "line": 113,
+         "rawfrom": "Fiore, Michael\n",
+         "source": "lookup",
+         "to": "Earle, Jerry"
+      },
+      {
+         "from": "michael.fiore@compaq.com",
+         "line": 194,
+         "rawfrom": "\"Fiore, Michael\" <Michael.Fiore@compaq.com>\n",
+         "source": "email",
+         "to": "\"Jordan, Bob\" <Bob.Jordan@COMPAQ.com>"
+      },
+      {
+         "from": "bob.jordan@compaq.com",
+         "line": 257,
+         "rawfrom": "Jordan, Bob\n",
+         "source": "lookup",
+         "to": "Fiore, Michael"
+      },
+      {
+         "from": "jerry.earle@compaq.com",
+         "line": 287,
+         "rawfrom": "Earle, Jerry\n",
+         "source": "lookup",
+         "to": "Fiore, Michael"
+      },
+      {
+         "from": "michael.fiore@compaq.com",
+         "line": 309,
+         "rawfrom": "Fiore, Michael\n",
+         "source": "lookup",
+         "to": "Earle, Jerry"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/158",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 25,
+         "rawfrom": "slafontaine@globalp.com on 12/12/2000 03:22:07 PM\n",
+         "source": "email",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "steve lafontaine@bankofamerica.com",
+         "line": 41,
+         "rawfrom": "Steve LaFontaine\n",
+         "source": "lookup",
+         "to": "jarnold@enron.com"
+      },
+      {
+         "from": "steve lafontaine@bankofamerica.com",
+         "line": 62,
+         "rawfrom": "Steve LaFontaine\n",
+         "source": "lookup",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/19",
+   "hops": [
+      {
+         "from": "larry.ciscon@enron.com",
+         "line": 4,
+         "rawfrom": "larry.ciscon@enron.com\r\n",
+         "source": "valid",
+         "to": "jeff.youngflesh@enron.com"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 36,
+         "rawfrom": "Jeff Youngflesh@ENRON\n",
+         "source": "lookup",
+         "to": "Larry Ciscon/Enron Communications@ENRON COMMUNICATIONS"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 103,
+         "rawfrom": "Jeff Youngflesh@ENRON\n",
+         "source": "lookup",
+         "to": "Everett Plante/Enron Communications@Enron Communications, Jim"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 197,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 11/21/2000 03:56 PM -----\n",
+         "source": "lookup",
+         "to": "thadwhite@avaya.com"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 215,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 11/21/2000 10:30 AM -----\n",
+         "source": "lookup",
+         "to": "\"'jeff.youngflesh@enron.com'\" <jeff.youngflesh@enron.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/252",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "margaret.allen@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 34,
+         "rawfrom": "John Arnold@ECT\n",
+         "source": "lookup",
+         "to": "Margaret Allen/Corp/Enron@ENRON"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 61,
+         "rawfrom": "John Arnold@ECT\n",
+         "source": "lookup",
+         "to": "Margaret Allen/Corp/Enron@ENRON"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 91,
+         "rawfrom": "John Arnold@ECT\n",
+         "source": "lookup",
+         "to": "Margaret Allen/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/269",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "mike.maggi@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 24,
+         "rawfrom": "John Arnold/HOU/ECT on 10/23/2000 07:42 \n",
+         "source": "lookup",
+         "to": "John Arnold/HOU/ECT@ECT"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 36,
+         "rawfrom": "John Arnold\n",
+         "source": "lookup",
+         "to": "Jennifer Burns/HOU/ECT@ECT"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 58,
+         "rawfrom": "John Arnold\n",
+         "source": "lookup",
+         "to": "Jennifer Burns/HOU/ECT@ECT"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/287",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "msagel@home.com"
+      },
+      {
+         "from": "msagel@home.com",
+         "line": 24,
+         "rawfrom": "\"Mark Sagel\" <msagel@home.com> on 10/17/2000 05:20:14 PM\n",
+         "source": "email",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 33,
+         "rawfrom": "<John.Arnold@enron.com>\n",
+         "source": "email",
+         "to": "<msagel@home.com>"
+      },
+      {
+         "from": "msagel@home.com",
+         "line": 47,
+         "rawfrom": "\"Mark Sagel\" <msagel@home.com> on 10/17/2000 04:34:56 PM\n",
+         "source": "email",
+         "to": "\"John Arnold\" <jarnold@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/3",
+   "hops": [
+      {
+         "from": "jeff.youngflesh@enron.com",
+         "line": 4,
+         "rawfrom": "jeff.youngflesh@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer.stewart@enron.com"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 36,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 11/27/2000 04:49 PM -----\n",
+         "source": "lookup",
+         "to": "Jeff Youngflesh/NA/Enron@ENRON"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 154,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 11/21/2000 03:56 PM -----\n",
+         "source": "lookup",
+         "to": "thadwhite@avaya.com"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 172,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 11/21/2000 10:30 AM -----\n",
+         "source": "lookup",
+         "to": "\"'jeff.youngflesh@enron.com'\" <jeff.youngflesh@enron.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/328",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "msagel@home.com"
+      },
+      {
+         "from": "msagel@home.com",
+         "line": 29,
+         "rawfrom": "\"Mark Sagel\" <msagel@home.com> on 10/04/2000 02:55:41 PM\n",
+         "source": "email",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 47,
+         "rawfrom": "<John.Arnold@enron.com>\n",
+         "source": "email",
+         "to": "<msagel@home.com>"
+      },
+      {
+         "from": "msagel@home.com",
+         "line": 63,
+         "rawfrom": "\"Mark Sagel\" <msagel@home.com> on 10/03/2000 02:29:47 PM\n",
+         "source": "email",
+         "to": "\"John Arnold\" <jarnold@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/354",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 23,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 09/25/2000 06:09:01 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 47,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 09/01/2000 09:02:04 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 78,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 01:20:05 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 134,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 10:10:09 AM\n",
+         "source": "email",
+         "to": "john.arnold@enron.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/361",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 23,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 09/01/2000 09:02:04 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 54,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 01:20:05 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 110,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 10:10:09 AM\n",
+         "source": "email",
+         "to": "john.arnold@enron.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/412",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "athomas1@dellnet.com"
+      },
+      {
+         "from": "athomas1@dellnet.com",
+         "line": 23,
+         "rawfrom": "\"Andrew Thomas\" <athomas1@dellnet.com> on 08/28/2000 01:42:25 PM\n",
+         "source": "email",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 33,
+         "rawfrom": "<John.Arnold@enron.com>\n",
+         "source": "email",
+         "to": "<athomas1@dellnet.com>"
+      },
+      {
+         "from": "athomas1@dellnet.com",
+         "line": 48,
+         "rawfrom": "\"Andrew Thomas\" <athomas1@dellnet.com> on 08/25/2000 02:02:59 PM\n",
+         "source": "email",
+         "to": "<Matthew.Arnold@enron.com>, <john.arnold@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/485",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "per.sekse@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 39,
+         "rawfrom": "John Arnold\n",
+         "source": "lookup",
+         "to": "Per Sekse/NY/ECT@ECT"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 63,
+         "rawfrom": "John Arnold\n",
+         "source": "lookup",
+         "to": "Per Sekse/NY/ECT@ECT"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 73,
+         "rawfrom": "John Arnold/HOU/ECT on 06/26/2000 04:17 \n",
+         "source": "lookup",
+         "to": "\"'jarnold@enron.com'\" <jarnold@enron.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/6",
+   "hops": [
+      {
+         "from": "jeff.youngflesh@enron.com",
+         "line": 4,
+         "rawfrom": "jeff.youngflesh@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer.stewart@enron.com"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 39,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 11/28/2000 12:44 PM -----\n",
+         "source": "lookup",
+         "to": "\"'jeff.youngflesh@enron.com'\" <jeff.youngflesh@enron.com>"
+      },
+      {
+         "from": "jeff@freeyellow.com",
+         "line": 62,
+         "rawfrom": "jeff.youngflesh@enron.com [mailto:jeff.youngflesh@enron.com]\n",
+         "source": "lookup",
+         "to": "bkorp@avaya.com"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 112,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 11/28/2000 07:39 AM -----\n",
+         "source": "lookup",
+         "to": "thadwhite@avaya.com"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 141,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 11/21/2000 10:30 AM -----\n",
+         "source": "lookup",
+         "to": ""
+      },
+      {
+         "from": "jeff@freeyellow.com",
+         "line": 182,
+         "rawfrom": "jeff.youngflesh@enron.com [mailto:jeff.youngflesh@enron.com]\n",
+         "source": "lookup",
+         "to": "bkorp@avaya.com; thadwhite@avaya.com; Kim_Godfrey@enron.net;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/615",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 24,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 49,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 83,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 112,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/617",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 24,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 58,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 87,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/621",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 24,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 50,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 76,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 103,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 127,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<jarnold@enron.com>"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/623",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 24,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 48,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 72,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/629",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 25,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 51,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 78,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 102,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<jarnold@enron.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/632",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 24,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 51,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 75,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<jarnold@enron.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/66",
+   "hops": [
+      {
+         "from": "trey.comiskey@enron.com",
+         "line": 4,
+         "rawfrom": "trey.comiskey@enron.com\r\n",
+         "source": "valid",
+         "to": "brien@am.sony.com, jennifer.medcalf@enron.com"
+      },
+      {
+         "from": "trey.comiskey@enron.com",
+         "line": 28,
+         "rawfrom": " Trey Comiskey                           12/11/2000 09:04 AM\n",
+         "source": "lookup",
+         "to": "\"Cooper, Kenneth\" <Kenneth.Cooper@am.sony.com> @ ENRON"
+      },
+      {
+         "from": "kenneth.cooper@am.sony.com",
+         "line": 42,
+         "rawfrom": "\"Cooper, Kenneth\" <Kenneth.Cooper@am.sony.com> on 12/08/2000 04:49:45 PM\n",
+         "source": "email",
+         "to": "\"'tcomisk@enron.com'\" <tcomisk@enron.com>"
+      },
+      {
+         "from": "tcomisk@enron.com",
+         "line": 52,
+         "rawfrom": "tcomisk@enron.com [mailto:tcomisk@enron.com]\n",
+         "source": "lookup",
+         "to": "Kenneth.Cooper@am.sony.com"
+      },
+      {
+         "from": "kenneth.cooper@am.sony.com",
+         "line": 72,
+         "rawfrom": "\"Cooper, Kenneth\" <Kenneth.Cooper@am.sony.com> on 12/06/2000 03:37:42 PM\n",
+         "source": "email",
+         "to": "\"'Trey Comiskey'\" <trey.comiskey@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/662",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "kim.ward@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 31,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 47,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 64,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 81,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 99,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/663",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "kim.ward@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 47,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 64,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 82,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/664",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "kim.ward@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 31,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 48,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 66,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/68",
+   "hops": [
+      {
+         "from": "jeff.youngflesh@enron.com",
+         "line": 4,
+         "rawfrom": "jeff.youngflesh@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer.medcalf@enron.com, peter.goebel@enron.com"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 48,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----\n",
+         "source": "lookup",
+         "to": "Jeff Youngflesh/NA/Enron@ENRON"
+      },
+      {
+         "from": "stephen_morse@enron.net",
+         "line": 77,
+         "rawfrom": "Stephen Morse/Enron Communications on 12/07/00 05:55 PM \n",
+         "source": "lookup",
+         "to": "Stephen Morse/Enron Communications@Enron Communications"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 127,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----\n",
+         "source": "lookup",
+         "to": "\"'jeff_youngflesh@enron.com'\" <jeff_youngflesh@enron.com>"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 169,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----\n",
+         "source": "lookup",
+         "to": "\"'jeff_youngflesh@enron.com'\" <jeff_youngflesh@enron.com>"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 208,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----\n",
+         "source": "lookup",
+         "to": "\"'jeff_youngflesh@enron.com'\" <jeff_youngflesh@enron.com>"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 236,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----\n",
+         "source": "lookup",
+         "to": "\"'jeff_youngflesh@enron.com'\" <jeff_youngflesh@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/728",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer.fraser@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 34,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 54,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 74,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 123,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/733",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer.fraser@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 34,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 54,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 103,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/78",
+   "hops": [
+      {
+         "from": "peter.goebel@enron.com",
+         "line": 4,
+         "rawfrom": "peter.goebel@enron.com\r\n",
+         "source": "valid",
+         "to": "jeff.youngflesh@enron.com"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 44,
+         "rawfrom": "Jeff Youngflesh\n",
+         "source": "lookup",
+         "to": "Jennifer Medcalf/NA/Enron@Enron, Peter Goebel/NA/Enron@Enron"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 77,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----\n",
+         "source": "lookup",
+         "to": "Jeff Youngflesh/NA/Enron@ENRON"
+      },
+      {
+         "from": "stephen_morse@enron.net",
+         "line": 106,
+         "rawfrom": "Stephen Morse/Enron Communications on 12/07/00 05:55 PM \n",
+         "source": "lookup",
+         "to": "Stephen Morse/Enron Communications@Enron Communications"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 156,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----\n",
+         "source": "lookup",
+         "to": "\"'jeff_youngflesh@enron.com'\" <jeff_youngflesh@enron.com>"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 198,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----\n",
+         "source": "lookup",
+         "to": "\"'jeff_youngflesh@enron.com'\" <jeff_youngflesh@enron.com>"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 237,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----\n",
+         "source": "lookup",
+         "to": "\"'jeff_youngflesh@enron.com'\" <jeff_youngflesh@enron.com>"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 265,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----\n",
+         "source": "lookup",
+         "to": "\"'jeff_youngflesh@enron.com'\" <jeff_youngflesh@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/804",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 33,
+         "rawfrom": "slafontaine@globalp.com on 03/25/2001 08:16:26 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 46,
+         "rawfrom": "John.Arnold@enron.com on 03/25/2001 07:30:38 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 77,
+         "rawfrom": "slafontaine@globalp.com on 03/23/2001 01:44:10 PM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/81",
+   "hops": [
+      {
+         "from": "trang.dinh@enron.com",
+         "line": 4,
+         "rawfrom": "trang.dinh@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer.medcalf@enron.com"
+      },
+      {
+         "from": "jennifer.medcalf@enron.com",
+         "line": 24,
+         "rawfrom": "JENNIFER MEDCALF@ENRON\n",
+         "source": "lookup",
+         "to": "Trang Dinh/HOU/ECT@ECT"
+      },
+      {
+         "from": "jennifer.medcalf@enron.com",
+         "line": 46,
+         "rawfrom": "JENNIFER MEDCALF@ENRON\n",
+         "source": "lookup",
+         "to": "Trang Dinh/HOU/ECT@ECT"
+      },
+      {
+         "from": "jennifer.medcalf@enron.com",
+         "line": 73,
+         "rawfrom": "JENNIFER MEDCALF@ENRON\n",
+         "source": "lookup",
+         "to": "Trang Dinh/HOU/ECT@ECT"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/817",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 43,
+         "rawfrom": "slafontaine@globalp.com on 03/20/2001 03:21:41 PM\r\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 82,
+         "rawfrom": "John.Arnold@enron.com on 03/20/2001 04:06:55 PM\r\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 106,
+         "rawfrom": "slafontaine@globalp.com on 03/20/2001 10:48:43 AM\r\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      },
+      {
+         "from": "steve lafontaine@bankofamerica.com",
+         "line": 121,
+         "rawfrom": "Steve LaFontaine/GlobalCo on 03/20/2001\r\n",
+         "source": "lookup",
+         "to": "Scsotc@aol.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/830",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 23,
+         "rawfrom": "slafontaine@globalp.com on 03/15/2001 08:31:31 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 41,
+         "rawfrom": "John.Arnold@enron.com on 03/15/2001 09:27:09 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 58,
+         "rawfrom": "slafontaine@globalp.com on 03/15/2001 08:17:02 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/831",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 27,
+         "rawfrom": "slafontaine@globalp.com on 03/15/2001 08:31:31 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 45,
+         "rawfrom": "John.Arnold@enron.com on 03/15/2001 09:27:09 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 62,
+         "rawfrom": "slafontaine@globalp.com on 03/15/2001 08:17:02 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/858",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 29,
+         "rawfrom": "slafontaine@globalp.com on 03/06/2001 10:22:18 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 47,
+         "rawfrom": "John.Arnold@enron.com on 03/06/2001 10:51:13 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 64,
+         "rawfrom": "slafontaine@globalp.com on 03/06/2001 09:15:40 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/870",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 45,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 10:54:14 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 68,
+         "rawfrom": "John.Arnold@enron.com on 03/02/2001 11:44:50 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 87,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 10:25:45 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 107,
+         "rawfrom": "John.Arnold@enron.com on 03/02/2001 11:22:30 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 124,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 08:54:44 AM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/872",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 26,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 10:25:45 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 43,
+         "rawfrom": "John.Arnold@enron.com on 03/02/2001 11:22:30 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 60,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 08:54:44 AM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/877",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 26,
+         "rawfrom": "slafontaine@globalp.com on 02/28/2001 08:03:43 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 48,
+         "rawfrom": "John.Arnold@enron.com on 02/27/2001 11:05:40 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 69,
+         "rawfrom": "slafontaine@globalp.com on 02/27/2001 08:12:32 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 102,
+         "rawfrom": "John.Arnold@enron.com on 02/27/2001 08:23:22 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 135,
+         "rawfrom": "slafontaine@globalp.com on 02/26/2001 04:48:06 PM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/880",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 28,
+         "rawfrom": "slafontaine@globalp.com on 02/27/2001 08:12:32 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 57,
+         "rawfrom": "John.Arnold@enron.com on 02/27/2001 08:23:22 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 90,
+         "rawfrom": "slafontaine@globalp.com on 02/26/2001 04:48:06 PM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/949",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 29,
+         "rawfrom": "slafontaine@globalp.com on 02/06/2001 11:19:45 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 43,
+         "rawfrom": "John.Arnold@enron.com on 02/06/2001 11:59:31 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 64,
+         "rawfrom": "slafontaine@globalp.com on 02/06/2001 07:24:43 AM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      },
+      {
+         "from": "steve lafontaine@bankofamerica.com",
+         "line": 78,
+         "rawfrom": "Steve LaFontaine/GlobalCo on 02/06/2001\n",
+         "source": "lookup",
+         "to": "soblander@carrfut.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/957",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 25,
+         "rawfrom": "slafontaine@globalp.com on 02/05/2001 06:59:36 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 44,
+         "rawfrom": "John.Arnold@enron.com on 02/04/2001 10:13:24 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 75,
+         "rawfrom": "slafontaine@globalp.com on 01/31/2001 04:47:22 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 107,
+         "rawfrom": "John.Arnold@enron.com on 01/31/2001 05:41:45 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 124,
+         "rawfrom": "slafontaine@globalp.com on 01/31/2001 12:40:07 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/all_documents/960",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 38,
+         "rawfrom": "slafontaine@globalp.com on 01/31/2001 04:47:22 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 67,
+         "rawfrom": "John.Arnold@enron.com on 01/31/2001 05:41:45 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 84,
+         "rawfrom": "slafontaine@globalp.com on 01/31/2001 12:40:07 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/avaya/1",
+   "hops": [
+      {
+         "from": "jeff.youngflesh@enron.com",
+         "line": 4,
+         "rawfrom": "jeff.youngflesh@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer.stewart@enron.com"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 36,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 11/27/2000 04:49 PM -----\n",
+         "source": "lookup",
+         "to": "Jeff Youngflesh/NA/Enron@ENRON"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 154,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 11/21/2000 03:56 PM -----\n",
+         "source": "lookup",
+         "to": "thadwhite@avaya.com"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 172,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 11/21/2000 10:30 AM -----\n",
+         "source": "lookup",
+         "to": "\"'jeff.youngflesh@enron.com'\" <jeff.youngflesh@enron.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/avaya/2",
+   "hops": [
+      {
+         "from": "jeff.youngflesh@enron.com",
+         "line": 4,
+         "rawfrom": "jeff.youngflesh@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer.stewart@enron.com"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 39,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 11/28/2000 12:44 PM -----\n",
+         "source": "lookup",
+         "to": "\"'jeff.youngflesh@enron.com'\" <jeff.youngflesh@enron.com>"
+      },
+      {
+         "from": "jeff@freeyellow.com",
+         "line": 62,
+         "rawfrom": "jeff.youngflesh@enron.com [mailto:jeff.youngflesh@enron.com]\n",
+         "source": "lookup",
+         "to": "bkorp@avaya.com"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 112,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 11/28/2000 07:39 AM -----\n",
+         "source": "lookup",
+         "to": "thadwhite@avaya.com"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 141,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 11/21/2000 10:30 AM -----\n",
+         "source": "lookup",
+         "to": ""
+      },
+      {
+         "from": "jeff@freeyellow.com",
+         "line": 182,
+         "rawfrom": "jeff.youngflesh@enron.com [mailto:jeff.youngflesh@enron.com]\n",
+         "source": "lookup",
+         "to": "bkorp@avaya.com; thadwhite@avaya.com; Kim_Godfrey@enron.net;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/avaya/3",
+   "hops": [
+      {
+         "from": "larry.ciscon@enron.com",
+         "line": 4,
+         "rawfrom": "larry.ciscon@enron.com\r\n",
+         "source": "valid",
+         "to": "jeff.youngflesh@enron.com"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 36,
+         "rawfrom": "Jeff Youngflesh@ENRON\n",
+         "source": "lookup",
+         "to": "Larry Ciscon/Enron Communications@ENRON COMMUNICATIONS"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 103,
+         "rawfrom": "Jeff Youngflesh@ENRON\n",
+         "source": "lookup",
+         "to": "Everett Plante/Enron Communications@Enron Communications, Jim"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 197,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 11/21/2000 03:56 PM -----\n",
+         "source": "lookup",
+         "to": "thadwhite@avaya.com"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 215,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 11/21/2000 10:30 AM -----\n",
+         "source": "lookup",
+         "to": "\"'jeff.youngflesh@enron.com'\" <jeff.youngflesh@enron.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/bmc/13",
+   "hops": [
+      {
+         "from": "jeff.youngflesh@enron.com",
+         "line": 4,
+         "rawfrom": "jeff.youngflesh@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer.medcalf@enron.com"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 34,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 12/13/2000 02:41 PM -----\n",
+         "source": "lookup",
+         "to": "Chaz Vaughan/Enron Communications@Enron Communications"
+      },
+      {
+         "from": "chaz_vaughan@enron.net",
+         "line": 65,
+         "rawfrom": "Chaz Vaughan\n",
+         "source": "lookup",
+         "to": "Jeff Youngflesh/NA/Enron@ENRON"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 105,
+         "rawfrom": "Jeff Youngflesh@ENRON\n",
+         "source": "lookup",
+         "to": "Stephen Morse/Enron Communications@Enron Communications, Chaz"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/bmc/5",
+   "hops": [
+      {
+         "from": "jeff.youngflesh@enron.com",
+         "line": 4,
+         "rawfrom": "jeff.youngflesh@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer.medcalf@enron.com, peter.goebel@enron.com"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 48,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----\n",
+         "source": "lookup",
+         "to": "Jeff Youngflesh/NA/Enron@ENRON"
+      },
+      {
+         "from": "stephen_morse@enron.net",
+         "line": 77,
+         "rawfrom": "Stephen Morse/Enron Communications on 12/07/00 05:55 PM \n",
+         "source": "lookup",
+         "to": "Stephen Morse/Enron Communications@Enron Communications"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 127,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----\n",
+         "source": "lookup",
+         "to": "\"'jeff_youngflesh@enron.com'\" <jeff_youngflesh@enron.com>"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 169,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----\n",
+         "source": "lookup",
+         "to": "\"'jeff_youngflesh@enron.com'\" <jeff_youngflesh@enron.com>"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 208,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----\n",
+         "source": "lookup",
+         "to": "\"'jeff_youngflesh@enron.com'\" <jeff_youngflesh@enron.com>"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 236,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----\n",
+         "source": "lookup",
+         "to": "\"'jeff_youngflesh@enron.com'\" <jeff_youngflesh@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/bmc/6",
+   "hops": [
+      {
+         "from": "peter.goebel@enron.com",
+         "line": 4,
+         "rawfrom": "peter.goebel@enron.com\r\n",
+         "source": "valid",
+         "to": "jeff.youngflesh@enron.com"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 44,
+         "rawfrom": "Jeff Youngflesh\n",
+         "source": "lookup",
+         "to": "Jennifer Medcalf/NA/Enron@Enron, Peter Goebel/NA/Enron@Enron"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 77,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----\n",
+         "source": "lookup",
+         "to": "Jeff Youngflesh/NA/Enron@ENRON"
+      },
+      {
+         "from": "stephen_morse@enron.net",
+         "line": 106,
+         "rawfrom": "Stephen Morse/Enron Communications on 12/07/00 05:55 PM \n",
+         "source": "lookup",
+         "to": "Stephen Morse/Enron Communications@Enron Communications"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 156,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----\n",
+         "source": "lookup",
+         "to": "\"'jeff_youngflesh@enron.com'\" <jeff_youngflesh@enron.com>"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 198,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----\n",
+         "source": "lookup",
+         "to": "\"'jeff_youngflesh@enron.com'\" <jeff_youngflesh@enron.com>"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 237,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----\n",
+         "source": "lookup",
+         "to": "\"'jeff_youngflesh@enron.com'\" <jeff_youngflesh@enron.com>"
+      },
+      {
+         "from": "jeff_youngflesh@enron.com",
+         "line": 265,
+         "rawfrom": "Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----\n",
+         "source": "lookup",
+         "to": "\"'jeff_youngflesh@enron.com'\" <jeff_youngflesh@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/compaq/5",
+   "hops": [
+      {
+         "from": "bob.jordan@compaq.com",
+         "line": 4,
+         "rawfrom": "bob.jordan@compaq.com\r\n",
+         "source": "valid",
+         "to": "jennifer.medcalf@enron.com, david.spurlin@compaq.com, jeff.gooden@compaq.com"
+      },
+      {
+         "from": "jerry.earle@compaq.com",
+         "line": 91,
+         "rawfrom": "\"Earle, Jerry\" <Jerry.Earle@COMPAQ.com>\n",
+         "source": "email",
+         "to": "\"Fiore, Michael\" <Michael.Fiore@compaq.com>"
+      },
+      {
+         "from": "michael.fiore@compaq.com",
+         "line": 113,
+         "rawfrom": "Fiore, Michael\n",
+         "source": "lookup",
+         "to": "Earle, Jerry"
+      },
+      {
+         "from": "michael.fiore@compaq.com",
+         "line": 194,
+         "rawfrom": "\"Fiore, Michael\" <Michael.Fiore@compaq.com>\n",
+         "source": "email",
+         "to": "\"Jordan, Bob\" <Bob.Jordan@COMPAQ.com>"
+      },
+      {
+         "from": "bob.jordan@compaq.com",
+         "line": 257,
+         "rawfrom": "Jordan, Bob\n",
+         "source": "lookup",
+         "to": "Fiore, Michael"
+      },
+      {
+         "from": "jerry.earle@compaq.com",
+         "line": 287,
+         "rawfrom": "Earle, Jerry\n",
+         "source": "lookup",
+         "to": "Fiore, Michael"
+      },
+      {
+         "from": "michael.fiore@compaq.com",
+         "line": 309,
+         "rawfrom": "Fiore, Michael\n",
+         "source": "lookup",
+         "to": "Earle, Jerry"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/deleted_items/116",
+   "hops": [
+      {
+         "from": "margaret.allen@enron.com",
+         "line": 4,
+         "rawfrom": "margaret.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "john.arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 22,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 38,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 54,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 70,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/deleted_items/117",
+   "hops": [
+      {
+         "from": "margaret.allen@enron.com",
+         "line": 4,
+         "rawfrom": "margaret.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "john.arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 22,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 38,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 54,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/deleted_items/138",
+   "hops": [
+      {
+         "from": "jennifer.fraser@enron.com",
+         "line": 4,
+         "rawfrom": "jennifer.fraser@enron.com\r\n",
+         "source": "valid",
+         "to": "john.arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 24,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 42,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 58,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/deleted_items/295",
+   "hops": [
+      {
+         "from": "margaret.allen@enron.com",
+         "line": 4,
+         "rawfrom": "margaret.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "john.arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 22,
+         "rawfrom": "Arnold, John \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 40,
+         "rawfrom": "Arnold, John \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 60,
+         "rawfrom": "Arnold, John \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/deleted_items/3",
+   "hops": [
+      {
+         "from": "styarger@hotmail.com",
+         "line": 4,
+         "rawfrom": "styarger@hotmail.com\r\n",
+         "source": "valid",
+         "to": "john.arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 24,
+         "rawfrom": "<John.Arnold@enron.com>\n",
+         "source": "email",
+         "to": "<styarger@hotmail.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 50,
+         "rawfrom": "<John.Arnold@enron.com>\n",
+         "source": "email",
+         "to": "<styarger@hotmail.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 101,
+         "rawfrom": "\"Arnold, John\" <John.Arnold@ENRON.com>\n",
+         "source": "email",
+         "to": "<styarger@hotmail.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/deleted_items/357",
+   "hops": [
+      {
+         "from": "ravi.thuraisingham@enron.com",
+         "line": 4,
+         "rawfrom": "ravi.thuraisingham@enron.com\r\n",
+         "source": "valid",
+         "to": "john.arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Thuraisingham, Ravi"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 54,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Thuraisingham, Ravi"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 91,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Thuraisingham, Ravi"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/deleted_items/690",
+   "hops": [
+      {
+         "from": "caroline.abramo@enron.com",
+         "line": 4,
+         "rawfrom": "caroline.abramo@enron.com\r\n",
+         "source": "valid",
+         "to": "john.arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 23,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Abramo, Caroline"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 42,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Abramo, Caroline"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 61,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Abramo, Caroline"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/deleted_items/767",
+   "hops": [
+      {
+         "from": "margaret.allen@enron.com",
+         "line": 4,
+         "rawfrom": "margaret.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "john.arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 22,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 38,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 54,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/deleted_items/78",
+   "hops": [
+      {
+         "from": "margaret.allen@enron.com",
+         "line": 4,
+         "rawfrom": "margaret.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "john.arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 22,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 38,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 54,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 75,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/deleted_items/79",
+   "hops": [
+      {
+         "from": "margaret.allen@enron.com",
+         "line": 4,
+         "rawfrom": "margaret.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "john.arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 22,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 38,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 59,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/deleted_items/82",
+   "hops": [
+      {
+         "from": "margaret.allen@enron.com",
+         "line": 4,
+         "rawfrom": "margaret.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "john.arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 22,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 38,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 54,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 70,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 86,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 107,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/deleted_items/84",
+   "hops": [
+      {
+         "from": "margaret.allen@enron.com",
+         "line": 4,
+         "rawfrom": "margaret.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "john.arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 22,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 38,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 54,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 70,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 86,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 102,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 123,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/deleted_items/87",
+   "hops": [
+      {
+         "from": "margaret.allen@enron.com",
+         "line": 4,
+         "rawfrom": "margaret.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "john.arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 22,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 38,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 54,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 70,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 86,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 102,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 118,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 134,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 155,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      }
+   ],
+   "skipped": 8
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/deleted_items/88",
+   "hops": [
+      {
+         "from": "margaret.allen@enron.com",
+         "line": 4,
+         "rawfrom": "margaret.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "john.arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 22,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 38,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 54,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 70,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 86,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 102,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 118,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 139,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      }
+   ],
+   "skipped": 7
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/deleted_items/89",
+   "hops": [
+      {
+         "from": "margaret.allen@enron.com",
+         "line": 4,
+         "rawfrom": "margaret.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "john.arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 22,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 38,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 54,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 70,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 91,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/discussion_threads/141",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "mike.maggi@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 24,
+         "rawfrom": "John Arnold/HOU/ECT on 10/23/2000 07:42 \n",
+         "source": "lookup",
+         "to": "John Arnold/HOU/ECT@ECT"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 36,
+         "rawfrom": "John Arnold\n",
+         "source": "lookup",
+         "to": "Jennifer Burns/HOU/ECT@ECT"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 58,
+         "rawfrom": "John Arnold\n",
+         "source": "lookup",
+         "to": "Jennifer Burns/HOU/ECT@ECT"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/human_resources/1",
+   "hops": [
+      {
+         "from": "trang.dinh@enron.com",
+         "line": 4,
+         "rawfrom": "trang.dinh@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer.medcalf@enron.com"
+      },
+      {
+         "from": "jennifer.medcalf@enron.com",
+         "line": 24,
+         "rawfrom": "JENNIFER MEDCALF@ENRON\n",
+         "source": "lookup",
+         "to": "Trang Dinh/HOU/ECT@ECT"
+      },
+      {
+         "from": "jennifer.medcalf@enron.com",
+         "line": 46,
+         "rawfrom": "JENNIFER MEDCALF@ENRON\n",
+         "source": "lookup",
+         "to": "Trang Dinh/HOU/ECT@ECT"
+      },
+      {
+         "from": "jennifer.medcalf@enron.com",
+         "line": 73,
+         "rawfrom": "JENNIFER MEDCALF@ENRON\n",
+         "source": "lookup",
+         "to": "Trang Dinh/HOU/ECT@ECT"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/inbox/150",
+   "hops": [
+      {
+         "from": "kristin.gandy@enron.com",
+         "line": 4,
+         "rawfrom": "kristin.gandy@enron.com\r\n",
+         "source": "valid",
+         "to": "john.arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Gandy, Kristin"
+      },
+      {
+         "from": "kristin.gandy@enron.com",
+         "line": 39,
+         "rawfrom": "\tGandy, Kristin  \n",
+         "source": "lookup",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 61,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Gandy, Kristin"
+      },
+      {
+         "from": "kristin.gandy@enron.com",
+         "line": 73,
+         "rawfrom": "\tGandy, Kristin  \n",
+         "source": "lookup",
+         "to": "Arnold, John"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/104",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "msagel@home.com"
+      },
+      {
+         "from": "msagel@home.com",
+         "line": 24,
+         "rawfrom": "\"Mark Sagel\" <msagel@home.com> on 10/17/2000 05:20:14 PM\n",
+         "source": "email",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 33,
+         "rawfrom": "<John.Arnold@enron.com>\n",
+         "source": "email",
+         "to": "<msagel@home.com>"
+      },
+      {
+         "from": "msagel@home.com",
+         "line": 47,
+         "rawfrom": "\"Mark Sagel\" <msagel@home.com> on 10/17/2000 04:34:56 PM\n",
+         "source": "email",
+         "to": "\"John Arnold\" <jarnold@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/145",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "msagel@home.com"
+      },
+      {
+         "from": "msagel@home.com",
+         "line": 29,
+         "rawfrom": "\"Mark Sagel\" <msagel@home.com> on 10/04/2000 02:55:41 PM\n",
+         "source": "email",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 47,
+         "rawfrom": "<John.Arnold@enron.com>\n",
+         "source": "email",
+         "to": "<msagel@home.com>"
+      },
+      {
+         "from": "msagel@home.com",
+         "line": 63,
+         "rawfrom": "\"Mark Sagel\" <msagel@home.com> on 10/03/2000 02:29:47 PM\n",
+         "source": "email",
+         "to": "\"John Arnold\" <jarnold@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/171",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 23,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 09/25/2000 06:09:01 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 47,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 09/01/2000 09:02:04 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 78,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 01:20:05 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 134,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 10:10:09 AM\n",
+         "source": "email",
+         "to": "john.arnold@enron.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/178",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 23,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 09/01/2000 09:02:04 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 54,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 01:20:05 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 110,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 10:10:09 AM\n",
+         "source": "email",
+         "to": "john.arnold@enron.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/229",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "athomas1@dellnet.com"
+      },
+      {
+         "from": "athomas1@dellnet.com",
+         "line": 23,
+         "rawfrom": "\"Andrew Thomas\" <athomas1@dellnet.com> on 08/28/2000 01:42:25 PM\n",
+         "source": "email",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 33,
+         "rawfrom": "<John.Arnold@enron.com>\n",
+         "source": "email",
+         "to": "<athomas1@dellnet.com>"
+      },
+      {
+         "from": "athomas1@dellnet.com",
+         "line": 48,
+         "rawfrom": "\"Andrew Thomas\" <athomas1@dellnet.com> on 08/25/2000 02:02:59 PM\n",
+         "source": "email",
+         "to": "<Matthew.Arnold@enron.com>, <john.arnold@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/301",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "per.sekse@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 39,
+         "rawfrom": "John Arnold\n",
+         "source": "lookup",
+         "to": "Per Sekse/NY/ECT@ECT"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 63,
+         "rawfrom": "John Arnold\n",
+         "source": "lookup",
+         "to": "Per Sekse/NY/ECT@ECT"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 73,
+         "rawfrom": "John Arnold/HOU/ECT on 06/26/2000 04:17 \n",
+         "source": "lookup",
+         "to": "\"'jarnold@enron.com'\" <jarnold@enron.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/398",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 24,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 49,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 83,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 112,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/400",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 24,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 58,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 87,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/404",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 24,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 50,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 76,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 103,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 127,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<jarnold@enron.com>"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/406",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 24,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 48,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 72,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/412",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 25,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 51,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 78,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 102,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<jarnold@enron.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/415",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 24,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 51,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 75,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<jarnold@enron.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/438",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "kim.ward@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 31,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 47,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 64,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 81,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 99,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/439",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "kim.ward@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 47,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 64,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 82,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/440",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "kim.ward@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 31,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 48,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 66,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/495",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer.fraser@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 34,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 54,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 74,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 123,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/500",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer.fraser@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 34,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 54,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 103,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/570",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 33,
+         "rawfrom": "slafontaine@globalp.com on 03/25/2001 08:16:26 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 46,
+         "rawfrom": "John.Arnold@enron.com on 03/25/2001 07:30:38 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 77,
+         "rawfrom": "slafontaine@globalp.com on 03/23/2001 01:44:10 PM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/583",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 43,
+         "rawfrom": "slafontaine@globalp.com on 03/20/2001 03:21:41 PM\r\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 82,
+         "rawfrom": "John.Arnold@enron.com on 03/20/2001 04:06:55 PM\r\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 106,
+         "rawfrom": "slafontaine@globalp.com on 03/20/2001 10:48:43 AM\r\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      },
+      {
+         "from": "steve lafontaine@bankofamerica.com",
+         "line": 121,
+         "rawfrom": "Steve LaFontaine/GlobalCo on 03/20/2001\r\n",
+         "source": "lookup",
+         "to": "Scsotc@aol.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/596",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 23,
+         "rawfrom": "slafontaine@globalp.com on 03/15/2001 08:31:31 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 41,
+         "rawfrom": "John.Arnold@enron.com on 03/15/2001 09:27:09 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 58,
+         "rawfrom": "slafontaine@globalp.com on 03/15/2001 08:17:02 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/597",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 27,
+         "rawfrom": "slafontaine@globalp.com on 03/15/2001 08:31:31 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 45,
+         "rawfrom": "John.Arnold@enron.com on 03/15/2001 09:27:09 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 62,
+         "rawfrom": "slafontaine@globalp.com on 03/15/2001 08:17:02 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/624",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 29,
+         "rawfrom": "slafontaine@globalp.com on 03/06/2001 10:22:18 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 47,
+         "rawfrom": "John.Arnold@enron.com on 03/06/2001 10:51:13 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 64,
+         "rawfrom": "slafontaine@globalp.com on 03/06/2001 09:15:40 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/636",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 45,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 10:54:14 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 68,
+         "rawfrom": "John.Arnold@enron.com on 03/02/2001 11:44:50 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 87,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 10:25:45 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 107,
+         "rawfrom": "John.Arnold@enron.com on 03/02/2001 11:22:30 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 124,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 08:54:44 AM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/638",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 26,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 10:25:45 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 43,
+         "rawfrom": "John.Arnold@enron.com on 03/02/2001 11:22:30 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 60,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 08:54:44 AM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/643",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 26,
+         "rawfrom": "slafontaine@globalp.com on 02/28/2001 08:03:43 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 48,
+         "rawfrom": "John.Arnold@enron.com on 02/27/2001 11:05:40 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 69,
+         "rawfrom": "slafontaine@globalp.com on 02/27/2001 08:12:32 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 102,
+         "rawfrom": "John.Arnold@enron.com on 02/27/2001 08:23:22 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 135,
+         "rawfrom": "slafontaine@globalp.com on 02/26/2001 04:48:06 PM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/646",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 28,
+         "rawfrom": "slafontaine@globalp.com on 02/27/2001 08:12:32 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 57,
+         "rawfrom": "John.Arnold@enron.com on 02/27/2001 08:23:22 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 90,
+         "rawfrom": "slafontaine@globalp.com on 02/26/2001 04:48:06 PM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/69",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "margaret.allen@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 34,
+         "rawfrom": "John Arnold@ECT\n",
+         "source": "lookup",
+         "to": "Margaret Allen/Corp/Enron@ENRON"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 61,
+         "rawfrom": "John Arnold@ECT\n",
+         "source": "lookup",
+         "to": "Margaret Allen/Corp/Enron@ENRON"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 91,
+         "rawfrom": "John Arnold@ECT\n",
+         "source": "lookup",
+         "to": "Margaret Allen/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/714",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 29,
+         "rawfrom": "slafontaine@globalp.com on 02/06/2001 11:19:45 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 43,
+         "rawfrom": "John.Arnold@enron.com on 02/06/2001 11:59:31 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 64,
+         "rawfrom": "slafontaine@globalp.com on 02/06/2001 07:24:43 AM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      },
+      {
+         "from": "steve lafontaine@bankofamerica.com",
+         "line": 78,
+         "rawfrom": "Steve LaFontaine/GlobalCo on 02/06/2001\n",
+         "source": "lookup",
+         "to": "soblander@carrfut.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/722",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 25,
+         "rawfrom": "slafontaine@globalp.com on 02/05/2001 06:59:36 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 44,
+         "rawfrom": "John.Arnold@enron.com on 02/04/2001 10:13:24 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 75,
+         "rawfrom": "slafontaine@globalp.com on 01/31/2001 04:47:22 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 107,
+         "rawfrom": "John.Arnold@enron.com on 01/31/2001 05:41:45 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 124,
+         "rawfrom": "slafontaine@globalp.com on 01/31/2001 12:40:07 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/725",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 38,
+         "rawfrom": "slafontaine@globalp.com on 01/31/2001 04:47:22 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 67,
+         "rawfrom": "John.Arnold@enron.com on 01/31/2001 05:41:45 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 84,
+         "rawfrom": "slafontaine@globalp.com on 01/31/2001 12:40:07 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/86",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "mike.maggi@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 24,
+         "rawfrom": "John Arnold/HOU/ECT on 10/23/2000 07:42 \n",
+         "source": "lookup",
+         "to": "John Arnold/HOU/ECT@ECT"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 36,
+         "rawfrom": "John Arnold\n",
+         "source": "lookup",
+         "to": "Jennifer Burns/HOU/ECT@ECT"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 58,
+         "rawfrom": "John Arnold\n",
+         "source": "lookup",
+         "to": "Jennifer Burns/HOU/ECT@ECT"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent/9",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 25,
+         "rawfrom": "slafontaine@globalp.com on 12/12/2000 03:22:07 PM\n",
+         "source": "email",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "steve lafontaine@bankofamerica.com",
+         "line": 41,
+         "rawfrom": "Steve LaFontaine\n",
+         "source": "lookup",
+         "to": "jarnold@enron.com"
+      },
+      {
+         "from": "steve lafontaine@bankofamerica.com",
+         "line": 62,
+         "rawfrom": "Steve LaFontaine\n",
+         "source": "lookup",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/103",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer.fraser@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 34,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 54,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 74,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 111,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/108",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer.fraser@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 34,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 54,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 91,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/12",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 24,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 50,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 76,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 103,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 127,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<jarnold@enron.com>"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/133",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "steve.lafontaine@bankofamerica.com"
+      },
+      {
+         "from": "steve lafontaine@bankofamerica.com",
+         "line": 22,
+         "rawfrom": "\t\"Lafontaine, Steve\" <steve.lafontaine@bankofamerica.com>@ENRON [mailto:IMCEANOTES-+22Lafontaine+2C+20Steve+22+20+3Csteve+2Elafontaine+40bankofamerica+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "lookup",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "steve lafontaine@bankofamerica.com",
+         "line": 49,
+         "rawfrom": "  \"Lafontaine, Steve\" <steve.lafontaine@bankofamerica.com>@ENRON\n",
+         "source": "lookup",
+         "to": "jarnold@enron.com"
+      },
+      {
+         "from": "steve lafontaine@bankofamerica.com",
+         "line": 69,
+         "rawfrom": "     LaFontaine, Steve\n",
+         "source": "lookup",
+         "to": "'rpetrol@aol.com'"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/135",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "steve.lafontaine@bankofamerica.com"
+      },
+      {
+         "from": "steve lafontaine@bankofamerica.com",
+         "line": 22,
+         "rawfrom": "\t\"Lafontaine, Steve\" <steve.lafontaine@bankofamerica.com>@ENRON [mailto:IMCEANOTES-+22Lafontaine+2C+20Steve+22+20+3Csteve+2Elafontaine+40bankofamerica+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "lookup",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "steve lafontaine@bankofamerica.com",
+         "line": 61,
+         "rawfrom": "  \"Lafontaine, Steve\" <steve.lafontaine@bankofamerica.com>@ENRON\n",
+         "source": "lookup",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "steve.lafontaine@bankofamerica.com",
+         "line": 94,
+         "rawfrom": "  \"Lafontaine, Steve\" <steve.lafontaine@bankofamerica.com>\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      },
+      {
+         "from": "steve lafontaine@bankofamerica.com",
+         "line": 115,
+         "rawfrom": "     LaFontaine, Steve\n",
+         "source": "lookup",
+         "to": "'rpetrol@aol.com'"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/14",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 24,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 48,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 72,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/157",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 22,
+         "rawfrom": "\t\"Eva Pao\" <epao@mba2002.hbs.edu>@ENRON [mailto:IMCEANOTES-+22Eva+20Pao+22+20+3Cepao+40mba2002+2Ehbs+2Eedu+3E+40ENRON@ENRON.com] \n",
+         "source": "lookup",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 31,
+         "rawfrom": "Arnold, John [mailto:John.Arnold@enron.com]\n",
+         "source": "lookup",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 42,
+         "rawfrom": "\t\"Eva Pao\" <epao@mba2002.hbs.edu>@ENRON\n",
+         "source": "lookup",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 66,
+         "rawfrom": "  epao@mba2002.hbs.edu@ENRON\n",
+         "source": "lookup",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/172",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer.fraser@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 29,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 44,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 59,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/193",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 22,
+         "rawfrom": "\t\"Eva Pao\" <epao@mba2002.hbs.edu>@ENRON [mailto:IMCEANOTES-+22Eva+20Pao+22+20+3Cepao+40mba2002+2Ehbs+2Eedu+3E+40ENRON@ENRON.com] \n",
+         "source": "lookup",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": "Arnold, John [mailto:John.Arnold@enron.com]\n",
+         "source": "lookup",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 41,
+         "rawfrom": "\t\"Eva Pao\" <epao@mba2002.hbs.edu>@ENRON\n",
+         "source": "lookup",
+         "to": "John Arnold"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/195",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 22,
+         "rawfrom": "\t\"Eva Pao\" <epao@mba2002.hbs.edu>@ENRON [mailto:IMCEANOTES-+22Eva+20Pao+22+20+3Cepao+40mba2002+2Ehbs+2Eedu+3E+40ENRON@ENRON.com] \n",
+         "source": "lookup",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 31,
+         "rawfrom": "Arnold, John [mailto:John.Arnold@enron.com]\n",
+         "source": "lookup",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 43,
+         "rawfrom": "\t\"Eva Pao\" <epao@mba2002.hbs.edu>@ENRON\n",
+         "source": "lookup",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 51,
+         "rawfrom": "Arnold, John [mailto:John.Arnold@enron.com]\n",
+         "source": "lookup",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 63,
+         "rawfrom": "\t\"Eva Pao\" <epao@mba2002.hbs.edu>@ENRON\n",
+         "source": "lookup",
+         "to": "John Arnold"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/20",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 25,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 51,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 78,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 102,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<jarnold@enron.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/213",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "s..ward@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 31,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 47,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 65,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/23",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 24,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 51,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 75,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<jarnold@enron.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/236",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer.fraser@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 29,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 44,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 59,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/240",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "houston <.ward@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 32,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S (Houston)"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 48,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S (Houston)"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 64,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S (Houston)"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/241",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "houston <.ward@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S (Houston)"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 48,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S (Houston)"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 64,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S (Houston)"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 80,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S (Houston)"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/266",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 22,
+         "rawfrom": "\t\"Eva Pao\" <epao@mba2002.hbs.edu>@ENRON [mailto:IMCEANOTES-+22Eva+20Pao+22+20+3Cepao+40mba2002+2Ehbs+2Eedu+3E+40ENRON@ENRON.com] \n",
+         "source": "lookup",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 35,
+         "rawfrom": "Arnold, John [mailto:John.Arnold@enron.com]\n",
+         "source": "lookup",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 54,
+         "rawfrom": "\t\"Eva Pao\" <epao@mba2002.hbs.edu>@ENRON\n",
+         "source": "lookup",
+         "to": "John Arnold"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/267",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 22,
+         "rawfrom": "\t\"Eva Pao\" <epao@mba2002.hbs.edu>@ENRON [mailto:IMCEANOTES-+22Eva+20Pao+22+20+3Cepao+40mba2002+2Ehbs+2Eedu+3E+40ENRON@ENRON.com] \n",
+         "source": "lookup",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": "Arnold, John  [mailto:John.Arnold@enron.com]\n",
+         "source": "lookup",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 36,
+         "rawfrom": "\"Eva Pao\"  <epao@mba2002.hbs.edu>@ENRON \n",
+         "source": "lookup",
+         "to": "John Arnold"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/274",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 22,
+         "rawfrom": "\tepao@mba2002.hbs.edu@ENRON [mailto:IMCEANOTES-epao+40mba2002+2Ehbs+2Eedu+40ENRON@ENRON.com] \n",
+         "source": "lookup",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 61,
+         "rawfrom": "\t\"Eva Pao\" <epao@mba2002.hbs.edu>@ENRON\n",
+         "source": "lookup",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 77,
+         "rawfrom": "Arnold, John [mailto:John.Arnold@enron.com]\n",
+         "source": "lookup",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 98,
+         "rawfrom": "\t\"Eva Pao\" <epao@mba2002.hbs.edu>@ENRON\n",
+         "source": "lookup",
+         "to": "John Arnold"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/287",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "c..gossett@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 33,
+         "rawfrom": "Arnold, John \n",
+         "source": "lookup",
+         "to": "Gossett, Jeffrey C."
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 43,
+         "rawfrom": "\"Robertson, Heather\" <HRobertson@cloughcapital.com>@ENRON \n",
+         "source": "lookup",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 125,
+         "rawfrom": "  \"Robertson, Heather\" <HRobertson@cloughcapital.com>@ENRON\n",
+         "source": "lookup",
+         "to": "Arnold, John"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/306",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "houston <.ward@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 32,
+         "rawfrom": "Arnold, John \n",
+         "source": "lookup",
+         "to": "Ward, Kim S (Houston)"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 52,
+         "rawfrom": "Arnold, John \n",
+         "source": "lookup",
+         "to": "Ward, Kim S (Houston)"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 71,
+         "rawfrom": "  Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S (Houston)"
+      }
+   ],
+   "skipped": 7
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/314",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "houston <.ward@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 31,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S (Houston)"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 47,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S (Houston)"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 64,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S (Houston)"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/315",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "houston <.ward@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S (Houston)"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 47,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S (Houston)"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 63,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S (Houston)"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 80,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S (Houston)"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/316",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "houston <.ward@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S (Houston)"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 46,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S (Houston)"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 63,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S (Houston)"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 79,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S (Houston)"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 96,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S (Houston)"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/372",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer.fraser@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 33,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 49,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 65,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/46",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "kim.ward@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 46,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 62,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 78,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 94,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/468",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "houston <.ward@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S (Houston)"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 46,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S (Houston)"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 63,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S (Houston)"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/47",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "kim.ward@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 46,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 62,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 78,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/470",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "buckner.thomas@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Thomas, John Buckner"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 46,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Thomas, John Buckner"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 62,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Thomas, John Buckner"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/474",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "styarger@hotmail.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": "<John.Arnold@enron.com>\n",
+         "source": "email",
+         "to": "<styarger@hotmail.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 56,
+         "rawfrom": "<John.Arnold@enron.com>\n",
+         "source": "email",
+         "to": "<styarger@hotmail.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 107,
+         "rawfrom": "\"Arnold, John\" <John.Arnold@ENRON.com>\n",
+         "source": "email",
+         "to": "<styarger@hotmail.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/48",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "kim.ward@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 46,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 62,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/495",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "margaret.allen@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 46,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 67,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/496",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "margaret.allen@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 46,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 62,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 83,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/498",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "margaret.allen@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 46,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 62,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 78,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 99,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/499",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "margaret.allen@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 46,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 62,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 78,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 94,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 115,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/500",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "margaret.allen@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 46,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 62,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 78,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 94,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 110,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 131,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      }
+   ],
+   "skipped": 7
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/501",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "margaret.allen@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 46,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 62,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 78,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 94,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 110,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 126,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 147,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      }
+   ],
+   "skipped": 8
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/520",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "margaret.allen@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 46,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 62,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Allen, Margaret"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/6",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 24,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 49,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 83,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 112,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/795",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "kristin.gandy@enron.com"
+      },
+      {
+         "from": "kristin.gandy@enron.com",
+         "line": 22,
+         "rawfrom": "\tGandy, Kristin  \n",
+         "source": "lookup",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 40,
+         "rawfrom": "\tArnold, John  \n",
+         "source": "lookup",
+         "to": "Gandy, Kristin"
+      },
+      {
+         "from": "kristin.gandy@enron.com",
+         "line": 52,
+         "rawfrom": "\tGandy, Kristin  \n",
+         "source": "lookup",
+         "to": "Arnold, John"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sent_items/8",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 24,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 58,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 87,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/sony/2",
+   "hops": [
+      {
+         "from": "trey.comiskey@enron.com",
+         "line": 4,
+         "rawfrom": "trey.comiskey@enron.com\r\n",
+         "source": "valid",
+         "to": "brien@am.sony.com, jennifer.medcalf@enron.com"
+      },
+      {
+         "from": "trey.comiskey@enron.com",
+         "line": 28,
+         "rawfrom": " Trey Comiskey                           12/11/2000 09:04 AM\n",
+         "source": "lookup",
+         "to": "\"Cooper, Kenneth\" <Kenneth.Cooper@am.sony.com> @ ENRON"
+      },
+      {
+         "from": "kenneth.cooper@am.sony.com",
+         "line": 42,
+         "rawfrom": "\"Cooper, Kenneth\" <Kenneth.Cooper@am.sony.com> on 12/08/2000 04:49:45 PM\n",
+         "source": "email",
+         "to": "\"'tcomisk@enron.com'\" <tcomisk@enron.com>"
+      },
+      {
+         "from": "tcomisk@enron.com",
+         "line": 52,
+         "rawfrom": "tcomisk@enron.com [mailto:tcomisk@enron.com]\n",
+         "source": "lookup",
+         "to": "Kenneth.Cooper@am.sony.com"
+      },
+      {
+         "from": "kenneth.cooper@am.sony.com",
+         "line": 72,
+         "rawfrom": "\"Cooper, Kenneth\" <Kenneth.Cooper@am.sony.com> on 12/06/2000 03:37:42 PM\n",
+         "source": "email",
+         "to": "\"'Trey Comiskey'\" <trey.comiskey@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/102",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "msagel@home.com"
+      },
+      {
+         "from": "msagel@home.com",
+         "line": 24,
+         "rawfrom": "\"Mark Sagel\" <msagel@home.com> on 10/17/2000 05:20:14 PM\n",
+         "source": "email",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 33,
+         "rawfrom": "<John.Arnold@enron.com>\n",
+         "source": "email",
+         "to": "<msagel@home.com>"
+      },
+      {
+         "from": "msagel@home.com",
+         "line": 47,
+         "rawfrom": "\"Mark Sagel\" <msagel@home.com> on 10/17/2000 04:34:56 PM\n",
+         "source": "email",
+         "to": "\"John Arnold\" <jarnold@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/143",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "msagel@home.com"
+      },
+      {
+         "from": "msagel@home.com",
+         "line": 29,
+         "rawfrom": "\"Mark Sagel\" <msagel@home.com> on 10/04/2000 02:55:41 PM\n",
+         "source": "email",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 47,
+         "rawfrom": "<John.Arnold@enron.com>\n",
+         "source": "email",
+         "to": "<msagel@home.com>"
+      },
+      {
+         "from": "msagel@home.com",
+         "line": 63,
+         "rawfrom": "\"Mark Sagel\" <msagel@home.com> on 10/03/2000 02:29:47 PM\n",
+         "source": "email",
+         "to": "\"John Arnold\" <jarnold@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/169",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 23,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 09/25/2000 06:09:01 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 47,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 09/01/2000 09:02:04 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 78,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 01:20:05 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 134,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 10:10:09 AM\n",
+         "source": "email",
+         "to": "john.arnold@enron.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/176",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 23,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 09/01/2000 09:02:04 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 54,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 01:20:05 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 110,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 10:10:09 AM\n",
+         "source": "email",
+         "to": "john.arnold@enron.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/227",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "athomas1@dellnet.com"
+      },
+      {
+         "from": "athomas1@dellnet.com",
+         "line": 23,
+         "rawfrom": "\"Andrew Thomas\" <athomas1@dellnet.com> on 08/28/2000 01:42:25 PM\n",
+         "source": "email",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 33,
+         "rawfrom": "<John.Arnold@enron.com>\n",
+         "source": "email",
+         "to": "<athomas1@dellnet.com>"
+      },
+      {
+         "from": "athomas1@dellnet.com",
+         "line": 48,
+         "rawfrom": "\"Andrew Thomas\" <athomas1@dellnet.com> on 08/25/2000 02:02:59 PM\n",
+         "source": "email",
+         "to": "<Matthew.Arnold@enron.com>, <john.arnold@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/299",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "per.sekse@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 39,
+         "rawfrom": "John Arnold\n",
+         "source": "lookup",
+         "to": "Per Sekse/NY/ECT@ECT"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 63,
+         "rawfrom": "John Arnold\n",
+         "source": "lookup",
+         "to": "Per Sekse/NY/ECT@ECT"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 73,
+         "rawfrom": "John Arnold/HOU/ECT on 06/26/2000 04:17 \n",
+         "source": "lookup",
+         "to": "\"'jarnold@enron.com'\" <jarnold@enron.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/396",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 24,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 49,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 83,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 112,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/398",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 24,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 58,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 87,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/402",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 24,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 50,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 76,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 103,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 127,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<jarnold@enron.com>"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/404",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 24,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 48,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 72,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/410",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 25,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 51,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 78,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 102,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<jarnold@enron.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/413",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 24,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 51,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "epao@mba2002.hbs.edu",
+         "line": 75,
+         "rawfrom": "epao@mba2002.hbs.edu",
+         "source": "lookup",
+         "to": "<jarnold@enron.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/434",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "kim.ward@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 31,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 47,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 64,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 81,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 99,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/435",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "kim.ward@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 47,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 64,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 82,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/436",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "kim.ward@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 31,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 48,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 66,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Ward, Kim S."
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/491",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer.fraser@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 34,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 54,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 74,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 123,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/496",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer.fraser@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 34,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 54,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 103,
+         "rawfrom": " Arnold, John  \n",
+         "source": "lookup",
+         "to": "Fraser, Jennifer"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/566",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 33,
+         "rawfrom": "slafontaine@globalp.com on 03/25/2001 08:16:26 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 46,
+         "rawfrom": "John.Arnold@enron.com on 03/25/2001 07:30:38 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 77,
+         "rawfrom": "slafontaine@globalp.com on 03/23/2001 01:44:10 PM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/579",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 43,
+         "rawfrom": "slafontaine@globalp.com on 03/20/2001 03:21:41 PM\r\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 82,
+         "rawfrom": "John.Arnold@enron.com on 03/20/2001 04:06:55 PM\r\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 106,
+         "rawfrom": "slafontaine@globalp.com on 03/20/2001 10:48:43 AM\r\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      },
+      {
+         "from": "steve lafontaine@bankofamerica.com",
+         "line": 121,
+         "rawfrom": "Steve LaFontaine/GlobalCo on 03/20/2001\r\n",
+         "source": "lookup",
+         "to": "Scsotc@aol.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/592",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 23,
+         "rawfrom": "slafontaine@globalp.com on 03/15/2001 08:31:31 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 41,
+         "rawfrom": "John.Arnold@enron.com on 03/15/2001 09:27:09 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 58,
+         "rawfrom": "slafontaine@globalp.com on 03/15/2001 08:17:02 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/593",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 27,
+         "rawfrom": "slafontaine@globalp.com on 03/15/2001 08:31:31 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 45,
+         "rawfrom": "John.Arnold@enron.com on 03/15/2001 09:27:09 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 62,
+         "rawfrom": "slafontaine@globalp.com on 03/15/2001 08:17:02 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/620",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 29,
+         "rawfrom": "slafontaine@globalp.com on 03/06/2001 10:22:18 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 47,
+         "rawfrom": "John.Arnold@enron.com on 03/06/2001 10:51:13 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 64,
+         "rawfrom": "slafontaine@globalp.com on 03/06/2001 09:15:40 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/632",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 45,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 10:54:14 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 68,
+         "rawfrom": "John.Arnold@enron.com on 03/02/2001 11:44:50 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 87,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 10:25:45 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 107,
+         "rawfrom": "John.Arnold@enron.com on 03/02/2001 11:22:30 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 124,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 08:54:44 AM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/634",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 26,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 10:25:45 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 43,
+         "rawfrom": "John.Arnold@enron.com on 03/02/2001 11:22:30 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 60,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 08:54:44 AM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/639",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 26,
+         "rawfrom": "slafontaine@globalp.com on 02/28/2001 08:03:43 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 48,
+         "rawfrom": "John.Arnold@enron.com on 02/27/2001 11:05:40 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 69,
+         "rawfrom": "slafontaine@globalp.com on 02/27/2001 08:12:32 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 102,
+         "rawfrom": "John.Arnold@enron.com on 02/27/2001 08:23:22 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 135,
+         "rawfrom": "slafontaine@globalp.com on 02/26/2001 04:48:06 PM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/642",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 28,
+         "rawfrom": "slafontaine@globalp.com on 02/27/2001 08:12:32 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 57,
+         "rawfrom": "John.Arnold@enron.com on 02/27/2001 08:23:22 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 90,
+         "rawfrom": "slafontaine@globalp.com on 02/26/2001 04:48:06 PM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/67",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "margaret.allen@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 34,
+         "rawfrom": "John Arnold@ECT\n",
+         "source": "lookup",
+         "to": "Margaret Allen/Corp/Enron@ENRON"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 61,
+         "rawfrom": "John Arnold@ECT\n",
+         "source": "lookup",
+         "to": "Margaret Allen/Corp/Enron@ENRON"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 91,
+         "rawfrom": "John Arnold@ECT\n",
+         "source": "lookup",
+         "to": "Margaret Allen/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/7",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 25,
+         "rawfrom": "slafontaine@globalp.com on 12/12/2000 03:22:07 PM\n",
+         "source": "email",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "steve lafontaine@bankofamerica.com",
+         "line": 41,
+         "rawfrom": "Steve LaFontaine\n",
+         "source": "lookup",
+         "to": "jarnold@enron.com"
+      },
+      {
+         "from": "steve lafontaine@bankofamerica.com",
+         "line": 62,
+         "rawfrom": "Steve LaFontaine\n",
+         "source": "lookup",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/710",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 29,
+         "rawfrom": "slafontaine@globalp.com on 02/06/2001 11:19:45 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 43,
+         "rawfrom": "John.Arnold@enron.com on 02/06/2001 11:59:31 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 64,
+         "rawfrom": "slafontaine@globalp.com on 02/06/2001 07:24:43 AM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      },
+      {
+         "from": "steve lafontaine@bankofamerica.com",
+         "line": 78,
+         "rawfrom": "Steve LaFontaine/GlobalCo on 02/06/2001\n",
+         "source": "lookup",
+         "to": "soblander@carrfut.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/718",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 25,
+         "rawfrom": "slafontaine@globalp.com on 02/05/2001 06:59:36 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 44,
+         "rawfrom": "John.Arnold@enron.com on 02/04/2001 10:13:24 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 75,
+         "rawfrom": "slafontaine@globalp.com on 01/31/2001 04:47:22 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 107,
+         "rawfrom": "John.Arnold@enron.com on 01/31/2001 05:41:45 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 124,
+         "rawfrom": "slafontaine@globalp.com on 01/31/2001 12:40:07 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/721",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 38,
+         "rawfrom": "slafontaine@globalp.com on 01/31/2001 04:47:22 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 67,
+         "rawfrom": "John.Arnold@enron.com on 01/31/2001 05:41:45 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 84,
+         "rawfrom": "slafontaine@globalp.com on 01/31/2001 12:40:07 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arnold-j/_sent_mail/84",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "mike.maggi@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 24,
+         "rawfrom": "John Arnold/HOU/ECT on 10/23/2000 07:42 \n",
+         "source": "lookup",
+         "to": "John Arnold/HOU/ECT@ECT"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 36,
+         "rawfrom": "John Arnold\n",
+         "source": "lookup",
+         "to": "Jennifer Burns/HOU/ECT@ECT"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 58,
+         "rawfrom": "John Arnold\n",
+         "source": "lookup",
+         "to": "Jennifer Burns/HOU/ECT@ECT"
+      }
+   ],
+   "skipped": 2
+}
+]

@@ -1,0 +1,71 @@
+[
+{
+   "file": "EnronTest/EnronTest/arora-h/all_documents/20",
+   "hops": [
+      {
+         "from": "eileen.buerkert@enron.com",
+         "line": 4,
+         "rawfrom": "eileen.buerkert@enron.com\r\n",
+         "source": "valid",
+         "to": "harry.arora@enron.com"
+      },
+      {
+         "from": "harry.arora@enron.com",
+         "line": 30,
+         "rawfrom": "Harry Arora@ECT\n",
+         "source": "lookup",
+         "to": "Eileen Buerkert/NA/Enron@Enron, Barbara Lewis/HOU/ECT@ECT, Heather"
+      },
+      {
+         "from": "barbara.lewis@enron.com",
+         "line": 51,
+         "rawfrom": " Barbara Lewis                           12/18/2000 02:17 PM\n",
+         "source": "lookup",
+         "to": "Harry Arora/HOU/ECT@ECT"
+      },
+      {
+         "from": "barbara.lewis@enron.com",
+         "line": 63,
+         "rawfrom": "Barbara Lewis/HOU/ECT on 12/18/2000 02:14 \n",
+         "source": "lookup",
+         "to": "Heather Alon/HOU/ECT@ECT, Barbara Lewis/HOU/ECT@ECT"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/arora-h/savedmail/30",
+   "hops": [
+      {
+         "from": "eileen.buerkert@enron.com",
+         "line": 4,
+         "rawfrom": "eileen.buerkert@enron.com\r\n",
+         "source": "valid",
+         "to": "harry.arora@enron.com"
+      },
+      {
+         "from": "harry.arora@enron.com",
+         "line": 30,
+         "rawfrom": "Harry Arora@ECT\n",
+         "source": "lookup",
+         "to": "Eileen Buerkert/NA/Enron@Enron, Barbara Lewis/HOU/ECT@ECT, Heather"
+      },
+      {
+         "from": "barbara.lewis@enron.com",
+         "line": 51,
+         "rawfrom": " Barbara Lewis                           12/18/2000 02:17 PM\n",
+         "source": "lookup",
+         "to": "Harry Arora/HOU/ECT@ECT"
+      },
+      {
+         "from": "barbara.lewis@enron.com",
+         "line": 63,
+         "rawfrom": "Barbara Lewis/HOU/ECT on 12/18/2000 02:14 \n",
+         "source": "lookup",
+         "to": "Heather Alon/HOU/ECT@ECT, Barbara Lewis/HOU/ECT@ECT"
+      }
+   ],
+   "skipped": 0
+}
+]

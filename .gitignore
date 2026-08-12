@@ -1,0 +1,6 @@
+EnronTest/
+EnronTest.zip
+__pycache__/
+*.pyc
+*.pyo
+node_modules/
