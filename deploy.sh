@@ -19,7 +19,7 @@ npx grunt copy --quiet
 # Rebuild users.txt from whatever JSON files are present
 echo "Rebuilding users.txt..."
 ls web/data/threads-*.json 2>/dev/null \
-    | sed 's|.*/web/data/||' > web/data/users.txt
+    | sed 's|.*/||' > web/data/users.txt
 USER_COUNT="$(wc -l < web/data/users.txt)"
 echo "  ${USER_COUNT} user mailboxes"
 
