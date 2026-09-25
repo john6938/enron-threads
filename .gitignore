@@ -1,5 +1,8 @@
 EnronTest/
-EnronTest.zip
+*.zip
+*.rar
+*.tar.gz
+*.tgz
 __pycache__/
 *.pyc
 *.pyo
