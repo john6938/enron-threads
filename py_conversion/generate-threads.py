@@ -108,6 +108,10 @@ def main():
                         if emails:
                             from_ = emails[0][1]
                             break
+                    # If still no email and the To: line had inline sender text,
+                    # pass that text through the outer name-lookup block
+                    if not from_ and before:
+                        from_ = flast[-1]
             line = re.sub(r'^.*To:\s*', '', line)
             line = re.sub(r'\s*$', '', line)
             rawfrom = from_ if from_ else None
