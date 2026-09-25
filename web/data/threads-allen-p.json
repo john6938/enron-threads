@@ -1,594 +1,48 @@
 [
 {
-   "file": "EnronTest/EnronTest/allen-p/all_documents/149",
+   "file": "EnronTest/EnronTest/allen-p/_sent_mail/151",
    "hops": [
       {
          "from": "phillip.allen@enron.com",
          "line": 4,
          "rawfrom": "phillip.allen@enron.com\r\n",
          "source": "valid",
-         "to": "ina.rangel@enron.com"
+         "to": "thomas.martin@enron.com, mike.grigsby@enron.com, keith.holst@enron.com,"
       },
       {
          "from": "phillip.k.allen@enron.com",
          "line": 24,
-         "rawfrom": "Phillip K Allen/HOU/ECT on 09/05/2000 \n",
+         "rawfrom": "Phillip K Allen/HOU/ECT on 09/06/2000 \n",
          "source": "lookup",
-         "to": "<Phillip.K.Allen@enron.com>"
+         "to": "Phillip K Allen/HOU/ECT@ECT"
       },
       {
-         "from": "christi.smith@lrinet.com",
-         "line": 42,
-         "rawfrom": "Christi Smith [mailto:christi.smith@lrinet.com]\n",
+         "from": "jeff.richter@enron.com",
+         "line": 31,
+         "rawfrom": "Jeff Richter/HOU/ECT on 09/06/2000 09:45 \n",
          "source": "lookup",
-         "to": "'Phillip.K.Allen@enron.com'"
+         "to": "Mike Swerzbin/HOU/ECT@ECT, Robert Badeer/HOU/ECT@ECT, Sean"
       },
       {
-         "from": "phillip.k.allen@enron.com",
-         "line": 76,
-         "rawfrom": "Phillip K Allen [mailto:Phillip.K.Allen@enron.com]\n",
+         "from": "kevin.presto@enron.com",
+         "line": 47,
+         "rawfrom": " Kevin M Presto                           09/05/2000 01:59 PM\n",
          "source": "lookup",
-         "to": "debe@fsddatasvc.com"
-      }
-   ],
-   "skipped": 0
-}
-,
-{
-   "file": "EnronTest/EnronTest/allen-p/all_documents/435",
-   "hops": [
-      {
-         "from": "phillip.allen@enron.com",
-         "line": 4,
-         "rawfrom": "phillip.allen@enron.com\r\n",
-         "source": "valid",
-         "to": "scsatkfa@caprock.net"
+         "to": "Tim Belden/HOU/ECT@ECT"
       },
       {
-         "from": "phillip.k.allen@enron.com",
-         "line": 22,
-         "rawfrom": "Phillip K Allen/HOU/ECT on 03/29/2001 \n",
+         "from": "john.suarez@enron.com",
+         "line": 73,
+         "rawfrom": " John D Suarez                           09/05/2000 01:45 PM\n",
          "source": "lookup",
-         "to": "Phillip.K.Allen@enron.com"
+         "to": "Kevin M Presto/HOU/ECT@ECT, Mark Dana Davis/HOU/ECT@ECT, Paul J"
       },
       {
-         "from": "phillip.k.allen@enron.com",
-         "line": 46,
-         "rawfrom": "Phillip.K.Allen@enron.com\n",
-         "source": "valid",
-         "to": "scsatkfa@caprock.net"
-      },
-      {
-         "from": "phillip.k.allen@enron.com",
-         "line": 105,
-         "rawfrom": "Phillip K Allen/HOU/ECT on 03/29/2001\n",
+         "from": "john.suarez@enron.com",
+         "line": 85,
+         "rawfrom": "John D Suarez/HOU/ECT on 09/05/2000 01:46 \n",
          "source": "lookup",
-         "to": "phillip.k.allen@enron.com"
-      }
-   ],
-   "skipped": 0
-}
-,
-{
-   "file": "EnronTest/EnronTest/allen-p/all_documents/493",
-   "hops": [
-      {
-         "from": "phillip.allen@enron.com",
-         "line": 4,
-         "rawfrom": "phillip.allen@enron.com\r\n",
-         "source": "valid",
-         "to": "mike.grigsby@enron.com"
-      },
-      {
-         "from": "phillip.k.allen@enron.com",
-         "line": 23,
-         "rawfrom": "Phillip K Allen/HOU/ECT on 03/05/2001 \n",
-         "source": "lookup",
-         "to": "Anne.Bike@enron.com"
-      },
-      {
-         "from": "anne.bike@enron.com",
-         "line": 41,
-         "rawfrom": "Anne.Bike@enron.com on 02/28/2001 04:57:52 PM\n",
-         "source": "email",
-         "to": "Liane Kucher/Wash/Magnews@Magnews"
-      },
-      {
-         "from": "liane_kucher@mcgraw-hill.com",
-         "line": 61,
-         "rawfrom": "liane_kucher@mcgraw-hill.com on 02/28/2001 01:43:44 PM\n",
-         "source": "email",
-         "to": "Anne.Bike@enron.com"
-      }
-   ],
-   "skipped": 0
-}
-,
-{
-   "file": "EnronTest/EnronTest/allen-p/all_documents/518",
-   "hops": [
-      {
-         "from": "phillip.allen@enron.com",
-         "line": 4,
-         "rawfrom": "phillip.allen@enron.com\r\n",
-         "source": "valid",
-         "to": "pallen70@hotmail.com"
-      },
-      {
-         "from": "phillip.k.allen@enron.com",
-         "line": 22,
-         "rawfrom": "Phillip K Allen/HOU/ECT on 02/18/2001 \n",
-         "source": "lookup",
-         "to": "<Phillip.K.Allen@enron.com>"
-      },
-      {
-         "from": "pallen@enron.com",
-         "line": 44,
-         "rawfrom": "Phillip.K.Allen@enron.com [mailto:Phillip.K.Allen@enron.com]\n",
-         "source": "lookup",
-         "to": "jsmith@austintx.com"
-      },
-      {
-         "from": "phillip.k.allen@enron.com",
-         "line": 68,
-         "rawfrom": "Phillip K Allen/HOU/ECT on 02/16/2001\n",
-         "source": "lookup",
-         "to": "\"'Phillip.K.Allen@enron.com'\" <Phillip.K.Allen@enron.com>"
-      },
-      {
-         "from": "pallen@enron.com",
-         "line": 88,
-         "rawfrom": "Phillip.K.Allen@enron.com [mailto:Phillip.K.Allen@enron.com]\n",
-         "source": "lookup",
-         "to": "lodonnell@spbank.com"
-      }
-   ],
-   "skipped": 0
-}
-,
-{
-   "file": "EnronTest/EnronTest/allen-p/discussion_threads/121",
-   "hops": [
-      {
-         "from": "phillip.allen@enron.com",
-         "line": 4,
-         "rawfrom": "phillip.allen@enron.com\r\n",
-         "source": "valid",
-         "to": "ina.rangel@enron.com"
-      },
-      {
-         "from": "phillip.k.allen@enron.com",
-         "line": 24,
-         "rawfrom": "Phillip K Allen/HOU/ECT on 09/05/2000 \n",
-         "source": "lookup",
-         "to": "<Phillip.K.Allen@enron.com>"
-      },
-      {
-         "from": "christi.smith@lrinet.com",
-         "line": 42,
-         "rawfrom": "Christi Smith [mailto:christi.smith@lrinet.com]\n",
-         "source": "lookup",
-         "to": "'Phillip.K.Allen@enron.com'"
-      },
-      {
-         "from": "phillip.k.allen@enron.com",
-         "line": 76,
-         "rawfrom": "Phillip K Allen [mailto:Phillip.K.Allen@enron.com]\n",
-         "source": "lookup",
-         "to": "debe@fsddatasvc.com"
-      }
-   ],
-   "skipped": 0
-}
-,
-{
-   "file": "EnronTest/EnronTest/allen-p/discussion_threads/443",
-   "hops": [
-      {
-         "from": "phillip.allen@enron.com",
-         "line": 4,
-         "rawfrom": "phillip.allen@enron.com\r\n",
-         "source": "valid",
-         "to": "pallen70@hotmail.com"
-      },
-      {
-         "from": "phillip.k.allen@enron.com",
-         "line": 22,
-         "rawfrom": "Phillip K Allen/HOU/ECT on 02/18/2001 \n",
-         "source": "lookup",
-         "to": "<Phillip.K.Allen@enron.com>"
-      },
-      {
-         "from": "pallen@enron.com",
-         "line": 44,
-         "rawfrom": "Phillip.K.Allen@enron.com [mailto:Phillip.K.Allen@enron.com]\n",
-         "source": "lookup",
-         "to": "jsmith@austintx.com"
-      },
-      {
-         "from": "phillip.k.allen@enron.com",
-         "line": 68,
-         "rawfrom": "Phillip K Allen/HOU/ECT on 02/16/2001\n",
-         "source": "lookup",
-         "to": "\"'Phillip.K.Allen@enron.com'\" <Phillip.K.Allen@enron.com>"
-      },
-      {
-         "from": "pallen@enron.com",
-         "line": 88,
-         "rawfrom": "Phillip.K.Allen@enron.com [mailto:Phillip.K.Allen@enron.com]\n",
-         "source": "lookup",
-         "to": "lodonnell@spbank.com"
-      }
-   ],
-   "skipped": 0
-}
-,
-{
-   "file": "EnronTest/EnronTest/allen-p/discussion_threads/459",
-   "hops": [
-      {
-         "from": "phillip.allen@enron.com",
-         "line": 4,
-         "rawfrom": "phillip.allen@enron.com\r\n",
-         "source": "valid",
-         "to": "mike.grigsby@enron.com"
-      },
-      {
-         "from": "phillip.k.allen@enron.com",
-         "line": 23,
-         "rawfrom": "Phillip K Allen/HOU/ECT on 03/05/2001 \n",
-         "source": "lookup",
-         "to": "Anne.Bike@enron.com"
-      },
-      {
-         "from": "anne.bike@enron.com",
-         "line": 41,
-         "rawfrom": "Anne.Bike@enron.com on 02/28/2001 04:57:52 PM\n",
-         "source": "email",
-         "to": "Liane Kucher/Wash/Magnews@Magnews"
-      },
-      {
-         "from": "liane_kucher@mcgraw-hill.com",
-         "line": 61,
-         "rawfrom": "liane_kucher@mcgraw-hill.com on 02/28/2001 01:43:44 PM\n",
-         "source": "email",
-         "to": "Anne.Bike@enron.com"
-      }
-   ],
-   "skipped": 0
-}
-,
-{
-   "file": "EnronTest/EnronTest/allen-p/discussion_threads/502",
-   "hops": [
-      {
-         "from": "phillip.allen@enron.com",
-         "line": 4,
-         "rawfrom": "phillip.allen@enron.com\r\n",
-         "source": "valid",
-         "to": "scsatkfa@caprock.net"
-      },
-      {
-         "from": "phillip.k.allen@enron.com",
-         "line": 22,
-         "rawfrom": "Phillip K Allen/HOU/ECT on 03/29/2001 \n",
-         "source": "lookup",
-         "to": "Phillip.K.Allen@enron.com"
-      },
-      {
-         "from": "phillip.k.allen@enron.com",
-         "line": 46,
-         "rawfrom": "Phillip.K.Allen@enron.com\n",
-         "source": "valid",
-         "to": "scsatkfa@caprock.net"
-      },
-      {
-         "from": "phillip.k.allen@enron.com",
-         "line": 105,
-         "rawfrom": "Phillip K Allen/HOU/ECT on 03/29/2001\n",
-         "source": "lookup",
-         "to": "phillip.k.allen@enron.com"
-      }
-   ],
-   "skipped": 0
-}
-,
-{
-   "file": "EnronTest/EnronTest/allen-p/sent/107",
-   "hops": [
-      {
-         "from": "phillip.allen@enron.com",
-         "line": 4,
-         "rawfrom": "phillip.allen@enron.com\r\n",
-         "source": "valid",
-         "to": "ina.rangel@enron.com"
-      },
-      {
-         "from": "phillip.k.allen@enron.com",
-         "line": 24,
-         "rawfrom": "Phillip K Allen/HOU/ECT on 09/05/2000 \n",
-         "source": "lookup",
-         "to": "<Phillip.K.Allen@enron.com>"
-      },
-      {
-         "from": "christi.smith@lrinet.com",
-         "line": 42,
-         "rawfrom": "Christi Smith [mailto:christi.smith@lrinet.com]\n",
-         "source": "lookup",
-         "to": "'Phillip.K.Allen@enron.com'"
-      },
-      {
-         "from": "phillip.k.allen@enron.com",
-         "line": 76,
-         "rawfrom": "Phillip K Allen [mailto:Phillip.K.Allen@enron.com]\n",
-         "source": "lookup",
-         "to": "debe@fsddatasvc.com"
-      }
-   ],
-   "skipped": 0
-}
-,
-{
-   "file": "EnronTest/EnronTest/allen-p/sent/371",
-   "hops": [
-      {
-         "from": "phillip.allen@enron.com",
-         "line": 4,
-         "rawfrom": "phillip.allen@enron.com\r\n",
-         "source": "valid",
-         "to": "scsatkfa@caprock.net"
-      },
-      {
-         "from": "phillip.k.allen@enron.com",
-         "line": 22,
-         "rawfrom": "Phillip K Allen/HOU/ECT on 03/29/2001 \n",
-         "source": "lookup",
-         "to": "Phillip.K.Allen@enron.com"
-      },
-      {
-         "from": "phillip.k.allen@enron.com",
-         "line": 46,
-         "rawfrom": "Phillip.K.Allen@enron.com\n",
-         "source": "valid",
-         "to": "scsatkfa@caprock.net"
-      },
-      {
-         "from": "phillip.k.allen@enron.com",
-         "line": 105,
-         "rawfrom": "Phillip K Allen/HOU/ECT on 03/29/2001\n",
-         "source": "lookup",
-         "to": "phillip.k.allen@enron.com"
-      }
-   ],
-   "skipped": 0
-}
-,
-{
-   "file": "EnronTest/EnronTest/allen-p/sent/427",
-   "hops": [
-      {
-         "from": "phillip.allen@enron.com",
-         "line": 4,
-         "rawfrom": "phillip.allen@enron.com\r\n",
-         "source": "valid",
-         "to": "mike.grigsby@enron.com"
-      },
-      {
-         "from": "phillip.k.allen@enron.com",
-         "line": 23,
-         "rawfrom": "Phillip K Allen/HOU/ECT on 03/05/2001 \n",
-         "source": "lookup",
-         "to": "Anne.Bike@enron.com"
-      },
-      {
-         "from": "anne.bike@enron.com",
-         "line": 41,
-         "rawfrom": "Anne.Bike@enron.com on 02/28/2001 04:57:52 PM\n",
-         "source": "email",
-         "to": "Liane Kucher/Wash/Magnews@Magnews"
-      },
-      {
-         "from": "liane_kucher@mcgraw-hill.com",
-         "line": 61,
-         "rawfrom": "liane_kucher@mcgraw-hill.com on 02/28/2001 01:43:44 PM\n",
-         "source": "email",
-         "to": "Anne.Bike@enron.com"
-      }
-   ],
-   "skipped": 0
-}
-,
-{
-   "file": "EnronTest/EnronTest/allen-p/sent/452",
-   "hops": [
-      {
-         "from": "phillip.allen@enron.com",
-         "line": 4,
-         "rawfrom": "phillip.allen@enron.com\r\n",
-         "source": "valid",
-         "to": "pallen70@hotmail.com"
-      },
-      {
-         "from": "phillip.k.allen@enron.com",
-         "line": 22,
-         "rawfrom": "Phillip K Allen/HOU/ECT on 02/18/2001 \n",
-         "source": "lookup",
-         "to": "<Phillip.K.Allen@enron.com>"
-      },
-      {
-         "from": "pallen@enron.com",
-         "line": 44,
-         "rawfrom": "Phillip.K.Allen@enron.com [mailto:Phillip.K.Allen@enron.com]\n",
-         "source": "lookup",
-         "to": "jsmith@austintx.com"
-      },
-      {
-         "from": "phillip.k.allen@enron.com",
-         "line": 68,
-         "rawfrom": "Phillip K Allen/HOU/ECT on 02/16/2001\n",
-         "source": "lookup",
-         "to": "\"'Phillip.K.Allen@enron.com'\" <Phillip.K.Allen@enron.com>"
-      },
-      {
-         "from": "pallen@enron.com",
-         "line": 88,
-         "rawfrom": "Phillip.K.Allen@enron.com [mailto:Phillip.K.Allen@enron.com]\n",
-         "source": "lookup",
-         "to": "lodonnell@spbank.com"
-      }
-   ],
-   "skipped": 0
-}
-,
-{
-   "file": "EnronTest/EnronTest/allen-p/sent_items/149",
-   "hops": [
-      {
-         "from": "k..allen@enron.com",
-         "line": 4,
-         "rawfrom": "k..allen@enron.com\r\n",
-         "source": "valid",
-         "to": "s..shively@enron.com"
-      },
-      {
-         "from": "richard.toubia@truequote.com",
-         "line": 22,
-         "rawfrom": "\t\"Richard Toubia\" <richard.toubia@truequote.com <mailto:richard.toubia@truequote.com>>@ENRON [mailto:IMCEANOTES-+22Richard+20Toubia+22+20+3Crichard+2Etoubia+40truequote+2Ecom+3E+40ENRON@ENRON.com] <mailto:[mailto:IMCEANOTES-+22Richard+20Toubia+22+20+3Crichard+2Etoubia+40truequote+2Ecom+3E+40ENRON@ENRON.com]> \n",
-         "source": "lookup",
-         "to": "Allen, Phillip K."
-      },
-      {
-         "from": "phillip.k.allen@enron.com",
-         "line": 34,
-         "rawfrom": "Allen, Phillip K. [mailto:Phillip.K.Allen@ENRON.com] <mailto:[mailto:Phillip.K.Allen@ENRON.com]>\n",
-         "source": "lookup",
-         "to": "Toubia, Richard"
-      },
-      {
-         "from": "richard.toubia@truequote.com",
-         "line": 51,
-         "rawfrom": "\t\"Richard Toubia\"\n",
-         "source": "lookup",
-         "to": "pallen@enron.com <mailto:pallen@enron.com>"
-      }
-   ],
-   "skipped": 0
-}
-,
-{
-   "file": "EnronTest/EnronTest/allen-p/sent_items/236",
-   "hops": [
-      {
-         "from": "k..allen@enron.com",
-         "line": 4,
-         "rawfrom": "k..allen@enron.com\r\n",
-         "source": "valid",
-         "to": "jsmith@austintx.com"
-      },
-      {
-         "from": "jsmith@austintx.com",
-         "line": 24,
-         "rawfrom": "\t\"Jeff Smith\" <jsmith@austintx.com>@ENRON [mailto:IMCEANOTES-+22Jeff+20Smith+22+20+3Cjsmith+40austintx+2Ecom+3E+40ENRON@ENRON.com] \n",
-         "source": "lookup",
-         "to": "Allen, Phillip K."
-      },
-      {
-         "from": "pallen@enron.com",
-         "line": 37,
-         "rawfrom": "Phillip.K.Allen@enron.com [mailto:Phillip.K.Allen@enron.com]\n",
-         "source": "lookup",
-         "to": "jsmith@austintx.com"
-      },
-      {
-         "from": "jsmith@austintx.com",
-         "line": 54,
-         "rawfrom": "  \"Jeff Smith\" <jsmith@austintx.com>@ENRON\n",
-         "source": "lookup",
-         "to": "Allen, Phillip K."
-      }
-   ],
-   "skipped": 0
-}
-,
-{
-   "file": "EnronTest/EnronTest/allen-p/sent_items/393",
-   "hops": [
-      {
-         "from": "k..allen@enron.com",
-         "line": 4,
-         "rawfrom": "k..allen@enron.com\r\n",
-         "source": "valid",
-         "to": "steven.matthews@ubspainewebber.com"
-      },
-      {
-         "from": "steven.matthews@ubspainewebber.com",
-         "line": 22,
-         "rawfrom": "\t\"Matthews, Steven\" <steven.matthews@ubspainewebber.com>@ENRON  \n",
-         "source": "lookup",
-         "to": "Allen, Phillip K."
-      },
-      {
-         "from": "pallen@enron.com",
-         "line": 36,
-         "rawfrom": "Phillip.K.Allen@enron.com [mailto:Phillip.K.Allen@enron.com]\n",
-         "source": "lookup",
-         "to": "Matthews, Steven"
-      },
-      {
-         "from": "steven.matthews@ubspainewebber.com",
-         "line": 51,
-         "rawfrom": "  \"Matthews, Steven\" <steven.matthews@ubspainewebber.com>@ENRON\n",
-         "source": "lookup",
-         "to": "Allen, Phillip K."
-      }
-   ],
-   "skipped": 0
-}
-,
-{
-   "file": "EnronTest/EnronTest/allen-p/sent_items/394",
-   "hops": [
-      {
-         "from": "k..allen@enron.com",
-         "line": 4,
-         "rawfrom": "k..allen@enron.com\r\n",
-         "source": "valid",
-         "to": "steven.matthews@ubspainewebber.com"
-      },
-      {
-         "from": "steven.matthews@ubspainewebber.com",
-         "line": 22,
-         "rawfrom": "\t\"Matthews, Steven\" <steven.matthews@ubspainewebber.com>@ENRON  \n",
-         "source": "lookup",
-         "to": "Allen, Phillip K."
-      },
-      {
-         "from": "pallen@enron.com",
-         "line": 35,
-         "rawfrom": "Phillip.K.Allen@enron.com [mailto:Phillip.K.Allen@enron.com]\n",
-         "source": "lookup",
-         "to": "Matthews, Steven"
-      },
-      {
-         "from": "steven.matthews@ubspainewebber.com",
-         "line": 46,
-         "rawfrom": "  \"Matthews, Steven\" <steven.matthews@ubspainewebber.com>@ENRON\n",
-         "source": "lookup",
-         "to": "Allen, Phillip K."
-      },
-      {
-         "from": "pallen@enron.com",
-         "line": 64,
-         "rawfrom": "Phillip.K.Allen@enron.com [mailto:Phillip.K.Allen@enron.com]\n",
-         "source": "lookup",
-         "to": "Matthews, Steven"
-      },
-      {
-         "from": "steven.matthews@ubspainewebber.com",
-         "line": 82,
-         "rawfrom": "  \"Matthews, Steven\" <steven.matthews@ubspainewebber.com>\n",
-         "source": "email",
-         "to": "Allen, Phillip K."
+         "to": "John D Suarez/HOU/ECT@ECT, Suresh Vasan/Enron Communications@ENRON"
       }
    ],
    "skipped": 0
@@ -615,15 +69,85 @@
          "from": "christi.smith@lrinet.com",
          "line": 42,
          "rawfrom": "Christi Smith [mailto:christi.smith@lrinet.com]\n",
-         "source": "lookup",
+         "source": "email",
          "to": "'Phillip.K.Allen@enron.com'"
       },
       {
          "from": "phillip.k.allen@enron.com",
          "line": 76,
          "rawfrom": "Phillip K Allen [mailto:Phillip.K.Allen@enron.com]\n",
-         "source": "lookup",
+         "source": "email",
          "to": "debe@fsddatasvc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/_sent_mail/30",
+   "hops": [
+      {
+         "from": "phillip.allen@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "mike.grigsby@enron.com, keith.holst@enron.com, matthew.lenhart@enron.com,"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 26,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 04/24/2001 02:23 PM ---------------------------\n",
+         "source": "lookup",
+         "to": "Phillip K Allen/HOU/ECT@ECT"
+      },
+      {
+         "from": "eric.benson@enron.com",
+         "line": 43,
+         "rawfrom": "Eric Benson/NA/Enron on 04/24/2001 01:45 PM -----\n",
+         "source": "lookup",
+         "to": "Eric.Benson@enron.com, Steve.Kean@enron.com, Richard.Shapiro@enron.com  cc:   Subject: Instructions for FERC Meetings"
+      },
+      {
+         "from": "janet.butler@enron.com",
+         "line": 54,
+         "rawfrom": "Janet Butler/ET&S/Enron on 11/06/2000 04:49 PM ---------------------------\n",
+         "source": "lookup",
+         "to": "Christi.L.Nicolay@enron.com, James D Steffes/NA/Enron@Enron, Rebecca.Cantrell@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/_sent_mail/375",
+   "hops": [
+      {
+         "from": "phillip.allen@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "mike.grigsby@enron.com, keith.holst@enron.com, matthew.lenhart@enron.com,"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 26,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 04/24/2001 \n",
+         "source": "lookup",
+         "to": "Phillip K Allen/HOU/ECT@ECT"
+      },
+      {
+         "from": "eric.benson@enron.com",
+         "line": 48,
+         "rawfrom": "Eric Benson/NA/Enron on 04/24/2001 01:45 PM -----\n",
+         "source": "lookup",
+         "to": "Eric.Benson@enron.com, Steve.Kean@enron.com, Richard.Shapiro@enron.com"
+      },
+      {
+         "from": "janet.butler@enron.com",
+         "line": 63,
+         "rawfrom": "Janet Butler/ET&S/Enron on 11/06/2000 \n",
+         "source": "lookup",
+         "to": "Christi.L.Nicolay@enron.com, James D Steffes/NA/Enron@Enron,"
       }
    ],
    "skipped": 0
@@ -717,10 +241,10 @@
          "to": "<Phillip.K.Allen@enron.com>"
       },
       {
-         "from": "pallen@enron.com",
+         "from": "phillip.k.allen@enron.com",
          "line": 44,
          "rawfrom": "Phillip.K.Allen@enron.com [mailto:Phillip.K.Allen@enron.com]\n",
-         "source": "lookup",
+         "source": "email",
          "to": "jsmith@austintx.com"
       },
       {
@@ -731,11 +255,1943 @@
          "to": "\"'Phillip.K.Allen@enron.com'\" <Phillip.K.Allen@enron.com>"
       },
       {
-         "from": "pallen@enron.com",
+         "from": "phillip.k.allen@enron.com",
          "line": 88,
          "rawfrom": "Phillip.K.Allen@enron.com [mailto:Phillip.K.Allen@enron.com]\n",
-         "source": "lookup",
+         "source": "email",
          "to": "lodonnell@spbank.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/_sent_mail/53",
+   "hops": [
+      {
+         "from": "phillip.allen@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "mike.grigsby@enron.com, keith.holst@enron.com, frank.ermis@enron.com"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 25,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 12/07/2000 \n",
+         "source": "lookup",
+         "to": "Phillip K Allen/HOU/ECT@ECT"
+      },
+      {
+         "from": "jeff.richter@enron.com",
+         "line": 38,
+         "rawfrom": "Jeff Richter/HOU/ECT on 12/07/2000 08:38 \n",
+         "source": "lookup",
+         "to": "Tim Belden/HOU/ECT@ECT, Robert Badeer/HOU/ECT@ECT, Jeff"
+      },
+      {
+         "from": "gunther.pergher@dowjones.com",
+         "line": 58,
+         "rawfrom": " \"Pergher, Gunther\" <Gunther.Pergher@dowjones.com>                      \n",
+         "source": "email",
+         "to": "undisclosed-recipients:;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/all_documents/146",
+   "hops": [
+      {
+         "from": "phillip.allen@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "thomas.martin@enron.com, mike.grigsby@enron.com, keith.holst@enron.com,"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 24,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 09/06/2000 \n",
+         "source": "lookup",
+         "to": "Phillip K Allen/HOU/ECT@ECT"
+      },
+      {
+         "from": "jeff.richter@enron.com",
+         "line": 31,
+         "rawfrom": "Jeff Richter/HOU/ECT on 09/06/2000 09:45 \n",
+         "source": "lookup",
+         "to": "Mike Swerzbin/HOU/ECT@ECT, Robert Badeer/HOU/ECT@ECT, Sean"
+      },
+      {
+         "from": "kevin.presto@enron.com",
+         "line": 47,
+         "rawfrom": " Kevin M Presto                           09/05/2000 01:59 PM\n",
+         "source": "lookup",
+         "to": "Tim Belden/HOU/ECT@ECT"
+      },
+      {
+         "from": "john.suarez@enron.com",
+         "line": 73,
+         "rawfrom": " John D Suarez                           09/05/2000 01:45 PM\n",
+         "source": "lookup",
+         "to": "Kevin M Presto/HOU/ECT@ECT, Mark Dana Davis/HOU/ECT@ECT, Paul J"
+      },
+      {
+         "from": "john.suarez@enron.com",
+         "line": 85,
+         "rawfrom": "John D Suarez/HOU/ECT on 09/05/2000 01:46 \n",
+         "source": "lookup",
+         "to": "John D Suarez/HOU/ECT@ECT, Suresh Vasan/Enron Communications@ENRON"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/all_documents/149",
+   "hops": [
+      {
+         "from": "phillip.allen@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "ina.rangel@enron.com"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 24,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 09/05/2000 \n",
+         "source": "lookup",
+         "to": "<Phillip.K.Allen@enron.com>"
+      },
+      {
+         "from": "christi.smith@lrinet.com",
+         "line": 42,
+         "rawfrom": "Christi Smith [mailto:christi.smith@lrinet.com]\n",
+         "source": "email",
+         "to": "'Phillip.K.Allen@enron.com'"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 76,
+         "rawfrom": "Phillip K Allen [mailto:Phillip.K.Allen@enron.com]\n",
+         "source": "email",
+         "to": "debe@fsddatasvc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/all_documents/391",
+   "hops": [
+      {
+         "from": "phillip.allen@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "mike.grigsby@enron.com, keith.holst@enron.com, matthew.lenhart@enron.com,"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 26,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 04/24/2001 \n",
+         "source": "lookup",
+         "to": "Phillip K Allen/HOU/ECT@ECT"
+      },
+      {
+         "from": "eric.benson@enron.com",
+         "line": 48,
+         "rawfrom": "Eric Benson/NA/Enron on 04/24/2001 01:45 PM -----\n",
+         "source": "lookup",
+         "to": "Eric.Benson@enron.com, Steve.Kean@enron.com, Richard.Shapiro@enron.com"
+      },
+      {
+         "from": "janet.butler@enron.com",
+         "line": 63,
+         "rawfrom": "Janet Butler/ET&S/Enron on 11/06/2000 \n",
+         "source": "lookup",
+         "to": "Christi.L.Nicolay@enron.com, James D Steffes/NA/Enron@Enron,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/all_documents/435",
+   "hops": [
+      {
+         "from": "phillip.allen@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "scsatkfa@caprock.net"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 22,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 03/29/2001 \n",
+         "source": "lookup",
+         "to": "Phillip.K.Allen@enron.com"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 46,
+         "rawfrom": "Phillip.K.Allen@enron.com\n",
+         "source": "valid",
+         "to": "scsatkfa@caprock.net"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 105,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 03/29/2001\n",
+         "source": "lookup",
+         "to": "phillip.k.allen@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/all_documents/45",
+   "hops": [
+      {
+         "from": "phillip.allen@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "mike.grigsby@enron.com, keith.holst@enron.com, frank.ermis@enron.com"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 25,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 12/07/2000 \n",
+         "source": "lookup",
+         "to": "Phillip K Allen/HOU/ECT@ECT"
+      },
+      {
+         "from": "jeff.richter@enron.com",
+         "line": 38,
+         "rawfrom": "Jeff Richter/HOU/ECT on 12/07/2000 08:38 \n",
+         "source": "lookup",
+         "to": "Tim Belden/HOU/ECT@ECT, Robert Badeer/HOU/ECT@ECT, Jeff"
+      },
+      {
+         "from": "gunther.pergher@dowjones.com",
+         "line": 58,
+         "rawfrom": " \"Pergher, Gunther\" <Gunther.Pergher@dowjones.com>                      \n",
+         "source": "email",
+         "to": "undisclosed-recipients:;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/all_documents/493",
+   "hops": [
+      {
+         "from": "phillip.allen@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "mike.grigsby@enron.com"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 23,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 03/05/2001 \n",
+         "source": "lookup",
+         "to": "Anne.Bike@enron.com"
+      },
+      {
+         "from": "anne.bike@enron.com",
+         "line": 41,
+         "rawfrom": "Anne.Bike@enron.com on 02/28/2001 04:57:52 PM\n",
+         "source": "email",
+         "to": "Liane Kucher/Wash/Magnews@Magnews"
+      },
+      {
+         "from": "liane_kucher@mcgraw-hill.com",
+         "line": 61,
+         "rawfrom": "liane_kucher@mcgraw-hill.com on 02/28/2001 01:43:44 PM\n",
+         "source": "email",
+         "to": "Anne.Bike@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/all_documents/518",
+   "hops": [
+      {
+         "from": "phillip.allen@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "pallen70@hotmail.com"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 22,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 02/18/2001 \n",
+         "source": "lookup",
+         "to": "<Phillip.K.Allen@enron.com>"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 44,
+         "rawfrom": "Phillip.K.Allen@enron.com [mailto:Phillip.K.Allen@enron.com]\n",
+         "source": "email",
+         "to": "jsmith@austintx.com"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 68,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 02/16/2001\n",
+         "source": "lookup",
+         "to": "\"'Phillip.K.Allen@enron.com'\" <Phillip.K.Allen@enron.com>"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 88,
+         "rawfrom": "Phillip.K.Allen@enron.com [mailto:Phillip.K.Allen@enron.com]\n",
+         "source": "email",
+         "to": "lodonnell@spbank.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/deleted_items/263",
+   "hops": [
+      {
+         "from": "adrianne.engler@enron.com",
+         "line": 4,
+         "rawfrom": "adrianne.engler@enron.com\r\n",
+         "source": "valid",
+         "to": "k..allen@enron.com"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 23,
+         "rawfrom": "Allen, Phillip K. \n",
+         "source": "lookup",
+         "to": "Engler, Adrianne"
+      },
+      {
+         "from": "adrianne.engler@enron.com",
+         "line": 36,
+         "rawfrom": "Engler, Adrianne \n",
+         "source": "lookup",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 47,
+         "rawfrom": "Allen, Phillip K. \n",
+         "source": "lookup",
+         "to": "Engler, Adrianne"
+      },
+      {
+         "from": "adrianne.engler@enron.com",
+         "line": 58,
+         "rawfrom": "Engler, Adrianne \n",
+         "source": "lookup",
+         "to": "Allen, Phillip K."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/deleted_items/265",
+   "hops": [
+      {
+         "from": "monica.l.brown@accenture.com",
+         "line": 4,
+         "rawfrom": "monica.l.brown@accenture.com\r\n",
+         "source": "valid",
+         "to": "k..allen@enron.com"
+      },
+      {
+         "from": "phillip.k.allen@enron.c",
+         "line": 24,
+         "rawfrom": "Phillip.K.Allen@enron.c",
+         "source": "valid",
+         "to": "Monica L. Brown/Internal/Accenture@Accenture"
+      },
+      {
+         "from": "monica.l.brown@accenture.com",
+         "line": 38,
+         "rawfrom": "  monica.l.brown@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.c",
+         "line": 58,
+         "rawfrom": "Phillip.K.Allen@enron.c",
+         "source": "valid",
+         "to": "Monica L."
+      },
+      {
+         "from": "monica.l.brown@accenture.com",
+         "line": 74,
+         "rawfrom": "  monica.l.brown@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "pallen@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/deleted_items/446",
+   "hops": [
+      {
+         "from": "sheri.a.righi@accenture.com",
+         "line": 4,
+         "rawfrom": "sheri.a.righi@accenture.com\r\n",
+         "source": "valid",
+         "to": "kirk.mcdaniel@enron.com"
+      },
+      {
+         "from": "sheri.a.righi@accenture.com",
+         "line": 46,
+         "rawfrom": "sheri.a.righi@Accenture.com",
+         "source": "valid",
+         "to": "Michelle.Cash@enron.com, Phillip.K.Allen@enron.com,"
+      },
+      {
+         "from": "kirk.mcdaniel@enron.com",
+         "line": 79,
+         "rawfrom": "Kirk McDaniel/HOU/EES on 11/27/2001\n",
+         "source": "lookup",
+         "to": "kmcdani@enron.com"
+      },
+      {
+         "from": "sheri.a.righi@accenture.com",
+         "line": 145,
+         "rawfrom": "sheri.a.righi@accenture.com [mailto:sheri.a.righi@accenture.com]\n",
+         "source": "email",
+         "to": "SJohnson@crameronline.com; CCiotoli@crameronline.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/discussion_threads/121",
+   "hops": [
+      {
+         "from": "phillip.allen@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "ina.rangel@enron.com"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 24,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 09/05/2000 \n",
+         "source": "lookup",
+         "to": "<Phillip.K.Allen@enron.com>"
+      },
+      {
+         "from": "christi.smith@lrinet.com",
+         "line": 42,
+         "rawfrom": "Christi Smith [mailto:christi.smith@lrinet.com]\n",
+         "source": "email",
+         "to": "'Phillip.K.Allen@enron.com'"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 76,
+         "rawfrom": "Phillip K Allen [mailto:Phillip.K.Allen@enron.com]\n",
+         "source": "email",
+         "to": "debe@fsddatasvc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/discussion_threads/123",
+   "hops": [
+      {
+         "from": "phillip.allen@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "thomas.martin@enron.com, mike.grigsby@enron.com, keith.holst@enron.com,"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 24,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 09/06/2000 \n",
+         "source": "lookup",
+         "to": "Phillip K Allen/HOU/ECT@ECT"
+      },
+      {
+         "from": "jeff.richter@enron.com",
+         "line": 31,
+         "rawfrom": "Jeff Richter/HOU/ECT on 09/06/2000 09:45 \n",
+         "source": "lookup",
+         "to": "Mike Swerzbin/HOU/ECT@ECT, Robert Badeer/HOU/ECT@ECT, Sean"
+      },
+      {
+         "from": "kevin.presto@enron.com",
+         "line": 47,
+         "rawfrom": " Kevin M Presto                           09/05/2000 01:59 PM\n",
+         "source": "lookup",
+         "to": "Tim Belden/HOU/ECT@ECT"
+      },
+      {
+         "from": "john.suarez@enron.com",
+         "line": 73,
+         "rawfrom": " John D Suarez                           09/05/2000 01:45 PM\n",
+         "source": "lookup",
+         "to": "Kevin M Presto/HOU/ECT@ECT, Mark Dana Davis/HOU/ECT@ECT, Paul J"
+      },
+      {
+         "from": "john.suarez@enron.com",
+         "line": 85,
+         "rawfrom": "John D Suarez/HOU/ECT on 09/05/2000 01:46 \n",
+         "source": "lookup",
+         "to": "John D Suarez/HOU/ECT@ECT, Suresh Vasan/Enron Communications@ENRON"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/discussion_threads/193",
+   "hops": [
+      {
+         "from": "phillip.allen@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "mike.grigsby@enron.com, keith.holst@enron.com, frank.ermis@enron.com"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 25,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 12/07/2000 \n",
+         "source": "lookup",
+         "to": "Phillip K Allen/HOU/ECT@ECT"
+      },
+      {
+         "from": "jeff.richter@enron.com",
+         "line": 38,
+         "rawfrom": "Jeff Richter/HOU/ECT on 12/07/2000 08:38 \n",
+         "source": "lookup",
+         "to": "Tim Belden/HOU/ECT@ECT, Robert Badeer/HOU/ECT@ECT, Jeff"
+      },
+      {
+         "from": "gunther.pergher@dowjones.com",
+         "line": 58,
+         "rawfrom": " \"Pergher, Gunther\" <Gunther.Pergher@dowjones.com>                      \n",
+         "source": "email",
+         "to": "undisclosed-recipients:;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/discussion_threads/443",
+   "hops": [
+      {
+         "from": "phillip.allen@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "pallen70@hotmail.com"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 22,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 02/18/2001 \n",
+         "source": "lookup",
+         "to": "<Phillip.K.Allen@enron.com>"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 44,
+         "rawfrom": "Phillip.K.Allen@enron.com [mailto:Phillip.K.Allen@enron.com]\n",
+         "source": "email",
+         "to": "jsmith@austintx.com"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 68,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 02/16/2001\n",
+         "source": "lookup",
+         "to": "\"'Phillip.K.Allen@enron.com'\" <Phillip.K.Allen@enron.com>"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 88,
+         "rawfrom": "Phillip.K.Allen@enron.com [mailto:Phillip.K.Allen@enron.com]\n",
+         "source": "email",
+         "to": "lodonnell@spbank.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/discussion_threads/459",
+   "hops": [
+      {
+         "from": "phillip.allen@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "mike.grigsby@enron.com"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 23,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 03/05/2001 \n",
+         "source": "lookup",
+         "to": "Anne.Bike@enron.com"
+      },
+      {
+         "from": "anne.bike@enron.com",
+         "line": 41,
+         "rawfrom": "Anne.Bike@enron.com on 02/28/2001 04:57:52 PM\n",
+         "source": "email",
+         "to": "Liane Kucher/Wash/Magnews@Magnews"
+      },
+      {
+         "from": "liane_kucher@mcgraw-hill.com",
+         "line": 61,
+         "rawfrom": "liane_kucher@mcgraw-hill.com on 02/28/2001 01:43:44 PM\n",
+         "source": "email",
+         "to": "Anne.Bike@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/discussion_threads/502",
+   "hops": [
+      {
+         "from": "phillip.allen@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "scsatkfa@caprock.net"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 22,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 03/29/2001 \n",
+         "source": "lookup",
+         "to": "Phillip.K.Allen@enron.com"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 46,
+         "rawfrom": "Phillip.K.Allen@enron.com\n",
+         "source": "valid",
+         "to": "scsatkfa@caprock.net"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 105,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 03/29/2001\n",
+         "source": "lookup",
+         "to": "phillip.k.allen@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/discussion_threads/527",
+   "hops": [
+      {
+         "from": "phillip.allen@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "mike.grigsby@enron.com, keith.holst@enron.com, matthew.lenhart@enron.com,"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 26,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 04/24/2001 \n",
+         "source": "lookup",
+         "to": "Phillip K Allen/HOU/ECT@ECT"
+      },
+      {
+         "from": "eric.benson@enron.com",
+         "line": 48,
+         "rawfrom": "Eric Benson/NA/Enron on 04/24/2001 01:45 PM -----\n",
+         "source": "lookup",
+         "to": "Eric.Benson@enron.com, Steve.Kean@enron.com, Richard.Shapiro@enron.com"
+      },
+      {
+         "from": "janet.butler@enron.com",
+         "line": 63,
+         "rawfrom": "Janet Butler/ET&S/Enron on 11/06/2000 \n",
+         "source": "lookup",
+         "to": "Christi.L.Nicolay@enron.com, James D Steffes/NA/Enron@Enron,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/inbox/1",
+   "hops": [
+      {
+         "from": "heather.dunton@enron.com",
+         "line": 4,
+         "rawfrom": "heather.dunton@enron.com\r\n",
+         "source": "valid",
+         "to": "k..allen@enron.com"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 25,
+         "rawfrom": "\tAllen, Phillip K.  \n",
+         "source": "lookup",
+         "to": "Dunton, Heather"
+      },
+      {
+         "from": "heather.dunton@enron.com",
+         "line": 35,
+         "rawfrom": "\tDunton, Heather  \n",
+         "source": "lookup",
+         "to": "Allen, Phillip K.; Belden, Tim"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 44,
+         "rawfrom": "\tAllen, Phillip K.  \n",
+         "source": "lookup",
+         "to": "Dunton, Heather"
+      },
+      {
+         "from": "heather.dunton@enron.com",
+         "line": 58,
+         "rawfrom": "\tDunton, Heather  \n",
+         "source": "lookup",
+         "to": "Belden, Tim; Allen, Phillip K."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent/104",
+   "hops": [
+      {
+         "from": "phillip.allen@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "thomas.martin@enron.com, mike.grigsby@enron.com, keith.holst@enron.com,"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 24,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 09/06/2000 \n",
+         "source": "lookup",
+         "to": "Phillip K Allen/HOU/ECT@ECT"
+      },
+      {
+         "from": "jeff.richter@enron.com",
+         "line": 31,
+         "rawfrom": "Jeff Richter/HOU/ECT on 09/06/2000 09:45 \n",
+         "source": "lookup",
+         "to": "Mike Swerzbin/HOU/ECT@ECT, Robert Badeer/HOU/ECT@ECT, Sean"
+      },
+      {
+         "from": "kevin.presto@enron.com",
+         "line": 47,
+         "rawfrom": " Kevin M Presto                           09/05/2000 01:59 PM\n",
+         "source": "lookup",
+         "to": "Tim Belden/HOU/ECT@ECT"
+      },
+      {
+         "from": "john.suarez@enron.com",
+         "line": 73,
+         "rawfrom": " John D Suarez                           09/05/2000 01:45 PM\n",
+         "source": "lookup",
+         "to": "Kevin M Presto/HOU/ECT@ECT, Mark Dana Davis/HOU/ECT@ECT, Paul J"
+      },
+      {
+         "from": "john.suarez@enron.com",
+         "line": 85,
+         "rawfrom": "John D Suarez/HOU/ECT on 09/05/2000 01:46 \n",
+         "source": "lookup",
+         "to": "John D Suarez/HOU/ECT@ECT, Suresh Vasan/Enron Communications@ENRON"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent/107",
+   "hops": [
+      {
+         "from": "phillip.allen@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "ina.rangel@enron.com"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 24,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 09/05/2000 \n",
+         "source": "lookup",
+         "to": "<Phillip.K.Allen@enron.com>"
+      },
+      {
+         "from": "christi.smith@lrinet.com",
+         "line": 42,
+         "rawfrom": "Christi Smith [mailto:christi.smith@lrinet.com]\n",
+         "source": "email",
+         "to": "'Phillip.K.Allen@enron.com'"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 76,
+         "rawfrom": "Phillip K Allen [mailto:Phillip.K.Allen@enron.com]\n",
+         "source": "email",
+         "to": "debe@fsddatasvc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent/328",
+   "hops": [
+      {
+         "from": "phillip.allen@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "mike.grigsby@enron.com, keith.holst@enron.com, matthew.lenhart@enron.com,"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 26,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 04/24/2001 \n",
+         "source": "lookup",
+         "to": "Phillip K Allen/HOU/ECT@ECT"
+      },
+      {
+         "from": "eric.benson@enron.com",
+         "line": 48,
+         "rawfrom": "Eric Benson/NA/Enron on 04/24/2001 01:45 PM -----\n",
+         "source": "lookup",
+         "to": "Eric.Benson@enron.com, Steve.Kean@enron.com, Richard.Shapiro@enron.com"
+      },
+      {
+         "from": "janet.butler@enron.com",
+         "line": 63,
+         "rawfrom": "Janet Butler/ET&S/Enron on 11/06/2000 \n",
+         "source": "lookup",
+         "to": "Christi.L.Nicolay@enron.com, James D Steffes/NA/Enron@Enron,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent/371",
+   "hops": [
+      {
+         "from": "phillip.allen@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "scsatkfa@caprock.net"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 22,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 03/29/2001 \n",
+         "source": "lookup",
+         "to": "Phillip.K.Allen@enron.com"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 46,
+         "rawfrom": "Phillip.K.Allen@enron.com\n",
+         "source": "valid",
+         "to": "scsatkfa@caprock.net"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 105,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 03/29/2001\n",
+         "source": "lookup",
+         "to": "phillip.k.allen@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent/427",
+   "hops": [
+      {
+         "from": "phillip.allen@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "mike.grigsby@enron.com"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 23,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 03/05/2001 \n",
+         "source": "lookup",
+         "to": "Anne.Bike@enron.com"
+      },
+      {
+         "from": "anne.bike@enron.com",
+         "line": 41,
+         "rawfrom": "Anne.Bike@enron.com on 02/28/2001 04:57:52 PM\n",
+         "source": "email",
+         "to": "Liane Kucher/Wash/Magnews@Magnews"
+      },
+      {
+         "from": "liane_kucher@mcgraw-hill.com",
+         "line": 61,
+         "rawfrom": "liane_kucher@mcgraw-hill.com on 02/28/2001 01:43:44 PM\n",
+         "source": "email",
+         "to": "Anne.Bike@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent/452",
+   "hops": [
+      {
+         "from": "phillip.allen@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "pallen70@hotmail.com"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 22,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 02/18/2001 \n",
+         "source": "lookup",
+         "to": "<Phillip.K.Allen@enron.com>"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 44,
+         "rawfrom": "Phillip.K.Allen@enron.com [mailto:Phillip.K.Allen@enron.com]\n",
+         "source": "email",
+         "to": "jsmith@austintx.com"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 68,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 02/16/2001\n",
+         "source": "lookup",
+         "to": "\"'Phillip.K.Allen@enron.com'\" <Phillip.K.Allen@enron.com>"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 88,
+         "rawfrom": "Phillip.K.Allen@enron.com [mailto:Phillip.K.Allen@enron.com]\n",
+         "source": "email",
+         "to": "lodonnell@spbank.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent/6",
+   "hops": [
+      {
+         "from": "phillip.allen@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "mike.grigsby@enron.com, keith.holst@enron.com, frank.ermis@enron.com"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 25,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 12/07/2000 \n",
+         "source": "lookup",
+         "to": "Phillip K Allen/HOU/ECT@ECT"
+      },
+      {
+         "from": "jeff.richter@enron.com",
+         "line": 38,
+         "rawfrom": "Jeff Richter/HOU/ECT on 12/07/2000 08:38 \n",
+         "source": "lookup",
+         "to": "Tim Belden/HOU/ECT@ECT, Robert Badeer/HOU/ECT@ECT, Jeff"
+      },
+      {
+         "from": "gunther.pergher@dowjones.com",
+         "line": 58,
+         "rawfrom": " \"Pergher, Gunther\" <Gunther.Pergher@dowjones.com>                      \n",
+         "source": "email",
+         "to": "undisclosed-recipients:;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent_items/117",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "matthew.lenhart@enron.com, matt.smith@enron.com, jay.reitmeyer@enron.com"
+      },
+      {
+         "from": "bernadette.hawkins@enron.com",
+         "line": 24,
+         "rawfrom": "\tHawkins, Bernadette  \n",
+         "source": "lookup",
+         "to": "Walton, Steve; Mara, Susan; Comnes, Alan; Lawner, Leslie; Cantrell, Rebecca; Fulton, Donna; Dasovich, Jeff; Nicolay, Christi; Steffes, James; jalexander@gibbs-bruns.com; Allen, Phillip K.; Noske, Linda; Perrino, Dave; Black, Don; Frank, Robert; Miller, Stephanie; Tycholiz, Barry"
+      },
+      {
+         "from": "bernadette.hawkins@enron.com",
+         "line": 43,
+         "rawfrom": "Bernadette Hawkins/Corp/Enron on 06/20/2001 12:43 PM -----\n",
+         "source": "lookup",
+         "to": "Bernadette Hawkins/Corp/Enron@ENRON  cc:   Subject: Re: Western Wholesale Activities - Gas & Power Conf. Call Privileged & Confidential Communication Attorney-Client Communication and Attorney Work Product Privileges Asserted"
+      },
+      {
+         "from": "ray.alvarez@enron.com",
+         "line": 52,
+         "rawfrom": "Ray Alvarez/NA/Enron on 05/31/2001 11:55 AM ---------------------------\n",
+         "source": "lookup",
+         "to": "Steve Walton/HOU/ECT@ECT, Susan J Mara/NA/Enron@ENRON, Alan Comnes/PDX/ECT@ECT, Leslie Lawner/NA/Enron@Enron, Rebecca W Cantrell/HOU/ECT@ECT, Donna Fulton/Corp/Enron@ENRON, Jeff Dasovich/NA/Enron@Enron, Christi L Nicolay/HOU/ECT@ECT, James D Steffes/NA/Enron@Enron, jalexander@gibbs-bruns.com, Phillip K Allen/HOU/ECT@ECT, Linda J Noske/HOU/ECT@ECT, Dave Perrino/SF/ECT@ECT, Don Black/HOU/EES@EES, Robert Frank/NA/Enron@Enron, Stephanie Miller/Enron@EnronXGate, Barry Tycholiz/Enron@EnronXGate"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent_items/118",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "matthew.lenhart@enron.com, jay.reitmeyer@enron.com, matt.smith@enron.com"
+      },
+      {
+         "from": "dave.perrino@enron.com",
+         "line": 24,
+         "rawfrom": "\tPerrino, Dave  \n",
+         "source": "lookup",
+         "to": "Hawkins, Bernadette"
+      },
+      {
+         "from": "bernadette.hawkins@enron.com",
+         "line": 65,
+         "rawfrom": "Bernadette Hawkins/Corp/Enron on 06/20/2001 12:43 PM -----\n",
+         "source": "lookup",
+         "to": "Bernadette Hawkins/Corp/Enron@ENRON  cc:   Subject: Re: Western Wholesale Activities - Gas & Power Conf. Call Privileged & Confidential Communication Attorney-Client Communication and Attorney Work Product Privileges Asserted"
+      },
+      {
+         "from": "ray.alvarez@enron.com",
+         "line": 74,
+         "rawfrom": "Ray Alvarez/NA/Enron on 05/31/2001 11:55 AM ---------------------------\n",
+         "source": "lookup",
+         "to": "Steve Walton/HOU/ECT@ECT, Susan J Mara/NA/Enron@ENRON, Alan Comnes/PDX/ECT@ECT, Leslie Lawner/NA/Enron@Enron, Rebecca W Cantrell/HOU/ECT@ECT, Donna Fulton/Corp/Enron@ENRON, Jeff Dasovich/NA/Enron@Enron, Christi L Nicolay/HOU/ECT@ECT, James D Steffes/NA/Enron@Enron, jalexander@gibbs-bruns.com, Phillip K Allen/HOU/ECT@ECT, Linda J Noske/HOU/ECT@ECT, Dave Perrino/SF/ECT@ECT, Don Black/HOU/EES@EES, Robert Frank/NA/Enron@Enron, Stephanie Miller/Enron@EnronXGate, Barry Tycholiz/Enron@EnronXGate"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent_items/126",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "david.oxley@enron.com"
+      },
+      {
+         "from": "david.oxley@enron.com",
+         "line": 22,
+         "rawfrom": "\tOxley, David  \n",
+         "source": "lookup",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 32,
+         "rawfrom": "\tAllen, Phillip K.  \n",
+         "source": "lookup",
+         "to": "Oxley, David"
+      },
+      {
+         "from": "david.oxley@enron.com",
+         "line": 40,
+         "rawfrom": "\tOxley, David  \n",
+         "source": "lookup",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 50,
+         "rawfrom": "\tAllen, Phillip K.  \n",
+         "source": "lookup",
+         "to": "Oxley, David"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent_items/127",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "ina.rangel@enron.com"
+      },
+      {
+         "from": "rebecca.cantrell@enron.com",
+         "line": 26,
+         "rawfrom": "\tCantrell, Rebecca  \n",
+         "source": "lookup",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "rebecca.cantrell@enron.com",
+         "line": 51,
+         "rawfrom": "\tCantrell, Rebecca  \n",
+         "source": "lookup",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "rebecca.w.cantrell@enron.com",
+         "line": 62,
+         "rawfrom": "Rebecca W Cantrell/HOU/ECT on 06/25/2001 12:58 PM ---------------------------\n",
+         "source": "lookup",
+         "to": "Leslie Lawner/NA/Enron@Enron, Rebecca W Cantrell/HOU/ECT@ECT, Donna Fulton/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent_items/149",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "s..shively@enron.com"
+      },
+      {
+         "from": "richard.toubia@truequote.com <mailto:richard.toubia@truequote.com",
+         "line": 22,
+         "rawfrom": "\t\"Richard Toubia\" <richard.toubia@truequote.com <mailto:richard.toubia@truequote.com>>@ENRON [mailto:IMCEANOTES-+22Richard+20Toubia+22+20+3Crichard+2Etoubia+40truequote+2Ecom+3E+40ENRON@ENRON.com] <mailto:[mailto:IMCEANOTES-+22Richard+20Toubia+22+20+3Crichard+2Etoubia+40truequote+2Ecom+3E+40ENRON@ENRON.com]> \n",
+         "source": "lookup",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 34,
+         "rawfrom": "Allen, Phillip K. [mailto:Phillip.K.Allen@ENRON.com] <mailto:[mailto:Phillip.K.Allen@ENRON.com]>\n",
+         "source": "lookup",
+         "to": "Toubia, Richard"
+      },
+      {
+         "from": "richard.toubia@truequote.com <mailto:richard.toubia@truequote.com",
+         "line": 51,
+         "rawfrom": "\t\"Richard Toubia\"\n",
+         "source": "lookup",
+         "to": "pallen@enron.com <mailto:pallen@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent_items/152",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "jay.webb@enron.com"
+      },
+      {
+         "from": "jay.webb@enron.com",
+         "line": 27,
+         "rawfrom": "\tWebb, Jay  \n",
+         "source": "lookup",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 40,
+         "rawfrom": "\tAllen, Phillip K.  \n",
+         "source": "lookup",
+         "to": "Webb, Jay"
+      },
+      {
+         "from": "jay.webb@enron.com",
+         "line": 53,
+         "rawfrom": "\tWebb, Jay  \n",
+         "source": "lookup",
+         "to": "Shively, Hunter S."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent_items/156",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "jay.webb@enron.com"
+      },
+      {
+         "from": "jay.webb@enron.com",
+         "line": 26,
+         "rawfrom": "\tWebb, Jay  \n",
+         "source": "lookup",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 39,
+         "rawfrom": "\tAllen, Phillip K.  \n",
+         "source": "lookup",
+         "to": "Webb, Jay"
+      },
+      {
+         "from": "jay.webb@enron.com",
+         "line": 52,
+         "rawfrom": "\tWebb, Jay  \n",
+         "source": "lookup",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 65,
+         "rawfrom": "\tAllen, Phillip K.  \n",
+         "source": "lookup",
+         "to": "Webb, Jay"
+      },
+      {
+         "from": "jay.webb@enron.com",
+         "line": 78,
+         "rawfrom": "\tWebb, Jay  \n",
+         "source": "lookup",
+         "to": "Shively, Hunter S."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent_items/20",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "heather.dunton@enron.com"
+      },
+      {
+         "from": "heather.dunton@enron.com",
+         "line": 24,
+         "rawfrom": "\tDunton, Heather  \n",
+         "source": "lookup",
+         "to": "Allen, Phillip K.; Belden, Tim"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 33,
+         "rawfrom": "\tAllen, Phillip K.  \n",
+         "source": "lookup",
+         "to": "Dunton, Heather"
+      },
+      {
+         "from": "heather.dunton@enron.com",
+         "line": 47,
+         "rawfrom": "\tDunton, Heather  \n",
+         "source": "lookup",
+         "to": "Belden, Tim; Allen, Phillip K."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent_items/202",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "40enron@enron.com"
+      },
+      {
+         "from": "mark.whitt@enron.com",
+         "line": 25,
+         "rawfrom": "=09Whitt, Mark   On Behalf Of Mark Whitt/DEN/ECT@ENRON\r\n",
+         "source": "lookup",
+         "to": "=09Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 42,
+         "rawfrom": "=09Phillip K Allen/ENRON@enronXgate 08/07/2001 01:25 PM =09",
+         "source": "lookup",
+         "to": "\"Mark Whi="
+      },
+      {
+         "from": "mark.whitt@enron.com",
+         "line": 63,
+         "rawfrom": "=09Whitt, Mark   On Behalf Of Mark Whitt/DEN/ECT@ENRON\r\n",
+         "source": "lookup",
+         "to": "=09Allen, Phillip K."
+      },
+      {
+         "from": "mark.whitt@enron.com",
+         "line": 76,
+         "rawfrom": "Mark Whitt/NA/Enron on 08/01/2001 08:31 AM -----\r\n",
+         "source": "lookup",
+         "to": "Phillip K A="
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent_items/236",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "jsmith@austintx.com"
+      },
+      {
+         "from": "jsmith@austintx.com",
+         "line": 24,
+         "rawfrom": "\t\"Jeff Smith\" <jsmith@austintx.com>@ENRON [mailto:IMCEANOTES-+22Jeff+20Smith+22+20+3Cjsmith+40austintx+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 37,
+         "rawfrom": "Phillip.K.Allen@enron.com [mailto:Phillip.K.Allen@enron.com]\n",
+         "source": "email",
+         "to": "jsmith@austintx.com"
+      },
+      {
+         "from": "jsmith@austintx.com",
+         "line": 54,
+         "rawfrom": "  \"Jeff Smith\" <jsmith@austintx.com>@ENRON\n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent_items/254",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "mike.grigsby@enron.com"
+      },
+      {
+         "from": "alan.comnes@enron.com",
+         "line": 22,
+         "rawfrom": "\tComnes, Alan  \n",
+         "source": "lookup",
+         "to": "Mara, Susan; Alvarez, Ray; 'Dan Watkiss'"
+      },
+      {
+         "from": "dwatkiss@bracepatt.com",
+         "line": 59,
+         "rawfrom": "From:\tDan Watkiss [mailto:dwatkiss@bracepatt.com]\n",
+         "source": "email",
+         "to": "Alvarez, Ray"
+      },
+      {
+         "from": "rcarroll@bracepatt.com",
+         "line": 78,
+         "rawfrom": "From:\tRonald Carroll [mailto:rcarroll@bracepatt.com]\n",
+         "source": "email",
+         "to": "callen@akingump.com; alaw@avistaenergy.com;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent_items/290",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "wise.counsel@lpl.com"
+      },
+      {
+         "from": "wise.counsel@lpl.com",
+         "line": 22,
+         "rawfrom": "\t\"Robert W. Huntley, CFP\" <wise.counsel@lpl.com>@ENRON  \n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 47,
+         "rawfrom": "<Phillip.K.Allen@enron.com>\n",
+         "source": "email",
+         "to": "<wise.counsel@lpl.com>"
+      },
+      {
+         "from": "wise.counsel@lpl.com",
+         "line": 75,
+         "rawfrom": "  \"Robert W. Huntley, CFP\" <wise.counsel@lpl.com>@ENRON\n",
+         "source": "email",
+         "to": "pallen@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent_items/295",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "renee.ratcliff@enron.com"
+      },
+      {
+         "from": "renee.ratcliff@enron.com",
+         "line": 22,
+         "rawfrom": "\tRatcliff, Renee  \n",
+         "source": "lookup",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 38,
+         "rawfrom": "\tAllen, Phillip K.  \n",
+         "source": "lookup",
+         "to": "Ratcliff, Renee"
+      },
+      {
+         "from": "renee.ratcliff@enron.com",
+         "line": 52,
+         "rawfrom": "\tRatcliff, Renee  \n",
+         "source": "lookup",
+         "to": "Allen, Phillip K."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent_items/296",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "kirk.mcdaniel@enron.com"
+      },
+      {
+         "from": "kirk.mcdaniel@enron.com",
+         "line": 22,
+         "rawfrom": "\tMcDaniel, Kirk  \n",
+         "source": "lookup",
+         "to": "Allen, Phillip K.; O'rourke, Tim; Frolov, Yevgeny"
+      },
+      {
+         "from": "kirk.mcdaniel@enron.com",
+         "line": 41,
+         "rawfrom": "Kirk McDaniel/HOU/EES on 10/23/2001 03:31 PM ---------------------------\n",
+         "source": "lookup",
+         "to": "Phillip K Allen/Enron@EnronXGate, Tim O'Rourke/Enron@EnronXGate, Yevgeny Frolov/Enron@EnronXGate"
+      },
+      {
+         "from": "kirk.mcdaniel@enron.com",
+         "line": 61,
+         "rawfrom": "Kirk McDaniel/HOU/EES on 10/19/2001 08:29 AM ---------------------------\n",
+         "source": "lookup",
+         "to": "kmcdani@enron.com"
+      },
+      {
+         "from": "kirk.mcdaniel@enron.com",
+         "line": 129,
+         "rawfrom": "Kirk McDaniel/HOU/EES on 10/19/2001 08:29 AM ---------------------------\n",
+         "source": "lookup",
+         "to": "kmcdani@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent_items/3",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "h..lewis@enron.com, dutch.quigley@enron.com, ed.mcmichael@enron.com,"
+      },
+      {
+         "from": "yevgeny.frolov@enron.com",
+         "line": 31,
+         "rawfrom": "\tFrolov, Yevgeny  \n",
+         "source": "lookup",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 74,
+         "rawfrom": "\tAllen, Phillip K.  \n",
+         "source": "lookup",
+         "to": "Frolov, Yevgeny"
+      },
+      {
+         "from": "yevgeny.frolov@enron.com",
+         "line": 86,
+         "rawfrom": "\tFrolov, Yevgeny  \n",
+         "source": "lookup",
+         "to": "Allen, Phillip K."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent_items/303",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "adrianne.engler@enron.com"
+      },
+      {
+         "from": "adrianne.engler@enron.com",
+         "line": 22,
+         "rawfrom": "Engler, Adrianne \n",
+         "source": "lookup",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 33,
+         "rawfrom": "Allen, Phillip K. \n",
+         "source": "lookup",
+         "to": "Engler, Adrianne"
+      },
+      {
+         "from": "adrianne.engler@enron.com",
+         "line": 44,
+         "rawfrom": "Engler, Adrianne \n",
+         "source": "lookup",
+         "to": "Allen, Phillip K."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent_items/305",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "adrianne.engler@enron.com"
+      },
+      {
+         "from": "adrianne.engler@enron.com",
+         "line": 26,
+         "rawfrom": "Engler, Adrianne \n",
+         "source": "lookup",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 37,
+         "rawfrom": "Allen, Phillip K. \n",
+         "source": "lookup",
+         "to": "Engler, Adrianne"
+      },
+      {
+         "from": "adrianne.engler@enron.com",
+         "line": 48,
+         "rawfrom": "Engler, Adrianne \n",
+         "source": "lookup",
+         "to": "Allen, Phillip K."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent_items/306",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "monica.l.brown@accenture.com"
+      },
+      {
+         "from": "monica.l.brown@accenture.com",
+         "line": 22,
+         "rawfrom": "\tmonica.l.brown@accenture.com@ENRON  \n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.c",
+         "line": 39,
+         "rawfrom": "Phillip.K.Allen@enron.c",
+         "source": "valid",
+         "to": "Monica L. Brown/Internal/Accenture@Accenture"
+      },
+      {
+         "from": "monica.l.brown@accenture.com",
+         "line": 53,
+         "rawfrom": "  monica.l.brown@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "pallen@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent_items/369",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "wise.counsel@lpl.com"
+      },
+      {
+         "from": "wise.counsel@lpl.com",
+         "line": 26,
+         "rawfrom": "\t\"Robert W. Huntley, CFP\" <wise.counsel@lpl.com>@ENRON  \n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 40,
+         "rawfrom": "<Phillip.K.Allen@enron.com>\n",
+         "source": "email",
+         "to": "<wise.counsel@lpl.com>"
+      },
+      {
+         "from": "wise.counsel@lpl.com",
+         "line": 50,
+         "rawfrom": "  \"Robert W. Huntley, CFP\" <wise.counsel@lpl.com>@ENRON\n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent_items/378",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "wise.counsel@lpl.com"
+      },
+      {
+         "from": "wise.counsel@lpl.com",
+         "line": 26,
+         "rawfrom": "\t\"Robert W. Huntley, CFP\" <wise.counsel@lpl.com>@ENRON  \n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 46,
+         "rawfrom": "<Phillip.K.Allen@enron.com>\n",
+         "source": "email",
+         "to": "<wise.counsel@lpl.com>"
+      },
+      {
+         "from": "wise.counsel@lpl.com",
+         "line": 61,
+         "rawfrom": "  \"Robert W. Huntley, CFP\" <wise.counsel@lpl.com>@ENRON\n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 75,
+         "rawfrom": "<Phillip.K.Allen@enron.com>\n",
+         "source": "email",
+         "to": "<wise.counsel@lpl.com>"
+      },
+      {
+         "from": "wise.counsel@lpl.com",
+         "line": 85,
+         "rawfrom": "  \"Robert W. Huntley, CFP\" <wise.counsel@lpl.com>@ENRON\n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent_items/393",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "steven.matthews@ubspainewebber.com"
+      },
+      {
+         "from": "steven.matthews@ubspainewebber.com",
+         "line": 22,
+         "rawfrom": "\t\"Matthews, Steven\" <steven.matthews@ubspainewebber.com>@ENRON  \n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 36,
+         "rawfrom": "Phillip.K.Allen@enron.com [mailto:Phillip.K.Allen@enron.com]\n",
+         "source": "email",
+         "to": "Matthews, Steven"
+      },
+      {
+         "from": "steven.matthews@ubspainewebber.com",
+         "line": 51,
+         "rawfrom": "  \"Matthews, Steven\" <steven.matthews@ubspainewebber.com>@ENRON\n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent_items/394",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "steven.matthews@ubspainewebber.com"
+      },
+      {
+         "from": "steven.matthews@ubspainewebber.com",
+         "line": 22,
+         "rawfrom": "\t\"Matthews, Steven\" <steven.matthews@ubspainewebber.com>@ENRON  \n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 35,
+         "rawfrom": "Phillip.K.Allen@enron.com [mailto:Phillip.K.Allen@enron.com]\n",
+         "source": "email",
+         "to": "Matthews, Steven"
+      },
+      {
+         "from": "steven.matthews@ubspainewebber.com",
+         "line": 46,
+         "rawfrom": "  \"Matthews, Steven\" <steven.matthews@ubspainewebber.com>@ENRON\n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 64,
+         "rawfrom": "Phillip.K.Allen@enron.com [mailto:Phillip.K.Allen@enron.com]\n",
+         "source": "email",
+         "to": "Matthews, Steven"
+      },
+      {
+         "from": "steven.matthews@ubspainewebber.com",
+         "line": 82,
+         "rawfrom": "  \"Matthews, Steven\" <steven.matthews@ubspainewebber.com>\n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent_items/65",
+   "hops": [
+      {
+         "from": "phillip.allen@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.allen@enron.com\r\n",
+         "source": "valid",
+         "to": "mike.grigsby@enron.com, keith.holst@enron.com, matthew.lenhart@enron.com,"
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 26,
+         "rawfrom": "Phillip K Allen/HOU/ECT on 04/24/2001 02:23 PM ---------------------------\n",
+         "source": "lookup",
+         "to": "Phillip K Allen/HOU/ECT@ECT"
+      },
+      {
+         "from": "eric.benson@enron.com",
+         "line": 43,
+         "rawfrom": "Eric Benson/NA/Enron on 04/24/2001 01:45 PM -----\n",
+         "source": "lookup",
+         "to": "Eric.Benson@enron.com, Steve.Kean@enron.com, Richard.Shapiro@enron.com  cc:   Subject: Instructions for FERC Meetings"
+      },
+      {
+         "from": "janet.butler@enron.com",
+         "line": 54,
+         "rawfrom": "Janet Butler/ET&S/Enron on 11/06/2000 04:49 PM ---------------------------\n",
+         "source": "lookup",
+         "to": "Christi.L.Nicolay@enron.com, James D Steffes/NA/Enron@Enron, Rebecca.Cantrell@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent_items/87",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "james.steffes@enron.com"
+      },
+      {
+         "from": "james.steffes@enron.com",
+         "line": 26,
+         "rawfrom": "\tSteffes, James  \n",
+         "source": "lookup",
+         "to": "Cantrell, Rebecca"
+      },
+      {
+         "from": "james.steffes@enron.com",
+         "line": 44,
+         "rawfrom": "James D Steffes/NA/Enron on 05/15/2001 04:06 PM ---------------------------\n",
+         "source": "lookup",
+         "to": "<jsteffe@enron.com>, <llawner@enron.com>, <rebecca.w.cantrell@enron.com>"
+      },
+      {
+         "from": "dc.fax.rightfaxuser@bracepatt.com",
+         "line": 53,
+         "rawfrom": "FAX <DC.FAX.RIGHTFAXUSER@bracepatt.com>\n",
+         "source": "email",
+         "to": "<rrich@bracepatt.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "EnronTest/EnronTest/allen-p/sent_items/97",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "chris.gaskill@enron.com"
+      },
+      {
+         "from": "james.steffes@enron.com",
+         "line": 22,
+         "rawfrom": "\tSteffes, James  \n",
+         "source": "lookup",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "james.steffes@enron.com",
+         "line": 38,
+         "rawfrom": "James D Steffes/NA/Enron on 06/05/2001 07:49 AM ---------------------------\n",
+         "source": "lookup",
+         "to": "James D Steffes/NA/Enron@Enron"
+      },
+      {
+         "from": "jeffrey.keeler@enron.com",
+         "line": 55,
+         "rawfrom": "Jeffrey Keeler/Corp/Enron on 06/04/2001 04:33 PM -----\n",
+         "source": "lookup",
+         "to": "<jkeeler@enron.com>  cc:   Subject: Summer workshop"
       }
    ],
    "skipped": 0
