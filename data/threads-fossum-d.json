@@ -1,0 +1,1527 @@
+[
+{
+   "file": "/home/jb/maildir/fossum-d/all_documents/1421.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "dhooker@caes.net"
+      },
+      {
+         "from": "dhooker@caes.net",
+         "line": 27,
+         "rawfrom": "\"Hooker, David\" <dhooker@caes.net> on 12/15/2000 02:47:13 PM\n",
+         "source": "email",
+         "to": "Drew.Fossum@enron.com, Alan Jenkins <ajenkins@lanlaw.com>"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 40,
+         "rawfrom": "Drew.Fossum@enron.com [mailto:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "Alan Jenkins"
+      },
+      {
+         "from": "ajenkins@lanlaw.com",
+         "line": 58,
+         "rawfrom": "\"Alan Jenkins\" <ajenkins@lanlaw.com> on 12/13/2000 04:35:48 PM\n",
+         "source": "email",
+         "to": "dhill@bspmlaw.com, Dhooker@caes.net, dfossum@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/all_documents/142.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "gbriden.snakehill@worldnet.att.net"
+      },
+      {
+         "from": "gbriden.snakehill@worldnet.att.net",
+         "line": 27,
+         "rawfrom": "\"George Briden\" <gbriden.snakehill@worldnet.att.net> on 02/22/2000 01:00:44 PM\n",
+         "source": "email",
+         "to": "<Drew.Fossum@enron.com>"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 40,
+         "rawfrom": "<Drew.Fossum@enron.com>\n",
+         "source": "email",
+         "to": "George Briden <gbriden.snakehill@worldnet.att.net>"
+      },
+      {
+         "from": "gbriden.snakehill@worldnet.att.net",
+         "line": 61,
+         "rawfrom": "gbriden.snakehill@worldnet.att.net",
+         "source": "valid",
+         "to": "<dfossum@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/all_documents/300.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "dhooker@utilicorp.com"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 26,
+         "rawfrom": "\"Hooker, David\" <DHooker@UtiliCorp.com> on 05/18/2000 01:10:27 PM\n",
+         "source": "email",
+         "to": "\"Peldner, Patrick\" <PPeldner@utilicorp.com>, \"'Drew.Fossum@enron.com'\""
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 77,
+         "rawfrom": "Drew.Fossum@enron.com\n",
+         "source": "valid",
+         "to": "Hooker, David"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 96,
+         "rawfrom": "DHooker@UtiliCorp.com",
+         "source": "valid",
+         "to": "\"'Drew.Fossum@enron.com'\""
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 116,
+         "rawfrom": "  Drew.Fossum@enron.com\n",
+         "source": "valid",
+         "to": "DHooker@UtiliCorp.com;"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/all_documents/909.",
+   "hops": [
+      {
+         "from": "dhooker@caes.net",
+         "line": 4,
+         "rawfrom": "dhooker@caes.net\r\n",
+         "source": "valid",
+         "to": "drew.fossum@enron.com"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 23,
+         "rawfrom": "Drew.Fossum@enron.com [mailto:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "Hooker, David"
+      },
+      {
+         "from": "dhooker@caes.net",
+         "line": 37,
+         "rawfrom": "\"Hooker, David\" <dhooker@caes.net> on 11/22/2000 09:47:43 AM\n",
+         "source": "email",
+         "to": "Drew.Fossum@enron.com"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 48,
+         "rawfrom": "Drew.Fossum@enron.com [mailto:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "dhooker@caes.net"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/all_documents/280.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "dhooker@utilicorp.com"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 24,
+         "rawfrom": "\"Hooker, David\" <DHooker@UtiliCorp.com> on 05/08/2000 03:03:36 PM\n",
+         "source": "email",
+         "to": "\"'Drew.Fossum@enron.com'\" <Drew.Fossum@enron.com>"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 38,
+         "rawfrom": "Drew.Fossum@enron.com [SMTP:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "Hooker, David"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 52,
+         "rawfrom": "DHooker@UtiliCorp.com",
+         "source": "valid",
+         "to": "\"'Drew.Fossum@enron.com'\" <Drew.Fossum@enron.com>"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 65,
+         "rawfrom": "  Drew.Fossum@enron.com [SMTP:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "Hooker, David"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 84,
+         "rawfrom": "DHooker@UtiliCorp.com",
+         "source": "valid",
+         "to": "\"'Drew.Fossum@enron.com'\" <Drew.Fossum@enron.com>, \"Hooker, David\""
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 102,
+         "rawfrom": "  Drew.Fossum@enron.com [SMTP:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "dhooker@utilicorp.com; ppeldner@utilicorp.com;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/all_documents/450.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "martha.benner@enron.com"
+      },
+      {
+         "from": "martha.benner@enron.com",
+         "line": 52,
+         "rawfrom": "Martha.Benner@enron.com [mailto:Martha.Benner@enron.com]\n",
+         "source": "email",
+         "to": "Al Wilcox"
+      },
+      {
+         "from": "awilcox@dcbar.org",
+         "line": 76,
+         "rawfrom": "Al Wilcox <AWilcox@dcbar.org> on 08/03/2000 10:05:40 AM\n",
+         "source": "email",
+         "to": "\"'Martha.Benner@enron.com'\" <Martha.Benner@enron.com>"
+      },
+      {
+         "from": "martha.benner@enron.com",
+         "line": 101,
+         "rawfrom": "Martha.Benner@enron.com [mailto:Martha.Benner@enron.com]\n",
+         "source": "email",
+         "to": "Al Wilcox"
+      },
+      {
+         "from": "awilcox@dcbar.org",
+         "line": 116,
+         "rawfrom": "Al Wilcox <AWilcox@dcbar.org> on 08/03/2000 09:08:51 AM\n",
+         "source": "email",
+         "to": "\"'Martha.Benner@enron.com'\" <Martha.Benner@enron.com>"
+      },
+      {
+         "from": "martha.benner@enron.com",
+         "line": 132,
+         "rawfrom": "Martha.Benner@enron.com [mailto:Martha.Benner@enron.com]\n",
+         "source": "email",
+         "to": "IT@dcbar.org"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/all_documents/483.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "dhooker@utilicorp.com"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 25,
+         "rawfrom": "\"Hooker, David\" <DHooker@UtiliCorp.com> on 09/05/2000 06:41:24 AM\n",
+         "source": "email",
+         "to": "\"'Drew.Fossum@enron.com'\" <Drew.Fossum@enron.com>"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 37,
+         "rawfrom": "Drew.Fossum@enron.com [mailto:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "Hooker, David"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 52,
+         "rawfrom": "\"Hooker, David\" <DHooker@UtiliCorp.com> on 09/01/2000 06:37:54 AM\n",
+         "source": "email",
+         "to": "\"'Drew.Fossum@enron.com'\" <Drew.Fossum@enron.com>"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 65,
+         "rawfrom": "Drew.Fossum@enron.com [mailto:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "dhooker@utilicorp.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/all_documents/273.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "dhooker@utilicorp.com"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 26,
+         "rawfrom": "\"Hooker, David\" <DHooker@UtiliCorp.com> on 05/08/2000 06:41:00 AM\n",
+         "source": "email",
+         "to": "\"'Drew.Fossum@enron.com'\" <Drew.Fossum@enron.com>"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 39,
+         "rawfrom": "Drew.Fossum@enron.com [SMTP:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "Hooker, David"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 56,
+         "rawfrom": "DHooker@UtiliCorp.com",
+         "source": "valid",
+         "to": "\"'Drew.Fossum@enron.com'\" <Drew.Fossum@enron.com>, \"Hooker, David\""
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 73,
+         "rawfrom": "  Drew.Fossum@enron.com [SMTP:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "dhooker@utilicorp.com; ppeldner@utilicorp.com;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/all_documents/302.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "ppeldner@utilicorp.com"
+      },
+      {
+         "from": "ppeldner@utilicorp.com",
+         "line": 27,
+         "rawfrom": "\"Peldner, Patrick\" <PPeldner@utilicorp.com> on 05/18/2000 12:11:41 PM\n",
+         "source": "email",
+         "to": "\"Hooker, David\" <DHooker@UtiliCorp.com>, \"'Drew.Fossum@enron.com'\""
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 65,
+         "rawfrom": "Drew.Fossum@enron.com [SMTP:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "Hooker, David"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 84,
+         "rawfrom": "DHooker@UtiliCorp.com",
+         "source": "valid",
+         "to": "\"'Drew.Fossum@enron.com'\" <Drew.Fossum@enron.com>,"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 103,
+         "rawfrom": "  Drew.Fossum@enron.com [SMTP:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "DHooker@UtiliCorp.com; PPeldner@UtiliCorp.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/all_documents/1703.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "jeffery.fawcett@enron.com"
+      },
+      {
+         "from": "igi@nctimes.net",
+         "line": 85,
+         "rawfrom": " Kirk Ketcherside <igi@nctimes.net>@ENRON \n",
+         "source": "email",
+         "to": "Fawcett, Jeffery"
+      },
+      {
+         "from": "igi@nctimes.net",
+         "line": 128,
+         "rawfrom": "igi@nctimes.net",
+         "source": "valid",
+         "to": "Jeffery.Fawcett@enron.com"
+      },
+      {
+         "from": "igi@nctimes.net",
+         "line": 193,
+         "rawfrom": "igi@nctimes.net",
+         "source": "valid",
+         "to": "jfawcet@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/all_documents/380.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "louis.soldano@enron.com"
+      },
+      {
+         "from": "rich.jolly@enron.com",
+         "line": 70,
+         "rawfrom": " Rich.Jolly@enron.com[SMTP:Rich.Jolly@enron.com]\n",
+         "source": "email",
+         "to": "Boschee, Rodney; Michel.Nelson@enron.com; Earl.Chanley@enron.com;"
+      },
+      {
+         "from": "rab9@pge.com",
+         "line": 113,
+         "rawfrom": "RAB9@pge.com",
+         "source": "valid",
+         "to": "\"'Rich.Jolly@enron.com'\" <Rich.Jolly@enron.com>"
+      },
+      {
+         "from": "rich.jolly@enron.com",
+         "line": 131,
+         "rawfrom": "  Rich.Jolly@enron.com[SMTP:Rich.Jolly@enron.com]\n",
+         "source": "email",
+         "to": "Boschee, Rodney"
+      },
+      {
+         "from": "rab9@pge.com",
+         "line": 159,
+         "rawfrom": "RAB9@pge.com",
+         "source": "valid",
+         "to": "\"'rjolly@enron.com'\" <rjolly@enron.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/all_documents/826.",
+   "hops": [
+      {
+         "from": "dschumeister@shearman.com",
+         "line": 4,
+         "rawfrom": "dschumeister@shearman.com\r\n",
+         "source": "valid",
+         "to": "drew.fossum@enron.com"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 31,
+         "rawfrom": "Drew.Fossum@enron.com on 11/19/2000 08:22:05 PM\n",
+         "source": "email",
+         "to": "David N Schumeister/NY/NA/ShS@ShSDOMAIN"
+      },
+      {
+         "from": "dschumeister@shearman.com",
+         "line": 49,
+         "rawfrom": "\"David N Schumeister\" <dschumeister@shearman.com> on 11/16/2000 10:43:41 AM\n",
+         "source": "email",
+         "to": "Drew.Fossum@enron.com"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 84,
+         "rawfrom": "Drew.Fossum@enron.com on 10/19/2000 09:15:04 AM\n",
+         "source": "email",
+         "to": "David N Schumeister/NY/NA/ShS@ShSDOMAIN"
+      },
+      {
+         "from": "dschumeister@shearman.com",
+         "line": 106,
+         "rawfrom": "\"David N Schumeister\" <dschumeister@shearman.com> on 10/19/2000 02:37:51 AM\n",
+         "source": "email",
+         "to": "Drew.Fossum@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/sent/296.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "dhooker@utilicorp.com"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 26,
+         "rawfrom": "\"Hooker, David\" <DHooker@UtiliCorp.com> on 05/18/2000 01:10:27 PM\n",
+         "source": "email",
+         "to": "\"Peldner, Patrick\" <PPeldner@utilicorp.com>, \"'Drew.Fossum@enron.com'\""
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 77,
+         "rawfrom": "Drew.Fossum@enron.com\n",
+         "source": "valid",
+         "to": "Hooker, David"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 96,
+         "rawfrom": "DHooker@UtiliCorp.com",
+         "source": "valid",
+         "to": "\"'Drew.Fossum@enron.com'\""
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 116,
+         "rawfrom": "  Drew.Fossum@enron.com\n",
+         "source": "valid",
+         "to": "DHooker@UtiliCorp.com;"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/sent/446.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "martha.benner@enron.com"
+      },
+      {
+         "from": "martha.benner@enron.com",
+         "line": 52,
+         "rawfrom": "Martha.Benner@enron.com [mailto:Martha.Benner@enron.com]\n",
+         "source": "email",
+         "to": "Al Wilcox"
+      },
+      {
+         "from": "awilcox@dcbar.org",
+         "line": 76,
+         "rawfrom": "Al Wilcox <AWilcox@dcbar.org> on 08/03/2000 10:05:40 AM\n",
+         "source": "email",
+         "to": "\"'Martha.Benner@enron.com'\" <Martha.Benner@enron.com>"
+      },
+      {
+         "from": "martha.benner@enron.com",
+         "line": 101,
+         "rawfrom": "Martha.Benner@enron.com [mailto:Martha.Benner@enron.com]\n",
+         "source": "email",
+         "to": "Al Wilcox"
+      },
+      {
+         "from": "awilcox@dcbar.org",
+         "line": 116,
+         "rawfrom": "Al Wilcox <AWilcox@dcbar.org> on 08/03/2000 09:08:51 AM\n",
+         "source": "email",
+         "to": "\"'Martha.Benner@enron.com'\" <Martha.Benner@enron.com>"
+      },
+      {
+         "from": "martha.benner@enron.com",
+         "line": 132,
+         "rawfrom": "Martha.Benner@enron.com [mailto:Martha.Benner@enron.com]\n",
+         "source": "email",
+         "to": "IT@dcbar.org"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/sent/277.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "dhooker@utilicorp.com"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 24,
+         "rawfrom": "\"Hooker, David\" <DHooker@UtiliCorp.com> on 05/08/2000 03:03:36 PM\n",
+         "source": "email",
+         "to": "\"'Drew.Fossum@enron.com'\" <Drew.Fossum@enron.com>"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 38,
+         "rawfrom": "Drew.Fossum@enron.com [SMTP:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "Hooker, David"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 52,
+         "rawfrom": "DHooker@UtiliCorp.com",
+         "source": "valid",
+         "to": "\"'Drew.Fossum@enron.com'\" <Drew.Fossum@enron.com>"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 65,
+         "rawfrom": "  Drew.Fossum@enron.com [SMTP:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "Hooker, David"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 84,
+         "rawfrom": "DHooker@UtiliCorp.com",
+         "source": "valid",
+         "to": "\"'Drew.Fossum@enron.com'\" <Drew.Fossum@enron.com>, \"Hooker, David\""
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 102,
+         "rawfrom": "  Drew.Fossum@enron.com [SMTP:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "dhooker@utilicorp.com; ppeldner@utilicorp.com;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/sent/270.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "dhooker@utilicorp.com"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 26,
+         "rawfrom": "\"Hooker, David\" <DHooker@UtiliCorp.com> on 05/08/2000 06:41:00 AM\n",
+         "source": "email",
+         "to": "\"'Drew.Fossum@enron.com'\" <Drew.Fossum@enron.com>"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 39,
+         "rawfrom": "Drew.Fossum@enron.com [SMTP:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "Hooker, David"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 56,
+         "rawfrom": "DHooker@UtiliCorp.com",
+         "source": "valid",
+         "to": "\"'Drew.Fossum@enron.com'\" <Drew.Fossum@enron.com>, \"Hooker, David\""
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 73,
+         "rawfrom": "  Drew.Fossum@enron.com [SMTP:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "dhooker@utilicorp.com; ppeldner@utilicorp.com;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/sent/377.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "louis.soldano@enron.com"
+      },
+      {
+         "from": "rich.jolly@enron.com",
+         "line": 70,
+         "rawfrom": " Rich.Jolly@enron.com[SMTP:Rich.Jolly@enron.com]\n",
+         "source": "email",
+         "to": "Boschee, Rodney; Michel.Nelson@enron.com; Earl.Chanley@enron.com;"
+      },
+      {
+         "from": "rab9@pge.com",
+         "line": 113,
+         "rawfrom": "RAB9@pge.com",
+         "source": "valid",
+         "to": "\"'Rich.Jolly@enron.com'\" <Rich.Jolly@enron.com>"
+      },
+      {
+         "from": "rich.jolly@enron.com",
+         "line": 131,
+         "rawfrom": "  Rich.Jolly@enron.com[SMTP:Rich.Jolly@enron.com]\n",
+         "source": "email",
+         "to": "Boschee, Rodney"
+      },
+      {
+         "from": "rab9@pge.com",
+         "line": 159,
+         "rawfrom": "RAB9@pge.com",
+         "source": "valid",
+         "to": "\"'rjolly@enron.com'\" <rjolly@enron.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/sent/298.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "ppeldner@utilicorp.com"
+      },
+      {
+         "from": "ppeldner@utilicorp.com",
+         "line": 27,
+         "rawfrom": "\"Peldner, Patrick\" <PPeldner@utilicorp.com> on 05/18/2000 12:11:41 PM\n",
+         "source": "email",
+         "to": "\"Hooker, David\" <DHooker@UtiliCorp.com>, \"'Drew.Fossum@enron.com'\""
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 65,
+         "rawfrom": "Drew.Fossum@enron.com [SMTP:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "Hooker, David"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 84,
+         "rawfrom": "DHooker@UtiliCorp.com",
+         "source": "valid",
+         "to": "\"'Drew.Fossum@enron.com'\" <Drew.Fossum@enron.com>,"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 103,
+         "rawfrom": "  Drew.Fossum@enron.com [SMTP:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "DHooker@UtiliCorp.com; PPeldner@UtiliCorp.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/sent/980.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "dhooker@caes.net"
+      },
+      {
+         "from": "dhooker@caes.net",
+         "line": 27,
+         "rawfrom": "\"Hooker, David\" <dhooker@caes.net> on 12/15/2000 02:47:13 PM\n",
+         "source": "email",
+         "to": "Drew.Fossum@enron.com, Alan Jenkins <ajenkins@lanlaw.com>"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 40,
+         "rawfrom": "Drew.Fossum@enron.com [mailto:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "Alan Jenkins"
+      },
+      {
+         "from": "ajenkins@lanlaw.com",
+         "line": 58,
+         "rawfrom": "\"Alan Jenkins\" <ajenkins@lanlaw.com> on 12/13/2000 04:35:48 PM\n",
+         "source": "email",
+         "to": "dhill@bspmlaw.com, Dhooker@caes.net, dfossum@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/sent/1260.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "jeffery.fawcett@enron.com"
+      },
+      {
+         "from": "igi@nctimes.net",
+         "line": 85,
+         "rawfrom": " Kirk Ketcherside <igi@nctimes.net>@ENRON \n",
+         "source": "email",
+         "to": "Fawcett, Jeffery"
+      },
+      {
+         "from": "igi@nctimes.net",
+         "line": 128,
+         "rawfrom": "igi@nctimes.net",
+         "source": "valid",
+         "to": "Jeffery.Fawcett@enron.com"
+      },
+      {
+         "from": "igi@nctimes.net",
+         "line": 193,
+         "rawfrom": "igi@nctimes.net",
+         "source": "valid",
+         "to": "jfawcet@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/sent/140.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "gbriden.snakehill@worldnet.att.net"
+      },
+      {
+         "from": "gbriden.snakehill@worldnet.att.net",
+         "line": 27,
+         "rawfrom": "\"George Briden\" <gbriden.snakehill@worldnet.att.net> on 02/22/2000 01:00:44 PM\n",
+         "source": "email",
+         "to": "<Drew.Fossum@enron.com>"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 40,
+         "rawfrom": "<Drew.Fossum@enron.com>\n",
+         "source": "email",
+         "to": "George Briden <gbriden.snakehill@worldnet.att.net>"
+      },
+      {
+         "from": "gbriden.snakehill@worldnet.att.net",
+         "line": 61,
+         "rawfrom": "gbriden.snakehill@worldnet.att.net",
+         "source": "valid",
+         "to": "<dfossum@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/sent/479.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "dhooker@utilicorp.com"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 25,
+         "rawfrom": "\"Hooker, David\" <DHooker@UtiliCorp.com> on 09/05/2000 06:41:24 AM\n",
+         "source": "email",
+         "to": "\"'Drew.Fossum@enron.com'\" <Drew.Fossum@enron.com>"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 37,
+         "rawfrom": "Drew.Fossum@enron.com [mailto:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "Hooker, David"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 52,
+         "rawfrom": "\"Hooker, David\" <DHooker@UtiliCorp.com> on 09/01/2000 06:37:54 AM\n",
+         "source": "email",
+         "to": "\"'Drew.Fossum@enron.com'\" <Drew.Fossum@enron.com>"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 65,
+         "rawfrom": "Drew.Fossum@enron.com [mailto:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "dhooker@utilicorp.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/notes_inbox/154.",
+   "hops": [
+      {
+         "from": "dhooker@caes.net",
+         "line": 4,
+         "rawfrom": "dhooker@caes.net\r\n",
+         "source": "valid",
+         "to": "drew.fossum@enron.com"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 23,
+         "rawfrom": "Drew.Fossum@enron.com [mailto:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "Hooker, David"
+      },
+      {
+         "from": "dhooker@caes.net",
+         "line": 37,
+         "rawfrom": "\"Hooker, David\" <dhooker@caes.net> on 11/22/2000 09:47:43 AM\n",
+         "source": "email",
+         "to": "Drew.Fossum@enron.com"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 48,
+         "rawfrom": "Drew.Fossum@enron.com [mailto:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "dhooker@caes.net"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/notes_inbox/220.",
+   "hops": [
+      {
+         "from": "dschumeister@shearman.com",
+         "line": 4,
+         "rawfrom": "dschumeister@shearman.com\r\n",
+         "source": "valid",
+         "to": "drew.fossum@enron.com"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 31,
+         "rawfrom": "Drew.Fossum@enron.com on 11/19/2000 08:22:05 PM\n",
+         "source": "email",
+         "to": "David N Schumeister/NY/NA/ShS@ShSDOMAIN"
+      },
+      {
+         "from": "dschumeister@shearman.com",
+         "line": 49,
+         "rawfrom": "\"David N Schumeister\" <dschumeister@shearman.com> on 11/16/2000 10:43:41 AM\n",
+         "source": "email",
+         "to": "Drew.Fossum@enron.com"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 84,
+         "rawfrom": "Drew.Fossum@enron.com on 10/19/2000 09:15:04 AM\n",
+         "source": "email",
+         "to": "David N Schumeister/NY/NA/ShS@ShSDOMAIN"
+      },
+      {
+         "from": "dschumeister@shearman.com",
+         "line": 106,
+         "rawfrom": "\"David N Schumeister\" <dschumeister@shearman.com> on 10/19/2000 02:37:51 AM\n",
+         "source": "email",
+         "to": "Drew.Fossum@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/discussion_threads/579.",
+   "hops": [
+      {
+         "from": "dschumeister@shearman.com",
+         "line": 4,
+         "rawfrom": "dschumeister@shearman.com\r\n",
+         "source": "valid",
+         "to": "drew.fossum@enron.com"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 31,
+         "rawfrom": "Drew.Fossum@enron.com on 11/19/2000 08:22:05 PM\n",
+         "source": "email",
+         "to": "David N Schumeister/NY/NA/ShS@ShSDOMAIN"
+      },
+      {
+         "from": "dschumeister@shearman.com",
+         "line": 49,
+         "rawfrom": "\"David N Schumeister\" <dschumeister@shearman.com> on 11/16/2000 10:43:41 AM\n",
+         "source": "email",
+         "to": "Drew.Fossum@enron.com"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 84,
+         "rawfrom": "Drew.Fossum@enron.com on 10/19/2000 09:15:04 AM\n",
+         "source": "email",
+         "to": "David N Schumeister/NY/NA/ShS@ShSDOMAIN"
+      },
+      {
+         "from": "dschumeister@shearman.com",
+         "line": 106,
+         "rawfrom": "\"David N Schumeister\" <dschumeister@shearman.com> on 10/19/2000 02:37:51 AM\n",
+         "source": "email",
+         "to": "Drew.Fossum@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/discussion_threads/655.",
+   "hops": [
+      {
+         "from": "dhooker@caes.net",
+         "line": 4,
+         "rawfrom": "dhooker@caes.net\r\n",
+         "source": "valid",
+         "to": "drew.fossum@enron.com"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 23,
+         "rawfrom": "Drew.Fossum@enron.com [mailto:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "Hooker, David"
+      },
+      {
+         "from": "dhooker@caes.net",
+         "line": 37,
+         "rawfrom": "\"Hooker, David\" <dhooker@caes.net> on 11/22/2000 09:47:43 AM\n",
+         "source": "email",
+         "to": "Drew.Fossum@enron.com"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 48,
+         "rawfrom": "Drew.Fossum@enron.com [mailto:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "dhooker@caes.net"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/_sent_mail/666.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "jeffery.fawcett@enron.com"
+      },
+      {
+         "from": "igi@nctimes.net",
+         "line": 85,
+         "rawfrom": " Kirk Ketcherside <igi@nctimes.net>@ENRON \n",
+         "source": "email",
+         "to": "Fawcett, Jeffery"
+      },
+      {
+         "from": "igi@nctimes.net",
+         "line": 128,
+         "rawfrom": "igi@nctimes.net",
+         "source": "valid",
+         "to": "Jeffery.Fawcett@enron.com"
+      },
+      {
+         "from": "igi@nctimes.net",
+         "line": 193,
+         "rawfrom": "igi@nctimes.net",
+         "source": "valid",
+         "to": "jfawcet@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/_sent_mail/381.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "dhooker@utilicorp.com"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 26,
+         "rawfrom": "\"Hooker, David\" <DHooker@UtiliCorp.com> on 05/08/2000 06:41:00 AM\n",
+         "source": "email",
+         "to": "\"'Drew.Fossum@enron.com'\" <Drew.Fossum@enron.com>"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 39,
+         "rawfrom": "Drew.Fossum@enron.com [SMTP:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "Hooker, David"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 56,
+         "rawfrom": "DHooker@UtiliCorp.com",
+         "source": "valid",
+         "to": "\"'Drew.Fossum@enron.com'\" <Drew.Fossum@enron.com>, \"Hooker, David\""
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 73,
+         "rawfrom": "  Drew.Fossum@enron.com [SMTP:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "dhooker@utilicorp.com; ppeldner@utilicorp.com;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/_sent_mail/511.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "gbriden.snakehill@worldnet.att.net"
+      },
+      {
+         "from": "gbriden.snakehill@worldnet.att.net",
+         "line": 27,
+         "rawfrom": "\"George Briden\" <gbriden.snakehill@worldnet.att.net> on 02/22/2000 01:00:44 PM\n",
+         "source": "email",
+         "to": "<Drew.Fossum@enron.com>"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 40,
+         "rawfrom": "<Drew.Fossum@enron.com>\n",
+         "source": "email",
+         "to": "George Briden <gbriden.snakehill@worldnet.att.net>"
+      },
+      {
+         "from": "gbriden.snakehill@worldnet.att.net",
+         "line": 61,
+         "rawfrom": "gbriden.snakehill@worldnet.att.net",
+         "source": "valid",
+         "to": "<dfossum@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/_sent_mail/205.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "martha.benner@enron.com"
+      },
+      {
+         "from": "martha.benner@enron.com",
+         "line": 52,
+         "rawfrom": "Martha.Benner@enron.com [mailto:Martha.Benner@enron.com]\n",
+         "source": "email",
+         "to": "Al Wilcox"
+      },
+      {
+         "from": "awilcox@dcbar.org",
+         "line": 76,
+         "rawfrom": "Al Wilcox <AWilcox@dcbar.org> on 08/03/2000 10:05:40 AM\n",
+         "source": "email",
+         "to": "\"'Martha.Benner@enron.com'\" <Martha.Benner@enron.com>"
+      },
+      {
+         "from": "martha.benner@enron.com",
+         "line": 101,
+         "rawfrom": "Martha.Benner@enron.com [mailto:Martha.Benner@enron.com]\n",
+         "source": "email",
+         "to": "Al Wilcox"
+      },
+      {
+         "from": "awilcox@dcbar.org",
+         "line": 116,
+         "rawfrom": "Al Wilcox <AWilcox@dcbar.org> on 08/03/2000 09:08:51 AM\n",
+         "source": "email",
+         "to": "\"'Martha.Benner@enron.com'\" <Martha.Benner@enron.com>"
+      },
+      {
+         "from": "martha.benner@enron.com",
+         "line": 132,
+         "rawfrom": "Martha.Benner@enron.com [mailto:Martha.Benner@enron.com]\n",
+         "source": "email",
+         "to": "IT@dcbar.org"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/_sent_mail/354.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "dhooker@utilicorp.com"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 26,
+         "rawfrom": "\"Hooker, David\" <DHooker@UtiliCorp.com> on 05/18/2000 01:10:27 PM\n",
+         "source": "email",
+         "to": "\"Peldner, Patrick\" <PPeldner@utilicorp.com>, \"'Drew.Fossum@enron.com'\""
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 77,
+         "rawfrom": "Drew.Fossum@enron.com\n",
+         "source": "valid",
+         "to": "Hooker, David"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 96,
+         "rawfrom": "DHooker@UtiliCorp.com",
+         "source": "valid",
+         "to": "\"'Drew.Fossum@enron.com'\""
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 116,
+         "rawfrom": "  Drew.Fossum@enron.com\n",
+         "source": "valid",
+         "to": "DHooker@UtiliCorp.com;"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/_sent_mail/172.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "dhooker@utilicorp.com"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 25,
+         "rawfrom": "\"Hooker, David\" <DHooker@UtiliCorp.com> on 09/05/2000 06:41:24 AM\n",
+         "source": "email",
+         "to": "\"'Drew.Fossum@enron.com'\" <Drew.Fossum@enron.com>"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 37,
+         "rawfrom": "Drew.Fossum@enron.com [mailto:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "Hooker, David"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 52,
+         "rawfrom": "\"Hooker, David\" <DHooker@UtiliCorp.com> on 09/01/2000 06:37:54 AM\n",
+         "source": "email",
+         "to": "\"'Drew.Fossum@enron.com'\" <Drew.Fossum@enron.com>"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 65,
+         "rawfrom": "Drew.Fossum@enron.com [mailto:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "dhooker@utilicorp.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/_sent_mail/945.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "dhooker@caes.net"
+      },
+      {
+         "from": "dhooker@caes.net",
+         "line": 27,
+         "rawfrom": "\"Hooker, David\" <dhooker@caes.net> on 12/15/2000 02:47:13 PM\n",
+         "source": "email",
+         "to": "Drew.Fossum@enron.com, Alan Jenkins <ajenkins@lanlaw.com>"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 40,
+         "rawfrom": "Drew.Fossum@enron.com [mailto:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "Alan Jenkins"
+      },
+      {
+         "from": "ajenkins@lanlaw.com",
+         "line": 58,
+         "rawfrom": "\"Alan Jenkins\" <ajenkins@lanlaw.com> on 12/13/2000 04:35:48 PM\n",
+         "source": "email",
+         "to": "dhill@bspmlaw.com, Dhooker@caes.net, dfossum@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/_sent_mail/1290.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "jeffery.fawcett@enron.com"
+      },
+      {
+         "from": "igi@nctimes.net",
+         "line": 47,
+         "rawfrom": "\tKirk Ketcherside <igi@nctimes.net>@ENRON [mailto:IMCEANOTES-Kirk+20Ketcherside+20+3Cigi+40nctimes+2Enet+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Fawcett, Jeffery"
+      },
+      {
+         "from": "igi@nctimes.net",
+         "line": 90,
+         "rawfrom": "igi@nctimes.net",
+         "source": "valid",
+         "to": "Jeffery.Fawcett@enron.com"
+      },
+      {
+         "from": "igi@nctimes.net",
+         "line": 155,
+         "rawfrom": "igi@nctimes.net",
+         "source": "valid",
+         "to": "jfawcet@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/_sent_mail/352.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "ppeldner@utilicorp.com"
+      },
+      {
+         "from": "ppeldner@utilicorp.com",
+         "line": 27,
+         "rawfrom": "\"Peldner, Patrick\" <PPeldner@utilicorp.com> on 05/18/2000 12:11:41 PM\n",
+         "source": "email",
+         "to": "\"Hooker, David\" <DHooker@UtiliCorp.com>, \"'Drew.Fossum@enron.com'\""
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 65,
+         "rawfrom": "Drew.Fossum@enron.com [SMTP:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "Hooker, David"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 84,
+         "rawfrom": "DHooker@UtiliCorp.com",
+         "source": "valid",
+         "to": "\"'Drew.Fossum@enron.com'\" <Drew.Fossum@enron.com>,"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 103,
+         "rawfrom": "  Drew.Fossum@enron.com [SMTP:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "DHooker@UtiliCorp.com; PPeldner@UtiliCorp.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/_sent_mail/374.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "dhooker@utilicorp.com"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 24,
+         "rawfrom": "\"Hooker, David\" <DHooker@UtiliCorp.com> on 05/08/2000 03:03:36 PM\n",
+         "source": "email",
+         "to": "\"'Drew.Fossum@enron.com'\" <Drew.Fossum@enron.com>"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 38,
+         "rawfrom": "Drew.Fossum@enron.com [SMTP:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "Hooker, David"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 52,
+         "rawfrom": "DHooker@UtiliCorp.com",
+         "source": "valid",
+         "to": "\"'Drew.Fossum@enron.com'\" <Drew.Fossum@enron.com>"
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 65,
+         "rawfrom": "  Drew.Fossum@enron.com [SMTP:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "Hooker, David"
+      },
+      {
+         "from": "dhooker@utilicorp.com",
+         "line": 84,
+         "rawfrom": "DHooker@UtiliCorp.com",
+         "source": "valid",
+         "to": "\"'Drew.Fossum@enron.com'\" <Drew.Fossum@enron.com>, \"Hooker, David\""
+      },
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 102,
+         "rawfrom": "  Drew.Fossum@enron.com [SMTP:Drew.Fossum@enron.com]\n",
+         "source": "email",
+         "to": "dhooker@utilicorp.com; ppeldner@utilicorp.com;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/fossum-d/_sent_mail/274.",
+   "hops": [
+      {
+         "from": "drew.fossum@enron.com",
+         "line": 4,
+         "rawfrom": "drew.fossum@enron.com\r\n",
+         "source": "valid",
+         "to": "louis.soldano@enron.com"
+      },
+      {
+         "from": "rich.jolly@enron.com",
+         "line": 70,
+         "rawfrom": " Rich.Jolly@enron.com[SMTP:Rich.Jolly@enron.com]\n",
+         "source": "email",
+         "to": "Boschee, Rodney; Michel.Nelson@enron.com; Earl.Chanley@enron.com;"
+      },
+      {
+         "from": "rab9@pge.com",
+         "line": 113,
+         "rawfrom": "RAB9@pge.com",
+         "source": "valid",
+         "to": "\"'Rich.Jolly@enron.com'\" <Rich.Jolly@enron.com>"
+      },
+      {
+         "from": "rich.jolly@enron.com",
+         "line": 131,
+         "rawfrom": "  Rich.Jolly@enron.com[SMTP:Rich.Jolly@enron.com]\n",
+         "source": "email",
+         "to": "Boschee, Rodney"
+      },
+      {
+         "from": "rab9@pge.com",
+         "line": 159,
+         "rawfrom": "RAB9@pge.com",
+         "source": "valid",
+         "to": "\"'rjolly@enron.com'\" <rjolly@enron.com>"
+      }
+   ],
+   "skipped": 3
+}
+]

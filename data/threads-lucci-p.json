@@ -1,0 +1,1457 @@
+[
+{
+   "file": "/home/jb/maildir/lucci-p/inbox/2.",
+   "hops": [
+      {
+         "from": "j..bump@enron.com",
+         "line": 4,
+         "rawfrom": "j..bump@enron.com\r\n",
+         "source": "valid",
+         "to": "t..lucci@enron.com"
+      },
+      {
+         "from": "dbump@kmg.com",
+         "line": 39,
+         "rawfrom": "\t\"Bump, David\" <dbump@kmg.com>@ENRON  \n",
+         "source": "email",
+         "to": "'Cdanjan8@cs.com'; 'dbump@houston.rr.com'; 'D-ROCK'; 'Ginnie & Cody'; 'Richard & Janet'"
+      },
+      {
+         "from": "eshanks@houston.deepwater.com",
+         "line": 47,
+         "rawfrom": "Shanks, Earl [mailto:EShanks@houston.deepwater.com]\n",
+         "source": "email",
+         "to": "'Bill Mahone'; 'Bob Pauken'; 'Buddy Brooks'; 'David Lewis'; 'Dennis"
+      },
+      {
+         "from": "emmettr@swbell.net",
+         "line": 57,
+         "rawfrom": "Emmett Richardson [mailto:emmettr@swbell.net]\n",
+         "source": "email",
+         "to": "Scott Bay; Ted Dubose; Bob LaCoste; Mike Krenek; Don Langrock; Glen"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/inbox/17.",
+   "hops": [
+      {
+         "from": "felinewoman@msn.com",
+         "line": 4,
+         "rawfrom": "felinewoman@msn.com\r\n",
+         "source": "valid",
+         "to": "t..lucci@enron.com"
+      },
+      {
+         "from": "felinewoman@msn.com",
+         "line": 33,
+         "rawfrom": "Deborah Herbertson [mailto:felinewoman@msn.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "felinewoman@msn.com",
+         "line": 54,
+         "rawfrom": "Deborah Herbertson [mailto:felinewoman@msn.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "felinewoman@msn.com",
+         "line": 74,
+         "rawfrom": "Deborah Herbertson [mailto:felinewoman@msn.com]\n",
+         "source": "email",
+         "to": "plucci@enron.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/inbox/14.",
+   "hops": [
+      {
+         "from": "amy.felling@enron.com",
+         "line": 4,
+         "rawfrom": "amy.felling@enron.com\r\n",
+         "source": "valid",
+         "to": "e-mail <.damion@enron.com>, e-mail <.cody@enron.com>,"
+      },
+      {
+         "from": "brittanyou@yahoo.com",
+         "line": 25,
+         "rawfrom": "Brittany Jacobs [mailto:brittanyou@yahoo.com]\n",
+         "source": "email",
+         "to": "April Sullivan; Amy Lynn Surjaatmadja; Cory Hoffart; Hunter Lane Jacobs; Jenn Knox; Brandon LaValley; Trevor Mann; andrew Sandubrae; Brian Carey; Jeff Coates; Chris Cohenour; Amy Lyn Felling; Greg Felling; Nathan Hall"
+      },
+      {
+         "from": "masterpete43@hotmail.com",
+         "line": 42,
+         "rawfrom": " <masterpete43@hotmail.com>\n",
+         "source": "email",
+         "to": "bobby_lg@address.com, brianstacycolton@hotmail.com, brittanyou@yahoo.com, camrenmichelle@hotmail.com, jerry_l74128@yahoo.com, johnrj@okstate.edu, lbkissee@yahoo.com, meadmatt119@msn.com, petersp@pryorok.org, PPeterscc@aol.com, sewerjuice@hotmail.com, stacy_7029@hotmail.com"
+      },
+      {
+         "from": "pryordesire@hotmail.com",
+         "line": 55,
+         "rawfrom": "\"Greg Keirsey\" <pryordesire@hotmail.com>\n",
+         "source": "email",
+         "to": "a_lloyd82@hotmail.com, calorenz@sgc.edu, lamsail@aol.com,"
+      },
+      {
+         "from": "daviholland@hotmail.com",
+         "line": 75,
+         "rawfrom": "\"david holland\" <daviholland@hotmail.com>\n",
+         "source": "email",
+         "to": "rogowska@urbanretail.com, gmbgolf@hotmail.com, bdkjellander@yahoo.com,"
+      },
+      {
+         "from": "tandk@sirinet.net",
+         "line": 94,
+         "rawfrom": "Kelli Williams <tandk@sirinet.net>\n",
+         "source": "email",
+         "to": "cheryl white <fotofool@qwest.net>, david holland"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/inbox/168.",
+   "hops": [
+      {
+         "from": "felinewoman@msn.com",
+         "line": 4,
+         "rawfrom": "felinewoman@msn.com\r\n",
+         "source": "valid",
+         "to": "t..lucci@enron.com"
+      },
+      {
+         "from": "felinewoman@msn.com",
+         "line": 31,
+         "rawfrom": "Deborah Herbertson [mailto:felinewoman@msn.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "felinewoman@msn.com",
+         "line": 50,
+         "rawfrom": "Deborah Herbertson [mailto:felinewoman@msn.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "felinewoman@msn.com",
+         "line": 68,
+         "rawfrom": "Deborah Herbertson [mailto:felinewoman@msn.com]\n",
+         "source": "email",
+         "to": "plucci@enron.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/inbox/36.",
+   "hops": [
+      {
+         "from": "j..bump@enron.com",
+         "line": 4,
+         "rawfrom": "j..bump@enron.com\r\n",
+         "source": "valid",
+         "to": "t..lucci@enron.com, mark.whitt@enron.com, ken.choyce@enron.com,"
+      },
+      {
+         "from": "sdulie12@aol.com",
+         "line": 24,
+         "rawfrom": "\tSdulie12@aol.com@ENRON  \n",
+         "source": "email",
+         "to": "Brown18807@aol.com; PBJ831@aol.com; cdanjan@iname.com; dan.bump@enron.com; dbump@houston.rr.com; back2tx@msn.com; JDULTAHOE@aol.com; KFRYE1@aol.com; kchitis@msn.com; stonte@msn.com; koreykirchner@hotmail.com; dloflin@trigo.com; Bred1019@aol.com; RMills4837@aol.com; lmize@houston.rr; Jcschulick@aol.com; BRaffe2179@aol.com; MAWhitt@aol.com; Whitt, Mark"
+      },
+      {
+         "from": "mshelly@acpbs.com",
+         "line": 36,
+         "rawfrom": "\"mshelly\" <mshelly@acpbs.com>\n",
+         "source": "email",
+         "to": "<attorney@acpbs.com>, \"sally shelly\" <shelly@pclnet.net>,        \"Randy Walton\" <rbwlaw@zebra.net>, \"allen ritchie\" <aar@wrglaw.com>,        \"Toby Brown\" <tdb@cbycb.com>, \"Tim Hathorn\" <TimboH432@cs.com>,        \"Dan Loflin\" <dloflin@trigo.com>,        \"David Walker\" <David_Walker@bmc.com>,        \"scott duliban\" <sdulie12@aol.com>,        \"Jerod Schulick\" <jcschulick@aol.com>,        \"Rob Jordan (E-mail)\" <jordanrob@email.msn.com>,        \"neal\" <neal@pclnet.net>,        \"Johnston, Nick\" <Nick.Johnston@msfc.nasa.gov>,        \"charles woodroof\" <cwoodroof@pclnet.net>,        \"mike white\" <mike@pclnet.net>"
+      },
+      {
+         "from": "jgurney@cusi.org",
+         "line": 49,
+         "rawfrom": "GURNEY JEFFREY <jgurney@cusi.org>\n",
+         "source": "email",
+         "to": "'Andy Stedman' <stedman@benefitwest.com>; 'Bart Richardson'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/inbox/15.",
+   "hops": [
+      {
+         "from": "felinewoman@msn.com",
+         "line": 4,
+         "rawfrom": "felinewoman@msn.com\r\n",
+         "source": "valid",
+         "to": "t..lucci@enron.com"
+      },
+      {
+         "from": "felinewoman@msn.com",
+         "line": 41,
+         "rawfrom": "Deborah Herbertson [mailto:felinewoman@msn.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "felinewoman@msn.com",
+         "line": 62,
+         "rawfrom": "Deborah Herbertson [mailto:felinewoman@msn.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "felinewoman@msn.com",
+         "line": 82,
+         "rawfrom": "Deborah Herbertson [mailto:felinewoman@msn.com]\n",
+         "source": "email",
+         "to": "plucci@enron.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/deleted_items/2.",
+   "hops": [
+      {
+         "from": "bob.williams@elpaso.com",
+         "line": 4,
+         "rawfrom": "bob.williams@elpaso.com\r\n",
+         "source": "valid",
+         "to": "t..lucci@enron.com"
+      },
+      {
+         "from": "paul.t.lucci@enron.com",
+         "line": 25,
+         "rawfrom": "Lucci, Paul T. [mailto:Paul.T.Lucci@ENRON.com]\n",
+         "source": "email",
+         "to": "Williams, Bob"
+      },
+      {
+         "from": "bob.williams@elpaso.com",
+         "line": 36,
+         "rawfrom": "Williams, Bob [mailto:Bob.Williams@ElPaso.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "paul.t.lucci@enron.com",
+         "line": 47,
+         "rawfrom": "Lucci, Paul T. [mailto:Paul.T.Lucci@ENRON.com]\n",
+         "source": "email",
+         "to": "Williams, Bob"
+      },
+      {
+         "from": "bob.williams@elpaso.com",
+         "line": 57,
+         "rawfrom": "Williams, Bob [mailto:Bob.Williams@ElPaso.com]\n",
+         "source": "email",
+         "to": "Bevans, Larry; Dougherty, Nathan; Jernigan, Steven ; Joey Brewer;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/deleted_items/5.",
+   "hops": [
+      {
+         "from": "j..bump@enron.com",
+         "line": 4,
+         "rawfrom": "j..bump@enron.com\r\n",
+         "source": "valid",
+         "to": "dbump@kmg.com"
+      },
+      {
+         "from": "dbump@kmg.com",
+         "line": 24,
+         "rawfrom": "\t\"Bump, David\" <dbump@kmg.com>@ENRON  \n",
+         "source": "email",
+         "to": "'Cdanjan8@cs.com'; 'dbump@houston.rr.com'; 'D-ROCK'; 'Ginnie & Cody'; 'Richard & Janet'"
+      },
+      {
+         "from": "eshanks@houston.deepwater.com",
+         "line": 32,
+         "rawfrom": "Shanks, Earl [mailto:EShanks@houston.deepwater.com]\n",
+         "source": "email",
+         "to": "'Bill Mahone'; 'Bob Pauken'; 'Buddy Brooks'; 'David Lewis'; 'Dennis"
+      },
+      {
+         "from": "emmettr@swbell.net",
+         "line": 42,
+         "rawfrom": "Emmett Richardson [mailto:emmettr@swbell.net]\n",
+         "source": "email",
+         "to": "Scott Bay; Ted Dubose; Bob LaCoste; Mike Krenek; Don Langrock; Glen"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/deleted_items/697.",
+   "hops": [
+      {
+         "from": "christina_122367@hotmail.com",
+         "line": 4,
+         "rawfrom": "christina_122367@hotmail.com\r\n",
+         "source": "valid",
+         "to": "t..lucci@enron.com"
+      },
+      {
+         "from": "paul.t.lucci@enron.com",
+         "line": 20,
+         "rawfrom": "\"Lucci, Paul T.\" <Paul.T.Lucci@ENRON.com>\n",
+         "source": "email",
+         "to": "\"Christina R-C\" <christina_122367@hotmail.com>"
+      },
+      {
+         "from": "christina_122367@hotmail.com",
+         "line": 29,
+         "rawfrom": "Christina R-C [mailto:christina_122367@hotmail.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "paul.t.lucci@enron.com",
+         "line": 39,
+         "rawfrom": "\"Lucci, Paul T.\" <Paul.T.Lucci@ENRON.com>\n",
+         "source": "email",
+         "to": "\"Christina R-C\" <christina_122367@hotmail.com>"
+      },
+      {
+         "from": "christina_122367@hotmail.com",
+         "line": 48,
+         "rawfrom": "Christina R-C [mailto:christina_122367@hotmail.com]\n",
+         "source": "email",
+         "to": "plucci@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/deleted_items/88.",
+   "hops": [
+      {
+         "from": "t..lucci@enron.com",
+         "line": 4,
+         "rawfrom": "t..lucci@enron.com\r\n",
+         "source": "valid",
+         "to": "lisab@int.iwhm.com"
+      },
+      {
+         "from": "lisab@int.iwhm.com",
+         "line": 24,
+         "rawfrom": "lisab [mailto:lisab@int.iwhm.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "lisab@int.iwhm.com",
+         "line": 41,
+         "rawfrom": "lisab [mailto:lisab@int.iwhm.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "lisab@int.iwhm.com",
+         "line": 60,
+         "rawfrom": "lisab [mailto:lisab@int.iwhm.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "lisab@int.iwhm.com",
+         "line": 77,
+         "rawfrom": "lisab [mailto:lisab@int.iwhm.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/deleted_items/298.",
+   "hops": [
+      {
+         "from": "tcooper@ngfc.com",
+         "line": 4,
+         "rawfrom": "tcooper@ngfc.com\r\n",
+         "source": "valid",
+         "to": "townsend.christopher@enron.com, larocque.corinne@enron.com, erin@enron.com,"
+      },
+      {
+         "from": "dtheriault@octagonresources.com",
+         "line": 20,
+         "rawfrom": "\"Danna Theriault\" <DTheriault@OctagonResources.com>\n",
+         "source": "email",
+         "to": "Becky Starr <ALITTLEHOT@aol.com>Brian Theriault"
+      },
+      {
+         "from": "blcattle@rectec.net",
+         "line": 41,
+         "rawfrom": " <blcattle@rectec.net>\n",
+         "source": "email",
+         "to": "dtheriault@octagonresources.com"
+      },
+      {
+         "from": "cumminsatu@netzero.net",
+         "line": 48,
+         "rawfrom": "\"cumminsatu\" <cumminsatu@netzero.net>\n",
+         "source": "email",
+         "to": "\"tom kerr\" <vfr86@mindspring.com>,"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/deleted_items/182.",
+   "hops": [
+      {
+         "from": "larry.bevans@elpaso.com",
+         "line": 4,
+         "rawfrom": "larry.bevans@elpaso.com\r\n",
+         "source": "valid",
+         "to": "t..lucci@enron.com"
+      },
+      {
+         "from": "paul.t.lucci@enron.com",
+         "line": 25,
+         "rawfrom": "Lucci, Paul T. [mailto:Paul.T.Lucci@ENRON.com]\n",
+         "source": "email",
+         "to": "Bevans, Larry"
+      },
+      {
+         "from": "larry.bevans@elpaso.com",
+         "line": 36,
+         "rawfrom": "Bevans, Larry [mailto:Larry.Bevans@ElPaso.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "paul.t.lucci@enron.com",
+         "line": 47,
+         "rawfrom": "Lucci, Paul T. [mailto:Paul.T.Lucci@ENRON.com]\n",
+         "source": "email",
+         "to": "Bevans, Larry"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/deleted_items/99.",
+   "hops": [
+      {
+         "from": "t..lucci@enron.com",
+         "line": 4,
+         "rawfrom": "t..lucci@enron.com\r\n",
+         "source": "valid",
+         "to": "felinewoman@msn.com"
+      },
+      {
+         "from": "felinewoman@msn.com",
+         "line": 29,
+         "rawfrom": "Deborah Herbertson [mailto:felinewoman@msn.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "felinewoman@msn.com",
+         "line": 50,
+         "rawfrom": "Deborah Herbertson [mailto:felinewoman@msn.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "felinewoman@msn.com",
+         "line": 70,
+         "rawfrom": "Deborah Herbertson [mailto:felinewoman@msn.com]\n",
+         "source": "email",
+         "to": "plucci@enron.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/deleted_items/262.",
+   "hops": [
+      {
+         "from": "mark.whitt@enron.com",
+         "line": 4,
+         "rawfrom": "mark.whitt@enron.com\r\n",
+         "source": "valid",
+         "to": "t..lucci@enron.com"
+      },
+      {
+         "from": "mappling@chematch.com",
+         "line": 22,
+         "rawfrom": "Appling, Mike [mailto:mappling@chematch.com]\n",
+         "source": "email",
+         "to": "Arthur Carpentier (E-mail); Brett Treadwell (E-mail); Brian Cannell"
+      },
+      {
+         "from": "john@herc.net",
+         "line": 47,
+         "rawfrom": "John O'Neal [mailto:john@herc.net]\n",
+         "source": "email",
+         "to": "McAfee, Larry"
+      },
+      {
+         "from": "bileu@aol.com",
+         "line": 54,
+         "rawfrom": "<BILEU@aol.com>\n",
+         "source": "email",
+         "to": "<dick@dethloffinsurance.com>; <djjames@ipa.net>; <awferg@swbell.net>;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/deleted_items/126.",
+   "hops": [
+      {
+         "from": "syntrade@hotmail.com",
+         "line": 4,
+         "rawfrom": "syntrade@hotmail.com\r\n",
+         "source": "valid",
+         "to": "awhite@cbs.com, rappold@aol.com, djones@calpine.com, kblume@logicon.com,"
+      },
+      {
+         "from": "duke.ebert@mail.wvu.edu",
+         "line": 27,
+         "rawfrom": "\"Duke Ebert\" <Duke.Ebert@mail.wvu.edu>\n",
+         "source": "email",
+         "to": "<missinglink@adelphia.net>,<BSteinb210@aol.com>, <Mikecl78@aol.com>,"
+      },
+      {
+         "from": "duke.ebert@mail.wvu.edu",
+         "line": 46,
+         "rawfrom": " <Duke.Ebert@mail.wvu.edu>\n",
+         "source": "email",
+         "to": "missinglink@adelphia.net, BSteinb210@aol.com, Mikecl78@aol.com, RARSOC420@aol.com, MCarlberg@cellxion.com, barbwire@citynet.net, matchen@geosrv.wvnet.edu, dipbryan@home.com, acebert@hotmail.com, syntrade@hotmail.com, brak@labyrinth.net, marcihill@mail.mdanderson.org, u1a01133@mail.wvnet.edu, Vic Baker <Vic.Baker@mail.wvu.edu>, gpratt@mindspring.com, larryameadows@msn.com, gormand@rcbhsc.wvu.edu, harshbargerd@rcbhsc.wvu.edu, MZintl@sara.com, jjhillb@stratuswave.net, sriley2@wvu.edu, lysalouho@yahoo.com"
+      },
+      {
+         "from": "deanna74@earthlink.net",
+         "line": 54,
+         "rawfrom": " <deanna74@earthlink.net>\n",
+         "source": "email",
+         "to": "Thomas Mertz <tlmertz1@hotmail.com>, Michael T Winebrenner <mwinebre@erols.com>, Irvin Winebrenner <irv49@juno.com>, greg Winebrenner <gregrw@earthlink.net>, Duke <Duke.Ebert@mail.wvu.edu>, Dave Goodrich <goodrich@sbccom.com>"
+      },
+      {
+         "from": "ahanna@wvu.edu",
+         "line": 61,
+         "rawfrom": "\"Andrew Hanna\" <ahanna@wvu.edu>\n",
+         "source": "email",
+         "to": "<REHanna@hullfirm.com brak@labyrinth.net cchanna@inetone.net"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/deleted_items/187.",
+   "hops": [
+      {
+         "from": "lisab@int.iwhm.com",
+         "line": 4,
+         "rawfrom": "lisab@int.iwhm.com\r\n",
+         "source": "valid",
+         "to": "t..lucci@enron.com"
+      },
+      {
+         "from": "lisab@int.iwhm.com",
+         "line": 30,
+         "rawfrom": "lisab [mailto:lisab@int.iwhm.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "lisab@int.iwhm.com",
+         "line": 47,
+         "rawfrom": "lisab [mailto:lisab@int.iwhm.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "lisab@int.iwhm.com",
+         "line": 64,
+         "rawfrom": "lisab [mailto:lisab@int.iwhm.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/deleted_items/93.",
+   "hops": [
+      {
+         "from": "lisab@int.iwhm.com",
+         "line": 4,
+         "rawfrom": "lisab@int.iwhm.com\r\n",
+         "source": "valid",
+         "to": "t..lucci@enron.com"
+      },
+      {
+         "from": "lisab@int.iwhm.com",
+         "line": 30,
+         "rawfrom": "lisab [mailto:lisab@int.iwhm.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "lisab@int.iwhm.com",
+         "line": 49,
+         "rawfrom": "lisab [mailto:lisab@int.iwhm.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "lisab@int.iwhm.com",
+         "line": 66,
+         "rawfrom": "lisab [mailto:lisab@int.iwhm.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/deleted_items/135.",
+   "hops": [
+      {
+         "from": "t..lucci@enron.com",
+         "line": 4,
+         "rawfrom": "t..lucci@enron.com\r\n",
+         "source": "valid",
+         "to": "felinewoman@msn.com"
+      },
+      {
+         "from": "felinewoman@msn.com",
+         "line": 22,
+         "rawfrom": "Deborah Herbertson [mailto:felinewoman@msn.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "felinewoman@msn.com",
+         "line": 43,
+         "rawfrom": "Deborah Herbertson [mailto:felinewoman@msn.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "felinewoman@msn.com",
+         "line": 63,
+         "rawfrom": "Deborah Herbertson [mailto:felinewoman@msn.com]\n",
+         "source": "email",
+         "to": "plucci@enron.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/deleted_items/251.",
+   "hops": [
+      {
+         "from": "bob.williams@elpaso.com",
+         "line": 4,
+         "rawfrom": "bob.williams@elpaso.com\r\n",
+         "source": "valid",
+         "to": "t..lucci@enron.com"
+      },
+      {
+         "from": "paul.t.lucci@enron.com",
+         "line": 23,
+         "rawfrom": "Lucci, Paul T. [mailto:Paul.T.Lucci@ENRON.com]\n",
+         "source": "email",
+         "to": "Williams, Bob"
+      },
+      {
+         "from": "bob.williams@elpaso.com",
+         "line": 36,
+         "rawfrom": "Williams, Bob [mailto:Bob.Williams@ElPaso.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "paul.t.lucci@enron.com",
+         "line": 49,
+         "rawfrom": "Lucci, Paul T. [mailto:Paul.T.Lucci@ENRON.com]\n",
+         "source": "email",
+         "to": "Williams, Bob"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/deleted_items/94.",
+   "hops": [
+      {
+         "from": "t..lucci@enron.com",
+         "line": 4,
+         "rawfrom": "t..lucci@enron.com\r\n",
+         "source": "valid",
+         "to": "lisab@int.iwhm.com"
+      },
+      {
+         "from": "lisab@int.iwhm.com",
+         "line": 22,
+         "rawfrom": "lisab [mailto:lisab@int.iwhm.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "lisab@int.iwhm.com",
+         "line": 41,
+         "rawfrom": "lisab [mailto:lisab@int.iwhm.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "lisab@int.iwhm.com",
+         "line": 58,
+         "rawfrom": "lisab [mailto:lisab@int.iwhm.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/sent_items/225.",
+   "hops": [
+      {
+         "from": "t..lucci@enron.com",
+         "line": 4,
+         "rawfrom": "t..lucci@enron.com\r\n",
+         "source": "valid",
+         "to": "christina_122367@hotmail.com"
+      },
+      {
+         "from": "christina_122367@hotmail.com",
+         "line": 22,
+         "rawfrom": "Christina Rawlings-Curtis [mailto:christina_122367@hotmail.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "paul.t.lucci@enron.com",
+         "line": 31,
+         "rawfrom": "\"Lucci, Paul T.\" <Paul.T.Lucci@ENRON.com>\n",
+         "source": "email",
+         "to": "\"Christina Rawlings-Curtis\" <christina_122367@hotmail.com>"
+      },
+      {
+         "from": "christina_122367@hotmail.com",
+         "line": 44,
+         "rawfrom": "Christina Rawlings-Curtis [mailto:christina_122367@hotmail.com]\n",
+         "source": "email",
+         "to": "plucci@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/sent_items/272.",
+   "hops": [
+      {
+         "from": "t..lucci@enron.com",
+         "line": 4,
+         "rawfrom": "t..lucci@enron.com\r\n",
+         "source": "valid",
+         "to": "'bevans@enron.com, larry.bevans@elpaso.com"
+      },
+      {
+         "from": "larry.bevans@elpaso.com",
+         "line": 22,
+         "rawfrom": "Bevans, Larry [mailto:Larry.Bevans@ElPaso.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "paul.t.lucci@enron.com",
+         "line": 44,
+         "rawfrom": "Lucci, Paul T. [mailto:Paul.T.Lucci@ENRON.com]\n",
+         "source": "email",
+         "to": "Bevans, Larry"
+      },
+      {
+         "from": "larry.bevans@elpaso.com",
+         "line": 60,
+         "rawfrom": "Bevans, Larry [mailto:Larry.Bevans@ElPaso.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/sent_items/17.",
+   "hops": [
+      {
+         "from": "t..lucci@enron.com",
+         "line": 4,
+         "rawfrom": "t..lucci@enron.com\r\n",
+         "source": "valid",
+         "to": "'bevans@enron.com, larry.bevans@elpaso.com"
+      },
+      {
+         "from": "larry.bevans@elpaso.com",
+         "line": 22,
+         "rawfrom": "Bevans, Larry [mailto:Larry.Bevans@ElPaso.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "paul.t.lucci@enron.com",
+         "line": 34,
+         "rawfrom": "Lucci, Paul T. [mailto:Paul.T.Lucci@ENRON.com]\n",
+         "source": "email",
+         "to": "Bevans, Larry"
+      },
+      {
+         "from": "larry.bevans@elpaso.com",
+         "line": 45,
+         "rawfrom": "Bevans, Larry [mailto:Larry.Bevans@ElPaso.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "paul.t.lucci@enron.com",
+         "line": 56,
+         "rawfrom": "Lucci, Paul T. [mailto:Paul.T.Lucci@ENRON.com]\n",
+         "source": "email",
+         "to": "Bevans, Larry"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/sent_items/234.",
+   "hops": [
+      {
+         "from": "t..lucci@enron.com",
+         "line": 4,
+         "rawfrom": "t..lucci@enron.com\r\n",
+         "source": "valid",
+         "to": "christina_122367@hotmail.com"
+      },
+      {
+         "from": "christina_122367@hotmail.com",
+         "line": 23,
+         "rawfrom": "Christina Rawlings-Curtis [mailto:christina_122367@hotmail.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "paul.t.lucci@enron.com",
+         "line": 31,
+         "rawfrom": "\"Lucci, Paul T.\" <Paul.T.Lucci@ENRON.com>\n",
+         "source": "email",
+         "to": "\"Christina Rawlings-Curtis\" <christina_122367@hotmail.com>"
+      },
+      {
+         "from": "christina_122367@hotmail.com",
+         "line": 40,
+         "rawfrom": "Christina Rawlings-Curtis [mailto:christina_122367@hotmail.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "paul.t.lucci@enron.com",
+         "line": 54,
+         "rawfrom": "\"Lucci, Paul T.\" <Paul.T.Lucci@ENRON.com>\n",
+         "source": "email",
+         "to": "\"Christina Rawlings-Curtis\" <christina_122367@hotmail.com>"
+      },
+      {
+         "from": "christina_122367@hotmail.com",
+         "line": 63,
+         "rawfrom": "Christina Rawlings-Curtis [mailto:christina_122367@hotmail.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/sent_items/233.",
+   "hops": [
+      {
+         "from": "t..lucci@enron.com",
+         "line": 4,
+         "rawfrom": "t..lucci@enron.com\r\n",
+         "source": "valid",
+         "to": "christina_122367@hotmail.com"
+      },
+      {
+         "from": "christina_122367@hotmail.com",
+         "line": 22,
+         "rawfrom": "Christina Rawlings-Curtis [mailto:christina_122367@hotmail.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "paul.t.lucci@enron.com",
+         "line": 33,
+         "rawfrom": "\"Lucci, Paul T.\" <Paul.T.Lucci@ENRON.com>\n",
+         "source": "email",
+         "to": "\"Christina Rawlings-Curtis\" <christina_122367@hotmail.com>"
+      },
+      {
+         "from": "christina_122367@hotmail.com",
+         "line": 42,
+         "rawfrom": "Christina Rawlings-Curtis [mailto:christina_122367@hotmail.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/sent_items/239.",
+   "hops": [
+      {
+         "from": "t..lucci@enron.com",
+         "line": 4,
+         "rawfrom": "t..lucci@enron.com\r\n",
+         "source": "valid",
+         "to": "christina_122367@hotmail.com"
+      },
+      {
+         "from": "christina_122367@hotmail.com",
+         "line": 22,
+         "rawfrom": "Christina Rawlings-Curtis [mailto:christina_122367@hotmail.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "paul.t.lucci@enron.com",
+         "line": 33,
+         "rawfrom": "\"Lucci, Paul T.\" <Paul.T.Lucci@ENRON.com>\n",
+         "source": "email",
+         "to": "\"Christina Rawlings-Curtis\" <christina_122367@hotmail.com>"
+      },
+      {
+         "from": "christina_122367@hotmail.com",
+         "line": 43,
+         "rawfrom": "Christina Rawlings-Curtis [mailto:christina_122367@hotmail.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "paul.t.lucci@enron.com",
+         "line": 56,
+         "rawfrom": "\"Lucci, Paul T.\" <Paul.T.Lucci@ENRON.com>\n",
+         "source": "email",
+         "to": "\"Christina Rawlings-Curtis (E-mail)\" <christina_122367@hotmail.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/sent_items/221.",
+   "hops": [
+      {
+         "from": "t..lucci@enron.com",
+         "line": 4,
+         "rawfrom": "t..lucci@enron.com\r\n",
+         "source": "valid",
+         "to": "christina_122367@hotmail.com"
+      },
+      {
+         "from": "christina_122367@hotmail.com",
+         "line": 22,
+         "rawfrom": "Christina Rawlings-Curtis [mailto:christina_122367@hotmail.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "paul.t.lucci@enron.com",
+         "line": 34,
+         "rawfrom": "\"Lucci, Paul T.\" <Paul.T.Lucci@ENRON.com>\n",
+         "source": "email",
+         "to": "\"Christina Rawlings-Curtis\" <christina_122367@hotmail.com>"
+      },
+      {
+         "from": "christina_122367@hotmail.com",
+         "line": 44,
+         "rawfrom": "Christina Rawlings-Curtis [mailto:christina_122367@hotmail.com]\n",
+         "source": "email",
+         "to": "plucci@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/sent_items/69.",
+   "hops": [
+      {
+         "from": "t..lucci@enron.com",
+         "line": 4,
+         "rawfrom": "t..lucci@enron.com\r\n",
+         "source": "valid",
+         "to": "michael@gladwin.net"
+      },
+      {
+         "from": "michael@gladwin.net",
+         "line": 22,
+         "rawfrom": "Michael Gladwin [mailto:michael@gladwin.net]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "paul.t.lucci@enron.com",
+         "line": 42,
+         "rawfrom": "\"Lucci, Paul T.\" <Paul.T.Lucci@ENRON.com>\n",
+         "source": "email",
+         "to": "\"Michael Gladwin\" <michael@gladwin.net>"
+      },
+      {
+         "from": "michael@gladwin.net",
+         "line": 52,
+         "rawfrom": "Michael Gladwin [mailto:michael@gladwin.net]\n",
+         "source": "email",
+         "to": "PLucci@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/sent_items/3.",
+   "hops": [
+      {
+         "from": "t..lucci@enron.com",
+         "line": 4,
+         "rawfrom": "t..lucci@enron.com\r\n",
+         "source": "valid",
+         "to": "j..bump@enron.com"
+      },
+      {
+         "from": "dbump@kmg.com",
+         "line": 31,
+         "rawfrom": "\t\"Bump, David\" <dbump@kmg.com>@ENRON  \n",
+         "source": "email",
+         "to": "'Cdanjan8@cs.com'; 'dbump@houston.rr.com'; 'D-ROCK'; 'Ginnie & Cody'; 'Richard & Janet'"
+      },
+      {
+         "from": "eshanks@houston.deepwater.com",
+         "line": 39,
+         "rawfrom": "Shanks, Earl [mailto:EShanks@houston.deepwater.com]\n",
+         "source": "email",
+         "to": "'Bill Mahone'; 'Bob Pauken'; 'Buddy Brooks'; 'David Lewis'; 'Dennis"
+      },
+      {
+         "from": "emmettr@swbell.net",
+         "line": 49,
+         "rawfrom": "Emmett Richardson [mailto:emmettr@swbell.net]\n",
+         "source": "email",
+         "to": "Scott Bay; Ted Dubose; Bob LaCoste; Mike Krenek; Don Langrock; Glen"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/sent_items/217.",
+   "hops": [
+      {
+         "from": "t..lucci@enron.com",
+         "line": 4,
+         "rawfrom": "t..lucci@enron.com\r\n",
+         "source": "valid",
+         "to": "'williams@enron.com, bob.williams@elpaso.com"
+      },
+      {
+         "from": "bob.williams@elpaso.com",
+         "line": 22,
+         "rawfrom": "Williams, Bob [mailto:Bob.Williams@ElPaso.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "paul.t.lucci@enron.com",
+         "line": 31,
+         "rawfrom": "Lucci, Paul T. [mailto:Paul.T.Lucci@ENRON.com]\n",
+         "source": "email",
+         "to": "Williams, Bob"
+      },
+      {
+         "from": "bob.williams@elpaso.com",
+         "line": 40,
+         "rawfrom": "Williams, Bob [mailto:Bob.Williams@ElPaso.com]\n",
+         "source": "email",
+         "to": "'plucci@enron.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/sent_items/4.",
+   "hops": [
+      {
+         "from": "t..lucci@enron.com",
+         "line": 4,
+         "rawfrom": "t..lucci@enron.com\r\n",
+         "source": "valid",
+         "to": "'williams@enron.com, bob.williams@elpaso.com"
+      },
+      {
+         "from": "bob.williams@elpaso.com",
+         "line": 22,
+         "rawfrom": "Williams, Bob [mailto:Bob.Williams@ElPaso.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "paul.t.lucci@enron.com",
+         "line": 32,
+         "rawfrom": "Lucci, Paul T. [mailto:Paul.T.Lucci@ENRON.com]\n",
+         "source": "email",
+         "to": "Williams, Bob"
+      },
+      {
+         "from": "bob.williams@elpaso.com",
+         "line": 42,
+         "rawfrom": "Williams, Bob [mailto:Bob.Williams@ElPaso.com]\n",
+         "source": "email",
+         "to": "Bevans, Larry; Dougherty, Nathan; Jernigan, Steven ; Joey Brewer;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/sent_items/67.",
+   "hops": [
+      {
+         "from": "t..lucci@enron.com",
+         "line": 4,
+         "rawfrom": "t..lucci@enron.com\r\n",
+         "source": "valid",
+         "to": "john.d.williamson@us.andersen.com"
+      },
+      {
+         "from": "john.d.williamson@us.andersen.com",
+         "line": 23,
+         "rawfrom": "john.d.williamson@us.andersen.com\n",
+         "source": "valid",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "john.d.williamson@us.andersen.com",
+         "line": 47,
+         "rawfrom": "john.d.williamson@us.andersen.com\n",
+         "source": "valid",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "john.d.williamson@us.andersen.com",
+         "line": 70,
+         "rawfrom": "john.d.williamson@us.andersen.com\n",
+         "source": "valid",
+         "to": "Lucci, Paul T."
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/sent_items/240.",
+   "hops": [
+      {
+         "from": "t..lucci@enron.com",
+         "line": 4,
+         "rawfrom": "t..lucci@enron.com\r\n",
+         "source": "valid",
+         "to": "christina_122367@hotmail.com"
+      },
+      {
+         "from": "christina_122367@hotmail.com",
+         "line": 22,
+         "rawfrom": "Christina Rawlings-Curtis [mailto:christina_122367@hotmail.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "paul.t.lucci@enron.com",
+         "line": 31,
+         "rawfrom": "\"Lucci, Paul T.\" <Paul.T.Lucci@ENRON.com>\n",
+         "source": "email",
+         "to": "\"Christina Rawlings-Curtis\" <christina_122367@hotmail.com>"
+      },
+      {
+         "from": "christina_122367@hotmail.com",
+         "line": 40,
+         "rawfrom": "Christina Rawlings-Curtis [mailto:christina_122367@hotmail.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "paul.t.lucci@enron.com",
+         "line": 53,
+         "rawfrom": "\"Lucci, Paul T.\" <Paul.T.Lucci@ENRON.com>\n",
+         "source": "email",
+         "to": "\"Christina Rawlings-Curtis\" <christina_122367@hotmail.com>"
+      },
+      {
+         "from": "christina_122367@hotmail.com",
+         "line": 63,
+         "rawfrom": "Christina Rawlings-Curtis [mailto:christina_122367@hotmail.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "paul.t.lucci@enron.com",
+         "line": 76,
+         "rawfrom": "\"Lucci, Paul T.\" <Paul.T.Lucci@ENRON.com>\n",
+         "source": "email",
+         "to": "\"Christina Rawlings-Curtis (E-mail)\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/sent_items/260.",
+   "hops": [
+      {
+         "from": "t..lucci@enron.com",
+         "line": 4,
+         "rawfrom": "t..lucci@enron.com\r\n",
+         "source": "valid",
+         "to": "christina_122367@hotmail.com"
+      },
+      {
+         "from": "christina_122367@hotmail.com",
+         "line": 22,
+         "rawfrom": "Christina Rawlings-Curtis [mailto:christina_122367@hotmail.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "paul.t.lucci@enron.com",
+         "line": 39,
+         "rawfrom": "\"Lucci, Paul T.\" <Paul.T.Lucci@ENRON.com>\n",
+         "source": "email",
+         "to": "\"Christina Rawlings-Curtis\" <christina_122367@hotmail.com>"
+      },
+      {
+         "from": "christina_122367@hotmail.com",
+         "line": 49,
+         "rawfrom": "Christina Rawlings-Curtis [mailto:christina_122367@hotmail.com]\n",
+         "source": "email",
+         "to": "plucci@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/sent_items/314.",
+   "hops": [
+      {
+         "from": "t..lucci@enron.com",
+         "line": 4,
+         "rawfrom": "t..lucci@enron.com\r\n",
+         "source": "valid",
+         "to": "christina_122367@hotmail.com"
+      },
+      {
+         "from": "christina_122367@hotmail.com",
+         "line": 22,
+         "rawfrom": "Christina R-C [mailto:christina_122367@hotmail.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "paul.t.lucci@enron.com",
+         "line": 31,
+         "rawfrom": "\"Lucci, Paul T.\" <Paul.T.Lucci@ENRON.com>\n",
+         "source": "email",
+         "to": "\"Christina R-C\" <christina_122367@hotmail.com>"
+      },
+      {
+         "from": "christina_122367@hotmail.com",
+         "line": 40,
+         "rawfrom": "Christina R-C [mailto:christina_122367@hotmail.com]\n",
+         "source": "email",
+         "to": "plucci@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/sent_items/294.",
+   "hops": [
+      {
+         "from": "t..lucci@enron.com",
+         "line": 4,
+         "rawfrom": "t..lucci@enron.com\r\n",
+         "source": "valid",
+         "to": "christina_122367@hotmail.com"
+      },
+      {
+         "from": "christina_122367@hotmail.com",
+         "line": 24,
+         "rawfrom": "Christina R-C [mailto:christina_122367@hotmail.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "paul.t.lucci@enron.com",
+         "line": 33,
+         "rawfrom": "\"Lucci, Paul T.\" <Paul.T.Lucci@ENRON.com>\n",
+         "source": "email",
+         "to": "\"Christina R-C\" <christina_122367@hotmail.com>"
+      },
+      {
+         "from": "christina_122367@hotmail.com",
+         "line": 43,
+         "rawfrom": "Christina R-C [mailto:christina_122367@hotmail.com]\n",
+         "source": "email",
+         "to": "plucci@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/sent_items/23.",
+   "hops": [
+      {
+         "from": "t..lucci@enron.com",
+         "line": 4,
+         "rawfrom": "t..lucci@enron.com\r\n",
+         "source": "valid",
+         "to": "lisab@int.iwhm.com"
+      },
+      {
+         "from": "lisab@int.iwhm.com",
+         "line": 22,
+         "rawfrom": "lisab [mailto:lisab@int.iwhm.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "lisab@int.iwhm.com",
+         "line": 39,
+         "rawfrom": "lisab [mailto:lisab@int.iwhm.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "lisab@int.iwhm.com",
+         "line": 56,
+         "rawfrom": "lisab [mailto:lisab@int.iwhm.com]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/sent_items/61.",
+   "hops": [
+      {
+         "from": "t..lucci@enron.com",
+         "line": 4,
+         "rawfrom": "t..lucci@enron.com\r\n",
+         "source": "valid",
+         "to": "mhundt@br-inc.ca"
+      },
+      {
+         "from": "mhundt@br-inc.ca",
+         "line": 22,
+         "rawfrom": "Hundt Marian [mailto:MHundt@br-inc.ca]\n",
+         "source": "email",
+         "to": "Lucci, Paul T."
+      },
+      {
+         "from": "paul.t.lucci@enron.com",
+         "line": 39,
+         "rawfrom": "Lucci, Paul T. [mailto:Paul.T.Lucci@ENRON.com]\n",
+         "source": "email",
+         "to": "Hundt Marian"
+      },
+      {
+         "from": "mhundt@br-inc.ca",
+         "line": 50,
+         "rawfrom": "Hundt Marian [mailto:MHundt@br-inc.ca]\n",
+         "source": "email",
+         "to": "Daniel DeLia (E-mail); Gina Verduzco (E-mail); Hilary Thomas"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lucci-p/sent_items/153.",
+   "hops": [
+      {
+         "from": "t..lucci@enron.com",
+         "line": 4,
+         "rawfrom": "t..lucci@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.whitt@enron.com, j..bump@enron.com, charles.varnell@enron.com,"
+      },
+      {
+         "from": "jbrewer.leathercenter@leathercenter.com",
+         "line": 22,
+         "rawfrom": "jbrewer.LEATHERCENTER@leathercenter.com [mailto:jbrewer.LEATHERCENTER@leathercenter.com]\n",
+         "source": "email",
+         "to": "chenson.LEATHERCENTER@leathercenter.com; jswank.LEATHERCENTER@leathercenter.com; bshook.LEATHERCENTER@leathercenter.com; br33burke@aol.com; plucci@enron.com; jeffw@worldstrides.com; L97613@udscorp.com; ratelove@ev1.net; lisalindsley@hotmail.com"
+      },
+      {
+         "from": "imahiker@hotmail.com",
+         "line": 32,
+         "rawfrom": "imahiker@hotmail.com\n",
+         "source": "valid",
+         "to": "jbrewer@leathercenter.com, cwhouse@nwlink.com, musicl1@hotmail.com, celowrie@hotmail.com"
+      },
+      {
+         "from": "rzittrower@aol.com",
+         "line": 41,
+         "rawfrom": "RZittrower@aol.com\n",
+         "source": "valid",
+         "to": "mwcrews@bellsouth.net, GDcrews@hotmail.com, Kdcrews1@email.msn.com,"
+      }
+   ],
+   "skipped": 0
+}
+]

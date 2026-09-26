@@ -1,0 +1,1163 @@
+[
+{
+   "file": "/home/jb/maildir/stclair-c/all_documents/2562.",
+   "hops": [
+      {
+         "from": "boldham@reliant.com",
+         "line": 4,
+         "rawfrom": "boldham@reliant.com\r\n",
+         "source": "valid",
+         "to": "carol.st.clair@enron.com"
+      },
+      {
+         "from": "bill-oldham@reliantenergy.com",
+         "line": 38,
+         "rawfrom": "bill-oldham@reliantenergy.com",
+         "source": "valid",
+         "to": "boldham@reliant.com"
+      },
+      {
+         "from": "jkgreene@reliant.com",
+         "line": 178,
+         "rawfrom": "jkgreene@reliant.com",
+         "source": "valid",
+         "to": "Carol.St.Clair@enron.com"
+      },
+      {
+         "from": "bill-oldham@reliantenergy.com",
+         "line": 210,
+         "rawfrom": "bill-oldham@reliantenergy.com",
+         "source": "valid",
+         "to": ""
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/all_documents/557.",
+   "hops": [
+      {
+         "from": "carol.clair@enron.com",
+         "line": 4,
+         "rawfrom": "carol.clair@enron.com\r\n",
+         "source": "valid",
+         "to": "sl.morrison@mbltd.com"
+      },
+      {
+         "from": "sl.morrison@mbltd.com",
+         "line": 34,
+         "rawfrom": "\"Morrison, S.L. (Sandy)\" <SL.Morrison@mbltd.com>\n",
+         "source": "email",
+         "to": "\"'Carol.St.Clair@enron.com'\" <Carol.St.Clair@enron.com>"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 55,
+         "rawfrom": "Carol.St.Clair@enron.com [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "SL.Morrison@mbltd.com"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 158,
+         "rawfrom": "Carol.St.Clair@enron.com [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "SL.Morrison@mbltd.com"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 212,
+         "rawfrom": "Carol St Clair [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "SL.Morrison@mbltd.com"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/all_documents/541.",
+   "hops": [
+      {
+         "from": "carol.clair@enron.com",
+         "line": 4,
+         "rawfrom": "carol.clair@enron.com\r\n",
+         "source": "valid",
+         "to": "sl.morrison@mbltd.com"
+      },
+      {
+         "from": "sl.morrison@mbltd.com",
+         "line": 33,
+         "rawfrom": "\"Morrison, S.L. (Sandy)\" <SL.Morrison@mbltd.com>\n",
+         "source": "email",
+         "to": "\"'Carol.St.Clair@enron.com'\" <Carol.St.Clair@enron.com>"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 100,
+         "rawfrom": "Carol.St.Clair@enron.com [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "SL.Morrison@mbltd.com"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 154,
+         "rawfrom": "Carol St Clair [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "SL.Morrison@mbltd.com"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/all_documents/730.",
+   "hops": [
+      {
+         "from": "carol.clair@enron.com",
+         "line": 4,
+         "rawfrom": "carol.clair@enron.com\r\n",
+         "source": "valid",
+         "to": "lin.reece@southernenergy.com"
+      },
+      {
+         "from": "lin.reece@southernenergy.com",
+         "line": 29,
+         "rawfrom": "\"Reece, Lin\" <Lin.Reece@SouthernEnergy.Com>\n",
+         "source": "email",
+         "to": "\"'Carol.St.Clair@enron.com'\" <Carol.St.Clair@enron.com>"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 41,
+         "rawfrom": "Carol.St.Clair@enron.com [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "Lin.Reece@SouthernEnergy.Com"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 86,
+         "rawfrom": "Carol.St.Clair@enron.com [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "Lin.Reece@SouthernEnergy.Com"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 142,
+         "rawfrom": "Carol.St.Clair@enron.com [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "Lin.Reece@SouthernEnergy.Com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/all_documents/851.",
+   "hops": [
+      {
+         "from": "carol.clair@enron.com",
+         "line": 4,
+         "rawfrom": "carol.clair@enron.com\r\n",
+         "source": "valid",
+         "to": "shutteej@epenergy.com"
+      },
+      {
+         "from": "shutteej@epenergy.com",
+         "line": 33,
+         "rawfrom": "\"Shuttee, John\" <ShutteeJ@EPEnergy.com>\n",
+         "source": "email",
+         "to": "\"'Carol.St.Clair@enron.com'\" <Carol.St.Clair@enron.com>"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 56,
+         "rawfrom": "Carol.St.Clair@enron.com [SMTP:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "Shuttee, John"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 111,
+         "rawfrom": "  Carol.St.Clair@enron.com [SMTP:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "Shuttee, John"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/all_documents/855.",
+   "hops": [
+      {
+         "from": "carol.clair@enron.com",
+         "line": 4,
+         "rawfrom": "carol.clair@enron.com\r\n",
+         "source": "valid",
+         "to": "shutteej@epenergy.com"
+      },
+      {
+         "from": "shutteej@epenergy.com",
+         "line": 35,
+         "rawfrom": "\"Shuttee, John\" <ShutteeJ@EPEnergy.com>\n",
+         "source": "email",
+         "to": "\"'Carol.St.Clair@enron.com'\" <Carol.St.Clair@enron.com>"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 73,
+         "rawfrom": "Carol.St.Clair@enron.com [SMTP:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "Shuttee, John"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 128,
+         "rawfrom": "  Carol.St.Clair@enron.com [SMTP:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "Shuttee, John"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/all_documents/431.",
+   "hops": [
+      {
+         "from": "carol.clair@enron.com",
+         "line": 4,
+         "rawfrom": "carol.clair@enron.com\r\n",
+         "source": "valid",
+         "to": "rmartins@utilicorp.com"
+      },
+      {
+         "from": "rmartins@utilicorp.com",
+         "line": 28,
+         "rawfrom": "\"Martinson, Russell\" <RMartins@UtiliCorp.com>\n",
+         "source": "email",
+         "to": "\"'Carol.St.Clair@enron.com'\" <Carol.St.Clair@enron.com>"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 44,
+         "rawfrom": " Carol.St.Clair@enron.com[SMTP:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "RMartins@UtiliCorp.com"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 111,
+         "rawfrom": "  Carol St Clair[SMTP:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "RMartins@utilicorp.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/all_documents/724.",
+   "hops": [
+      {
+         "from": "carol.clair@enron.com",
+         "line": 4,
+         "rawfrom": "carol.clair@enron.com\r\n",
+         "source": "valid",
+         "to": "lin.reece@southernenergy.com"
+      },
+      {
+         "from": "lin.reece@southernenergy.com",
+         "line": 30,
+         "rawfrom": "\"Reece, Lin\" <Lin.Reece@SouthernEnergy.Com>\n",
+         "source": "email",
+         "to": "\"'Carol.St.Clair@enron.com'\" <Carol.St.Clair@enron.com>"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 45,
+         "rawfrom": "Carol.St.Clair@enron.com [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "Lin.Reece@SouthernEnergy.Com"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 101,
+         "rawfrom": "Carol.St.Clair@enron.com [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "Lin.Reece@SouthernEnergy.Com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/all_documents/2567.",
+   "hops": [
+      {
+         "from": "carol.clair@enron.com",
+         "line": 4,
+         "rawfrom": "carol.clair@enron.com\r\n",
+         "source": "valid",
+         "to": "boldham@reliant.com"
+      },
+      {
+         "from": "boldham@reliant.com",
+         "line": 33,
+         "rawfrom": "boldham@reliant.com\n",
+         "source": "valid",
+         "to": "Carol.St.Clair@enron.com"
+      },
+      {
+         "from": "bill-oldham@reliantenergy.com",
+         "line": 58,
+         "rawfrom": "bill-oldham@reliantenergy.com",
+         "source": "valid",
+         "to": "boldham@reliant.com"
+      },
+      {
+         "from": "jkgreene@reliant.com",
+         "line": 198,
+         "rawfrom": "jkgreene@reliant.com",
+         "source": "valid",
+         "to": "Carol.St.Clair@enron.com"
+      },
+      {
+         "from": "bill-oldham@reliantenergy.com",
+         "line": 230,
+         "rawfrom": "bill-oldham@reliantenergy.com",
+         "source": "valid",
+         "to": ""
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/all_documents/2579.",
+   "hops": [
+      {
+         "from": "carol.clair@enron.com",
+         "line": 4,
+         "rawfrom": "carol.clair@enron.com\r\n",
+         "source": "valid",
+         "to": "kendal.bowman@pgnmail.com"
+      },
+      {
+         "from": "kendal.bowman@pgnmail.com",
+         "line": 31,
+         "rawfrom": "\"Bowman, Kendal\" <kendal.bowman@pgnmail.com>\n",
+         "source": "email",
+         "to": "\"'Carol.St.Clair@enron.com'\" <Carol.St.Clair@enron.com>"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 51,
+         "rawfrom": "Carol.St.Clair@enron.com [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "kendal.bowman@pgnmail.com"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 113,
+         "rawfrom": "Carol.St.Clair@enron.com [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "kendal.bowman@pgnmail.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/all_documents/482.",
+   "hops": [
+      {
+         "from": "carol.clair@enron.com",
+         "line": 4,
+         "rawfrom": "carol.clair@enron.com\r\n",
+         "source": "valid",
+         "to": "pamela.ewen@bakerbotts.com"
+      },
+      {
+         "from": "pamela.ewen@bakerbotts.com",
+         "line": 26,
+         "rawfrom": "Pamela.Ewen@bakerbotts.com\n",
+         "source": "valid",
+         "to": "Carol.St.Clair@enron.com"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 36,
+         "rawfrom": "Carol.St.Clair@enron.com [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "Pamela.Ewen@bakerbotts.com"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 82,
+         "rawfrom": "Carol St Clair [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "pamela_ewen@bakerbotts.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/all_documents/2553.",
+   "hops": [
+      {
+         "from": "carol.clair@enron.com",
+         "line": 4,
+         "rawfrom": "carol.clair@enron.com\r\n",
+         "source": "valid",
+         "to": "boldham@reliant.com"
+      },
+      {
+         "from": "boldham@reliant.com",
+         "line": 40,
+         "rawfrom": "boldham@reliant.com\n",
+         "source": "valid",
+         "to": "carol.st.clair@enron.com"
+      },
+      {
+         "from": "jkgreene@reliant.com",
+         "line": 139,
+         "rawfrom": "jkgreene@reliant.com",
+         "source": "valid",
+         "to": "Carol.St.Clair@enron.com"
+      },
+      {
+         "from": "bill-oldham@reliantenergy.com",
+         "line": 171,
+         "rawfrom": "bill-oldham@reliantenergy.com",
+         "source": "valid",
+         "to": ""
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/all_documents/2343.",
+   "hops": [
+      {
+         "from": "christian.yoder@enron.com",
+         "line": 4,
+         "rawfrom": "christian.yoder@enron.com\r\n",
+         "source": "valid",
+         "to": "carol.clair@enron.com, chris.foster@enron.com"
+      },
+      {
+         "from": "chris.h.foster@enron.com",
+         "line": 71,
+         "rawfrom": "Chris.H.Foster@enron.com [mailto:Chris.H.Foster@enron.com << File: SDGE \n",
+         "source": "email",
+         "to": "SFirooz@SDGE.com"
+      },
+      {
+         "from": "sfirooz@sdge.com",
+         "line": 94,
+         "rawfrom": "  \"Firooz, Sharon\" <SFirooz@SDGE.com>@ENRON \n",
+         "source": "email",
+         "to": "Foster, Chris H."
+      },
+      {
+         "from": "shari.stack@enron.com",
+         "line": 102,
+         "rawfrom": "Shari.Stack@enron.com [mailto:Shari.Stack@enron.com  << File: SDGE \n",
+         "source": "email",
+         "to": "sfirooz@sdge.com; mtierney@sempra.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/all_documents/2342.",
+   "hops": [
+      {
+         "from": "sfirooz@sdge.com",
+         "line": 4,
+         "rawfrom": "sfirooz@sdge.com\r\n",
+         "source": "valid",
+         "to": "chris.h.foster@enron.com"
+      },
+      {
+         "from": "chris.h.foster@enron.com",
+         "line": 29,
+         "rawfrom": "Chris.H.Foster@enron.com [mailto:Chris.H.Foster@enron.com] \n",
+         "source": "email",
+         "to": "SFirooz@SDGE.com"
+      },
+      {
+         "from": "sfirooz@sdge.com",
+         "line": 52,
+         "rawfrom": "?? From:?? \"Firooz, Sharon\" <SFirooz@SDGE.com>@ENRON \n",
+         "source": "email",
+         "to": "???? Foster, Chris H."
+      },
+      {
+         "from": "shari.stack@enron.com",
+         "line": 60,
+         "rawfrom": "Shari.Stack@enron.com [mailto:Shari.Stack@enron.com << File: SDGE \n",
+         "source": "email",
+         "to": "sfirooz@sdge.com; mtierney@sempra.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/all_documents/2566.",
+   "hops": [
+      {
+         "from": "carol.clair@enron.com",
+         "line": 4,
+         "rawfrom": "carol.clair@enron.com\r\n",
+         "source": "valid",
+         "to": "jklauber@llgm.com"
+      },
+      {
+         "from": "bill-oldham@reliantenergy.com",
+         "line": 55,
+         "rawfrom": "bill-oldham@reliantenergy.com",
+         "source": "valid",
+         "to": "boldham@reliant.com"
+      },
+      {
+         "from": "jkgreene@reliant.com",
+         "line": 195,
+         "rawfrom": "jkgreene@reliant.com",
+         "source": "valid",
+         "to": "Carol.St.Clair@enron.com"
+      },
+      {
+         "from": "bill-oldham@reliantenergy.com",
+         "line": 227,
+         "rawfrom": "bill-oldham@reliantenergy.com",
+         "source": "valid",
+         "to": ""
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/all_documents/533.",
+   "hops": [
+      {
+         "from": "carol.clair@enron.com",
+         "line": 4,
+         "rawfrom": "carol.clair@enron.com\r\n",
+         "source": "valid",
+         "to": "maria.salvatore@pseg.com"
+      },
+      {
+         "from": "maria.salvatore@pseg.com",
+         "line": 31,
+         "rawfrom": "\"Salvatore, Maria\" <Maria.Salvatore@pseg.com>\n",
+         "source": "email",
+         "to": "\"'Carol.St.Clair@enron.com'\" <Carol.St.Clair@enron.com>"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 44,
+         "rawfrom": "Carol.St.Clair@enron.com [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "Maria.Salvatore@pseg.com"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 87,
+         "rawfrom": "Carol.St.Clair@enron.com [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "Maria.Salvatore@pseg.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/sent/536.",
+   "hops": [
+      {
+         "from": "carol.clair@enron.com",
+         "line": 4,
+         "rawfrom": "carol.clair@enron.com\r\n",
+         "source": "valid",
+         "to": "sl.morrison@mbltd.com"
+      },
+      {
+         "from": "sl.morrison@mbltd.com",
+         "line": 33,
+         "rawfrom": "\"Morrison, S.L. (Sandy)\" <SL.Morrison@mbltd.com>\n",
+         "source": "email",
+         "to": "\"'Carol.St.Clair@enron.com'\" <Carol.St.Clair@enron.com>"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 100,
+         "rawfrom": "Carol.St.Clair@enron.com [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "SL.Morrison@mbltd.com"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 154,
+         "rawfrom": "Carol St Clair [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "SL.Morrison@mbltd.com"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/sent/2352.",
+   "hops": [
+      {
+         "from": "carol.clair@enron.com",
+         "line": 4,
+         "rawfrom": "carol.clair@enron.com\r\n",
+         "source": "valid",
+         "to": "boldham@reliant.com"
+      },
+      {
+         "from": "boldham@reliant.com",
+         "line": 33,
+         "rawfrom": "boldham@reliant.com\n",
+         "source": "valid",
+         "to": "Carol.St.Clair@enron.com"
+      },
+      {
+         "from": "bill-oldham@reliantenergy.com",
+         "line": 58,
+         "rawfrom": "bill-oldham@reliantenergy.com",
+         "source": "valid",
+         "to": "boldham@reliant.com"
+      },
+      {
+         "from": "jkgreene@reliant.com",
+         "line": 198,
+         "rawfrom": "jkgreene@reliant.com",
+         "source": "valid",
+         "to": "Carol.St.Clair@enron.com"
+      },
+      {
+         "from": "bill-oldham@reliantenergy.com",
+         "line": 230,
+         "rawfrom": "bill-oldham@reliantenergy.com",
+         "source": "valid",
+         "to": ""
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/sent/2360.",
+   "hops": [
+      {
+         "from": "carol.clair@enron.com",
+         "line": 4,
+         "rawfrom": "carol.clair@enron.com\r\n",
+         "source": "valid",
+         "to": "kendal.bowman@pgnmail.com"
+      },
+      {
+         "from": "kendal.bowman@pgnmail.com",
+         "line": 31,
+         "rawfrom": "\"Bowman, Kendal\" <kendal.bowman@pgnmail.com>\n",
+         "source": "email",
+         "to": "\"'Carol.St.Clair@enron.com'\" <Carol.St.Clair@enron.com>"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 51,
+         "rawfrom": "Carol.St.Clair@enron.com [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "kendal.bowman@pgnmail.com"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 113,
+         "rawfrom": "Carol.St.Clair@enron.com [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "kendal.bowman@pgnmail.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/sent/552.",
+   "hops": [
+      {
+         "from": "carol.clair@enron.com",
+         "line": 4,
+         "rawfrom": "carol.clair@enron.com\r\n",
+         "source": "valid",
+         "to": "sl.morrison@mbltd.com"
+      },
+      {
+         "from": "sl.morrison@mbltd.com",
+         "line": 34,
+         "rawfrom": "\"Morrison, S.L. (Sandy)\" <SL.Morrison@mbltd.com>\n",
+         "source": "email",
+         "to": "\"'Carol.St.Clair@enron.com'\" <Carol.St.Clair@enron.com>"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 55,
+         "rawfrom": "Carol.St.Clair@enron.com [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "SL.Morrison@mbltd.com"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 158,
+         "rawfrom": "Carol.St.Clair@enron.com [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "SL.Morrison@mbltd.com"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 212,
+         "rawfrom": "Carol St Clair [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "SL.Morrison@mbltd.com"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/sent/845.",
+   "hops": [
+      {
+         "from": "carol.clair@enron.com",
+         "line": 4,
+         "rawfrom": "carol.clair@enron.com\r\n",
+         "source": "valid",
+         "to": "shutteej@epenergy.com"
+      },
+      {
+         "from": "shutteej@epenergy.com",
+         "line": 33,
+         "rawfrom": "\"Shuttee, John\" <ShutteeJ@EPEnergy.com>\n",
+         "source": "email",
+         "to": "\"'Carol.St.Clair@enron.com'\" <Carol.St.Clair@enron.com>"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 56,
+         "rawfrom": "Carol.St.Clair@enron.com [SMTP:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "Shuttee, John"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 111,
+         "rawfrom": "  Carol.St.Clair@enron.com [SMTP:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "Shuttee, John"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/sent/849.",
+   "hops": [
+      {
+         "from": "carol.clair@enron.com",
+         "line": 4,
+         "rawfrom": "carol.clair@enron.com\r\n",
+         "source": "valid",
+         "to": "shutteej@epenergy.com"
+      },
+      {
+         "from": "shutteej@epenergy.com",
+         "line": 35,
+         "rawfrom": "\"Shuttee, John\" <ShutteeJ@EPEnergy.com>\n",
+         "source": "email",
+         "to": "\"'Carol.St.Clair@enron.com'\" <Carol.St.Clair@enron.com>"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 73,
+         "rawfrom": "Carol.St.Clair@enron.com [SMTP:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "Shuttee, John"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 128,
+         "rawfrom": "  Carol.St.Clair@enron.com [SMTP:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "Shuttee, John"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/sent/2351.",
+   "hops": [
+      {
+         "from": "carol.clair@enron.com",
+         "line": 4,
+         "rawfrom": "carol.clair@enron.com\r\n",
+         "source": "valid",
+         "to": "jklauber@llgm.com"
+      },
+      {
+         "from": "bill-oldham@reliantenergy.com",
+         "line": 55,
+         "rawfrom": "bill-oldham@reliantenergy.com",
+         "source": "valid",
+         "to": "boldham@reliant.com"
+      },
+      {
+         "from": "jkgreene@reliant.com",
+         "line": 195,
+         "rawfrom": "jkgreene@reliant.com",
+         "source": "valid",
+         "to": "Carol.St.Clair@enron.com"
+      },
+      {
+         "from": "bill-oldham@reliantenergy.com",
+         "line": 227,
+         "rawfrom": "bill-oldham@reliantenergy.com",
+         "source": "valid",
+         "to": ""
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/sent/477.",
+   "hops": [
+      {
+         "from": "carol.clair@enron.com",
+         "line": 4,
+         "rawfrom": "carol.clair@enron.com\r\n",
+         "source": "valid",
+         "to": "pamela.ewen@bakerbotts.com"
+      },
+      {
+         "from": "pamela.ewen@bakerbotts.com",
+         "line": 26,
+         "rawfrom": "Pamela.Ewen@bakerbotts.com\n",
+         "source": "valid",
+         "to": "Carol.St.Clair@enron.com"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 36,
+         "rawfrom": "Carol.St.Clair@enron.com [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "Pamela.Ewen@bakerbotts.com"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 82,
+         "rawfrom": "Carol St Clair [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "pamela_ewen@bakerbotts.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/sent/426.",
+   "hops": [
+      {
+         "from": "carol.clair@enron.com",
+         "line": 4,
+         "rawfrom": "carol.clair@enron.com\r\n",
+         "source": "valid",
+         "to": "rmartins@utilicorp.com"
+      },
+      {
+         "from": "rmartins@utilicorp.com",
+         "line": 28,
+         "rawfrom": "\"Martinson, Russell\" <RMartins@UtiliCorp.com>\n",
+         "source": "email",
+         "to": "\"'Carol.St.Clair@enron.com'\" <Carol.St.Clair@enron.com>"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 44,
+         "rawfrom": " Carol.St.Clair@enron.com[SMTP:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "RMartins@UtiliCorp.com"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 111,
+         "rawfrom": "  Carol St Clair[SMTP:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "RMartins@utilicorp.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/sent/528.",
+   "hops": [
+      {
+         "from": "carol.clair@enron.com",
+         "line": 4,
+         "rawfrom": "carol.clair@enron.com\r\n",
+         "source": "valid",
+         "to": "maria.salvatore@pseg.com"
+      },
+      {
+         "from": "maria.salvatore@pseg.com",
+         "line": 31,
+         "rawfrom": "\"Salvatore, Maria\" <Maria.Salvatore@pseg.com>\n",
+         "source": "email",
+         "to": "\"'Carol.St.Clair@enron.com'\" <Carol.St.Clair@enron.com>"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 44,
+         "rawfrom": "Carol.St.Clair@enron.com [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "Maria.Salvatore@pseg.com"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 87,
+         "rawfrom": "Carol.St.Clair@enron.com [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "Maria.Salvatore@pseg.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/sent/725.",
+   "hops": [
+      {
+         "from": "carol.clair@enron.com",
+         "line": 4,
+         "rawfrom": "carol.clair@enron.com\r\n",
+         "source": "valid",
+         "to": "lin.reece@southernenergy.com"
+      },
+      {
+         "from": "lin.reece@southernenergy.com",
+         "line": 29,
+         "rawfrom": "\"Reece, Lin\" <Lin.Reece@SouthernEnergy.Com>\n",
+         "source": "email",
+         "to": "\"'Carol.St.Clair@enron.com'\" <Carol.St.Clair@enron.com>"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 41,
+         "rawfrom": "Carol.St.Clair@enron.com [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "Lin.Reece@SouthernEnergy.Com"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 86,
+         "rawfrom": "Carol.St.Clair@enron.com [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "Lin.Reece@SouthernEnergy.Com"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 142,
+         "rawfrom": "Carol.St.Clair@enron.com [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "Lin.Reece@SouthernEnergy.Com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/sent/719.",
+   "hops": [
+      {
+         "from": "carol.clair@enron.com",
+         "line": 4,
+         "rawfrom": "carol.clair@enron.com\r\n",
+         "source": "valid",
+         "to": "lin.reece@southernenergy.com"
+      },
+      {
+         "from": "lin.reece@southernenergy.com",
+         "line": 30,
+         "rawfrom": "\"Reece, Lin\" <Lin.Reece@SouthernEnergy.Com>\n",
+         "source": "email",
+         "to": "\"'Carol.St.Clair@enron.com'\" <Carol.St.Clair@enron.com>"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 45,
+         "rawfrom": "Carol.St.Clair@enron.com [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "Lin.Reece@SouthernEnergy.Com"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 101,
+         "rawfrom": "Carol.St.Clair@enron.com [mailto:Carol.St.Clair@enron.com]\n",
+         "source": "email",
+         "to": "Lin.Reece@SouthernEnergy.Com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/sent/2341.",
+   "hops": [
+      {
+         "from": "carol.clair@enron.com",
+         "line": 4,
+         "rawfrom": "carol.clair@enron.com\r\n",
+         "source": "valid",
+         "to": "boldham@reliant.com"
+      },
+      {
+         "from": "boldham@reliant.com",
+         "line": 40,
+         "rawfrom": "boldham@reliant.com\n",
+         "source": "valid",
+         "to": "carol.st.clair@enron.com"
+      },
+      {
+         "from": "jkgreene@reliant.com",
+         "line": 139,
+         "rawfrom": "jkgreene@reliant.com",
+         "source": "valid",
+         "to": "Carol.St.Clair@enron.com"
+      },
+      {
+         "from": "bill-oldham@reliantenergy.com",
+         "line": 171,
+         "rawfrom": "bill-oldham@reliantenergy.com",
+         "source": "valid",
+         "to": ""
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/reliant_energy/7.",
+   "hops": [
+      {
+         "from": "boldham@reliant.com",
+         "line": 4,
+         "rawfrom": "boldham@reliant.com\r\n",
+         "source": "valid",
+         "to": "carol.st.clair@enron.com"
+      },
+      {
+         "from": "bill-oldham@reliantenergy.com",
+         "line": 38,
+         "rawfrom": "bill-oldham@reliantenergy.com",
+         "source": "valid",
+         "to": "boldham@reliant.com"
+      },
+      {
+         "from": "jkgreene@reliant.com",
+         "line": 178,
+         "rawfrom": "jkgreene@reliant.com",
+         "source": "valid",
+         "to": "Carol.St.Clair@enron.com"
+      },
+      {
+         "from": "bill-oldham@reliantenergy.com",
+         "line": 210,
+         "rawfrom": "bill-oldham@reliantenergy.com",
+         "source": "valid",
+         "to": ""
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/power_e_mails/17.",
+   "hops": [
+      {
+         "from": "christian.yoder@enron.com",
+         "line": 4,
+         "rawfrom": "christian.yoder@enron.com\r\n",
+         "source": "valid",
+         "to": "carol.clair@enron.com, chris.foster@enron.com"
+      },
+      {
+         "from": "chris.h.foster@enron.com",
+         "line": 71,
+         "rawfrom": "Chris.H.Foster@enron.com [mailto:Chris.H.Foster@enron.com << File: SDGE \n",
+         "source": "email",
+         "to": "SFirooz@SDGE.com"
+      },
+      {
+         "from": "sfirooz@sdge.com",
+         "line": 94,
+         "rawfrom": "  \"Firooz, Sharon\" <SFirooz@SDGE.com>@ENRON \n",
+         "source": "email",
+         "to": "Foster, Chris H."
+      },
+      {
+         "from": "shari.stack@enron.com",
+         "line": 102,
+         "rawfrom": "Shari.Stack@enron.com [mailto:Shari.Stack@enron.com  << File: SDGE \n",
+         "source": "email",
+         "to": "sfirooz@sdge.com; mtierney@sempra.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/stclair-c/power_e_mails/16.",
+   "hops": [
+      {
+         "from": "sfirooz@sdge.com",
+         "line": 4,
+         "rawfrom": "sfirooz@sdge.com\r\n",
+         "source": "valid",
+         "to": "chris.h.foster@enron.com"
+      },
+      {
+         "from": "chris.h.foster@enron.com",
+         "line": 29,
+         "rawfrom": "Chris.H.Foster@enron.com [mailto:Chris.H.Foster@enron.com] \n",
+         "source": "email",
+         "to": "SFirooz@SDGE.com"
+      },
+      {
+         "from": "sfirooz@sdge.com",
+         "line": 52,
+         "rawfrom": "?? From:?? \"Firooz, Sharon\" <SFirooz@SDGE.com>@ENRON \n",
+         "source": "email",
+         "to": "???? Foster, Chris H."
+      },
+      {
+         "from": "shari.stack@enron.com",
+         "line": 60,
+         "rawfrom": "Shari.Stack@enron.com [mailto:Shari.Stack@enron.com << File: SDGE \n",
+         "source": "email",
+         "to": "sfirooz@sdge.com; mtierney@sempra.com"
+      }
+   ],
+   "skipped": 0
+}
+]

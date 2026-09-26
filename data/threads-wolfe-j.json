@@ -1,0 +1,1240 @@
+[
+{
+   "file": "/home/jb/maildir/wolfe-j/inbox/305.",
+   "hops": [
+      {
+         "from": "vze28szx@verizon.net",
+         "line": 4,
+         "rawfrom": "vze28szx@verizon.net\r\n",
+         "source": "valid",
+         "to": "jason.wolfe@enron.com"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 33,
+         "rawfrom": "Wolfe, Jason <Jason.Wolfe@ENRON.com>\n",
+         "source": "email",
+         "to": "Alan Julson <aljulson@netzero.net>"
+      },
+      {
+         "from": "vze28szx@verizon.net",
+         "line": 45,
+         "rawfrom": "\"Alan Julson\" <vze28szx@verizon.net>@ENRON\n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 56,
+         "rawfrom": "Wolfe, Jason <Jason.Wolfe@ENRON.com>\n",
+         "source": "email",
+         "to": "Grigsby, Mike <Mike.Grigsby@ENRON.com>; Lenhart, Matthew"
+      },
+      {
+         "from": "beth.cherry@enform.com",
+         "line": 72,
+         "rawfrom": "\"Cherry, Beth\" <Beth.Cherry@enform.com>@ENRON\n",
+         "source": "email",
+         "to": "Lindner, Fred; Landry, Ashley; Robinson, Misty"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/wolfe-j/inbox/289.",
+   "hops": [
+      {
+         "from": "allan.elliott@enform.com",
+         "line": 4,
+         "rawfrom": "allan.elliott@enform.com\r\n",
+         "source": "valid",
+         "to": "john.dunn@enron.com, jason.wolfe@enron.com, michael.cherry@enron.com,"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 33,
+         "rawfrom": "Jason.Wolfe@enron.com \n",
+         "source": "valid",
+         "to": "John.Dunn@enform.com; John.Dunn@enform.com; Allan.Elliott@enform.com; Michael.Cherry@enform.com; Matt.Sample@enform.com; Beth.Cherry@enform.com"
+      },
+      {
+         "from": "john.dunn@enform.com",
+         "line": 41,
+         "rawfrom": "  \"Dunn, John\" <John.Dunn@enform.com>@ENRON \n",
+         "source": "email",
+         "to": "Wolfe, Jason; Dunn, John; Elliott, Allan; Cherry, Michael;"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 50,
+         "rawfrom": "Jason.Wolfe@enron.com \n",
+         "source": "valid",
+         "to": "John.Dunn@enform.com; Allan.Elliott@enform.com;"
+      },
+      {
+         "from": "john.dunn@enform.com",
+         "line": 64,
+         "rawfrom": "  \"Dunn, John\" <John.Dunn@enform.com>@ENRON \n",
+         "source": "email",
+         "to": "Elliott, Allan; Cherry, Michael; Sample, Matt; Cherry,"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/wolfe-j/inbox/209.",
+   "hops": [
+      {
+         "from": "valerie.ridinger@alcoa.com",
+         "line": 4,
+         "rawfrom": "valerie.ridinger@alcoa.com\r\n",
+         "source": "valid",
+         "to": "jason.wolfe@enron.com"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 25,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com]\n",
+         "source": "email",
+         "to": "Valerie.Ridinger@alcoa.com"
+      },
+      {
+         "from": "valerie.ridinger@alcoa.com",
+         "line": 35,
+         "rawfrom": "  \"Ridinger, Valerie D.\" <Valerie.Ridinger@alcoa.com>@ENRON\n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 43,
+         "rawfrom": "Wolfe, Jason [mailto:Jason.Wolfe@ENRON.com]\n",
+         "source": "email",
+         "to": "valerie.ridinger@alcoa.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/wolfe-j/inbox/277.",
+   "hops": [
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 4,
+         "rawfrom": "eellwanger@triumphboats.com\r\n",
+         "source": "valid",
+         "to": "jason.wolfe@enron.com"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 22,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com]\n",
+         "source": "email",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 35,
+         "rawfrom": "  \"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON\n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 48,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com]\n",
+         "source": "email",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 59,
+         "rawfrom": "  \"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON\n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 82,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com]\n",
+         "source": "email",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 95,
+         "rawfrom": "  \"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON\n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/wolfe-j/inbox/196.",
+   "hops": [
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 4,
+         "rawfrom": "eellwanger@triumphboats.com\r\n",
+         "source": "valid",
+         "to": "jason.wolfe@enron.com"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 23,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com]\n",
+         "source": "email",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 35,
+         "rawfrom": "  \"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON\n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 45,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com]\n",
+         "source": "email",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 58,
+         "rawfrom": "  \"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON\n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/wolfe-j/inbox/228.",
+   "hops": [
+      {
+         "from": "beth.cherry@enform.com",
+         "line": 4,
+         "rawfrom": "beth.cherry@enform.com\r\n",
+         "source": "valid",
+         "to": "jason.wolfe@enron.com"
+      },
+      {
+         "from": "beth.cherry@enform.com",
+         "line": 34,
+         "rawfrom": "  \"Cherry, Beth\" <Beth.Cherry@enform.com>@ENRON \n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 47,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com  << File: \n",
+         "source": "email",
+         "to": "Beth.Cherry@enform.com; Fred.Lindner@enform.com;"
+      },
+      {
+         "from": "beth.cherry@enform.com",
+         "line": 65,
+         "rawfrom": "  \"Cherry, Beth\" <Beth.Cherry@enform.com>@ENRON \n",
+         "source": "email",
+         "to": "Lindner, Fred; Cherry, Michael; Dunn, John; Jondaworky"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 89,
+         "rawfrom": "Wolfe, Jason [mailto:Jason.Wolfe@ENRON.com  << File: \n",
+         "source": "email",
+         "to": "beth.cherry@enform.com; matt.sample@enform.com;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/wolfe-j/inbox/260.",
+   "hops": [
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 4,
+         "rawfrom": "eellwanger@triumphboats.com\r\n",
+         "source": "valid",
+         "to": "jason.wolfe@enron.com"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 22,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com]\n",
+         "source": "email",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 31,
+         "rawfrom": "  \"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON\n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 40,
+         "rawfrom": "jason.wolfe@enron.com [mailto:jason.wolfe@enron.com]\n",
+         "source": "email",
+         "to": "eellwanger@triumphboats.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/wolfe-j/inbox/287.",
+   "hops": [
+      {
+         "from": "john.dunn@enform.com",
+         "line": 4,
+         "rawfrom": "john.dunn@enform.com\r\n",
+         "source": "valid",
+         "to": "jason.wolfe@enron.com, john.dunn@enron.com, john.dunn@enron.com,"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 25,
+         "rawfrom": "Jason.Wolfe@enron.com \n",
+         "source": "valid",
+         "to": "John.Dunn@enform.com; John.Dunn@enform.com; Allan.Elliott@enform.com; Michael.Cherry@enform.com; Matt.Sample@enform.com; Beth.Cherry@enform.com"
+      },
+      {
+         "from": "john.dunn@enform.com",
+         "line": 33,
+         "rawfrom": "  \"Dunn, John\" <John.Dunn@enform.com>@ENRON \n",
+         "source": "email",
+         "to": "Wolfe, Jason; Dunn, John; Elliott, Allan; Cherry, Michael;"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 42,
+         "rawfrom": "Jason.Wolfe@enron.com \n",
+         "source": "valid",
+         "to": "John.Dunn@enform.com; Allan.Elliott@enform.com;"
+      },
+      {
+         "from": "john.dunn@enform.com",
+         "line": 56,
+         "rawfrom": "  \"Dunn, John\" <John.Dunn@enform.com>@ENRON \n",
+         "source": "email",
+         "to": "Elliott, Allan; Cherry, Michael; Sample, Matt; Cherry,"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/wolfe-j/09_saved/35.",
+   "hops": [
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 4,
+         "rawfrom": "jason.wolfe@enron.com\r\n",
+         "source": "valid",
+         "to": "matt.sample@enform.com, cherry@enron.com, michael.cherry@enform.com,"
+      },
+      {
+         "from": "matt.sample@enform.com",
+         "line": 28,
+         "rawfrom": "\t\"Sample, Matt\" <Matt.Sample@enform.com>@ENRON [mailto:IMCEANOTES-+22Sample+2C+20Matt+22+20+3CMatt+2ESample+40enform+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Wolfe, Jason; Cherry, Michael; Cherry, Beth; Elliott, Allan; Dunn, John"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 36,
+         "rawfrom": "Jason.Wolfe@enron.com \n",
+         "source": "valid",
+         "to": "Matt.Sample@enform.com; Michael.Cherry@enform.com; Beth.Cherry@enform.com; Allan.Elliott@enform.com"
+      },
+      {
+         "from": "matt.sample@enform.com",
+         "line": 50,
+         "rawfrom": "  \"Sample, Matt\" <Matt.Sample@enform.com>@ENRON \n",
+         "source": "email",
+         "to": "Cherry, Michael; Cherry, Beth; Elliott, Allan"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/wolfe-j/09_saved/10.",
+   "hops": [
+      {
+         "from": "vtiguana@aol.com",
+         "line": 21,
+         "rawfrom": "VTIGUANA@aol.com  \n",
+         "source": "valid",
+         "to": "grantoregonrains@hotmail.com"
+      },
+      {
+         "from": "bryan.higgins@plattsburgh.edu",
+         "line": 36,
+         "rawfrom": "\"Professor Bryan R. Higgins\" <bryan.higgins@plattsburgh.edu>\n",
+         "source": "email",
+         "to": "\"Bryan R. Higgins\" <vtiguana@aol.com>"
+      },
+      {
+         "from": "robbinsr@westelcom.com",
+         "line": 56,
+         "rawfrom": "Richard Robbins <robbinsr@westelcom.com>\n",
+         "source": "email",
+         "to": "\"'Bass, Amy'\" <amy.bass@plattsburgh.edu>, \"'Carey, Vincent'\" <vincent.carey@plattsburgh.edu>, \"'Denenberg, Stewart'\" <stewart.denenberg@plattsburgh.edu>, \"'Dixon, Beth'\" <beth.dixon@plattsburgh.edu>, \"'Fitzpatrick, Ellen'\" <ellen.fitzpatrick@plattsburgh.edu>, \"'Higgins, Bryan'\" <bryan.higgins@plattsburgh.edu>"
+      },
+      {
+         "from": "robbinsr@westelcom.com",
+         "line": 57,
+         "rawfrom": "robbinsr@westelcom.com",
+         "source": "valid",
+         "to": "\"'Lubin, Martin'\" <martin.lubin@plattsburgh.edu>, \"'Moran, E.T.'\" <e.moran@plattsburgh.edu>, \"'Morrissey, Tom'\" <thomas.morrissey@plattsburgh.edu>, \"'Moussa, Faten'\" <faten.moussa@plattsburgh.edu>, \"'Scanlon, Jennifer'\" <jennifer.scanlon@plattsburgh.edu>, \"'Skopp, Douglas'\" <douglas.skopp@plattsburgh.edu>"
+      },
+      {
+         "from": "robbinsr@westelcom.com",
+         "line": 58,
+         "rawfrom": "robbinsr@westelcom.com",
+         "source": "valid",
+         "to": "\"'Yardin, John'\" <john.yardan@plattsburgh.edu>"
+      },
+      {
+         "from": "cfogal@netcom.ca",
+         "line": 89,
+         "rawfrom": "  Connie Fogal [SMTP:cfogal@netcom.ca]\n",
+         "source": "email",
+         "to": "Sukhwinder Sangha"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/wolfe-j/deleted_items/56.",
+   "hops": [
+      {
+         "from": "beth.cherry@enform.com",
+         "line": 4,
+         "rawfrom": "beth.cherry@enform.com\r\n",
+         "source": "valid",
+         "to": "jason.wolfe@enron.com"
+      },
+      {
+         "from": "beth.cherry@enform.com",
+         "line": 34,
+         "rawfrom": "  \"Cherry, Beth\" <Beth.Cherry@enform.com>@ENRON \n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 47,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com  << File: \n",
+         "source": "email",
+         "to": "Beth.Cherry@enform.com"
+      },
+      {
+         "from": "beth.cherry@enform.com",
+         "line": 53,
+         "rawfrom": "  \"Cherry, Beth\" <Beth.Cherry@enform.com>@ENRON \n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/wolfe-j/sent_items/81.",
+   "hops": [
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 4,
+         "rawfrom": "jason.wolfe@enron.com\r\n",
+         "source": "valid",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 23,
+         "rawfrom": "\t\"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON  \n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 38,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com]\n",
+         "source": "email",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 49,
+         "rawfrom": "  \"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON\n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/wolfe-j/sent_items/33.",
+   "hops": [
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 4,
+         "rawfrom": "jason.wolfe@enron.com\r\n",
+         "source": "valid",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 28,
+         "rawfrom": "\t\"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON  \n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 37,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com]\n",
+         "source": "email",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 49,
+         "rawfrom": "  \"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON\n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 59,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com]\n",
+         "source": "email",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 72,
+         "rawfrom": "  \"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON\n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/wolfe-j/sent_items/80.",
+   "hops": [
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 4,
+         "rawfrom": "jason.wolfe@enron.com\r\n",
+         "source": "valid",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 26,
+         "rawfrom": "\t\"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON  \n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 41,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com]\n",
+         "source": "email",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 52,
+         "rawfrom": "  \"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON\n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/wolfe-j/sent_items/92.",
+   "hops": [
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 4,
+         "rawfrom": "jason.wolfe@enron.com\r\n",
+         "source": "valid",
+         "to": "john.dunn@enform.com, dunn@enron.com, john.dunn@enform.com,"
+      },
+      {
+         "from": "john.dunn@enform.com",
+         "line": 27,
+         "rawfrom": "\t\"Dunn, John\" <John.Dunn@enform.com>@ENRON  \n",
+         "source": "email",
+         "to": "Wolfe, Jason; Dunn, John; Elliott, Allan; Cherry, Michael; Sample, Matt; Cherry, Beth"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 35,
+         "rawfrom": "Jason.Wolfe@enron.com \n",
+         "source": "valid",
+         "to": "John.Dunn@enform.com; Allan.Elliott@enform.com; Michael.Cherry@enform.com; Matt.Sample@enform.com; Beth.Cherry@enform.com"
+      },
+      {
+         "from": "john.dunn@enform.com",
+         "line": 46,
+         "rawfrom": "  \"Dunn, John\" <John.Dunn@enform.com>@ENRON \n",
+         "source": "email",
+         "to": "Elliott, Allan; Cherry, Michael; Sample, Matt; Cherry, Beth;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/wolfe-j/sent_items/88.",
+   "hops": [
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 4,
+         "rawfrom": "jason.wolfe@enron.com\r\n",
+         "source": "valid",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 24,
+         "rawfrom": "\t\"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON  \n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 35,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com]\n",
+         "source": "email",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 45,
+         "rawfrom": "  \"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON\n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 66,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com]\n",
+         "source": "email",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 78,
+         "rawfrom": "  \"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON\n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/wolfe-j/sent_items/77.",
+   "hops": [
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 4,
+         "rawfrom": "jason.wolfe@enron.com\r\n",
+         "source": "valid",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 22,
+         "rawfrom": "\t\"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON  \n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 30,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com]\n",
+         "source": "email",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 39,
+         "rawfrom": "  \"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON\n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 48,
+         "rawfrom": "jason.wolfe@enron.com [mailto:jason.wolfe@enron.com]\n",
+         "source": "email",
+         "to": "eellwanger@triumphboats.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/wolfe-j/sent_items/34.",
+   "hops": [
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 4,
+         "rawfrom": "jason.wolfe@enron.com\r\n",
+         "source": "valid",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 24,
+         "rawfrom": "\t\"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON  \n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 33,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com]\n",
+         "source": "email",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 46,
+         "rawfrom": "  \"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON\n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/wolfe-j/sent_items/31.",
+   "hops": [
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 4,
+         "rawfrom": "jason.wolfe@enron.com\r\n",
+         "source": "valid",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 26,
+         "rawfrom": "\t\"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON  \n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 37,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com]\n",
+         "source": "email",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 52,
+         "rawfrom": "  \"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON\n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 62,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com]\n",
+         "source": "email",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 75,
+         "rawfrom": "  \"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON\n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 85,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com]\n",
+         "source": "email",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 98,
+         "rawfrom": "  \"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON\n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/wolfe-j/sent_items/84.",
+   "hops": [
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 4,
+         "rawfrom": "jason.wolfe@enron.com\r\n",
+         "source": "valid",
+         "to": "larrywolfe@ezeeweb.com"
+      },
+      {
+         "from": "larrywolfe@ezeeweb.com",
+         "line": 26,
+         "rawfrom": "\t\"Larry Wolfe\" <larrywolfe@ezeeweb.com>@ENRON  \n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 36,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com]\n",
+         "source": "email",
+         "to": "larrywolfe@ezeeweb.com"
+      },
+      {
+         "from": "larrywolfe@ezeeweb.com",
+         "line": 46,
+         "rawfrom": "  \"Larry Wolfe\" <larrywolfe@ezeeweb.com>@ENRON\n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/wolfe-j/sent_items/78.",
+   "hops": [
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 4,
+         "rawfrom": "jason.wolfe@enron.com\r\n",
+         "source": "valid",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 22,
+         "rawfrom": "\t\"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON  \n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 33,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com]\n",
+         "source": "email",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 42,
+         "rawfrom": "  \"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON\n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 50,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com]\n",
+         "source": "email",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 59,
+         "rawfrom": "  \"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON\n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 69,
+         "rawfrom": "jason.wolfe@enron.com [mailto:jason.wolfe@enron.com]\n",
+         "source": "email",
+         "to": "eellwanger@triumphboats.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/wolfe-j/sent_items/94.",
+   "hops": [
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 4,
+         "rawfrom": "jason.wolfe@enron.com\r\n",
+         "source": "valid",
+         "to": "allan.elliott@enform.com, dunn@enron.com, john.dunn@enform.com,"
+      },
+      {
+         "from": "allan.elliott@enform.com",
+         "line": 27,
+         "rawfrom": "\t\"Elliott, Allan\" <Allan.Elliott@enform.com>@ENRON  \n",
+         "source": "email",
+         "to": "Dunn, John; Wolfe, Jason; Cherry, Michael; Sample, Matt; Cherry, Beth; Gradney, Kevin"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 43,
+         "rawfrom": "Jason.Wolfe@enron.com \n",
+         "source": "valid",
+         "to": "John.Dunn@enform.com; John.Dunn@enform.com; Allan.Elliott@enform.com; Michael.Cherry@enform.com; Matt.Sample@enform.com; Beth.Cherry@enform.com"
+      },
+      {
+         "from": "john.dunn@enform.com",
+         "line": 51,
+         "rawfrom": "  \"Dunn, John\" <John.Dunn@enform.com>@ENRON \n",
+         "source": "email",
+         "to": "Wolfe, Jason; Dunn, John; Elliott, Allan; Cherry, Michael;"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 60,
+         "rawfrom": "Jason.Wolfe@enron.com \n",
+         "source": "valid",
+         "to": "John.Dunn@enform.com; Allan.Elliott@enform.com;"
+      },
+      {
+         "from": "john.dunn@enform.com",
+         "line": 74,
+         "rawfrom": "  \"Dunn, John\" <John.Dunn@enform.com>@ENRON \n",
+         "source": "email",
+         "to": "Elliott, Allan; Cherry, Michael; Sample, Matt; Cherry,"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/wolfe-j/06_saved/71.",
+   "hops": [
+      {
+         "from": "bruce.bowden@williams.com",
+         "line": 4,
+         "rawfrom": "bruce.bowden@williams.com\r\n",
+         "source": "valid",
+         "to": "jason.wolfe@enron.com"
+      },
+      {
+         "from": "bruce.bowden@williams.com",
+         "line": 30,
+         "rawfrom": "  \"Bowden, Bruce\" <Bruce.Bowden@Williams.com>@ENRON \n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 37,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com  << File: \n",
+         "source": "email",
+         "to": "Bruce.Bowden@williams.com"
+      },
+      {
+         "from": "bruce.bowden@williams.com",
+         "line": 51,
+         "rawfrom": "  \"Bowden, Bruce\" <Bruce.Bowden@Williams.com>@ENRON \n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 65,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com  << File: \n",
+         "source": "email",
+         "to": "Bruce.Bowden@williams.com"
+      },
+      {
+         "from": "bruce.bowden@williams.com",
+         "line": 88,
+         "rawfrom": "  \"Bowden, Bruce\" <Bruce.Bowden@Williams.com>@ENRON \n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 106,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com  << File: \n",
+         "source": "email",
+         "to": "Bruce.Bowden@williams.com"
+      },
+      {
+         "from": "bruce.bowden@williams.com",
+         "line": 139,
+         "rawfrom": "  \"Bowden, Bruce\" <Bruce.Bowden@Williams.com>@ENRON \n",
+         "source": "email",
+         "to": "Angelica Helander (E-mail); Jane Kidd (E-mail); Rex"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/wolfe-j/06_saved/70.",
+   "hops": [
+      {
+         "from": "bruce.bowden@williams.com",
+         "line": 4,
+         "rawfrom": "bruce.bowden@williams.com\r\n",
+         "source": "valid",
+         "to": "jason.wolfe@enron.com"
+      },
+      {
+         "from": "bruce.bowden@williams.com",
+         "line": 29,
+         "rawfrom": "  \"Bowden, Bruce\" <Bruce.Bowden@Williams.com>@ENRON \n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 37,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com  << File: \n",
+         "source": "email",
+         "to": "Bruce.Bowden@williams.com"
+      },
+      {
+         "from": "bruce.bowden@williams.com",
+         "line": 49,
+         "rawfrom": "  \"Bowden, Bruce\" <Bruce.Bowden@Williams.com>@ENRON \n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 58,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com  << File: \n",
+         "source": "email",
+         "to": "Bruce.Bowden@williams.com"
+      },
+      {
+         "from": "bruce.bowden@williams.com",
+         "line": 78,
+         "rawfrom": "  \"Bowden, Bruce\" <Bruce.Bowden@Williams.com>@ENRON \n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 97,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com  << File: \n",
+         "source": "email",
+         "to": "Bruce.Bowden@williams.com"
+      },
+      {
+         "from": "bruce.bowden@williams.com",
+         "line": 134,
+         "rawfrom": "  \"Bowden, Bruce\" <Bruce.Bowden@Williams.com>@ENRON \n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 161,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com  << \n",
+         "source": "email",
+         "to": "Bruce.Bowden@williams.com"
+      },
+      {
+         "from": "bruce.bowden@williams.com",
+         "line": 218,
+         "rawfrom": "  \"Bowden, Bruce\" <Bruce.Bowden@Williams.com>@ENRON \n",
+         "source": "email",
+         "to": "Angelica Helander (E-mail); Jane Kidd (E-mail); Rex"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/wolfe-j/10_saved/71.",
+   "hops": [
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 4,
+         "rawfrom": "eellwanger@triumphboats.com\r\n",
+         "source": "valid",
+         "to": "jason.wolfe@enron.com"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 23,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com]\n",
+         "source": "email",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 35,
+         "rawfrom": "  \"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON\n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 45,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com]\n",
+         "source": "email",
+         "to": "eellwanger@triumphboats.com"
+      },
+      {
+         "from": "eellwanger@triumphboats.com",
+         "line": 58,
+         "rawfrom": "  \"Eric Ellwanger\" <eellwanger@triumphboats.com>@ENRON\n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/wolfe-j/10_saved/80.",
+   "hops": [
+      {
+         "from": "valerie.ridinger@alcoa.com",
+         "line": 4,
+         "rawfrom": "valerie.ridinger@alcoa.com\r\n",
+         "source": "valid",
+         "to": "jason.wolfe@enron.com"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 25,
+         "rawfrom": "Jason.Wolfe@enron.com [mailto:Jason.Wolfe@enron.com]\n",
+         "source": "email",
+         "to": "Valerie.Ridinger@alcoa.com"
+      },
+      {
+         "from": "valerie.ridinger@alcoa.com",
+         "line": 35,
+         "rawfrom": "  \"Ridinger, Valerie D.\" <Valerie.Ridinger@alcoa.com>@ENRON\n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 43,
+         "rawfrom": "Wolfe, Jason [mailto:Jason.Wolfe@ENRON.com]\n",
+         "source": "email",
+         "to": "valerie.ridinger@alcoa.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/wolfe-j/07_saved/15.",
+   "hops": [
+      {
+         "from": "beth.cherry@enform.com",
+         "line": 4,
+         "rawfrom": "beth.cherry@enform.com\r\n",
+         "source": "valid",
+         "to": "jason.wolfe@enron.com"
+      },
+      {
+         "from": "amy.wade@enform.com",
+         "line": 22,
+         "rawfrom": "Amy A. Wade  [mailto:Amy.Wade@enform.com]\n",
+         "source": "email",
+         "to": "'Cherry, Beth'"
+      },
+      {
+         "from": "beth.cherry@enform.com",
+         "line": 32,
+         "rawfrom": "Cherry, Beth  [mailto:Beth.Cherry@enform.com]\n",
+         "source": "email",
+         "to": "Amy.Wade@enform.com"
+      },
+      {
+         "from": "amy.wade@enform.com",
+         "line": 42,
+         "rawfrom": "Amy A. Wade  [mailto:Amy.Wade@enform.com]\n",
+         "source": "email",
+         "to": "'Cherry, Beth'"
+      },
+      {
+         "from": "beth.cherry@enform.com",
+         "line": 53,
+         "rawfrom": "Cherry, Beth  [mailto:Beth.Cherry@enform.com]\n",
+         "source": "email",
+         "to": "Wade, Amy"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/wolfe-j/07_saved/8.",
+   "hops": [
+      {
+         "from": "vze28szx@verizon.net",
+         "line": 4,
+         "rawfrom": "vze28szx@verizon.net\r\n",
+         "source": "valid",
+         "to": "jason.wolfe@enron.com"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 32,
+         "rawfrom": "Wolfe, Jason <Jason.Wolfe@ENRON.com>\n",
+         "source": "email",
+         "to": "Alan Julson <aljulson@netzero.net>"
+      },
+      {
+         "from": "vze28szx@verizon.net",
+         "line": 57,
+         "rawfrom": "\"Alan Julson\" <vze28szx@verizon.net>@ENRON\n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      },
+      {
+         "from": "jason.wolfe@enron.com",
+         "line": 86,
+         "rawfrom": "Wolfe, Jason <Jason.Wolfe@ENRON.com>\n",
+         "source": "email",
+         "to": "Alan Julson <aljulson@netzero.net>"
+      },
+      {
+         "from": "vze28szx@verizon.net",
+         "line": 104,
+         "rawfrom": "\"Alan Julson\" <vze28szx@verizon.net>@ENRON\n",
+         "source": "email",
+         "to": "Wolfe, Jason"
+      }
+   ],
+   "skipped": 0
+}
+]

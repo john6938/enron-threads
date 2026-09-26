@@ -1,0 +1,3144 @@
+[
+{
+   "file": "/home/jb/maildir/davis-d/inbox/family/14.",
+   "hops": [
+      {
+         "from": "mfoster@grti.tec.ar.us",
+         "line": 4,
+         "rawfrom": "mfoster@grti.tec.ar.us\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 25,
+         "rawfrom": "         \"Davis, Dana\" <Dana.Davis@ENRON.com>\n",
+         "source": "email",
+         "to": "<mfoster@grti.tec.ar.us>"
+      },
+      {
+         "from": "mfoster@grti.tec.ar.us",
+         "line": 33,
+         "rawfrom": "mfoster@grti.tec.ar.us [mailto:mfoster@grti.tec.ar.us]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 53,
+         "rawfrom": "         \"Davis, Dana\" <Dana.Davis@ENRON.com>\n",
+         "source": "email",
+         "to": "<mfoster@grti.tec.ar.us>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/inbox/85.",
+   "hops": [
+      {
+         "from": "juantongia.calvin@enron.com",
+         "line": 4,
+         "rawfrom": "juantongia.calvin@enron.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "sonia_c_ellis@reliantenergy.com",
+         "line": 30,
+         "rawfrom": "\tSonia_C_Ellis@reliantenergy.com@ENRON  \n",
+         "source": "email",
+         "to": "deborah.aaron@himusa.com (Deborah Aaron); Baker, Conswello; cellis3@houston.rr.com; TYMoses@us.fortis.com; bernard_e_nesbitt@reliantenergy.com; sonya_g_patterson@reliantenergy.com; ronald_k_pegues@reliantenergy.com; Randle, Corey; ila_i_simon@reliantenergy.com; Thomas, Myrna; Valsin,Andrea M; Williams, Danita M"
+      },
+      {
+         "from": "marietrah@aol.com",
+         "line": 67,
+         "rawfrom": "MarieTrah@aol.com [mailto:MarieTrah@aol.com]\n",
+         "source": "email",
+         "to": "gdtrahan@sbec.com; cbrunson@deer-park.isd.tenet.edu;"
+      },
+      {
+         "from": "loretta_patrick@hotmail.com",
+         "line": 91,
+         "rawfrom": "\"Loretta Patrick\" <loretta_patrick@hotmail.com>\n",
+         "source": "email",
+         "to": "<abolson@ev1.net>"
+      },
+      {
+         "from": "kimberly.d.fowler@akzo-nobel.com",
+         "line": 100,
+         "rawfrom": "\"Fowler, KD (Kimberly)\" <Kimberly.D.Fowler@akzo-nobel.com>\n",
+         "source": "email",
+         "to": "\"'Brian K. McCleskey'\" <bigtex1@mainlandinternet.net>,    \"'Baker,"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/all_documents/318.",
+   "hops": [
+      {
+         "from": "bjackson@msspc.com",
+         "line": 4,
+         "rawfrom": "bjackson@msspc.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 27,
+         "rawfrom": "Dana.Davis@enron.com [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "BJACKSON@MSSPC.COM"
+      },
+      {
+         "from": "bjackson@msspc.com",
+         "line": 49,
+         "rawfrom": "Bobby Jackson <BJACKSON@MSSPC.COM> on 07/17/2000 08:39:05 AM\n",
+         "source": "email",
+         "to": "\"'Dana Davis'\" <Dana.Davis@enron.com>"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 70,
+         "rawfrom": "Dana Davis [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "bjackson@msspc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/all_documents/387.",
+   "hops": [
+      {
+         "from": "cmontgomery@kmg.com",
+         "line": 4,
+         "rawfrom": "cmontgomery@kmg.com\r\n",
+         "source": "valid",
+         "to": "dana_davis@enron.com"
+      },
+      {
+         "from": "dana_davis@enron.com",
+         "line": 22,
+         "rawfrom": "Dana_Davis@enron.com [mailto:Dana_Davis@enron.com]\n",
+         "source": "email",
+         "to": "Cmontgomery@kmg.com"
+      },
+      {
+         "from": "cmontgomery@kmg.com",
+         "line": 51,
+         "rawfrom": "\"Montgomery, Claudette\" <Cmontgomery@kmg.com> on 02/07/2000 10:19:09 AM\n",
+         "source": "email",
+         "to": "\"'ddavis@enron.com'\" <ddavis@enron.com>"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 63,
+         "rawfrom": "Dana Davis [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "Cmontgomery@kmg.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/all_documents/320.",
+   "hops": [
+      {
+         "from": "bjackson@msspc.com",
+         "line": 4,
+         "rawfrom": "bjackson@msspc.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 36,
+         "rawfrom": "Dana.Davis@enron.com [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "BJACKSON@MSSPC.COM"
+      },
+      {
+         "from": "bjackson@msspc.com",
+         "line": 58,
+         "rawfrom": "Bobby Jackson <BJACKSON@MSSPC.COM> on 07/17/2000 08:39:05 AM\n",
+         "source": "email",
+         "to": "\"'Dana Davis'\" <Dana.Davis@enron.com>"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 79,
+         "rawfrom": "Dana Davis [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "bjackson@msspc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/all_documents/62.",
+   "hops": [
+      {
+         "from": "wmontg6626@aol.com",
+         "line": 4,
+         "rawfrom": "wmontg6626@aol.com\r\n",
+         "source": "valid",
+         "to": "awilliams@matrixservice.com, clott@matrixservice.com, ddavis@ect.enron.com,"
+      },
+      {
+         "from": "lawyert@aol.com",
+         "line": 24,
+         "rawfrom": "LawyerT@aol.com\n",
+         "source": "valid",
+         "to": "Alicia_A_Wesley@comerica.com, AlmaHWesley@bankunited.com,"
+      },
+      {
+         "from": "trailsugar@aol.com",
+         "line": 41,
+         "rawfrom": "TrailSugar@aol.com\n",
+         "source": "valid",
+         "to": "LawyerT@aol.com"
+      },
+      {
+         "from": "sheilat549@aol.com",
+         "line": 55,
+         "rawfrom": "SheilaT549@aol.com\n",
+         "source": "valid",
+         "to": "JenjoLemons@aol.com, CKBish24@aol.com, BigBirdMB@aol.com,"
+      },
+      {
+         "from": "lrsons@aol.com",
+         "line": 73,
+         "rawfrom": "LRSONS@aol.com\n",
+         "source": "valid",
+         "to": "Gantbj@aol.com, Anml@mci.com, happy@boernenet.com., IamCP97@webtv.net,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/all_documents/168.",
+   "hops": [
+      {
+         "from": "bjackson@sswpc.com",
+         "line": 4,
+         "rawfrom": "bjackson@sswpc.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 20,
+         "rawfrom": "Dana.Davis@enron.com [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "BJACKSON@SSWPC.COM"
+      },
+      {
+         "from": "bjackson@sswpc.com",
+         "line": 33,
+         "rawfrom": "Bobby Jackson <BJACKSON@SSWPC.COM> on 08/23/2000 09:23:48 AM\n",
+         "source": "email",
+         "to": "\"'Dana Davis'\" <Dana.Davis@enron.com>"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 46,
+         "rawfrom": "Dana Davis [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "Bjackson@sswpc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/all_documents/51.",
+   "hops": [
+      {
+         "from": "ward_h@houworks.com",
+         "line": 4,
+         "rawfrom": "ward_h@houworks.com\r\n",
+         "source": "valid",
+         "to": "bowenstn@aetna.com, gerald_williams@afcc.com, shanda_guillory@aimfunds.com,"
+      },
+      {
+         "from": "mickeycastillo@hotmail.com",
+         "line": 65,
+         "rawfrom": "\"Mickey Castillo\" <mickeycastillo@hotmail.com>\n",
+         "source": "email",
+         "to": "ward_h@houworks.com"
+      },
+      {
+         "from": "dottiecooper@compuserve.com",
+         "line": 79,
+         "rawfrom": "\"Mark E. Cooper\" <DottieCooper@compuserve.com>\n",
+         "source": "email",
+         "to": "\"VanHook, Robert C SWG\" <robert.c.vanhook@swg02.usace.army.mil>,"
+      },
+      {
+         "from": "tom@hal-pc.org",
+         "line": 93,
+         "rawfrom": "INTERNET:tom@hal-pc.org, INTERNET:tom@hal-pc.org\n",
+         "source": "email",
+         "to": "\"'F - Judy'\", INTERNET:Judy@hal-pc.org"
+      },
+      {
+         "from": "tom@hal-pc.org",
+         "line": 151,
+         "rawfrom": "\"Tom Henderson\" <tom@hal-pc.org>\n",
+         "source": "email",
+         "to": "\"'F - Judy'\" <Judy@hal-pc.org>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/all_documents/440.",
+   "hops": [
+      {
+         "from": "dana.davis@enron.com",
+         "line": 4,
+         "rawfrom": "dana.davis@enron.com\r\n",
+         "source": "valid",
+         "to": "lesleycm@hotmail.com"
+      },
+      {
+         "from": "lesleycm@hotmail.com",
+         "line": 23,
+         "rawfrom": "\"lesley cash\" <lesleycm@hotmail.com> on 02/06/2001 04:24:46 PM\n",
+         "source": "email",
+         "to": "Flowmasters2000@aol.com, papacash@hotmail.com, LWCash@hotmail.com,"
+      },
+      {
+         "from": "rome304@hotmail.com",
+         "line": 37,
+         "rawfrom": "\"Raimone Wilson\" <rome304@hotmail.com>\n",
+         "source": "email",
+         "to": "lesleycm@hotmail.com, seh1072@hotmail.com"
+      },
+      {
+         "from": "karadan9899@yahoo.com",
+         "line": 45,
+         "rawfrom": "Kara Wilson <karadan9899@yahoo.com>\n",
+         "source": "email",
+         "to": "jennnifer armstrong <jenastrong@yahoo.com>,  BRANDY L BROOKS"
+      },
+      {
+         "from": "jenastrong@yahoo.com",
+         "line": 73,
+         "rawfrom": "\"Jen.\" <jenastrong@yahoo.com>\n",
+         "source": "email",
+         "to": "Danielle Monique Ardoin <DANIELLEARDOIN@excite.com>,  Shakeya Vashon"
+      },
+      {
+         "from": "tessa_71291@yahoo.com",
+         "line": 121,
+         "rawfrom": "SHIRLEY JONES <tessa_71291@yahoo.com>\n",
+         "source": "email",
+         "to": "jennifer armstrong <jenastrong@yahoo.com>,  Shelaksa Mack"
+      },
+      {
+         "from": "sreitzell@yahoo.com",
+         "line": 153,
+         "rawfrom": "Sharonda Reitzell <sreitzell@yahoo.com>\n",
+         "source": "email",
+         "to": "Jennifer Armstrong <jenastrong@yahoo.com>,  LAMONT COLLINS"
+      },
+      {
+         "from": "hot_n_spicy1_98@yahoo.com",
+         "line": 178,
+         "rawfrom": "Brandy Douglas <hot_n_spicy1_98@yahoo.com>\n",
+         "source": "email",
+         "to": "Timesha Nicole Dugas <nikki_joe@hotmail.com>,  Emma Hamilton"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/all_documents/36.",
+   "hops": [
+      {
+         "from": "dana.davis@enron.com",
+         "line": 4,
+         "rawfrom": "dana.davis@enron.com\r\n",
+         "source": "valid",
+         "to": "denise.moore@dhs.state.tx.us"
+      },
+      {
+         "from": "denise.moore@dhs.state.tx.us",
+         "line": 23,
+         "rawfrom": "\"Moore,Denise I\" <denise.moore@dhs.state.tx.us> on 12/11/2000 01:20:16 PM\n",
+         "source": "email",
+         "to": "\"'dana.davis@enron.com'\" <dana.davis@enron.com>, \"'cashley@poha.com'\""
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 36,
+         "rawfrom": "Dana.Davis@enron.com\n",
+         "source": "valid",
+         "to": "denise.moore@dhs.state.tx.us; cmontgomery@kmg.com; cashley@poha.com"
+      },
+      {
+         "from": "denise.moore@dhs.state.tx.us",
+         "line": 51,
+         "rawfrom": "denise.moore@dhs.state.tx.us",
+         "source": "valid",
+         "to": "\"'ddavis@enron.com'\" <ddavis@enron.com>, \"'cmontgomery@kmg.com'\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/all_documents/196.",
+   "hops": [
+      {
+         "from": "dana.davis@enron.com",
+         "line": 4,
+         "rawfrom": "dana.davis@enron.com\r\n",
+         "source": "valid",
+         "to": "bjackson@sswpc.com"
+      },
+      {
+         "from": "bjackson@sswpc.com",
+         "line": 23,
+         "rawfrom": "Bobby Jackson <BJACKSON@SSWPC.COM> on 10/18/2000 08:17:16 AM\n",
+         "source": "email",
+         "to": "\"'Dana.Davis@enron.com'\" <Dana.Davis@enron.com>"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 33,
+         "rawfrom": "Dana.Davis@enron.com [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "BJACKSON@SSWPC.COM"
+      },
+      {
+         "from": "bjackson@sswpc.com",
+         "line": 46,
+         "rawfrom": "Bobby Jackson <BJACKSON@SSWPC.COM> on 10/18/2000 08:12:08 AM\n",
+         "source": "email",
+         "to": "\"'dana.davis@enron.com'\" <dana.davis@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/all_documents/88.",
+   "hops": [
+      {
+         "from": "edith-kelly@reliantenergy.com",
+         "line": 4,
+         "rawfrom": "edith-kelly@reliantenergy.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "edith-kelly@reliantenergy.com",
+         "line": 41,
+         "rawfrom": "edith-kelly@reliantenergy.com on 12/05/2000 03:05:28 PM\n",
+         "source": "email",
+         "to": "Dana.Davis@enron.com"
+      },
+      {
+         "from": "jwashing@mail.mdanderson.org",
+         "line": 109,
+         "rawfrom": "jwashing@mail.mdanderson.org on 12/05/2000 01:32:55 PM\n",
+         "source": "email",
+         "to": "dana.davis@enron.com, cmontgomery@kmg.com"
+      },
+      {
+         "from": "edith-kelly@reliantenergy.com",
+         "line": 161,
+         "rawfrom": "edith-kelly@reliantenergy.com on 12/05/2000 10:44:12 AM\n",
+         "source": "email",
+         "to": "Dana.Davis@enron.com, \"Montgomery, Claudette\" <Cmontgomery@kmg.com>"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/all_documents/116.",
+   "hops": [
+      {
+         "from": "wmontg@juno.com",
+         "line": 4,
+         "rawfrom": "wmontg@juno.com\r\n",
+         "source": "valid",
+         "to": "ddavis@ect.enron.com"
+      },
+      {
+         "from": "clott@matrixservice.com",
+         "line": 19,
+         "rawfrom": "\"Charita Lott\" <clott@matrixservice.com>\n",
+         "source": "email",
+         "to": "\"Willie montgomery\" <wmontg@juno.com>"
+      },
+      {
+         "from": "trose@matrixservice.com",
+         "line": 29,
+         "rawfrom": "Tiffiany Rose [mailto:trose@matrixservice.com]\n",
+         "source": "email",
+         "to": "Shayla Prater; Pamela Hayward Brooks; Lashawn Bass; Kesha Randle;"
+      },
+      {
+         "from": "orange23@corecomm.net",
+         "line": 39,
+         "rawfrom": "The Oranges [mailto:orange23@corecomm.net]\n",
+         "source": "email",
+         "to": "Aaron T Orange; Abby Joseph; Andrea Fisher; Christopher Alverson;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/all_documents/317.",
+   "hops": [
+      {
+         "from": "bjackson@msspc.com",
+         "line": 4,
+         "rawfrom": "bjackson@msspc.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 23,
+         "rawfrom": "Dana.Davis@enron.com [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "BJACKSON@MSSPC.COM"
+      },
+      {
+         "from": "bjackson@msspc.com",
+         "line": 44,
+         "rawfrom": "Bobby Jackson <BJACKSON@MSSPC.COM> on 07/17/2000 03:45:52 PM\n",
+         "source": "email",
+         "to": "\"'Dana.Davis@enron.com'\" <Dana.Davis@enron.com>"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 60,
+         "rawfrom": "Dana.Davis@enron.com [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "BJACKSON@MSSPC.COM"
+      },
+      {
+         "from": "bjackson@msspc.com",
+         "line": 82,
+         "rawfrom": "Bobby Jackson <BJACKSON@MSSPC.COM> on 07/17/2000 08:39:05 AM\n",
+         "source": "email",
+         "to": "\"'Dana Davis'\" <Dana.Davis@enron.com>"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 103,
+         "rawfrom": "Dana Davis [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "bjackson@msspc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/all_documents/86.",
+   "hops": [
+      {
+         "from": "dana.davis@enron.com",
+         "line": 4,
+         "rawfrom": "dana.davis@enron.com\r\n",
+         "source": "valid",
+         "to": "cmontgomery@kmg.com"
+      },
+      {
+         "from": "edith-kelly@reliantenergy.com",
+         "line": 51,
+         "rawfrom": "edith-kelly@reliantenergy.com on 12/05/2000 03:05:28 PM\n",
+         "source": "email",
+         "to": "Dana.Davis@enron.com"
+      },
+      {
+         "from": "jwashing@mail.mdanderson.org",
+         "line": 119,
+         "rawfrom": "jwashing@mail.mdanderson.org on 12/05/2000 01:32:55 PM\n",
+         "source": "email",
+         "to": "dana.davis@enron.com, cmontgomery@kmg.com"
+      },
+      {
+         "from": "edith-kelly@reliantenergy.com",
+         "line": 171,
+         "rawfrom": "edith-kelly@reliantenergy.com on 12/05/2000 10:44:12 AM\n",
+         "source": "email",
+         "to": "Dana.Davis@enron.com, \"Montgomery, Claudette\" <Cmontgomery@kmg.com>"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/all_documents/89.",
+   "hops": [
+      {
+         "from": "dana.davis@enron.com",
+         "line": 4,
+         "rawfrom": "dana.davis@enron.com\r\n",
+         "source": "valid",
+         "to": "edith-kelly@reliantenergy.com"
+      },
+      {
+         "from": "edith-kelly@reliantenergy.com",
+         "line": 24,
+         "rawfrom": "edith-kelly@reliantenergy.com on 12/05/2000 03:05:28 PM\n",
+         "source": "email",
+         "to": "Dana.Davis@enron.com"
+      },
+      {
+         "from": "jwashing@mail.mdanderson.org",
+         "line": 92,
+         "rawfrom": "jwashing@mail.mdanderson.org on 12/05/2000 01:32:55 PM\n",
+         "source": "email",
+         "to": "dana.davis@enron.com, cmontgomery@kmg.com"
+      },
+      {
+         "from": "edith-kelly@reliantenergy.com",
+         "line": 144,
+         "rawfrom": "edith-kelly@reliantenergy.com on 12/05/2000 10:44:12 AM\n",
+         "source": "email",
+         "to": "Dana.Davis@enron.com, \"Montgomery, Claudette\" <Cmontgomery@kmg.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/all_documents/323.",
+   "hops": [
+      {
+         "from": "dana.davis@enron.com",
+         "line": 4,
+         "rawfrom": "dana.davis@enron.com\r\n",
+         "source": "valid",
+         "to": "denise.moore@dhs.state.tx.us"
+      },
+      {
+         "from": "denise.moore@dhs.state.tx.us",
+         "line": 27,
+         "rawfrom": "\"Moore,Denise I\" <denise.moore@dhs.state.tx.us> on 07/14/2000 11:23:28 AM\n",
+         "source": "email",
+         "to": "Dana Davis <Dana.Davis@enron.com>"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 42,
+         "rawfrom": "Dana Davis [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "denise.moore@dhs.state.tx.us"
+      },
+      {
+         "from": "denise.moore@dhs.state.tx.us",
+         "line": 57,
+         "rawfrom": "\"Moore,Denise I\" <denise.moore@dhs.state.tx.us> on 06/22/2000 11:18:40 AM\n",
+         "source": "email",
+         "to": "cmontgomery@kmg.com, dana.davis@enron.com, cashley@poha.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/all_documents/393.",
+   "hops": [
+      {
+         "from": "ward_h@houworks.com",
+         "line": 4,
+         "rawfrom": "ward_h@houworks.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com, forbes_t.jefferson_po.hw_email@houworks.com,"
+      },
+      {
+         "from": "jennifer.bell@oaksgroup.com",
+         "line": 27,
+         "rawfrom": "Jennifer Bell <jennifer.bell@oaksgroup.com>\n",
+         "source": "email",
+         "to": "\"'Ward_H@houworks.com'\" <Ward_H@houworks.com>"
+      },
+      {
+         "from": "cmlockett@earthlink.net",
+         "line": 52,
+         "rawfrom": "Cynthia Lockett [mailto:cmlockett@earthlink.net]\n",
+         "source": "email",
+         "to": "lOCKETTMD@MFR.USMC.MIL"
+      },
+      {
+         "from": "lockett.cynthia@dimac.com",
+         "line": 59,
+         "rawfrom": "Lockett.Cynthia <Lockett.Cynthia@DIMAC.COM>\n",
+         "source": "email",
+         "to": "'CYNTHIA LOCKETT' <CMLOCKETT@earthlink.net>"
+      },
+      {
+         "from": "smyers@intercardinc.com",
+         "line": 80,
+         "rawfrom": "smyers@intercardinc.com [SMTP:smyers@intercardinc.com]\n",
+         "source": "email",
+         "to": "avincent@intercardinc.com; dlayton@intercardinc.com;"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/all_documents/109.",
+   "hops": [
+      {
+         "from": "lesleycm@hotmail.com",
+         "line": 4,
+         "rawfrom": "lesleycm@hotmail.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com, cafegal637@aol.com"
+      },
+      {
+         "from": "trc464@mobilnet.gte.com",
+         "line": 18,
+         "rawfrom": "\"Cash, Traci\" <TRC464@mobilnet.gte.com>\n",
+         "source": "email",
+         "to": "\"Hagger, Catrece\" <CMH453@mobilnet.gte.com>,"
+      },
+      {
+         "from": "joelringer@hotmail.com",
+         "line": 54,
+         "rawfrom": " Joel Ringer[SMTP:joelringer@hotmail.com]\n",
+         "source": "email",
+         "to": "HEL460@mobilnet.gte.com; s_cahal@yahoo.com; mguzman36@hotmail.com;"
+      },
+      {
+         "from": "sean272133@aol.com",
+         "line": 64,
+         "rawfrom": "Sean272133@aol.com\n",
+         "source": "valid",
+         "to": "ae_bristow@yahoo.com, azaki26@hotmail.com, boriscai@hotmail.com,"
+      },
+      {
+         "from": "jdennis@paceconsulting.net",
+         "line": 101,
+         "rawfrom": "Jimmy Dennis <jdennis@paceconsulting.net>\n",
+         "source": "email",
+         "to": "Jimmy Dennis <jdennis@paceconsulting.net>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/all_documents/105.",
+   "hops": [
+      {
+         "from": "lola.willis@enron.com",
+         "line": 4,
+         "rawfrom": "lola.willis@enron.com\r\n",
+         "source": "valid",
+         "to": "debra_atkins@co.harris.tx.us, davis@enron.com,"
+      },
+      {
+         "from": "rickstarr2@yahoo.com",
+         "line": 36,
+         "rawfrom": "Rick Starr <rickstarr2@yahoo.com>\n",
+         "source": "email",
+         "to": "Elandres Williams <johnnymae@msn.com>,"
+      },
+      {
+         "from": "sddantzler@thegateway.net",
+         "line": 53,
+         "rawfrom": "Shirley Dantzler <sddantzler@thegateway.net>\n",
+         "source": "email",
+         "to": "sue_hebert@yahoo.com, rickstarr2@yahoo.com, jskemp@juno.com,"
+      },
+      {
+         "from": "masonteresa@bfusa.com",
+         "line": 61,
+         "rawfrom": "\"Mason, Teresa\" <MasonTeresa@bfusa.com>\n",
+         "source": "email",
+         "to": "\"Christie Cox (E-mail)\" <Christie_Cox@NAVLMAIL.COM>,"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/sent/58.",
+   "hops": [
+      {
+         "from": "dana.davis@enron.com",
+         "line": 4,
+         "rawfrom": "dana.davis@enron.com\r\n",
+         "source": "valid",
+         "to": "bjackson@sswpc.com"
+      },
+      {
+         "from": "bjackson@sswpc.com",
+         "line": 23,
+         "rawfrom": "Bobby Jackson <BJACKSON@SSWPC.COM> on 10/18/2000 08:17:16 AM\n",
+         "source": "email",
+         "to": "\"'Dana.Davis@enron.com'\" <Dana.Davis@enron.com>"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 33,
+         "rawfrom": "Dana.Davis@enron.com [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "BJACKSON@SSWPC.COM"
+      },
+      {
+         "from": "bjackson@sswpc.com",
+         "line": 46,
+         "rawfrom": "Bobby Jackson <BJACKSON@SSWPC.COM> on 10/18/2000 08:12:08 AM\n",
+         "source": "email",
+         "to": "\"'dana.davis@enron.com'\" <dana.davis@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/sent/27.",
+   "hops": [
+      {
+         "from": "dana.davis@enron.com",
+         "line": 4,
+         "rawfrom": "dana.davis@enron.com\r\n",
+         "source": "valid",
+         "to": "cmontgomery@kmg.com"
+      },
+      {
+         "from": "edith-kelly@reliantenergy.com",
+         "line": 51,
+         "rawfrom": "edith-kelly@reliantenergy.com on 12/05/2000 03:05:28 PM\n",
+         "source": "email",
+         "to": "Dana.Davis@enron.com"
+      },
+      {
+         "from": "jwashing@mail.mdanderson.org",
+         "line": 119,
+         "rawfrom": "jwashing@mail.mdanderson.org on 12/05/2000 01:32:55 PM\n",
+         "source": "email",
+         "to": "dana.davis@enron.com, cmontgomery@kmg.com"
+      },
+      {
+         "from": "edith-kelly@reliantenergy.com",
+         "line": 171,
+         "rawfrom": "edith-kelly@reliantenergy.com on 12/05/2000 10:44:12 AM\n",
+         "source": "email",
+         "to": "Dana.Davis@enron.com, \"Montgomery, Claudette\" <Cmontgomery@kmg.com>"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/sent/118.",
+   "hops": [
+      {
+         "from": "dana.davis@enron.com",
+         "line": 4,
+         "rawfrom": "dana.davis@enron.com\r\n",
+         "source": "valid",
+         "to": "denise.moore@dhs.state.tx.us"
+      },
+      {
+         "from": "denise.moore@dhs.state.tx.us",
+         "line": 27,
+         "rawfrom": "\"Moore,Denise I\" <denise.moore@dhs.state.tx.us> on 07/14/2000 11:23:28 AM\n",
+         "source": "email",
+         "to": "Dana Davis <Dana.Davis@enron.com>"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 42,
+         "rawfrom": "Dana Davis [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "denise.moore@dhs.state.tx.us"
+      },
+      {
+         "from": "denise.moore@dhs.state.tx.us",
+         "line": 57,
+         "rawfrom": "\"Moore,Denise I\" <denise.moore@dhs.state.tx.us> on 06/22/2000 11:18:40 AM\n",
+         "source": "email",
+         "to": "cmontgomery@kmg.com, dana.davis@enron.com, cashley@poha.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/sent/167.",
+   "hops": [
+      {
+         "from": "dana.davis@enron.com",
+         "line": 4,
+         "rawfrom": "dana.davis@enron.com\r\n",
+         "source": "valid",
+         "to": "lesleycm@hotmail.com"
+      },
+      {
+         "from": "lesleycm@hotmail.com",
+         "line": 23,
+         "rawfrom": "\"lesley cash\" <lesleycm@hotmail.com> on 02/06/2001 04:24:46 PM\n",
+         "source": "email",
+         "to": "Flowmasters2000@aol.com, papacash@hotmail.com, LWCash@hotmail.com,"
+      },
+      {
+         "from": "rome304@hotmail.com",
+         "line": 37,
+         "rawfrom": "\"Raimone Wilson\" <rome304@hotmail.com>\n",
+         "source": "email",
+         "to": "lesleycm@hotmail.com, seh1072@hotmail.com"
+      },
+      {
+         "from": "karadan9899@yahoo.com",
+         "line": 45,
+         "rawfrom": "Kara Wilson <karadan9899@yahoo.com>\n",
+         "source": "email",
+         "to": "jennnifer armstrong <jenastrong@yahoo.com>,  BRANDY L BROOKS"
+      },
+      {
+         "from": "jenastrong@yahoo.com",
+         "line": 73,
+         "rawfrom": "\"Jen.\" <jenastrong@yahoo.com>\n",
+         "source": "email",
+         "to": "Danielle Monique Ardoin <DANIELLEARDOIN@excite.com>,  Shakeya Vashon"
+      },
+      {
+         "from": "tessa_71291@yahoo.com",
+         "line": 121,
+         "rawfrom": "SHIRLEY JONES <tessa_71291@yahoo.com>\n",
+         "source": "email",
+         "to": "jennifer armstrong <jenastrong@yahoo.com>,  Shelaksa Mack"
+      },
+      {
+         "from": "sreitzell@yahoo.com",
+         "line": 153,
+         "rawfrom": "Sharonda Reitzell <sreitzell@yahoo.com>\n",
+         "source": "email",
+         "to": "Jennifer Armstrong <jenastrong@yahoo.com>,  LAMONT COLLINS"
+      },
+      {
+         "from": "hot_n_spicy1_98@yahoo.com",
+         "line": 178,
+         "rawfrom": "Brandy Douglas <hot_n_spicy1_98@yahoo.com>\n",
+         "source": "email",
+         "to": "Timesha Nicole Dugas <nikki_joe@hotmail.com>,  Emma Hamilton"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/sent/28.",
+   "hops": [
+      {
+         "from": "dana.davis@enron.com",
+         "line": 4,
+         "rawfrom": "dana.davis@enron.com\r\n",
+         "source": "valid",
+         "to": "edith-kelly@reliantenergy.com"
+      },
+      {
+         "from": "edith-kelly@reliantenergy.com",
+         "line": 24,
+         "rawfrom": "edith-kelly@reliantenergy.com on 12/05/2000 03:05:28 PM\n",
+         "source": "email",
+         "to": "Dana.Davis@enron.com"
+      },
+      {
+         "from": "jwashing@mail.mdanderson.org",
+         "line": 92,
+         "rawfrom": "jwashing@mail.mdanderson.org on 12/05/2000 01:32:55 PM\n",
+         "source": "email",
+         "to": "dana.davis@enron.com, cmontgomery@kmg.com"
+      },
+      {
+         "from": "edith-kelly@reliantenergy.com",
+         "line": 144,
+         "rawfrom": "edith-kelly@reliantenergy.com on 12/05/2000 10:44:12 AM\n",
+         "source": "email",
+         "to": "Dana.Davis@enron.com, \"Montgomery, Claudette\" <Cmontgomery@kmg.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/sent/11.",
+   "hops": [
+      {
+         "from": "dana.davis@enron.com",
+         "line": 4,
+         "rawfrom": "dana.davis@enron.com\r\n",
+         "source": "valid",
+         "to": "denise.moore@dhs.state.tx.us"
+      },
+      {
+         "from": "denise.moore@dhs.state.tx.us",
+         "line": 23,
+         "rawfrom": "\"Moore,Denise I\" <denise.moore@dhs.state.tx.us> on 12/11/2000 01:20:16 PM\n",
+         "source": "email",
+         "to": "\"'dana.davis@enron.com'\" <dana.davis@enron.com>, \"'cashley@poha.com'\""
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 36,
+         "rawfrom": "Dana.Davis@enron.com\n",
+         "source": "valid",
+         "to": "denise.moore@dhs.state.tx.us; cmontgomery@kmg.com; cashley@poha.com"
+      },
+      {
+         "from": "denise.moore@dhs.state.tx.us",
+         "line": 51,
+         "rawfrom": "denise.moore@dhs.state.tx.us",
+         "source": "valid",
+         "to": "\"'ddavis@enron.com'\" <ddavis@enron.com>, \"'cmontgomery@kmg.com'\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/notes_inbox/37.",
+   "hops": [
+      {
+         "from": "ward_h@houworks.com",
+         "line": 4,
+         "rawfrom": "ward_h@houworks.com\r\n",
+         "source": "valid",
+         "to": "bowenstn@aetna.com, gerald_williams@afcc.com, shanda_guillory@aimfunds.com,"
+      },
+      {
+         "from": "mickeycastillo@hotmail.com",
+         "line": 65,
+         "rawfrom": "\"Mickey Castillo\" <mickeycastillo@hotmail.com>\n",
+         "source": "email",
+         "to": "ward_h@houworks.com"
+      },
+      {
+         "from": "dottiecooper@compuserve.com",
+         "line": 79,
+         "rawfrom": "\"Mark E. Cooper\" <DottieCooper@compuserve.com>\n",
+         "source": "email",
+         "to": "\"VanHook, Robert C SWG\" <robert.c.vanhook@swg02.usace.army.mil>,"
+      },
+      {
+         "from": "tom@hal-pc.org",
+         "line": 93,
+         "rawfrom": "INTERNET:tom@hal-pc.org, INTERNET:tom@hal-pc.org\n",
+         "source": "email",
+         "to": "\"'F - Judy'\", INTERNET:Judy@hal-pc.org"
+      },
+      {
+         "from": "tom@hal-pc.org",
+         "line": 151,
+         "rawfrom": "\"Tom Henderson\" <tom@hal-pc.org>\n",
+         "source": "email",
+         "to": "\"'F - Judy'\" <Judy@hal-pc.org>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/notes_inbox/67.",
+   "hops": [
+      {
+         "from": "lesleycm@hotmail.com",
+         "line": 4,
+         "rawfrom": "lesleycm@hotmail.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com, cafegal637@aol.com"
+      },
+      {
+         "from": "trc464@mobilnet.gte.com",
+         "line": 18,
+         "rawfrom": "\"Cash, Traci\" <TRC464@mobilnet.gte.com>\n",
+         "source": "email",
+         "to": "\"Hagger, Catrece\" <CMH453@mobilnet.gte.com>,"
+      },
+      {
+         "from": "joelringer@hotmail.com",
+         "line": 54,
+         "rawfrom": " Joel Ringer[SMTP:joelringer@hotmail.com]\n",
+         "source": "email",
+         "to": "HEL460@mobilnet.gte.com; s_cahal@yahoo.com; mguzman36@hotmail.com;"
+      },
+      {
+         "from": "sean272133@aol.com",
+         "line": 64,
+         "rawfrom": "Sean272133@aol.com\n",
+         "source": "valid",
+         "to": "ae_bristow@yahoo.com, azaki26@hotmail.com, boriscai@hotmail.com,"
+      },
+      {
+         "from": "jdennis@paceconsulting.net",
+         "line": 101,
+         "rawfrom": "Jimmy Dennis <jdennis@paceconsulting.net>\n",
+         "source": "email",
+         "to": "Jimmy Dennis <jdennis@paceconsulting.net>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/notes_inbox/45.",
+   "hops": [
+      {
+         "from": "wmontg6626@aol.com",
+         "line": 4,
+         "rawfrom": "wmontg6626@aol.com\r\n",
+         "source": "valid",
+         "to": "awilliams@matrixservice.com, clott@matrixservice.com, ddavis@ect.enron.com,"
+      },
+      {
+         "from": "lawyert@aol.com",
+         "line": 24,
+         "rawfrom": "LawyerT@aol.com\n",
+         "source": "valid",
+         "to": "Alicia_A_Wesley@comerica.com, AlmaHWesley@bankunited.com,"
+      },
+      {
+         "from": "trailsugar@aol.com",
+         "line": 41,
+         "rawfrom": "TrailSugar@aol.com\n",
+         "source": "valid",
+         "to": "LawyerT@aol.com"
+      },
+      {
+         "from": "sheilat549@aol.com",
+         "line": 55,
+         "rawfrom": "SheilaT549@aol.com\n",
+         "source": "valid",
+         "to": "JenjoLemons@aol.com, CKBish24@aol.com, BigBirdMB@aol.com,"
+      },
+      {
+         "from": "lrsons@aol.com",
+         "line": 73,
+         "rawfrom": "LRSONS@aol.com\n",
+         "source": "valid",
+         "to": "Gantbj@aol.com, Anml@mci.com, happy@boernenet.com., IamCP97@webtv.net,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/notes_inbox/65.",
+   "hops": [
+      {
+         "from": "lola.willis@enron.com",
+         "line": 4,
+         "rawfrom": "lola.willis@enron.com\r\n",
+         "source": "valid",
+         "to": "debra_atkins@co.harris.tx.us, davis@enron.com,"
+      },
+      {
+         "from": "rickstarr2@yahoo.com",
+         "line": 36,
+         "rawfrom": "Rick Starr <rickstarr2@yahoo.com>\n",
+         "source": "email",
+         "to": "Elandres Williams <johnnymae@msn.com>,"
+      },
+      {
+         "from": "sddantzler@thegateway.net",
+         "line": 53,
+         "rawfrom": "Shirley Dantzler <sddantzler@thegateway.net>\n",
+         "source": "email",
+         "to": "sue_hebert@yahoo.com, rickstarr2@yahoo.com, jskemp@juno.com,"
+      },
+      {
+         "from": "masonteresa@bfusa.com",
+         "line": 61,
+         "rawfrom": "\"Mason, Teresa\" <MasonTeresa@bfusa.com>\n",
+         "source": "email",
+         "to": "\"Christie Cox (E-mail)\" <Christie_Cox@NAVLMAIL.COM>,"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/notes_inbox/70.",
+   "hops": [
+      {
+         "from": "wmontg@juno.com",
+         "line": 4,
+         "rawfrom": "wmontg@juno.com\r\n",
+         "source": "valid",
+         "to": "ddavis@ect.enron.com"
+      },
+      {
+         "from": "clott@matrixservice.com",
+         "line": 19,
+         "rawfrom": "\"Charita Lott\" <clott@matrixservice.com>\n",
+         "source": "email",
+         "to": "\"Willie montgomery\" <wmontg@juno.com>"
+      },
+      {
+         "from": "trose@matrixservice.com",
+         "line": 29,
+         "rawfrom": "Tiffiany Rose [mailto:trose@matrixservice.com]\n",
+         "source": "email",
+         "to": "Shayla Prater; Pamela Hayward Brooks; Lashawn Bass; Kesha Randle;"
+      },
+      {
+         "from": "orange23@corecomm.net",
+         "line": 39,
+         "rawfrom": "The Oranges [mailto:orange23@corecomm.net]\n",
+         "source": "email",
+         "to": "Aaron T Orange; Abby Joseph; Andrea Fisher; Christopher Alverson;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/deleted_items/225.",
+   "hops": [
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 4,
+         "rawfrom": "frank_telemaque@flexitallic.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 22,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 31,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 40,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 49,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 58,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/deleted_items/208.",
+   "hops": [
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 4,
+         "rawfrom": "frank_telemaque@flexitallic.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 22,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 31,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 40,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 50,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 59,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 68,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/deleted_items/209.",
+   "hops": [
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 4,
+         "rawfrom": "frank_telemaque@flexitallic.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 22,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 32,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 41,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 50,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/deleted_items/226.",
+   "hops": [
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 4,
+         "rawfrom": "frank_telemaque@flexitallic.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 22,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 31,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 40,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/deleted_items/288.",
+   "hops": [
+      {
+         "from": "dana.davis@enron.com",
+         "line": 4,
+         "rawfrom": "dana.davis@enron.com\r\n",
+         "source": "valid",
+         "to": "frank_telemaque@flexitallic.com"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 23,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 32,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 41,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/deleted_items/285.",
+   "hops": [
+      {
+         "from": "dana.davis@enron.com",
+         "line": 4,
+         "rawfrom": "dana.davis@enron.com\r\n",
+         "source": "valid",
+         "to": "frank_telemaque@flexitallic.com"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 22,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 31,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 40,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 49,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 59,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 68,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 77,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/deleted_items/211.",
+   "hops": [
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 4,
+         "rawfrom": "frank_telemaque@flexitallic.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 22,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 31,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 40,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 49,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 60,
+         "rawfrom": "Davis, Dana [ mailto:Dana.Davis@ENRON.com\n",
+         "source": "email",
+         "to": "Frank Telemaque (E-mail)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/deleted_items/143.",
+   "hops": [
+      {
+         "from": "patricia.villalobos@enron.com",
+         "line": 4,
+         "rawfrom": "patricia.villalobos@enron.com\r\n",
+         "source": "valid",
+         "to": "cory.williams@enron.com, dana.davis@enron.com"
+      },
+      {
+         "from": "ashleyworthing@hotmail.com",
+         "line": 22,
+         "rawfrom": "Ashley Worthing [mailto:ashleyworthing@hotmail.com]\n",
+         "source": "email",
+         "to": "alr91679@yahoo.com; anne@wcnet.net; bondri01@sprintspectrum.com;"
+      },
+      {
+         "from": "ashley.worthing@enron.com",
+         "line": 36,
+         "rawfrom": "\"Worthing, Ashley\" <Ashley.Worthing@ENRON.com>\n",
+         "source": "email",
+         "to": "<ashleyworthing@hotmail.com>"
+      },
+      {
+         "from": "dana_sturdevant@aimfunds.com",
+         "line": 62,
+         "rawfrom": "Sturdevant, Dana [mailto:Dana_Sturdevant@aimfunds.com]\n",
+         "source": "email",
+         "to": "Gray, Tara; Rexroad, Addie; Braunagel, Amy E; 'Kenley'; 'Amy"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/deleted_items/217.",
+   "hops": [
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 4,
+         "rawfrom": "frank_telemaque@flexitallic.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 22,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 31,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 42,
+         "rawfrom": "Davis, Dana [ mailto:Dana.Davis@ENRON.com\n",
+         "source": "email",
+         "to": "frank_telemaque@flexitallic.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/deleted_items/212.",
+   "hops": [
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 4,
+         "rawfrom": "frank_telemaque@flexitallic.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 22,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 31,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 40,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 49,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 60,
+         "rawfrom": "Davis, Dana [ mailto:Dana.Davis@ENRON.com\n",
+         "source": "email",
+         "to": "Frank Telemaque (E-mail)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/deleted_items/family/2.",
+   "hops": [
+      {
+         "from": "mfoster@grti.tec.ar.us",
+         "line": 4,
+         "rawfrom": "mfoster@grti.tec.ar.us\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 25,
+         "rawfrom": "         \"Davis, Dana\" <Dana.Davis@ENRON.com>\n",
+         "source": "email",
+         "to": "<mfoster@grti.tec.ar.us>"
+      },
+      {
+         "from": "mfoster@grti.tec.ar.us",
+         "line": 33,
+         "rawfrom": "mfoster@grti.tec.ar.us [mailto:mfoster@grti.tec.ar.us]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 53,
+         "rawfrom": "         \"Davis, Dana\" <Dana.Davis@ENRON.com>\n",
+         "source": "email",
+         "to": "<mfoster@grti.tec.ar.us>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/deleted_items/241.",
+   "hops": [
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 4,
+         "rawfrom": "frank_telemaque@flexitallic.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 22,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 31,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 40,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 49,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 60,
+         "rawfrom": "Davis, Dana [ mailto:Dana.Davis@ENRON.com\n",
+         "source": "email",
+         "to": "Frank Telemaque (E-mail)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/deleted_items/214.",
+   "hops": [
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 4,
+         "rawfrom": "frank_telemaque@flexitallic.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 22,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 32,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 41,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/deleted_items/115.",
+   "hops": [
+      {
+         "from": "patricia.villalobos@enron.com",
+         "line": 4,
+         "rawfrom": "patricia.villalobos@enron.com\r\n",
+         "source": "valid",
+         "to": "cory.williams@enron.com, jason.panos@enron.com, ashley.worthing@enron.com,"
+      },
+      {
+         "from": "pam58pam@hotmail.com",
+         "line": 23,
+         "rawfrom": "Patricia Villalobos [mailto:pam58pam@hotmail.com]\n",
+         "source": "email",
+         "to": "Villalobos, Patricia"
+      },
+      {
+         "from": "joesr05@yahoo.com",
+         "line": 31,
+         "rawfrom": "Joe Suarez <joesr05@yahoo.com>\n",
+         "source": "email",
+         "to": "Melanie Bennett <melbennett101@hotmail.com>,  alma hellings"
+      },
+      {
+         "from": "myshell_32@yahoo.com",
+         "line": 54,
+         "rawfrom": " <myshell_32@yahoo.com>\n",
+         "source": "email",
+         "to": "Luke Arnold <lildaddy282001@yahoo.com>, guylene artall <leoshunny1@aol.com>, Fran Beitia <frjai91@aol.com>, Shelly Lawson <airforcebratus@yahoo.com>, Dawn Ross <DROSS@gfbank.com>, chad e smith <chadesmith@hotmail.com>, Joe Suarez <joesr05@yahoo.com>, stacie tomlin <novalady@pdq.net>"
+      },
+      {
+         "from": "brygaard@wt.net",
+         "line": 70,
+         "rawfrom": " <brygaard@wt.net>\n",
+         "source": "email",
+         "to": "aiiibren@wt.net, bhurst@tomball.isd.esc4.ne <bhurst@tomball.isd.esc4.net>, delvige3@yahoo.com, debbie.kelly@customfoodg <debbie.kelly@customfoodgroup.com>, dmparvi@utmb.edu, HeistandH@msn.com, josephschumann@aol.com <Josephschumann@aol.com>, myshell_32@yahoo.com, tachatel@utmb.edu, vyvialcl@bp.com, beam@co.galveston.tx.us"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/deleted_items/213.",
+   "hops": [
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 4,
+         "rawfrom": "frank_telemaque@flexitallic.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 22,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 31,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 42,
+         "rawfrom": "Davis, Dana [ mailto:Dana.Davis@ENRON.com\n",
+         "source": "email",
+         "to": "Frank Telemaque (E-mail)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/deleted_items/245.",
+   "hops": [
+      {
+         "from": "tracey.green@enron.com",
+         "line": 4,
+         "rawfrom": "tracey.green@enron.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "tgreen@novoste.com",
+         "line": 22,
+         "rawfrom": "Green, Tonya [mailto:tgreen@novoste.com]\n",
+         "source": "email",
+         "to": "Alisa (E-mail); Dawn (E-mail); Elaine (E-mail); Kelsey (E-mail);"
+      },
+      {
+         "from": "piercerachelle@hotmail.com",
+         "line": 33,
+         "rawfrom": "Rachelle Pierce [mailto:piercerachelle@hotmail.com]\n",
+         "source": "email",
+         "to": "thun_cat@hotmail.com; bprado@lanierclothes.com;"
+      },
+      {
+         "from": "iris_jordan@hotmail.com",
+         "line": 46,
+         "rawfrom": "\"IRIS JORDAN\" <iris_jordan@hotmail.com>\n",
+         "source": "email",
+         "to": "annpatter@hotmail.com, blessed26@hotmail.com, g@crssales.com,"
+      },
+      {
+         "from": "iris_jordan@yahoo.com",
+         "line": 57,
+         "rawfrom": "iris jordan <iris_jordan@yahoo.com>\n",
+         "source": "email",
+         "to": "iris_jordan@hotmail.com"
+      },
+      {
+         "from": "kllacy@gapac.com",
+         "line": 78,
+         "rawfrom": " <KLLACY@GAPAC.com>\n",
+         "source": "email",
+         "to": "'iris_jordan@yahoo.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/deleted_items/218.",
+   "hops": [
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 4,
+         "rawfrom": "frank_telemaque@flexitallic.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 22,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 31,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 42,
+         "rawfrom": "Davis, Dana [ mailto:Dana.Davis@ENRON.com\n",
+         "source": "email",
+         "to": "Frank Telemaque (E-mail)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/deleted_items/207.",
+   "hops": [
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 4,
+         "rawfrom": "frank_telemaque@flexitallic.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 22,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 31,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 40,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 49,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 58,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 68,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 77,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 86,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/deleted_items/286.",
+   "hops": [
+      {
+         "from": "dana.davis@enron.com",
+         "line": 4,
+         "rawfrom": "dana.davis@enron.com\r\n",
+         "source": "valid",
+         "to": "frank_telemaque@flexitallic.com"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 22,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 31,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 41,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 50,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 59,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/deleted_items/287.",
+   "hops": [
+      {
+         "from": "dana.davis@enron.com",
+         "line": 4,
+         "rawfrom": "dana.davis@enron.com\r\n",
+         "source": "valid",
+         "to": "frank_telemaque@flexitallic.com"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 22,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 31,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 41,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 50,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 59,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/deleted_items/264.",
+   "hops": [
+      {
+         "from": "patricia.villalobos@enron.com",
+         "line": 4,
+         "rawfrom": "patricia.villalobos@enron.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "person3rdmin@yahoo.com",
+         "line": 33,
+         "rawfrom": "Timothy cruz <person3rdmin@yahoo.com>\n",
+         "source": "email",
+         "to": "christi_anna_2000@yahoo.com"
+      },
+      {
+         "from": "paynemarsha@hotmail.com",
+         "line": 64,
+         "rawfrom": "\"Marsha Payne\" <paynemarsha@hotmail.com>\n",
+         "source": "email",
+         "to": "ckiser@alltel.net, pegasis77406@yahoo.com, kiser1us@yahoo.com, n_njackson@hotmail.com, yellowbone_77471@yahoo.com, samsab@hotmail.com, ChynaTrini007@aol.com, tberry34@msn.com, Person3rdmin@yahoo.com, WALKERUNLIMITED@att.net, uvioeni@hotmail.com"
+      },
+      {
+         "from": "deebump@hotmail.com",
+         "line": 73,
+         "rawfrom": "\"Dee Lilly\" <deebump@hotmail.com>\n",
+         "source": "email",
+         "to": "aishaanderson@hotmail.com, amb6659@hotmail.com, babyboom01@hotmail.com,"
+      },
+      {
+         "from": "dana_carmouche@hotmail.com",
+         "line": 93,
+         "rawfrom": "\"Dana Carmouche\" <dana_carmouche@hotmail.com>\n",
+         "source": "email",
+         "to": "akaree@hotmail.com, boma_o@hotmail.com, Circhelle@aol.com,"
+      },
+      {
+         "from": "carlabrailey@hotmail.com",
+         "line": 103,
+         "rawfrom": "\"Carla Brailey\" <carlabrailey@hotmail.com>\n",
+         "source": "email",
+         "to": "Valencia_Fletcher@hcjpd.co.harris.tx.us, julisesa@email.msn.com,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/deleted_items/291.",
+   "hops": [
+      {
+         "from": "dana.davis@enron.com",
+         "line": 4,
+         "rawfrom": "dana.davis@enron.com\r\n",
+         "source": "valid",
+         "to": "frank_telemaque@flexitallic.com"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 22,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 31,
+         "rawfrom": "Davis, Dana [mailto:Dana.Davis@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank Telemaque"
+      },
+      {
+         "from": "frank_telemaque@flexitallic.com",
+         "line": 40,
+         "rawfrom": "Frank Telemaque [mailto:Frank_Telemaque@flexitallic.com]\n",
+         "source": "email",
+         "to": "Davis, Dana"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/fyi/28.",
+   "hops": [
+      {
+         "from": "cmontgomery@kmg.com",
+         "line": 4,
+         "rawfrom": "cmontgomery@kmg.com\r\n",
+         "source": "valid",
+         "to": "dana_davis@enron.com"
+      },
+      {
+         "from": "dana_davis@enron.com",
+         "line": 22,
+         "rawfrom": "Dana_Davis@enron.com [mailto:Dana_Davis@enron.com]\n",
+         "source": "email",
+         "to": "Cmontgomery@kmg.com"
+      },
+      {
+         "from": "cmontgomery@kmg.com",
+         "line": 51,
+         "rawfrom": "\"Montgomery, Claudette\" <Cmontgomery@kmg.com> on 02/07/2000 10:19:09 AM\n",
+         "source": "email",
+         "to": "\"'ddavis@enron.com'\" <ddavis@enron.com>"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 63,
+         "rawfrom": "Dana Davis [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "Cmontgomery@kmg.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/discussion_threads/2.",
+   "hops": [
+      {
+         "from": "ward_h@houworks.com",
+         "line": 4,
+         "rawfrom": "ward_h@houworks.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com, forbes_t.jefferson_po.hw_email@houworks.com,"
+      },
+      {
+         "from": "jennifer.bell@oaksgroup.com",
+         "line": 27,
+         "rawfrom": "Jennifer Bell <jennifer.bell@oaksgroup.com>\n",
+         "source": "email",
+         "to": "\"'Ward_H@houworks.com'\" <Ward_H@houworks.com>"
+      },
+      {
+         "from": "cmlockett@earthlink.net",
+         "line": 52,
+         "rawfrom": "Cynthia Lockett [mailto:cmlockett@earthlink.net]\n",
+         "source": "email",
+         "to": "lOCKETTMD@MFR.USMC.MIL"
+      },
+      {
+         "from": "lockett.cynthia@dimac.com",
+         "line": 59,
+         "rawfrom": "Lockett.Cynthia <Lockett.Cynthia@DIMAC.COM>\n",
+         "source": "email",
+         "to": "'CYNTHIA LOCKETT' <CMLOCKETT@earthlink.net>"
+      },
+      {
+         "from": "smyers@intercardinc.com",
+         "line": 80,
+         "rawfrom": "smyers@intercardinc.com [SMTP:smyers@intercardinc.com]\n",
+         "source": "email",
+         "to": "avincent@intercardinc.com; dlayton@intercardinc.com;"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/discussion_threads/279.",
+   "hops": [
+      {
+         "from": "dana.davis@enron.com",
+         "line": 4,
+         "rawfrom": "dana.davis@enron.com\r\n",
+         "source": "valid",
+         "to": "edith-kelly@reliantenergy.com"
+      },
+      {
+         "from": "edith-kelly@reliantenergy.com",
+         "line": 24,
+         "rawfrom": "edith-kelly@reliantenergy.com on 12/05/2000 03:05:28 PM\n",
+         "source": "email",
+         "to": "Dana.Davis@enron.com"
+      },
+      {
+         "from": "jwashing@mail.mdanderson.org",
+         "line": 92,
+         "rawfrom": "jwashing@mail.mdanderson.org on 12/05/2000 01:32:55 PM\n",
+         "source": "email",
+         "to": "dana.davis@enron.com, cmontgomery@kmg.com"
+      },
+      {
+         "from": "edith-kelly@reliantenergy.com",
+         "line": 144,
+         "rawfrom": "edith-kelly@reliantenergy.com on 12/05/2000 10:44:12 AM\n",
+         "source": "email",
+         "to": "Dana.Davis@enron.com, \"Montgomery, Claudette\" <Cmontgomery@kmg.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/discussion_threads/316.",
+   "hops": [
+      {
+         "from": "ward_h@houworks.com",
+         "line": 4,
+         "rawfrom": "ward_h@houworks.com\r\n",
+         "source": "valid",
+         "to": "bowenstn@aetna.com, gerald_williams@afcc.com, shanda_guillory@aimfunds.com,"
+      },
+      {
+         "from": "mickeycastillo@hotmail.com",
+         "line": 65,
+         "rawfrom": "\"Mickey Castillo\" <mickeycastillo@hotmail.com>\n",
+         "source": "email",
+         "to": "ward_h@houworks.com"
+      },
+      {
+         "from": "dottiecooper@compuserve.com",
+         "line": 79,
+         "rawfrom": "\"Mark E. Cooper\" <DottieCooper@compuserve.com>\n",
+         "source": "email",
+         "to": "\"VanHook, Robert C SWG\" <robert.c.vanhook@swg02.usace.army.mil>,"
+      },
+      {
+         "from": "tom@hal-pc.org",
+         "line": 93,
+         "rawfrom": "INTERNET:tom@hal-pc.org, INTERNET:tom@hal-pc.org\n",
+         "source": "email",
+         "to": "\"'F - Judy'\", INTERNET:Judy@hal-pc.org"
+      },
+      {
+         "from": "tom@hal-pc.org",
+         "line": 151,
+         "rawfrom": "\"Tom Henderson\" <tom@hal-pc.org>\n",
+         "source": "email",
+         "to": "\"'F - Judy'\" <Judy@hal-pc.org>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/discussion_threads/306.",
+   "hops": [
+      {
+         "from": "wmontg6626@aol.com",
+         "line": 4,
+         "rawfrom": "wmontg6626@aol.com\r\n",
+         "source": "valid",
+         "to": "awilliams@matrixservice.com, clott@matrixservice.com, ddavis@ect.enron.com,"
+      },
+      {
+         "from": "lawyert@aol.com",
+         "line": 24,
+         "rawfrom": "LawyerT@aol.com\n",
+         "source": "valid",
+         "to": "Alicia_A_Wesley@comerica.com, AlmaHWesley@bankunited.com,"
+      },
+      {
+         "from": "trailsugar@aol.com",
+         "line": 41,
+         "rawfrom": "TrailSugar@aol.com\n",
+         "source": "valid",
+         "to": "LawyerT@aol.com"
+      },
+      {
+         "from": "sheilat549@aol.com",
+         "line": 55,
+         "rawfrom": "SheilaT549@aol.com\n",
+         "source": "valid",
+         "to": "JenjoLemons@aol.com, CKBish24@aol.com, BigBirdMB@aol.com,"
+      },
+      {
+         "from": "lrsons@aol.com",
+         "line": 73,
+         "rawfrom": "LRSONS@aol.com\n",
+         "source": "valid",
+         "to": "Gantbj@aol.com, Anml@mci.com, happy@boernenet.com., IamCP97@webtv.net,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/discussion_threads/201.",
+   "hops": [
+      {
+         "from": "bjackson@sswpc.com",
+         "line": 4,
+         "rawfrom": "bjackson@sswpc.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 20,
+         "rawfrom": "Dana.Davis@enron.com [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "BJACKSON@SSWPC.COM"
+      },
+      {
+         "from": "bjackson@sswpc.com",
+         "line": 33,
+         "rawfrom": "Bobby Jackson <BJACKSON@SSWPC.COM> on 08/23/2000 09:23:48 AM\n",
+         "source": "email",
+         "to": "\"'Dana Davis'\" <Dana.Davis@enron.com>"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 46,
+         "rawfrom": "Dana Davis [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "Bjackson@sswpc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/discussion_threads/72.",
+   "hops": [
+      {
+         "from": "bjackson@msspc.com",
+         "line": 4,
+         "rawfrom": "bjackson@msspc.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 27,
+         "rawfrom": "Dana.Davis@enron.com [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "BJACKSON@MSSPC.COM"
+      },
+      {
+         "from": "bjackson@msspc.com",
+         "line": 49,
+         "rawfrom": "Bobby Jackson <BJACKSON@MSSPC.COM> on 07/17/2000 08:39:05 AM\n",
+         "source": "email",
+         "to": "\"'Dana Davis'\" <Dana.Davis@enron.com>"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 70,
+         "rawfrom": "Dana Davis [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "bjackson@msspc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/discussion_threads/280.",
+   "hops": [
+      {
+         "from": "edith-kelly@reliantenergy.com",
+         "line": 4,
+         "rawfrom": "edith-kelly@reliantenergy.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "edith-kelly@reliantenergy.com",
+         "line": 41,
+         "rawfrom": "edith-kelly@reliantenergy.com on 12/05/2000 03:05:28 PM\n",
+         "source": "email",
+         "to": "Dana.Davis@enron.com"
+      },
+      {
+         "from": "jwashing@mail.mdanderson.org",
+         "line": 109,
+         "rawfrom": "jwashing@mail.mdanderson.org on 12/05/2000 01:32:55 PM\n",
+         "source": "email",
+         "to": "dana.davis@enron.com, cmontgomery@kmg.com"
+      },
+      {
+         "from": "edith-kelly@reliantenergy.com",
+         "line": 161,
+         "rawfrom": "edith-kelly@reliantenergy.com on 12/05/2000 10:44:12 AM\n",
+         "source": "email",
+         "to": "Dana.Davis@enron.com, \"Montgomery, Claudette\" <Cmontgomery@kmg.com>"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/discussion_threads/259.",
+   "hops": [
+      {
+         "from": "lesleycm@hotmail.com",
+         "line": 4,
+         "rawfrom": "lesleycm@hotmail.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com, cafegal637@aol.com"
+      },
+      {
+         "from": "trc464@mobilnet.gte.com",
+         "line": 18,
+         "rawfrom": "\"Cash, Traci\" <TRC464@mobilnet.gte.com>\n",
+         "source": "email",
+         "to": "\"Hagger, Catrece\" <CMH453@mobilnet.gte.com>,"
+      },
+      {
+         "from": "joelringer@hotmail.com",
+         "line": 54,
+         "rawfrom": " Joel Ringer[SMTP:joelringer@hotmail.com]\n",
+         "source": "email",
+         "to": "HEL460@mobilnet.gte.com; s_cahal@yahoo.com; mguzman36@hotmail.com;"
+      },
+      {
+         "from": "sean272133@aol.com",
+         "line": 64,
+         "rawfrom": "Sean272133@aol.com\n",
+         "source": "valid",
+         "to": "ae_bristow@yahoo.com, azaki26@hotmail.com, boriscai@hotmail.com,"
+      },
+      {
+         "from": "jdennis@paceconsulting.net",
+         "line": 101,
+         "rawfrom": "Jimmy Dennis <jdennis@paceconsulting.net>\n",
+         "source": "email",
+         "to": "Jimmy Dennis <jdennis@paceconsulting.net>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/discussion_threads/282.",
+   "hops": [
+      {
+         "from": "dana.davis@enron.com",
+         "line": 4,
+         "rawfrom": "dana.davis@enron.com\r\n",
+         "source": "valid",
+         "to": "cmontgomery@kmg.com"
+      },
+      {
+         "from": "edith-kelly@reliantenergy.com",
+         "line": 51,
+         "rawfrom": "edith-kelly@reliantenergy.com on 12/05/2000 03:05:28 PM\n",
+         "source": "email",
+         "to": "Dana.Davis@enron.com"
+      },
+      {
+         "from": "jwashing@mail.mdanderson.org",
+         "line": 119,
+         "rawfrom": "jwashing@mail.mdanderson.org on 12/05/2000 01:32:55 PM\n",
+         "source": "email",
+         "to": "dana.davis@enron.com, cmontgomery@kmg.com"
+      },
+      {
+         "from": "edith-kelly@reliantenergy.com",
+         "line": 171,
+         "rawfrom": "edith-kelly@reliantenergy.com on 12/05/2000 10:44:12 AM\n",
+         "source": "email",
+         "to": "Dana.Davis@enron.com, \"Montgomery, Claudette\" <Cmontgomery@kmg.com>"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/discussion_threads/8.",
+   "hops": [
+      {
+         "from": "cmontgomery@kmg.com",
+         "line": 4,
+         "rawfrom": "cmontgomery@kmg.com\r\n",
+         "source": "valid",
+         "to": "dana_davis@enron.com"
+      },
+      {
+         "from": "dana_davis@enron.com",
+         "line": 22,
+         "rawfrom": "Dana_Davis@enron.com [mailto:Dana_Davis@enron.com]\n",
+         "source": "email",
+         "to": "Cmontgomery@kmg.com"
+      },
+      {
+         "from": "cmontgomery@kmg.com",
+         "line": 51,
+         "rawfrom": "\"Montgomery, Claudette\" <Cmontgomery@kmg.com> on 02/07/2000 10:19:09 AM\n",
+         "source": "email",
+         "to": "\"'ddavis@enron.com'\" <ddavis@enron.com>"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 63,
+         "rawfrom": "Dana Davis [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "Cmontgomery@kmg.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/discussion_threads/252.",
+   "hops": [
+      {
+         "from": "wmontg@juno.com",
+         "line": 4,
+         "rawfrom": "wmontg@juno.com\r\n",
+         "source": "valid",
+         "to": "ddavis@ect.enron.com"
+      },
+      {
+         "from": "clott@matrixservice.com",
+         "line": 19,
+         "rawfrom": "\"Charita Lott\" <clott@matrixservice.com>\n",
+         "source": "email",
+         "to": "\"Willie montgomery\" <wmontg@juno.com>"
+      },
+      {
+         "from": "trose@matrixservice.com",
+         "line": 29,
+         "rawfrom": "Tiffiany Rose [mailto:trose@matrixservice.com]\n",
+         "source": "email",
+         "to": "Shayla Prater; Pamela Hayward Brooks; Lashawn Bass; Kesha Randle;"
+      },
+      {
+         "from": "orange23@corecomm.net",
+         "line": 39,
+         "rawfrom": "The Oranges [mailto:orange23@corecomm.net]\n",
+         "source": "email",
+         "to": "Aaron T Orange; Abby Joseph; Andrea Fisher; Christopher Alverson;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/discussion_threads/73.",
+   "hops": [
+      {
+         "from": "bjackson@msspc.com",
+         "line": 4,
+         "rawfrom": "bjackson@msspc.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 23,
+         "rawfrom": "Dana.Davis@enron.com [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "BJACKSON@MSSPC.COM"
+      },
+      {
+         "from": "bjackson@msspc.com",
+         "line": 44,
+         "rawfrom": "Bobby Jackson <BJACKSON@MSSPC.COM> on 07/17/2000 03:45:52 PM\n",
+         "source": "email",
+         "to": "\"'Dana.Davis@enron.com'\" <Dana.Davis@enron.com>"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 60,
+         "rawfrom": "Dana.Davis@enron.com [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "BJACKSON@MSSPC.COM"
+      },
+      {
+         "from": "bjackson@msspc.com",
+         "line": 82,
+         "rawfrom": "Bobby Jackson <BJACKSON@MSSPC.COM> on 07/17/2000 08:39:05 AM\n",
+         "source": "email",
+         "to": "\"'Dana Davis'\" <Dana.Davis@enron.com>"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 103,
+         "rawfrom": "Dana Davis [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "bjackson@msspc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/discussion_threads/70.",
+   "hops": [
+      {
+         "from": "bjackson@msspc.com",
+         "line": 4,
+         "rawfrom": "bjackson@msspc.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 36,
+         "rawfrom": "Dana.Davis@enron.com [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "BJACKSON@MSSPC.COM"
+      },
+      {
+         "from": "bjackson@msspc.com",
+         "line": 58,
+         "rawfrom": "Bobby Jackson <BJACKSON@MSSPC.COM> on 07/17/2000 08:39:05 AM\n",
+         "source": "email",
+         "to": "\"'Dana Davis'\" <Dana.Davis@enron.com>"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 79,
+         "rawfrom": "Dana Davis [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "bjackson@msspc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/discussion_threads/263.",
+   "hops": [
+      {
+         "from": "lola.willis@enron.com",
+         "line": 4,
+         "rawfrom": "lola.willis@enron.com\r\n",
+         "source": "valid",
+         "to": "debra_atkins@co.harris.tx.us, davis@enron.com,"
+      },
+      {
+         "from": "rickstarr2@yahoo.com",
+         "line": 36,
+         "rawfrom": "Rick Starr <rickstarr2@yahoo.com>\n",
+         "source": "email",
+         "to": "Elandres Williams <johnnymae@msn.com>,"
+      },
+      {
+         "from": "sddantzler@thegateway.net",
+         "line": 53,
+         "rawfrom": "Shirley Dantzler <sddantzler@thegateway.net>\n",
+         "source": "email",
+         "to": "sue_hebert@yahoo.com, rickstarr2@yahoo.com, jskemp@juno.com,"
+      },
+      {
+         "from": "masonteresa@bfusa.com",
+         "line": 61,
+         "rawfrom": "\"Mason, Teresa\" <MasonTeresa@bfusa.com>\n",
+         "source": "email",
+         "to": "\"Christie Cox (E-mail)\" <Christie_Cox@NAVLMAIL.COM>,"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/_sent_mail/59.",
+   "hops": [
+      {
+         "from": "dana.davis@enron.com",
+         "line": 4,
+         "rawfrom": "dana.davis@enron.com\r\n",
+         "source": "valid",
+         "to": "bjackson@sswpc.com"
+      },
+      {
+         "from": "bjackson@sswpc.com",
+         "line": 23,
+         "rawfrom": "Bobby Jackson <BJACKSON@SSWPC.COM> on 10/18/2000 08:17:16 AM\n",
+         "source": "email",
+         "to": "\"'Dana.Davis@enron.com'\" <Dana.Davis@enron.com>"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 33,
+         "rawfrom": "Dana.Davis@enron.com [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "BJACKSON@SSWPC.COM"
+      },
+      {
+         "from": "bjackson@sswpc.com",
+         "line": 46,
+         "rawfrom": "Bobby Jackson <BJACKSON@SSWPC.COM> on 10/18/2000 08:12:08 AM\n",
+         "source": "email",
+         "to": "\"'dana.davis@enron.com'\" <dana.davis@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/_sent_mail/27.",
+   "hops": [
+      {
+         "from": "dana.davis@enron.com",
+         "line": 4,
+         "rawfrom": "dana.davis@enron.com\r\n",
+         "source": "valid",
+         "to": "cmontgomery@kmg.com"
+      },
+      {
+         "from": "edith-kelly@reliantenergy.com",
+         "line": 51,
+         "rawfrom": "edith-kelly@reliantenergy.com on 12/05/2000 03:05:28 PM\n",
+         "source": "email",
+         "to": "Dana.Davis@enron.com"
+      },
+      {
+         "from": "jwashing@mail.mdanderson.org",
+         "line": 119,
+         "rawfrom": "jwashing@mail.mdanderson.org on 12/05/2000 01:32:55 PM\n",
+         "source": "email",
+         "to": "dana.davis@enron.com, cmontgomery@kmg.com"
+      },
+      {
+         "from": "edith-kelly@reliantenergy.com",
+         "line": 171,
+         "rawfrom": "edith-kelly@reliantenergy.com on 12/05/2000 10:44:12 AM\n",
+         "source": "email",
+         "to": "Dana.Davis@enron.com, \"Montgomery, Claudette\" <Cmontgomery@kmg.com>"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/_sent_mail/111.",
+   "hops": [
+      {
+         "from": "dana.davis@enron.com",
+         "line": 4,
+         "rawfrom": "dana.davis@enron.com\r\n",
+         "source": "valid",
+         "to": "lesleycm@hotmail.com"
+      },
+      {
+         "from": "lesleycm@hotmail.com",
+         "line": 23,
+         "rawfrom": "\"lesley cash\" <lesleycm@hotmail.com> on 02/06/2001 04:24:46 PM\n",
+         "source": "email",
+         "to": "Flowmasters2000@aol.com, papacash@hotmail.com, LWCash@hotmail.com,"
+      },
+      {
+         "from": "rome304@hotmail.com",
+         "line": 37,
+         "rawfrom": "\"Raimone Wilson\" <rome304@hotmail.com>\n",
+         "source": "email",
+         "to": "lesleycm@hotmail.com, seh1072@hotmail.com"
+      },
+      {
+         "from": "karadan9899@yahoo.com",
+         "line": 45,
+         "rawfrom": "Kara Wilson <karadan9899@yahoo.com>\n",
+         "source": "email",
+         "to": "jennnifer armstrong <jenastrong@yahoo.com>,  BRANDY L BROOKS"
+      },
+      {
+         "from": "jenastrong@yahoo.com",
+         "line": 73,
+         "rawfrom": "\"Jen.\" <jenastrong@yahoo.com>\n",
+         "source": "email",
+         "to": "Danielle Monique Ardoin <DANIELLEARDOIN@excite.com>,  Shakeya Vashon"
+      },
+      {
+         "from": "tessa_71291@yahoo.com",
+         "line": 121,
+         "rawfrom": "SHIRLEY JONES <tessa_71291@yahoo.com>\n",
+         "source": "email",
+         "to": "jennifer armstrong <jenastrong@yahoo.com>,  Shelaksa Mack"
+      },
+      {
+         "from": "sreitzell@yahoo.com",
+         "line": 153,
+         "rawfrom": "Sharonda Reitzell <sreitzell@yahoo.com>\n",
+         "source": "email",
+         "to": "Jennifer Armstrong <jenastrong@yahoo.com>,  LAMONT COLLINS"
+      },
+      {
+         "from": "hot_n_spicy1_98@yahoo.com",
+         "line": 178,
+         "rawfrom": "Brandy Douglas <hot_n_spicy1_98@yahoo.com>\n",
+         "source": "email",
+         "to": "Timesha Nicole Dugas <nikki_joe@hotmail.com>,  Emma Hamilton"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/_sent_mail/46.",
+   "hops": [
+      {
+         "from": "bjackson@sswpc.com",
+         "line": 4,
+         "rawfrom": "bjackson@sswpc.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 20,
+         "rawfrom": "Dana.Davis@enron.com [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "BJACKSON@SSWPC.COM"
+      },
+      {
+         "from": "bjackson@sswpc.com",
+         "line": 33,
+         "rawfrom": "Bobby Jackson <BJACKSON@SSWPC.COM> on 08/23/2000 09:23:48 AM\n",
+         "source": "email",
+         "to": "\"'Dana Davis'\" <Dana.Davis@enron.com>"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 46,
+         "rawfrom": "Dana Davis [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "Bjackson@sswpc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/_sent_mail/28.",
+   "hops": [
+      {
+         "from": "dana.davis@enron.com",
+         "line": 4,
+         "rawfrom": "dana.davis@enron.com\r\n",
+         "source": "valid",
+         "to": "edith-kelly@reliantenergy.com"
+      },
+      {
+         "from": "edith-kelly@reliantenergy.com",
+         "line": 24,
+         "rawfrom": "edith-kelly@reliantenergy.com on 12/05/2000 03:05:28 PM\n",
+         "source": "email",
+         "to": "Dana.Davis@enron.com"
+      },
+      {
+         "from": "jwashing@mail.mdanderson.org",
+         "line": 92,
+         "rawfrom": "jwashing@mail.mdanderson.org on 12/05/2000 01:32:55 PM\n",
+         "source": "email",
+         "to": "dana.davis@enron.com, cmontgomery@kmg.com"
+      },
+      {
+         "from": "edith-kelly@reliantenergy.com",
+         "line": 144,
+         "rawfrom": "edith-kelly@reliantenergy.com on 12/05/2000 10:44:12 AM\n",
+         "source": "email",
+         "to": "Dana.Davis@enron.com, \"Montgomery, Claudette\" <Cmontgomery@kmg.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/_sent_mail/11.",
+   "hops": [
+      {
+         "from": "dana.davis@enron.com",
+         "line": 4,
+         "rawfrom": "dana.davis@enron.com\r\n",
+         "source": "valid",
+         "to": "denise.moore@dhs.state.tx.us"
+      },
+      {
+         "from": "denise.moore@dhs.state.tx.us",
+         "line": 23,
+         "rawfrom": "\"Moore,Denise I\" <denise.moore@dhs.state.tx.us> on 12/11/2000 01:20:16 PM\n",
+         "source": "email",
+         "to": "\"'dana.davis@enron.com'\" <dana.davis@enron.com>, \"'cashley@poha.com'\""
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 36,
+         "rawfrom": "Dana.Davis@enron.com\n",
+         "source": "valid",
+         "to": "denise.moore@dhs.state.tx.us; cmontgomery@kmg.com; cashley@poha.com"
+      },
+      {
+         "from": "denise.moore@dhs.state.tx.us",
+         "line": 51,
+         "rawfrom": "denise.moore@dhs.state.tx.us",
+         "source": "valid",
+         "to": "\"'ddavis@enron.com'\" <ddavis@enron.com>, \"'cmontgomery@kmg.com'\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/church/2.",
+   "hops": [
+      {
+         "from": "edith-kelly@reliantenergy.com",
+         "line": 4,
+         "rawfrom": "edith-kelly@reliantenergy.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "edith-kelly@reliantenergy.com",
+         "line": 41,
+         "rawfrom": "edith-kelly@reliantenergy.com on 12/05/2000 03:05:28 PM\n",
+         "source": "email",
+         "to": "Dana.Davis@enron.com"
+      },
+      {
+         "from": "jwashing@mail.mdanderson.org",
+         "line": 109,
+         "rawfrom": "jwashing@mail.mdanderson.org on 12/05/2000 01:32:55 PM\n",
+         "source": "email",
+         "to": "dana.davis@enron.com, cmontgomery@kmg.com"
+      },
+      {
+         "from": "edith-kelly@reliantenergy.com",
+         "line": 161,
+         "rawfrom": "edith-kelly@reliantenergy.com on 12/05/2000 10:44:12 AM\n",
+         "source": "email",
+         "to": "Dana.Davis@enron.com, \"Montgomery, Claudette\" <Cmontgomery@kmg.com>"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/church/52.",
+   "hops": [
+      {
+         "from": "dana.davis@enron.com",
+         "line": 4,
+         "rawfrom": "dana.davis@enron.com\r\n",
+         "source": "valid",
+         "to": "denise.moore@dhs.state.tx.us"
+      },
+      {
+         "from": "denise.moore@dhs.state.tx.us",
+         "line": 27,
+         "rawfrom": "\"Moore,Denise I\" <denise.moore@dhs.state.tx.us> on 07/14/2000 11:23:28 AM\n",
+         "source": "email",
+         "to": "Dana Davis <Dana.Davis@enron.com>"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 42,
+         "rawfrom": "Dana Davis [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "denise.moore@dhs.state.tx.us"
+      },
+      {
+         "from": "denise.moore@dhs.state.tx.us",
+         "line": 57,
+         "rawfrom": "\"Moore,Denise I\" <denise.moore@dhs.state.tx.us> on 06/22/2000 11:18:40 AM\n",
+         "source": "email",
+         "to": "cmontgomery@kmg.com, dana.davis@enron.com, cashley@poha.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/personal/33.",
+   "hops": [
+      {
+         "from": "bjackson@msspc.com",
+         "line": 4,
+         "rawfrom": "bjackson@msspc.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 36,
+         "rawfrom": "Dana.Davis@enron.com [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "BJACKSON@MSSPC.COM"
+      },
+      {
+         "from": "bjackson@msspc.com",
+         "line": 58,
+         "rawfrom": "Bobby Jackson <BJACKSON@MSSPC.COM> on 07/17/2000 08:39:05 AM\n",
+         "source": "email",
+         "to": "\"'Dana Davis'\" <Dana.Davis@enron.com>"
+      },
+      {
+         "from": "dana.davis@enron.com",
+         "line": 79,
+         "rawfrom": "Dana Davis [mailto:Dana.Davis@enron.com]\n",
+         "source": "email",
+         "to": "bjackson@msspc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/davis-d/fun/17.",
+   "hops": [
+      {
+         "from": "ward_h@houworks.com",
+         "line": 4,
+         "rawfrom": "ward_h@houworks.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com, forbes_t.jefferson_po.hw_email@houworks.com,"
+      },
+      {
+         "from": "jennifer.bell@oaksgroup.com",
+         "line": 27,
+         "rawfrom": "Jennifer Bell <jennifer.bell@oaksgroup.com>\n",
+         "source": "email",
+         "to": "\"'Ward_H@houworks.com'\" <Ward_H@houworks.com>"
+      },
+      {
+         "from": "cmlockett@earthlink.net",
+         "line": 52,
+         "rawfrom": "Cynthia Lockett [mailto:cmlockett@earthlink.net]\n",
+         "source": "email",
+         "to": "lOCKETTMD@MFR.USMC.MIL"
+      },
+      {
+         "from": "lockett.cynthia@dimac.com",
+         "line": 59,
+         "rawfrom": "Lockett.Cynthia <Lockett.Cynthia@DIMAC.COM>\n",
+         "source": "email",
+         "to": "'CYNTHIA LOCKETT' <CMLOCKETT@earthlink.net>"
+      },
+      {
+         "from": "smyers@intercardinc.com",
+         "line": 80,
+         "rawfrom": "smyers@intercardinc.com [SMTP:smyers@intercardinc.com]\n",
+         "source": "email",
+         "to": "avincent@intercardinc.com; dlayton@intercardinc.com;"
+      }
+   ],
+   "skipped": 3
+}
+]

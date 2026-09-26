@@ -1,0 +1,1107 @@
+[
+{
+   "file": "/home/jb/maildir/kitchen-l/inbox/24.",
+   "hops": [
+      {
+         "from": "claudia.robinson@ubsw.com",
+         "line": 4,
+         "rawfrom": "claudia.robinson@ubsw.com\r\n",
+         "source": "valid",
+         "to": "louise.kitchen@enron.com"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 37,
+         "rawfrom": "Louise.Kitchen@enron.com [mailto:Louise.Kitchen@enron.com]\n",
+         "source": "email",
+         "to": "Robinson, Claudia"
+      },
+      {
+         "from": "claudia.robinson@ubsw.com",
+         "line": 51,
+         "rawfrom": "  \"Robinson, Claudia\" <claudia.robinson@ubsw.com>@ENRON\n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 79,
+         "rawfrom": "Louise.Kitchen@enron.com [mailto:Louise.Kitchen@enron.com]\n",
+         "source": "email",
+         "to": "Robinson, Claudia; Petrie, James [UBS]; Eber, Louis [UBS]; Brady,"
+      },
+      {
+         "from": "claudia.robinson@ubsw.com",
+         "line": 113,
+         "rawfrom": "  \"Robinson, Claudia\" <claudia.robinson@ubsw.com>@ENRON\n",
+         "source": "email",
+         "to": "Petrie, James [UBS]; Eber, Louis [UBS]; Brady, Penny [UBS];"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/kitchen-l/_americas/netco_reg/2.",
+   "hops": [
+      {
+         "from": "nfels@cov.com",
+         "line": 4,
+         "rawfrom": "nfels@cov.com\r\n",
+         "source": "valid",
+         "to": "d..steffes@enron.com"
+      },
+      {
+         "from": "james.d.steffes@enron.com",
+         "line": 29,
+         "rawfrom": "James.D.Steffes@enron.com [mailto:James.D.Steffes@enron.com]\n",
+         "source": "email",
+         "to": "Fels, Nicholas"
+      },
+      {
+         "from": "nfels@cov.com",
+         "line": 70,
+         "rawfrom": "\"Fels, Nicholas\" <nfels@cov.com>@ENRON [mailto:\"Fels,\n",
+         "source": "email",
+         "to": "Steffes, James D."
+      },
+      {
+         "from": "james.d.steffes@enron.com",
+         "line": 124,
+         "rawfrom": "Steffes, James D. [mailto:James.D.Steffes@ENRON.com\n",
+         "source": "email",
+         "to": "Fels, Nicholas"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/kitchen-l/_americas/esvl/103.",
+   "hops": [
+      {
+         "from": "richard.a.stuckey@ssmb.com",
+         "line": 4,
+         "rawfrom": "richard.a.stuckey@ssmb.com\r\n",
+         "source": "valid",
+         "to": "louise.kitchen@enron.com"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 31,
+         "rawfrom": "Kitchen, Louise [mailto:Louise.Kitchen@enron.com]\n",
+         "source": "email",
+         "to": "\"Flood, Scott L [GCO]\" <scott.l.flood@ssmb.com>@ENRON"
+      },
+      {
+         "from": "scott.l.flood@ssmb.com",
+         "line": 60,
+         "rawfrom": "\t\"Flood, Scott L [GCO]\" <scott.l.flood@ssmb.com>@ENRON\n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 70,
+         "rawfrom": "Kitchen, Louise <Louise.Kitchen@enron.com>\n",
+         "source": "email",
+         "to": "Flood, Scott L [GCO] <sf06840@imcnam.ssmb.com>"
+      },
+      {
+         "from": "scott.l.flood@ssmb.com",
+         "line": 121,
+         "rawfrom": "\t\"Flood, Scott L [GCO]\" <scott.l.flood@ssmb.com>@ENRON\n",
+         "source": "email",
+         "to": "Taylor, Mark E (Legal)"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/kitchen-l/_americas/hr/2.",
+   "hops": [
+      {
+         "from": "david.oxley@enron.com",
+         "line": 4,
+         "rawfrom": "david.oxley@enron.com\r\n",
+         "source": "valid",
+         "to": "john.lavorato@enron.com, louise.kitchen@enron.com"
+      },
+      {
+         "from": "eugene.clark@ssmb.com",
+         "line": 22,
+         "rawfrom": "Clark, Eugene [GCO] [mailto:eugene.clark@ssmb.com]\n",
+         "source": "email",
+         "to": "Oxley, David; Donnelly, John L [HR]; Arber, Diane Z [HR]"
+      },
+      {
+         "from": "david.oxley@enron.com",
+         "line": 34,
+         "rawfrom": "Oxley, David [mailto:David.Oxley@enron.com]\n",
+         "source": "email",
+         "to": "Donnelly, John L [HR]; Arber, Diane Z [HR]"
+      },
+      {
+         "from": "john.l.donnelly@ssmb.com",
+         "line": 75,
+         "rawfrom": "Donnelly, John L [HR] [mailto:john.l.donnelly@ssmb.com]\n",
+         "source": "email",
+         "to": "Oxley, David; Arber, Diane Z [HR]"
+      },
+      {
+         "from": "david.oxley@enron.com",
+         "line": 86,
+         "rawfrom": "Oxley, David [mailto:David.Oxley@enron.com]\n",
+         "source": "email",
+         "to": "Arber, Diane Z [HR]"
+      },
+      {
+         "from": "diane.z.arber@ssmb.com",
+         "line": 96,
+         "rawfrom": "Arber, Diane Z [HR] [mailto:diane.z.arber@ssmb.com]\n",
+         "source": "email",
+         "to": "Oxley, David"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/kitchen-l/_americas/hr/274.",
+   "hops": [
+      {
+         "from": "tammie.schoppe@enron.com",
+         "line": 4,
+         "rawfrom": "tammie.schoppe@enron.com\r\n",
+         "source": "valid",
+         "to": "louise.kitchen@enron.com"
+      },
+      {
+         "from": "eserver@enron.com",
+         "line": 36,
+         "rawfrom": " eserver@enron.com                           04/04/2001 03:48 PM\t\n",
+         "source": "email",
+         "to": "\"louise.kitchen@enron.com\" <louise.kitchen@enron.com>"
+      },
+      {
+         "from": "eserver@enron.com",
+         "line": 61,
+         "rawfrom": " eserver@enron.com                           04/09/2001 10:42 AM\t\n",
+         "source": "email",
+         "to": "\"louise.kitchen@enron.com\" <louise.kitchen@enron.com>"
+      },
+      {
+         "from": "eserver@enron.com",
+         "line": 86,
+         "rawfrom": " eserver@enron.com                           04/10/2001 03:43 PM\t\n",
+         "source": "email",
+         "to": "\"louise.kitchen@enron.com\" <louise.kitchen@enron.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/kitchen-l/_americas/it/137.",
+   "hops": [
+      {
+         "from": "beth.perlman@enron.com",
+         "line": 4,
+         "rawfrom": "beth.perlman@enron.com\r\n",
+         "source": "valid",
+         "to": "louise.kitchen@enron.com, tim.belden@enron.com, kevin.presto@enron.com"
+      },
+      {
+         "from": "slake@anl.gov",
+         "line": 22,
+         "rawfrom": "\t\"Lake, Stephan\" <slake@anl.gov>@ENRON [mailto:IMCEANOTES-+22Lake+2C+20Stephan+22+20+3Cslake+40anl+2Egov+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Perlman, Beth"
+      },
+      {
+         "from": "ross.mesquita@enron.com",
+         "line": 102,
+         "rawfrom": "Ross.Mesquita@enron.com [mailto:Ross.Mesquita@enron.com]\n",
+         "source": "email",
+         "to": "Lake, Stephan"
+      },
+      {
+         "from": "slake@anl.gov",
+         "line": 123,
+         "rawfrom": "  \"Lake, Stephan\" <slake@anl.gov>@ENRON\n",
+         "source": "email",
+         "to": "Mesquita, Ross"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/kitchen-l/_americas/netco_restart/4.",
+   "hops": [
+      {
+         "from": "claudia.robinson@ubsw.com",
+         "line": 4,
+         "rawfrom": "claudia.robinson@ubsw.com\r\n",
+         "source": "valid",
+         "to": "david.forster@enron.com, louise.kitchen@enron.com"
+      },
+      {
+         "from": "david.forster@enron.com",
+         "line": 30,
+         "rawfrom": "Forster, David [mailto:David.Forster@ENRON.com]\n",
+         "source": "email",
+         "to": "Robinson, Claudia; Kitchen, Louise"
+      },
+      {
+         "from": "claudia.robinson@ubsw.com",
+         "line": 50,
+         "rawfrom": "Robinson, Claudia [mailto:claudia.robinson@ubsw.com]\n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 81,
+         "rawfrom": "Louise.Kitchen@enron.com [mailto:Louise.Kitchen@enron.com]\n",
+         "source": "email",
+         "to": "Robinson, Claudia; Kal.Shah@enron.com"
+      },
+      {
+         "from": "claudia.robinson@ubsw.com",
+         "line": 95,
+         "rawfrom": "  \"Robinson, Claudia\" <claudia.robinson@ubsw.com>@ENRON\n",
+         "source": "email",
+         "to": "Shah, Kal"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/kitchen-l/_americas/netco_eol/1.",
+   "hops": [
+      {
+         "from": "david.forster@enron.com",
+         "line": 4,
+         "rawfrom": "david.forster@enron.com\r\n",
+         "source": "valid",
+         "to": "claudia'.'robinson@enron.com, louise.kitchen@enron.com"
+      },
+      {
+         "from": "claudia.robinson@ubsw.com",
+         "line": 34,
+         "rawfrom": "Robinson, Claudia [mailto:claudia.robinson@ubsw.com]\n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 65,
+         "rawfrom": "Louise.Kitchen@enron.com [mailto:Louise.Kitchen@enron.com]\n",
+         "source": "email",
+         "to": "Robinson, Claudia; Kal.Shah@enron.com"
+      },
+      {
+         "from": "claudia.robinson@ubsw.com",
+         "line": 79,
+         "rawfrom": "  \"Robinson, Claudia\" <claudia.robinson@ubsw.com>@ENRON\n",
+         "source": "email",
+         "to": "Shah, Kal"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/kitchen-l/_americas/netco_hr/74.",
+   "hops": [
+      {
+         "from": "david.oxley@enron.com",
+         "line": 4,
+         "rawfrom": "david.oxley@enron.com\r\n",
+         "source": "valid",
+         "to": "louise.kitchen@enron.com"
+      },
+      {
+         "from": "john.l.donnelly@ssmb.com",
+         "line": 22,
+         "rawfrom": "Donnelly, John L [HR] [mailto:john.l.donnelly@ssmb.com]\n",
+         "source": "email",
+         "to": "Oxley, David"
+      },
+      {
+         "from": "david.oxley@enron.com",
+         "line": 34,
+         "rawfrom": "Oxley, David [mailto:David.Oxley@enron.com]\n",
+         "source": "email",
+         "to": "Donnelly, John L [HR]"
+      },
+      {
+         "from": "john.l.donnelly@ssmb.com",
+         "line": 99,
+         "rawfrom": "Donnelly, John L [HR] [mailto:john.l.donnelly@ssmb.com]\n",
+         "source": "email",
+         "to": "Oxley, David"
+      },
+      {
+         "from": "david.oxley@enron.com",
+         "line": 114,
+         "rawfrom": "Oxley, David [mailto:David.Oxley@enron.com]\n",
+         "source": "email",
+         "to": "Donnelly, John L [HR]"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/kitchen-l/sent_items/394.",
+   "hops": [
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 4,
+         "rawfrom": "louise.kitchen@enron.com\r\n",
+         "source": "valid",
+         "to": "shawn.k.feeney@ssmb.com"
+      },
+      {
+         "from": "richard.a.stuckey@ssmb.com",
+         "line": 109,
+         "rawfrom": "\t\"Stuckey, Richard A [FI]\" <richard.a.stuckey@ssmb.com>@ENRON  \n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 126,
+         "rawfrom": "Kitchen, Louise [mailto:Louise.Kitchen@enron.com]\n",
+         "source": "email",
+         "to": "\"Flood, Scott L [GCO]\" <scott.l.flood@ssmb.com>@ENRON"
+      },
+      {
+         "from": "scott.l.flood@ssmb.com",
+         "line": 155,
+         "rawfrom": "\t\"Flood, Scott L [GCO]\" <scott.l.flood@ssmb.com>@ENRON\n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 165,
+         "rawfrom": "Kitchen, Louise <Louise.Kitchen@enron.com>\n",
+         "source": "email",
+         "to": "Flood, Scott L [GCO] <sf06840@imcnam.ssmb.com>"
+      },
+      {
+         "from": "scott.l.flood@ssmb.com",
+         "line": 216,
+         "rawfrom": "\t\"Flood, Scott L [GCO]\" <scott.l.flood@ssmb.com>@ENRON\n",
+         "source": "email",
+         "to": "Taylor, Mark E (Legal)"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/kitchen-l/sent_items/300.",
+   "hops": [
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 4,
+         "rawfrom": "louise.kitchen@enron.com\r\n",
+         "source": "valid",
+         "to": "info@kenduncan.com"
+      },
+      {
+         "from": "info@kenduncan.com",
+         "line": 22,
+         "rawfrom": "\t\"Ken Duncan Australia Wide\" <info@kenduncan.com>@ENRON  \n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 36,
+         "rawfrom": "<Louise.Kitchen@enron.com>\n",
+         "source": "email",
+         "to": "<info@kenduncan.com>"
+      },
+      {
+         "from": "info@kenduncan.com",
+         "line": 55,
+         "rawfrom": "  \"Ken Duncan Australia Wide\" <info@kenduncan.com>@ENRON\n",
+         "source": "email",
+         "to": "louise@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/kitchen-l/sent_items/318.",
+   "hops": [
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 4,
+         "rawfrom": "louise.kitchen@enron.com\r\n",
+         "source": "valid",
+         "to": "paul.kitchen@txu-europe.com"
+      },
+      {
+         "from": "paul.kitchen@txu-europe.com",
+         "line": 23,
+         "rawfrom": "\tpaul.kitchen@txu-europe.com@ENRON   On Behalf Of paul.kitchen@txu-europe.com\n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 48,
+         "rawfrom": "\"Kitchen, Louise\" <Louise.Kitchen@ENRON.com> on 08/01/2002 22:21\n",
+         "source": "email",
+         "to": "Paul Kitchen/EPETL/EASTERN@Eastern"
+      },
+      {
+         "from": "orders@amazon.co.uk",
+         "line": 71,
+         "rawfrom": "  orders@amazon.co.uk@ENRON\n",
+         "source": "email",
+         "to": "louise@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/kitchen-l/sent_items/297.",
+   "hops": [
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 4,
+         "rawfrom": "louise.kitchen@enron.com\r\n",
+         "source": "valid",
+         "to": "info@kenduncan.com"
+      },
+      {
+         "from": "info@kenduncan.com",
+         "line": 22,
+         "rawfrom": "\t\"Ken Duncan Australia Wide\" <info@kenduncan.com>@ENRON  \n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 34,
+         "rawfrom": "<Louise.Kitchen@enron.com>\n",
+         "source": "email",
+         "to": "<info@kenduncan.com>"
+      },
+      {
+         "from": "info@kenduncan.com",
+         "line": 44,
+         "rawfrom": "  \"Ken Duncan Australia Wide\" <info@kenduncan.com>@ENRON\n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 60,
+         "rawfrom": "<Louise.Kitchen@enron.com>\n",
+         "source": "email",
+         "to": "<info@kenduncan.com>"
+      },
+      {
+         "from": "info@kenduncan.com",
+         "line": 79,
+         "rawfrom": "  \"Ken Duncan Australia Wide\" <info@kenduncan.com>@ENRON\n",
+         "source": "email",
+         "to": "louise@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/kitchen-l/sent_items/787.",
+   "hops": [
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 4,
+         "rawfrom": "louise.kitchen@enron.com\r\n",
+         "source": "valid",
+         "to": "tschoppe@houston.rr.com"
+      },
+      {
+         "from": "tschoppe@houston.rr.com",
+         "line": 22,
+         "rawfrom": "\t\"Tammie Schoppe\" <tschoppe@houston.rr.com>@ENRON  \n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 33,
+         "rawfrom": "<Louise.Kitchen@enron.com>\n",
+         "source": "email",
+         "to": "<tschoppe@houston.rr.com>"
+      },
+      {
+         "from": "tschoppe@houston.rr.com",
+         "line": 46,
+         "rawfrom": "  \"Tammie Schoppe\" <tschoppe@houston.rr.com>@ENRON\n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/kitchen-l/sent_items/226.",
+   "hops": [
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 4,
+         "rawfrom": "louise.kitchen@enron.com\r\n",
+         "source": "valid",
+         "to": "xpollard@richardfreemanco.com"
+      },
+      {
+         "from": "xpollard@richardfreemanco.com",
+         "line": 25,
+         "rawfrom": "\t\"Xuan Pollard\" <xpollard@richardfreemanco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 34,
+         "rawfrom": "Kitchen, Louise <Louise.Kitchen@enron.com>\n",
+         "source": "email",
+         "to": "Xuan Pollard <xpollard@richardfreemanco.com>"
+      },
+      {
+         "from": "xpollard@richardfreemanco.com",
+         "line": 51,
+         "rawfrom": "\"Xuan Pollard\" <xpollard@richardfreemanco.com>@ENRON\n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/kitchen-l/sent_items/1027.",
+   "hops": [
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 4,
+         "rawfrom": "louise.kitchen@enron.com\r\n",
+         "source": "valid",
+         "to": "kristen@skihomerental.com"
+      },
+      {
+         "from": "kristen@skihomerental.com",
+         "line": 26,
+         "rawfrom": "\t\"Rich and Kristen Nye\" <kristen@skihomerental.com>@ENRON [mailto:IMCEANOTES-+22Rich+20and+20Kristen+20Nye+22+20+3Ckristen+40skihomerental+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 41,
+         "rawfrom": "<Louise.Kitchen@enron.com>\n",
+         "source": "email",
+         "to": "<kristen@skihomerental.com>"
+      },
+      {
+         "from": "kristen@skihomerental.com",
+         "line": 65,
+         "rawfrom": "  \"Rich and Kristen Nye\" <kristen@skihomerental.com>@ENRON\n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 95,
+         "rawfrom": "\"Kitchen, Louise\" <Louise.Kitchen@enron.com>\n",
+         "source": "email",
+         "to": "\"Rich and Kristen Nye\" <Kristen@skihomerental.com>"
+      },
+      {
+         "from": "kristen@skihomerental.com",
+         "line": 122,
+         "rawfrom": "\"Rich and Kristen Nye\" <Kristen@SkiHomeRental.com>@ENRON\n",
+         "source": "email",
+         "to": "louise@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/kitchen-l/sent_items/231.",
+   "hops": [
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 4,
+         "rawfrom": "louise.kitchen@enron.com\r\n",
+         "source": "valid",
+         "to": "ellen.wallumrod@enron.com"
+      },
+      {
+         "from": "kristen@skihomerental.com",
+         "line": 30,
+         "rawfrom": "\t\"Premier Home Rentals, Inc.\" <kristen@skihomerental.com>@ENRON  \n",
+         "source": "email",
+         "to": "Wallumrod, Ellen"
+      },
+      {
+         "from": "ellen.wallumrod@enron.com",
+         "line": 83,
+         "rawfrom": "\"Wallumrod, Ellen\" <Ellen.Wallumrod@enron.com>\n",
+         "source": "email",
+         "to": "\"Premier Home Rentals, Inc.\" <kristen@skihomerental.com>"
+      },
+      {
+         "from": "kristen@skihomerental.com",
+         "line": 152,
+         "rawfrom": "\"Premier Home Rentals, Inc.\" <kristen@skihomerental.com>@ENRON\n",
+         "source": "email",
+         "to": "Wallumrod, Ellen"
+      },
+      {
+         "from": "ellen.wallumrod@enron.com",
+         "line": 171,
+         "rawfrom": "\"Wallumrod, Ellen\" <Ellen.Wallumrod@enron.com>\n",
+         "source": "email",
+         "to": "\"Premier Home Rentals, Inc.\" <Kristen@skihomerental.com>"
+      },
+      {
+         "from": "kristen@skihomerental.com",
+         "line": 190,
+         "rawfrom": "\"Premier Home Rentals, Inc.\" <kristen@skihomerental.com>@ENRON\n",
+         "source": "email",
+         "to": "Wallumrod, Ellen"
+      },
+      {
+         "from": "ellen.wallumrod@enron.com",
+         "line": 201,
+         "rawfrom": "\"Wallumrod, Ellen\" <Ellen.Wallumrod@enron.com>\n",
+         "source": "email",
+         "to": "\"Premier Home Rentals, Inc.\" <Kristen@skihomerental.com>"
+      },
+      {
+         "from": "ellen.wallumrod@enron.com",
+         "line": 228,
+         "rawfrom": "\"Wallumrod, Ellen\" <Ellen.Wallumrod@enron.com>\n",
+         "source": "email",
+         "to": "\"Premier Home Rentals, Inc.\" <Kristen@skihomerental.com>;"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/kitchen-l/sent_items/139.",
+   "hops": [
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 4,
+         "rawfrom": "louise.kitchen@enron.com\r\n",
+         "source": "valid",
+         "to": "f..calger@enron.com"
+      },
+      {
+         "from": "christopher.f.calger@enron.com",
+         "line": 25,
+         "rawfrom": "Calger, Christopher F. <Christopher.F.Calger@ENRON.com>\n",
+         "source": "email",
+         "to": "Kitchen, Louise <Louise.Kitchen@ENRON.com>"
+      },
+      {
+         "from": "christopher.f.calger@enron.com",
+         "line": 50,
+         "rawfrom": "Calger, Christopher F. <Christopher.F.Calger@ENRON.com>\n",
+         "source": "email",
+         "to": "Kitchen, Louise <Louise.Kitchen@ENRON.com>"
+      },
+      {
+         "from": "christopher.f.calger@enron.com",
+         "line": 74,
+         "rawfrom": "Calger, Christopher F. <Christopher.F.Calger@ENRON.com>\n",
+         "source": "email",
+         "to": "Presto, Kevin M. <Kevin.M.Presto@ENRON.com>; Kitchen, Louise <Louise.Kitchen@ENRON.com>; Oxley, David <David.Oxley@ENRON.com>; Whalley, Greg <Greg.Whalley@ENRON.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/kitchen-l/sent_items/121.",
+   "hops": [
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 4,
+         "rawfrom": "louise.kitchen@enron.com\r\n",
+         "source": "valid",
+         "to": "xpollard@richardfreemanco.com"
+      },
+      {
+         "from": "xpollard@richardfreemanco.com",
+         "line": 24,
+         "rawfrom": "\t\"Xuan Pollard\" <xpollard@richardfreemanco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 34,
+         "rawfrom": "Kitchen, Louise <Louise.Kitchen@enron.com>\n",
+         "source": "email",
+         "to": "Xuan Pollard <xpollard@richardfreemanco.com>"
+      },
+      {
+         "from": "xpollard@richardfreemanco.com",
+         "line": 47,
+         "rawfrom": "\"Xuan Pollard\" <xpollard@richardfreemanco.com>@ENRON\n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 56,
+         "rawfrom": "Kitchen, Louise <Louise.Kitchen@enron.com>\n",
+         "source": "email",
+         "to": "Xuan Pollard <xpollard@richardfreemanco.com>"
+      },
+      {
+         "from": "xpollard@richardfreemanco.com",
+         "line": 74,
+         "rawfrom": "\"Xuan Pollard\" <xpollard@richardfreemanco.com>@ENRON\n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/kitchen-l/sent_items/971.",
+   "hops": [
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 4,
+         "rawfrom": "louise.kitchen@enron.com\r\n",
+         "source": "valid",
+         "to": "louise.kitchen@enron.com, inc.'.'premier@enron.com"
+      },
+      {
+         "from": "kristen@skihomerental.com",
+         "line": 38,
+         "rawfrom": "\t\"Premier Home Rentals, Inc.\" <kristen@skihomerental.com>@ENRON [mailto:IMCEANOTES-+22Premier+20Home+20Rentals+2C+20Inc+2E+22+20+3Ckristen+40skihomerental+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 53,
+         "rawfrom": "<Louise.Kitchen@enron.com>\n",
+         "source": "email",
+         "to": "<kristen@skihomerental.com>"
+      },
+      {
+         "from": "kristen@skihomerental.com",
+         "line": 74,
+         "rawfrom": "  \"Rich and Kristen Nye\" <kristen@skihomerental.com>@ENRON\n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 92,
+         "rawfrom": "<Louise.Kitchen@enron.com>\n",
+         "source": "email",
+         "to": "<kristen@skihomerental.com>"
+      },
+      {
+         "from": "kristen@skihomerental.com",
+         "line": 117,
+         "rawfrom": "  \"Rich and Kristen Nye\" <kristen@skihomerental.com>@ENRON\n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 151,
+         "rawfrom": "\"Kitchen, Louise\" <Louise.Kitchen@enron.com>\n",
+         "source": "email",
+         "to": "\"Rich and Kristen Nye\" <Kristen@skihomerental.com>"
+      },
+      {
+         "from": "kristen@skihomerental.com",
+         "line": 183,
+         "rawfrom": "\"Rich and Kristen Nye\" <Kristen@SkiHomeRental.com>@ENRON\n",
+         "source": "email",
+         "to": "louise@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/kitchen-l/sent_items/412.",
+   "hops": [
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 4,
+         "rawfrom": "louise.kitchen@enron.com\r\n",
+         "source": "valid",
+         "to": "info@kenduncan.com"
+      },
+      {
+         "from": "info@kenduncan.com",
+         "line": 24,
+         "rawfrom": "\t\"Ken Duncan Australia Wide\" <info@kenduncan.com>@ENRON  \n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 35,
+         "rawfrom": "<Louise.Kitchen@enron.com>\n",
+         "source": "email",
+         "to": "<info@kenduncan.com>; <Ellen.Wallumrod@enron.com>"
+      },
+      {
+         "from": "info@kenduncan.com",
+         "line": 63,
+         "rawfrom": "  \"Ken Duncan Australia Wide\" <info@kenduncan.com>@ENRON\n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/kitchen-l/sent_items/346.",
+   "hops": [
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 4,
+         "rawfrom": "louise.kitchen@enron.com\r\n",
+         "source": "valid",
+         "to": "tgros@houston.rr.com"
+      },
+      {
+         "from": "tgros@houston.rr.com",
+         "line": 24,
+         "rawfrom": "\t\"Tom Gros\" <tgros@houston.rr.com>@ENRON  \n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 33,
+         "rawfrom": "<Louise.Kitchen@enron.com>\n",
+         "source": "email",
+         "to": "<tgros@houston.rr.com>"
+      },
+      {
+         "from": "tgros@houston.rr.com",
+         "line": 45,
+         "rawfrom": "  \"Tom Gros\" <tgros@houston.rr.com>@ENRON\n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/kitchen-l/sent_items/993.",
+   "hops": [
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 4,
+         "rawfrom": "louise.kitchen@enron.com\r\n",
+         "source": "valid",
+         "to": "'premier.rentals@enron.com, kristen@skihomerental.com"
+      },
+      {
+         "from": "kristen@skihomerental.com",
+         "line": 24,
+         "rawfrom": "\t\"Premier Home Rentals, Inc.\" <kristen@skihomerental.com>@ENRON [mailto:IMCEANOTES-+22Premier+20Home+20Rentals+2C+20Inc+2E+22+20+3Ckristen+40skihomerental+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 39,
+         "rawfrom": "<Louise.Kitchen@enron.com>\n",
+         "source": "email",
+         "to": "<kristen@skihomerental.com>"
+      },
+      {
+         "from": "kristen@skihomerental.com",
+         "line": 60,
+         "rawfrom": "  \"Rich and Kristen Nye\" <kristen@skihomerental.com>@ENRON\n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 78,
+         "rawfrom": "<Louise.Kitchen@enron.com>\n",
+         "source": "email",
+         "to": "<kristen@skihomerental.com>"
+      },
+      {
+         "from": "kristen@skihomerental.com",
+         "line": 103,
+         "rawfrom": "  \"Rich and Kristen Nye\" <kristen@skihomerental.com>@ENRON\n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 137,
+         "rawfrom": "\"Kitchen, Louise\" <Louise.Kitchen@enron.com>\n",
+         "source": "email",
+         "to": "\"Rich and Kristen Nye\" <Kristen@skihomerental.com>"
+      },
+      {
+         "from": "kristen@skihomerental.com",
+         "line": 169,
+         "rawfrom": "\"Rich and Kristen Nye\" <Kristen@SkiHomeRental.com>@ENRON\n",
+         "source": "email",
+         "to": "louise@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/kitchen-l/sent_items/20.",
+   "hops": [
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 4,
+         "rawfrom": "louise.kitchen@enron.com\r\n",
+         "source": "valid",
+         "to": "claudia.robinson@ubsw.com"
+      },
+      {
+         "from": "claudia.robinson@ubsw.com",
+         "line": 30,
+         "rawfrom": "\t\"Robinson, Claudia\" <claudia.robinson@ubsw.com>@ENRON  \n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 51,
+         "rawfrom": "Louise.Kitchen@enron.com [mailto:Louise.Kitchen@enron.com]\n",
+         "source": "email",
+         "to": "Robinson, Claudia; Petrie, James [UBS]; Eber, Louis [UBS]; Brady,"
+      },
+      {
+         "from": "claudia.robinson@ubsw.com",
+         "line": 82,
+         "rawfrom": "  \"Robinson, Claudia\" <claudia.robinson@ubsw.com>@ENRON\n",
+         "source": "email",
+         "to": "Petrie, James [UBS]; Eber, Louis [UBS]; Brady, Penny [UBS];"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/kitchen-l/sent_items/410.",
+   "hops": [
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 4,
+         "rawfrom": "louise.kitchen@enron.com\r\n",
+         "source": "valid",
+         "to": "scott.l.flood@ssmb.com"
+      },
+      {
+         "from": "scott.l.flood@ssmb.com",
+         "line": 37,
+         "rawfrom": "\t\"Flood, Scott L [GCO]\" <scott.l.flood@ssmb.com>@ENRON  \n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 46,
+         "rawfrom": "Kitchen, Louise <Louise.Kitchen@enron.com>\n",
+         "source": "email",
+         "to": "Flood, Scott L [GCO] <sf06840@imcnam.ssmb.com>"
+      },
+      {
+         "from": "scott.l.flood@ssmb.com",
+         "line": 94,
+         "rawfrom": "\t\"Flood, Scott L [GCO]\" <scott.l.flood@ssmb.com>@ENRON\n",
+         "source": "email",
+         "to": "Taylor, Mark E (Legal)"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/kitchen-l/sent_items/396.",
+   "hops": [
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 4,
+         "rawfrom": "louise.kitchen@enron.com\r\n",
+         "source": "valid",
+         "to": "richard.a.stuckey@ssmb.com"
+      },
+      {
+         "from": "richard.a.stuckey@ssmb.com",
+         "line": 22,
+         "rawfrom": "\t\"Stuckey, Richard A [FI]\" <richard.a.stuckey@ssmb.com>@ENRON  \n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 39,
+         "rawfrom": "Kitchen, Louise [mailto:Louise.Kitchen@enron.com]\n",
+         "source": "email",
+         "to": "\"Flood, Scott L [GCO]\" <scott.l.flood@ssmb.com>@ENRON"
+      },
+      {
+         "from": "scott.l.flood@ssmb.com",
+         "line": 68,
+         "rawfrom": "\t\"Flood, Scott L [GCO]\" <scott.l.flood@ssmb.com>@ENRON\n",
+         "source": "email",
+         "to": "Kitchen, Louise"
+      },
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 78,
+         "rawfrom": "Kitchen, Louise <Louise.Kitchen@enron.com>\n",
+         "source": "email",
+         "to": "Flood, Scott L [GCO] <sf06840@imcnam.ssmb.com>"
+      },
+      {
+         "from": "scott.l.flood@ssmb.com",
+         "line": 129,
+         "rawfrom": "\t\"Flood, Scott L [GCO]\" <scott.l.flood@ssmb.com>@ENRON\n",
+         "source": "email",
+         "to": "Taylor, Mark E (Legal)"
+      }
+   ],
+   "skipped": 1
+}
+]

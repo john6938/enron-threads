@@ -1,0 +1,1156 @@
+[
+{
+   "file": "/home/jb/maildir/whalley-l/all_documents/784.",
+   "hops": [
+      {
+         "from": "liz.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "liz.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 30,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/23/2000 09:05:45 AM\n",
+         "source": "email",
+         "to": "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "liz.m.taylor@enron.com",
+         "line": 89,
+         "rawfrom": "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 108,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 04:31:21 PM\n",
+         "source": "email",
+         "to": "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "liz.m.taylor@enron.com",
+         "line": 119,
+         "rawfrom": "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 140,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 11:18:54 AM\n",
+         "source": "email",
+         "to": "<whalley@enron.com>"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 156,
+         "rawfrom": "Bob Nimocks [mailto:bnimocks@zeusdevelopment.com]\n",
+         "source": "email",
+         "to": "whalley@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/whalley-l/all_documents/739.",
+   "hops": [
+      {
+         "from": "liz.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "liz.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "jetchart@tavaero.com"
+      },
+      {
+         "from": "jetchart@tavaero.com",
+         "line": 31,
+         "rawfrom": "\"MARCELA WHITE\" <JETCHART@TAVAERO.COM> on 10/09/2000 04:16:33 PM\n",
+         "source": "email",
+         "to": "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "greg.whalley@enron.com",
+         "line": 39,
+         "rawfrom": "<Greg.Whalley@enron.com>\n",
+         "source": "email",
+         "to": "<JETCHART@TAVAERO.COM>"
+      },
+      {
+         "from": "jetchart@tavaero.com",
+         "line": 56,
+         "rawfrom": "JETCHART@TAVAERO.COM",
+         "source": "valid",
+         "to": "<Greg.Whalley@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/whalley-l/all_documents/780.",
+   "hops": [
+      {
+         "from": "liz.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "liz.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 29,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/23/2000 09:05:45 AM\n",
+         "source": "email",
+         "to": "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "liz.m.taylor@enron.com",
+         "line": 88,
+         "rawfrom": "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 107,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 04:31:21 PM\n",
+         "source": "email",
+         "to": "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "liz.m.taylor@enron.com",
+         "line": 118,
+         "rawfrom": "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 139,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 11:18:54 AM\n",
+         "source": "email",
+         "to": "<whalley@enron.com>"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 155,
+         "rawfrom": "Bob Nimocks [mailto:bnimocks@zeusdevelopment.com]\n",
+         "source": "email",
+         "to": "whalley@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/whalley-l/all_documents/740.",
+   "hops": [
+      {
+         "from": "liz.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "liz.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "jetchart@tavaero.com"
+      },
+      {
+         "from": "jetchart@tavaero.com",
+         "line": 29,
+         "rawfrom": "\"MARCELA WHITE\" <JETCHART@TAVAERO.COM> on 10/09/2000 04:16:33 PM\n",
+         "source": "email",
+         "to": "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "greg.whalley@enron.com",
+         "line": 37,
+         "rawfrom": "<Greg.Whalley@enron.com>\n",
+         "source": "email",
+         "to": "<JETCHART@TAVAERO.COM>"
+      },
+      {
+         "from": "jetchart@tavaero.com",
+         "line": 54,
+         "rawfrom": "JETCHART@TAVAERO.COM",
+         "source": "valid",
+         "to": "<Greg.Whalley@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/whalley-l/all_documents/790.",
+   "hops": [
+      {
+         "from": "liz.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "liz.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 30,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 04:31:21 PM\n",
+         "source": "email",
+         "to": "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "liz.m.taylor@enron.com",
+         "line": 41,
+         "rawfrom": "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 62,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 11:18:54 AM\n",
+         "source": "email",
+         "to": "<whalley@enron.com>"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 78,
+         "rawfrom": "Bob Nimocks [mailto:bnimocks@zeusdevelopment.com]\n",
+         "source": "email",
+         "to": "whalley@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/whalley-l/all_documents/1334.",
+   "hops": [
+      {
+         "from": "liz.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "liz.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "khoskins@dlj.com"
+      },
+      {
+         "from": "khoskins@dlj.com",
+         "line": 36,
+         "rawfrom": "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 11:02:55 AM\n",
+         "source": "email",
+         "to": "\"'Greg.Whalley@enron.com'\" <Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "greg.whalley@enron.com",
+         "line": 51,
+         "rawfrom": "Greg.Whalley@enron.com [mailto:Greg.Whalley@enron.com]\n",
+         "source": "email",
+         "to": "Hoskins, Kenneth"
+      },
+      {
+         "from": "khoskins@dlj.com",
+         "line": 67,
+         "rawfrom": "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 10:11:18 AM\n",
+         "source": "email",
+         "to": "\"'whalley@enron.com'\" <whalley@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/whalley-l/all_documents/1333.",
+   "hops": [
+      {
+         "from": "liz.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "liz.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "khoskins@dlj.com"
+      },
+      {
+         "from": "khoskins@dlj.com",
+         "line": 27,
+         "rawfrom": "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 12:00:24 PM\n",
+         "source": "email",
+         "to": "\"'Greg.Whalley@enron.com'\" <Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "greg.whalley@enron.com",
+         "line": 42,
+         "rawfrom": "Greg.Whalley@enron.com [mailto:Greg.Whalley@enron.com]\n",
+         "source": "email",
+         "to": "khoskins@Dlj.com"
+      },
+      {
+         "from": "khoskins@dlj.com",
+         "line": 68,
+         "rawfrom": "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 11:02:55 AM\n",
+         "source": "email",
+         "to": "\"'Greg.Whalley@enron.com'\" <Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "greg.whalley@enron.com",
+         "line": 83,
+         "rawfrom": "Greg.Whalley@enron.com [mailto:Greg.Whalley@enron.com]\n",
+         "source": "email",
+         "to": "Hoskins, Kenneth"
+      },
+      {
+         "from": "khoskins@dlj.com",
+         "line": 99,
+         "rawfrom": "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 10:11:18 AM\n",
+         "source": "email",
+         "to": "\"'whalley@enron.com'\" <whalley@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/whalley-l/all_documents/736.",
+   "hops": [
+      {
+         "from": "liz.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "liz.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 26,
+         "rawfrom": "bnimocks@zeusdevelopment.com",
+         "source": "valid",
+         "to": "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "liz.m.taylor@enron.com",
+         "line": 39,
+         "rawfrom": "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 60,
+         "rawfrom": "bnimocks@zeusdevelopment.com",
+         "source": "valid",
+         "to": "<Greg.Whalley@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/whalley-l/all_documents/42.",
+   "hops": [
+      {
+         "from": "herbert_molina@juno.com",
+         "line": 4,
+         "rawfrom": "herbert_molina@juno.com\r\n",
+         "source": "valid",
+         "to": "ken_rice@enron.net, mike.mcconnel@enron.net"
+      },
+      {
+         "from": "postoffice@staff.juno.com",
+         "line": 24,
+         "rawfrom": "Mail Delivery Subsystem <postoffice@staff.juno.com>\n",
+         "source": "email",
+         "to": "herbert_molina@juno.com"
+      },
+      {
+         "from": "ken_rice@enron.com",
+         "line": 38,
+         "rawfrom": "ken_rice@enron.com",
+         "source": "valid",
+         "to": "<mike.mcconnel@enron.com>"
+      },
+      {
+         "from": "mike.mcconnel@enron.com",
+         "line": 41,
+         "rawfrom": "mike.mcconnel@enron.com",
+         "source": "valid",
+         "to": "<ken_rice@enron.com>"
+      },
+      {
+         "from": "herbert_molina@juno.com",
+         "line": 51,
+         "rawfrom": "herbert_molina@juno.com",
+         "source": "valid",
+         "to": "ken_rice@enron.com, Jeff.skilling@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/whalley-l/sent/81.",
+   "hops": [
+      {
+         "from": "liz.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "liz.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 29,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/23/2000 09:05:45 AM\n",
+         "source": "email",
+         "to": "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "liz.m.taylor@enron.com",
+         "line": 88,
+         "rawfrom": "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 107,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 04:31:21 PM\n",
+         "source": "email",
+         "to": "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "liz.m.taylor@enron.com",
+         "line": 118,
+         "rawfrom": "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 139,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 11:18:54 AM\n",
+         "source": "email",
+         "to": "<whalley@enron.com>"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 155,
+         "rawfrom": "Bob Nimocks [mailto:bnimocks@zeusdevelopment.com]\n",
+         "source": "email",
+         "to": "whalley@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/whalley-l/sent/67.",
+   "hops": [
+      {
+         "from": "liz.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "liz.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "jetchart@tavaero.com"
+      },
+      {
+         "from": "jetchart@tavaero.com",
+         "line": 31,
+         "rawfrom": "\"MARCELA WHITE\" <JETCHART@TAVAERO.COM> on 10/09/2000 04:16:33 PM\n",
+         "source": "email",
+         "to": "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "greg.whalley@enron.com",
+         "line": 39,
+         "rawfrom": "<Greg.Whalley@enron.com>\n",
+         "source": "email",
+         "to": "<JETCHART@TAVAERO.COM>"
+      },
+      {
+         "from": "jetchart@tavaero.com",
+         "line": 56,
+         "rawfrom": "JETCHART@TAVAERO.COM",
+         "source": "valid",
+         "to": "<Greg.Whalley@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/whalley-l/sent/250.",
+   "hops": [
+      {
+         "from": "liz.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "liz.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "khoskins@dlj.com"
+      },
+      {
+         "from": "khoskins@dlj.com",
+         "line": 27,
+         "rawfrom": "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 12:00:24 PM\n",
+         "source": "email",
+         "to": "\"'Greg.Whalley@enron.com'\" <Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "greg.whalley@enron.com",
+         "line": 42,
+         "rawfrom": "Greg.Whalley@enron.com [mailto:Greg.Whalley@enron.com]\n",
+         "source": "email",
+         "to": "khoskins@Dlj.com"
+      },
+      {
+         "from": "khoskins@dlj.com",
+         "line": 68,
+         "rawfrom": "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 11:02:55 AM\n",
+         "source": "email",
+         "to": "\"'Greg.Whalley@enron.com'\" <Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "greg.whalley@enron.com",
+         "line": 83,
+         "rawfrom": "Greg.Whalley@enron.com [mailto:Greg.Whalley@enron.com]\n",
+         "source": "email",
+         "to": "Hoskins, Kenneth"
+      },
+      {
+         "from": "khoskins@dlj.com",
+         "line": 99,
+         "rawfrom": "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 10:11:18 AM\n",
+         "source": "email",
+         "to": "\"'whalley@enron.com'\" <whalley@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/whalley-l/sent/85.",
+   "hops": [
+      {
+         "from": "liz.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "liz.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 30,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/23/2000 09:05:45 AM\n",
+         "source": "email",
+         "to": "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "liz.m.taylor@enron.com",
+         "line": 89,
+         "rawfrom": "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 108,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 04:31:21 PM\n",
+         "source": "email",
+         "to": "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "liz.m.taylor@enron.com",
+         "line": 119,
+         "rawfrom": "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 140,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 11:18:54 AM\n",
+         "source": "email",
+         "to": "<whalley@enron.com>"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 156,
+         "rawfrom": "Bob Nimocks [mailto:bnimocks@zeusdevelopment.com]\n",
+         "source": "email",
+         "to": "whalley@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/whalley-l/sent/89.",
+   "hops": [
+      {
+         "from": "liz.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "liz.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 30,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 04:31:21 PM\n",
+         "source": "email",
+         "to": "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "liz.m.taylor@enron.com",
+         "line": 41,
+         "rawfrom": "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 62,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 11:18:54 AM\n",
+         "source": "email",
+         "to": "<whalley@enron.com>"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 78,
+         "rawfrom": "Bob Nimocks [mailto:bnimocks@zeusdevelopment.com]\n",
+         "source": "email",
+         "to": "whalley@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/whalley-l/sent/65.",
+   "hops": [
+      {
+         "from": "liz.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "liz.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 26,
+         "rawfrom": "bnimocks@zeusdevelopment.com",
+         "source": "valid",
+         "to": "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "liz.m.taylor@enron.com",
+         "line": 39,
+         "rawfrom": "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 60,
+         "rawfrom": "bnimocks@zeusdevelopment.com",
+         "source": "valid",
+         "to": "<Greg.Whalley@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/whalley-l/sent/68.",
+   "hops": [
+      {
+         "from": "liz.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "liz.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "jetchart@tavaero.com"
+      },
+      {
+         "from": "jetchart@tavaero.com",
+         "line": 29,
+         "rawfrom": "\"MARCELA WHITE\" <JETCHART@TAVAERO.COM> on 10/09/2000 04:16:33 PM\n",
+         "source": "email",
+         "to": "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "greg.whalley@enron.com",
+         "line": 37,
+         "rawfrom": "<Greg.Whalley@enron.com>\n",
+         "source": "email",
+         "to": "<JETCHART@TAVAERO.COM>"
+      },
+      {
+         "from": "jetchart@tavaero.com",
+         "line": 54,
+         "rawfrom": "JETCHART@TAVAERO.COM",
+         "source": "valid",
+         "to": "<Greg.Whalley@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/whalley-l/sent/251.",
+   "hops": [
+      {
+         "from": "liz.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "liz.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "khoskins@dlj.com"
+      },
+      {
+         "from": "khoskins@dlj.com",
+         "line": 36,
+         "rawfrom": "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 11:02:55 AM\n",
+         "source": "email",
+         "to": "\"'Greg.Whalley@enron.com'\" <Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "greg.whalley@enron.com",
+         "line": 51,
+         "rawfrom": "Greg.Whalley@enron.com [mailto:Greg.Whalley@enron.com]\n",
+         "source": "email",
+         "to": "Hoskins, Kenneth"
+      },
+      {
+         "from": "khoskins@dlj.com",
+         "line": 67,
+         "rawfrom": "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 10:11:18 AM\n",
+         "source": "email",
+         "to": "\"'whalley@enron.com'\" <whalley@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/whalley-l/discussion_threads/43.",
+   "hops": [
+      {
+         "from": "herbert_molina@juno.com",
+         "line": 4,
+         "rawfrom": "herbert_molina@juno.com\r\n",
+         "source": "valid",
+         "to": "ken_rice@enron.net, mike.mcconnel@enron.net"
+      },
+      {
+         "from": "postoffice@staff.juno.com",
+         "line": 24,
+         "rawfrom": "Mail Delivery Subsystem <postoffice@staff.juno.com>\n",
+         "source": "email",
+         "to": "herbert_molina@juno.com"
+      },
+      {
+         "from": "ken_rice@enron.com",
+         "line": 38,
+         "rawfrom": "ken_rice@enron.com",
+         "source": "valid",
+         "to": "<mike.mcconnel@enron.com>"
+      },
+      {
+         "from": "mike.mcconnel@enron.com",
+         "line": 41,
+         "rawfrom": "mike.mcconnel@enron.com",
+         "source": "valid",
+         "to": "<ken_rice@enron.com>"
+      },
+      {
+         "from": "herbert_molina@juno.com",
+         "line": 51,
+         "rawfrom": "herbert_molina@juno.com",
+         "source": "valid",
+         "to": "ken_rice@enron.com, Jeff.skilling@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/whalley-l/_sent_mail/49.",
+   "hops": [
+      {
+         "from": "liz.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "liz.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "jetchart@tavaero.com"
+      },
+      {
+         "from": "jetchart@tavaero.com",
+         "line": 29,
+         "rawfrom": "\"MARCELA WHITE\" <JETCHART@TAVAERO.COM> on 10/09/2000 04:16:33 PM\n",
+         "source": "email",
+         "to": "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "greg.whalley@enron.com",
+         "line": 37,
+         "rawfrom": "<Greg.Whalley@enron.com>\n",
+         "source": "email",
+         "to": "<JETCHART@TAVAERO.COM>"
+      },
+      {
+         "from": "jetchart@tavaero.com",
+         "line": 54,
+         "rawfrom": "JETCHART@TAVAERO.COM",
+         "source": "valid",
+         "to": "<Greg.Whalley@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/whalley-l/_sent_mail/231.",
+   "hops": [
+      {
+         "from": "liz.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "liz.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "khoskins@dlj.com"
+      },
+      {
+         "from": "khoskins@dlj.com",
+         "line": 36,
+         "rawfrom": "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 11:02:55 AM\n",
+         "source": "email",
+         "to": "\"'Greg.Whalley@enron.com'\" <Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "greg.whalley@enron.com",
+         "line": 51,
+         "rawfrom": "Greg.Whalley@enron.com [mailto:Greg.Whalley@enron.com]\n",
+         "source": "email",
+         "to": "Hoskins, Kenneth"
+      },
+      {
+         "from": "khoskins@dlj.com",
+         "line": 67,
+         "rawfrom": "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 10:11:18 AM\n",
+         "source": "email",
+         "to": "\"'whalley@enron.com'\" <whalley@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/whalley-l/_sent_mail/62.",
+   "hops": [
+      {
+         "from": "liz.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "liz.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 29,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/23/2000 09:05:45 AM\n",
+         "source": "email",
+         "to": "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "liz.m.taylor@enron.com",
+         "line": 88,
+         "rawfrom": "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 107,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 04:31:21 PM\n",
+         "source": "email",
+         "to": "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "liz.m.taylor@enron.com",
+         "line": 118,
+         "rawfrom": "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 139,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 11:18:54 AM\n",
+         "source": "email",
+         "to": "<whalley@enron.com>"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 155,
+         "rawfrom": "Bob Nimocks [mailto:bnimocks@zeusdevelopment.com]\n",
+         "source": "email",
+         "to": "whalley@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/whalley-l/_sent_mail/46.",
+   "hops": [
+      {
+         "from": "liz.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "liz.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 26,
+         "rawfrom": "bnimocks@zeusdevelopment.com",
+         "source": "valid",
+         "to": "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "liz.m.taylor@enron.com",
+         "line": 39,
+         "rawfrom": "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 60,
+         "rawfrom": "bnimocks@zeusdevelopment.com",
+         "source": "valid",
+         "to": "<Greg.Whalley@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/whalley-l/_sent_mail/66.",
+   "hops": [
+      {
+         "from": "liz.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "liz.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 30,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/23/2000 09:05:45 AM\n",
+         "source": "email",
+         "to": "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "liz.m.taylor@enron.com",
+         "line": 89,
+         "rawfrom": "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 108,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 04:31:21 PM\n",
+         "source": "email",
+         "to": "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "liz.m.taylor@enron.com",
+         "line": 119,
+         "rawfrom": "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 140,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 11:18:54 AM\n",
+         "source": "email",
+         "to": "<whalley@enron.com>"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 156,
+         "rawfrom": "Bob Nimocks [mailto:bnimocks@zeusdevelopment.com]\n",
+         "source": "email",
+         "to": "whalley@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/whalley-l/_sent_mail/70.",
+   "hops": [
+      {
+         "from": "liz.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "liz.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 30,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 04:31:21 PM\n",
+         "source": "email",
+         "to": "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "liz.m.taylor@enron.com",
+         "line": 41,
+         "rawfrom": "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 62,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 11:18:54 AM\n",
+         "source": "email",
+         "to": "<whalley@enron.com>"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 78,
+         "rawfrom": "Bob Nimocks [mailto:bnimocks@zeusdevelopment.com]\n",
+         "source": "email",
+         "to": "whalley@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/whalley-l/_sent_mail/230.",
+   "hops": [
+      {
+         "from": "liz.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "liz.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "khoskins@dlj.com"
+      },
+      {
+         "from": "khoskins@dlj.com",
+         "line": 27,
+         "rawfrom": "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 12:00:24 PM\n",
+         "source": "email",
+         "to": "\"'Greg.Whalley@enron.com'\" <Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "greg.whalley@enron.com",
+         "line": 42,
+         "rawfrom": "Greg.Whalley@enron.com [mailto:Greg.Whalley@enron.com]\n",
+         "source": "email",
+         "to": "khoskins@Dlj.com"
+      },
+      {
+         "from": "khoskins@dlj.com",
+         "line": 68,
+         "rawfrom": "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 11:02:55 AM\n",
+         "source": "email",
+         "to": "\"'Greg.Whalley@enron.com'\" <Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "greg.whalley@enron.com",
+         "line": 83,
+         "rawfrom": "Greg.Whalley@enron.com [mailto:Greg.Whalley@enron.com]\n",
+         "source": "email",
+         "to": "Hoskins, Kenneth"
+      },
+      {
+         "from": "khoskins@dlj.com",
+         "line": 99,
+         "rawfrom": "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 10:11:18 AM\n",
+         "source": "email",
+         "to": "\"'whalley@enron.com'\" <whalley@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/whalley-l/_sent_mail/48.",
+   "hops": [
+      {
+         "from": "liz.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "liz.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "jetchart@tavaero.com"
+      },
+      {
+         "from": "jetchart@tavaero.com",
+         "line": 31,
+         "rawfrom": "\"MARCELA WHITE\" <JETCHART@TAVAERO.COM> on 10/09/2000 04:16:33 PM\n",
+         "source": "email",
+         "to": "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from": "greg.whalley@enron.com",
+         "line": 39,
+         "rawfrom": "<Greg.Whalley@enron.com>\n",
+         "source": "email",
+         "to": "<JETCHART@TAVAERO.COM>"
+      },
+      {
+         "from": "jetchart@tavaero.com",
+         "line": 56,
+         "rawfrom": "JETCHART@TAVAERO.COM",
+         "source": "valid",
+         "to": "<Greg.Whalley@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/whalley-l/connect_deletes/182.",
+   "hops": [
+      {
+         "from": "herbert_molina@juno.com",
+         "line": 4,
+         "rawfrom": "herbert_molina@juno.com\r\n",
+         "source": "valid",
+         "to": "ken_rice@enron.net, mike.mcconnel@enron.net"
+      },
+      {
+         "from": "postoffice@staff.juno.com",
+         "line": 24,
+         "rawfrom": "Mail Delivery Subsystem <postoffice@staff.juno.com>\n",
+         "source": "email",
+         "to": "herbert_molina@juno.com"
+      },
+      {
+         "from": "ken_rice@enron.com",
+         "line": 38,
+         "rawfrom": "ken_rice@enron.com",
+         "source": "valid",
+         "to": "<mike.mcconnel@enron.com>"
+      },
+      {
+         "from": "mike.mcconnel@enron.com",
+         "line": 41,
+         "rawfrom": "mike.mcconnel@enron.com",
+         "source": "valid",
+         "to": "<ken_rice@enron.com>"
+      },
+      {
+         "from": "herbert_molina@juno.com",
+         "line": 51,
+         "rawfrom": "herbert_molina@juno.com",
+         "source": "valid",
+         "to": "ken_rice@enron.com, Jeff.skilling@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+]

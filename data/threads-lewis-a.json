@@ -1,0 +1,855 @@
+[
+{
+   "file": "/home/jb/maildir/lewis-a/inbox/62.",
+   "hops": [
+      {
+         "from": "cmh_22@hotmail.com",
+         "line": 20,
+         "rawfrom": "\"Chengmei Ho\" <cmh_22@hotmail.com>\n",
+         "source": "email",
+         "to": "Chien.Woo@ElPaso.com, rogue3b@aol.com, isabelgod@hotmail.com,"
+      },
+      {
+         "from": "twiggy_too@hotmail.com",
+         "line": 32,
+         "rawfrom": "\"thuy mooney\" <twiggy_too@hotmail.com>\n",
+         "source": "email",
+         "to": "mooncm@ieee.org, bangvessa@hotmail.com, chau_ee@hotmail.com,"
+      },
+      {
+         "from": "bangluvv@aol.com",
+         "line": 43,
+         "rawfrom": "Bangluvv@aol.com\n",
+         "source": "valid",
+         "to": "andisluv@juno.com, tkuenstler@email.com, mercedy@juno.com,"
+      },
+      {
+         "from": "qt4u2002@hotmail.com",
+         "line": 61,
+         "rawfrom": "\"anita trevino\" <qt4u2002@hotmail.com>\n",
+         "source": "email",
+         "to": "bella_christa@yahoo.com, cindyr_82girl@hotmail.com, asianyella@hotmail.com,        t_pot_02@hotmail.com, bangluvv@aol.com, vkmag@hotmail.com"
+      },
+      {
+         "from": "guerita02@aol.com",
+         "line": 74,
+         "rawfrom": "Guerita02@aol.com\n",
+         "source": "valid",
+         "to": "witeout_69@hotmail.com, denvergyrl18@hotmail.com,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lewis-a/inbox/150.",
+   "hops": [
+      {
+         "from": "peter.wu@mitac.com",
+         "line": 4,
+         "rawfrom": "peter.wu@mitac.com\r\n",
+         "source": "valid",
+         "to": "yueh'.'amy@enron.com, h..lewis@enron.com"
+      },
+      {
+         "from": "ayueh@hotmail.com",
+         "line": 23,
+         "rawfrom": "Amy Yueh [mailto:ayueh@hotmail.com]\n",
+         "source": "email",
+         "to": "andrew.h.lewis@enron.com; Peter.Wu"
+      },
+      {
+         "from": "thx_135@hotmail.com",
+         "line": 31,
+         "rawfrom": "\"John Huang\" <thx_135@hotmail.com>\n",
+         "source": "email",
+         "to": "ayueh@hotmail.com, ron_he@dell.com"
+      },
+      {
+         "from": "ayueh@hotmail.com",
+         "line": 40,
+         "rawfrom": "\"Amy Yueh\" <ayueh@hotmail.com>\n",
+         "source": "email",
+         "to": "thx_135@hotmail.com, ron_he@dell.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lewis-a/inbox/153.",
+   "hops": [
+      {
+         "from": "todd.peikert@enron.com",
+         "line": 4,
+         "rawfrom": "todd.peikert@enron.com\r\n",
+         "source": "valid",
+         "to": "h..lewis@enron.com"
+      },
+      {
+         "from": "yvango@hotmail.com",
+         "line": 27,
+         "rawfrom": "yvan go [mailto:yvango@hotmail.com]\n",
+         "source": "email",
+         "to": "Peikert, Todd"
+      },
+      {
+         "from": "postmaster@mail.hotmail.com",
+         "line": 43,
+         "rawfrom": "postmaster@mail.hotmail.com \n",
+         "source": "valid",
+         "to": "yvango@hotmail.com"
+      },
+      {
+         "from": "yvango@hotmail.com",
+         "line": 64,
+         "rawfrom": " <yvango@hotmail.com>\n",
+         "source": "email",
+         "to": "andy.lewis@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lewis-a/inbox/79.",
+   "hops": [
+      {
+         "from": "martin.cuilla@enron.com",
+         "line": 4,
+         "rawfrom": "martin.cuilla@enron.com\r\n",
+         "source": "valid",
+         "to": "s..shively@enron.com, kevin.ruscitti@enron.com, h..lewis@enron.com,"
+      },
+      {
+         "from": "mcontant@cypressasset.com",
+         "line": 23,
+         "rawfrom": "\t\"Michael D. Contant\" <mcontant@cypressasset.com>@ENRON [mailto:IMCEANOTES-+22Michael+20D+2E+20Contant+22+20+3Cmcontant+40cypressasset+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Cuilla, Martin"
+      },
+      {
+         "from": "jnaples@brobeck.com",
+         "line": 33,
+         "rawfrom": "\"Naples, Joseph J.\" <JNaples@brobeck.com>\n",
+         "source": "email",
+         "to": "\"'carlos'\" <csoltero@mcginnislaw.com>,\t\"'drew'\" <ADinovo@velaw.com>,\t\"'contant'\" <mcontant@cypressasset.com>,\t\"'clay'\" <cplatt@graycary.com>,\t\"'dimitri'\" <dkarhu@houston.rr.com>,\t\"'george'\" <GONZGY@bracepatt.com>,\t\"'glatter'\" <jglatter@whhf.com>,\t\"'joe'\" <joe_graham@kirkland.com>,\t\"'murr'\" <gmurr@fulbright.com>,\t\"'vic'\" <vhardy@orrick.com>,\t\"'ray'\" <Ray.Kerlick@roystonlaw.com>"
+      },
+      {
+         "from": "andy@mbst.com",
+         "line": 63,
+         "rawfrom": "Andrew Tenenbaum [mailto:andy@mbst.com]\n",
+         "source": "email",
+         "to": "John Melideo (E-mail); Warren Lazarow (E-mail); Jonathan G. Shapiro"
+      },
+      {
+         "from": "sylvie.motz@delta.com",
+         "line": 74,
+         "rawfrom": "Motz, Sylvie [mailto:Sylvie.Motz@delta.com]\n",
+         "source": "email",
+         "to": "'planetchang@yahoo.com'; 'dkim@winston.com'; 'Eun Hee Pai';"
+      },
+      {
+         "from": "csparks@nyc.rr.com",
+         "line": 90,
+         "rawfrom": "Carilyn Sparks <csparks@nyc.rr.com>\n",
+         "source": "email",
+         "to": "Amy Ford <Amy_Ford@firstar.com>, Barry Bryant"
+      },
+      {
+         "from": "karenyoung19@hotmail.com",
+         "line": 102,
+         "rawfrom": "karenyoung19@hotmail.com",
+         "source": "valid",
+         "to": "Johannes Juette/PA/EU/ShS@ShSDOMAIN"
+      },
+      {
+         "from": "maureen@cavallocapital.com",
+         "line": 197,
+         "rawfrom": "Ong, Maureen [mailto:Maureen@cavallocapital.com]\n",
+         "source": "email",
+         "to": "Julia Kim (E-mail); Philip Utsch (E-mail); Richard Carty (E-mail);"
+      },
+      {
+         "from": "twaugh@hbk.com",
+         "line": 207,
+         "rawfrom": "Tom Waugh [mailto:twaugh@hbk.com]\n",
+         "source": "email",
+         "to": "Tadd Chessen (E-mail); Taylor McGowan (E-mail); Michael Fein"
+      },
+      {
+         "from": "matt.waddell@morganstanley.com",
+         "line": 230,
+         "rawfrom": "W. Matthew Waddell [mailto:Matt.Waddell@morganstanley.com]=20\n",
+         "source": "email",
+         "to": "Tim Ryan"
+      },
+      {
+         "from": "jonathan.langer@gs.com",
+         "line": 252,
+         "rawfrom": "Langer, Jonathan [mailto:jonathan.langer@gs.com]\n",
+         "source": "email",
+         "to": "'Robert Langer'"
+      },
+      {
+         "from": "samuel.greene@drkw.com",
+         "line": 302,
+         "rawfrom": "samuel.greene@drkw.com [mailto:samuel.greene@drkw.com]\n",
+         "source": "email",
+         "to": "jason.horowitz@fxminc.com; salter_james@jpmorgan.com;"
+      },
+      {
+         "from": "dmcnulty@exchange.ml.com",
+         "line": 384,
+         "rawfrom": "McNulty, Derek (IBK-NY) [mailto:DMcNulty@exchange.ML.com]\n",
+         "source": "email",
+         "to": "'paul.brown@csfb.com'; 'dz@msdcapital.com';"
+      },
+      {
+         "from": "mokyoung_hyun@hotmail.com",
+         "line": 413,
+         "rawfrom": "  Mokyoung Hyun [SMTP:mokyoung_hyun@hotmail.com]\n",
+         "source": "email",
+         "to": "mhyun2@exchange.ml.com"
+      },
+      {
+         "from": "olivia.ha@gs.com",
+         "line": 428,
+         "rawfrom": "\"Ha, Olivia\" <Olivia.Ha@gs.com>\n",
+         "source": "email",
+         "to": "\"'TITI'\" <ohkee@ms.com>, \"'Mokyoung!'\""
+      },
+      {
+         "from": "troh@lehman.com",
+         "line": 452,
+         "rawfrom": "Roh, Thomas L [mailto:troh@lehman.com]\n",
+         "source": "email",
+         "to": "'albert.park@gs.com'; 'jseo@broadview.com'; 'haidee.lee@ubsw.com';"
+      },
+      {
+         "from": "plevine@regionalhealthgroup.com",
+         "line": 505,
+         "rawfrom": " Peter Levine [mailto:plevine@regionalhealthgroup.com]\n",
+         "source": "email",
+         "to": "Andrew Cavanna; David Zorub; Eric Reiter"
+      },
+      {
+         "from": "pstanberry@onebox.com",
+         "line": 580,
+         "rawfrom": " parker stanberry [SMTP:pstanberry@onebox.com]\n",
+         "source": "email",
+         "to": "michael.goller@jpmorganpartners.com;"
+      },
+      {
+         "from": "pchung@thecarlylegroup.co.kr",
+         "line": 642,
+         "rawfrom": "Peter Chung <pchung@thecarlylegroup.co.kr>\n",
+         "source": "email",
+         "to": "\"'james_graff@rsco.com'\" <james_graff@rsco.com>,"
+      }
+   ],
+   "skipped": 21
+}
+,
+{
+   "file": "/home/jb/maildir/lewis-a/all_documents/145.",
+   "hops": [
+      {
+         "from": "vance.carter@ni.com",
+         "line": 4,
+         "rawfrom": "vance.carter@ni.com\r\n",
+         "source": "valid",
+         "to": "rick_schneider@notes.teradyne.com"
+      },
+      {
+         "from": "rick_schneider@notes.teradyne.com",
+         "line": 77,
+         "rawfrom": "rick_schneider@notes.teradyne.com on 14-11-2000 10:12:32 PM\n",
+         "source": "email",
+         "to": "\"Dziura, Richard\" <richard.dziura@superiorelectric.com>"
+      },
+      {
+         "from": "richard.dziura@superiorelectric.com",
+         "line": 98,
+         "rawfrom": "richard.dziura@superiorelectric.com",
+         "source": "valid",
+         "to": "\"'Bob Prytko'\" <bprytko@sepracor.com>, \"'saealumni@wpi.edu'\""
+      },
+      {
+         "from": "bprytko@sepracor.com",
+         "line": 118,
+         "rawfrom": "    Bob Prytko [SMTP:bprytko@sepracor.com]\n",
+         "source": "email",
+         "to": "'saealumni@wpi.edu'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lewis-a/all_documents/150.",
+   "hops": [
+      {
+         "from": "rbillbrough@yahoo.com",
+         "line": 4,
+         "rawfrom": "rbillbrough@yahoo.com\r\n",
+         "source": "valid",
+         "to": "steve14t@yahoo.com, edt@transicoil.com, terry.walsh@avnet.com,"
+      },
+      {
+         "from": "lizmunson@yahoo.com",
+         "line": 41,
+         "rawfrom": "ELIZABETH MUNSON <lizmunson@yahoo.com>\n",
+         "source": "email",
+         "to": "rbillbrough@yahoo.com"
+      },
+      {
+         "from": "jenim24@aol.com",
+         "line": 65,
+         "rawfrom": "Jenim24@aol.com\n",
+         "source": "valid",
+         "to": "kurt.borns@meristar.com, lizmunson@yahoo.com, dancing_kd_ladybug@yahoo.com"
+      },
+      {
+         "from": "smiller@newsoft.com",
+         "line": 84,
+         "rawfrom": "smiller@newsoft.com\n",
+         "source": "valid",
+         "to": "Jenim24@aol.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/lewis-a/all_documents/149.",
+   "hops": [
+      {
+         "from": "andrew.lewis@enron.com",
+         "line": 4,
+         "rawfrom": "andrew.lewis@enron.com\r\n",
+         "source": "valid",
+         "to": "sthorne@synagro.com"
+      },
+      {
+         "from": "lizmunson@yahoo.com",
+         "line": 56,
+         "rawfrom": "ELIZABETH MUNSON <lizmunson@yahoo.com>\r\n",
+         "source": "email",
+         "to": "rbillbrough@yahoo.com"
+      },
+      {
+         "from": "jenim24@aol.com",
+         "line": 82,
+         "rawfrom": "Jenim24@aol.com\r\n",
+         "source": "valid",
+         "to": "kurt.borns@meristar.com, lizmunson@yahoo.com, dancing_kd_ladybug@yahoo.="
+      },
+      {
+         "from": "smiller@newsoft.com",
+         "line": 107,
+         "rawfrom": "smiller@newsoft.com\r\n",
+         "source": "valid",
+         "to": "Jenim24@aol.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/lewis-a/all_documents/144.",
+   "hops": [
+      {
+         "from": "racer91@aol.com",
+         "line": 4,
+         "rawfrom": "racer91@aol.com\r\n",
+         "source": "valid",
+         "to": "vance.carter@ni.com, rick_schneider@notes.teradyne.com"
+      },
+      {
+         "from": "rick_schneider@notes.teradyne.com",
+         "line": 106,
+         "rawfrom": "rick_schneider@notes.teradyne.com on 14-11-2000 10:12:32 PM \n",
+         "source": "email",
+         "to": "??\"Dziura, Richard\" <richard.dziura@superiorelectric.com>"
+      },
+      {
+         "from": "richard.dziura@superiorelectric.com",
+         "line": 127,
+         "rawfrom": "richard.dziura@superiorelectric.com",
+         "source": "valid",
+         "to": "??\"'Bob Prytko'\" <bprytko@sepracor.com>, \"'saealumni@wpi.edu'\""
+      },
+      {
+         "from": "bprytko@sepracor.com",
+         "line": 147,
+         "rawfrom": "????Bob Prytko [SMTP:bprytko@sepracor.com] \n",
+         "source": "email",
+         "to": "?'saealumni@wpi.edu'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lewis-a/sent/3.",
+   "hops": [
+      {
+         "from": "andrew.lewis@enron.com",
+         "line": 4,
+         "rawfrom": "andrew.lewis@enron.com\r\n",
+         "source": "valid",
+         "to": "sthorne@synagro.com"
+      },
+      {
+         "from": "lizmunson@yahoo.com",
+         "line": 56,
+         "rawfrom": "ELIZABETH MUNSON <lizmunson@yahoo.com>\r\n",
+         "source": "email",
+         "to": "rbillbrough@yahoo.com"
+      },
+      {
+         "from": "jenim24@aol.com",
+         "line": 82,
+         "rawfrom": "Jenim24@aol.com\r\n",
+         "source": "valid",
+         "to": "kurt.borns@meristar.com, lizmunson@yahoo.com, dancing_kd_ladybug@yahoo.="
+      },
+      {
+         "from": "smiller@newsoft.com",
+         "line": 107,
+         "rawfrom": "smiller@newsoft.com\r\n",
+         "source": "valid",
+         "to": "Jenim24@aol.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/lewis-a/notes_inbox/136.",
+   "hops": [
+      {
+         "from": "racer91@aol.com",
+         "line": 4,
+         "rawfrom": "racer91@aol.com\r\n",
+         "source": "valid",
+         "to": "vance.carter@ni.com, rick_schneider@notes.teradyne.com"
+      },
+      {
+         "from": "rick_schneider@notes.teradyne.com",
+         "line": 106,
+         "rawfrom": "rick_schneider@notes.teradyne.com on 14-11-2000 10:12:32 PM \n",
+         "source": "email",
+         "to": "??\"Dziura, Richard\" <richard.dziura@superiorelectric.com>"
+      },
+      {
+         "from": "richard.dziura@superiorelectric.com",
+         "line": 127,
+         "rawfrom": "richard.dziura@superiorelectric.com",
+         "source": "valid",
+         "to": "??\"'Bob Prytko'\" <bprytko@sepracor.com>, \"'saealumni@wpi.edu'\""
+      },
+      {
+         "from": "bprytko@sepracor.com",
+         "line": 147,
+         "rawfrom": "????Bob Prytko [SMTP:bprytko@sepracor.com] \n",
+         "source": "email",
+         "to": "?'saealumni@wpi.edu'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lewis-a/notes_inbox/139.",
+   "hops": [
+      {
+         "from": "rbillbrough@yahoo.com",
+         "line": 4,
+         "rawfrom": "rbillbrough@yahoo.com\r\n",
+         "source": "valid",
+         "to": "steve14t@yahoo.com, edt@transicoil.com, terry.walsh@avnet.com,"
+      },
+      {
+         "from": "lizmunson@yahoo.com",
+         "line": 41,
+         "rawfrom": "ELIZABETH MUNSON <lizmunson@yahoo.com>\n",
+         "source": "email",
+         "to": "rbillbrough@yahoo.com"
+      },
+      {
+         "from": "jenim24@aol.com",
+         "line": 65,
+         "rawfrom": "Jenim24@aol.com\n",
+         "source": "valid",
+         "to": "kurt.borns@meristar.com, lizmunson@yahoo.com, dancing_kd_ladybug@yahoo.com"
+      },
+      {
+         "from": "smiller@newsoft.com",
+         "line": 84,
+         "rawfrom": "smiller@newsoft.com\n",
+         "source": "valid",
+         "to": "Jenim24@aol.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/lewis-a/notes_inbox/137.",
+   "hops": [
+      {
+         "from": "vance.carter@ni.com",
+         "line": 4,
+         "rawfrom": "vance.carter@ni.com\r\n",
+         "source": "valid",
+         "to": "rick_schneider@notes.teradyne.com"
+      },
+      {
+         "from": "rick_schneider@notes.teradyne.com",
+         "line": 77,
+         "rawfrom": "rick_schneider@notes.teradyne.com on 14-11-2000 10:12:32 PM\n",
+         "source": "email",
+         "to": "\"Dziura, Richard\" <richard.dziura@superiorelectric.com>"
+      },
+      {
+         "from": "richard.dziura@superiorelectric.com",
+         "line": 98,
+         "rawfrom": "richard.dziura@superiorelectric.com",
+         "source": "valid",
+         "to": "\"'Bob Prytko'\" <bprytko@sepracor.com>, \"'saealumni@wpi.edu'\""
+      },
+      {
+         "from": "bprytko@sepracor.com",
+         "line": 118,
+         "rawfrom": "    Bob Prytko [SMTP:bprytko@sepracor.com]\n",
+         "source": "email",
+         "to": "'saealumni@wpi.edu'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lewis-a/deleted_items/1402.",
+   "hops": [
+      {
+         "from": "ayueh@hotmail.com",
+         "line": 4,
+         "rawfrom": "ayueh@hotmail.com\r\n",
+         "source": "valid",
+         "to": "h..lewis@enron.com"
+      },
+      {
+         "from": "kelly_yueh@hotmail.com",
+         "line": 21,
+         "rawfrom": "\"Kelly Yueh\" <kelly_yueh@hotmail.com>\n",
+         "source": "email",
+         "to": "ayueh@hotmail.com, linda.yueh@economics.oxford.ac.uk"
+      },
+      {
+         "from": "ckuo@exchange.ml.com",
+         "line": 29,
+         "rawfrom": "\"Kuo, Chia (IBK-NY)\" <CKuo@exchange.ml.com>\n",
+         "source": "email",
+         "to": "\"'khuang@yankeegroup.com'\" <khuang@yankeegroup.com>,"
+      },
+      {
+         "from": "kate_park@lordandtaylor.com",
+         "line": 39,
+         "rawfrom": "> > > From:\tKate_Park@LordAndTaylor.com [SMTP:Kate_Park@LordAndTaylor.com]\n",
+         "source": "email",
+         "to": "chia_kuo@ml.com"
+      },
+      {
+         "from": "phyllispei@hotmail.com",
+         "line": 49,
+         "rawfrom": "\"Phyllis Pei\" <phyllispei@hotmail.com> on 11/13/2001 09:03 PM\n",
+         "source": "email",
+         "to": "Kate_Park@LordAndTaylor.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lewis-a/deleted_items/513.",
+   "hops": [
+      {
+         "from": "matthew_faunce@raytheon.com",
+         "line": 4,
+         "rawfrom": "matthew_faunce@raytheon.com\r\n",
+         "source": "valid",
+         "to": "mmarcoux@boston-engineering.com"
+      },
+      {
+         "from": "mmarcoux@boston-engineering.com",
+         "line": 28,
+         "rawfrom": "Mike Marcoux <mmarcoux@boston-engineering.com> on 01/10/2002 02:10:23 PM\n",
+         "source": "email",
+         "to": "christopher_quaranta@notes.teradyne.com"
+      },
+      {
+         "from": "mmarcoux@boston-engineering.com",
+         "line": 78,
+         "rawfrom": "Mike Marcoux <mmarcoux@boston-engineering.com> on 01/10/2002 12:11:04 PM\n",
+         "source": "email",
+         "to": "\"Truong, Dan\" <truongd@timken.com>, \"'Matthew Faunce'\""
+      },
+      {
+         "from": "matthew_faunce@raytheon.com",
+         "line": 122,
+         "rawfrom": "Matthew Faunce [mailto:Matthew_Faunce@raytheon.com]\n",
+         "source": "email",
+         "to": "pudge01flyer@yahoo.com; dargento@earthlink.com; bacohen@rcn.com;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/lewis-a/deleted_items/466.",
+   "hops": [
+      {
+         "from": "gmasterson@hgi-fire.com",
+         "line": 4,
+         "rawfrom": "gmasterson@hgi-fire.com\r\n",
+         "source": "valid",
+         "to": "christopher_quaranta@notes.teradyne.com, gbarroso@netnumina.com"
+      },
+      {
+         "from": "christopher_quaranta@notes.teradyne.com",
+         "line": 25,
+         "rawfrom": "christopher_quaranta@notes.teradyne.com\n",
+         "source": "valid",
+         "to": "George Barroso"
+      },
+      {
+         "from": "gbarroso@netnumina.com",
+         "line": 71,
+         "rawfrom": "George Barroso <gbarroso@netnumina.com> on 01/10/2002 02:31:52 PM\n",
+         "source": "email",
+         "to": "\"'Matthew Faunce '\" <Matthew_Faunce@raytheon.com>, \"'Mike Marcoux"
+      },
+      {
+         "from": "mmarcoux@boston-engineering.com",
+         "line": 198,
+         "rawfrom": "Mike Marcoux <mmarcoux@boston-engineering.com> on 01/10/2002 02:10:23 PM\n",
+         "source": "email",
+         "to": "christopher_quaranta@notes.teradyne.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/lewis-a/sent_items/29.",
+   "hops": [
+      {
+         "from": "h..lewis@enron.com",
+         "line": 4,
+         "rawfrom": "h..lewis@enron.com\r\n",
+         "source": "valid",
+         "to": "ann.s.chen@accenture.com"
+      },
+      {
+         "from": "ann.s.chen@accenture.com",
+         "line": 22,
+         "rawfrom": "\tann.s.chen@accenture.com@ENRON  \n",
+         "source": "email",
+         "to": "Lewis, Andrew H."
+      },
+      {
+         "from": "andrew.h.lewis@enron.c",
+         "line": 45,
+         "rawfrom": "Andrew.H.Lewis@enron.c",
+         "source": "valid",
+         "to": "Ann S. Chen/Internal/Accenture@Accenture"
+      },
+      {
+         "from": "ann.s.chen@accenture.com",
+         "line": 59,
+         "rawfrom": "  ann.s.chen@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Lewis, Andrew H."
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/lewis-a/discussion_threads/25.",
+   "hops": [
+      {
+         "from": "vance.carter@ni.com",
+         "line": 4,
+         "rawfrom": "vance.carter@ni.com\r\n",
+         "source": "valid",
+         "to": "rick_schneider@notes.teradyne.com"
+      },
+      {
+         "from": "rick_schneider@notes.teradyne.com",
+         "line": 77,
+         "rawfrom": "rick_schneider@notes.teradyne.com on 14-11-2000 10:12:32 PM\n",
+         "source": "email",
+         "to": "\"Dziura, Richard\" <richard.dziura@superiorelectric.com>"
+      },
+      {
+         "from": "richard.dziura@superiorelectric.com",
+         "line": 98,
+         "rawfrom": "richard.dziura@superiorelectric.com",
+         "source": "valid",
+         "to": "\"'Bob Prytko'\" <bprytko@sepracor.com>, \"'saealumni@wpi.edu'\""
+      },
+      {
+         "from": "bprytko@sepracor.com",
+         "line": 118,
+         "rawfrom": "    Bob Prytko [SMTP:bprytko@sepracor.com]\n",
+         "source": "email",
+         "to": "'saealumni@wpi.edu'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lewis-a/discussion_threads/21.",
+   "hops": [
+      {
+         "from": "rbillbrough@yahoo.com",
+         "line": 4,
+         "rawfrom": "rbillbrough@yahoo.com\r\n",
+         "source": "valid",
+         "to": "steve14t@yahoo.com, edt@transicoil.com, terry.walsh@avnet.com,"
+      },
+      {
+         "from": "lizmunson@yahoo.com",
+         "line": 41,
+         "rawfrom": "ELIZABETH MUNSON <lizmunson@yahoo.com>\n",
+         "source": "email",
+         "to": "rbillbrough@yahoo.com"
+      },
+      {
+         "from": "jenim24@aol.com",
+         "line": 65,
+         "rawfrom": "Jenim24@aol.com\n",
+         "source": "valid",
+         "to": "kurt.borns@meristar.com, lizmunson@yahoo.com, dancing_kd_ladybug@yahoo.com"
+      },
+      {
+         "from": "smiller@newsoft.com",
+         "line": 84,
+         "rawfrom": "smiller@newsoft.com\n",
+         "source": "valid",
+         "to": "Jenim24@aol.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/lewis-a/discussion_threads/22.",
+   "hops": [
+      {
+         "from": "andrew.lewis@enron.com",
+         "line": 4,
+         "rawfrom": "andrew.lewis@enron.com\r\n",
+         "source": "valid",
+         "to": "sthorne@synagro.com"
+      },
+      {
+         "from": "lizmunson@yahoo.com",
+         "line": 56,
+         "rawfrom": "ELIZABETH MUNSON <lizmunson@yahoo.com>\r\n",
+         "source": "email",
+         "to": "rbillbrough@yahoo.com"
+      },
+      {
+         "from": "jenim24@aol.com",
+         "line": 82,
+         "rawfrom": "Jenim24@aol.com\r\n",
+         "source": "valid",
+         "to": "kurt.borns@meristar.com, lizmunson@yahoo.com, dancing_kd_ladybug@yahoo.="
+      },
+      {
+         "from": "smiller@newsoft.com",
+         "line": 107,
+         "rawfrom": "smiller@newsoft.com\r\n",
+         "source": "valid",
+         "to": "Jenim24@aol.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/lewis-a/discussion_threads/26.",
+   "hops": [
+      {
+         "from": "racer91@aol.com",
+         "line": 4,
+         "rawfrom": "racer91@aol.com\r\n",
+         "source": "valid",
+         "to": "vance.carter@ni.com, rick_schneider@notes.teradyne.com"
+      },
+      {
+         "from": "rick_schneider@notes.teradyne.com",
+         "line": 106,
+         "rawfrom": "rick_schneider@notes.teradyne.com on 14-11-2000 10:12:32 PM \n",
+         "source": "email",
+         "to": "??\"Dziura, Richard\" <richard.dziura@superiorelectric.com>"
+      },
+      {
+         "from": "richard.dziura@superiorelectric.com",
+         "line": 127,
+         "rawfrom": "richard.dziura@superiorelectric.com",
+         "source": "valid",
+         "to": "??\"'Bob Prytko'\" <bprytko@sepracor.com>, \"'saealumni@wpi.edu'\""
+      },
+      {
+         "from": "bprytko@sepracor.com",
+         "line": 147,
+         "rawfrom": "????Bob Prytko [SMTP:bprytko@sepracor.com] \n",
+         "source": "email",
+         "to": "?'saealumni@wpi.edu'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lewis-a/_sent_mail/21.",
+   "hops": [
+      {
+         "from": "andrew.lewis@enron.com",
+         "line": 4,
+         "rawfrom": "andrew.lewis@enron.com\r\n",
+         "source": "valid",
+         "to": "sthorne@synagro.com"
+      },
+      {
+         "from": "lizmunson@yahoo.com",
+         "line": 56,
+         "rawfrom": "ELIZABETH MUNSON <lizmunson@yahoo.com>\r\n",
+         "source": "email",
+         "to": "rbillbrough@yahoo.com"
+      },
+      {
+         "from": "jenim24@aol.com",
+         "line": 82,
+         "rawfrom": "Jenim24@aol.com\r\n",
+         "source": "valid",
+         "to": "kurt.borns@meristar.com, lizmunson@yahoo.com, dancing_kd_ladybug@yahoo.="
+      },
+      {
+         "from": "smiller@newsoft.com",
+         "line": 107,
+         "rawfrom": "smiller@newsoft.com\r\n",
+         "source": "valid",
+         "to": "Jenim24@aol.com"
+      }
+   ],
+   "skipped": 2
+}
+]

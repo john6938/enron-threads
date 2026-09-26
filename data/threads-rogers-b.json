@@ -1,0 +1,2605 @@
+[
+{
+   "file": "/home/jb/maildir/rogers-b/genco_jv_ipo/282.",
+   "hops": [
+      {
+         "from": "mitch.robinson@enron.com",
+         "line": 4,
+         "rawfrom": "mitch.robinson@enron.com\r\n",
+         "source": "valid",
+         "to": "don.miller@enron.com"
+      },
+      {
+         "from": "michelle.april@ps.ge.com",
+         "line": 31,
+         "rawfrom": "michelle.april@ps.ge.com",
+         "source": "valid",
+         "to": "mitch.robinson@enron.com, ross.newlin@enron.com"
+      },
+      {
+         "from": "mitch.robinson@enron.com",
+         "line": 68,
+         "rawfrom": "Mitch.Robinson@enron.com [mailto:Mitch.Robinson@enron.com]\n",
+         "source": "email",
+         "to": "michelle.april@ps.ge.com"
+      },
+      {
+         "from": "michelle.april@ps.ge.com",
+         "line": 140,
+         "rawfrom": "michelle.april@ps.ge.com on 09/25/2000 11:36:54 AM\n",
+         "source": "email",
+         "to": "mitch.robinson@enron.com"
+      },
+      {
+         "from": "michaelj.murphy@ps.ge.com",
+         "line": 156,
+         "rawfrom": "michaelj.murphy@ps.ge.com\n",
+         "source": "valid",
+         "to": "mitch.robinson@enron"
+      },
+      {
+         "from": "michelle.april@ps.ge.com",
+         "line": 240,
+         "rawfrom": "michelle.april@ps.ge.com",
+         "source": "valid",
+         "to": "mitch.robinson@enron.com"
+      },
+      {
+         "from": "michaelj.murphy@ps.ge.com",
+         "line": 255,
+         "rawfrom": "michaelj.murphy@ps.ge.com\n",
+         "source": "valid",
+         "to": "mitch.robinson@enron"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/inbox/136.",
+   "hops": [
+      {
+         "from": "willis.philip@enron.com",
+         "line": 4,
+         "rawfrom": "willis.philip@enron.com\r\n",
+         "source": "valid",
+         "to": "benjamin.rogers@enron.com"
+      },
+      {
+         "from": "amyb@industrialinfo.com",
+         "line": 23,
+         "rawfrom": "\t\"Amy Brashear\" <amyb@industrialinfo.com>@ENRON [mailto:IMCEANOTES-+22Amy+20Brashear+22+20+3Camyb+40industrialinfo+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Philip, Willis"
+      },
+      {
+         "from": "willis.philip@enron.com",
+         "line": 38,
+         "rawfrom": "<Willis.Philip@enron.com>\n",
+         "source": "email",
+         "to": "<amyb@industrialinfo.com>"
+      },
+      {
+         "from": "amyb@industrialinfo.com",
+         "line": 55,
+         "rawfrom": "  \"Amy Brashear\" <amyb@industrialinfo.com>@ENRON\n",
+         "source": "email",
+         "to": "Philip, Willis"
+      },
+      {
+         "from": "willis.philip@enron.com",
+         "line": 73,
+         "rawfrom": "Philip, Willis <Willis.Philip@enron.com>\n",
+         "source": "email",
+         "to": "<outages@focusmarketing.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/all_documents/1313.",
+   "hops": [
+      {
+         "from": "andrews@calpine.com",
+         "line": 4,
+         "rawfrom": "andrews@calpine.com\r\n",
+         "source": "valid",
+         "to": "benjamin.rogers@enron.com"
+      },
+      {
+         "from": "tyler.hearon@nyc.rabobank.com",
+         "line": 21,
+         "rawfrom": "Tyler.Hearon@nyc.rabobank.com\n",
+         "source": "valid",
+         "to": "clintc@rocketball.com; johnston_nicholas@jpmorgan.com;"
+      },
+      {
+         "from": "clintc@rocketball.com",
+         "line": 50,
+         "rawfrom": "Clint Cobb [mailto:clintc@rocketball.com]\n",
+         "source": "email",
+         "to": "'Nicholas Johnston-Advisory'; Rpaddock@Hotmail.Com;"
+      },
+      {
+         "from": "johnston_nicholas@jpmorgan.com",
+         "line": 70,
+         "rawfrom": "Nicholas Johnston-Advisory [mailto:johnston_nicholas@jpmorgan.com]\n",
+         "source": "email",
+         "to": "Rpaddock@Hotmail.Com; Espinosa_Miguel@Gsb.Stanford.Edu;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/all_documents/2105.",
+   "hops": [
+      {
+         "from": "dgioffre@hotmail.com",
+         "line": 4,
+         "rawfrom": "dgioffre@hotmail.com\r\n",
+         "source": "valid",
+         "to": "aa_4@yahoo.com, kbrafman@hotmail.com, jbukzin@christianacare.org,"
+      },
+      {
+         "from": "dmill002@hotmail.com",
+         "line": 28,
+         "rawfrom": "\"Danielle Miller\" <dmill002@hotmail.com>\n",
+         "source": "email",
+         "to": "dgioffre@hotmail.com"
+      },
+      {
+         "from": "donald.miller@mindspring.com",
+         "line": 36,
+         "rawfrom": "\"Donald E. Miller\" <donald.miller@mindspring.com>\n",
+         "source": "email",
+         "to": "\"Danielle Miller\" <dmill002@hotmail.com>"
+      },
+      {
+         "from": "sharon.madsen@bdk.com",
+         "line": 45,
+         "rawfrom": "Sharon.Madsen@bdk.com [mailto:Sharon.Madsen@bdk.com]\n",
+         "source": "email",
+         "to": "donald.miller@mindspring.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/all_documents/1307.",
+   "hops": [
+      {
+         "from": "tyler.hearon@nyc.rabobank.com",
+         "line": 4,
+         "rawfrom": "tyler.hearon@nyc.rabobank.com\r\n",
+         "source": "valid",
+         "to": "andrews@calpine.com, bryan.kimzey@csfb.com, mark@junell.cc,"
+      },
+      {
+         "from": "andrews@calpine.com",
+         "line": 30,
+         "rawfrom": "Andrew Slocum [mailto:AndrewS@calpine.com]\n",
+         "source": "email",
+         "to": "'Kimzey, Bryan'; 'Mark A. Junell'; Andrew Slocum; 'Nicholas"
+      },
+      {
+         "from": "bryan.kimzey@csfb.com",
+         "line": 44,
+         "rawfrom": "Kimzey, Bryan [mailto:bryan.kimzey@csfb.com]\n",
+         "source": "email",
+         "to": "'Mark A. Junell'; Andrew Slocum; 'Nicholas Johnston-Advisory';"
+      },
+      {
+         "from": "mark@junell.cc",
+         "line": 67,
+         "rawfrom": "Mark A. Junell [SMTP:mark@junell.cc]\n",
+         "source": "email",
+         "to": "Andrew Slocum; 'Nicholas Johnston-Advisory'; Rpaddock@hotmail.com;"
+      },
+      {
+         "from": "andrews@calpine.com",
+         "line": 79,
+         "rawfrom": "Andrew Slocum [mailto:AndrewS@calpine.com]\n",
+         "source": "email",
+         "to": "'Nicholas Johnston-Advisory'; Rpaddock@Hotmail.Com;"
+      },
+      {
+         "from": "johnston_nicholas@jpmorgan.com",
+         "line": 97,
+         "rawfrom": "Nicholas Johnston-Advisory [mailto:johnston_nicholas@jpmorgan.com]\n",
+         "source": "email",
+         "to": "Rpaddock@Hotmail.Com; Espinosa_Miguel@Gsb.Stanford.Edu;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/all_documents/1308.",
+   "hops": [
+      {
+         "from": "andrews@calpine.com",
+         "line": 4,
+         "rawfrom": "andrews@calpine.com\r\n",
+         "source": "valid",
+         "to": "bryan.kimzey@csfb.com, mark@junell.cc, andrews@calpine.com,"
+      },
+      {
+         "from": "bryan.kimzey@csfb.com",
+         "line": 28,
+         "rawfrom": "Kimzey, Bryan [mailto:bryan.kimzey@csfb.com]\n",
+         "source": "email",
+         "to": "'Mark A. Junell'; Andrew Slocum; 'Nicholas Johnston-Advisory';"
+      },
+      {
+         "from": "mark@junell.cc",
+         "line": 51,
+         "rawfrom": "Mark A. Junell [SMTP:mark@junell.cc]\n",
+         "source": "email",
+         "to": "Andrew Slocum; 'Nicholas Johnston-Advisory'; Rpaddock@hotmail.com;"
+      },
+      {
+         "from": "andrews@calpine.com",
+         "line": 63,
+         "rawfrom": "Andrew Slocum [mailto:AndrewS@calpine.com]\n",
+         "source": "email",
+         "to": "'Nicholas Johnston-Advisory'; Rpaddock@Hotmail.Com;"
+      },
+      {
+         "from": "johnston_nicholas@jpmorgan.com",
+         "line": 81,
+         "rawfrom": "Nicholas Johnston-Advisory [mailto:johnston_nicholas@jpmorgan.com]\n",
+         "source": "email",
+         "to": "Rpaddock@Hotmail.Com; Espinosa_Miguel@Gsb.Stanford.Edu;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/all_documents/1309.",
+   "hops": [
+      {
+         "from": "bryan.kimzey@csfb.com",
+         "line": 4,
+         "rawfrom": "bryan.kimzey@csfb.com\r\n",
+         "source": "valid",
+         "to": "mark@junell.cc, andrews@calpine.com, johnston_nicholas@jpmorgan.com,"
+      },
+      {
+         "from": "mark@junell.cc",
+         "line": 36,
+         "rawfrom": "Mark A. Junell [SMTP:mark@junell.cc]\n",
+         "source": "email",
+         "to": "Andrew Slocum; 'Nicholas Johnston-Advisory'; Rpaddock@hotmail.com;"
+      },
+      {
+         "from": "andrews@calpine.com",
+         "line": 48,
+         "rawfrom": "Andrew Slocum [mailto:AndrewS@calpine.com]\n",
+         "source": "email",
+         "to": "'Nicholas Johnston-Advisory'; Rpaddock@Hotmail.Com;"
+      },
+      {
+         "from": "johnston_nicholas@jpmorgan.com",
+         "line": 66,
+         "rawfrom": "Nicholas Johnston-Advisory [mailto:johnston_nicholas@jpmorgan.com]\n",
+         "source": "email",
+         "to": "Rpaddock@Hotmail.Com; Espinosa_Miguel@Gsb.Stanford.Edu;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/all_documents/781.",
+   "hops": [
+      {
+         "from": "mitch.robinson@enron.com",
+         "line": 4,
+         "rawfrom": "mitch.robinson@enron.com\r\n",
+         "source": "valid",
+         "to": "don.miller@enron.com"
+      },
+      {
+         "from": "michelle.april@ps.ge.com",
+         "line": 31,
+         "rawfrom": "michelle.april@ps.ge.com",
+         "source": "valid",
+         "to": "mitch.robinson@enron.com, ross.newlin@enron.com"
+      },
+      {
+         "from": "mitch.robinson@enron.com",
+         "line": 68,
+         "rawfrom": "Mitch.Robinson@enron.com [mailto:Mitch.Robinson@enron.com]\n",
+         "source": "email",
+         "to": "michelle.april@ps.ge.com"
+      },
+      {
+         "from": "michelle.april@ps.ge.com",
+         "line": 140,
+         "rawfrom": "michelle.april@ps.ge.com on 09/25/2000 11:36:54 AM\n",
+         "source": "email",
+         "to": "mitch.robinson@enron.com"
+      },
+      {
+         "from": "michaelj.murphy@ps.ge.com",
+         "line": 156,
+         "rawfrom": "michaelj.murphy@ps.ge.com\n",
+         "source": "valid",
+         "to": "mitch.robinson@enron"
+      },
+      {
+         "from": "michelle.april@ps.ge.com",
+         "line": 240,
+         "rawfrom": "michelle.april@ps.ge.com",
+         "source": "valid",
+         "to": "mitch.robinson@enron.com"
+      },
+      {
+         "from": "michaelj.murphy@ps.ge.com",
+         "line": 255,
+         "rawfrom": "michaelj.murphy@ps.ge.com\n",
+         "source": "valid",
+         "to": "mitch.robinson@enron"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/all_documents/1301.",
+   "hops": [
+      {
+         "from": "johnston_nicholas@jpmorgan.com",
+         "line": 4,
+         "rawfrom": "johnston_nicholas@jpmorgan.com\r\n",
+         "source": "valid",
+         "to": "bryan.kimzey@csfb.com"
+      },
+      {
+         "from": "bryan.kimzey@csfb.com",
+         "line": 40,
+         "rawfrom": "bryan.kimzey@csfb.com on 06/06/2000 03:58:08\n",
+         "source": "email",
+         "to": "Tyler.Hearon@nyc.rabobank.com, AndrewS@calpine.com, mark@junell.cc,"
+      },
+      {
+         "from": "tyler.hearon@nyc.rabobank.com",
+         "line": 58,
+         "rawfrom": "  Tyler.Hearon@nyc.rabobank.com [SMTP:Tyler.Hearon@nyc.rabobank.com]\n",
+         "source": "email",
+         "to": "AndrewS@calpine.com; bryan.kimzey@csfb.com; mark@junell.cc;"
+      },
+      {
+         "from": "andrews@calpine.com",
+         "line": 73,
+         "rawfrom": "Andrew Slocum [mailto:AndrewS@calpine.com]\n",
+         "source": "email",
+         "to": "'Kimzey, Bryan'; 'Mark A. Junell'; Andrew Slocum; 'Nicholas"
+      },
+      {
+         "from": "bryan.kimzey@csfb.com",
+         "line": 87,
+         "rawfrom": "Kimzey, Bryan [mailto:bryan.kimzey@csfb.com]\n",
+         "source": "email",
+         "to": "'Mark A. Junell'; Andrew Slocum; 'Nicholas Johnston-Advisory';"
+      },
+      {
+         "from": "mark@junell.cc",
+         "line": 112,
+         "rawfrom": "Mark A. Junell [SMTP:mark@junell.cc]\n",
+         "source": "email",
+         "to": "Andrew Slocum; 'Nicholas Johnston-Advisory'; Rpaddock@hotmail.com;"
+      },
+      {
+         "from": "andrews@calpine.com",
+         "line": 125,
+         "rawfrom": "Andrew Slocum [mailto:AndrewS@calpine.com]\n",
+         "source": "email",
+         "to": "'Nicholas Johnston-Advisory'; Rpaddock@Hotmail.Com;"
+      },
+      {
+         "from": "johnston_nicholas@jpmorgan.com",
+         "line": 144,
+         "rawfrom": "Nicholas Johnston-Advisory [mailto:johnston_nicholas@jpmorgan.com]\n",
+         "source": "email",
+         "to": "Rpaddock@Hotmail.Com; Espinosa_Miguel@Gsb.Stanford.Edu;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/all_documents/400.",
+   "hops": [
+      {
+         "from": "christopher.choby@us.pwcglobal.com",
+         "line": 4,
+         "rawfrom": "christopher.choby@us.pwcglobal.com\r\n",
+         "source": "valid",
+         "to": "alnosh@aol.com, wedgedunn@aol.com, lbecker@cnmc.org,"
+      },
+      {
+         "from": "amy_pittman@timeinc.com",
+         "line": 46,
+         "rawfrom": "Amy_Pittman@timeinc.com\n",
+         "source": "valid",
+         "to": "treeswithteeth@yahoo.com, august_west62@hotmail.com,"
+      },
+      {
+         "from": "alleycatmurphy@aol.comatinternet",
+         "line": 67,
+         "rawfrom": "alleycatmurphy@aol.comATINTERNET",
+         "source": "valid",
+         "to": "andrew@xeyemedia.com AT INTERNET"
+      },
+      {
+         "from": "alleycatmurphy@aol.comatinternet",
+         "line": 68,
+         "rawfrom": "alleycatmurphy@aol.comATINTERNET",
+         "source": "valid",
+         "to": "bmoreno@wcom.net AT INTERNET"
+      },
+      {
+         "from": "alleycatmurphy@aol.comatinternet",
+         "line": 69,
+         "rawfrom": "alleycatmurphy@aol.comATINTERNET",
+         "source": "valid",
+         "to": "cainej@symbol.com AT INTERNET"
+      },
+      {
+         "from": "andrew@xeyemedia.comatinternet",
+         "line": 70,
+         "rawfrom": "andrew@xeyemedia.comATINTERNET",
+         "source": "valid",
+         "to": "chip@823productions.com AT INTERNET"
+      },
+      {
+         "from": "bmoreno@wcom.netatinternet",
+         "line": 71,
+         "rawfrom": "bmoreno@wcom.netATINTERNET",
+         "source": "valid",
+         "to": "christine.cook@csfb.com AT INTERNET"
+      },
+      {
+         "from": "cainej@symbol.comatinternet",
+         "line": 72,
+         "rawfrom": "cainej@symbol.comATINTERNET",
+         "source": "valid",
+         "to": "christy.ufferfilge@iqpc.com AT INTERNET"
+      },
+      {
+         "from": "christine.cook@csfb.comatinternet",
+         "line": 74,
+         "rawfrom": "christine.cook@csfb.comATINTERNET",
+         "source": "valid",
+         "to": "dbarbosa@tommy-usa.com AT INTERNET"
+      },
+      {
+         "from": "christy.ufferfilge@iqpc.comatinternet",
+         "line": 75,
+         "rawfrom": "christy.ufferfilge@iqpc.comATINTERNET",
+         "source": "valid",
+         "to": "deirdreglynn@skills.com AT INTERNET"
+      },
+      {
+         "from": "d.greto@worldnet.att.netatinternet",
+         "line": 76,
+         "rawfrom": "d.greto@worldnet.att.netATINTERNET",
+         "source": "valid",
+         "to": "Irish1434@aol.com AT INTERNET"
+      },
+      {
+         "from": "dbarbosa@tommy-usa.comatinternet",
+         "line": 77,
+         "rawfrom": "dbarbosa@tommy-usa.comATINTERNET",
+         "source": "valid",
+         "to": "jdemarle@danfords.com AT INTERNET"
+      },
+      {
+         "from": "deirdreglynn@skills.comatinternet",
+         "line": 78,
+         "rawfrom": "deirdreglynn@skills.comATINTERNET",
+         "source": "valid",
+         "to": "jjarb@worldnet.att.net AT INTERNET"
+      },
+      {
+         "from": "irish1434@aol.comatinternet",
+         "line": 79,
+         "rawfrom": "Irish1434@aol.comATINTERNET",
+         "source": "valid",
+         "to": "jpanc@yahoo.com AT INTERNET"
+      },
+      {
+         "from": "jdemarle@danfords.comatinternet",
+         "line": 80,
+         "rawfrom": "jdemarle@danfords.comATINTERNET",
+         "source": "valid",
+         "to": "Kim.Mancuso@nbc.com AT INTERNET"
+      },
+      {
+         "from": "jjarb@worldnet.att.netatinternet",
+         "line": 81,
+         "rawfrom": "jjarb@worldnet.att.netATINTERNET",
+         "source": "valid",
+         "to": "lgaron@email.usps.gov AT INTERNET"
+      },
+      {
+         "from": "jpanc@yahoo.comatinternet",
+         "line": 82,
+         "rawfrom": "jpanc@yahoo.comATINTERNET",
+         "source": "valid",
+         "to": "LIGONZALEZ@SANKYO-USA.COM AT INTERNET"
+      },
+      {
+         "from": "kim.mancuso@nbc.comatinternet",
+         "line": 83,
+         "rawfrom": "Kim.Mancuso@nbc.comATINTERNET",
+         "source": "valid",
+         "to": "LINDA_M_JACKSON@uhc.COM AT INTERNET"
+      },
+      {
+         "from": "lgaron@email.usps.govatinternet",
+         "line": 84,
+         "rawfrom": "lgaron@email.usps.govATINTERNET",
+         "source": "valid",
+         "to": "magdas@ibm.net AT INTERNET"
+      },
+      {
+         "from": "ligonzalez@sankyo-usa.comatinternet",
+         "line": 85,
+         "rawfrom": "LIGONZALEZ@SANKYO-USA.COMATINTERNET",
+         "source": "valid",
+         "to": "mbinsol@nycedc.com AT INTERNET"
+      },
+      {
+         "from": "linda_m_jackson@uhc.comatinternet",
+         "line": 86,
+         "rawfrom": "LINDA_M_JACKSON@uhc.COMATINTERNET",
+         "source": "valid",
+         "to": "mdenby@sunapparel.com AT INTERNET"
+      },
+      {
+         "from": "magdas@ibm.netatinternet",
+         "line": 87,
+         "rawfrom": "magdas@ibm.netATINTERNET",
+         "source": "valid",
+         "to": "michelle.bracher@fmr.com AT INTERNET"
+      },
+      {
+         "from": "mbinsol@nycedc.comatinternet",
+         "line": 88,
+         "rawfrom": "mbinsol@nycedc.comATINTERNET",
+         "source": "valid",
+         "to": "mike_murphy@bhimpact.com AT INTERNET"
+      },
+      {
+         "from": "mdenby@sunapparel.comatinternet",
+         "line": 89,
+         "rawfrom": "mdenby@sunapparel.comATINTERNET",
+         "source": "valid",
+         "to": "mindies@ibm.net AT INTERNET"
+      },
+      {
+         "from": "michelle.bracher@fmr.comatinternet",
+         "line": 90,
+         "rawfrom": "michelle.bracher@fmr.comATINTERNET",
+         "source": "valid",
+         "to": "mis4ol@aol.com AT INTERNET"
+      },
+      {
+         "from": "mike_murphy@bhimpact.comatinternet",
+         "line": 91,
+         "rawfrom": "mike_murphy@bhimpact.comATINTERNET",
+         "source": "valid",
+         "to": "mresendes@pfn.com AT INTERNET"
+      },
+      {
+         "from": "mindies@ibm.netatinternet",
+         "line": 92,
+         "rawfrom": "mindies@ibm.netATINTERNET",
+         "source": "valid",
+         "to": "oigho@aol.com AT INTERNET"
+      },
+      {
+         "from": "mis4ol@aol.comatinternet",
+         "line": 93,
+         "rawfrom": "mis4ol@aol.comATINTERNET",
+         "source": "valid",
+         "to": "ruckusmd@hotmail.com AT INTERNET"
+      },
+      {
+         "from": "mresendes@pfn.comatinternet",
+         "line": 94,
+         "rawfrom": "mresendes@pfn.comATINTERNET",
+         "source": "valid",
+         "to": "sachita@bellsouth.net AT INTERNET"
+      },
+      {
+         "from": "oigho@aol.comatinternet",
+         "line": 95,
+         "rawfrom": "oigho@aol.comATINTERNET",
+         "source": "valid",
+         "to": "sfranci1@HCSUS.JNJ.com AT INTERNET"
+      },
+      {
+         "from": "ruckusmd@hotmail.comatinternet",
+         "line": 96,
+         "rawfrom": "ruckusmd@hotmail.comATINTERNET",
+         "source": "valid",
+         "to": "sherzner@perriergroup.com AT INTERNET"
+      },
+      {
+         "from": "sachita@bellsouth.netatinternet",
+         "line": 97,
+         "rawfrom": "sachita@bellsouth.netATINTERNET",
+         "source": "valid",
+         "to": "streimje@mattel.com AT INTERNET"
+      },
+      {
+         "from": "sfranci1@hcsus.jnj.comatinternet",
+         "line": 98,
+         "rawfrom": "sfranci1@HCSUS.JNJ.comATINTERNET",
+         "source": "valid",
+         "to": "suemart@aol.com AT INTERNET"
+      },
+      {
+         "from": "sherzner@perriergroup.comatinternet",
+         "line": 99,
+         "rawfrom": "sherzner@perriergroup.comATINTERNET",
+         "source": "valid",
+         "to": "sumart1@aol.com AT INTERNET"
+      },
+      {
+         "from": "streimje@mattel.comatinternet",
+         "line": 100,
+         "rawfrom": "streimje@mattel.comATINTERNET",
+         "source": "valid",
+         "to": "tgosse@ikon.com AT INTERNET"
+      },
+      {
+         "from": "suemart@aol.comatinternet",
+         "line": 101,
+         "rawfrom": "suemart@aol.comATINTERNET",
+         "source": "valid",
+         "to": "vivianl@screamingmedia.com AT INTERNET"
+      },
+      {
+         "from": "sumart1@aol.comatinternet",
+         "line": 102,
+         "rawfrom": "sumart1@aol.comATINTERNET",
+         "source": "valid",
+         "to": "vocalnote@hotmail.com AT INTERNET"
+      },
+      {
+         "from": "tgosse@ikon.comatinternet",
+         "line": 103,
+         "rawfrom": "tgosse@ikon.comATINTERNET",
+         "source": "valid",
+         "to": "vshpigler@thestreet.com AT INTERNET"
+      },
+      {
+         "from": "vivianl@screamingmedia.comatinternet",
+         "line": 104,
+         "rawfrom": "vivianl@screamingmedia.comATINTERNET",
+         "source": "valid",
+         "to": "wforrester@polojeans.com AT INTERNET"
+      },
+      {
+         "from": "krcollar@hotmail.com",
+         "line": 109,
+         "rawfrom": "    \"Kristen Collar\" <krcollar@hotmail.com> AT TIME_INC\n",
+         "source": "email",
+         "to": "starrgazing@peoplepc.com AT TIME_INC"
+      },
+      {
+         "from": "krcollar@hotmail.com",
+         "line": 110,
+         "rawfrom": "krcollar@hotmail.com",
+         "source": "valid",
+         "to": "CLewis1020@aol.com AT TIME_INC"
+      },
+      {
+         "from": "krcollar@hotmail.com",
+         "line": 111,
+         "rawfrom": "krcollar@hotmail.com",
+         "source": "valid",
+         "to": "bigdaddyjta@yahoo.com AT TIME_INC"
+      },
+      {
+         "from": "starrgazing@peoplepc.comattime_inc",
+         "line": 112,
+         "rawfrom": "starrgazing@peoplepc.comATTIME_INC",
+         "source": "valid",
+         "to": "katydidit76@hotmail.com AT TIME_INC"
+      },
+      {
+         "from": "clewis1020@aol.comattime_inc",
+         "line": 113,
+         "rawfrom": "CLewis1020@aol.comATTIME_INC",
+         "source": "valid",
+         "to": "tammybncali@onebox.com AT TIME_INC"
+      },
+      {
+         "from": "bigdaddyjta@yahoo.comattime_inc",
+         "line": 114,
+         "rawfrom": "bigdaddyjta@yahoo.comATTIME_INC",
+         "source": "valid",
+         "to": "Yolanda_Shaw@timeinc.com AT TIME_INC"
+      },
+      {
+         "from": "katydidit76@hotmail.comattime_inc",
+         "line": 115,
+         "rawfrom": "katydidit76@hotmail.comATTIME_INC",
+         "source": "valid",
+         "to": "JBilancini@tburg.k12.ny.us AT TIME_INC"
+      },
+      {
+         "from": "tammybncali@onebox.comattime_inc",
+         "line": 116,
+         "rawfrom": "tammybncali@onebox.comATTIME_INC",
+         "source": "valid",
+         "to": "dfox2@twcny.rr.com AT TIME_INC"
+      },
+      {
+         "from": "yolanda_shaw@timeinc.comattime_inc",
+         "line": 117,
+         "rawfrom": "Yolanda_Shaw@timeinc.comATTIME_INC",
+         "source": "valid",
+         "to": "rmiles@gpd.fulton.ny.us AT TIME_INC"
+      },
+      {
+         "from": "dfox2@twcny.rr.comattime_inc",
+         "line": 119,
+         "rawfrom": "dfox2@twcny.rr.comATTIME_INC",
+         "source": "valid",
+         "to": "dcoolar@twcny.rr.com AT TIME_INC"
+      },
+      {
+         "from": "rmiles@gpd.fulton.ny.usattime_inc",
+         "line": 120,
+         "rawfrom": "rmiles@gpd.fulton.ny.usATTIME_INC",
+         "source": "valid",
+         "to": "Kmgalb73@aol.com AT TIME_INC"
+      },
+      {
+         "from": "jeterchick@hotmail.comattime_inc",
+         "line": 121,
+         "rawfrom": "jeterchick@hotmail.comATTIME_INC",
+         "source": "valid",
+         "to": "She3099@juno.com AT TIME_INC"
+      },
+      {
+         "from": "dcoolar@twcny.rr.comattime_inc",
+         "line": 122,
+         "rawfrom": "dcoolar@twcny.rr.comATTIME_INC",
+         "source": "valid",
+         "to": "Weavmann644@cs.com AT TIME_INC"
+      },
+      {
+         "from": "kmgalb73@aol.comattime_inc",
+         "line": 123,
+         "rawfrom": "Kmgalb73@aol.comATTIME_INC",
+         "source": "valid",
+         "to": "emitch13@gwis2.circ.gwu.edu AT TIME_INC"
+      },
+      {
+         "from": "she3099@juno.comattime_inc",
+         "line": 124,
+         "rawfrom": "She3099@juno.comATTIME_INC",
+         "source": "valid",
+         "to": "GCOLLAR@HOTMAIL.COM AT TIME_INC"
+      },
+      {
+         "from": "weavmann644@cs.comattime_inc",
+         "line": 125,
+         "rawfrom": "Weavmann644@cs.comATTIME_INC",
+         "source": "valid",
+         "to": "mindies@attglobal.net AT TIME_INC"
+      },
+      {
+         "from": "gcollar@hotmail.comattime_inc",
+         "line": 127,
+         "rawfrom": "GCOLLAR@HOTMAIL.COMATTIME_INC",
+         "source": "valid",
+         "to": "sarahf18@hotmail.com AT TIME_INC"
+      },
+      {
+         "from": "mindies@attglobal.netattime_inc",
+         "line": 128,
+         "rawfrom": "mindies@attglobal.netATTIME_INC",
+         "source": "valid",
+         "to": "SCOLLAR@groton.cnyric.org AT TIME_INC"
+      }
+   ],
+   "skipped": 13
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/all_documents/1164.",
+   "hops": [
+      {
+         "from": "pattyd90@hotmail.com",
+         "line": 4,
+         "rawfrom": "pattyd90@hotmail.com\r\n",
+         "source": "valid",
+         "to": "benjamin.rogers@enron.com"
+      },
+      {
+         "from": "rjlyons@hotmail.com",
+         "line": 18,
+         "rawfrom": "\"Robert Lyons\" <rjlyons@hotmail.com>\n",
+         "source": "email",
+         "to": "pattyd90@hotmail.com"
+      },
+      {
+         "from": "pattyd90@hotmail.com",
+         "line": 30,
+         "rawfrom": "\"Patricia Donahue\" <pattyd90@hotmail.com>\n",
+         "source": "email",
+         "to": "rjlyons@hotmail.com"
+      },
+      {
+         "from": "rjlyons@hotmail.com",
+         "line": 46,
+         "rawfrom": "\"Robert Lyons\" <rjlyons@hotmail.com>\n",
+         "source": "email",
+         "to": "pattyd90@hotmail.com"
+      },
+      {
+         "from": "pattyd90@hotmail.com",
+         "line": 67,
+         "rawfrom": "\"Patricia Donahue\" <pattyd90@hotmail.com>\n",
+         "source": "email",
+         "to": "rjlyons@hotmail.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/all_documents/1306.",
+   "hops": [
+      {
+         "from": "bryan.kimzey@csfb.com",
+         "line": 4,
+         "rawfrom": "bryan.kimzey@csfb.com\r\n",
+         "source": "valid",
+         "to": "tyler.hearon@nyc.rabobank.com, andrews@calpine.com, mark@junell.cc,"
+      },
+      {
+         "from": "tyler.hearon@nyc.rabobank.com",
+         "line": 28,
+         "rawfrom": "Tyler.Hearon@nyc.rabobank.com [SMTP:Tyler.Hearon@nyc.rabobank.com]\n",
+         "source": "email",
+         "to": "AndrewS@calpine.com; bryan.kimzey@csfb.com; mark@junell.cc;"
+      },
+      {
+         "from": "andrews@calpine.com",
+         "line": 43,
+         "rawfrom": "Andrew Slocum [mailto:AndrewS@calpine.com]\n",
+         "source": "email",
+         "to": "'Kimzey, Bryan'; 'Mark A. Junell'; Andrew Slocum; 'Nicholas"
+      },
+      {
+         "from": "bryan.kimzey@csfb.com",
+         "line": 57,
+         "rawfrom": "Kimzey, Bryan [mailto:bryan.kimzey@csfb.com]\n",
+         "source": "email",
+         "to": "'Mark A. Junell'; Andrew Slocum; 'Nicholas Johnston-Advisory';"
+      },
+      {
+         "from": "mark@junell.cc",
+         "line": 82,
+         "rawfrom": "Mark A. Junell [SMTP:mark@junell.cc]\n",
+         "source": "email",
+         "to": "Andrew Slocum; 'Nicholas Johnston-Advisory'; Rpaddock@hotmail.com;"
+      },
+      {
+         "from": "andrews@calpine.com",
+         "line": 95,
+         "rawfrom": "Andrew Slocum [mailto:AndrewS@calpine.com]\n",
+         "source": "email",
+         "to": "'Nicholas Johnston-Advisory'; Rpaddock@Hotmail.Com;"
+      },
+      {
+         "from": "johnston_nicholas@jpmorgan.com",
+         "line": 114,
+         "rawfrom": "Nicholas Johnston-Advisory [mailto:johnston_nicholas@jpmorgan.com]\n",
+         "source": "email",
+         "to": "Rpaddock@Hotmail.Com; Espinosa_Miguel@Gsb.Stanford.Edu;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/deleted_items/253.",
+   "hops": [
+      {
+         "from": "david.yeager@elpaso.com",
+         "line": 4,
+         "rawfrom": "david.yeager@elpaso.com\r\n",
+         "source": "valid",
+         "to": "benjamin.rogers@enron.com"
+      },
+      {
+         "from": "benjamin.rogers@enron.com",
+         "line": 25,
+         "rawfrom": "> From:\tBenjamin.Rogers@enron.com [SMTP:Benjamin.Rogers@enron.com]\n",
+         "source": "email",
+         "to": "Yeager, David"
+      },
+      {
+         "from": "david.yeager@elpaso.com",
+         "line": 33,
+         "rawfrom": "  \"Yeager, David\" <David.Yeager@ElPaso.com>@ENRON\n",
+         "source": "email",
+         "to": "Rogers, Benjamin"
+      },
+      {
+         "from": "benjamin.rogers@enron.com",
+         "line": 43,
+         "rawfrom": "     Rogers, Benjamin [SMTP:Benjamin.Rogers@ENRON.com]\n",
+         "source": "email",
+         "to": "Yeager, David"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/sent_items/66.",
+   "hops": [
+      {
+         "from": "benjamin.rogers@enron.com",
+         "line": 4,
+         "rawfrom": "benjamin.rogers@enron.com\r\n",
+         "source": "valid",
+         "to": "billy.braddock@neg.pge.com"
+      },
+      {
+         "from": "billy.braddock@neg.pge.com",
+         "line": 24,
+         "rawfrom": "\t\"Braddock, Billy\" <Billy.Braddock@neg.pge.com>@ENRON  \n",
+         "source": "email",
+         "to": "'bbraddock@houston.rr.com'; Kristine Braddock (E-mail); Rudy Acevedo (E-mail); Rorschach, Reagan; Kroll, Heather; Macaleb Marshall (E-mail); Rahil Jafry (E-mail); Herndon, Rogers; Rogers, Benjamin"
+      },
+      {
+         "from": "phil.demoes@elpaso.com",
+         "line": 41,
+         "rawfrom": "DeMoes, Phil [mailto:Phil.DeMoes@ElPaso.com]\n",
+         "source": "email",
+         "to": "Alan Kilpatrick (E-mail); Bill Cleneay (E-mail); Bill Ham (E-mail);"
+      },
+      {
+         "from": "kelly.sedlak@chase.com",
+         "line": 73,
+         "rawfrom": "Kelly.Sedlak@chase.com [mailto:Kelly.Sedlak@chase.com]\n",
+         "source": "email",
+         "to": "Rhodes, Duncan; Michael.Sedlak@ni.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/discussion_threads/2.",
+   "hops": [
+      {
+         "from": "dgioffre@hotmail.com",
+         "line": 4,
+         "rawfrom": "dgioffre@hotmail.com\r\n",
+         "source": "valid",
+         "to": "aa_4@yahoo.com, kbrafman@hotmail.com, jbukzin@christianacare.org,"
+      },
+      {
+         "from": "dmill002@hotmail.com",
+         "line": 28,
+         "rawfrom": "\"Danielle Miller\" <dmill002@hotmail.com>\n",
+         "source": "email",
+         "to": "dgioffre@hotmail.com"
+      },
+      {
+         "from": "donald.miller@mindspring.com",
+         "line": 36,
+         "rawfrom": "\"Donald E. Miller\" <donald.miller@mindspring.com>\n",
+         "source": "email",
+         "to": "\"Danielle Miller\" <dmill002@hotmail.com>"
+      },
+      {
+         "from": "sharon.madsen@bdk.com",
+         "line": 45,
+         "rawfrom": "Sharon.Madsen@bdk.com [mailto:Sharon.Madsen@bdk.com]\n",
+         "source": "email",
+         "to": "donald.miller@mindspring.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/discussion_threads/722.",
+   "hops": [
+      {
+         "from": "andrews@calpine.com",
+         "line": 4,
+         "rawfrom": "andrews@calpine.com\r\n",
+         "source": "valid",
+         "to": "bryan.kimzey@csfb.com, mark@junell.cc, andrews@calpine.com,"
+      },
+      {
+         "from": "bryan.kimzey@csfb.com",
+         "line": 28,
+         "rawfrom": "Kimzey, Bryan [mailto:bryan.kimzey@csfb.com]\n",
+         "source": "email",
+         "to": "'Mark A. Junell'; Andrew Slocum; 'Nicholas Johnston-Advisory';"
+      },
+      {
+         "from": "mark@junell.cc",
+         "line": 51,
+         "rawfrom": "Mark A. Junell [SMTP:mark@junell.cc]\n",
+         "source": "email",
+         "to": "Andrew Slocum; 'Nicholas Johnston-Advisory'; Rpaddock@hotmail.com;"
+      },
+      {
+         "from": "andrews@calpine.com",
+         "line": 63,
+         "rawfrom": "Andrew Slocum [mailto:AndrewS@calpine.com]\n",
+         "source": "email",
+         "to": "'Nicholas Johnston-Advisory'; Rpaddock@Hotmail.Com;"
+      },
+      {
+         "from": "johnston_nicholas@jpmorgan.com",
+         "line": 81,
+         "rawfrom": "Nicholas Johnston-Advisory [mailto:johnston_nicholas@jpmorgan.com]\n",
+         "source": "email",
+         "to": "Rpaddock@Hotmail.Com; Espinosa_Miguel@Gsb.Stanford.Edu;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/discussion_threads/1558.",
+   "hops": [
+      {
+         "from": "christopher.choby@us.pwcglobal.com",
+         "line": 4,
+         "rawfrom": "christopher.choby@us.pwcglobal.com\r\n",
+         "source": "valid",
+         "to": "alnosh@aol.com, wedgedunn@aol.com, lbecker@cnmc.org,"
+      },
+      {
+         "from": "amy_pittman@timeinc.com",
+         "line": 46,
+         "rawfrom": "Amy_Pittman@timeinc.com\n",
+         "source": "valid",
+         "to": "treeswithteeth@yahoo.com, august_west62@hotmail.com,"
+      },
+      {
+         "from": "alleycatmurphy@aol.comatinternet",
+         "line": 67,
+         "rawfrom": "alleycatmurphy@aol.comATINTERNET",
+         "source": "valid",
+         "to": "andrew@xeyemedia.com AT INTERNET"
+      },
+      {
+         "from": "alleycatmurphy@aol.comatinternet",
+         "line": 68,
+         "rawfrom": "alleycatmurphy@aol.comATINTERNET",
+         "source": "valid",
+         "to": "bmoreno@wcom.net AT INTERNET"
+      },
+      {
+         "from": "alleycatmurphy@aol.comatinternet",
+         "line": 69,
+         "rawfrom": "alleycatmurphy@aol.comATINTERNET",
+         "source": "valid",
+         "to": "cainej@symbol.com AT INTERNET"
+      },
+      {
+         "from": "andrew@xeyemedia.comatinternet",
+         "line": 70,
+         "rawfrom": "andrew@xeyemedia.comATINTERNET",
+         "source": "valid",
+         "to": "chip@823productions.com AT INTERNET"
+      },
+      {
+         "from": "bmoreno@wcom.netatinternet",
+         "line": 71,
+         "rawfrom": "bmoreno@wcom.netATINTERNET",
+         "source": "valid",
+         "to": "christine.cook@csfb.com AT INTERNET"
+      },
+      {
+         "from": "cainej@symbol.comatinternet",
+         "line": 72,
+         "rawfrom": "cainej@symbol.comATINTERNET",
+         "source": "valid",
+         "to": "christy.ufferfilge@iqpc.com AT INTERNET"
+      },
+      {
+         "from": "christine.cook@csfb.comatinternet",
+         "line": 74,
+         "rawfrom": "christine.cook@csfb.comATINTERNET",
+         "source": "valid",
+         "to": "dbarbosa@tommy-usa.com AT INTERNET"
+      },
+      {
+         "from": "christy.ufferfilge@iqpc.comatinternet",
+         "line": 75,
+         "rawfrom": "christy.ufferfilge@iqpc.comATINTERNET",
+         "source": "valid",
+         "to": "deirdreglynn@skills.com AT INTERNET"
+      },
+      {
+         "from": "d.greto@worldnet.att.netatinternet",
+         "line": 76,
+         "rawfrom": "d.greto@worldnet.att.netATINTERNET",
+         "source": "valid",
+         "to": "Irish1434@aol.com AT INTERNET"
+      },
+      {
+         "from": "dbarbosa@tommy-usa.comatinternet",
+         "line": 77,
+         "rawfrom": "dbarbosa@tommy-usa.comATINTERNET",
+         "source": "valid",
+         "to": "jdemarle@danfords.com AT INTERNET"
+      },
+      {
+         "from": "deirdreglynn@skills.comatinternet",
+         "line": 78,
+         "rawfrom": "deirdreglynn@skills.comATINTERNET",
+         "source": "valid",
+         "to": "jjarb@worldnet.att.net AT INTERNET"
+      },
+      {
+         "from": "irish1434@aol.comatinternet",
+         "line": 79,
+         "rawfrom": "Irish1434@aol.comATINTERNET",
+         "source": "valid",
+         "to": "jpanc@yahoo.com AT INTERNET"
+      },
+      {
+         "from": "jdemarle@danfords.comatinternet",
+         "line": 80,
+         "rawfrom": "jdemarle@danfords.comATINTERNET",
+         "source": "valid",
+         "to": "Kim.Mancuso@nbc.com AT INTERNET"
+      },
+      {
+         "from": "jjarb@worldnet.att.netatinternet",
+         "line": 81,
+         "rawfrom": "jjarb@worldnet.att.netATINTERNET",
+         "source": "valid",
+         "to": "lgaron@email.usps.gov AT INTERNET"
+      },
+      {
+         "from": "jpanc@yahoo.comatinternet",
+         "line": 82,
+         "rawfrom": "jpanc@yahoo.comATINTERNET",
+         "source": "valid",
+         "to": "LIGONZALEZ@SANKYO-USA.COM AT INTERNET"
+      },
+      {
+         "from": "kim.mancuso@nbc.comatinternet",
+         "line": 83,
+         "rawfrom": "Kim.Mancuso@nbc.comATINTERNET",
+         "source": "valid",
+         "to": "LINDA_M_JACKSON@uhc.COM AT INTERNET"
+      },
+      {
+         "from": "lgaron@email.usps.govatinternet",
+         "line": 84,
+         "rawfrom": "lgaron@email.usps.govATINTERNET",
+         "source": "valid",
+         "to": "magdas@ibm.net AT INTERNET"
+      },
+      {
+         "from": "ligonzalez@sankyo-usa.comatinternet",
+         "line": 85,
+         "rawfrom": "LIGONZALEZ@SANKYO-USA.COMATINTERNET",
+         "source": "valid",
+         "to": "mbinsol@nycedc.com AT INTERNET"
+      },
+      {
+         "from": "linda_m_jackson@uhc.comatinternet",
+         "line": 86,
+         "rawfrom": "LINDA_M_JACKSON@uhc.COMATINTERNET",
+         "source": "valid",
+         "to": "mdenby@sunapparel.com AT INTERNET"
+      },
+      {
+         "from": "magdas@ibm.netatinternet",
+         "line": 87,
+         "rawfrom": "magdas@ibm.netATINTERNET",
+         "source": "valid",
+         "to": "michelle.bracher@fmr.com AT INTERNET"
+      },
+      {
+         "from": "mbinsol@nycedc.comatinternet",
+         "line": 88,
+         "rawfrom": "mbinsol@nycedc.comATINTERNET",
+         "source": "valid",
+         "to": "mike_murphy@bhimpact.com AT INTERNET"
+      },
+      {
+         "from": "mdenby@sunapparel.comatinternet",
+         "line": 89,
+         "rawfrom": "mdenby@sunapparel.comATINTERNET",
+         "source": "valid",
+         "to": "mindies@ibm.net AT INTERNET"
+      },
+      {
+         "from": "michelle.bracher@fmr.comatinternet",
+         "line": 90,
+         "rawfrom": "michelle.bracher@fmr.comATINTERNET",
+         "source": "valid",
+         "to": "mis4ol@aol.com AT INTERNET"
+      },
+      {
+         "from": "mike_murphy@bhimpact.comatinternet",
+         "line": 91,
+         "rawfrom": "mike_murphy@bhimpact.comATINTERNET",
+         "source": "valid",
+         "to": "mresendes@pfn.com AT INTERNET"
+      },
+      {
+         "from": "mindies@ibm.netatinternet",
+         "line": 92,
+         "rawfrom": "mindies@ibm.netATINTERNET",
+         "source": "valid",
+         "to": "oigho@aol.com AT INTERNET"
+      },
+      {
+         "from": "mis4ol@aol.comatinternet",
+         "line": 93,
+         "rawfrom": "mis4ol@aol.comATINTERNET",
+         "source": "valid",
+         "to": "ruckusmd@hotmail.com AT INTERNET"
+      },
+      {
+         "from": "mresendes@pfn.comatinternet",
+         "line": 94,
+         "rawfrom": "mresendes@pfn.comATINTERNET",
+         "source": "valid",
+         "to": "sachita@bellsouth.net AT INTERNET"
+      },
+      {
+         "from": "oigho@aol.comatinternet",
+         "line": 95,
+         "rawfrom": "oigho@aol.comATINTERNET",
+         "source": "valid",
+         "to": "sfranci1@HCSUS.JNJ.com AT INTERNET"
+      },
+      {
+         "from": "ruckusmd@hotmail.comatinternet",
+         "line": 96,
+         "rawfrom": "ruckusmd@hotmail.comATINTERNET",
+         "source": "valid",
+         "to": "sherzner@perriergroup.com AT INTERNET"
+      },
+      {
+         "from": "sachita@bellsouth.netatinternet",
+         "line": 97,
+         "rawfrom": "sachita@bellsouth.netATINTERNET",
+         "source": "valid",
+         "to": "streimje@mattel.com AT INTERNET"
+      },
+      {
+         "from": "sfranci1@hcsus.jnj.comatinternet",
+         "line": 98,
+         "rawfrom": "sfranci1@HCSUS.JNJ.comATINTERNET",
+         "source": "valid",
+         "to": "suemart@aol.com AT INTERNET"
+      },
+      {
+         "from": "sherzner@perriergroup.comatinternet",
+         "line": 99,
+         "rawfrom": "sherzner@perriergroup.comATINTERNET",
+         "source": "valid",
+         "to": "sumart1@aol.com AT INTERNET"
+      },
+      {
+         "from": "streimje@mattel.comatinternet",
+         "line": 100,
+         "rawfrom": "streimje@mattel.comATINTERNET",
+         "source": "valid",
+         "to": "tgosse@ikon.com AT INTERNET"
+      },
+      {
+         "from": "suemart@aol.comatinternet",
+         "line": 101,
+         "rawfrom": "suemart@aol.comATINTERNET",
+         "source": "valid",
+         "to": "vivianl@screamingmedia.com AT INTERNET"
+      },
+      {
+         "from": "sumart1@aol.comatinternet",
+         "line": 102,
+         "rawfrom": "sumart1@aol.comATINTERNET",
+         "source": "valid",
+         "to": "vocalnote@hotmail.com AT INTERNET"
+      },
+      {
+         "from": "tgosse@ikon.comatinternet",
+         "line": 103,
+         "rawfrom": "tgosse@ikon.comATINTERNET",
+         "source": "valid",
+         "to": "vshpigler@thestreet.com AT INTERNET"
+      },
+      {
+         "from": "vivianl@screamingmedia.comatinternet",
+         "line": 104,
+         "rawfrom": "vivianl@screamingmedia.comATINTERNET",
+         "source": "valid",
+         "to": "wforrester@polojeans.com AT INTERNET"
+      },
+      {
+         "from": "krcollar@hotmail.com",
+         "line": 109,
+         "rawfrom": "    \"Kristen Collar\" <krcollar@hotmail.com> AT TIME_INC\n",
+         "source": "email",
+         "to": "starrgazing@peoplepc.com AT TIME_INC"
+      },
+      {
+         "from": "krcollar@hotmail.com",
+         "line": 110,
+         "rawfrom": "krcollar@hotmail.com",
+         "source": "valid",
+         "to": "CLewis1020@aol.com AT TIME_INC"
+      },
+      {
+         "from": "krcollar@hotmail.com",
+         "line": 111,
+         "rawfrom": "krcollar@hotmail.com",
+         "source": "valid",
+         "to": "bigdaddyjta@yahoo.com AT TIME_INC"
+      },
+      {
+         "from": "starrgazing@peoplepc.comattime_inc",
+         "line": 112,
+         "rawfrom": "starrgazing@peoplepc.comATTIME_INC",
+         "source": "valid",
+         "to": "katydidit76@hotmail.com AT TIME_INC"
+      },
+      {
+         "from": "clewis1020@aol.comattime_inc",
+         "line": 113,
+         "rawfrom": "CLewis1020@aol.comATTIME_INC",
+         "source": "valid",
+         "to": "tammybncali@onebox.com AT TIME_INC"
+      },
+      {
+         "from": "bigdaddyjta@yahoo.comattime_inc",
+         "line": 114,
+         "rawfrom": "bigdaddyjta@yahoo.comATTIME_INC",
+         "source": "valid",
+         "to": "Yolanda_Shaw@timeinc.com AT TIME_INC"
+      },
+      {
+         "from": "katydidit76@hotmail.comattime_inc",
+         "line": 115,
+         "rawfrom": "katydidit76@hotmail.comATTIME_INC",
+         "source": "valid",
+         "to": "JBilancini@tburg.k12.ny.us AT TIME_INC"
+      },
+      {
+         "from": "tammybncali@onebox.comattime_inc",
+         "line": 116,
+         "rawfrom": "tammybncali@onebox.comATTIME_INC",
+         "source": "valid",
+         "to": "dfox2@twcny.rr.com AT TIME_INC"
+      },
+      {
+         "from": "yolanda_shaw@timeinc.comattime_inc",
+         "line": 117,
+         "rawfrom": "Yolanda_Shaw@timeinc.comATTIME_INC",
+         "source": "valid",
+         "to": "rmiles@gpd.fulton.ny.us AT TIME_INC"
+      },
+      {
+         "from": "dfox2@twcny.rr.comattime_inc",
+         "line": 119,
+         "rawfrom": "dfox2@twcny.rr.comATTIME_INC",
+         "source": "valid",
+         "to": "dcoolar@twcny.rr.com AT TIME_INC"
+      },
+      {
+         "from": "rmiles@gpd.fulton.ny.usattime_inc",
+         "line": 120,
+         "rawfrom": "rmiles@gpd.fulton.ny.usATTIME_INC",
+         "source": "valid",
+         "to": "Kmgalb73@aol.com AT TIME_INC"
+      },
+      {
+         "from": "jeterchick@hotmail.comattime_inc",
+         "line": 121,
+         "rawfrom": "jeterchick@hotmail.comATTIME_INC",
+         "source": "valid",
+         "to": "She3099@juno.com AT TIME_INC"
+      },
+      {
+         "from": "dcoolar@twcny.rr.comattime_inc",
+         "line": 122,
+         "rawfrom": "dcoolar@twcny.rr.comATTIME_INC",
+         "source": "valid",
+         "to": "Weavmann644@cs.com AT TIME_INC"
+      },
+      {
+         "from": "kmgalb73@aol.comattime_inc",
+         "line": 123,
+         "rawfrom": "Kmgalb73@aol.comATTIME_INC",
+         "source": "valid",
+         "to": "emitch13@gwis2.circ.gwu.edu AT TIME_INC"
+      },
+      {
+         "from": "she3099@juno.comattime_inc",
+         "line": 124,
+         "rawfrom": "She3099@juno.comATTIME_INC",
+         "source": "valid",
+         "to": "GCOLLAR@HOTMAIL.COM AT TIME_INC"
+      },
+      {
+         "from": "weavmann644@cs.comattime_inc",
+         "line": 125,
+         "rawfrom": "Weavmann644@cs.comATTIME_INC",
+         "source": "valid",
+         "to": "mindies@attglobal.net AT TIME_INC"
+      },
+      {
+         "from": "gcollar@hotmail.comattime_inc",
+         "line": 127,
+         "rawfrom": "GCOLLAR@HOTMAIL.COMATTIME_INC",
+         "source": "valid",
+         "to": "sarahf18@hotmail.com AT TIME_INC"
+      },
+      {
+         "from": "mindies@attglobal.netattime_inc",
+         "line": 128,
+         "rawfrom": "mindies@attglobal.netATTIME_INC",
+         "source": "valid",
+         "to": "SCOLLAR@groton.cnyric.org AT TIME_INC"
+      }
+   ],
+   "skipped": 13
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/discussion_threads/731.",
+   "hops": [
+      {
+         "from": "johnston_nicholas@jpmorgan.com",
+         "line": 4,
+         "rawfrom": "johnston_nicholas@jpmorgan.com\r\n",
+         "source": "valid",
+         "to": "bryan.kimzey@csfb.com"
+      },
+      {
+         "from": "bryan.kimzey@csfb.com",
+         "line": 40,
+         "rawfrom": "bryan.kimzey@csfb.com on 06/06/2000 03:58:08\n",
+         "source": "email",
+         "to": "Tyler.Hearon@nyc.rabobank.com, AndrewS@calpine.com, mark@junell.cc,"
+      },
+      {
+         "from": "tyler.hearon@nyc.rabobank.com",
+         "line": 58,
+         "rawfrom": "  Tyler.Hearon@nyc.rabobank.com [SMTP:Tyler.Hearon@nyc.rabobank.com]\n",
+         "source": "email",
+         "to": "AndrewS@calpine.com; bryan.kimzey@csfb.com; mark@junell.cc;"
+      },
+      {
+         "from": "andrews@calpine.com",
+         "line": 73,
+         "rawfrom": "Andrew Slocum [mailto:AndrewS@calpine.com]\n",
+         "source": "email",
+         "to": "'Kimzey, Bryan'; 'Mark A. Junell'; Andrew Slocum; 'Nicholas"
+      },
+      {
+         "from": "bryan.kimzey@csfb.com",
+         "line": 87,
+         "rawfrom": "Kimzey, Bryan [mailto:bryan.kimzey@csfb.com]\n",
+         "source": "email",
+         "to": "'Mark A. Junell'; Andrew Slocum; 'Nicholas Johnston-Advisory';"
+      },
+      {
+         "from": "mark@junell.cc",
+         "line": 112,
+         "rawfrom": "Mark A. Junell [SMTP:mark@junell.cc]\n",
+         "source": "email",
+         "to": "Andrew Slocum; 'Nicholas Johnston-Advisory'; Rpaddock@hotmail.com;"
+      },
+      {
+         "from": "andrews@calpine.com",
+         "line": 125,
+         "rawfrom": "Andrew Slocum [mailto:AndrewS@calpine.com]\n",
+         "source": "email",
+         "to": "'Nicholas Johnston-Advisory'; Rpaddock@Hotmail.Com;"
+      },
+      {
+         "from": "johnston_nicholas@jpmorgan.com",
+         "line": 144,
+         "rawfrom": "Nicholas Johnston-Advisory [mailto:johnston_nicholas@jpmorgan.com]\n",
+         "source": "email",
+         "to": "Rpaddock@Hotmail.Com; Espinosa_Miguel@Gsb.Stanford.Edu;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/discussion_threads/723.",
+   "hops": [
+      {
+         "from": "tyler.hearon@nyc.rabobank.com",
+         "line": 4,
+         "rawfrom": "tyler.hearon@nyc.rabobank.com\r\n",
+         "source": "valid",
+         "to": "andrews@calpine.com, bryan.kimzey@csfb.com, mark@junell.cc,"
+      },
+      {
+         "from": "andrews@calpine.com",
+         "line": 30,
+         "rawfrom": "Andrew Slocum [mailto:AndrewS@calpine.com]\n",
+         "source": "email",
+         "to": "'Kimzey, Bryan'; 'Mark A. Junell'; Andrew Slocum; 'Nicholas"
+      },
+      {
+         "from": "bryan.kimzey@csfb.com",
+         "line": 44,
+         "rawfrom": "Kimzey, Bryan [mailto:bryan.kimzey@csfb.com]\n",
+         "source": "email",
+         "to": "'Mark A. Junell'; Andrew Slocum; 'Nicholas Johnston-Advisory';"
+      },
+      {
+         "from": "mark@junell.cc",
+         "line": 67,
+         "rawfrom": "Mark A. Junell [SMTP:mark@junell.cc]\n",
+         "source": "email",
+         "to": "Andrew Slocum; 'Nicholas Johnston-Advisory'; Rpaddock@hotmail.com;"
+      },
+      {
+         "from": "andrews@calpine.com",
+         "line": 79,
+         "rawfrom": "Andrew Slocum [mailto:AndrewS@calpine.com]\n",
+         "source": "email",
+         "to": "'Nicholas Johnston-Advisory'; Rpaddock@Hotmail.Com;"
+      },
+      {
+         "from": "johnston_nicholas@jpmorgan.com",
+         "line": 97,
+         "rawfrom": "Nicholas Johnston-Advisory [mailto:johnston_nicholas@jpmorgan.com]\n",
+         "source": "email",
+         "to": "Rpaddock@Hotmail.Com; Espinosa_Miguel@Gsb.Stanford.Edu;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/discussion_threads/716.",
+   "hops": [
+      {
+         "from": "andrews@calpine.com",
+         "line": 4,
+         "rawfrom": "andrews@calpine.com\r\n",
+         "source": "valid",
+         "to": "benjamin.rogers@enron.com"
+      },
+      {
+         "from": "tyler.hearon@nyc.rabobank.com",
+         "line": 21,
+         "rawfrom": "Tyler.Hearon@nyc.rabobank.com\n",
+         "source": "valid",
+         "to": "clintc@rocketball.com; johnston_nicholas@jpmorgan.com;"
+      },
+      {
+         "from": "clintc@rocketball.com",
+         "line": 50,
+         "rawfrom": "Clint Cobb [mailto:clintc@rocketball.com]\n",
+         "source": "email",
+         "to": "'Nicholas Johnston-Advisory'; Rpaddock@Hotmail.Com;"
+      },
+      {
+         "from": "johnston_nicholas@jpmorgan.com",
+         "line": 70,
+         "rawfrom": "Nicholas Johnston-Advisory [mailto:johnston_nicholas@jpmorgan.com]\n",
+         "source": "email",
+         "to": "Rpaddock@Hotmail.Com; Espinosa_Miguel@Gsb.Stanford.Edu;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/discussion_threads/1198.",
+   "hops": [
+      {
+         "from": "mitch.robinson@enron.com",
+         "line": 4,
+         "rawfrom": "mitch.robinson@enron.com\r\n",
+         "source": "valid",
+         "to": "don.miller@enron.com"
+      },
+      {
+         "from": "michelle.april@ps.ge.com",
+         "line": 31,
+         "rawfrom": "michelle.april@ps.ge.com",
+         "source": "valid",
+         "to": "mitch.robinson@enron.com, ross.newlin@enron.com"
+      },
+      {
+         "from": "mitch.robinson@enron.com",
+         "line": 68,
+         "rawfrom": "Mitch.Robinson@enron.com [mailto:Mitch.Robinson@enron.com]\n",
+         "source": "email",
+         "to": "michelle.april@ps.ge.com"
+      },
+      {
+         "from": "michelle.april@ps.ge.com",
+         "line": 140,
+         "rawfrom": "michelle.april@ps.ge.com on 09/25/2000 11:36:54 AM\n",
+         "source": "email",
+         "to": "mitch.robinson@enron.com"
+      },
+      {
+         "from": "michaelj.murphy@ps.ge.com",
+         "line": 156,
+         "rawfrom": "michaelj.murphy@ps.ge.com\n",
+         "source": "valid",
+         "to": "mitch.robinson@enron"
+      },
+      {
+         "from": "michelle.april@ps.ge.com",
+         "line": 240,
+         "rawfrom": "michelle.april@ps.ge.com",
+         "source": "valid",
+         "to": "mitch.robinson@enron.com"
+      },
+      {
+         "from": "michaelj.murphy@ps.ge.com",
+         "line": 255,
+         "rawfrom": "michaelj.murphy@ps.ge.com\n",
+         "source": "valid",
+         "to": "mitch.robinson@enron"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/discussion_threads/724.",
+   "hops": [
+      {
+         "from": "bryan.kimzey@csfb.com",
+         "line": 4,
+         "rawfrom": "bryan.kimzey@csfb.com\r\n",
+         "source": "valid",
+         "to": "tyler.hearon@nyc.rabobank.com, andrews@calpine.com, mark@junell.cc,"
+      },
+      {
+         "from": "tyler.hearon@nyc.rabobank.com",
+         "line": 28,
+         "rawfrom": "Tyler.Hearon@nyc.rabobank.com [SMTP:Tyler.Hearon@nyc.rabobank.com]\n",
+         "source": "email",
+         "to": "AndrewS@calpine.com; bryan.kimzey@csfb.com; mark@junell.cc;"
+      },
+      {
+         "from": "andrews@calpine.com",
+         "line": 43,
+         "rawfrom": "Andrew Slocum [mailto:AndrewS@calpine.com]\n",
+         "source": "email",
+         "to": "'Kimzey, Bryan'; 'Mark A. Junell'; Andrew Slocum; 'Nicholas"
+      },
+      {
+         "from": "bryan.kimzey@csfb.com",
+         "line": 57,
+         "rawfrom": "Kimzey, Bryan [mailto:bryan.kimzey@csfb.com]\n",
+         "source": "email",
+         "to": "'Mark A. Junell'; Andrew Slocum; 'Nicholas Johnston-Advisory';"
+      },
+      {
+         "from": "mark@junell.cc",
+         "line": 82,
+         "rawfrom": "Mark A. Junell [SMTP:mark@junell.cc]\n",
+         "source": "email",
+         "to": "Andrew Slocum; 'Nicholas Johnston-Advisory'; Rpaddock@hotmail.com;"
+      },
+      {
+         "from": "andrews@calpine.com",
+         "line": 95,
+         "rawfrom": "Andrew Slocum [mailto:AndrewS@calpine.com]\n",
+         "source": "email",
+         "to": "'Nicholas Johnston-Advisory'; Rpaddock@Hotmail.Com;"
+      },
+      {
+         "from": "johnston_nicholas@jpmorgan.com",
+         "line": 114,
+         "rawfrom": "Nicholas Johnston-Advisory [mailto:johnston_nicholas@jpmorgan.com]\n",
+         "source": "email",
+         "to": "Rpaddock@Hotmail.Com; Espinosa_Miguel@Gsb.Stanford.Edu;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/discussion_threads/852.",
+   "hops": [
+      {
+         "from": "pattyd90@hotmail.com",
+         "line": 4,
+         "rawfrom": "pattyd90@hotmail.com\r\n",
+         "source": "valid",
+         "to": "benjamin.rogers@enron.com"
+      },
+      {
+         "from": "rjlyons@hotmail.com",
+         "line": 18,
+         "rawfrom": "\"Robert Lyons\" <rjlyons@hotmail.com>\n",
+         "source": "email",
+         "to": "pattyd90@hotmail.com"
+      },
+      {
+         "from": "pattyd90@hotmail.com",
+         "line": 30,
+         "rawfrom": "\"Patricia Donahue\" <pattyd90@hotmail.com>\n",
+         "source": "email",
+         "to": "rjlyons@hotmail.com"
+      },
+      {
+         "from": "rjlyons@hotmail.com",
+         "line": 46,
+         "rawfrom": "\"Robert Lyons\" <rjlyons@hotmail.com>\n",
+         "source": "email",
+         "to": "pattyd90@hotmail.com"
+      },
+      {
+         "from": "pattyd90@hotmail.com",
+         "line": 67,
+         "rawfrom": "\"Patricia Donahue\" <pattyd90@hotmail.com>\n",
+         "source": "email",
+         "to": "rjlyons@hotmail.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/discussion_threads/721.",
+   "hops": [
+      {
+         "from": "bryan.kimzey@csfb.com",
+         "line": 4,
+         "rawfrom": "bryan.kimzey@csfb.com\r\n",
+         "source": "valid",
+         "to": "mark@junell.cc, andrews@calpine.com, johnston_nicholas@jpmorgan.com,"
+      },
+      {
+         "from": "mark@junell.cc",
+         "line": 36,
+         "rawfrom": "Mark A. Junell [SMTP:mark@junell.cc]\n",
+         "source": "email",
+         "to": "Andrew Slocum; 'Nicholas Johnston-Advisory'; Rpaddock@hotmail.com;"
+      },
+      {
+         "from": "andrews@calpine.com",
+         "line": 48,
+         "rawfrom": "Andrew Slocum [mailto:AndrewS@calpine.com]\n",
+         "source": "email",
+         "to": "'Nicholas Johnston-Advisory'; Rpaddock@Hotmail.Com;"
+      },
+      {
+         "from": "johnston_nicholas@jpmorgan.com",
+         "line": 66,
+         "rawfrom": "Nicholas Johnston-Advisory [mailto:johnston_nicholas@jpmorgan.com]\n",
+         "source": "email",
+         "to": "Rpaddock@Hotmail.Com; Espinosa_Miguel@Gsb.Stanford.Edu;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/personal/224.",
+   "hops": [
+      {
+         "from": "andrews@calpine.com",
+         "line": 4,
+         "rawfrom": "andrews@calpine.com\r\n",
+         "source": "valid",
+         "to": "benjamin.rogers@enron.com"
+      },
+      {
+         "from": "tyler.hearon@nyc.rabobank.com",
+         "line": 21,
+         "rawfrom": "Tyler.Hearon@nyc.rabobank.com\n",
+         "source": "valid",
+         "to": "clintc@rocketball.com; johnston_nicholas@jpmorgan.com;"
+      },
+      {
+         "from": "clintc@rocketball.com",
+         "line": 50,
+         "rawfrom": "Clint Cobb [mailto:clintc@rocketball.com]\n",
+         "source": "email",
+         "to": "'Nicholas Johnston-Advisory'; Rpaddock@Hotmail.Com;"
+      },
+      {
+         "from": "johnston_nicholas@jpmorgan.com",
+         "line": 70,
+         "rawfrom": "Nicholas Johnston-Advisory [mailto:johnston_nicholas@jpmorgan.com]\n",
+         "source": "email",
+         "to": "Rpaddock@Hotmail.Com; Espinosa_Miguel@Gsb.Stanford.Edu;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/personal/200.",
+   "hops": [
+      {
+         "from": "pattyd90@hotmail.com",
+         "line": 4,
+         "rawfrom": "pattyd90@hotmail.com\r\n",
+         "source": "valid",
+         "to": "benjamin.rogers@enron.com"
+      },
+      {
+         "from": "rjlyons@hotmail.com",
+         "line": 18,
+         "rawfrom": "\"Robert Lyons\" <rjlyons@hotmail.com>\n",
+         "source": "email",
+         "to": "pattyd90@hotmail.com"
+      },
+      {
+         "from": "pattyd90@hotmail.com",
+         "line": 30,
+         "rawfrom": "\"Patricia Donahue\" <pattyd90@hotmail.com>\n",
+         "source": "email",
+         "to": "rjlyons@hotmail.com"
+      },
+      {
+         "from": "rjlyons@hotmail.com",
+         "line": 46,
+         "rawfrom": "\"Robert Lyons\" <rjlyons@hotmail.com>\n",
+         "source": "email",
+         "to": "pattyd90@hotmail.com"
+      },
+      {
+         "from": "pattyd90@hotmail.com",
+         "line": 67,
+         "rawfrom": "\"Patricia Donahue\" <pattyd90@hotmail.com>\n",
+         "source": "email",
+         "to": "rjlyons@hotmail.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/personal/221.",
+   "hops": [
+      {
+         "from": "tyler.hearon@nyc.rabobank.com",
+         "line": 4,
+         "rawfrom": "tyler.hearon@nyc.rabobank.com\r\n",
+         "source": "valid",
+         "to": "andrews@calpine.com, bryan.kimzey@csfb.com, mark@junell.cc,"
+      },
+      {
+         "from": "andrews@calpine.com",
+         "line": 30,
+         "rawfrom": "Andrew Slocum [mailto:AndrewS@calpine.com]\n",
+         "source": "email",
+         "to": "'Kimzey, Bryan'; 'Mark A. Junell'; Andrew Slocum; 'Nicholas"
+      },
+      {
+         "from": "bryan.kimzey@csfb.com",
+         "line": 44,
+         "rawfrom": "Kimzey, Bryan [mailto:bryan.kimzey@csfb.com]\n",
+         "source": "email",
+         "to": "'Mark A. Junell'; Andrew Slocum; 'Nicholas Johnston-Advisory';"
+      },
+      {
+         "from": "mark@junell.cc",
+         "line": 67,
+         "rawfrom": "Mark A. Junell [SMTP:mark@junell.cc]\n",
+         "source": "email",
+         "to": "Andrew Slocum; 'Nicholas Johnston-Advisory'; Rpaddock@hotmail.com;"
+      },
+      {
+         "from": "andrews@calpine.com",
+         "line": 79,
+         "rawfrom": "Andrew Slocum [mailto:AndrewS@calpine.com]\n",
+         "source": "email",
+         "to": "'Nicholas Johnston-Advisory'; Rpaddock@Hotmail.Com;"
+      },
+      {
+         "from": "johnston_nicholas@jpmorgan.com",
+         "line": 97,
+         "rawfrom": "Nicholas Johnston-Advisory [mailto:johnston_nicholas@jpmorgan.com]\n",
+         "source": "email",
+         "to": "Rpaddock@Hotmail.Com; Espinosa_Miguel@Gsb.Stanford.Edu;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/personal/3.",
+   "hops": [
+      {
+         "from": "david.yeager@elpaso.com",
+         "line": 4,
+         "rawfrom": "david.yeager@elpaso.com\r\n",
+         "source": "valid",
+         "to": "benjamin.rogers@enron.com"
+      },
+      {
+         "from": "benjamin.rogers@enron.com",
+         "line": 25,
+         "rawfrom": "> From:\tBenjamin.Rogers@enron.com [SMTP:Benjamin.Rogers@enron.com]\n",
+         "source": "email",
+         "to": "Yeager, David"
+      },
+      {
+         "from": "david.yeager@elpaso.com",
+         "line": 33,
+         "rawfrom": "  \"Yeager, David\" <David.Yeager@ElPaso.com>@ENRON\n",
+         "source": "email",
+         "to": "Rogers, Benjamin"
+      },
+      {
+         "from": "benjamin.rogers@enron.com",
+         "line": 43,
+         "rawfrom": "     Rogers, Benjamin [SMTP:Benjamin.Rogers@ENRON.com]\n",
+         "source": "email",
+         "to": "Yeager, David"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/personal/217.",
+   "hops": [
+      {
+         "from": "johnston_nicholas@jpmorgan.com",
+         "line": 4,
+         "rawfrom": "johnston_nicholas@jpmorgan.com\r\n",
+         "source": "valid",
+         "to": "bryan.kimzey@csfb.com"
+      },
+      {
+         "from": "bryan.kimzey@csfb.com",
+         "line": 40,
+         "rawfrom": "bryan.kimzey@csfb.com on 06/06/2000 03:58:08\n",
+         "source": "email",
+         "to": "Tyler.Hearon@nyc.rabobank.com, AndrewS@calpine.com, mark@junell.cc,"
+      },
+      {
+         "from": "tyler.hearon@nyc.rabobank.com",
+         "line": 58,
+         "rawfrom": "  Tyler.Hearon@nyc.rabobank.com [SMTP:Tyler.Hearon@nyc.rabobank.com]\n",
+         "source": "email",
+         "to": "AndrewS@calpine.com; bryan.kimzey@csfb.com; mark@junell.cc;"
+      },
+      {
+         "from": "andrews@calpine.com",
+         "line": 73,
+         "rawfrom": "Andrew Slocum [mailto:AndrewS@calpine.com]\n",
+         "source": "email",
+         "to": "'Kimzey, Bryan'; 'Mark A. Junell'; Andrew Slocum; 'Nicholas"
+      },
+      {
+         "from": "bryan.kimzey@csfb.com",
+         "line": 87,
+         "rawfrom": "Kimzey, Bryan [mailto:bryan.kimzey@csfb.com]\n",
+         "source": "email",
+         "to": "'Mark A. Junell'; Andrew Slocum; 'Nicholas Johnston-Advisory';"
+      },
+      {
+         "from": "mark@junell.cc",
+         "line": 112,
+         "rawfrom": "Mark A. Junell [SMTP:mark@junell.cc]\n",
+         "source": "email",
+         "to": "Andrew Slocum; 'Nicholas Johnston-Advisory'; Rpaddock@hotmail.com;"
+      },
+      {
+         "from": "andrews@calpine.com",
+         "line": 125,
+         "rawfrom": "Andrew Slocum [mailto:AndrewS@calpine.com]\n",
+         "source": "email",
+         "to": "'Nicholas Johnston-Advisory'; Rpaddock@Hotmail.Com;"
+      },
+      {
+         "from": "johnston_nicholas@jpmorgan.com",
+         "line": 144,
+         "rawfrom": "Nicholas Johnston-Advisory [mailto:johnston_nicholas@jpmorgan.com]\n",
+         "source": "email",
+         "to": "Rpaddock@Hotmail.Com; Espinosa_Miguel@Gsb.Stanford.Edu;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/personal/116.",
+   "hops": [
+      {
+         "from": "christopher.choby@us.pwcglobal.com",
+         "line": 4,
+         "rawfrom": "christopher.choby@us.pwcglobal.com\r\n",
+         "source": "valid",
+         "to": "alnosh@aol.com, wedgedunn@aol.com, lbecker@cnmc.org,"
+      },
+      {
+         "from": "amy_pittman@timeinc.com",
+         "line": 46,
+         "rawfrom": "Amy_Pittman@timeinc.com\n",
+         "source": "valid",
+         "to": "treeswithteeth@yahoo.com, august_west62@hotmail.com,"
+      },
+      {
+         "from": "alleycatmurphy@aol.comatinternet",
+         "line": 67,
+         "rawfrom": "alleycatmurphy@aol.comATINTERNET",
+         "source": "valid",
+         "to": "andrew@xeyemedia.com AT INTERNET"
+      },
+      {
+         "from": "alleycatmurphy@aol.comatinternet",
+         "line": 68,
+         "rawfrom": "alleycatmurphy@aol.comATINTERNET",
+         "source": "valid",
+         "to": "bmoreno@wcom.net AT INTERNET"
+      },
+      {
+         "from": "alleycatmurphy@aol.comatinternet",
+         "line": 69,
+         "rawfrom": "alleycatmurphy@aol.comATINTERNET",
+         "source": "valid",
+         "to": "cainej@symbol.com AT INTERNET"
+      },
+      {
+         "from": "andrew@xeyemedia.comatinternet",
+         "line": 70,
+         "rawfrom": "andrew@xeyemedia.comATINTERNET",
+         "source": "valid",
+         "to": "chip@823productions.com AT INTERNET"
+      },
+      {
+         "from": "bmoreno@wcom.netatinternet",
+         "line": 71,
+         "rawfrom": "bmoreno@wcom.netATINTERNET",
+         "source": "valid",
+         "to": "christine.cook@csfb.com AT INTERNET"
+      },
+      {
+         "from": "cainej@symbol.comatinternet",
+         "line": 72,
+         "rawfrom": "cainej@symbol.comATINTERNET",
+         "source": "valid",
+         "to": "christy.ufferfilge@iqpc.com AT INTERNET"
+      },
+      {
+         "from": "christine.cook@csfb.comatinternet",
+         "line": 74,
+         "rawfrom": "christine.cook@csfb.comATINTERNET",
+         "source": "valid",
+         "to": "dbarbosa@tommy-usa.com AT INTERNET"
+      },
+      {
+         "from": "christy.ufferfilge@iqpc.comatinternet",
+         "line": 75,
+         "rawfrom": "christy.ufferfilge@iqpc.comATINTERNET",
+         "source": "valid",
+         "to": "deirdreglynn@skills.com AT INTERNET"
+      },
+      {
+         "from": "d.greto@worldnet.att.netatinternet",
+         "line": 76,
+         "rawfrom": "d.greto@worldnet.att.netATINTERNET",
+         "source": "valid",
+         "to": "Irish1434@aol.com AT INTERNET"
+      },
+      {
+         "from": "dbarbosa@tommy-usa.comatinternet",
+         "line": 77,
+         "rawfrom": "dbarbosa@tommy-usa.comATINTERNET",
+         "source": "valid",
+         "to": "jdemarle@danfords.com AT INTERNET"
+      },
+      {
+         "from": "deirdreglynn@skills.comatinternet",
+         "line": 78,
+         "rawfrom": "deirdreglynn@skills.comATINTERNET",
+         "source": "valid",
+         "to": "jjarb@worldnet.att.net AT INTERNET"
+      },
+      {
+         "from": "irish1434@aol.comatinternet",
+         "line": 79,
+         "rawfrom": "Irish1434@aol.comATINTERNET",
+         "source": "valid",
+         "to": "jpanc@yahoo.com AT INTERNET"
+      },
+      {
+         "from": "jdemarle@danfords.comatinternet",
+         "line": 80,
+         "rawfrom": "jdemarle@danfords.comATINTERNET",
+         "source": "valid",
+         "to": "Kim.Mancuso@nbc.com AT INTERNET"
+      },
+      {
+         "from": "jjarb@worldnet.att.netatinternet",
+         "line": 81,
+         "rawfrom": "jjarb@worldnet.att.netATINTERNET",
+         "source": "valid",
+         "to": "lgaron@email.usps.gov AT INTERNET"
+      },
+      {
+         "from": "jpanc@yahoo.comatinternet",
+         "line": 82,
+         "rawfrom": "jpanc@yahoo.comATINTERNET",
+         "source": "valid",
+         "to": "LIGONZALEZ@SANKYO-USA.COM AT INTERNET"
+      },
+      {
+         "from": "kim.mancuso@nbc.comatinternet",
+         "line": 83,
+         "rawfrom": "Kim.Mancuso@nbc.comATINTERNET",
+         "source": "valid",
+         "to": "LINDA_M_JACKSON@uhc.COM AT INTERNET"
+      },
+      {
+         "from": "lgaron@email.usps.govatinternet",
+         "line": 84,
+         "rawfrom": "lgaron@email.usps.govATINTERNET",
+         "source": "valid",
+         "to": "magdas@ibm.net AT INTERNET"
+      },
+      {
+         "from": "ligonzalez@sankyo-usa.comatinternet",
+         "line": 85,
+         "rawfrom": "LIGONZALEZ@SANKYO-USA.COMATINTERNET",
+         "source": "valid",
+         "to": "mbinsol@nycedc.com AT INTERNET"
+      },
+      {
+         "from": "linda_m_jackson@uhc.comatinternet",
+         "line": 86,
+         "rawfrom": "LINDA_M_JACKSON@uhc.COMATINTERNET",
+         "source": "valid",
+         "to": "mdenby@sunapparel.com AT INTERNET"
+      },
+      {
+         "from": "magdas@ibm.netatinternet",
+         "line": 87,
+         "rawfrom": "magdas@ibm.netATINTERNET",
+         "source": "valid",
+         "to": "michelle.bracher@fmr.com AT INTERNET"
+      },
+      {
+         "from": "mbinsol@nycedc.comatinternet",
+         "line": 88,
+         "rawfrom": "mbinsol@nycedc.comATINTERNET",
+         "source": "valid",
+         "to": "mike_murphy@bhimpact.com AT INTERNET"
+      },
+      {
+         "from": "mdenby@sunapparel.comatinternet",
+         "line": 89,
+         "rawfrom": "mdenby@sunapparel.comATINTERNET",
+         "source": "valid",
+         "to": "mindies@ibm.net AT INTERNET"
+      },
+      {
+         "from": "michelle.bracher@fmr.comatinternet",
+         "line": 90,
+         "rawfrom": "michelle.bracher@fmr.comATINTERNET",
+         "source": "valid",
+         "to": "mis4ol@aol.com AT INTERNET"
+      },
+      {
+         "from": "mike_murphy@bhimpact.comatinternet",
+         "line": 91,
+         "rawfrom": "mike_murphy@bhimpact.comATINTERNET",
+         "source": "valid",
+         "to": "mresendes@pfn.com AT INTERNET"
+      },
+      {
+         "from": "mindies@ibm.netatinternet",
+         "line": 92,
+         "rawfrom": "mindies@ibm.netATINTERNET",
+         "source": "valid",
+         "to": "oigho@aol.com AT INTERNET"
+      },
+      {
+         "from": "mis4ol@aol.comatinternet",
+         "line": 93,
+         "rawfrom": "mis4ol@aol.comATINTERNET",
+         "source": "valid",
+         "to": "ruckusmd@hotmail.com AT INTERNET"
+      },
+      {
+         "from": "mresendes@pfn.comatinternet",
+         "line": 94,
+         "rawfrom": "mresendes@pfn.comATINTERNET",
+         "source": "valid",
+         "to": "sachita@bellsouth.net AT INTERNET"
+      },
+      {
+         "from": "oigho@aol.comatinternet",
+         "line": 95,
+         "rawfrom": "oigho@aol.comATINTERNET",
+         "source": "valid",
+         "to": "sfranci1@HCSUS.JNJ.com AT INTERNET"
+      },
+      {
+         "from": "ruckusmd@hotmail.comatinternet",
+         "line": 96,
+         "rawfrom": "ruckusmd@hotmail.comATINTERNET",
+         "source": "valid",
+         "to": "sherzner@perriergroup.com AT INTERNET"
+      },
+      {
+         "from": "sachita@bellsouth.netatinternet",
+         "line": 97,
+         "rawfrom": "sachita@bellsouth.netATINTERNET",
+         "source": "valid",
+         "to": "streimje@mattel.com AT INTERNET"
+      },
+      {
+         "from": "sfranci1@hcsus.jnj.comatinternet",
+         "line": 98,
+         "rawfrom": "sfranci1@HCSUS.JNJ.comATINTERNET",
+         "source": "valid",
+         "to": "suemart@aol.com AT INTERNET"
+      },
+      {
+         "from": "sherzner@perriergroup.comatinternet",
+         "line": 99,
+         "rawfrom": "sherzner@perriergroup.comATINTERNET",
+         "source": "valid",
+         "to": "sumart1@aol.com AT INTERNET"
+      },
+      {
+         "from": "streimje@mattel.comatinternet",
+         "line": 100,
+         "rawfrom": "streimje@mattel.comATINTERNET",
+         "source": "valid",
+         "to": "tgosse@ikon.com AT INTERNET"
+      },
+      {
+         "from": "suemart@aol.comatinternet",
+         "line": 101,
+         "rawfrom": "suemart@aol.comATINTERNET",
+         "source": "valid",
+         "to": "vivianl@screamingmedia.com AT INTERNET"
+      },
+      {
+         "from": "sumart1@aol.comatinternet",
+         "line": 102,
+         "rawfrom": "sumart1@aol.comATINTERNET",
+         "source": "valid",
+         "to": "vocalnote@hotmail.com AT INTERNET"
+      },
+      {
+         "from": "tgosse@ikon.comatinternet",
+         "line": 103,
+         "rawfrom": "tgosse@ikon.comATINTERNET",
+         "source": "valid",
+         "to": "vshpigler@thestreet.com AT INTERNET"
+      },
+      {
+         "from": "vivianl@screamingmedia.comatinternet",
+         "line": 104,
+         "rawfrom": "vivianl@screamingmedia.comATINTERNET",
+         "source": "valid",
+         "to": "wforrester@polojeans.com AT INTERNET"
+      },
+      {
+         "from": "krcollar@hotmail.com",
+         "line": 109,
+         "rawfrom": "    \"Kristen Collar\" <krcollar@hotmail.com> AT TIME_INC\n",
+         "source": "email",
+         "to": "starrgazing@peoplepc.com AT TIME_INC"
+      },
+      {
+         "from": "krcollar@hotmail.com",
+         "line": 110,
+         "rawfrom": "krcollar@hotmail.com",
+         "source": "valid",
+         "to": "CLewis1020@aol.com AT TIME_INC"
+      },
+      {
+         "from": "krcollar@hotmail.com",
+         "line": 111,
+         "rawfrom": "krcollar@hotmail.com",
+         "source": "valid",
+         "to": "bigdaddyjta@yahoo.com AT TIME_INC"
+      },
+      {
+         "from": "starrgazing@peoplepc.comattime_inc",
+         "line": 112,
+         "rawfrom": "starrgazing@peoplepc.comATTIME_INC",
+         "source": "valid",
+         "to": "katydidit76@hotmail.com AT TIME_INC"
+      },
+      {
+         "from": "clewis1020@aol.comattime_inc",
+         "line": 113,
+         "rawfrom": "CLewis1020@aol.comATTIME_INC",
+         "source": "valid",
+         "to": "tammybncali@onebox.com AT TIME_INC"
+      },
+      {
+         "from": "bigdaddyjta@yahoo.comattime_inc",
+         "line": 114,
+         "rawfrom": "bigdaddyjta@yahoo.comATTIME_INC",
+         "source": "valid",
+         "to": "Yolanda_Shaw@timeinc.com AT TIME_INC"
+      },
+      {
+         "from": "katydidit76@hotmail.comattime_inc",
+         "line": 115,
+         "rawfrom": "katydidit76@hotmail.comATTIME_INC",
+         "source": "valid",
+         "to": "JBilancini@tburg.k12.ny.us AT TIME_INC"
+      },
+      {
+         "from": "tammybncali@onebox.comattime_inc",
+         "line": 116,
+         "rawfrom": "tammybncali@onebox.comATTIME_INC",
+         "source": "valid",
+         "to": "dfox2@twcny.rr.com AT TIME_INC"
+      },
+      {
+         "from": "yolanda_shaw@timeinc.comattime_inc",
+         "line": 117,
+         "rawfrom": "Yolanda_Shaw@timeinc.comATTIME_INC",
+         "source": "valid",
+         "to": "rmiles@gpd.fulton.ny.us AT TIME_INC"
+      },
+      {
+         "from": "dfox2@twcny.rr.comattime_inc",
+         "line": 119,
+         "rawfrom": "dfox2@twcny.rr.comATTIME_INC",
+         "source": "valid",
+         "to": "dcoolar@twcny.rr.com AT TIME_INC"
+      },
+      {
+         "from": "rmiles@gpd.fulton.ny.usattime_inc",
+         "line": 120,
+         "rawfrom": "rmiles@gpd.fulton.ny.usATTIME_INC",
+         "source": "valid",
+         "to": "Kmgalb73@aol.com AT TIME_INC"
+      },
+      {
+         "from": "jeterchick@hotmail.comattime_inc",
+         "line": 121,
+         "rawfrom": "jeterchick@hotmail.comATTIME_INC",
+         "source": "valid",
+         "to": "She3099@juno.com AT TIME_INC"
+      },
+      {
+         "from": "dcoolar@twcny.rr.comattime_inc",
+         "line": 122,
+         "rawfrom": "dcoolar@twcny.rr.comATTIME_INC",
+         "source": "valid",
+         "to": "Weavmann644@cs.com AT TIME_INC"
+      },
+      {
+         "from": "kmgalb73@aol.comattime_inc",
+         "line": 123,
+         "rawfrom": "Kmgalb73@aol.comATTIME_INC",
+         "source": "valid",
+         "to": "emitch13@gwis2.circ.gwu.edu AT TIME_INC"
+      },
+      {
+         "from": "she3099@juno.comattime_inc",
+         "line": 124,
+         "rawfrom": "She3099@juno.comATTIME_INC",
+         "source": "valid",
+         "to": "GCOLLAR@HOTMAIL.COM AT TIME_INC"
+      },
+      {
+         "from": "weavmann644@cs.comattime_inc",
+         "line": 125,
+         "rawfrom": "Weavmann644@cs.comATTIME_INC",
+         "source": "valid",
+         "to": "mindies@attglobal.net AT TIME_INC"
+      },
+      {
+         "from": "gcollar@hotmail.comattime_inc",
+         "line": 127,
+         "rawfrom": "GCOLLAR@HOTMAIL.COMATTIME_INC",
+         "source": "valid",
+         "to": "sarahf18@hotmail.com AT TIME_INC"
+      },
+      {
+         "from": "mindies@attglobal.netattime_inc",
+         "line": 128,
+         "rawfrom": "mindies@attglobal.netATTIME_INC",
+         "source": "valid",
+         "to": "SCOLLAR@groton.cnyric.org AT TIME_INC"
+      }
+   ],
+   "skipped": 13
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/personal/223.",
+   "hops": [
+      {
+         "from": "bryan.kimzey@csfb.com",
+         "line": 4,
+         "rawfrom": "bryan.kimzey@csfb.com\r\n",
+         "source": "valid",
+         "to": "mark@junell.cc, andrews@calpine.com, johnston_nicholas@jpmorgan.com,"
+      },
+      {
+         "from": "mark@junell.cc",
+         "line": 36,
+         "rawfrom": "Mark A. Junell [SMTP:mark@junell.cc]\n",
+         "source": "email",
+         "to": "Andrew Slocum; 'Nicholas Johnston-Advisory'; Rpaddock@hotmail.com;"
+      },
+      {
+         "from": "andrews@calpine.com",
+         "line": 48,
+         "rawfrom": "Andrew Slocum [mailto:AndrewS@calpine.com]\n",
+         "source": "email",
+         "to": "'Nicholas Johnston-Advisory'; Rpaddock@Hotmail.Com;"
+      },
+      {
+         "from": "johnston_nicholas@jpmorgan.com",
+         "line": 66,
+         "rawfrom": "Nicholas Johnston-Advisory [mailto:johnston_nicholas@jpmorgan.com]\n",
+         "source": "email",
+         "to": "Rpaddock@Hotmail.Com; Espinosa_Miguel@Gsb.Stanford.Edu;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/personal/262.",
+   "hops": [
+      {
+         "from": "dgioffre@hotmail.com",
+         "line": 4,
+         "rawfrom": "dgioffre@hotmail.com\r\n",
+         "source": "valid",
+         "to": "aa_4@yahoo.com, kbrafman@hotmail.com, jbukzin@christianacare.org,"
+      },
+      {
+         "from": "dmill002@hotmail.com",
+         "line": 28,
+         "rawfrom": "\"Danielle Miller\" <dmill002@hotmail.com>\n",
+         "source": "email",
+         "to": "dgioffre@hotmail.com"
+      },
+      {
+         "from": "donald.miller@mindspring.com",
+         "line": 36,
+         "rawfrom": "\"Donald E. Miller\" <donald.miller@mindspring.com>\n",
+         "source": "email",
+         "to": "\"Danielle Miller\" <dmill002@hotmail.com>"
+      },
+      {
+         "from": "sharon.madsen@bdk.com",
+         "line": 45,
+         "rawfrom": "Sharon.Madsen@bdk.com [mailto:Sharon.Madsen@bdk.com]\n",
+         "source": "email",
+         "to": "donald.miller@mindspring.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/personal/222.",
+   "hops": [
+      {
+         "from": "andrews@calpine.com",
+         "line": 4,
+         "rawfrom": "andrews@calpine.com\r\n",
+         "source": "valid",
+         "to": "bryan.kimzey@csfb.com, mark@junell.cc, andrews@calpine.com,"
+      },
+      {
+         "from": "bryan.kimzey@csfb.com",
+         "line": 28,
+         "rawfrom": "Kimzey, Bryan [mailto:bryan.kimzey@csfb.com]\n",
+         "source": "email",
+         "to": "'Mark A. Junell'; Andrew Slocum; 'Nicholas Johnston-Advisory';"
+      },
+      {
+         "from": "mark@junell.cc",
+         "line": 51,
+         "rawfrom": "Mark A. Junell [SMTP:mark@junell.cc]\n",
+         "source": "email",
+         "to": "Andrew Slocum; 'Nicholas Johnston-Advisory'; Rpaddock@hotmail.com;"
+      },
+      {
+         "from": "andrews@calpine.com",
+         "line": 63,
+         "rawfrom": "Andrew Slocum [mailto:AndrewS@calpine.com]\n",
+         "source": "email",
+         "to": "'Nicholas Johnston-Advisory'; Rpaddock@Hotmail.Com;"
+      },
+      {
+         "from": "johnston_nicholas@jpmorgan.com",
+         "line": 81,
+         "rawfrom": "Nicholas Johnston-Advisory [mailto:johnston_nicholas@jpmorgan.com]\n",
+         "source": "email",
+         "to": "Rpaddock@Hotmail.Com; Espinosa_Miguel@Gsb.Stanford.Edu;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rogers-b/personal/220.",
+   "hops": [
+      {
+         "from": "bryan.kimzey@csfb.com",
+         "line": 4,
+         "rawfrom": "bryan.kimzey@csfb.com\r\n",
+         "source": "valid",
+         "to": "tyler.hearon@nyc.rabobank.com, andrews@calpine.com, mark@junell.cc,"
+      },
+      {
+         "from": "tyler.hearon@nyc.rabobank.com",
+         "line": 28,
+         "rawfrom": "Tyler.Hearon@nyc.rabobank.com [SMTP:Tyler.Hearon@nyc.rabobank.com]\n",
+         "source": "email",
+         "to": "AndrewS@calpine.com; bryan.kimzey@csfb.com; mark@junell.cc;"
+      },
+      {
+         "from": "andrews@calpine.com",
+         "line": 43,
+         "rawfrom": "Andrew Slocum [mailto:AndrewS@calpine.com]\n",
+         "source": "email",
+         "to": "'Kimzey, Bryan'; 'Mark A. Junell'; Andrew Slocum; 'Nicholas"
+      },
+      {
+         "from": "bryan.kimzey@csfb.com",
+         "line": 57,
+         "rawfrom": "Kimzey, Bryan [mailto:bryan.kimzey@csfb.com]\n",
+         "source": "email",
+         "to": "'Mark A. Junell'; Andrew Slocum; 'Nicholas Johnston-Advisory';"
+      },
+      {
+         "from": "mark@junell.cc",
+         "line": 82,
+         "rawfrom": "Mark A. Junell [SMTP:mark@junell.cc]\n",
+         "source": "email",
+         "to": "Andrew Slocum; 'Nicholas Johnston-Advisory'; Rpaddock@hotmail.com;"
+      },
+      {
+         "from": "andrews@calpine.com",
+         "line": 95,
+         "rawfrom": "Andrew Slocum [mailto:AndrewS@calpine.com]\n",
+         "source": "email",
+         "to": "'Nicholas Johnston-Advisory'; Rpaddock@Hotmail.Com;"
+      },
+      {
+         "from": "johnston_nicholas@jpmorgan.com",
+         "line": 114,
+         "rawfrom": "Nicholas Johnston-Advisory [mailto:johnston_nicholas@jpmorgan.com]\n",
+         "source": "email",
+         "to": "Rpaddock@Hotmail.Com; Espinosa_Miguel@Gsb.Stanford.Edu;"
+      }
+   ],
+   "skipped": 0
+}
+]

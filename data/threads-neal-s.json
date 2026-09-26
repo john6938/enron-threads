@@ -1,0 +1,337 @@
+[
+{
+   "file": "/home/jb/maildir/neal-s/inbox/260.",
+   "hops": [
+      {
+         "from": "scott.neal@worldnet.att.net",
+         "line": 4,
+         "rawfrom": "scott.neal@worldnet.att.net\r\n",
+         "source": "valid",
+         "to": "scott.neal@enron.com"
+      },
+      {
+         "from": "scott.neal@worldnet.att.net",
+         "line": 23,
+         "rawfrom": "scott neal [mailto:scott.neal@worldnet.att.net]\n",
+         "source": "email",
+         "to": "rstrenger@businessedge.com"
+      },
+      {
+         "from": "rstrenger@businessedge.com",
+         "line": 38,
+         "rawfrom": "Ryan Strenger [mailto:rstrenger@businessedge.com]\n",
+         "source": "email",
+         "to": "'scott neal'"
+      },
+      {
+         "from": "scott.neal@worldnet.att.net",
+         "line": 48,
+         "rawfrom": "scott neal [mailto:scott.neal@worldnet.att.net]\n",
+         "source": "email",
+         "to": "rstrenger@businessedge.com"
+      },
+      {
+         "from": "rstrenger@businessedge.com",
+         "line": 58,
+         "rawfrom": "Ryan Strenger [mailto:rstrenger@businessedge.com]\n",
+         "source": "email",
+         "to": "aw-confirm@ebay.com"
+      },
+      {
+         "from": "aw-confirm@ebay.com",
+         "line": 73,
+         "rawfrom": "aw-confirm@ebay.com [mailto:aw-confirm@ebay.com]\n",
+         "source": "email",
+         "to": "rstrenger@businessedge.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/neal-s/inbox/250.",
+   "hops": [
+      {
+         "from": "scott.neal@worldnet.att.net",
+         "line": 4,
+         "rawfrom": "scott.neal@worldnet.att.net\r\n",
+         "source": "valid",
+         "to": "scott.neal@enron.com"
+      },
+      {
+         "from": "david.shine@ubspainewebber.com",
+         "line": 22,
+         "rawfrom": "Shine, David [mailto:david.shine@ubspainewebber.com]\n",
+         "source": "email",
+         "to": "'scott neal'"
+      },
+      {
+         "from": "scott.neal@worldnet.att.net",
+         "line": 37,
+         "rawfrom": "scott neal [mailto:scott.neal@worldnet.att.net]\n",
+         "source": "email",
+         "to": "Shine, David"
+      },
+      {
+         "from": "david.shine@ubspainewebber.com",
+         "line": 46,
+         "rawfrom": "Shine, David [mailto:david.shine@ubspainewebber.com]\n",
+         "source": "email",
+         "to": "'scott neal'"
+      },
+      {
+         "from": "scott.neal@worldnet.att.net",
+         "line": 65,
+         "rawfrom": "scott neal [mailto:scott.neal@worldnet.att.net]\n",
+         "source": "email",
+         "to": "david.shine@painewebber.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/neal-s/deleted_items/557.",
+   "hops": [
+      {
+         "from": "chuck.ames@enron.com",
+         "line": 4,
+         "rawfrom": "chuck.ames@enron.com\r\n",
+         "source": "valid",
+         "to": "scott.neal@enron.com"
+      },
+      {
+         "from": "dwooddy@petroconnections.com",
+         "line": 46,
+         "rawfrom": "\t\"Dale Wooddy\" <dwooddy@petroconnections.com>@ENRON  \n",
+         "source": "email",
+         "to": "Wooddy, Sarah"
+      },
+      {
+         "from": "laura.thompson@oceanenergy.com",
+         "line": 59,
+         "rawfrom": "Thompson, L. (Laura) [mailto:Laura.Thompson@OceanEnergy.com]\n",
+         "source": "email",
+         "to": "Alizia (E-mail); Allyson (E-mail); Amy (E-mail); Angie (E-mail);"
+      },
+      {
+         "from": "tthompson@sarofim.com",
+         "line": 73,
+         "rawfrom": "Tim Thompson [mailto:tthompson@sarofim.com]\n",
+         "source": "email",
+         "to": "'Laura Thompson'; 'Marty Irvin'; 'Paul White'"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/neal-s/deleted_items/750.",
+   "hops": [
+      {
+         "from": "scott.neal@worldnet.att.net",
+         "line": 4,
+         "rawfrom": "scott.neal@worldnet.att.net\r\n",
+         "source": "valid",
+         "to": "scott.neal@enron.com"
+      },
+      {
+         "from": "scott.neal@worldnet.att.net",
+         "line": 23,
+         "rawfrom": "scott neal [mailto:scott.neal@worldnet.att.net]\n",
+         "source": "email",
+         "to": "rstrenger@businessedge.com"
+      },
+      {
+         "from": "rstrenger@businessedge.com",
+         "line": 38,
+         "rawfrom": "Ryan Strenger [mailto:rstrenger@businessedge.com]\n",
+         "source": "email",
+         "to": "'scott neal'"
+      },
+      {
+         "from": "scott.neal@worldnet.att.net",
+         "line": 48,
+         "rawfrom": "scott neal [mailto:scott.neal@worldnet.att.net]\n",
+         "source": "email",
+         "to": "rstrenger@businessedge.com"
+      },
+      {
+         "from": "rstrenger@businessedge.com",
+         "line": 58,
+         "rawfrom": "Ryan Strenger [mailto:rstrenger@businessedge.com]\n",
+         "source": "email",
+         "to": "aw-confirm@ebay.com"
+      },
+      {
+         "from": "aw-confirm@ebay.com",
+         "line": 73,
+         "rawfrom": "aw-confirm@ebay.com [mailto:aw-confirm@ebay.com]\n",
+         "source": "email",
+         "to": "rstrenger@businessedge.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/neal-s/deleted_items/130.",
+   "hops": [
+      {
+         "from": "sneal4@houston.rr.com",
+         "line": 4,
+         "rawfrom": "sneal4@houston.rr.com\r\n",
+         "source": "valid",
+         "to": "scott.neal@enron.com"
+      },
+      {
+         "from": "scott.neal@enron.com",
+         "line": 22,
+         "rawfrom": "Neal, Scott [mailto:Scott.Neal@ENRON.com]\n",
+         "source": "email",
+         "to": "scott.neal@worldnet.att.net"
+      },
+      {
+         "from": "randy.aucoin@rweamericas.com",
+         "line": 31,
+         "rawfrom": "\t\"Randy Aucoin\" <randy.aucoin@rweamericas.com>@ENRON\n",
+         "source": "email",
+         "to": "Neal, Scott"
+      },
+      {
+         "from": "scott.neal@enron.com",
+         "line": 45,
+         "rawfrom": "Scott.Neal@enron.com [mailto:Scott.Neal@enron.com]\n",
+         "source": "email",
+         "to": "Randy Aucoin"
+      },
+      {
+         "from": "randy.aucoin@rweamericas.com",
+         "line": 64,
+         "rawfrom": "  \"Randy Aucoin\" <randy.aucoin@rweamericas.com>@ENRON\n",
+         "source": "email",
+         "to": "Neal, Scott"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/neal-s/sent_items/229.",
+   "hops": [
+      {
+         "from": "scott.neal@enron.com",
+         "line": 4,
+         "rawfrom": "scott.neal@enron.com\r\n",
+         "source": "valid",
+         "to": "scott.neal@worldnet.att.net"
+      },
+      {
+         "from": "jbyrd@byrdinterior.com",
+         "line": 22,
+         "rawfrom": "\tJohn Byrd <jbyrd@byrdinterior.com>@ENRON  \n",
+         "source": "email",
+         "to": "Neal, Scott"
+      },
+      {
+         "from": "scott.neal@enron.com",
+         "line": 30,
+         "rawfrom": "From:\tNeal, Scott [SMTP:Scott.Neal@ENRON.com]\n",
+         "source": "email",
+         "to": "jbyrd@byrdinterior.com"
+      },
+      {
+         "from": "jbyrd@byrdinterior.com",
+         "line": 38,
+         "rawfrom": "\t\"j byrd\" <jbyrd@byrdinterior.com>@ENRON\n",
+         "source": "email",
+         "to": "andrewd@tex-trude. com (E-mail); Bret. Bayley (E-mail);"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/neal-s/sent_items/195.",
+   "hops": [
+      {
+         "from": "scott.neal@enron.com",
+         "line": 4,
+         "rawfrom": "scott.neal@enron.com\r\n",
+         "source": "valid",
+         "to": "todd.neal@chron.com"
+      },
+      {
+         "from": "todd.neal@chron.com",
+         "line": 24,
+         "rawfrom": "\t\"Neal, Todd\" <Todd.Neal@chron.com>@ENRON  \n",
+         "source": "email",
+         "to": "Neal, Scott"
+      },
+      {
+         "from": "scott.neal@enron.com",
+         "line": 34,
+         "rawfrom": "\tScott.Neal@enron.com [mailto:Scott.Neal@enron.com]\n",
+         "source": "email",
+         "to": "Todd.Neal@chron.com"
+      },
+      {
+         "from": "todd.neal@chron.com",
+         "line": 44,
+         "rawfrom": "  \"Neal, Todd\" <Todd.Neal@chron.com>@ENRON\n",
+         "source": "email",
+         "to": "'sneal@enron.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/neal-s/sent_items/48.",
+   "hops": [
+      {
+         "from": "scott.neal@enron.com",
+         "line": 4,
+         "rawfrom": "scott.neal@enron.com\r\n",
+         "source": "valid",
+         "to": "victoria.versen@enron.com"
+      },
+      {
+         "from": "sneal4@houston.rr.com",
+         "line": 22,
+         "rawfrom": "\t\"scott neal\" <sneal4@houston.rr.com>@ENRON  \n",
+         "source": "email",
+         "to": "Neal, Scott"
+      },
+      {
+         "from": "scott.neal@enron.com",
+         "line": 30,
+         "rawfrom": "Neal, Scott [mailto:Scott.Neal@ENRON.com]\n",
+         "source": "email",
+         "to": "scott.neal@worldnet.att.net"
+      },
+      {
+         "from": "randy.aucoin@rweamericas.com",
+         "line": 39,
+         "rawfrom": "\t\"Randy Aucoin\" <randy.aucoin@rweamericas.com>@ENRON\n",
+         "source": "email",
+         "to": "Neal, Scott"
+      },
+      {
+         "from": "scott.neal@enron.com",
+         "line": 53,
+         "rawfrom": "Scott.Neal@enron.com [mailto:Scott.Neal@enron.com]\n",
+         "source": "email",
+         "to": "Randy Aucoin"
+      },
+      {
+         "from": "randy.aucoin@rweamericas.com",
+         "line": 72,
+         "rawfrom": "  \"Randy Aucoin\" <randy.aucoin@rweamericas.com>@ENRON\n",
+         "source": "email",
+         "to": "Neal, Scott"
+      }
+   ],
+   "skipped": 0
+}
+]

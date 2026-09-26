@@ -1,0 +1,148 @@
+[
+{
+   "file": "/home/jb/maildir/corman-s/inbox/archives/123.",
+   "hops": [
+      {
+         "from": "rod.hayslett@enron.com",
+         "line": 4,
+         "rawfrom": "rod.hayslett@enron.com\r\n",
+         "source": "valid",
+         "to": "james.saunders@enron.com, bob.chandler@enron.com, a..howard@enron.com,"
+      },
+      {
+         "from": "james.saunders@enron.com",
+         "line": 30,
+         "rawfrom": "Saunders, James <James.Saunders@ENRON.com>\n",
+         "source": "email",
+         "to": "Chandler, Bob <Bob.Chandler@ENRON.com>; Hayslett, Rod <Rod.Hayslett@ENRON.com>; Howard, Kevin A. <Kevin.Howard@ENRON.com>; Geaccone, Tracy <Tracy.Geaccone@ENRON.com>; Corman, Shelley <Shelley.Corman@ENRON.com>"
+      },
+      {
+         "from": "kevin.howard@enron.com",
+         "line": 67,
+         "rawfrom": "Howard, Kevin A. <Kevin.Howard@ENRON.com>\n",
+         "source": "email",
+         "to": "Chandler, Bob <Bob.Chandler@ENRON.com>; Hayslett, Rod <Rod.Hayslett@ENRON.com>; Geaccone, Tracy <Tracy.Geaccone@ENRON.com>; Saunders, James <James.Saunders@ENRON.com>; Corman, Shelley <Shelley.Corman@ENRON.com>"
+      },
+      {
+         "from": "bob.chandler@enron.com",
+         "line": 80,
+         "rawfrom": "Chandler, Bob <Bob.Chandler@ENRON.com>\n",
+         "source": "email",
+         "to": "Howard, Kevin A. <Kevin.Howard@ENRON.com>; Hayslett, Rod <Rod.Hayslett@ENRON.com>; Geaccone, Tracy <Tracy.Geaccone@ENRON.com>; Saunders, James <James.Saunders@ENRON.com>; Corman, Shelley <Shelley.Corman@ENRON.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/corman-s/inbox/archives/115.",
+   "hops": [
+      {
+         "from": "rod.hayslett@enron.com",
+         "line": 4,
+         "rawfrom": "rod.hayslett@enron.com\r\n",
+         "source": "valid",
+         "to": "bob.chandler@enron.com, a..howard@enron.com, tracy.geaccone@enron.com,"
+      },
+      {
+         "from": "bob.chandler@enron.com",
+         "line": 30,
+         "rawfrom": "Chandler, Bob <Bob.Chandler@ENRON.com>\n",
+         "source": "email",
+         "to": "Hayslett, Rod <Rod.Hayslett@ENRON.com>; Howard, Kevin A. <Kevin.Howard@ENRON.com>; Geaccone, Tracy <Tracy.Geaccone@ENRON.com>; Saunders, James <James.Saunders@ENRON.com>; Corman, Shelley <Shelley.Corman@ENRON.com>"
+      },
+      {
+         "from": "kevin.howard@enron.com",
+         "line": 54,
+         "rawfrom": "Howard, Kevin A. <Kevin.Howard@ENRON.com>\n",
+         "source": "email",
+         "to": "Chandler, Bob <Bob.Chandler@ENRON.com>; Hayslett, Rod <Rod.Hayslett@ENRON.com>; Geaccone, Tracy <Tracy.Geaccone@ENRON.com>; Saunders, James <James.Saunders@ENRON.com>; Corman, Shelley <Shelley.Corman@ENRON.com>"
+      },
+      {
+         "from": "bob.chandler@enron.com",
+         "line": 67,
+         "rawfrom": "Chandler, Bob <Bob.Chandler@ENRON.com>\n",
+         "source": "email",
+         "to": "Howard, Kevin A. <Kevin.Howard@ENRON.com>; Hayslett, Rod <Rod.Hayslett@ENRON.com>; Geaccone, Tracy <Tracy.Geaccone@ENRON.com>; Saunders, James <James.Saunders@ENRON.com>; Corman, Shelley <Shelley.Corman@ENRON.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/corman-s/inbox/kidsave/5.",
+   "hops": [
+      {
+         "from": "twhiteman@austin.rr.com",
+         "line": 4,
+         "rawfrom": "twhiteman@austin.rr.com\r\n",
+         "source": "valid",
+         "to": "shelley.corman@enron.com"
+      },
+      {
+         "from": "shelley.corman@enron.com",
+         "line": 34,
+         "rawfrom": "\"Corman, Shelley\" <Shelley.Corman@enron.com>\n",
+         "source": "email",
+         "to": "\"tina whiteman\" <twhiteman@austin.rr.com>"
+      },
+      {
+         "from": "twhiteman@austin.rr.com",
+         "line": 63,
+         "rawfrom": "tina whiteman [mailto:twhiteman@austin.rr.com]\n",
+         "source": "email",
+         "to": "Corman, Shelley"
+      },
+      {
+         "from": "adopt101@aol.com",
+         "line": 78,
+         "rawfrom": "<adopt101@aol.com>\n",
+         "source": "email",
+         "to": "<Kidsavefriends@yahoogroups.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/corman-s/sent_items/97.",
+   "hops": [
+      {
+         "from": "shelley.corman@enron.com",
+         "line": 4,
+         "rawfrom": "shelley.corman@enron.com\r\n",
+         "source": "valid",
+         "to": "ricki.winters@enron.com"
+      },
+      {
+         "from": "lgras91577@aol.com",
+         "line": 22,
+         "rawfrom": "LGras91577@aol.com [mailto:LGras91577@aol.com]\n",
+         "source": "email",
+         "to": "Corman, Shelley"
+      },
+      {
+         "from": "pakk@yahoogroups.com",
+         "line": 36,
+         "rawfrom": " <pakk@yahoogroups.com>\n",
+         "source": "email",
+         "to": "pakk@yahoogroups.com"
+      },
+      {
+         "from": "anniejamaca@hotmail.com",
+         "line": 604,
+         "rawfrom": "Annie Jamaca [mailto:anniejamaca@hotmail.com]\n",
+         "source": "email",
+         "to": "pakk@yahoogroups.com"
+      },
+      {
+         "from": "ln@hovac.com",
+         "line": 747,
+         "rawfrom": "<ln@hovac.com>\n",
+         "source": "email",
+         "to": "<pakk@yahoogroups.com>"
+      }
+   ],
+   "skipped": 0
+}
+]

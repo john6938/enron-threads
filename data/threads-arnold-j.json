@@ -1,0 +1,4404 @@
+[
+{
+   "file": "/home/jb/maildir/arnold-j/inbox/13.",
+   "hops": [
+      {
+         "from": "danaggie@hotmail.com",
+         "line": 4,
+         "rawfrom": "danaggie@hotmail.com\r\n",
+         "source": "valid",
+         "to": "john.arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 28,
+         "rawfrom": "John.Arnold@enron.com\n",
+         "source": "valid",
+         "to": "danaggie@hotmail.com"
+      },
+      {
+         "from": "danaggie@hotmail.com",
+         "line": 49,
+         "rawfrom": "  \"Dana P\" <danaggie@hotmail.com>@ENRON\n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 100,
+         "rawfrom": "\"Arnold, John\" <John.Arnold@ENRON.com>\n",
+         "source": "email",
+         "to": "<danaggie@hotmail.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/all_documents/615.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 35,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 59,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 94,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 122,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/all_documents/361.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 23,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 09/01/2000 09:02:04 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 35,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 54,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 01:20:05 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 92,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 110,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 10:10:09 AM\n",
+         "source": "email",
+         "to": "john.arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/all_documents/877.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 26,
+         "rawfrom": "slafontaine@globalp.com on 02/28/2001 08:03:43 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 48,
+         "rawfrom": "John.Arnold@enron.com on 02/27/2001 11:05:40 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 69,
+         "rawfrom": "slafontaine@globalp.com on 02/27/2001 08:12:32 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 102,
+         "rawfrom": "John.Arnold@enron.com on 02/27/2001 08:23:22 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 135,
+         "rawfrom": "slafontaine@globalp.com on 02/26/2001 04:48:06 PM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/all_documents/328.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "msagel@home.com"
+      },
+      {
+         "from": "msagel@home.com",
+         "line": 29,
+         "rawfrom": "\"Mark Sagel\" <msagel@home.com> on 10/04/2000 02:55:41 PM\n",
+         "source": "email",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 47,
+         "rawfrom": "<John.Arnold@enron.com>\n",
+         "source": "email",
+         "to": "<msagel@home.com>"
+      },
+      {
+         "from": "msagel@home.com",
+         "line": 63,
+         "rawfrom": "\"Mark Sagel\" <msagel@home.com> on 10/03/2000 02:29:47 PM\n",
+         "source": "email",
+         "to": "\"John Arnold\" <jarnold@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/all_documents/354.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 23,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 09/25/2000 06:09:01 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 35,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 47,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 09/01/2000 09:02:04 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 59,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 78,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 01:20:05 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 116,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 134,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 10:10:09 AM\n",
+         "source": "email",
+         "to": "john.arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/all_documents/957.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 25,
+         "rawfrom": "slafontaine@globalp.com on 02/05/2001 06:59:36 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 44,
+         "rawfrom": "John.Arnold@enron.com on 02/04/2001 10:13:24 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 75,
+         "rawfrom": "slafontaine@globalp.com on 01/31/2001 04:47:22 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 107,
+         "rawfrom": "John.Arnold@enron.com on 01/31/2001 05:41:45 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 124,
+         "rawfrom": "slafontaine@globalp.com on 01/31/2001 12:40:07 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/all_documents/870.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 45,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 10:54:14 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 68,
+         "rawfrom": "John.Arnold@enron.com on 03/02/2001 11:44:50 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 87,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 10:25:45 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 107,
+         "rawfrom": "John.Arnold@enron.com on 03/02/2001 11:22:30 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 124,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 08:54:44 AM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/all_documents/830.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 23,
+         "rawfrom": "slafontaine@globalp.com on 03/15/2001 08:31:31 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 41,
+         "rawfrom": "John.Arnold@enron.com on 03/15/2001 09:27:09 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 58,
+         "rawfrom": "slafontaine@globalp.com on 03/15/2001 08:17:02 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/all_documents/817.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 43,
+         "rawfrom": "slafontaine@globalp.com on 03/20/2001 03:21:41 PM\r\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 82,
+         "rawfrom": "John.Arnold@enron.com on 03/20/2001 04:06:55 PM\r\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 106,
+         "rawfrom": "slafontaine@globalp.com on 03/20/2001 10:48:43 AM\r\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/all_documents/621.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 35,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 62,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 87,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 113,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/all_documents/831.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 27,
+         "rawfrom": "slafontaine@globalp.com on 03/15/2001 08:31:31 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 45,
+         "rawfrom": "John.Arnold@enron.com on 03/15/2001 09:27:09 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 62,
+         "rawfrom": "slafontaine@globalp.com on 03/15/2001 08:17:02 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/all_documents/66.",
+   "hops": [
+      {
+         "from": "trey.comiskey@enron.com",
+         "line": 4,
+         "rawfrom": "trey.comiskey@enron.com\r\n",
+         "source": "valid",
+         "to": "brien@am.sony.com, jennifer.medcalf@enron.com"
+      },
+      {
+         "from": "kenneth.cooper@am.sony.com",
+         "line": 42,
+         "rawfrom": "\"Cooper, Kenneth\" <Kenneth.Cooper@am.sony.com> on 12/08/2000 04:49:45 PM\n",
+         "source": "email",
+         "to": "\"'tcomisk@enron.com'\" <tcomisk@enron.com>"
+      },
+      {
+         "from": "tcomisk@enron.com",
+         "line": 52,
+         "rawfrom": "tcomisk@enron.com [mailto:tcomisk@enron.com]\n",
+         "source": "email",
+         "to": "Kenneth.Cooper@am.sony.com"
+      },
+      {
+         "from": "kenneth.cooper@am.sony.com",
+         "line": 72,
+         "rawfrom": "\"Cooper, Kenneth\" <Kenneth.Cooper@am.sony.com> on 12/06/2000 03:37:42 PM\n",
+         "source": "email",
+         "to": "\"'Trey Comiskey'\" <trey.comiskey@enron.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/all_documents/617.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 34,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 69,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 97,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/all_documents/880.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 28,
+         "rawfrom": "slafontaine@globalp.com on 02/27/2001 08:12:32 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 57,
+         "rawfrom": "John.Arnold@enron.com on 02/27/2001 08:23:22 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 90,
+         "rawfrom": "slafontaine@globalp.com on 02/26/2001 04:48:06 PM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/all_documents/412.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "athomas1@dellnet.com"
+      },
+      {
+         "from": "athomas1@dellnet.com",
+         "line": 23,
+         "rawfrom": "\"Andrew Thomas\" <athomas1@dellnet.com> on 08/28/2000 01:42:25 PM\n",
+         "source": "email",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 33,
+         "rawfrom": "<John.Arnold@enron.com>\n",
+         "source": "email",
+         "to": "<athomas1@dellnet.com>"
+      },
+      {
+         "from": "athomas1@dellnet.com",
+         "line": 48,
+         "rawfrom": "\"Andrew Thomas\" <athomas1@dellnet.com> on 08/25/2000 02:02:59 PM\n",
+         "source": "email",
+         "to": "<Matthew.Arnold@enron.com>, <john.arnold@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/all_documents/623.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 34,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 58,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 82,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/all_documents/858.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 29,
+         "rawfrom": "slafontaine@globalp.com on 03/06/2001 10:22:18 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 47,
+         "rawfrom": "John.Arnold@enron.com on 03/06/2001 10:51:13 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 64,
+         "rawfrom": "slafontaine@globalp.com on 03/06/2001 09:15:40 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/all_documents/872.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 26,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 10:25:45 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 43,
+         "rawfrom": "John.Arnold@enron.com on 03/02/2001 11:22:30 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 60,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 08:54:44 AM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/all_documents/535.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "websupport@moneynet.com"
+      },
+      {
+         "from": "websupport@moneynet.com",
+         "line": 18,
+         "rawfrom": "websupport@moneynet.com",
+         "source": "valid",
+         "to": "\"John Arnold\" <John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 47,
+         "rawfrom": "\"John Arnold\" <John.Arnold@enron.com> on 05/30/2000 08:29:14 AM\n",
+         "source": "email",
+         "to": "WebSupport/ROL/NOR/US/Reuters@Moneynet"
+      },
+      {
+         "from": "ptracker@moneynet.com",
+         "line": 65,
+         "rawfrom": "ptracker@moneynet.com",
+         "source": "valid",
+         "to": "jarnold@ei.enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/all_documents/629.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 37,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 62,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 88,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/all_documents/960.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 38,
+         "rawfrom": "slafontaine@globalp.com on 01/31/2001 04:47:22 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 67,
+         "rawfrom": "John.Arnold@enron.com on 01/31/2001 05:41:45 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 84,
+         "rawfrom": "slafontaine@globalp.com on 01/31/2001 12:40:07 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/all_documents/889.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "michael.gapinski@painewebber.com"
+      },
+      {
+         "from": "michael.gapinski@painewebber.com",
+         "line": 25,
+         "rawfrom": "michael.gapinski@painewebber.com",
+         "source": "valid",
+         "to": "\"'John.Arnold@enron.com'\" <John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 55,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "michael.gapinski@painewebber.com"
+      },
+      {
+         "from": "michael.gapinski@painewebber.com",
+         "line": 82,
+         "rawfrom": "michael.gapinski@painewebber.com",
+         "source": "valid",
+         "to": "\"'John.Arnold@enron.com'\" <John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 105,
+         "rawfrom": "    John.Arnold@enron.com [SMTP:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "michael.gapinski@painewebber.com"
+      },
+      {
+         "from": "michael.gapinski@painewebber.com",
+         "line": 127,
+         "rawfrom": "michael.gapinski@painewebber.com",
+         "source": "valid",
+         "to": "\"'Arnold, John'\" <john.arnold@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/all_documents/804.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 33,
+         "rawfrom": "slafontaine@globalp.com on 03/25/2001 08:16:26 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 46,
+         "rawfrom": "John.Arnold@enron.com on 03/25/2001 07:30:38 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 77,
+         "rawfrom": "slafontaine@globalp.com on 03/23/2001 01:44:10 PM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/all_documents/406.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 30,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 01:20:05 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 63,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 81,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 10:10:09 AM\n",
+         "source": "email",
+         "to": "john.arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/all_documents/897.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "michael.gapinski@painewebber.com"
+      },
+      {
+         "from": "michael.gapinski@painewebber.com",
+         "line": 37,
+         "rawfrom": "michael.gapinski@painewebber.com",
+         "source": "valid",
+         "to": "\"'John.Arnold@enron.com'\" <John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 60,
+         "rawfrom": "John.Arnold@enron.com [SMTP:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "michael.gapinski@painewebber.com"
+      },
+      {
+         "from": "michael.gapinski@painewebber.com",
+         "line": 82,
+         "rawfrom": "michael.gapinski@painewebber.com",
+         "source": "valid",
+         "to": "\"'Arnold, John'\" <john.arnold@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/all_documents/949.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 29,
+         "rawfrom": "slafontaine@globalp.com on 02/06/2001 11:19:45 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 43,
+         "rawfrom": "John.Arnold@enron.com on 02/06/2001 11:59:31 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 64,
+         "rawfrom": "slafontaine@globalp.com on 02/06/2001 07:24:43 AM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/all_documents/287.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "msagel@home.com"
+      },
+      {
+         "from": "msagel@home.com",
+         "line": 24,
+         "rawfrom": "\"Mark Sagel\" <msagel@home.com> on 10/17/2000 05:20:14 PM\n",
+         "source": "email",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 33,
+         "rawfrom": "<John.Arnold@enron.com>\n",
+         "source": "email",
+         "to": "<msagel@home.com>"
+      },
+      {
+         "from": "msagel@home.com",
+         "line": 47,
+         "rawfrom": "\"Mark Sagel\" <msagel@home.com> on 10/17/2000 04:34:56 PM\n",
+         "source": "email",
+         "to": "\"John Arnold\" <jarnold@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent/722.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 25,
+         "rawfrom": "slafontaine@globalp.com on 02/05/2001 06:59:36 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 44,
+         "rawfrom": "John.Arnold@enron.com on 02/04/2001 10:13:24 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 75,
+         "rawfrom": "slafontaine@globalp.com on 01/31/2001 04:47:22 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 107,
+         "rawfrom": "John.Arnold@enron.com on 01/31/2001 05:41:45 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 124,
+         "rawfrom": "slafontaine@globalp.com on 01/31/2001 12:40:07 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent/714.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 29,
+         "rawfrom": "slafontaine@globalp.com on 02/06/2001 11:19:45 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 43,
+         "rawfrom": "John.Arnold@enron.com on 02/06/2001 11:59:31 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 64,
+         "rawfrom": "slafontaine@globalp.com on 02/06/2001 07:24:43 AM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent/583.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 43,
+         "rawfrom": "slafontaine@globalp.com on 03/20/2001 03:21:41 PM\r\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 82,
+         "rawfrom": "John.Arnold@enron.com on 03/20/2001 04:06:55 PM\r\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 106,
+         "rawfrom": "slafontaine@globalp.com on 03/20/2001 10:48:43 AM\r\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent/663.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "michael.gapinski@painewebber.com"
+      },
+      {
+         "from": "michael.gapinski@painewebber.com",
+         "line": 37,
+         "rawfrom": "michael.gapinski@painewebber.com",
+         "source": "valid",
+         "to": "\"'John.Arnold@enron.com'\" <John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 60,
+         "rawfrom": "John.Arnold@enron.com [SMTP:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "michael.gapinski@painewebber.com"
+      },
+      {
+         "from": "michael.gapinski@painewebber.com",
+         "line": 82,
+         "rawfrom": "michael.gapinski@painewebber.com",
+         "source": "valid",
+         "to": "\"'Arnold, John'\" <john.arnold@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent/570.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 33,
+         "rawfrom": "slafontaine@globalp.com on 03/25/2001 08:16:26 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 46,
+         "rawfrom": "John.Arnold@enron.com on 03/25/2001 07:30:38 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 77,
+         "rawfrom": "slafontaine@globalp.com on 03/23/2001 01:44:10 PM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent/171.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 23,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 09/25/2000 06:09:01 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 35,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 47,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 09/01/2000 09:02:04 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 59,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 78,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 01:20:05 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 116,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 134,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 10:10:09 AM\n",
+         "source": "email",
+         "to": "john.arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent/643.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 26,
+         "rawfrom": "slafontaine@globalp.com on 02/28/2001 08:03:43 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 48,
+         "rawfrom": "John.Arnold@enron.com on 02/27/2001 11:05:40 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 69,
+         "rawfrom": "slafontaine@globalp.com on 02/27/2001 08:12:32 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 102,
+         "rawfrom": "John.Arnold@enron.com on 02/27/2001 08:23:22 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 135,
+         "rawfrom": "slafontaine@globalp.com on 02/26/2001 04:48:06 PM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent/350.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "websupport@moneynet.com"
+      },
+      {
+         "from": "websupport@moneynet.com",
+         "line": 18,
+         "rawfrom": "websupport@moneynet.com",
+         "source": "valid",
+         "to": "\"John Arnold\" <John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 47,
+         "rawfrom": "\"John Arnold\" <John.Arnold@enron.com> on 05/30/2000 08:29:14 AM\n",
+         "source": "email",
+         "to": "WebSupport/ROL/NOR/US/Reuters@Moneynet"
+      },
+      {
+         "from": "ptracker@moneynet.com",
+         "line": 65,
+         "rawfrom": "ptracker@moneynet.com",
+         "source": "valid",
+         "to": "jarnold@ei.enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent/145.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "msagel@home.com"
+      },
+      {
+         "from": "msagel@home.com",
+         "line": 29,
+         "rawfrom": "\"Mark Sagel\" <msagel@home.com> on 10/04/2000 02:55:41 PM\n",
+         "source": "email",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 47,
+         "rawfrom": "<John.Arnold@enron.com>\n",
+         "source": "email",
+         "to": "<msagel@home.com>"
+      },
+      {
+         "from": "msagel@home.com",
+         "line": 63,
+         "rawfrom": "\"Mark Sagel\" <msagel@home.com> on 10/03/2000 02:29:47 PM\n",
+         "source": "email",
+         "to": "\"John Arnold\" <jarnold@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent/104.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "msagel@home.com"
+      },
+      {
+         "from": "msagel@home.com",
+         "line": 24,
+         "rawfrom": "\"Mark Sagel\" <msagel@home.com> on 10/17/2000 05:20:14 PM\n",
+         "source": "email",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 33,
+         "rawfrom": "<John.Arnold@enron.com>\n",
+         "source": "email",
+         "to": "<msagel@home.com>"
+      },
+      {
+         "from": "msagel@home.com",
+         "line": 47,
+         "rawfrom": "\"Mark Sagel\" <msagel@home.com> on 10/17/2000 04:34:56 PM\n",
+         "source": "email",
+         "to": "\"John Arnold\" <jarnold@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent/398.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 35,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 59,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 94,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 122,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent/412.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 37,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 62,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 88,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent/223.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 30,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 01:20:05 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 63,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 81,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 10:10:09 AM\n",
+         "source": "email",
+         "to": "john.arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent/404.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 35,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 62,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 87,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 113,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent/229.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "athomas1@dellnet.com"
+      },
+      {
+         "from": "athomas1@dellnet.com",
+         "line": 23,
+         "rawfrom": "\"Andrew Thomas\" <athomas1@dellnet.com> on 08/28/2000 01:42:25 PM\n",
+         "source": "email",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 33,
+         "rawfrom": "<John.Arnold@enron.com>\n",
+         "source": "email",
+         "to": "<athomas1@dellnet.com>"
+      },
+      {
+         "from": "athomas1@dellnet.com",
+         "line": 48,
+         "rawfrom": "\"Andrew Thomas\" <athomas1@dellnet.com> on 08/25/2000 02:02:59 PM\n",
+         "source": "email",
+         "to": "<Matthew.Arnold@enron.com>, <john.arnold@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent/646.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 28,
+         "rawfrom": "slafontaine@globalp.com on 02/27/2001 08:12:32 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 57,
+         "rawfrom": "John.Arnold@enron.com on 02/27/2001 08:23:22 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 90,
+         "rawfrom": "slafontaine@globalp.com on 02/26/2001 04:48:06 PM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent/597.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 27,
+         "rawfrom": "slafontaine@globalp.com on 03/15/2001 08:31:31 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 45,
+         "rawfrom": "John.Arnold@enron.com on 03/15/2001 09:27:09 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 62,
+         "rawfrom": "slafontaine@globalp.com on 03/15/2001 08:17:02 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent/638.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 26,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 10:25:45 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 43,
+         "rawfrom": "John.Arnold@enron.com on 03/02/2001 11:22:30 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 60,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 08:54:44 AM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent/178.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 23,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 09/01/2000 09:02:04 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 35,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 54,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 01:20:05 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 92,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 110,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 10:10:09 AM\n",
+         "source": "email",
+         "to": "john.arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent/406.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 34,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 58,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 82,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent/725.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 38,
+         "rawfrom": "slafontaine@globalp.com on 01/31/2001 04:47:22 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 67,
+         "rawfrom": "John.Arnold@enron.com on 01/31/2001 05:41:45 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 84,
+         "rawfrom": "slafontaine@globalp.com on 01/31/2001 12:40:07 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent/636.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 45,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 10:54:14 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 68,
+         "rawfrom": "John.Arnold@enron.com on 03/02/2001 11:44:50 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 87,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 10:25:45 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 107,
+         "rawfrom": "John.Arnold@enron.com on 03/02/2001 11:22:30 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 124,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 08:54:44 AM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent/400.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 34,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 69,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 97,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent/624.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 29,
+         "rawfrom": "slafontaine@globalp.com on 03/06/2001 10:22:18 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 47,
+         "rawfrom": "John.Arnold@enron.com on 03/06/2001 10:51:13 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 64,
+         "rawfrom": "slafontaine@globalp.com on 03/06/2001 09:15:40 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent/596.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 23,
+         "rawfrom": "slafontaine@globalp.com on 03/15/2001 08:31:31 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 41,
+         "rawfrom": "John.Arnold@enron.com on 03/15/2001 09:27:09 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 58,
+         "rawfrom": "slafontaine@globalp.com on 03/15/2001 08:17:02 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent/655.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "michael.gapinski@painewebber.com"
+      },
+      {
+         "from": "michael.gapinski@painewebber.com",
+         "line": 25,
+         "rawfrom": "michael.gapinski@painewebber.com",
+         "source": "valid",
+         "to": "\"'John.Arnold@enron.com'\" <John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 55,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "michael.gapinski@painewebber.com"
+      },
+      {
+         "from": "michael.gapinski@painewebber.com",
+         "line": 82,
+         "rawfrom": "michael.gapinski@painewebber.com",
+         "source": "valid",
+         "to": "\"'John.Arnold@enron.com'\" <John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 105,
+         "rawfrom": "    John.Arnold@enron.com [SMTP:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "michael.gapinski@painewebber.com"
+      },
+      {
+         "from": "michael.gapinski@painewebber.com",
+         "line": 127,
+         "rawfrom": "michael.gapinski@painewebber.com",
+         "source": "valid",
+         "to": "\"'Arnold, John'\" <john.arnold@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/deleted_items/3.",
+   "hops": [
+      {
+         "from": "styarger@hotmail.com",
+         "line": 4,
+         "rawfrom": "styarger@hotmail.com\r\n",
+         "source": "valid",
+         "to": "john.arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 24,
+         "rawfrom": "<John.Arnold@enron.com>\n",
+         "source": "email",
+         "to": "<styarger@hotmail.com>"
+      },
+      {
+         "from": "styarger@hotmail.com",
+         "line": 40,
+         "rawfrom": "  \"Stephen Yarger\" <styarger@hotmail.com>@ENRON\n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 50,
+         "rawfrom": "<John.Arnold@enron.com>\n",
+         "source": "email",
+         "to": "<styarger@hotmail.com>"
+      },
+      {
+         "from": "styarger@hotmail.com",
+         "line": 71,
+         "rawfrom": "  \"Stephen Yarger\" <styarger@hotmail.com>@ENRON\n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 101,
+         "rawfrom": "\"Arnold, John\" <John.Arnold@ENRON.com>\n",
+         "source": "email",
+         "to": "<styarger@hotmail.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent_items/473.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "styarger@hotmail.com"
+      },
+      {
+         "from": "styarger@hotmail.com",
+         "line": 22,
+         "rawfrom": "\t\"Stephen Yarger\" <styarger@hotmail.com>@ENRON [mailto:IMCEANOTES-+22Stephen+20Yarger+22+20+3Cstyarger+40hotmail+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 31,
+         "rawfrom": "<John.Arnold@enron.com>\n",
+         "source": "email",
+         "to": "<styarger@hotmail.com>"
+      },
+      {
+         "from": "styarger@hotmail.com",
+         "line": 49,
+         "rawfrom": "  \"Stephen Yarger\" <styarger@hotmail.com>@ENRON\n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 73,
+         "rawfrom": "\"Arnold, John\" <John.Arnold@ENRON.com>\n",
+         "source": "email",
+         "to": "<styarger@hotmail.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent_items/714.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "frank.hayden@enron.com"
+      },
+      {
+         "from": "david.deveny@bmo.com",
+         "line": 22,
+         "rawfrom": "\t\"DeVeny, David\" <David.Deveny@Bmo.com>@ENRON  \n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": "John.Arnold [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "DeVeny, David"
+      },
+      {
+         "from": "david.deveny@bmo.com",
+         "line": 40,
+         "rawfrom": "  \"DeVeny, David\" <David.Deveny@Bmo.com>@ENRON\n",
+         "source": "email",
+         "to": "'jarnold@enron.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent_items/735.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "dutch.quigley@enron.com"
+      },
+      {
+         "from": "kdavis@manfinancial.com",
+         "line": 22,
+         "rawfrom": "\tkdavis@manfinancial.com@ENRON  \n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 40,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "kdavis@manfinancial.com"
+      },
+      {
+         "from": "kdavis@manfinancial.com",
+         "line": 49,
+         "rawfrom": "  kdavis@manfinancial.com@ENRON\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent_items/133.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "steve.lafontaine@bankofamerica.com"
+      },
+      {
+         "from": "steve.lafontaine@bankofamerica.com",
+         "line": 22,
+         "rawfrom": "\t\"Lafontaine, Steve\" <steve.lafontaine@bankofamerica.com>@ENRON [mailto:IMCEANOTES-+22Lafontaine+2C+20Steve+22+20+3Csteve+2Elafontaine+40bankofamerica+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 35,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "LaFontaine, Steve"
+      },
+      {
+         "from": "steve.lafontaine@bankofamerica.com",
+         "line": 49,
+         "rawfrom": "  \"Lafontaine, Steve\" <steve.lafontaine@bankofamerica.com>@ENRON\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent_items/716.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "steve.c.lengkeekjr@conectiv.com"
+      },
+      {
+         "from": "steve.c.lengkeekjr@conectiv.com",
+         "line": 22,
+         "rawfrom": "\t\"Lengkeek Jr, Steve C\" <Steve.C.LengkeekJr@conectiv.com>@ENRON  \n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "Lengkeek Jr, Steve C"
+      },
+      {
+         "from": "steve.c.lengkeekjr@conectiv.com",
+         "line": 39,
+         "rawfrom": "  \"Lengkeek Jr, Steve C\" <Steve.C.LengkeekJr@conectiv.com>@ENRON\n",
+         "source": "email",
+         "to": "Arnold, John"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent_items/414.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "fzerilli@powermerchants.com"
+      },
+      {
+         "from": "fzerilli@powermerchants.com",
+         "line": 22,
+         "rawfrom": "\t\"Zerilli, Frank\" <fzerilli@POWERMERCHANTS.COM>@ENRON [mailto:IMCEANOTES-+22Zerilli+2C+20Frank+22+20+3Cfzerilli+40POWERMERCHANTS+2ECOM+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "fzerilli@POWERMERCHANTS.COM"
+      },
+      {
+         "from": "fzerilli@powermerchants.com",
+         "line": 43,
+         "rawfrom": "  \"Zerilli, Frank\" <fzerilli@POWERMERCHANTS.COM>@ENRON\n",
+         "source": "email",
+         "to": "Arnold, John; 'John.Corcoran@ubsw.com'"
+      },
+      {
+         "from": "bhorton@tnsk.com",
+         "line": 51,
+         "rawfrom": "Bill Horton [mailto:bhorton@tnsk.com]\n",
+         "source": "email",
+         "to": "fzerilli@powermerchants.com"
+      },
+      {
+         "from": "fsherman@tnsk.com",
+         "line": 59,
+         "rawfrom": "Fred Sherman [mailto:fsherman@tnsk.com]\n",
+         "source": "email",
+         "to": "Steve Bruns; William Lewis; William Simpson; Bill Horton; Erik"
+      },
+      {
+         "from": "frussel1@txu.com",
+         "line": 70,
+         "rawfrom": "frussel1@txu.com [mailto:frussel1@txu.com]\n",
+         "source": "email",
+         "to": "fsherman@tnsk.com; slooney1@txu.com; bsmith5@txu.com;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent_items/739.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "kdavis@manfinancial.com"
+      },
+      {
+         "from": "kdavis@manfinancial.com",
+         "line": 22,
+         "rawfrom": "\tkdavis@manfinancial.com@ENRON  \n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "kdavis@manfinancial.com"
+      },
+      {
+         "from": "kdavis@manfinancial.com",
+         "line": 39,
+         "rawfrom": "  kdavis@manfinancial.com@ENRON\n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 77,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "kdavis@manfinancial.com"
+      },
+      {
+         "from": "kdavis@manfinancial.com",
+         "line": 86,
+         "rawfrom": "  kdavis@manfinancial.com@ENRON\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent_items/742.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "sarah.wesner-soong@enron.com"
+      },
+      {
+         "from": "kdavis@manfinancial.com",
+         "line": 22,
+         "rawfrom": "\tkdavis@manfinancial.com@ENRON  \n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 35,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "kdavis@manfinancial.com"
+      },
+      {
+         "from": "kdavis@manfinancial.com",
+         "line": 46,
+         "rawfrom": "  kdavis@manfinancial.com@ENRON\n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 54,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "kdavis@manfinancial.com"
+      },
+      {
+         "from": "kdavis@manfinancial.com",
+         "line": 63,
+         "rawfrom": "  kdavis@manfinancial.com@ENRON\n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 71,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "kdavis@manfinancial.com"
+      },
+      {
+         "from": "kdavis@manfinancial.com",
+         "line": 81,
+         "rawfrom": "  kdavis@manfinancial.com@ENRON\n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 125,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "kdavis@manfinancial.com"
+      },
+      {
+         "from": "kdavis@manfinancial.com",
+         "line": 134,
+         "rawfrom": "  kdavis@manfinancial.com@ENRON\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent_items/741.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "kdavis@manfinancial.com"
+      },
+      {
+         "from": "kdavis@manfinancial.com",
+         "line": 24,
+         "rawfrom": "\tkdavis@manfinancial.com@ENRON  \n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 32,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "kdavis@manfinancial.com"
+      },
+      {
+         "from": "kdavis@manfinancial.com",
+         "line": 41,
+         "rawfrom": "  kdavis@manfinancial.com@ENRON\n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 49,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "kdavis@manfinancial.com"
+      },
+      {
+         "from": "kdavis@manfinancial.com",
+         "line": 58,
+         "rawfrom": "  kdavis@manfinancial.com@ENRON\n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 99,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "kdavis@manfinancial.com"
+      },
+      {
+         "from": "kdavis@manfinancial.com",
+         "line": 108,
+         "rawfrom": "  kdavis@manfinancial.com@ENRON\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent_items/331.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "steve.lafontaine@bankofamerica.com"
+      },
+      {
+         "from": "steve.lafontaine@bankofamerica.com",
+         "line": 22,
+         "rawfrom": "\t\"Lafontaine, Steve\" <steve.lafontaine@bankofamerica.com>@ENRON [mailto:IMCEANOTES-+22Lafontaine+2C+20Steve+22+20+3Csteve+2Elafontaine+40bankofamerica+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 32,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "LaFontaine, Steve"
+      },
+      {
+         "from": "steve.lafontaine@bankofamerica.com",
+         "line": 50,
+         "rawfrom": "  \"Lafontaine, Steve\" <steve.lafontaine@bankofamerica.com>@ENRON\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent_items/14.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 34,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 58,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 82,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent_items/411.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "danaggie@hotmail.com"
+      },
+      {
+         "from": "danaggie@hotmail.com",
+         "line": 28,
+         "rawfrom": "\t\"Dana P\" <danaggie@hotmail.com>@ENRON [mailto:IMCEANOTES-+22Dana+20P+22+20+3Cdanaggie+40hotmail+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 42,
+         "rawfrom": "John.Arnold@enron.com\n",
+         "source": "valid",
+         "to": "danaggie@hotmail.com"
+      },
+      {
+         "from": "danaggie@hotmail.com",
+         "line": 63,
+         "rawfrom": "  \"Dana P\" <danaggie@hotmail.com>@ENRON\n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 114,
+         "rawfrom": "\"Arnold, John\" <John.Arnold@ENRON.com>\n",
+         "source": "email",
+         "to": "<danaggie@hotmail.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent_items/737.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "kdavis@manfinancial.com"
+      },
+      {
+         "from": "kdavis@manfinancial.com",
+         "line": 22,
+         "rawfrom": "\tkdavis@manfinancial.com@ENRON  \n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 56,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "kdavis@manfinancial.com"
+      },
+      {
+         "from": "kdavis@manfinancial.com",
+         "line": 65,
+         "rawfrom": "  kdavis@manfinancial.com@ENRON\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent_items/738.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "dutch.quigley@enron.com"
+      },
+      {
+         "from": "kdavis@manfinancial.com",
+         "line": 22,
+         "rawfrom": "\tkdavis@manfinancial.com@ENRON  \n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "kdavis@manfinancial.com"
+      },
+      {
+         "from": "kdavis@manfinancial.com",
+         "line": 39,
+         "rawfrom": "  kdavis@manfinancial.com@ENRON\n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 77,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "kdavis@manfinancial.com"
+      },
+      {
+         "from": "kdavis@manfinancial.com",
+         "line": 86,
+         "rawfrom": "  kdavis@manfinancial.com@ENRON\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent_items/8.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 34,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 69,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 97,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent_items/12.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 35,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 62,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 87,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 113,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent_items/435.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "steve.c.lengkeekjr@conectiv.com"
+      },
+      {
+         "from": "steve.c.lengkeekjr@conectiv.com",
+         "line": 23,
+         "rawfrom": "\t\"Lengkeek Jr, Steve C\" <Steve.C.LengkeekJr@conectiv.com>@ENRON [mailto:IMCEANOTES-+22Lengkeek+20Jr+2C+20Steve+20C+22+20+3CSteve+2EC+2ELengkeekJr+40conectiv+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 39,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "Lengkeek Jr, Steve C"
+      },
+      {
+         "from": "steve.c.lengkeekjr@conectiv.com",
+         "line": 53,
+         "rawfrom": "Steve.C.LengkeekJr@conectiv.com",
+         "source": "valid",
+         "to": "\"'john.arnold@enron.com'\" <john.arnold@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent_items/736.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "dutch.quigley@enron.com"
+      },
+      {
+         "from": "kdavis@manfinancial.com",
+         "line": 22,
+         "rawfrom": "\tkdavis@manfinancial.com@ENRON  \n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 56,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "kdavis@manfinancial.com"
+      },
+      {
+         "from": "kdavis@manfinancial.com",
+         "line": 65,
+         "rawfrom": "  kdavis@manfinancial.com@ENRON\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent_items/20.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 37,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 62,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 88,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent_items/295.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "steve.lafontaine@bankofamerica.com"
+      },
+      {
+         "from": "steve.lafontaine@bankofamerica.com",
+         "line": 22,
+         "rawfrom": "\t\"Lafontaine, Steve\" <steve.lafontaine@bankofamerica.com>@ENRON [mailto:IMCEANOTES-+22Lafontaine+2C+20Steve+22+20+3Csteve+2Elafontaine+40bankofamerica+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 31,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "LaFontaine, Steve"
+      },
+      {
+         "from": "steve.lafontaine@bankofamerica.com",
+         "line": 79,
+         "rawfrom": "\"Lafontaine, Steve\" <steve.lafontaine@bankofamerica.com>@ENRON\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent_items/135.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "steve.lafontaine@bankofamerica.com"
+      },
+      {
+         "from": "steve.lafontaine@bankofamerica.com",
+         "line": 22,
+         "rawfrom": "\t\"Lafontaine, Steve\" <steve.lafontaine@bankofamerica.com>@ENRON [mailto:IMCEANOTES-+22Lafontaine+2C+20Steve+22+20+3Csteve+2Elafontaine+40bankofamerica+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 40,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "LaFontaine, Steve"
+      },
+      {
+         "from": "steve.lafontaine@bankofamerica.com",
+         "line": 61,
+         "rawfrom": "  \"Lafontaine, Steve\" <steve.lafontaine@bankofamerica.com>@ENRON\n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 78,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "LaFontaine, Steve"
+      },
+      {
+         "from": "steve.lafontaine@bankofamerica.com",
+         "line": 94,
+         "rawfrom": "  \"Lafontaine, Steve\" <steve.lafontaine@bankofamerica.com>\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent_items/459.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "ina.rangel@enron.com"
+      },
+      {
+         "from": "styarger@hotmail.com",
+         "line": 22,
+         "rawfrom": "\t\"Stephen Yarger\" <styarger@hotmail.com>@ENRON [mailto:IMCEANOTES-+22Stephen+20Yarger+22+20+3Cstyarger+40hotmail+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 31,
+         "rawfrom": "<John.Arnold@enron.com>\n",
+         "source": "email",
+         "to": "<styarger@hotmail.com>"
+      },
+      {
+         "from": "styarger@hotmail.com",
+         "line": 49,
+         "rawfrom": "  \"Stephen Yarger\" <styarger@hotmail.com>@ENRON\n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 73,
+         "rawfrom": "\"Arnold, John\" <John.Arnold@ENRON.com>\n",
+         "source": "email",
+         "to": "<styarger@hotmail.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent_items/373.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "danaggie@hotmail.com"
+      },
+      {
+         "from": "danaggie@hotmail.com",
+         "line": 26,
+         "rawfrom": "\t\"Dana P\" <danaggie@hotmail.com>@ENRON [mailto:IMCEANOTES-+22Dana+20P+22+20+3Cdanaggie+40hotmail+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 74,
+         "rawfrom": "John.Arnold@enron.com\n",
+         "source": "valid",
+         "to": "danaggie@hotmail.com"
+      },
+      {
+         "from": "danaggie@hotmail.com",
+         "line": 125,
+         "rawfrom": "  \"Dana P\" <danaggie@hotmail.com>@ENRON\n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 229,
+         "rawfrom": "John.Arnold@enron.com\n",
+         "source": "valid",
+         "to": "danaggie@hotmail.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent_items/330.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "steve.lafontaine@bankofamerica.com"
+      },
+      {
+         "from": "steve.lafontaine@bankofamerica.com",
+         "line": 26,
+         "rawfrom": "\t\"Lafontaine, Steve\" <steve.lafontaine@bankofamerica.com>@ENRON [mailto:IMCEANOTES-+22Lafontaine+2C+20Steve+22+20+3Csteve+2Elafontaine+40bankofamerica+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 44,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "LaFontaine, Steve"
+      },
+      {
+         "from": "steve.lafontaine@bankofamerica.com",
+         "line": 62,
+         "rawfrom": "  \"Lafontaine, Steve\" <steve.lafontaine@bankofamerica.com>@ENRON\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent_items/429.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "andrea.ring@enron.com"
+      },
+      {
+         "from": "steve.c.lengkeekjr@conectiv.com",
+         "line": 22,
+         "rawfrom": "\t\"Lengkeek Jr, Steve C\" <Steve.C.LengkeekJr@conectiv.com>@ENRON [mailto:IMCEANOTES-+22Lengkeek+20Jr+2C+20Steve+20C+22+20+3CSteve+2EC+2ELengkeekJr+40conectiv+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 38,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "Lengkeek Jr, Steve C"
+      },
+      {
+         "from": "steve.c.lengkeekjr@conectiv.com",
+         "line": 52,
+         "rawfrom": "Steve.C.LengkeekJr@conectiv.com",
+         "source": "valid",
+         "to": "\"'john.arnold@enron.com'\" <john.arnold@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent_items/413.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "fzerilli@powermerchants.com"
+      },
+      {
+         "from": "fzerilli@powermerchants.com",
+         "line": 22,
+         "rawfrom": "\t\"Zerilli, Frank\" <fzerilli@POWERMERCHANTS.COM>@ENRON [mailto:IMCEANOTES-+22Zerilli+2C+20Frank+22+20+3Cfzerilli+40POWERMERCHANTS+2ECOM+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Arnold, John; 'John.Corcoran@ubsw.com'"
+      },
+      {
+         "from": "bhorton@tnsk.com",
+         "line": 30,
+         "rawfrom": "Bill Horton [mailto:bhorton@tnsk.com]\n",
+         "source": "email",
+         "to": "fzerilli@powermerchants.com"
+      },
+      {
+         "from": "fsherman@tnsk.com",
+         "line": 38,
+         "rawfrom": "Fred Sherman [mailto:fsherman@tnsk.com]\n",
+         "source": "email",
+         "to": "Steve Bruns; William Lewis; William Simpson; Bill Horton; Erik Lood;"
+      },
+      {
+         "from": "frussel1@txu.com",
+         "line": 48,
+         "rawfrom": "frussel1@txu.com [mailto:frussel1@txu.com]\n",
+         "source": "email",
+         "to": "fsherman@tnsk.com; slooney1@txu.com; bsmith5@txu.com;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent_items/6.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 35,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 59,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 94,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 122,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sent_items/474.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "styarger@hotmail.com"
+      },
+      {
+         "from": "styarger@hotmail.com",
+         "line": 22,
+         "rawfrom": "\t\"Stephen Yarger\" <styarger@hotmail.com>@ENRON [mailto:IMCEANOTES-+22Stephen+20Yarger+22+20+3Cstyarger+40hotmail+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 30,
+         "rawfrom": "<John.Arnold@enron.com>\n",
+         "source": "email",
+         "to": "<styarger@hotmail.com>"
+      },
+      {
+         "from": "styarger@hotmail.com",
+         "line": 46,
+         "rawfrom": "  \"Stephen Yarger\" <styarger@hotmail.com>@ENRON\n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 56,
+         "rawfrom": "<John.Arnold@enron.com>\n",
+         "source": "email",
+         "to": "<styarger@hotmail.com>"
+      },
+      {
+         "from": "styarger@hotmail.com",
+         "line": 77,
+         "rawfrom": "  \"Stephen Yarger\" <styarger@hotmail.com>@ENRON\n",
+         "source": "email",
+         "to": "Arnold, John"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 107,
+         "rawfrom": "\"Arnold, John\" <John.Arnold@ENRON.com>\n",
+         "source": "email",
+         "to": "<styarger@hotmail.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/_sent_mail/592.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 23,
+         "rawfrom": "slafontaine@globalp.com on 03/15/2001 08:31:31 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 41,
+         "rawfrom": "John.Arnold@enron.com on 03/15/2001 09:27:09 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 58,
+         "rawfrom": "slafontaine@globalp.com on 03/15/2001 08:17:02 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/_sent_mail/102.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "msagel@home.com"
+      },
+      {
+         "from": "msagel@home.com",
+         "line": 24,
+         "rawfrom": "\"Mark Sagel\" <msagel@home.com> on 10/17/2000 05:20:14 PM\n",
+         "source": "email",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 33,
+         "rawfrom": "<John.Arnold@enron.com>\n",
+         "source": "email",
+         "to": "<msagel@home.com>"
+      },
+      {
+         "from": "msagel@home.com",
+         "line": 47,
+         "rawfrom": "\"Mark Sagel\" <msagel@home.com> on 10/17/2000 04:34:56 PM\n",
+         "source": "email",
+         "to": "\"John Arnold\" <jarnold@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/_sent_mail/169.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 23,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 09/25/2000 06:09:01 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 35,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 47,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 09/01/2000 09:02:04 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 59,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 78,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 01:20:05 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 116,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 134,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 10:10:09 AM\n",
+         "source": "email",
+         "to": "john.arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/_sent_mail/710.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 29,
+         "rawfrom": "slafontaine@globalp.com on 02/06/2001 11:19:45 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 43,
+         "rawfrom": "John.Arnold@enron.com on 02/06/2001 11:59:31 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 64,
+         "rawfrom": "slafontaine@globalp.com on 02/06/2001 07:24:43 AM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/_sent_mail/639.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 26,
+         "rawfrom": "slafontaine@globalp.com on 02/28/2001 08:03:43 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 48,
+         "rawfrom": "John.Arnold@enron.com on 02/27/2001 11:05:40 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 69,
+         "rawfrom": "slafontaine@globalp.com on 02/27/2001 08:12:32 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 102,
+         "rawfrom": "John.Arnold@enron.com on 02/27/2001 08:23:22 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 135,
+         "rawfrom": "slafontaine@globalp.com on 02/26/2001 04:48:06 PM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/_sent_mail/566.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 33,
+         "rawfrom": "slafontaine@globalp.com on 03/25/2001 08:16:26 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 46,
+         "rawfrom": "John.Arnold@enron.com on 03/25/2001 07:30:38 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 77,
+         "rawfrom": "slafontaine@globalp.com on 03/23/2001 01:44:10 PM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/_sent_mail/176.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 23,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 09/01/2000 09:02:04 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 35,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 54,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 01:20:05 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 92,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 110,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 10:10:09 AM\n",
+         "source": "email",
+         "to": "john.arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/_sent_mail/593.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 27,
+         "rawfrom": "slafontaine@globalp.com on 03/15/2001 08:31:31 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 45,
+         "rawfrom": "John.Arnold@enron.com on 03/15/2001 09:27:09 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 62,
+         "rawfrom": "slafontaine@globalp.com on 03/15/2001 08:17:02 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/_sent_mail/659.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "michael.gapinski@painewebber.com"
+      },
+      {
+         "from": "michael.gapinski@painewebber.com",
+         "line": 37,
+         "rawfrom": "michael.gapinski@painewebber.com",
+         "source": "valid",
+         "to": "\"'John.Arnold@enron.com'\" <John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 60,
+         "rawfrom": "John.Arnold@enron.com [SMTP:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "michael.gapinski@painewebber.com"
+      },
+      {
+         "from": "michael.gapinski@painewebber.com",
+         "line": 82,
+         "rawfrom": "michael.gapinski@painewebber.com",
+         "source": "valid",
+         "to": "\"'Arnold, John'\" <john.arnold@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/_sent_mail/221.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 30,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 01:20:05 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 63,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "hrobertson@hbk.com"
+      },
+      {
+         "from": "hrobertson@hbk.com",
+         "line": 81,
+         "rawfrom": "Heather Robertson <hrobertson@hbk.com> on 08/31/2000 10:10:09 AM\n",
+         "source": "email",
+         "to": "john.arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/_sent_mail/398.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 34,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 69,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 97,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/_sent_mail/143.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "msagel@home.com"
+      },
+      {
+         "from": "msagel@home.com",
+         "line": 29,
+         "rawfrom": "\"Mark Sagel\" <msagel@home.com> on 10/04/2000 02:55:41 PM\n",
+         "source": "email",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 47,
+         "rawfrom": "<John.Arnold@enron.com>\n",
+         "source": "email",
+         "to": "<msagel@home.com>"
+      },
+      {
+         "from": "msagel@home.com",
+         "line": 63,
+         "rawfrom": "\"Mark Sagel\" <msagel@home.com> on 10/03/2000 02:29:47 PM\n",
+         "source": "email",
+         "to": "\"John Arnold\" <jarnold@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/_sent_mail/348.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "websupport@moneynet.com"
+      },
+      {
+         "from": "websupport@moneynet.com",
+         "line": 18,
+         "rawfrom": "websupport@moneynet.com",
+         "source": "valid",
+         "to": "\"John Arnold\" <John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 47,
+         "rawfrom": "\"John Arnold\" <John.Arnold@enron.com> on 05/30/2000 08:29:14 AM\n",
+         "source": "email",
+         "to": "WebSupport/ROL/NOR/US/Reuters@Moneynet"
+      },
+      {
+         "from": "ptracker@moneynet.com",
+         "line": 65,
+         "rawfrom": "ptracker@moneynet.com",
+         "source": "valid",
+         "to": "jarnold@ei.enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/_sent_mail/404.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 34,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 58,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 82,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/_sent_mail/579.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 43,
+         "rawfrom": "slafontaine@globalp.com on 03/20/2001 03:21:41 PM\r\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 82,
+         "rawfrom": "John.Arnold@enron.com on 03/20/2001 04:06:55 PM\r\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 106,
+         "rawfrom": "slafontaine@globalp.com on 03/20/2001 10:48:43 AM\r\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/_sent_mail/620.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 29,
+         "rawfrom": "slafontaine@globalp.com on 03/06/2001 10:22:18 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 47,
+         "rawfrom": "John.Arnold@enron.com on 03/06/2001 10:51:13 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 64,
+         "rawfrom": "slafontaine@globalp.com on 03/06/2001 09:15:40 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/_sent_mail/632.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 45,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 10:54:14 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 68,
+         "rawfrom": "John.Arnold@enron.com on 03/02/2001 11:44:50 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 87,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 10:25:45 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 107,
+         "rawfrom": "John.Arnold@enron.com on 03/02/2001 11:22:30 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 124,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 08:54:44 AM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/_sent_mail/634.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 26,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 10:25:45 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 43,
+         "rawfrom": "John.Arnold@enron.com on 03/02/2001 11:22:30 AM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 60,
+         "rawfrom": "slafontaine@globalp.com on 03/02/2001 08:54:44 AM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/_sent_mail/651.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "michael.gapinski@painewebber.com"
+      },
+      {
+         "from": "michael.gapinski@painewebber.com",
+         "line": 25,
+         "rawfrom": "michael.gapinski@painewebber.com",
+         "source": "valid",
+         "to": "\"'John.Arnold@enron.com'\" <John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 55,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "michael.gapinski@painewebber.com"
+      },
+      {
+         "from": "michael.gapinski@painewebber.com",
+         "line": 82,
+         "rawfrom": "michael.gapinski@painewebber.com",
+         "source": "valid",
+         "to": "\"'John.Arnold@enron.com'\" <John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 105,
+         "rawfrom": "    John.Arnold@enron.com [SMTP:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "michael.gapinski@painewebber.com"
+      },
+      {
+         "from": "michael.gapinski@painewebber.com",
+         "line": 127,
+         "rawfrom": "michael.gapinski@painewebber.com",
+         "source": "valid",
+         "to": "\"'Arnold, John'\" <john.arnold@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/_sent_mail/642.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 28,
+         "rawfrom": "slafontaine@globalp.com on 02/27/2001 08:12:32 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 57,
+         "rawfrom": "John.Arnold@enron.com on 02/27/2001 08:23:22 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 90,
+         "rawfrom": "slafontaine@globalp.com on 02/26/2001 04:48:06 PM\n",
+         "source": "email",
+         "to": "jarnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/_sent_mail/402.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 35,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 62,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 87,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 113,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/_sent_mail/718.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 25,
+         "rawfrom": "slafontaine@globalp.com on 02/05/2001 06:59:36 AM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 44,
+         "rawfrom": "John.Arnold@enron.com on 02/04/2001 10:13:24 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 75,
+         "rawfrom": "slafontaine@globalp.com on 01/31/2001 04:47:22 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 107,
+         "rawfrom": "John.Arnold@enron.com on 01/31/2001 05:41:45 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 124,
+         "rawfrom": "slafontaine@globalp.com on 01/31/2001 12:40:07 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/_sent_mail/410.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 37,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 62,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 88,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/_sent_mail/396.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 35,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 59,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 94,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 122,
+         "rawfrom": "John.Arnold@enron.com [mailto:John.Arnold@enron.com]\n",
+         "source": "email",
+         "to": "epao@mba2002.hbs.edu"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/_sent_mail/227.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "athomas1@dellnet.com"
+      },
+      {
+         "from": "athomas1@dellnet.com",
+         "line": 23,
+         "rawfrom": "\"Andrew Thomas\" <athomas1@dellnet.com> on 08/28/2000 01:42:25 PM\n",
+         "source": "email",
+         "to": "<John.Arnold@enron.com>"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 33,
+         "rawfrom": "<John.Arnold@enron.com>\n",
+         "source": "email",
+         "to": "<athomas1@dellnet.com>"
+      },
+      {
+         "from": "athomas1@dellnet.com",
+         "line": 48,
+         "rawfrom": "\"Andrew Thomas\" <athomas1@dellnet.com> on 08/25/2000 02:02:59 PM\n",
+         "source": "email",
+         "to": "<Matthew.Arnold@enron.com>, <john.arnold@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/_sent_mail/721.",
+   "hops": [
+      {
+         "from": "john.arnold@enron.com",
+         "line": 4,
+         "rawfrom": "john.arnold@enron.com\r\n",
+         "source": "valid",
+         "to": "slafontaine@globalp.com"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 38,
+         "rawfrom": "slafontaine@globalp.com on 01/31/2001 04:47:22 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      },
+      {
+         "from": "john.arnold@enron.com",
+         "line": 67,
+         "rawfrom": "John.Arnold@enron.com on 01/31/2001 05:41:45 PM\n",
+         "source": "email",
+         "to": "Steve LaFontaine/GlobalCo@GlobalCo"
+      },
+      {
+         "from": "slafontaine@globalp.com",
+         "line": 84,
+         "rawfrom": "slafontaine@globalp.com on 01/31/2001 12:40:07 PM\n",
+         "source": "email",
+         "to": "John.Arnold@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/arnold-j/sony/2.",
+   "hops": [
+      {
+         "from": "trey.comiskey@enron.com",
+         "line": 4,
+         "rawfrom": "trey.comiskey@enron.com\r\n",
+         "source": "valid",
+         "to": "brien@am.sony.com, jennifer.medcalf@enron.com"
+      },
+      {
+         "from": "kenneth.cooper@am.sony.com",
+         "line": 42,
+         "rawfrom": "\"Cooper, Kenneth\" <Kenneth.Cooper@am.sony.com> on 12/08/2000 04:49:45 PM\n",
+         "source": "email",
+         "to": "\"'tcomisk@enron.com'\" <tcomisk@enron.com>"
+      },
+      {
+         "from": "tcomisk@enron.com",
+         "line": 52,
+         "rawfrom": "tcomisk@enron.com [mailto:tcomisk@enron.com]\n",
+         "source": "email",
+         "to": "Kenneth.Cooper@am.sony.com"
+      },
+      {
+         "from": "kenneth.cooper@am.sony.com",
+         "line": 72,
+         "rawfrom": "\"Cooper, Kenneth\" <Kenneth.Cooper@am.sony.com> on 12/06/2000 03:37:42 PM\n",
+         "source": "email",
+         "to": "\"'Trey Comiskey'\" <trey.comiskey@enron.com>"
+      }
+   ],
+   "skipped": 1
+}
+]

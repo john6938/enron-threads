@@ -1,0 +1,141 @@
+[
+{
+   "file": "/home/jb/maildir/panus-s/deleted_items/244.",
+   "hops": [
+      {
+         "from": "stephanie.panus@enron.com",
+         "line": 4,
+         "rawfrom": "stephanie.panus@enron.com\r\n",
+         "source": "valid",
+         "to": "dbf@vitol.com"
+      },
+      {
+         "from": "dbf@vitol.com",
+         "line": 26,
+         "rawfrom": "\tDavid Fransen <DBF@Vitol.com>@ENRON [mailto:IMCEANOTES-David+20Fransen+20+3CDBF+40Vitol+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Panus, Stephanie"
+      },
+      {
+         "from": "stephanie.panus@enron.com",
+         "line": 40,
+         "rawfrom": "Stephanie.Panus@enron.com [mailto:Stephanie.Panus@enron.com]\n",
+         "source": "email",
+         "to": "DBF@Vitol.com"
+      },
+      {
+         "from": "dbf@vitol.com",
+         "line": 56,
+         "rawfrom": "  David Fransen <DBF@Vitol.com>@ENRON\n",
+         "source": "email",
+         "to": "Panus, Stephanie"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/panus-s/deleted_items/49.",
+   "hops": [
+      {
+         "from": "stephanie.panus@enron.com",
+         "line": 4,
+         "rawfrom": "stephanie.panus@enron.com\r\n",
+         "source": "valid",
+         "to": "lkapustka@oppd.com"
+      },
+      {
+         "from": "lkapustka@oppd.com",
+         "line": 24,
+         "rawfrom": "\t\"KAPUSTKA, LAURA L\" <lkapustka@oppd.com>@ENRON  \n",
+         "source": "email",
+         "to": "Panus, Stephanie; lkapustka@oppd.com"
+      },
+      {
+         "from": "stephanie.panus@enron.com",
+         "line": 34,
+         "rawfrom": "> From:\tStephanie.Panus@enron.com [SMTP:Stephanie.Panus@enron.com]\n",
+         "source": "email",
+         "to": "lkapustka@oppd.com"
+      },
+      {
+         "from": "lkapustka@oppd.com",
+         "line": 51,
+         "rawfrom": "  \"KAPUSTKA, LAURA L\" <lkapustka@oppd.com>@ENRON\n",
+         "source": "email",
+         "to": "Panus, Stephanie"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/panus-s/deleted_items/319.",
+   "hops": [
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 4,
+         "rawfrom": "sara.shackleton@enron.com\r\n",
+         "source": "valid",
+         "to": "stephanie.panus@enron.com"
+      },
+      {
+         "from": "lauri.goodwyn@sgfimat.com",
+         "line": 39,
+         "rawfrom": "\t\"Lauri GOODWYN\" <Lauri.GOODWYN@sgfimat.com>@ENRON  \n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 51,
+         "rawfrom": "Sara.Shackleton@enron.com on 11/14/2001 11:09:12 AM\n",
+         "source": "email",
+         "to": "Lauri.GOODWYN@sgfimat.com"
+      },
+      {
+         "from": "lauri.goodwyn@sgfimat.com",
+         "line": 77,
+         "rawfrom": "  \"Lauri GOODWYN\" <Lauri.GOODWYN@sgfimat.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara; Wesner-Soong, Sarah; Warwick, Todd"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/panus-s/deleted_items/241.",
+   "hops": [
+      {
+         "from": "dbf@vitol.com",
+         "line": 4,
+         "rawfrom": "dbf@vitol.com\r\n",
+         "source": "valid",
+         "to": "stephanie.panus@enron.com"
+      },
+      {
+         "from": "dbf@vitol.com",
+         "line": 49,
+         "rawfrom": "  David Fransen <DBF@Vitol.com>@ENRON\n",
+         "source": "email",
+         "to": "Panus, Stephanie"
+      },
+      {
+         "from": "stephanie.panus@enron.com",
+         "line": 63,
+         "rawfrom": "Stephanie.Panus@enron.com [mailto:Stephanie.Panus@enron.com]\n",
+         "source": "email",
+         "to": "DBF@Vitol.com"
+      },
+      {
+         "from": "dbf@vitol.com",
+         "line": 81,
+         "rawfrom": "  David Fransen <DBF@Vitol.com>@ENRON\n",
+         "source": "email",
+         "to": "Panus, Stephanie"
+      }
+   ],
+   "skipped": 0
+}
+]

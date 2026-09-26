@@ -1,0 +1,2381 @@
+[
+{
+   "file": "/home/jb/maildir/skilling-j/inbox/2519.",
+   "hops": [
+      {
+         "from": "chuck.paul@wiseshops.com",
+         "line": 4,
+         "rawfrom": "chuck.paul@wiseshops.com\r\n",
+         "source": "valid",
+         "to": "smu-betas@yahoogroups.com"
+      },
+      {
+         "from": "akretz@glasgowmedicalcenter.com",
+         "line": 32,
+         "rawfrom": "Art Kretz [mailto:akretz@glasgowmedicalcenter.com]\n",
+         "source": "email",
+         "to": "smu-betas@yahoogroups.com"
+      },
+      {
+         "from": "azaremba@fzci.net",
+         "line": 38,
+         "rawfrom": "\"Felix Zaremba & Co., Inc.\" <azaremba@fzci.net>\n",
+         "source": "email",
+         "to": "<smu-betas@yahoogroups.com>"
+      },
+      {
+         "from": "fredinvt@juno.com",
+         "line": 52,
+         "rawfrom": "Fred D Haulenbeek <FredinVt@juno.com>\n",
+         "source": "email",
+         "to": "<smu-betas@yahoogroups.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/inbox/1158.",
+   "hops": [
+      {
+         "from": "kstewart@ctcua.org",
+         "line": 4,
+         "rawfrom": "kstewart@ctcua.org\r\n",
+         "source": "valid",
+         "to": "smu-betas@yahoogroups.com"
+      },
+      {
+         "from": "akretz@glasgowmedicalcenter.com",
+         "line": 25,
+         "rawfrom": "Art Kretz [mailto:akretz@glasgowmedicalcenter.com]\n",
+         "source": "email",
+         "to": "SMU Betas"
+      },
+      {
+         "from": "wsgarraway@prodigy.net",
+         "line": 34,
+         "rawfrom": "\"WAYNE GARRAWAY\" <WSGARRAWAY@prodigy.net>\n",
+         "source": "email",
+         "to": "<Undisclosed-Recipient:@pimout4-int.prodigy.net;>"
+      },
+      {
+         "from": "rellis9747@aol.com",
+         "line": 42,
+         "rawfrom": "<REllis9747@aol.com>\n",
+         "source": "email",
+         "to": "<ron.ellis@abnamro.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/inbox/1160.",
+   "hops": [
+      {
+         "from": "akretz@glasgowmedicalcenter.com",
+         "line": 4,
+         "rawfrom": "akretz@glasgowmedicalcenter.com\r\n",
+         "source": "valid",
+         "to": "smu-betas@yahoogroups.com"
+      },
+      {
+         "from": "wsgarraway@prodigy.net",
+         "line": 22,
+         "rawfrom": "\"WAYNE GARRAWAY\" <WSGARRAWAY@prodigy.net>\n",
+         "source": "email",
+         "to": "<Undisclosed-Recipient:@pimout4-int.prodigy.net;>"
+      },
+      {
+         "from": "rellis9747@aol.com",
+         "line": 30,
+         "rawfrom": "<REllis9747@aol.com>\n",
+         "source": "email",
+         "to": "<ron.ellis@abnamro.com>"
+      },
+      {
+         "from": "blevinemd@home.com",
+         "line": 60,
+         "rawfrom": "\"brian levine\" <blevinemd@home.com>\n",
+         "source": "email",
+         "to": "<Undisclosed-Recipient:;;>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/inbox/1398.",
+   "hops": [
+      {
+         "from": "jglass@northelginteleport.com",
+         "line": 4,
+         "rawfrom": "jglass@northelginteleport.com\r\n",
+         "source": "valid",
+         "to": "smu-betas@yahoogroups.com"
+      },
+      {
+         "from": "miller@advlaser.com",
+         "line": 44,
+         "rawfrom": "Miller, John [mailto:miller@advlaser.com]\n",
+         "source": "email",
+         "to": "'chuck.paul@a-closer-look.com'"
+      },
+      {
+         "from": "chuck.paul@a-closer-look.com",
+         "line": 52,
+         "rawfrom": "Chuck Paul [mailto:chuck.paul@a-closer-look.com]\n",
+         "source": "email",
+         "to": "miller@advlaser.com"
+      },
+      {
+         "from": "miller@advlaser.com",
+         "line": 71,
+         "rawfrom": "miller@advlaser.com [mailto:miller@advlaser.com]\n",
+         "source": "email",
+         "to": "chuck.paul@a-closer-look.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/inbox/2557.",
+   "hops": [
+      {
+         "from": "shackleton@austin.rr.com",
+         "line": 4,
+         "rawfrom": "shackleton@austin.rr.com\r\n",
+         "source": "valid",
+         "to": "smu-betas@yahoogroups.com"
+      },
+      {
+         "from": "adentiii@houston.rr.com",
+         "line": 37,
+         "rawfrom": "aldentiii <adentiii@houston.rr.com>\n",
+         "source": "email",
+         "to": "<smu-betas@yahoogroups.com>"
+      },
+      {
+         "from": "craig_shackleton@amat.com",
+         "line": 71,
+         "rawfrom": "<craig_shackleton@amat.com>\n",
+         "source": "email",
+         "to": "<smu-betas@yahoogroups.com>"
+      },
+      {
+         "from": "handshohl@eudoramail.com",
+         "line": 92,
+         "rawfrom": "handshohl@eudoramail.com",
+         "source": "valid",
+         "to": "smu-betas@yahoogroups.com"
+      },
+      {
+         "from": "boethia@hotmail.com",
+         "line": 176,
+         "rawfrom": "\"woody berry\" <boethia@hotmail.com>\n",
+         "source": "email",
+         "to": "<smu-betas@yahoogroups.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/inbox/217.",
+   "hops": [
+      {
+         "from": "erica.harris@enron.com",
+         "line": 4,
+         "rawfrom": "erica.harris@enron.com\r\n",
+         "source": "valid",
+         "to": "jeff.skilling@enron.com"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 33,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 62,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:16:12 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 78,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 95,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:09:54 PM\n",
+         "source": "email",
+         "to": "\"'jeff.skilling@enron.com'\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/inbox/2556.",
+   "hops": [
+      {
+         "from": "adentiii@houston.rr.com",
+         "line": 4,
+         "rawfrom": "adentiii@houston.rr.com\r\n",
+         "source": "valid",
+         "to": "smu-betas@yahoogroups.com"
+      },
+      {
+         "from": "craig_shackleton@amat.com",
+         "line": 41,
+         "rawfrom": "<craig_shackleton@amat.com>\n",
+         "source": "email",
+         "to": "<smu-betas@yahoogroups.com>"
+      },
+      {
+         "from": "handshohl@eudoramail.com",
+         "line": 60,
+         "rawfrom": "handshohl@eudoramail.com",
+         "source": "valid",
+         "to": "smu-betas@yahoogroups.com"
+      },
+      {
+         "from": "boethia@hotmail.com",
+         "line": 131,
+         "rawfrom": "\"woody berry\" <boethia@hotmail.com>\n",
+         "source": "email",
+         "to": "<smu-betas@yahoogroups.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/inbox/846.",
+   "hops": [
+      {
+         "from": "kstewart@ctcua.org",
+         "line": 4,
+         "rawfrom": "kstewart@ctcua.org\r\n",
+         "source": "valid",
+         "to": "smu-betas@yahoogroups.com"
+      },
+      {
+         "from": "hosman@eskridge.net",
+         "line": 26,
+         "rawfrom": "hosman [mailto:hosman@eskridge.net]\n",
+         "source": "email",
+         "to": "smu-betas@yahoogroups.com"
+      },
+      {
+         "from": "jdent@mmcable.com",
+         "line": 51,
+         "rawfrom": "\"Jim Dent\" <jdent@mmcable.com>\n",
+         "source": "email",
+         "to": "<smu-betas@yahoogroups.com>"
+      },
+      {
+         "from": "camdenway@aol.com",
+         "line": 68,
+         "rawfrom": "<camdenway@aol.com>\n",
+         "source": "email",
+         "to": "<smu-betas@yahoogroups.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/inbox/980.",
+   "hops": [
+      {
+         "from": "adentiii@houston.rr.com",
+         "line": 4,
+         "rawfrom": "adentiii@houston.rr.com\r\n",
+         "source": "valid",
+         "to": "smu-betas@yahoogroups.com"
+      },
+      {
+         "from": "chuck.paul@wiseshops.com",
+         "line": 57,
+         "rawfrom": "\"Chuck Paul\" <chuck.paul@wiseshops.com>\n",
+         "source": "email",
+         "to": "<smu-betas@yahoogroups.com>"
+      },
+      {
+         "from": "adentiii@houston.rr.com",
+         "line": 92,
+         "rawfrom": "aldentiii [mailto:adentiii@houston.rr.com]\n",
+         "source": "email",
+         "to": "smu-betas@yahoogroups.com"
+      },
+      {
+         "from": "handshohl@eudoramail.com",
+         "line": 133,
+         "rawfrom": "\"CARL HOHL\" <handshohl@eudoramail.com>\n",
+         "source": "email",
+         "to": "<smu-betas@yahoogroups.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/inbox/2454.",
+   "hops": [
+      {
+         "from": "azaremba@fzci.net",
+         "line": 4,
+         "rawfrom": "azaremba@fzci.net\r\n",
+         "source": "valid",
+         "to": "smu-betas@yahoogroups.com"
+      },
+      {
+         "from": "kstewart@ctcua.org",
+         "line": 55,
+         "rawfrom": "<kstewart@ctcua.org>\n",
+         "source": "email",
+         "to": "<smu-betas@yahoogroups.com>"
+      },
+      {
+         "from": "hosman@eskridge.net",
+         "line": 70,
+         "rawfrom": "hosman [mailto:hosman@eskridge.net]\n",
+         "source": "email",
+         "to": "smu-betas@yahoogroups.com"
+      },
+      {
+         "from": "jdent@mmcable.com",
+         "line": 101,
+         "rawfrom": "\"Jim Dent\" <jdent@mmcable.com>\n",
+         "source": "email",
+         "to": "<smu-betas@yahoogroups.com>"
+      },
+      {
+         "from": "camdenway@aol.com",
+         "line": 120,
+         "rawfrom": "<camdenway@aol.com>\n",
+         "source": "email",
+         "to": "<smu-betas@yahoogroups.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/inbox/2520.",
+   "hops": [
+      {
+         "from": "chuck.paul@wiseshops.com",
+         "line": 4,
+         "rawfrom": "chuck.paul@wiseshops.com\r\n",
+         "source": "valid",
+         "to": "smu-betas@yahoogroups.com"
+      },
+      {
+         "from": "adentiii@houston.rr.com",
+         "line": 37,
+         "rawfrom": "aldentiii [mailto:adentiii@houston.rr.com]\n",
+         "source": "email",
+         "to": "smu-betas@yahoogroups.com"
+      },
+      {
+         "from": "azaremba@fzci.net",
+         "line": 72,
+         "rawfrom": "\"Felix Zaremba & Co., Inc.\" <azaremba@fzci.net>\n",
+         "source": "email",
+         "to": "<smu-betas@yahoogroups.com>"
+      },
+      {
+         "from": "sms12289@aol.com",
+         "line": 89,
+         "rawfrom": "<sms12289@aol.com>\n",
+         "source": "email",
+         "to": "<smu-betas@yahoogroups.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/inbox/1399.",
+   "hops": [
+      {
+         "from": "chuck.paul@a-closer-look.com",
+         "line": 4,
+         "rawfrom": "chuck.paul@a-closer-look.com\r\n",
+         "source": "valid",
+         "to": "smu-betas@yahoogroups.com"
+      },
+      {
+         "from": "miller@advlaser.com",
+         "line": 35,
+         "rawfrom": "Miller, John [mailto:miller@advlaser.com]\n",
+         "source": "email",
+         "to": "'chuck.paul@a-closer-look.com'"
+      },
+      {
+         "from": "chuck.paul@a-closer-look.com",
+         "line": 43,
+         "rawfrom": "Chuck Paul [mailto:chuck.paul@a-closer-look.com]\n",
+         "source": "email",
+         "to": "miller@advlaser.com"
+      },
+      {
+         "from": "miller@advlaser.com",
+         "line": 63,
+         "rawfrom": "miller@advlaser.com [mailto:miller@advlaser.com]\n",
+         "source": "email",
+         "to": "chuck.paul@a-closer-look.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/inbox/882.",
+   "hops": [
+      {
+         "from": "chuck.paul@wiseshops.com",
+         "line": 4,
+         "rawfrom": "chuck.paul@wiseshops.com\r\n",
+         "source": "valid",
+         "to": "smu-betas@yahoogroups.com"
+      },
+      {
+         "from": "pastorhess@hotmail.com",
+         "line": 37,
+         "rawfrom": "Hess Hester [mailto:pastorhess@hotmail.com]\n",
+         "source": "email",
+         "to": "smu-betas@yahoogroups.com"
+      },
+      {
+         "from": "boethia@hotmail.com",
+         "line": 125,
+         "rawfrom": "\"woody berry\" <boethia@hotmail.com>\n",
+         "source": "email",
+         "to": "smu-betas@yahoogroups.com"
+      },
+      {
+         "from": "karengoofy@hotmail.com",
+         "line": 140,
+         "rawfrom": "\"Karen Wall\" <karengoofy@hotmail.com>\n",
+         "source": "email",
+         "to": "\"Rhonda Mallard\" <RhondaKayeM@aol.com>, \"Casey Hamacher\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/inbox/916.",
+   "hops": [
+      {
+         "from": "joeparks@parksbros.com",
+         "line": 4,
+         "rawfrom": "joeparks@parksbros.com\r\n",
+         "source": "valid",
+         "to": "smu-betas@yahoogroups.com"
+      },
+      {
+         "from": "jstorthz@swbell.net",
+         "line": 45,
+         "rawfrom": "Joe Storthz [mailto:jstorthz@swbell.net]\n",
+         "source": "email",
+         "to": "smu-betas@yahoogroups.com"
+      },
+      {
+         "from": "jdent@mmcable.com",
+         "line": 57,
+         "rawfrom": "Jim Dent <jdent@mmcable.com>\n",
+         "source": "email",
+         "to": "<smu-betas@yahoogroups.com>"
+      },
+      {
+         "from": "jglass@northelginteleport.com",
+         "line": 66,
+         "rawfrom": "Jim Glass <jglass@northelginteleport.com>\n",
+         "source": "email",
+         "to": "<smu-betas@yahoogroups.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/inbox/2461.",
+   "hops": [
+      {
+         "from": "jdent@mmcable.com",
+         "line": 4,
+         "rawfrom": "jdent@mmcable.com\r\n",
+         "source": "valid",
+         "to": "smu-betas@yahoogroups.com"
+      },
+      {
+         "from": "craig_shackleton@amat.com",
+         "line": 25,
+         "rawfrom": "<craig_shackleton@amat.com>\n",
+         "source": "email",
+         "to": "<smu-betas@yahoogroups.com>"
+      },
+      {
+         "from": "jdent@mmcable.com",
+         "line": 46,
+         "rawfrom": "jdent@mmcable.com",
+         "source": "valid",
+         "to": "<smu-betas@yahoogroups.com>"
+      },
+      {
+         "from": "camdenway@aol.com",
+         "line": 67,
+         "rawfrom": "<camdenway@aol.com>\n",
+         "source": "email",
+         "to": "<smu-betas@yahoogroups.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/all_documents/415.",
+   "hops": [
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 4,
+         "rawfrom": "nkelley@tqcap.com\r\n",
+         "source": "valid",
+         "to": "jeff.skilling@enron.com"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 24,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Neil Kelley"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 48,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/07/2000 01:35:45 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 76,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Neil Kelley"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 101,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/01/2000 02:51:21 PM\n",
+         "source": "email",
+         "to": "\"Jeff Skilling (E-mail)\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/all_documents/1528.",
+   "hops": [
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 4,
+         "rawfrom": "eharris@insightpartners.com\r\n",
+         "source": "valid",
+         "to": "jeff.skilling@enron.com"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 33,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 62,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:16:12 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 78,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 95,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:09:54 PM\n",
+         "source": "email",
+         "to": "\"'jeff.skilling@enron.com'\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/all_documents/1365.",
+   "hops": [
+      {
+         "from": "joannie.williamson@enron.com",
+         "line": 4,
+         "rawfrom": "joannie.williamson@enron.com\r\n",
+         "source": "valid",
+         "to": "holfati@ispheres.com"
+      },
+      {
+         "from": "holfati@ispheres.com",
+         "line": 27,
+         "rawfrom": "Enzo Olfati <holfati@ispheres.com> on 03/19/2001 11:24:54 AM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 42,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Enzo Olfati"
+      },
+      {
+         "from": "holfati@ispheres.com",
+         "line": 61,
+         "rawfrom": "Enzo Olfati <holfati@ispheres.com> on 03/19/2001 10:40:03 AM\n",
+         "source": "email",
+         "to": "\"Jeffrey K. Skilling (E-mail)\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/all_documents/414.",
+   "hops": [
+      {
+         "from": "sherri.sera@enron.com",
+         "line": 4,
+         "rawfrom": "sherri.sera@enron.com\r\n",
+         "source": "valid",
+         "to": "nkelley@tqcap.com"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 34,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/07/2000 01:35:45 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 59,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Neil Kelley"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 84,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/01/2000 02:51:21 PM\n",
+         "source": "email",
+         "to": "\"Jeff Skilling (E-mail)\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/all_documents/113.",
+   "hops": [
+      {
+         "from": "chuck.paul@a-closer-look.com",
+         "line": 4,
+         "rawfrom": "chuck.paul@a-closer-look.com\r\n",
+         "source": "valid",
+         "to": "jeff.skilling@enron.com"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 34,
+         "rawfrom": "<Jeff.Skilling@enron.com>\n",
+         "source": "email",
+         "to": "Chuck Paul <chuck.paul@a-closer-look.com>"
+      },
+      {
+         "from": "chuck.paul@a-closer-look.com",
+         "line": 57,
+         "rawfrom": "chuck.paul@a-closer-look.com",
+         "source": "valid",
+         "to": "<Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 77,
+         "rawfrom": "<Jeff.Skilling@enron.com>\n",
+         "source": "email",
+         "to": "Chuck Paul <chuck.paul@a-closer-look.com>"
+      },
+      {
+         "from": "chuck.paul@a-closer-look.com",
+         "line": 101,
+         "rawfrom": "chuck.paul@a-closer-look.com",
+         "source": "valid",
+         "to": "\"Jeff Skilling\" <jskilli@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/all_documents/418.",
+   "hops": [
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 4,
+         "rawfrom": "nkelley@tqcap.com\r\n",
+         "source": "valid",
+         "to": "jeff.skilling@enron.com"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 24,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Neil Kelley"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 51,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/07/2000 04:17:13 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 64,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Neil Kelley"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 88,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/07/2000 01:35:45 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 116,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Neil Kelley"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 141,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/01/2000 02:51:21 PM\n",
+         "source": "email",
+         "to": "\"Jeff Skilling (E-mail)\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/all_documents/112.",
+   "hops": [
+      {
+         "from": "sherri.sera@enron.com",
+         "line": 4,
+         "rawfrom": "sherri.sera@enron.com\r\n",
+         "source": "valid",
+         "to": "chuck.paul@a-closer-look.com"
+      },
+      {
+         "from": "chuck.paul@a-closer-look.com",
+         "line": 31,
+         "rawfrom": "chuck.paul@a-closer-look.com",
+         "source": "valid",
+         "to": "<Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 51,
+         "rawfrom": "<Jeff.Skilling@enron.com>\n",
+         "source": "email",
+         "to": "Chuck Paul <chuck.paul@a-closer-look.com>"
+      },
+      {
+         "from": "chuck.paul@a-closer-look.com",
+         "line": 75,
+         "rawfrom": "chuck.paul@a-closer-look.com",
+         "source": "valid",
+         "to": "\"Jeff Skilling\" <jskilli@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/all_documents/1532.",
+   "hops": [
+      {
+         "from": "sherri.sera@enron.com",
+         "line": 4,
+         "rawfrom": "sherri.sera@enron.com\r\n",
+         "source": "valid",
+         "to": "eharris@insightpartners.com"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 34,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 01:46:00 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 56,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 85,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:16:12 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 101,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 118,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:09:54 PM\n",
+         "source": "email",
+         "to": "\"'jeff.skilling@enron.com'\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/all_documents/1527.",
+   "hops": [
+      {
+         "from": "sherri.sera@enron.com",
+         "line": 4,
+         "rawfrom": "sherri.sera@enron.com\r\n",
+         "source": "valid",
+         "to": "eharris@insightpartners.com"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 41,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:16:12 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 57,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 74,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:09:54 PM\n",
+         "source": "email",
+         "to": "\"'jeff.skilling@enron.com'\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/all_documents/1529.",
+   "hops": [
+      {
+         "from": "sherri.sera@enron.com",
+         "line": 4,
+         "rawfrom": "sherri.sera@enron.com\r\n",
+         "source": "valid",
+         "to": "eharris@insightpartners.com"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 36,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 01:46:00 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 58,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 87,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:16:12 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 103,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 120,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:09:54 PM\n",
+         "source": "email",
+         "to": "\"'jeff.skilling@enron.com'\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/all_documents/416.",
+   "hops": [
+      {
+         "from": "sherri.sera@enron.com",
+         "line": 4,
+         "rawfrom": "sherri.sera@enron.com\r\n",
+         "source": "valid",
+         "to": "nkelley@tqcap.com"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 38,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/07/2000 04:17:13 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 51,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Neil Kelley"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 75,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/07/2000 01:35:45 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 103,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Neil Kelley"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 128,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/01/2000 02:51:21 PM\n",
+         "source": "email",
+         "to": "\"Jeff Skilling (E-mail)\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/sent/52.",
+   "hops": [
+      {
+         "from": "sherri.sera@enron.com",
+         "line": 4,
+         "rawfrom": "sherri.sera@enron.com\r\n",
+         "source": "valid",
+         "to": "chuck.paul@a-closer-look.com"
+      },
+      {
+         "from": "chuck.paul@a-closer-look.com",
+         "line": 31,
+         "rawfrom": "chuck.paul@a-closer-look.com",
+         "source": "valid",
+         "to": "<Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 51,
+         "rawfrom": "<Jeff.Skilling@enron.com>\n",
+         "source": "email",
+         "to": "Chuck Paul <chuck.paul@a-closer-look.com>"
+      },
+      {
+         "from": "chuck.paul@a-closer-look.com",
+         "line": 75,
+         "rawfrom": "chuck.paul@a-closer-look.com",
+         "source": "valid",
+         "to": "\"Jeff Skilling\" <jskilli@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/sent/478.",
+   "hops": [
+      {
+         "from": "sherri.sera@enron.com",
+         "line": 4,
+         "rawfrom": "sherri.sera@enron.com\r\n",
+         "source": "valid",
+         "to": "eharris@insightpartners.com"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 34,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 01:46:00 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 56,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 85,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:16:12 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 101,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 118,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:09:54 PM\n",
+         "source": "email",
+         "to": "\"'jeff.skilling@enron.com'\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/sent/131.",
+   "hops": [
+      {
+         "from": "sherri.sera@enron.com",
+         "line": 4,
+         "rawfrom": "sherri.sera@enron.com\r\n",
+         "source": "valid",
+         "to": "nkelley@tqcap.com"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 38,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/07/2000 04:17:13 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 51,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Neil Kelley"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 75,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/07/2000 01:35:45 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 103,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Neil Kelley"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 128,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/01/2000 02:51:21 PM\n",
+         "source": "email",
+         "to": "\"Jeff Skilling (E-mail)\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/sent/475.",
+   "hops": [
+      {
+         "from": "sherri.sera@enron.com",
+         "line": 4,
+         "rawfrom": "sherri.sera@enron.com\r\n",
+         "source": "valid",
+         "to": "eharris@insightpartners.com"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 41,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:16:12 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 57,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 74,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:09:54 PM\n",
+         "source": "email",
+         "to": "\"'jeff.skilling@enron.com'\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/sent/406.",
+   "hops": [
+      {
+         "from": "joannie.williamson@enron.com",
+         "line": 4,
+         "rawfrom": "joannie.williamson@enron.com\r\n",
+         "source": "valid",
+         "to": "holfati@ispheres.com"
+      },
+      {
+         "from": "holfati@ispheres.com",
+         "line": 27,
+         "rawfrom": "Enzo Olfati <holfati@ispheres.com> on 03/19/2001 11:24:54 AM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 42,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Enzo Olfati"
+      },
+      {
+         "from": "holfati@ispheres.com",
+         "line": 61,
+         "rawfrom": "Enzo Olfati <holfati@ispheres.com> on 03/19/2001 10:40:03 AM\n",
+         "source": "email",
+         "to": "\"Jeffrey K. Skilling (E-mail)\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/sent/476.",
+   "hops": [
+      {
+         "from": "sherri.sera@enron.com",
+         "line": 4,
+         "rawfrom": "sherri.sera@enron.com\r\n",
+         "source": "valid",
+         "to": "eharris@insightpartners.com"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 36,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 01:46:00 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 58,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 87,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:16:12 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 103,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 120,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:09:54 PM\n",
+         "source": "email",
+         "to": "\"'jeff.skilling@enron.com'\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/sent/130.",
+   "hops": [
+      {
+         "from": "sherri.sera@enron.com",
+         "line": 4,
+         "rawfrom": "sherri.sera@enron.com\r\n",
+         "source": "valid",
+         "to": "nkelley@tqcap.com"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 34,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/07/2000 01:35:45 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 59,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Neil Kelley"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 84,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/01/2000 02:51:21 PM\n",
+         "source": "email",
+         "to": "\"Jeff Skilling (E-mail)\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/notes_inbox/320.",
+   "hops": [
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 4,
+         "rawfrom": "eharris@insightpartners.com\r\n",
+         "source": "valid",
+         "to": "jeff.skilling@enron.com"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 33,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 62,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:16:12 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 78,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 95,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:09:54 PM\n",
+         "source": "email",
+         "to": "\"'jeff.skilling@enron.com'\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/notes_inbox/81.",
+   "hops": [
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 4,
+         "rawfrom": "nkelley@tqcap.com\r\n",
+         "source": "valid",
+         "to": "jeff.skilling@enron.com"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 24,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Neil Kelley"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 51,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/07/2000 04:17:13 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 64,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Neil Kelley"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 88,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/07/2000 01:35:45 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 116,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Neil Kelley"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 141,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/01/2000 02:51:21 PM\n",
+         "source": "email",
+         "to": "\"Jeff Skilling (E-mail)\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/notes_inbox/83.",
+   "hops": [
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 4,
+         "rawfrom": "nkelley@tqcap.com\r\n",
+         "source": "valid",
+         "to": "jeff.skilling@enron.com"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 24,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Neil Kelley"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 48,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/07/2000 01:35:45 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 76,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Neil Kelley"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 101,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/01/2000 02:51:21 PM\n",
+         "source": "email",
+         "to": "\"Jeff Skilling (E-mail)\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/deleted_items/111.",
+   "hops": [
+      {
+         "from": "smoore@thomasnelson.com",
+         "line": 4,
+         "rawfrom": "smoore@thomasnelson.com\r\n",
+         "source": "valid",
+         "to": "yang'.'sally@enron.com, drew'.'conway@enron.com, johnson'.'dora@enron.com,"
+      },
+      {
+         "from": "sally.yang@meade.com",
+         "line": 140,
+         "rawfrom": "Sally Yang [mailto:Sally.Yang@meade.com]\n",
+         "source": "email",
+         "to": "'Conway, Drew'; 'Dora Johnson'; 'Gerosimo, Michael'; Aaron Spencer;"
+      },
+      {
+         "from": "dconway@rens.com",
+         "line": 215,
+         "rawfrom": "Conway, Drew [mailto:dconway@rens.com]\n",
+         "source": "email",
+         "to": "'Dora Johnson'; 'Gerosimo, Michael'; Aaron Spencer; Alan Trefler;"
+      },
+      {
+         "from": "djohnson@intertrust.com",
+         "line": 282,
+         "rawfrom": "Dora Johnson [mailto:DJohnson@intertrust.com]\n",
+         "source": "email",
+         "to": "'Gerosimo, Michael'; Aaron Spencer; Alan Trefler; Albert Ondis;"
+      },
+      {
+         "from": "michael.gerosimo@lehman.com",
+         "line": 355,
+         "rawfrom": "Gerosimo, Michael [mailto:michael.gerosimo@lehman.com]\n",
+         "source": "email",
+         "to": "Aaron Spencer; Alan Trefler; Albert Ondis; Albert Suter; Albert Yu;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/sent_items/14.",
+   "hops": [
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 4,
+         "rawfrom": "jeff.skilling@enron.com\r\n",
+         "source": "valid",
+         "to": "eharris@insightpartners.com"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 32,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 01:46:00 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 54,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 83,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:16:12 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 99,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 116,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:09:54 PM\n",
+         "source": "email",
+         "to": "\"'jeff.skilling@enron.com'\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/sent_items/15.",
+   "hops": [
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 4,
+         "rawfrom": "jeff.skilling@enron.com\r\n",
+         "source": "valid",
+         "to": "eharris@insightpartners.com"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 36,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:16:12 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 52,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 69,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:09:54 PM\n",
+         "source": "email",
+         "to": "\"'jeff.skilling@enron.com'\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/sent_items/12.",
+   "hops": [
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 4,
+         "rawfrom": "jeff.skilling@enron.com\r\n",
+         "source": "valid",
+         "to": "eharris@insightpartners.com"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 32,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 01:46:00 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 54,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 83,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:16:12 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 99,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 116,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:09:54 PM\n",
+         "source": "email",
+         "to": "\"'jeff.skilling@enron.com'\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/discussion_threads/1216.",
+   "hops": [
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 4,
+         "rawfrom": "eharris@insightpartners.com\r\n",
+         "source": "valid",
+         "to": "jeff.skilling@enron.com"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 33,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 62,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:16:12 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 78,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 95,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:09:54 PM\n",
+         "source": "email",
+         "to": "\"'jeff.skilling@enron.com'\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/discussion_threads/1206.",
+   "hops": [
+      {
+         "from": "sherri.sera@enron.com",
+         "line": 4,
+         "rawfrom": "sherri.sera@enron.com\r\n",
+         "source": "valid",
+         "to": "eharris@insightpartners.com"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 41,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:16:12 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 57,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 74,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:09:54 PM\n",
+         "source": "email",
+         "to": "\"'jeff.skilling@enron.com'\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/discussion_threads/74.",
+   "hops": [
+      {
+         "from": "sherri.sera@enron.com",
+         "line": 4,
+         "rawfrom": "sherri.sera@enron.com\r\n",
+         "source": "valid",
+         "to": "chuck.paul@a-closer-look.com"
+      },
+      {
+         "from": "chuck.paul@a-closer-look.com",
+         "line": 31,
+         "rawfrom": "chuck.paul@a-closer-look.com",
+         "source": "valid",
+         "to": "<Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 51,
+         "rawfrom": "<Jeff.Skilling@enron.com>\n",
+         "source": "email",
+         "to": "Chuck Paul <chuck.paul@a-closer-look.com>"
+      },
+      {
+         "from": "chuck.paul@a-closer-look.com",
+         "line": 75,
+         "rawfrom": "chuck.paul@a-closer-look.com",
+         "source": "valid",
+         "to": "\"Jeff Skilling\" <jskilli@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/discussion_threads/75.",
+   "hops": [
+      {
+         "from": "chuck.paul@a-closer-look.com",
+         "line": 4,
+         "rawfrom": "chuck.paul@a-closer-look.com\r\n",
+         "source": "valid",
+         "to": "jeff.skilling@enron.com"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 34,
+         "rawfrom": "<Jeff.Skilling@enron.com>\n",
+         "source": "email",
+         "to": "Chuck Paul <chuck.paul@a-closer-look.com>"
+      },
+      {
+         "from": "chuck.paul@a-closer-look.com",
+         "line": 57,
+         "rawfrom": "chuck.paul@a-closer-look.com",
+         "source": "valid",
+         "to": "<Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 77,
+         "rawfrom": "<Jeff.Skilling@enron.com>\n",
+         "source": "email",
+         "to": "Chuck Paul <chuck.paul@a-closer-look.com>"
+      },
+      {
+         "from": "chuck.paul@a-closer-look.com",
+         "line": 101,
+         "rawfrom": "chuck.paul@a-closer-look.com",
+         "source": "valid",
+         "to": "\"Jeff Skilling\" <jskilli@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/discussion_threads/337.",
+   "hops": [
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 4,
+         "rawfrom": "nkelley@tqcap.com\r\n",
+         "source": "valid",
+         "to": "jeff.skilling@enron.com"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 24,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Neil Kelley"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 51,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/07/2000 04:17:13 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 64,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Neil Kelley"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 88,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/07/2000 01:35:45 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 116,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Neil Kelley"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 141,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/01/2000 02:51:21 PM\n",
+         "source": "email",
+         "to": "\"Jeff Skilling (E-mail)\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/discussion_threads/336.",
+   "hops": [
+      {
+         "from": "sherri.sera@enron.com",
+         "line": 4,
+         "rawfrom": "sherri.sera@enron.com\r\n",
+         "source": "valid",
+         "to": "nkelley@tqcap.com"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 38,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/07/2000 04:17:13 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 51,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Neil Kelley"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 75,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/07/2000 01:35:45 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 103,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Neil Kelley"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 128,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/01/2000 02:51:21 PM\n",
+         "source": "email",
+         "to": "\"Jeff Skilling (E-mail)\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/discussion_threads/1217.",
+   "hops": [
+      {
+         "from": "sherri.sera@enron.com",
+         "line": 4,
+         "rawfrom": "sherri.sera@enron.com\r\n",
+         "source": "valid",
+         "to": "eharris@insightpartners.com"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 36,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 01:46:00 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 58,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 87,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:16:12 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 103,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 120,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:09:54 PM\n",
+         "source": "email",
+         "to": "\"'jeff.skilling@enron.com'\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/discussion_threads/1218.",
+   "hops": [
+      {
+         "from": "sherri.sera@enron.com",
+         "line": 4,
+         "rawfrom": "sherri.sera@enron.com\r\n",
+         "source": "valid",
+         "to": "eharris@insightpartners.com"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 34,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 01:46:00 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 56,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 85,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:16:12 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 101,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 118,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:09:54 PM\n",
+         "source": "email",
+         "to": "\"'jeff.skilling@enron.com'\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/discussion_threads/335.",
+   "hops": [
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 4,
+         "rawfrom": "nkelley@tqcap.com\r\n",
+         "source": "valid",
+         "to": "jeff.skilling@enron.com"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 24,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Neil Kelley"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 48,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/07/2000 01:35:45 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 76,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Neil Kelley"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 101,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/01/2000 02:51:21 PM\n",
+         "source": "email",
+         "to": "\"Jeff Skilling (E-mail)\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/discussion_threads/330.",
+   "hops": [
+      {
+         "from": "sherri.sera@enron.com",
+         "line": 4,
+         "rawfrom": "sherri.sera@enron.com\r\n",
+         "source": "valid",
+         "to": "nkelley@tqcap.com"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 34,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/07/2000 01:35:45 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 59,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Neil Kelley"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 84,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/01/2000 02:51:21 PM\n",
+         "source": "email",
+         "to": "\"Jeff Skilling (E-mail)\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/_sent_mail/283.",
+   "hops": [
+      {
+         "from": "sherri.sera@enron.com",
+         "line": 4,
+         "rawfrom": "sherri.sera@enron.com\r\n",
+         "source": "valid",
+         "to": "eharris@insightpartners.com"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 41,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:16:12 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 57,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 74,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:09:54 PM\n",
+         "source": "email",
+         "to": "\"'jeff.skilling@enron.com'\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/_sent_mail/280.",
+   "hops": [
+      {
+         "from": "sherri.sera@enron.com",
+         "line": 4,
+         "rawfrom": "sherri.sera@enron.com\r\n",
+         "source": "valid",
+         "to": "eharris@insightpartners.com"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 34,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 01:46:00 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 56,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 85,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:16:12 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 101,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 118,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:09:54 PM\n",
+         "source": "email",
+         "to": "\"'jeff.skilling@enron.com'\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/_sent_mail/282.",
+   "hops": [
+      {
+         "from": "sherri.sera@enron.com",
+         "line": 4,
+         "rawfrom": "sherri.sera@enron.com\r\n",
+         "source": "valid",
+         "to": "eharris@insightpartners.com"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 36,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 01:46:00 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 58,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 87,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:16:12 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 103,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Erica Harris"
+      },
+      {
+         "from": "eharris@insightpartners.com",
+         "line": 120,
+         "rawfrom": "Erica Harris <EHarris@insightpartners.com> on 05/14/2001 12:09:54 PM\n",
+         "source": "email",
+         "to": "\"'jeff.skilling@enron.com'\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/_sent_mail/86.",
+   "hops": [
+      {
+         "from": "sherri.sera@enron.com",
+         "line": 4,
+         "rawfrom": "sherri.sera@enron.com\r\n",
+         "source": "valid",
+         "to": "chuck.paul@a-closer-look.com"
+      },
+      {
+         "from": "chuck.paul@a-closer-look.com",
+         "line": 31,
+         "rawfrom": "chuck.paul@a-closer-look.com",
+         "source": "valid",
+         "to": "<Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 51,
+         "rawfrom": "<Jeff.Skilling@enron.com>\n",
+         "source": "email",
+         "to": "Chuck Paul <chuck.paul@a-closer-look.com>"
+      },
+      {
+         "from": "chuck.paul@a-closer-look.com",
+         "line": 75,
+         "rawfrom": "chuck.paul@a-closer-look.com",
+         "source": "valid",
+         "to": "\"Jeff Skilling\" <jskilli@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/_sent_mail/8.",
+   "hops": [
+      {
+         "from": "sherri.sera@enron.com",
+         "line": 4,
+         "rawfrom": "sherri.sera@enron.com\r\n",
+         "source": "valid",
+         "to": "nkelley@tqcap.com"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 34,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/07/2000 01:35:45 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 59,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Neil Kelley"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 84,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/01/2000 02:51:21 PM\n",
+         "source": "email",
+         "to": "\"Jeff Skilling (E-mail)\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/_sent_mail/7.",
+   "hops": [
+      {
+         "from": "sherri.sera@enron.com",
+         "line": 4,
+         "rawfrom": "sherri.sera@enron.com\r\n",
+         "source": "valid",
+         "to": "nkelley@tqcap.com"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 38,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/07/2000 04:17:13 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 51,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Neil Kelley"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 75,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/07/2000 01:35:45 PM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 103,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Neil Kelley"
+      },
+      {
+         "from": "nkelley@tqcap.com",
+         "line": 128,
+         "rawfrom": "Neil Kelley <NKelley@TQCap.com> on 12/01/2000 02:51:21 PM\n",
+         "source": "email",
+         "to": "\"Jeff Skilling (E-mail)\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/_sent_mail/353.",
+   "hops": [
+      {
+         "from": "joannie.williamson@enron.com",
+         "line": 4,
+         "rawfrom": "joannie.williamson@enron.com\r\n",
+         "source": "valid",
+         "to": "holfati@ispheres.com"
+      },
+      {
+         "from": "holfati@ispheres.com",
+         "line": 27,
+         "rawfrom": "Enzo Olfati <holfati@ispheres.com> on 03/19/2001 11:24:54 AM\n",
+         "source": "email",
+         "to": "\"'Jeff.Skilling@enron.com'\" <Jeff.Skilling@enron.com>"
+      },
+      {
+         "from": "jeff.skilling@enron.com",
+         "line": 42,
+         "rawfrom": "Jeff.Skilling@enron.com [mailto:Jeff.Skilling@enron.com]\n",
+         "source": "email",
+         "to": "Enzo Olfati"
+      },
+      {
+         "from": "holfati@ispheres.com",
+         "line": 61,
+         "rawfrom": "Enzo Olfati <holfati@ispheres.com> on 03/19/2001 10:40:03 AM\n",
+         "source": "email",
+         "to": "\"Jeffrey K. Skilling (E-mail)\" <jeff.skilling@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/skilling-j/contacts/2.",
+   "hops": [
+      {
+         "from": "g.pelham@worldnet.att.net",
+         "line": 20,
+         "rawfrom": "From:\t\"Gina Pelham\" <g.pelham@worldnet.att.net>@ENRON\n",
+         "source": "email",
+         "to": "Williamson, Joannie"
+      },
+      {
+         "from": "joannie.williamson@enron.com",
+         "line": 36,
+         "rawfrom": " Joannie.Williamson@enron.com   \n",
+         "source": "valid",
+         "to": "g.pelham@worldnet.att.net"
+      },
+      {
+         "from": "g.pelham@worldnet.att.net",
+         "line": 56,
+         "rawfrom": "  \"Gina Pelham\"  <g.pelham@worldnet.att.net>@ENRON \n",
+         "source": "email",
+         "to": "Williamson, Joannie"
+      },
+      {
+         "from": "joannie.williamson@enron.com",
+         "line": 74,
+         "rawfrom": " Joannie.Williamson@enron.com   << File:\n",
+         "source": "email",
+         "to": "g.pelham@worldnet.att.net  <<  File: mailto:g.pelham@worldnet.att.net"
+      },
+      {
+         "from": "g.pelham@worldnet.att.net",
+         "line": 90,
+         "rawfrom": "  \"Gina Pelham\"  <g.pelham@worldnet.att.net>@ENRON   << File:\n",
+         "source": "email",
+         "to": "Williamson,  Joannie"
+      }
+   ],
+   "skipped": 0
+}
+]

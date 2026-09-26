@@ -1,0 +1,176 @@
+[
+{
+   "file": "/home/jb/maildir/gilbertsmith-d/deleted_items/64.",
+   "hops": [
+      {
+         "from": "rita.morales@exolink.com",
+         "line": 4,
+         "rawfrom": "rita.morales@exolink.com\r\n",
+         "source": "valid",
+         "to": "careed@aep.com, robeson@enron.com, drobe90@entergy.com"
+      },
+      {
+         "from": "careed@aep.com",
+         "line": 29,
+         "rawfrom": "careed@aep.com  [mailto:careed@aep.com]\n",
+         "source": "email",
+         "to": "ROBESON, DAVE"
+      },
+      {
+         "from": "drobe90@entergy.com",
+         "line": 36,
+         "rawfrom": "DROBE90@entergy.com",
+         "source": "valid",
+         "to": "\"'careed@aep.com'\" <careed@aep.com>,  set@ercot.com           cc:        \"WALLACE, PAMELA H\"  <PWALLA3@entergy.com>, \"BUCK, KENNETH W\"  <KBUCK@entergy.com>, \"BREAKFIELD, JAMES W\"  <JBREAKF@entergy.com>          Subject:         RE: Texas Set Meeting Jan 22nd and  23rd"
+      },
+      {
+         "from": "careed@aep.com",
+         "line": 51,
+         "rawfrom": "careed@aep.com [mailto:careed@aep.com]\n",
+         "source": "email",
+         "to": "set@ercot.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/gilbertsmith-d/deleted_items/183.",
+   "hops": [
+      {
+         "from": "doug.gilbert-smith@enron.com",
+         "line": 4,
+         "rawfrom": "doug.gilbert-smith@enron.com\r\n",
+         "source": "valid",
+         "to": "david.mckeon@entergykoch.com"
+      },
+      {
+         "from": "david.mckeon@entergykoch.com",
+         "line": 24,
+         "rawfrom": "\t\"McKeon, David (EKT)\" <David.McKeon@entergykoch.com>@ENRON  \n",
+         "source": "email",
+         "to": "Gilbert-smith, Doug"
+      },
+      {
+         "from": "doug.gilbert-smith@enron.com",
+         "line": 38,
+         "rawfrom": "> From:\tDoug.Gilbert-Smith@enron.com [SMTP:Doug.Gilbert-Smith@enron.com]\n",
+         "source": "email",
+         "to": "David.McKeon@entergykoch.com"
+      },
+      {
+         "from": "david.mckeon@entergykoch.com",
+         "line": 47,
+         "rawfrom": "  \"McKeon, David (EKT)\" <David.McKeon@entergykoch.com>@ENRON\n",
+         "source": "email",
+         "to": "Doug (E-mail); Doug (E-mail 2)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/gilbertsmith-d/deleted_items/63.",
+   "hops": [
+      {
+         "from": "drobe90@entergy.com",
+         "line": 4,
+         "rawfrom": "drobe90@entergy.com\r\n",
+         "source": "valid",
+         "to": "'patrick@enron.com, kpatrick@reliant.com, set@ercot.com"
+      },
+      {
+         "from": "kpatrick@reliant.com",
+         "line": 50,
+         "rawfrom": "Patrick, Kyle [mailto:KPatrick@reliant.com]\n",
+         "source": "email",
+         "to": "ROBESON, DAVE; careed@aep.com; set@ercot.com"
+      },
+      {
+         "from": "drobe90@entergy.com",
+         "line": 66,
+         "rawfrom": "ROBESON, DAVE [mailto:DROBE90@entergy.com]\n",
+         "source": "email",
+         "to": "'careed@aep.com'; set@ercot.com"
+      },
+      {
+         "from": "careed@aep.com",
+         "line": 90,
+         "rawfrom": "careed@aep.com [mailto:careed@aep.com]\n",
+         "source": "email",
+         "to": "set@ercot.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/gilbertsmith-d/deleted_items/180.",
+   "hops": [
+      {
+         "from": "doug.gilbert-smith@enron.com",
+         "line": 4,
+         "rawfrom": "doug.gilbert-smith@enron.com\r\n",
+         "source": "valid",
+         "to": "rpastore@aerienetworks.com"
+      },
+      {
+         "from": "rpastore@aerienetworks.com",
+         "line": 26,
+         "rawfrom": "\trpastore@aerienetworks.com@ENRON  \n",
+         "source": "email",
+         "to": "Gilbert-smith, Doug"
+      },
+      {
+         "from": "doug.gilbert-smith@enron.com",
+         "line": 94,
+         "rawfrom": "Doug.Gilbert-Smith@enron.com [mailto:Doug.Gilbert-Smith@enron.com]\n",
+         "source": "email",
+         "to": "rpastore@aerienetworks.com"
+      },
+      {
+         "from": "rpastore@aerienetworks.com",
+         "line": 108,
+         "rawfrom": "  rpastore@aerienetworks.com@ENRON\n",
+         "source": "email",
+         "to": "Gilbert-smith, Doug"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/gilbertsmith-d/deleted_items/144.",
+   "hops": [
+      {
+         "from": "careed@aep.com",
+         "line": 4,
+         "rawfrom": "careed@aep.com\r\n",
+         "source": "valid",
+         "to": "susan_j_neel@reliantenergy.com"
+      },
+      {
+         "from": "susan_j_neel@reliantenergy.com",
+         "line": 29,
+         "rawfrom": "susan_j_neel@reliantenergy.com",
+         "source": "valid",
+         "to": "\"Teel, Jennifer\" <Jennifer.Teel@EC-Power.com>          cc:        \"'careed@aep.com'\" <careed@aep.com>, \"Schrab, Heidi\" <Heidi.Schrab@greenmountain.com>, \"Mark Boyd (E-mail)\" <mkboyd@aep.com>, set@ercot.com, \"Shelly McKain (E-mail)\" <slmckain@aep.com>          Subject:        RE: 824 Readiness Survey"
+      },
+      {
+         "from": "careed@aep.com",
+         "line": 62,
+         "rawfrom": "careed@aep.com [mailto:careed@aep.com]\n",
+         "source": "email",
+         "to": "Schrab, Heidi"
+      },
+      {
+         "from": "heidi.schrab@greenmountain.com",
+         "line": 72,
+         "rawfrom": "Heidi.Schrab@greenmountain.com",
+         "source": "valid",
+         "to": ""
+      }
+   ],
+   "skipped": 1
+}
+]

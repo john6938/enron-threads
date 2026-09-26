@@ -1,0 +1,463 @@
+[
+{
+   "file": "/home/jb/maildir/pereira-s/all_documents/46.",
+   "hops": [
+      {
+         "from": "susan.pereira@enron.com",
+         "line": 4,
+         "rawfrom": "susan.pereira@enron.com\r\n",
+         "source": "valid",
+         "to": "crice@nge.com"
+      },
+      {
+         "from": "crice@nge.com",
+         "line": 29,
+         "rawfrom": "crice@nge.com",
+         "source": "valid",
+         "to": "<Susan.W.Pereira@enron.com>"
+      },
+      {
+         "from": "susan.w.pereira@enron.com",
+         "line": 49,
+         "rawfrom": "Susan.W.Pereira@enron.com [mailto:Susan.W.Pereira@enron.com]\n",
+         "source": "email",
+         "to": "crice@nge.com"
+      },
+      {
+         "from": "crice@nge.com",
+         "line": 68,
+         "rawfrom": "crice@nge.com",
+         "source": "valid",
+         "to": "<susan.w.pereira@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/pereira-s/all_documents/45.",
+   "hops": [
+      {
+         "from": "susan.pereira@enron.com",
+         "line": 4,
+         "rawfrom": "susan.pereira@enron.com\r\n",
+         "source": "valid",
+         "to": "crice@nge.com"
+      },
+      {
+         "from": "crice@nge.com",
+         "line": 28,
+         "rawfrom": "crice@nge.com",
+         "source": "valid",
+         "to": "<Susan.W.Pereira@enron.com>"
+      },
+      {
+         "from": "susan.w.pereira@enron.com",
+         "line": 46,
+         "rawfrom": "Susan.W.Pereira@enron.com [mailto:Susan.W.Pereira@enron.com]\n",
+         "source": "email",
+         "to": "crice@nge.com"
+      },
+      {
+         "from": "crice@nge.com",
+         "line": 65,
+         "rawfrom": "crice@nge.com",
+         "source": "valid",
+         "to": "<Susan.W.Pereira@enron.com>"
+      },
+      {
+         "from": "susan.w.pereira@enron.com",
+         "line": 87,
+         "rawfrom": "Susan.W.Pereira@enron.com [mailto:Susan.W.Pereira@enron.com]\n",
+         "source": "email",
+         "to": "crice@nge.com"
+      },
+      {
+         "from": "crice@nge.com",
+         "line": 106,
+         "rawfrom": "crice@nge.com",
+         "source": "valid",
+         "to": "<susan.w.pereira@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/pereira-s/all_documents/134.",
+   "hops": [
+      {
+         "from": "susan.pereira@enron.com",
+         "line": 4,
+         "rawfrom": "susan.pereira@enron.com\r\n",
+         "source": "valid",
+         "to": "stevens_hollister@eott.com"
+      },
+      {
+         "from": "stevens_hollister@eott.com",
+         "line": 32,
+         "rawfrom": "Stevens_Hollister@eott.com on 09/12/2000 07:40:02 AM\n",
+         "source": "email",
+         "to": "Susan.W.Pereira@enron.com"
+      },
+      {
+         "from": "stevens_hollister@eott.com",
+         "line": 91,
+         "rawfrom": "Stevens_Hollister@eott.com on 08/24/2000 07:54:00 AM\n",
+         "source": "email",
+         "to": "Susan.W.Pereira@enron.com"
+      },
+      {
+         "from": "stevens_hollister@eott.com",
+         "line": 142,
+         "rawfrom": "Stevens_Hollister@eott.com on 08/22/2000 07:14:39 AM\n",
+         "source": "email",
+         "to": "Dan_Cole@eott.com, Molly_Sample@eott.com, John_Ogden@eott.com,"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/pereira-s/all_documents/87.",
+   "hops": [
+      {
+         "from": "susan.pereira@enron.com",
+         "line": 4,
+         "rawfrom": "susan.pereira@enron.com\r\n",
+         "source": "valid",
+         "to": "kkw816@aol.com"
+      },
+      {
+         "from": "kkw816@aol.com",
+         "line": 33,
+         "rawfrom": "KKW816@aol.com on 02/07/2001 10:36:09 AM\n",
+         "source": "email",
+         "to": "suepruden@camh.org, Rdpruden@aol.com, bitsyo@hotmail.com,"
+      },
+      {
+         "from": "ppappas@lockeliddell.com",
+         "line": 59,
+         "rawfrom": "\"Pappas, Pamela\" <PPappas@lockeliddell.com>\n",
+         "source": "email",
+         "to": "\"Goodyear, Jim\" <jgoodyear@novussystems.com>,        \"Harrison, Kathy\""
+      },
+      {
+         "from": "jmayer0206@aol.com",
+         "line": 94,
+         "rawfrom": "JMayer0206@aol.com [mailto:JMayer0206@aol.com] \n",
+         "source": "email",
+         "to": "JMayer0206@aol.com; loder@neosoft.com; michaeltott@earthlink.net;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/pereira-s/sent/35.",
+   "hops": [
+      {
+         "from": "susan.pereira@enron.com",
+         "line": 4,
+         "rawfrom": "susan.pereira@enron.com\r\n",
+         "source": "valid",
+         "to": "crice@nge.com"
+      },
+      {
+         "from": "crice@nge.com",
+         "line": 28,
+         "rawfrom": "crice@nge.com",
+         "source": "valid",
+         "to": "<Susan.W.Pereira@enron.com>"
+      },
+      {
+         "from": "susan.w.pereira@enron.com",
+         "line": 46,
+         "rawfrom": "Susan.W.Pereira@enron.com [mailto:Susan.W.Pereira@enron.com]\n",
+         "source": "email",
+         "to": "crice@nge.com"
+      },
+      {
+         "from": "crice@nge.com",
+         "line": 65,
+         "rawfrom": "crice@nge.com",
+         "source": "valid",
+         "to": "<Susan.W.Pereira@enron.com>"
+      },
+      {
+         "from": "susan.w.pereira@enron.com",
+         "line": 87,
+         "rawfrom": "Susan.W.Pereira@enron.com [mailto:Susan.W.Pereira@enron.com]\n",
+         "source": "email",
+         "to": "crice@nge.com"
+      },
+      {
+         "from": "crice@nge.com",
+         "line": 106,
+         "rawfrom": "crice@nge.com",
+         "source": "valid",
+         "to": "<susan.w.pereira@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/pereira-s/sent/124.",
+   "hops": [
+      {
+         "from": "susan.pereira@enron.com",
+         "line": 4,
+         "rawfrom": "susan.pereira@enron.com\r\n",
+         "source": "valid",
+         "to": "stevens_hollister@eott.com"
+      },
+      {
+         "from": "stevens_hollister@eott.com",
+         "line": 32,
+         "rawfrom": "Stevens_Hollister@eott.com on 09/12/2000 07:40:02 AM\n",
+         "source": "email",
+         "to": "Susan.W.Pereira@enron.com"
+      },
+      {
+         "from": "stevens_hollister@eott.com",
+         "line": 91,
+         "rawfrom": "Stevens_Hollister@eott.com on 08/24/2000 07:54:00 AM\n",
+         "source": "email",
+         "to": "Susan.W.Pereira@enron.com"
+      },
+      {
+         "from": "stevens_hollister@eott.com",
+         "line": 142,
+         "rawfrom": "Stevens_Hollister@eott.com on 08/22/2000 07:14:39 AM\n",
+         "source": "email",
+         "to": "Dan_Cole@eott.com, Molly_Sample@eott.com, John_Ogden@eott.com,"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/pereira-s/sent/36.",
+   "hops": [
+      {
+         "from": "susan.pereira@enron.com",
+         "line": 4,
+         "rawfrom": "susan.pereira@enron.com\r\n",
+         "source": "valid",
+         "to": "crice@nge.com"
+      },
+      {
+         "from": "crice@nge.com",
+         "line": 29,
+         "rawfrom": "crice@nge.com",
+         "source": "valid",
+         "to": "<Susan.W.Pereira@enron.com>"
+      },
+      {
+         "from": "susan.w.pereira@enron.com",
+         "line": 49,
+         "rawfrom": "Susan.W.Pereira@enron.com [mailto:Susan.W.Pereira@enron.com]\n",
+         "source": "email",
+         "to": "crice@nge.com"
+      },
+      {
+         "from": "crice@nge.com",
+         "line": 68,
+         "rawfrom": "crice@nge.com",
+         "source": "valid",
+         "to": "<susan.w.pereira@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/pereira-s/sent/77.",
+   "hops": [
+      {
+         "from": "susan.pereira@enron.com",
+         "line": 4,
+         "rawfrom": "susan.pereira@enron.com\r\n",
+         "source": "valid",
+         "to": "kkw816@aol.com"
+      },
+      {
+         "from": "kkw816@aol.com",
+         "line": 33,
+         "rawfrom": "KKW816@aol.com on 02/07/2001 10:36:09 AM\n",
+         "source": "email",
+         "to": "suepruden@camh.org, Rdpruden@aol.com, bitsyo@hotmail.com,"
+      },
+      {
+         "from": "ppappas@lockeliddell.com",
+         "line": 59,
+         "rawfrom": "\"Pappas, Pamela\" <PPappas@lockeliddell.com>\n",
+         "source": "email",
+         "to": "\"Goodyear, Jim\" <jgoodyear@novussystems.com>,        \"Harrison, Kathy\""
+      },
+      {
+         "from": "jmayer0206@aol.com",
+         "line": 94,
+         "rawfrom": "JMayer0206@aol.com [mailto:JMayer0206@aol.com] \n",
+         "source": "email",
+         "to": "JMayer0206@aol.com; loder@neosoft.com; michaeltott@earthlink.net;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/pereira-s/_sent_mail/35.",
+   "hops": [
+      {
+         "from": "susan.pereira@enron.com",
+         "line": 4,
+         "rawfrom": "susan.pereira@enron.com\r\n",
+         "source": "valid",
+         "to": "crice@nge.com"
+      },
+      {
+         "from": "crice@nge.com",
+         "line": 28,
+         "rawfrom": "crice@nge.com",
+         "source": "valid",
+         "to": "<Susan.W.Pereira@enron.com>"
+      },
+      {
+         "from": "susan.w.pereira@enron.com",
+         "line": 46,
+         "rawfrom": "Susan.W.Pereira@enron.com [mailto:Susan.W.Pereira@enron.com]\n",
+         "source": "email",
+         "to": "crice@nge.com"
+      },
+      {
+         "from": "crice@nge.com",
+         "line": 65,
+         "rawfrom": "crice@nge.com",
+         "source": "valid",
+         "to": "<Susan.W.Pereira@enron.com>"
+      },
+      {
+         "from": "susan.w.pereira@enron.com",
+         "line": 87,
+         "rawfrom": "Susan.W.Pereira@enron.com [mailto:Susan.W.Pereira@enron.com]\n",
+         "source": "email",
+         "to": "crice@nge.com"
+      },
+      {
+         "from": "crice@nge.com",
+         "line": 106,
+         "rawfrom": "crice@nge.com",
+         "source": "valid",
+         "to": "<susan.w.pereira@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/pereira-s/_sent_mail/124.",
+   "hops": [
+      {
+         "from": "susan.pereira@enron.com",
+         "line": 4,
+         "rawfrom": "susan.pereira@enron.com\r\n",
+         "source": "valid",
+         "to": "stevens_hollister@eott.com"
+      },
+      {
+         "from": "stevens_hollister@eott.com",
+         "line": 32,
+         "rawfrom": "Stevens_Hollister@eott.com on 09/12/2000 07:40:02 AM\n",
+         "source": "email",
+         "to": "Susan.W.Pereira@enron.com"
+      },
+      {
+         "from": "stevens_hollister@eott.com",
+         "line": 91,
+         "rawfrom": "Stevens_Hollister@eott.com on 08/24/2000 07:54:00 AM\n",
+         "source": "email",
+         "to": "Susan.W.Pereira@enron.com"
+      },
+      {
+         "from": "stevens_hollister@eott.com",
+         "line": 142,
+         "rawfrom": "Stevens_Hollister@eott.com on 08/22/2000 07:14:39 AM\n",
+         "source": "email",
+         "to": "Dan_Cole@eott.com, Molly_Sample@eott.com, John_Ogden@eott.com,"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/pereira-s/_sent_mail/36.",
+   "hops": [
+      {
+         "from": "susan.pereira@enron.com",
+         "line": 4,
+         "rawfrom": "susan.pereira@enron.com\r\n",
+         "source": "valid",
+         "to": "crice@nge.com"
+      },
+      {
+         "from": "crice@nge.com",
+         "line": 29,
+         "rawfrom": "crice@nge.com",
+         "source": "valid",
+         "to": "<Susan.W.Pereira@enron.com>"
+      },
+      {
+         "from": "susan.w.pereira@enron.com",
+         "line": 49,
+         "rawfrom": "Susan.W.Pereira@enron.com [mailto:Susan.W.Pereira@enron.com]\n",
+         "source": "email",
+         "to": "crice@nge.com"
+      },
+      {
+         "from": "crice@nge.com",
+         "line": 68,
+         "rawfrom": "crice@nge.com",
+         "source": "valid",
+         "to": "<susan.w.pereira@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/pereira-s/_sent_mail/77.",
+   "hops": [
+      {
+         "from": "susan.pereira@enron.com",
+         "line": 4,
+         "rawfrom": "susan.pereira@enron.com\r\n",
+         "source": "valid",
+         "to": "kkw816@aol.com"
+      },
+      {
+         "from": "kkw816@aol.com",
+         "line": 33,
+         "rawfrom": "KKW816@aol.com on 02/07/2001 10:36:09 AM\n",
+         "source": "email",
+         "to": "suepruden@camh.org, Rdpruden@aol.com, bitsyo@hotmail.com,"
+      },
+      {
+         "from": "ppappas@lockeliddell.com",
+         "line": 59,
+         "rawfrom": "\"Pappas, Pamela\" <PPappas@lockeliddell.com>\n",
+         "source": "email",
+         "to": "\"Goodyear, Jim\" <jgoodyear@novussystems.com>,        \"Harrison, Kathy\""
+      },
+      {
+         "from": "jmayer0206@aol.com",
+         "line": 94,
+         "rawfrom": "JMayer0206@aol.com [mailto:JMayer0206@aol.com] \n",
+         "source": "email",
+         "to": "JMayer0206@aol.com; loder@neosoft.com; michaeltott@earthlink.net;"
+      }
+   ],
+   "skipped": 0
+}
+]

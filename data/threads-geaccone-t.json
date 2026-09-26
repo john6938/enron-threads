@@ -1,0 +1,792 @@
+[
+{
+   "file": "/home/jb/maildir/geaccone-t/inbox/414.",
+   "hops": [
+      {
+         "from": "fali@adaytum.com",
+         "line": 4,
+         "rawfrom": "fali@adaytum.com\r\n",
+         "source": "valid",
+         "to": "tracy.geaccone@enron.com"
+      },
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 26,
+         "rawfrom": "Geaccone, Tracy [mailto:Tracy.Geaccone@ENRON.com]\n",
+         "source": "email",
+         "to": "Fred Ali"
+      },
+      {
+         "from": "fali@adaytum.com",
+         "line": 35,
+         "rawfrom": "Fred Ali [mailto:FAli@Adaytum.com]\n",
+         "source": "email",
+         "to": "Geaccone, Tracy"
+      },
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 44,
+         "rawfrom": "Geaccone, Tracy [mailto:Tracy.Geaccone@ENRON.com]\n",
+         "source": "email",
+         "to": "Fred Ali"
+      },
+      {
+         "from": "fali@adaytum.com",
+         "line": 54,
+         "rawfrom": "Fred Ali [mailto:FAli@Adaytum.com]\n",
+         "source": "email",
+         "to": "Geaccone, Tracy"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/geaccone-t/inbox/74.",
+   "hops": [
+      {
+         "from": "bob.chandler@enron.com",
+         "line": 4,
+         "rawfrom": "bob.chandler@enron.com\r\n",
+         "source": "valid",
+         "to": "gary.zahn@enron.com"
+      },
+      {
+         "from": "jpetersen@spike.dor.state.co.us",
+         "line": 36,
+         "rawfrom": "From:\tPetersen, John [mailto:jpetersen@spike.dor.state.co.us]\n",
+         "source": "email",
+         "to": "Rittgers, Dan"
+      },
+      {
+         "from": "dan.rittgers@enron.com",
+         "line": 50,
+         "rawfrom": "> From:\tRittgers, Dan[SMTP:Dan.Rittgers@ENRON.com]\n",
+         "source": "email",
+         "to": "Petersen, John"
+      },
+      {
+         "from": "jpetersen@spike.dor.state.co.us",
+         "line": 111,
+         "rawfrom": "> From:\tPetersen, John [mailto:jpetersen@spike.dor.state.co.us]\n",
+         "source": "email",
+         "to": "Rittgers, Dan"
+      },
+      {
+         "from": "dan.rittgers@enron.com",
+         "line": 135,
+         "rawfrom": "> > From:\tDan.Rittgers@enron.com[SMTP:Dan.Rittgers@enron.com]\n",
+         "source": "email",
+         "to": "jpetersen@spike.dor.state.co.us"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/geaccone-t/inbox/231.",
+   "hops": [
+      {
+         "from": "dan.rittgers@enron.com",
+         "line": 4,
+         "rawfrom": "dan.rittgers@enron.com\r\n",
+         "source": "valid",
+         "to": "tracy.geaccone@enron.com"
+      },
+      {
+         "from": "jpetersen@spike.dor.state.co.us",
+         "line": 155,
+         "rawfrom": "From:\tPetersen, John [mailto:jpetersen@spike.dor.state.co.us]\n",
+         "source": "email",
+         "to": "Rittgers, Dan"
+      },
+      {
+         "from": "dan.rittgers@enron.com",
+         "line": 168,
+         "rawfrom": "> From:\tRittgers, Dan[SMTP:Dan.Rittgers@ENRON.com]\n",
+         "source": "email",
+         "to": "Petersen, John"
+      },
+      {
+         "from": "jpetersen@spike.dor.state.co.us",
+         "line": 229,
+         "rawfrom": "> From:\tPetersen, John [mailto:jpetersen@spike.dor.state.co.us]\n",
+         "source": "email",
+         "to": "Rittgers, Dan"
+      },
+      {
+         "from": "dan.rittgers@enron.com",
+         "line": 253,
+         "rawfrom": "> > From:\tDan.Rittgers@enron.com[SMTP:Dan.Rittgers@enron.com]\n",
+         "source": "email",
+         "to": "jpetersen@spike.dor.state.co.us"
+      }
+   ],
+   "skipped": 9
+}
+,
+{
+   "file": "/home/jb/maildir/geaccone-t/inbox/395.",
+   "hops": [
+      {
+         "from": "fali@adaytum.com",
+         "line": 4,
+         "rawfrom": "fali@adaytum.com\r\n",
+         "source": "valid",
+         "to": "tracy.geaccone@enron.com, ali.fred@enron.com, vo.hoang@enron.com,"
+      },
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 32,
+         "rawfrom": "Geaccone, Tracy [mailto:Tracy.Geaccone@ENRON.com]\n",
+         "source": "email",
+         "to": "Fred Ali; Hoang Vo"
+      },
+      {
+         "from": "fali@adaytum.com",
+         "line": 42,
+         "rawfrom": "Fred Ali [mailto:FAli@Adaytum.com]\n",
+         "source": "email",
+         "to": "Hoang Vo; Geaccone, Tracy"
+      },
+      {
+         "from": "fali@adaytum.com",
+         "line": 76,
+         "rawfrom": "Fred Ali [mailto:FAli@Adaytum.com]\n",
+         "source": "email",
+         "to": "Geaccone, Tracy"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/geaccone-t/inbox/104.",
+   "hops": [
+      {
+         "from": "mhughes@paincarecenter.com",
+         "line": 4,
+         "rawfrom": "mhughes@paincarecenter.com\r\n",
+         "source": "valid",
+         "to": "tracy.geaccone@enron.com"
+      },
+      {
+         "from": "mhughes@paincarecenter.com",
+         "line": 30,
+         "rawfrom": "mhughes@paincarecenter.com [mailto:mhughes@paincarecenter.com]\n",
+         "source": "email",
+         "to": "Geaccone, Tracy"
+      },
+      {
+         "from": "mhughes@paincarecenter.com",
+         "line": 48,
+         "rawfrom": "mhughes@paincarecenter.com [mailto:mhughes@paincarecenter.com]\n",
+         "source": "email",
+         "to": "Geaccone, Tracy"
+      },
+      {
+         "from": "mhughes@paincarecenter.com",
+         "line": 66,
+         "rawfrom": "mhughes@paincarecenter.com [mailto:mhughes@paincarecenter.com]\n",
+         "source": "email",
+         "to": "Jeannine Cassell"
+      },
+      {
+         "from": "niltemere@aol.com",
+         "line": 74,
+         "rawfrom": "NilTemere@aol.com \n",
+         "source": "valid",
+         "to": "bcenter2k@yahoo.com ; bnln@email.msn.com ; gcrubiola@msn.com ; HootieRN@aol.com ; mhughes@paincarecenter.com ; Lake@texas.net ; SYLMADDOX@aol.com ; mmschendel@n2mail.com ; ramo@iprimus.com.au ; bjohnson497@earthlink.net ; AlisonD111@aol.com ; betsyh@swbell.net ; ccwhite2@swbell.net ; MHolik@aol.com ; jyandell3@home.com ; kathyamen@hotmail.com ; sarose2000@hotmail.com ; RAShearer@aol.com ; kiscobirdman@email.msn.com ; MSFleitas@aol.com ; jeandy@att.net ; pnella@earthlink.net"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/geaccone-t/inbox/83.",
+   "hops": [
+      {
+         "from": "bob.chandler@enron.com",
+         "line": 4,
+         "rawfrom": "bob.chandler@enron.com\r\n",
+         "source": "valid",
+         "to": "dan.rittgers@enron.com"
+      },
+      {
+         "from": "jpetersen@spike.dor.state.co.us",
+         "line": 94,
+         "rawfrom": "From:\tPetersen, John [mailto:jpetersen@spike.dor.state.co.us]\n",
+         "source": "email",
+         "to": "Rittgers, Dan"
+      },
+      {
+         "from": "dan.rittgers@enron.com",
+         "line": 107,
+         "rawfrom": "> From:\tRittgers, Dan[SMTP:Dan.Rittgers@ENRON.com]\n",
+         "source": "email",
+         "to": "Petersen, John"
+      },
+      {
+         "from": "jpetersen@spike.dor.state.co.us",
+         "line": 168,
+         "rawfrom": "> From:\tPetersen, John [mailto:jpetersen@spike.dor.state.co.us]\n",
+         "source": "email",
+         "to": "Rittgers, Dan"
+      },
+      {
+         "from": "dan.rittgers@enron.com",
+         "line": 192,
+         "rawfrom": "> > From:\tDan.Rittgers@enron.com[SMTP:Dan.Rittgers@enron.com]\n",
+         "source": "email",
+         "to": "jpetersen@spike.dor.state.co.us"
+      }
+   ],
+   "skipped": 7
+}
+,
+{
+   "file": "/home/jb/maildir/geaccone-t/inbox/420.",
+   "hops": [
+      {
+         "from": "fali@adaytum.com",
+         "line": 4,
+         "rawfrom": "fali@adaytum.com\r\n",
+         "source": "valid",
+         "to": "tracy.geaccone@enron.com, vo.hoang@enron.com, tyson.demetrics@enron.com,"
+      },
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 46,
+         "rawfrom": "Geaccone, Tracy [mailto:Tracy.Geaccone@ENRON.com]\n",
+         "source": "email",
+         "to": "Fred Ali; Hoang Vo"
+      },
+      {
+         "from": "fali@adaytum.com",
+         "line": 56,
+         "rawfrom": "Fred Ali [mailto:FAli@Adaytum.com]\n",
+         "source": "email",
+         "to": "Hoang Vo; Geaccone, Tracy"
+      },
+      {
+         "from": "fali@adaytum.com",
+         "line": 90,
+         "rawfrom": "Fred Ali [mailto:FAli@Adaytum.com]\n",
+         "source": "email",
+         "to": "Geaccone, Tracy"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/geaccone-t/inbox/78.",
+   "hops": [
+      {
+         "from": "bob.chandler@enron.com",
+         "line": 4,
+         "rawfrom": "bob.chandler@enron.com\r\n",
+         "source": "valid",
+         "to": "tracy.geaccone@enron.com"
+      },
+      {
+         "from": "jpetersen@spike.dor.state.co.us",
+         "line": 78,
+         "rawfrom": "From:\tPetersen, John [mailto:jpetersen@spike.dor.state.co.us]\n",
+         "source": "email",
+         "to": "Rittgers, Dan"
+      },
+      {
+         "from": "dan.rittgers@enron.com",
+         "line": 91,
+         "rawfrom": "> From:\tRittgers, Dan[SMTP:Dan.Rittgers@ENRON.com]\n",
+         "source": "email",
+         "to": "Petersen, John"
+      },
+      {
+         "from": "jpetersen@spike.dor.state.co.us",
+         "line": 152,
+         "rawfrom": "> From:\tPetersen, John [mailto:jpetersen@spike.dor.state.co.us]\n",
+         "source": "email",
+         "to": "Rittgers, Dan"
+      },
+      {
+         "from": "dan.rittgers@enron.com",
+         "line": 176,
+         "rawfrom": "> > From:\tDan.Rittgers@enron.com[SMTP:Dan.Rittgers@enron.com]\n",
+         "source": "email",
+         "to": "jpetersen@spike.dor.state.co.us"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/geaccone-t/deleted_items/175.",
+   "hops": [
+      {
+         "from": "elove@coair.com",
+         "line": 4,
+         "rawfrom": "elove@coair.com\r\n",
+         "source": "valid",
+         "to": "tracy.geaccone@enron.com"
+      },
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 31,
+         "rawfrom": "Geaccone, Tracy [mailto:Tracy.Geaccone@ENRON.com]\n",
+         "source": "email",
+         "to": "Love, Estelle"
+      },
+      {
+         "from": "elove@coair.com",
+         "line": 38,
+         "rawfrom": "Love, Estelle [mailto:ELove@coair.com]\n",
+         "source": "email",
+         "to": "Geaccone, Tracy"
+      },
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 64,
+         "rawfrom": "Geaccone, Tracy [mailto:Tracy.Geaccone@ENRON.com]\n",
+         "source": "email",
+         "to": "Love, Estelle"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/geaccone-t/deleted_items/180.",
+   "hops": [
+      {
+         "from": "elove@coair.com",
+         "line": 4,
+         "rawfrom": "elove@coair.com\r\n",
+         "source": "valid",
+         "to": "tracy.geaccone@enron.com"
+      },
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 29,
+         "rawfrom": "Geaccone, Tracy [mailto:Tracy.Geaccone@ENRON.com]\n",
+         "source": "email",
+         "to": "Love, Estelle"
+      },
+      {
+         "from": "elove@coair.com",
+         "line": 36,
+         "rawfrom": "Love, Estelle [mailto:ELove@coair.com]\n",
+         "source": "email",
+         "to": "Geaccone, Tracy"
+      },
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 52,
+         "rawfrom": "Geaccone, Tracy [mailto:Tracy.Geaccone@ENRON.com]\n",
+         "source": "email",
+         "to": "Love, Estelle"
+      },
+      {
+         "from": "elove@coair.com",
+         "line": 59,
+         "rawfrom": "Love, Estelle [mailto:ELove@coair.com]\n",
+         "source": "email",
+         "to": "Geaccone, Tracy"
+      },
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 85,
+         "rawfrom": "Geaccone, Tracy [mailto:Tracy.Geaccone@ENRON.com]\n",
+         "source": "email",
+         "to": "Love, Estelle"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/geaccone-t/sent_items/255.",
+   "hops": [
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 4,
+         "rawfrom": "tracy.geaccone@enron.com\r\n",
+         "source": "valid",
+         "to": "fali@adaytum.com"
+      },
+      {
+         "from": "fali@adaytum.com",
+         "line": 22,
+         "rawfrom": "Fred Ali [mailto:FAli@Adaytum.com]\n",
+         "source": "email",
+         "to": "Geaccone, Tracy"
+      },
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 31,
+         "rawfrom": "Geaccone, Tracy [mailto:Tracy.Geaccone@ENRON.com]\n",
+         "source": "email",
+         "to": "Fred Ali"
+      },
+      {
+         "from": "fali@adaytum.com",
+         "line": 41,
+         "rawfrom": "Fred Ali [mailto:FAli@Adaytum.com]\n",
+         "source": "email",
+         "to": "Geaccone, Tracy"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/geaccone-t/sent_items/182.",
+   "hops": [
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 4,
+         "rawfrom": "tracy.geaccone@enron.com\r\n",
+         "source": "valid",
+         "to": "'love@enron.com, elove@coair.com"
+      },
+      {
+         "from": "elove@coair.com",
+         "line": 21,
+         "rawfrom": "Love, Estelle [mailto:ELove@coair.com]\n",
+         "source": "email",
+         "to": "Geaccone, Tracy"
+      },
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 37,
+         "rawfrom": "Geaccone, Tracy [mailto:Tracy.Geaccone@ENRON.com]\n",
+         "source": "email",
+         "to": "Love, Estelle"
+      },
+      {
+         "from": "elove@coair.com",
+         "line": 44,
+         "rawfrom": "Love, Estelle [mailto:ELove@coair.com]\n",
+         "source": "email",
+         "to": "Geaccone, Tracy"
+      },
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 64,
+         "rawfrom": "Geaccone, Tracy [mailto:Tracy.Geaccone@ENRON.com]\n",
+         "source": "email",
+         "to": "Love, Estelle"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/geaccone-t/sent_items/185.",
+   "hops": [
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 4,
+         "rawfrom": "tracy.geaccone@enron.com\r\n",
+         "source": "valid",
+         "to": "'love@enron.com, elove@coair.com"
+      },
+      {
+         "from": "elove@coair.com",
+         "line": 21,
+         "rawfrom": "Love, Estelle [mailto:ELove@coair.com]\n",
+         "source": "email",
+         "to": "Geaccone, Tracy"
+      },
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 37,
+         "rawfrom": "Geaccone, Tracy [mailto:Tracy.Geaccone@ENRON.com]\n",
+         "source": "email",
+         "to": "Love, Estelle"
+      },
+      {
+         "from": "elove@coair.com",
+         "line": 44,
+         "rawfrom": "Love, Estelle [mailto:ELove@coair.com]\n",
+         "source": "email",
+         "to": "Geaccone, Tracy"
+      },
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 58,
+         "rawfrom": "Geaccone, Tracy [mailto:Tracy.Geaccone@ENRON.com]\n",
+         "source": "email",
+         "to": "Love, Estelle"
+      },
+      {
+         "from": "elove@coair.com",
+         "line": 65,
+         "rawfrom": "Love, Estelle [mailto:ELove@coair.com]\n",
+         "source": "email",
+         "to": "Geaccone, Tracy"
+      },
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 85,
+         "rawfrom": "Geaccone, Tracy [mailto:Tracy.Geaccone@ENRON.com]\n",
+         "source": "email",
+         "to": "Love, Estelle"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/geaccone-t/sent_items/291.",
+   "hops": [
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 4,
+         "rawfrom": "tracy.geaccone@enron.com\r\n",
+         "source": "valid",
+         "to": "jeanette.doll@enron.com"
+      },
+      {
+         "from": "robyn.usher@itiliti.com",
+         "line": 38,
+         "rawfrom": "\t\"Usher, Robyn\" <Robyn.Usher@Itiliti.com>@ENRON  \n",
+         "source": "email",
+         "to": "CSS"
+      },
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 46,
+         "rawfrom": "Geaccone, Tracy [mailto:Tracy.Geaccone@ENRON.com]\n",
+         "source": "email",
+         "to": "itiliti GRI Notification"
+      },
+      {
+         "from": "grinotice@itiliti.com",
+         "line": 55,
+         "rawfrom": "itiliti GRI Notification [mailto:GRINotice@itiliti.com]\n",
+         "source": "email",
+         "to": "Geaccone, Tracy"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/geaccone-t/_sent_mail/124.",
+   "hops": [
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 4,
+         "rawfrom": "tracy.geaccone@enron.com\r\n",
+         "source": "valid",
+         "to": "jon.trevelise@enron.com"
+      },
+      {
+         "from": "karellmd@email.msn.com",
+         "line": 31,
+         "rawfrom": "\"karellmd\" <karellmd@email.msn.com>\n",
+         "source": "email",
+         "to": "\"Janet Tanner\" <jtanner_1953@yahoo.com>; \"Karen Key\""
+      },
+      {
+         "from": "combs@ecentral.com",
+         "line": 40,
+         "rawfrom": "\"Don & Awyn Combs\" <combs@ecentral.com>\n",
+         "source": "email",
+         "to": "\"Jim & Glenna Loomis\" <loomis@cysource.com>"
+      },
+      {
+         "from": "dbelden@chisp.net",
+         "line": 53,
+         "rawfrom": "Don Belden <dbelden@chisp.net>\n",
+         "source": "email",
+         "to": "Ginnie Sperry <ginsperry@aol.com>"
+      },
+      {
+         "from": "crazo@aol.com",
+         "line": 69,
+         "rawfrom": "CRAZO@aol.com [mailto:CRAZO@aol.com]\n",
+         "source": "email",
+         "to": "RBeer@mediaone.net; patricib@flint.umich.edu;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/geaccone-t/_sent_mail/118.",
+   "hops": [
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 4,
+         "rawfrom": "tracy.geaccone@enron.com\r\n",
+         "source": "valid",
+         "to": "karen.samples@chase.com"
+      },
+      {
+         "from": "karen.samples@chase.com",
+         "line": 25,
+         "rawfrom": "<KAREN.SAMPLES@chase.com> on 02/05/2001 03:31:39 PM\n",
+         "source": "email",
+         "to": "<Tracy.Geaccone@enron.com>"
+      },
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 41,
+         "rawfrom": "<Tracy.Geaccone@enron.com> on 02/05/2001 01:58:28 PM\n",
+         "source": "email",
+         "to": "Karen Samples/CHASE@CHASE"
+      },
+      {
+         "from": "karen.samples@chase.com",
+         "line": 55,
+         "rawfrom": "<KAREN.SAMPLES@chase.com> on 02/05/2001 10:19:01 AM\n",
+         "source": "email",
+         "to": "tracy.geaccone@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/geaccone-t/_sent_mail/116.",
+   "hops": [
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 4,
+         "rawfrom": "tracy.geaccone@enron.com\r\n",
+         "source": "valid",
+         "to": "karen.samples@chase.com"
+      },
+      {
+         "from": "karen.samples@chase.com",
+         "line": 25,
+         "rawfrom": "<KAREN.SAMPLES@chase.com> on 02/06/2001 09:10:50 AM\n",
+         "source": "email",
+         "to": "<Tracy.Geaccone@enron.com>"
+      },
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 41,
+         "rawfrom": "<Tracy.Geaccone@enron.com> on 02/05/2001 04:36:10 PM\n",
+         "source": "email",
+         "to": "Karen Samples/CHASE@CHASE"
+      },
+      {
+         "from": "karen.samples@chase.com",
+         "line": 56,
+         "rawfrom": "<KAREN.SAMPLES@chase.com> on 02/05/2001 03:31:39 PM\n",
+         "source": "email",
+         "to": "<Tracy.Geaccone@enron.com>"
+      },
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 72,
+         "rawfrom": "<Tracy.Geaccone@enron.com> on 02/05/2001 01:58:28 PM\n",
+         "source": "email",
+         "to": "Karen Samples/CHASE@CHASE"
+      },
+      {
+         "from": "karen.samples@chase.com",
+         "line": 86,
+         "rawfrom": "<KAREN.SAMPLES@chase.com> on 02/05/2001 10:19:01 AM\n",
+         "source": "email",
+         "to": "tracy.geaccone@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/geaccone-t/_sent_mail/55.",
+   "hops": [
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 4,
+         "rawfrom": "tracy.geaccone@enron.com\r\n",
+         "source": "valid",
+         "to": "mhughes@paincarecenter.com"
+      },
+      {
+         "from": "mhughes@paincarecenter.com",
+         "line": 25,
+         "rawfrom": "<mhughes@paincarecenter.com> on 02/15/2001 02:56:15 PM\n",
+         "source": "email",
+         "to": "<Tracy.Geaccone@enron.com>"
+      },
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 36,
+         "rawfrom": "<Tracy.Geaccone@enron.com>\n",
+         "source": "email",
+         "to": "<mhughes@paincarecenter.com>"
+      },
+      {
+         "from": "mhughes@paincarecenter.com",
+         "line": 51,
+         "rawfrom": "mhughes@paincarecenter.com",
+         "source": "valid",
+         "to": "<Tracy.Geaccone@enron.com>"
+      },
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 68,
+         "rawfrom": "<Tracy.Geaccone@enron.com>\n",
+         "source": "email",
+         "to": "<mhughes@paincarecenter.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/geaccone-t/_sent_mail/137.",
+   "hops": [
+      {
+         "from": "tracy.geaccone@enron.com",
+         "line": 4,
+         "rawfrom": "tracy.geaccone@enron.com\r\n",
+         "source": "valid",
+         "to": "jon.trevelise@enron.com"
+      },
+      {
+         "from": "gsugarbee@cs.com",
+         "line": 34,
+         "rawfrom": "<Gsugarbee@cs.com>\r\n",
+         "source": "email",
+         "to": "<Lp4you2nv@aol.com>"
+      },
+      {
+         "from": "jrtools@att.net",
+         "line": 121,
+         "rawfrom": "JRTOOLS@att.net\r\n",
+         "source": "valid",
+         "to": "rjnunn@yucca.net (Becky)"
+      },
+      {
+         "from": "overton@dbcity.net",
+         "line": 155,
+         "rawfrom": "\"barbara overton\" <overton@dbcity.net>\r\n",
+         "source": "email",
+         "to": "\"jeffrey carter\" <j1h1carter@hotmail.com>"
+      },
+      {
+         "from": "ham19135@flash.net",
+         "line": 162,
+         "rawfrom": "Dacia Hammer <ham19135@flash.net>\r\n",
+         "source": "email",
+         "to": "Barbara Overton <Overton@DBCity.net>"
+      },
+      {
+         "from": "gmontalvo@mmm.com",
+         "line": 198,
+         "rawfrom": "<gmontalvo@mmm.com>\r\n",
+         "source": "email",
+         "to": "<gmontalvo@mmm.com>"
+      }
+   ],
+   "skipped": 2
+}
+]

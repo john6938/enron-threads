@@ -1,0 +1,106 @@
+[
+{
+   "file": "/home/jb/maildir/lokey-t/inbox/901.",
+   "hops": [
+      {
+         "from": "zistlerf@wallacegarcia.com",
+         "line": 4,
+         "rawfrom": "zistlerf@wallacegarcia.com\r\n",
+         "source": "valid",
+         "to": "emca@yahoogroups.com"
+      },
+      {
+         "from": "joe@joewhite.com",
+         "line": 23,
+         "rawfrom": "Joe White [mailto:joe@joewhite.com]\n",
+         "source": "email",
+         "to": "emca@yahoogroups.com"
+      },
+      {
+         "from": "zaeza@unplace.com",
+         "line": 43,
+         "rawfrom": "zaeza [mailto:zaeza@unplace.com] \n",
+         "source": "email",
+         "to": "emca@yahoogroups.com"
+      },
+      {
+         "from": "laura.jewett@bakerbotts.com",
+         "line": 51,
+         "rawfrom": "laura.jewett@bakerbotts.com \n",
+         "source": "valid",
+         "to": "emca@yahoogroups.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/lokey-t/inbox/188.",
+   "hops": [
+      {
+         "from": "glen.hass@enron.com",
+         "line": 4,
+         "rawfrom": "glen.hass@enron.com\r\n",
+         "source": "valid",
+         "to": "<douglass\".'\"dan@enron.com>, steven.harris@enron.com, tony.pryor@enron.com,"
+      },
+      {
+         "from": "douglass@energyattorney.com",
+         "line": 30,
+         "rawfrom": "\t\"Dan Douglass\" <douglass@energyattorney.com>@ENRON [mailto:IMCEANOTES-+22Dan+20Douglass+22+20+3Cdouglass+40energyattorney+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Harris, Steven; Pryor, Tony; Hass, Glen; Fossum, Drew"
+      },
+      {
+         "from": "steven.harris@enron.com",
+         "line": 48,
+         "rawfrom": "\"Harris, Steven\" <Steven.Harris@enron.com>\n",
+         "source": "email",
+         "to": "\"Pryor, Tony\" <Tony.Pryor@enron.com>; \"Hass, Glen\""
+      },
+      {
+         "from": "douglass@energyattorney.com",
+         "line": 75,
+         "rawfrom": "\"Dan Douglass\" <douglass@energyattorney.com>@ENRON\n",
+         "source": "email",
+         "to": "Pryor, Tony"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/lokey-t/inbox/187.",
+   "hops": [
+      {
+         "from": "steven.harris@enron.com",
+         "line": 4,
+         "rawfrom": "steven.harris@enron.com\r\n",
+         "source": "valid",
+         "to": "glen.hass@enron.com, <douglass\".'\"dan@enron.com>, tony.pryor@enron.com,"
+      },
+      {
+         "from": "douglass@energyattorney.com",
+         "line": 40,
+         "rawfrom": "\t\"Dan Douglass\" <douglass@energyattorney.com>@ENRON [mailto:IMCEANOTES-+22Dan+20Douglass+22+20+3Cdouglass+40energyattorney+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Harris, Steven; Pryor, Tony; Hass, Glen; Fossum, Drew"
+      },
+      {
+         "from": "steven.harris@enron.com",
+         "line": 58,
+         "rawfrom": "\"Harris, Steven\" <Steven.Harris@enron.com>\n",
+         "source": "email",
+         "to": "\"Pryor, Tony\" <Tony.Pryor@enron.com>; \"Hass, Glen\""
+      },
+      {
+         "from": "douglass@energyattorney.com",
+         "line": 85,
+         "rawfrom": "\"Dan Douglass\" <douglass@energyattorney.com>@ENRON\n",
+         "source": "email",
+         "to": "Pryor, Tony"
+      }
+   ],
+   "skipped": 2
+}
+]

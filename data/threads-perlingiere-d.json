@@ -1,0 +1,813 @@
+[
+{
+   "file": "/home/jb/maildir/perlingiere-d/deleted_items/168.",
+   "hops": [
+      {
+         "from": "lawrence.cobb@mms.gov",
+         "line": 4,
+         "rawfrom": "lawrence.cobb@mms.gov\r\n",
+         "source": "valid",
+         "to": "del-colle@enron.com, michael.del-colle@mms.gov"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 28,
+         "rawfrom": "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "source": "email",
+         "to": "Lawrence.Cobb@mms.gov"
+      },
+      {
+         "from": "lawrence.cobb@mms.gov",
+         "line": 37,
+         "rawfrom": "  \"Cobb, Lawrence\" <Lawrence.Cobb@mms.gov>@ENRON\n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 55,
+         "rawfrom": "Perlingiere, Debra [mailto:Debra.Perlingiere@ENRON.com]\n",
+         "source": "email",
+         "to": "lawrence.cobb@mms.gov"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/perlingiere-d/sent_items/5.",
+   "hops": [
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 4,
+         "rawfrom": "debra.perlingiere@enron.com\r\n",
+         "source": "valid",
+         "to": "sharyn.walsh-mckay@pseg.com"
+      },
+      {
+         "from": "sharyn.walsh-mckay@pseg.com",
+         "line": 22,
+         "rawfrom": "\t\"Walsh-McKay, Sharyn M.\" <Sharyn.Walsh-McKay@pseg.com>@ENRON  \n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 36,
+         "rawfrom": "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "source": "email",
+         "to": "Sharyn.Walsh-McKay@pseg.com"
+      },
+      {
+         "from": "sharyn.walsh-mckay@pseg.com",
+         "line": 53,
+         "rawfrom": "  \"Walsh-McKay, Sharyn M.\" <Sharyn.Walsh-McKay@pseg.com>@ENRON\n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/perlingiere-d/sent_items/527.",
+   "hops": [
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 4,
+         "rawfrom": "debra.perlingiere@enron.com\r\n",
+         "source": "valid",
+         "to": "lacooper@dow.com"
+      },
+      {
+         "from": "lacooper@dow.com",
+         "line": 22,
+         "rawfrom": "\t\"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON [mailto:IMCEANOTES-+22Cooper+2C+20Lance+20+28LA+29+22+20+3CLACOOPER+40dow+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 35,
+         "rawfrom": "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "source": "email",
+         "to": "LACOOPER@dow.com"
+      },
+      {
+         "from": "lacooper@dow.com",
+         "line": 49,
+         "rawfrom": "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 69,
+         "rawfrom": "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "source": "email",
+         "to": "LACOOPER@dow.com"
+      },
+      {
+         "from": "lacooper@dow.com",
+         "line": 85,
+         "rawfrom": "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 97,
+         "rawfrom": "Debra.Perlingiere@enron.com\n",
+         "source": "valid",
+         "to": "LACOOPER@dow.com"
+      },
+      {
+         "from": "lacooper@dow.com",
+         "line": 119,
+         "rawfrom": "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/perlingiere-d/sent_items/511.",
+   "hops": [
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 4,
+         "rawfrom": "debra.perlingiere@enron.com\r\n",
+         "source": "valid",
+         "to": "lacooper@dow.com"
+      },
+      {
+         "from": "lacooper@dow.com",
+         "line": 22,
+         "rawfrom": "\t\"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON [mailto:IMCEANOTES-+22Cooper+2C+20Lance+20+28LA+29+22+20+3CLACOOPER+40dow+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 32,
+         "rawfrom": "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "source": "email",
+         "to": "LACOOPER@dow.com"
+      },
+      {
+         "from": "lacooper@dow.com",
+         "line": 49,
+         "rawfrom": "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/perlingiere-d/sent_items/136.",
+   "hops": [
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 4,
+         "rawfrom": "debra.perlingiere@enron.com\r\n",
+         "source": "valid",
+         "to": "adicapri@utilicorp.com"
+      },
+      {
+         "from": "adicapri@utilicorp.com",
+         "line": 22,
+         "rawfrom": "\t\"Dicaprio, Angela\" <ADicapri@utilicorp.com>@ENRON [mailto:IMCEANOTES-+22Dicaprio+2C+20Angela+22+20+3CADicapri+40utilicorp+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 31,
+         "rawfrom": "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "source": "email",
+         "to": "ADicapri@utilicorp.com"
+      },
+      {
+         "from": "adicapri@utilicorp.com",
+         "line": 50,
+         "rawfrom": "  \"Dicaprio, Angela\" <ADicapri@utilicorp.com>@ENRON\n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 58,
+         "rawfrom": "Perlingiere, Debra [mailto:Debra.Perlingiere@ENRON.com]\n",
+         "source": "email",
+         "to": "adicapri@utilicorp.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/perlingiere-d/sent_items/555.",
+   "hops": [
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 4,
+         "rawfrom": "debra.perlingiere@enron.com\r\n",
+         "source": "valid",
+         "to": "lacooper@dow.com"
+      },
+      {
+         "from": "lacooper@dow.com",
+         "line": 22,
+         "rawfrom": "\t\"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON [mailto:IMCEANOTES-+22Cooper+2C+20Lance+20+28LA+29+22+20+3CLACOOPER+40dow+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 31,
+         "rawfrom": "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "source": "email",
+         "to": "LACOOPER@dow.com"
+      },
+      {
+         "from": "lacooper@dow.com",
+         "line": 45,
+         "rawfrom": "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 65,
+         "rawfrom": "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "source": "email",
+         "to": "LACOOPER@dow.com"
+      },
+      {
+         "from": "lacooper@dow.com",
+         "line": 81,
+         "rawfrom": "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 93,
+         "rawfrom": "Debra.Perlingiere@enron.com\n",
+         "source": "valid",
+         "to": "LACOOPER@dow.com"
+      },
+      {
+         "from": "lacooper@dow.com",
+         "line": 115,
+         "rawfrom": "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/perlingiere-d/sent_items/814.",
+   "hops": [
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 4,
+         "rawfrom": "debra.perlingiere@enron.com\r\n",
+         "source": "valid",
+         "to": "connie@nget.net"
+      },
+      {
+         "from": "connie@nget.net",
+         "line": 25,
+         "rawfrom": "\t\"Connie Waterman\" <connie@nget.net>@ENRON  \n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 40,
+         "rawfrom": "<Debra.Perlingiere@enron.com>\n",
+         "source": "email",
+         "to": "<connie@nget.net>"
+      },
+      {
+         "from": "connie@nget.net",
+         "line": 50,
+         "rawfrom": "  \"Connie Waterman\" <connie@nget.net>@ENRON\n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 78,
+         "rawfrom": "\"Perlingiere, Debra\" <Debra.Perlingiere@enron.com>\n",
+         "source": "email",
+         "to": "<connie@nget.net>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/perlingiere-d/sent_items/617.",
+   "hops": [
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 4,
+         "rawfrom": "debra.perlingiere@enron.com\r\n",
+         "source": "valid",
+         "to": "lacooper@dow.com"
+      },
+      {
+         "from": "lacooper@dow.com",
+         "line": 22,
+         "rawfrom": "\t\"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON [mailto:IMCEANOTES-+22Cooper+2C+20Lance+20+28LA+29+22+20+3CLACOOPER+40dow+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 34,
+         "rawfrom": "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "source": "email",
+         "to": "LACOOPER@dow.com"
+      },
+      {
+         "from": "lacooper@dow.com",
+         "line": 49,
+         "rawfrom": "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 60,
+         "rawfrom": "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "source": "email",
+         "to": "LACOOPER@dow.com"
+      },
+      {
+         "from": "lacooper@dow.com",
+         "line": 76,
+         "rawfrom": "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 86,
+         "rawfrom": "Debra.Perlingiere@enron.com\n",
+         "source": "valid",
+         "to": "LACOOPER@dow.com"
+      },
+      {
+         "from": "lacooper@dow.com",
+         "line": 102,
+         "rawfrom": "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 130,
+         "rawfrom": "Debra.Perlingiere@enron.com\n",
+         "source": "valid",
+         "to": "LACOOPER@dow.com"
+      },
+      {
+         "from": "lacooper@dow.com",
+         "line": 150,
+         "rawfrom": "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 163,
+         "rawfrom": "Debra.Perlingiere@enron.com\n",
+         "source": "valid",
+         "to": "LACOOPER@dow.com"
+      },
+      {
+         "from": "lacooper@dow.com",
+         "line": 190,
+         "rawfrom": "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/perlingiere-d/sent_items/605.",
+   "hops": [
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 4,
+         "rawfrom": "debra.perlingiere@enron.com\r\n",
+         "source": "valid",
+         "to": "lacooper@dow.com"
+      },
+      {
+         "from": "lacooper@dow.com",
+         "line": 22,
+         "rawfrom": "\t\"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON [mailto:IMCEANOTES-+22Cooper+2C+20Lance+20+28LA+29+22+20+3CLACOOPER+40dow+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 32,
+         "rawfrom": "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "source": "email",
+         "to": "LACOOPER@dow.com"
+      },
+      {
+         "from": "lacooper@dow.com",
+         "line": 46,
+         "rawfrom": "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 55,
+         "rawfrom": "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "source": "email",
+         "to": "LACOOPER@dow.com"
+      },
+      {
+         "from": "lacooper@dow.com",
+         "line": 70,
+         "rawfrom": "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 95,
+         "rawfrom": "Debra.Perlingiere@enron.com\n",
+         "source": "valid",
+         "to": "LACOOPER@dow.com"
+      },
+      {
+         "from": "lacooper@dow.com",
+         "line": 113,
+         "rawfrom": "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 126,
+         "rawfrom": "Debra.Perlingiere@enron.com\n",
+         "source": "valid",
+         "to": "LACOOPER@dow.com"
+      },
+      {
+         "from": "lacooper@dow.com",
+         "line": 151,
+         "rawfrom": "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/perlingiere-d/sent_items/620.",
+   "hops": [
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 4,
+         "rawfrom": "debra.perlingiere@enron.com\r\n",
+         "source": "valid",
+         "to": "nabil@enron.com, nnachawa@central.uh.edu"
+      },
+      {
+         "from": "nnachawa@central.uh.edu",
+         "line": 22,
+         "rawfrom": "\t\"Nachawati, Nabil, M\" <nnachawa@Central.UH.EDU>@ENRON [mailto:IMCEANOTES-+22Nachawati+2C+20Nabil+2C+20M+22+20+3Cnnachawa+40Central+2EUH+2EEDU+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 40,
+         "rawfrom": "Gerald.Nemec@enron.com\n",
+         "source": "valid",
+         "to": "nnachawa@Central.UH.EDU"
+      },
+      {
+         "from": "nnachawa@central.uh.edu",
+         "line": 54,
+         "rawfrom": "  \"Nachawati, Nabil, M\" <nnachawa@Central.UH.EDU>@ENRON\n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 75,
+         "rawfrom": "Debra.Perlingiere@enron.com\n",
+         "source": "valid",
+         "to": "nnachawa@Central.UH.EDU"
+      },
+      {
+         "from": "nnachawa@central.uh.edu",
+         "line": 92,
+         "rawfrom": "  \"Nachawati, Nabil, M\" <nnachawa@Central.UH.EDU>@ENRON\n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/perlingiere-d/sent_items/588.",
+   "hops": [
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 4,
+         "rawfrom": "debra.perlingiere@enron.com\r\n",
+         "source": "valid",
+         "to": "steve.gillespie@enron.com"
+      },
+      {
+         "from": "lora.aria@lgeenergy.com",
+         "line": 39,
+         "rawfrom": "\t\"Aria, Lora\" <lora.aria@lgeenergy.com>@ENRON [mailto:IMCEANOTES-+22Aria+2C+20Lora+22+20+3Clora+2Earia+40lgeenergy+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Gillespie, Steve"
+      },
+      {
+         "from": "lora.aria@lgeenergy.com",
+         "line": 63,
+         "rawfrom": "  \"Aria, Lora\" <lora.aria@lgeenergy.com>@ENRON \n",
+         "source": "email",
+         "to": "Gillespie, Steve"
+      },
+      {
+         "from": "majed.nachawati@enron.com",
+         "line": 160,
+         "rawfrom": "Majed.Nachawati@enron.com << File: \n",
+         "source": "email",
+         "to": "Lora.Aria@lgeenergy.com << File: mailto:Lora.Aria@lgeenergy.com << File: mailto:Lora.Aria@lgeenergy.com >>  >>"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/perlingiere-d/sent_items/512.",
+   "hops": [
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 4,
+         "rawfrom": "debra.perlingiere@enron.com\r\n",
+         "source": "valid",
+         "to": "lacooper@dow.com"
+      },
+      {
+         "from": "lacooper@dow.com",
+         "line": 22,
+         "rawfrom": "\t\"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON [mailto:IMCEANOTES-+22Cooper+2C+20Lance+20+28LA+29+22+20+3CLACOOPER+40dow+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 38,
+         "rawfrom": "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "source": "email",
+         "to": "LACOOPER@dow.com"
+      },
+      {
+         "from": "lacooper@dow.com",
+         "line": 53,
+         "rawfrom": "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 63,
+         "rawfrom": "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "source": "email",
+         "to": "LACOOPER@dow.com"
+      },
+      {
+         "from": "lacooper@dow.com",
+         "line": 83,
+         "rawfrom": "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/perlingiere-d/sent_items/153.",
+   "hops": [
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 4,
+         "rawfrom": "debra.perlingiere@enron.com\r\n",
+         "source": "valid",
+         "to": "roths@orbitworld.net"
+      },
+      {
+         "from": "roths@orbitworld.net",
+         "line": 22,
+         "rawfrom": "\t\"Susan Avera Roth\" <roths@orbitworld.net>@ENRON [mailto:IMCEANOTES-+22Susan+20Avera+20Roth+22+20+3Croths+40orbitworld+2Enet+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 30,
+         "rawfrom": "\tDebra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "source": "email",
+         "to": "roths@orbitworld.net"
+      },
+      {
+         "from": "roths@orbitworld.net",
+         "line": 43,
+         "rawfrom": "  \"Susan Avera Roth\" <roths@orbitworld.net>@ENRON\n",
+         "source": "email",
+         "to": "Debra Perlinger \\(E-mail\\); Holly Heble \\(E-mail\\); Jennifer"
+      },
+      {
+         "from": "stephens@portfreeport.com",
+         "line": 57,
+         "rawfrom": "Nancy Stephens [mailto:stephens@portfreeport.com]\n",
+         "source": "email",
+         "to": "Keith D Stephens; Mom & Dad; Dale Frankum; Charlotte Day; Dorthy"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/perlingiere-d/sent_items/445.",
+   "hops": [
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 4,
+         "rawfrom": "debra.perlingiere@enron.com\r\n",
+         "source": "valid",
+         "to": "alisha.mahabir@enron.com"
+      },
+      {
+         "from": "shillward@hess.com",
+         "line": 38,
+         "rawfrom": "Hill-Ward, Shari [mailto:SHillWard@hess.com]\n",
+         "source": "email",
+         "to": "Thorne, Judy"
+      },
+      {
+         "from": "judy.thorne@enron.com",
+         "line": 65,
+         "rawfrom": "Thorne, Judy [mailto:Judy.Thorne@ENRON.com]\n",
+         "source": "email",
+         "to": "SHillWard@hess.com"
+      },
+      {
+         "from": "shillward@hess.com",
+         "line": 84,
+         "rawfrom": "Hill-Ward, Shari [mailto:SHillWard@hess.com]\n",
+         "source": "email",
+         "to": "Thorne, Judy"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/perlingiere-d/sent_items/818.",
+   "hops": [
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 4,
+         "rawfrom": "debra.perlingiere@enron.com\r\n",
+         "source": "valid",
+         "to": "adicapri@utilicorp.com"
+      },
+      {
+         "from": "adicapri@utilicorp.com",
+         "line": 26,
+         "rawfrom": "\t\"Dicaprio, Angela\" <ADicapri@utilicorp.com>@ENRON  \n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 34,
+         "rawfrom": "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "source": "email",
+         "to": "ADicapri@utilicorp.com"
+      },
+      {
+         "from": "adicapri@utilicorp.com",
+         "line": 44,
+         "rawfrom": "  \"Dicaprio, Angela\" <ADicapri@utilicorp.com>@ENRON\n",
+         "source": "email",
+         "to": "'dperlin@enron.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/perlingiere-d/sent_items/613.",
+   "hops": [
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 4,
+         "rawfrom": "debra.perlingiere@enron.com\r\n",
+         "source": "valid",
+         "to": "nabil@enron.com, nnachawa@central.uh.edu"
+      },
+      {
+         "from": "nnachawa@central.uh.edu",
+         "line": 24,
+         "rawfrom": "\t\"Nachawati, Nabil, M\" <nnachawa@Central.UH.EDU>@ENRON [mailto:IMCEANOTES-+22Nachawati+2C+20Nabil+2C+20M+22+20+3Cnnachawa+40Central+2EUH+2EEDU+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 41,
+         "rawfrom": "Debra.Perlingiere@enron.com\n",
+         "source": "valid",
+         "to": "nnachawa@Central.UH.EDU"
+      },
+      {
+         "from": "nnachawa@central.uh.edu",
+         "line": 57,
+         "rawfrom": "  \"Nachawati, Nabil, M\" <nnachawa@Central.UH.EDU>@ENRON\n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/perlingiere-d/sent_items/637.",
+   "hops": [
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 4,
+         "rawfrom": "debra.perlingiere@enron.com\r\n",
+         "source": "valid",
+         "to": "nabil@enron.com, nnachawa@central.uh.edu"
+      },
+      {
+         "from": "nnachawa@central.uh.edu",
+         "line": 23,
+         "rawfrom": "\t\"Nachawati, Nabil, M\" <nnachawa@Central.UH.EDU>@ENRON [mailto:IMCEANOTES-+22Nachawati+2C+20Nabil+2C+20M+22+20+3Cnnachawa+40Central+2EUH+2EEDU+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 41,
+         "rawfrom": "Gerald.Nemec@enron.com\n",
+         "source": "valid",
+         "to": "nnachawa@Central.UH.EDU"
+      },
+      {
+         "from": "nnachawa@central.uh.edu",
+         "line": 55,
+         "rawfrom": "  \"Nachawati, Nabil, M\" <nnachawa@Central.UH.EDU>@ENRON\n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 76,
+         "rawfrom": "Debra.Perlingiere@enron.com\n",
+         "source": "valid",
+         "to": "nnachawa@Central.UH.EDU"
+      },
+      {
+         "from": "nnachawa@central.uh.edu",
+         "line": 93,
+         "rawfrom": "  \"Nachawati, Nabil, M\" <nnachawa@Central.UH.EDU>@ENRON\n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      }
+   ],
+   "skipped": 1
+}
+]

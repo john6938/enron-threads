@@ -1,0 +1,2255 @@
+[
+{
+   "file": "/home/jb/maildir/hyvl-d/all_documents/1178.",
+   "hops": [
+      {
+         "from": "dan.hyvl@enron.com",
+         "line": 4,
+         "rawfrom": "dan.hyvl@enron.com\r\n",
+         "source": "valid",
+         "to": "dwa3@pge.com"
+      },
+      {
+         "from": "dwa3@pge.com",
+         "line": 28,
+         "rawfrom": "\"Anderson, David W (Law)\" <DWA3@pge.com>\n",
+         "source": "email",
+         "to": "\"'Dan.J.Hyvl@enron.com'\" <Dan.J.Hyvl@enron.com>"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 57,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "Anderson, David W (Law)"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 110,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "Anderson, David W (Law)"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/all_documents/768.",
+   "hops": [
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 4,
+         "rawfrom": "cwpfister@cps-satx.com\r\n",
+         "source": "valid",
+         "to": "dan.j.hyvl@enron.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 44,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 109,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 159,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/all_documents/455.",
+   "hops": [
+      {
+         "from": "dan.hyvl@enron.com",
+         "line": 4,
+         "rawfrom": "dan.hyvl@enron.com\r\n",
+         "source": "valid",
+         "to": "cwpfister@cps-satx.com"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 29,
+         "rawfrom": "\"Pfister, Christian W.\" <CWPfister@cps-satx.com>\n",
+         "source": "email",
+         "to": "\"'Dan.J.Hyvl@enron.com'\" <Dan.J.Hyvl@enron.com>,"
+      },
+      {
+         "from": "jwood@mattbran.com",
+         "line": 42,
+         "rawfrom": "Jon Wood [mailto:jwood@mattbran.com]\n",
+         "source": "email",
+         "to": "'Pfister, Christian W.'"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 60,
+         "rawfrom": "Pfister, Christian W. [mailto:CWPfister@cps-satx.com]\n",
+         "source": "email",
+         "to": "'jwood@mattbran.com'"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 126,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "Pfister, Christian W.; Mc Whirter, Daniel D."
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/all_documents/327.",
+   "hops": [
+      {
+         "from": "lee.papayoti@enron.com",
+         "line": 4,
+         "rawfrom": "lee.papayoti@enron.com\r\n",
+         "source": "valid",
+         "to": "dan.hyvl@enron.com, russell.diamond@enron.com"
+      },
+      {
+         "from": "lee.l.papayoti@enron.com",
+         "line": 47,
+         "rawfrom": "Lee.L.Papayoti@enron.com [SMTP:Lee.L.Papayoti@enron.com]\n",
+         "source": "email",
+         "to": "MQDA@chevron.com"
+      },
+      {
+         "from": "mqda@chevron.com",
+         "line": 75,
+         "rawfrom": "MQDA@chevron.com",
+         "source": "valid",
+         "to": "\"'Lee.L.Papayoti@enron.com'\" <Lee.L.Papayoti@enron.com>"
+      },
+      {
+         "from": "lee.l.papayoti@enron.com",
+         "line": 108,
+         "rawfrom": "  Lee.L.Papayoti@enron.com [SMTP:Lee.L.Papayoti@enron.com]\n",
+         "source": "email",
+         "to": "Martin Dale"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/all_documents/697.",
+   "hops": [
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 4,
+         "rawfrom": "cwpfister@cps-satx.com\r\n",
+         "source": "valid",
+         "to": "dan.j.hyvl@enron.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 31,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 96,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 146,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/all_documents/1084.",
+   "hops": [
+      {
+         "from": "nbutler@susmangodfrey.com",
+         "line": 4,
+         "rawfrom": "nbutler@susmangodfrey.com\r\n",
+         "source": "valid",
+         "to": "dan.j.hyvl@enron.com"
+      },
+      {
+         "from": "jeffw@lashleyinc.com",
+         "line": 20,
+         "rawfrom": "Jeff Watkins [mailto:jeffw@lashleyinc.com]\n",
+         "source": "email",
+         "to": "Steve Davidek; rob; Noel Butler; john; kelli; erica"
+      },
+      {
+         "from": "justinwatkins41@hotmail.com",
+         "line": 29,
+         "rawfrom": "Justin Watkins [mailto:justinwatkins41@hotmail.com]\n",
+         "source": "email",
+         "to": "kellyjolong@hotmail.com; jeffw@lashleyinc.com; kimberlym843@msn.com;"
+      },
+      {
+         "from": "hollyhoe25@hotmail.com",
+         "line": 40,
+         "rawfrom": "\"starla king\" <hollyhoe25@hotmail.com>\n",
+         "source": "email",
+         "to": "gketurah234@aol.com, dancincowboy13@aol.com,"
+      },
+      {
+         "from": "pixie_star82@hotmail.com",
+         "line": 52,
+         "rawfrom": "\"Shawna Tatum\" <pixie_star82@hotmail.com>\n",
+         "source": "email",
+         "to": "hollyhoe25@hotmail.com"
+      },
+      {
+         "from": "jrhouston10@hotmail.com",
+         "line": 60,
+         "rawfrom": "\"jessica romero\" <jrhouston10@hotmail.com>\n",
+         "source": "email",
+         "to": "kobethegame@hotmail.com, dice3425@hotmail.com, rcander81@hotmail.com,"
+      },
+      {
+         "from": "lilmik662@hotmail.com",
+         "line": 76,
+         "rawfrom": "\"Mikel Dickson\" <lilmik662@hotmail.com>\n",
+         "source": "email",
+         "to": "rmk237@yahoo.com, Big_J2K@email.com, Burly_03@yahoo.com,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/all_documents/1198.",
+   "hops": [
+      {
+         "from": "nbutler@susmangodfrey.com",
+         "line": 4,
+         "rawfrom": "nbutler@susmangodfrey.com\r\n",
+         "source": "valid",
+         "to": "dan.j.hyvl@enron.com"
+      },
+      {
+         "from": "jeffw@lashleyinc.com",
+         "line": 20,
+         "rawfrom": "Jeff Watkins [mailto:jeffw@lashleyinc.com]\n",
+         "source": "email",
+         "to": "DARRIN D DAY; Kurt Meinert; rob; Noel Butler"
+      },
+      {
+         "from": "kellim@lashleyinc.com",
+         "line": 29,
+         "rawfrom": "Kelli [mailto:kellim@lashleyinc.com]\n",
+         "source": "email",
+         "to": "Steve Davidek; Stephanie; Kim; Jeff Watkins; Gloria Allen; DAD;"
+      },
+      {
+         "from": "matt@gmont.com",
+         "line": 39,
+         "rawfrom": "Matt Vuskov [mailto:matt@gmont.com]\n",
+         "source": "email",
+         "to": "KELLI (E-mail)"
+      },
+      {
+         "from": "viet@gmont.com",
+         "line": 48,
+         "rawfrom": "Viet Tran [mailto:viet@gmont.com]\n",
+         "source": "email",
+         "to": "REBECCA (E-mail); MATT VUSKOV (E-mail)"
+      },
+      {
+         "from": "annievo@mailcity.com",
+         "line": 57,
+         "rawfrom": "anh n vo [mailto:Annievo@mailcity.com]\n",
+         "source": "email",
+         "to": "tthv@yahoogroups.com"
+      },
+      {
+         "from": "hongvo@lycos.com",
+         "line": 68,
+         "rawfrom": "\"Hong Vo\" <hongvo@lycos.com>\n",
+         "source": "email",
+         "to": "annievo@mailcity.com"
+      },
+      {
+         "from": "loanstar82@hotmail.com",
+         "line": 77,
+         "rawfrom": "\"Loan Tran\" <loanstar82@hotmail.com>\n",
+         "source": "email",
+         "to": "hongvo@lycos.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/all_documents/1336.",
+   "hops": [
+      {
+         "from": "brant.reves@enron.com",
+         "line": 4,
+         "rawfrom": "brant.reves@enron.com\r\n",
+         "source": "valid",
+         "to": "dan.hyvl@enron.com"
+      },
+      {
+         "from": "noubi.benhamida@elftrading.com",
+         "line": 30,
+         "rawfrom": " \"Noubi Ben Hamida\" <noubi.benhamida@elftrading.com>@ENRON \n",
+         "source": "email",
+         "to": "Reves, Brant"
+      },
+      {
+         "from": "noubi.benhamida@elftrading.com",
+         "line": 77,
+         "rawfrom": "    \"Noubi Ben Hamida\" <noubi.benhamida@elftrading.com>@ENRON\n",
+         "source": "email",
+         "to": "Reves, Brant"
+      },
+      {
+         "from": "noubi.benhamida@elftrading.com",
+         "line": 164,
+         "rawfrom": "    \"Noubi Ben Hamida\" <noubi.benhamida@elftrading.com>\n",
+         "source": "email",
+         "to": "Reves, Brant"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/all_documents/772.",
+   "hops": [
+      {
+         "from": "dan.hyvl@enron.com",
+         "line": 4,
+         "rawfrom": "dan.hyvl@enron.com\r\n",
+         "source": "valid",
+         "to": "cwpfister@cps-satx.com"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 32,
+         "rawfrom": "\"Pfister, Christian W.\" <CWPfister@cps-satx.com>\n",
+         "source": "email",
+         "to": "\"'Dan.J.Hyvl@enron.com'\" <Dan.J.Hyvl@enron.com>"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 64,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 129,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 179,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/all_documents/578.",
+   "hops": [
+      {
+         "from": "chris.foster@enron.com",
+         "line": 4,
+         "rawfrom": "chris.foster@enron.com\r\n",
+         "source": "valid",
+         "to": "sspalding@summitenergy.com"
+      },
+      {
+         "from": "sspalding@summitenergy.com",
+         "line": 33,
+         "rawfrom": " \"Susan Spalding\" <sspalding@summitenergy.com>                          \n",
+         "source": "email",
+         "to": "<Chris.H.Foster@enron.com>"
+      },
+      {
+         "from": "chris.h.foster@enron.com",
+         "line": 41,
+         "rawfrom": "<Chris.H.Foster@enron.com>\n",
+         "source": "email",
+         "to": "Susan Spalding <sspalding@summitenergy.com>"
+      },
+      {
+         "from": "chris.h.foster@enron.com",
+         "line": 76,
+         "rawfrom": "<Chris.H.Foster@enron.com>\n",
+         "source": "email",
+         "to": "Susan Spalding <sspalding@summitenergy.com>"
+      },
+      {
+         "from": "chris.h.foster@enron.com",
+         "line": 117,
+         "rawfrom": "<Chris.H.Foster@enron.com>\n",
+         "source": "email",
+         "to": "Susan Spalding <sspalding@summitenergy.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/all_documents/974.",
+   "hops": [
+      {
+         "from": "nbutler@susmangodfrey.com",
+         "line": 4,
+         "rawfrom": "nbutler@susmangodfrey.com\r\n",
+         "source": "valid",
+         "to": "dan.j.hyvl@enron.com"
+      },
+      {
+         "from": "bvjh@aol.com",
+         "line": 21,
+         "rawfrom": "BVJH@aol.com  [mailto:BVJH@aol.com]\n",
+         "source": "email",
+         "to": "aranda73@netscape.net; mbarakat@ev1.net; BRIERSPIPE@aol.com;  Noel"
+      },
+      {
+         "from": "jamiemoncur@hotmail.com",
+         "line": 37,
+         "rawfrom": "jamie moncur <jamiemoncur@hotmail.com>\n",
+         "source": "email",
+         "to": "marjoribanksjames@hotmail.com, Oconnell_a@hotmail.com,"
+      },
+      {
+         "from": "emma.innes@marconi.com",
+         "line": 59,
+         "rawfrom": "Emma.Innes@marconi.com  \n",
+         "source": "valid",
+         "to": "ASherwin-Brown@worcestershire.gov.uk, andybrownis@netscapeonline.co.uk,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/all_documents/331.",
+   "hops": [
+      {
+         "from": "lee.papayoti@enron.com",
+         "line": 4,
+         "rawfrom": "lee.papayoti@enron.com\r\n",
+         "source": "valid",
+         "to": "russell.diamond@enron.com, veronica.espinoza@enron.com"
+      },
+      {
+         "from": "lee.l.papayoti@enron.com",
+         "line": 122,
+         "rawfrom": "Lee.L.Papayoti@enron.com [SMTP:Lee.L.Papayoti@enron.com]\n",
+         "source": "email",
+         "to": "MQDA@chevron.com"
+      },
+      {
+         "from": "mqda@chevron.com",
+         "line": 150,
+         "rawfrom": "MQDA@chevron.com",
+         "source": "valid",
+         "to": "\"'Lee.L.Papayoti@enron.com'\" <Lee.L.Papayoti@enron.com>"
+      },
+      {
+         "from": "lee.l.papayoti@enron.com",
+         "line": 183,
+         "rawfrom": "  Lee.L.Papayoti@enron.com [SMTP:Lee.L.Papayoti@enron.com]\n",
+         "source": "email",
+         "to": "Martin Dale"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/all_documents/684.",
+   "hops": [
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 4,
+         "rawfrom": "cwpfister@cps-satx.com\r\n",
+         "source": "valid",
+         "to": "dan.j.hyvl@enron.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 32,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "jwood@mattbran.com",
+         "line": 86,
+         "rawfrom": "Jon Wood [mailto:jwood@mattbran.com]\n",
+         "source": "email",
+         "to": "'Pfister, Christian W.'; Jon Wood"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 98,
+         "rawfrom": "Pfister, Christian W. [mailto:CWPfister@cps-satx.com]\n",
+         "source": "email",
+         "to": "'jwood@mattbran.com'"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 126,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "jwood@mattbran.com",
+         "line": 169,
+         "rawfrom": "Jon Wood [mailto:jwood@mattbran.com]\n",
+         "source": "email",
+         "to": "'Pfister, Christian W.'"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 189,
+         "rawfrom": "Pfister, Christian W. [mailto:CWPfister@cps-satx.com]\n",
+         "source": "email",
+         "to": "'jwood@mattbran.com'"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 259,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "Pfister, Christian W.; Mc Whirter, Daniel D."
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/all_documents/693.",
+   "hops": [
+      {
+         "from": "dan.hyvl@enron.com",
+         "line": 4,
+         "rawfrom": "dan.hyvl@enron.com\r\n",
+         "source": "valid",
+         "to": "cwpfister@cps-satx.com"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 33,
+         "rawfrom": "\"Pfister, Christian W.\" <CWPfister@cps-satx.com>\n",
+         "source": "email",
+         "to": "\"'Dan.J.Hyvl@enron.com'\" <Dan.J.Hyvl@enron.com>"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 59,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 109,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/all_documents/1045.",
+   "hops": [
+      {
+         "from": "nbutler@susmangodfrey.com",
+         "line": 4,
+         "rawfrom": "nbutler@susmangodfrey.com\r\n",
+         "source": "valid",
+         "to": "dan.j.hyvl@enron.com"
+      },
+      {
+         "from": "jeffw@lashleyinc.com",
+         "line": 20,
+         "rawfrom": "Jeff Watkins [mailto:jeffw@lashleyinc.com]\n",
+         "source": "email",
+         "to": "Noel Butler"
+      },
+      {
+         "from": "kellim@lashleyinc.com",
+         "line": 29,
+         "rawfrom": "Kelli [mailto:kellim@lashleyinc.com]\n",
+         "source": "email",
+         "to": "Steve Davidek; Sarah Coil; Kim; Jeff Watkins; Erica Williams; Clif"
+      },
+      {
+         "from": "trob0116@hotmail.com",
+         "line": 39,
+         "rawfrom": "Tracy Robinson [mailto:trob0116@hotmail.com]\n",
+         "source": "email",
+         "to": "mattswierkowski@hotmail.com; michellenelson81@hotmail.com;"
+      },
+      {
+         "from": "mpagel21@hotmail.com",
+         "line": 55,
+         "rawfrom": "\"michelle pagel\" <mpagel21@hotmail.com>\n",
+         "source": "email",
+         "to": "chris@teligistics.com, boyd@teligistics.com,"
+      },
+      {
+         "from": "baerswa@hotmail.com",
+         "line": 68,
+         "rawfrom": "\"Barry Sparks\" <baerswa@hotmail.com>\n",
+         "source": "email",
+         "to": "mpagel21@hotmail.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/all_documents/685.",
+   "hops": [
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 4,
+         "rawfrom": "cwpfister@cps-satx.com\r\n",
+         "source": "valid",
+         "to": "dan.j.hyvl@enron.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 42,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "jwood@mattbran.com",
+         "line": 96,
+         "rawfrom": "Jon Wood [mailto:jwood@mattbran.com]\n",
+         "source": "email",
+         "to": "'Pfister, Christian W.'; Jon Wood"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 108,
+         "rawfrom": "Pfister, Christian W. [mailto:CWPfister@cps-satx.com]\n",
+         "source": "email",
+         "to": "'jwood@mattbran.com'"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 136,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "jwood@mattbran.com",
+         "line": 179,
+         "rawfrom": "Jon Wood [mailto:jwood@mattbran.com]\n",
+         "source": "email",
+         "to": "'Pfister, Christian W.'"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 199,
+         "rawfrom": "Pfister, Christian W. [mailto:CWPfister@cps-satx.com]\n",
+         "source": "email",
+         "to": "'jwood@mattbran.com'"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 269,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "Pfister, Christian W.; Mc Whirter, Daniel D."
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/all_documents/456.",
+   "hops": [
+      {
+         "from": "dan.hyvl@enron.com",
+         "line": 4,
+         "rawfrom": "dan.hyvl@enron.com\r\n",
+         "source": "valid",
+         "to": "ddmcwhirter@cps-satx.com"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 39,
+         "rawfrom": "\"Pfister, Christian W.\" <CWPfister@cps-satx.com>\n",
+         "source": "email",
+         "to": "\"'Dan.J.Hyvl@enron.com'\" <Dan.J.Hyvl@enron.com>,"
+      },
+      {
+         "from": "jwood@mattbran.com",
+         "line": 52,
+         "rawfrom": "Jon Wood [mailto:jwood@mattbran.com]\n",
+         "source": "email",
+         "to": "'Pfister, Christian W.'"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 70,
+         "rawfrom": "Pfister, Christian W. [mailto:CWPfister@cps-satx.com]\n",
+         "source": "email",
+         "to": "'jwood@mattbran.com'"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 136,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "Pfister, Christian W.; Mc Whirter, Daniel D."
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/all_documents/1260.",
+   "hops": [
+      {
+         "from": "dan.hyvl@enron.com",
+         "line": 4,
+         "rawfrom": "dan.hyvl@enron.com\r\n",
+         "source": "valid",
+         "to": "phil.demoes@enron.com"
+      },
+      {
+         "from": "phil.demoes@enron.com",
+         "line": 70,
+         "rawfrom": "Phil.DeMoes@enron.com [mailto:Phil.DeMoes@enron.com] \n",
+         "source": "email",
+         "to": "Phil Glaessner"
+      },
+      {
+         "from": "pglaessner@enermetrix.com",
+         "line": 84,
+         "rawfrom": "Phil Glaessner <pglaessner@enermetrix.com> on 04/02/2001 02:55:56 PM \n",
+         "source": "email",
+         "to": "?? \"'Phil.DeMoes@enron.com'\" <Phil.DeMoes@enron.com>"
+      },
+      {
+         "from": "phil.demoes@enron.com",
+         "line": 104,
+         "rawfrom": "Phil.DeMoes@enron.com [mailto:Phil.DeMoes@enron.com] \n",
+         "source": "email",
+         "to": "pglaessner@enermetrix.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/all_documents/1187.",
+   "hops": [
+      {
+         "from": "nbutler@susmangodfrey.com",
+         "line": 4,
+         "rawfrom": "nbutler@susmangodfrey.com\r\n",
+         "source": "valid",
+         "to": "dan.j.hyvl@enron.com"
+      },
+      {
+         "from": "rld@swmedmgt.com",
+         "line": 21,
+         "rawfrom": "Robert L. Dittert  [mailto:rld@swmedmgt.com]\n",
+         "source": "email",
+         "to": "Jeff Watkins (E-mail); Noel Butler; Veronica Dittert  (E-mail)"
+      },
+      {
+         "from": "djk@fittsroberts.com",
+         "line": 29,
+         "rawfrom": "Dee Koehler  [mailto:djk@fittsroberts.com]\n",
+         "source": "email",
+         "to": "Linda Frieda; Mary Freeman; Kelly J. Hunter; Kathy Gibson;"
+      },
+      {
+         "from": "dhsjava@aol.com",
+         "line": 70,
+         "rawfrom": "DHSJAVA@aol.com\n",
+         "source": "valid",
+         "to": "leeasher@swbell.net, the_meter@email.msn.com, rgump@intercession.net,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/all_documents/439.",
+   "hops": [
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 4,
+         "rawfrom": "cwpfister@cps-satx.com\r\n",
+         "source": "valid",
+         "to": "dan.j.hyvl@enron.com, james.i.ducote@enron.com"
+      },
+      {
+         "from": "jwood@mattbran.com",
+         "line": 26,
+         "rawfrom": "Jon Wood [mailto:jwood@mattbran.com]\n",
+         "source": "email",
+         "to": "'Pfister, Christian W.'"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 44,
+         "rawfrom": "Pfister, Christian W. [mailto:CWPfister@cps-satx.com]\n",
+         "source": "email",
+         "to": "'jwood@mattbran.com'"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 110,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "Pfister, Christian W.; Mc Whirter, Daniel D."
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/all_documents/889.",
+   "hops": [
+      {
+         "from": "dan.hyvl@enron.com",
+         "line": 4,
+         "rawfrom": "dan.hyvl@enron.com\r\n",
+         "source": "valid",
+         "to": "cwpfister@cps-satx.com"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 24,
+         "rawfrom": "\"Pfister, Christian W.\" <CWPfister@cps-satx.com>\n",
+         "source": "email",
+         "to": "\"'Dan.J.Hyvl@enron.com'\" <Dan.J.Hyvl@enron.com>"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 35,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 78,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/all_documents/1325.",
+   "hops": [
+      {
+         "from": "dan.hyvl@enron.com",
+         "line": 4,
+         "rawfrom": "dan.hyvl@enron.com\r\n",
+         "source": "valid",
+         "to": "becky.spencer@enron.com, pat.radford@enron.com"
+      },
+      {
+         "from": "martha.alexander@tyc.state.tx.us",
+         "line": 44,
+         "rawfrom": "Martha Alexander [mailto:Martha.Alexander@tyc.state.tx.us]\n",
+         "source": "email",
+         "to": "'Christina.Gensler@alcoa.com'; 'Laura.Frei@alcoa.com'"
+      },
+      {
+         "from": "pschumpe@main.com",
+         "line": 64,
+         "rawfrom": " Philip Schumpe[SMTP:pschumpe@main.com]\n",
+         "source": "email",
+         "to": "Jeffrey & Sherrie Zgabay--at dps; Bobbie Lina; Jeannie Marek; Nancy"
+      },
+      {
+         "from": "lennoxa@swbell.net",
+         "line": 83,
+         "rawfrom": "lennoxa@swbell.net\n",
+         "source": "valid",
+         "to": "paulmaestro@aol.com, carylon54@hotmail.com, 1964@ev1.net,"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/all_documents/539.",
+   "hops": [
+      {
+         "from": "chris.foster@enron.com",
+         "line": 4,
+         "rawfrom": "chris.foster@enron.com\r\n",
+         "source": "valid",
+         "to": "sspalding@summitenergy.com"
+      },
+      {
+         "from": "sspalding@summitenergy.com",
+         "line": 32,
+         "rawfrom": " \"Susan Spalding\" <sspalding@summitenergy.com>                          \n",
+         "source": "email",
+         "to": "<Chris.H.Foster@enron.com>"
+      },
+      {
+         "from": "chris.h.foster@enron.com",
+         "line": 40,
+         "rawfrom": "<Chris.H.Foster@enron.com>\n",
+         "source": "email",
+         "to": "Susan Spalding <sspalding@summitenergy.com>"
+      },
+      {
+         "from": "chris.h.foster@enron.com",
+         "line": 81,
+         "rawfrom": "<Chris.H.Foster@enron.com>\n",
+         "source": "email",
+         "to": "Susan Spalding <sspalding@summitenergy.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/all_documents/466.",
+   "hops": [
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 4,
+         "rawfrom": "cwpfister@cps-satx.com\r\n",
+         "source": "valid",
+         "to": "dan.j.hyvl@enron.com"
+      },
+      {
+         "from": "jwood@mattbran.com",
+         "line": 30,
+         "rawfrom": "Jon Wood [mailto:jwood@mattbran.com]\n",
+         "source": "email",
+         "to": "'Pfister, Christian W.'; Jon Wood"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 42,
+         "rawfrom": "Pfister, Christian W. [mailto:CWPfister@cps-satx.com]\n",
+         "source": "email",
+         "to": "'jwood@mattbran.com'"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 69,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "jwood@mattbran.com",
+         "line": 112,
+         "rawfrom": "Jon Wood [mailto:jwood@mattbran.com]\n",
+         "source": "email",
+         "to": "'Pfister, Christian W.'"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 132,
+         "rawfrom": "Pfister, Christian W. [mailto:CWPfister@cps-satx.com]\n",
+         "source": "email",
+         "to": "'jwood@mattbran.com'"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 202,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "Pfister, Christian W.; Mc Whirter, Daniel D."
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/all_documents/1587.",
+   "hops": [
+      {
+         "from": "dan.hyvl@enron.com",
+         "line": 4,
+         "rawfrom": "dan.hyvl@enron.com\r\n",
+         "source": "valid",
+         "to": "clbywaters1@aep.com"
+      },
+      {
+         "from": "clbywaters1@aep.com",
+         "line": 20,
+         "rawfrom": "clbywaters1@aep.com\n",
+         "source": "valid",
+         "to": "Dan.J.Hyvl@enron.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 44,
+         "rawfrom": "Dan.J.Hyvl@enron.com on 06/07/2001 09:54:34 AM\n",
+         "source": "email",
+         "to": "clbywaters1@aep.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 86,
+         "rawfrom": "Dan.J.Hyvl@enron.com on 06/06/2001 02:04:34 PM\n",
+         "source": "email",
+         "to": "clbywaters1@aep.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/all_documents/468.",
+   "hops": [
+      {
+         "from": "dan.hyvl@enron.com",
+         "line": 4,
+         "rawfrom": "dan.hyvl@enron.com\r\n",
+         "source": "valid",
+         "to": "cwpfister@cps-satx.com"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 30,
+         "rawfrom": "\"Pfister, Christian W.\" <CWPfister@cps-satx.com>\n",
+         "source": "email",
+         "to": "\"'Dan.J.Hyvl@enron.com'\" <Dan.J.Hyvl@enron.com>"
+      },
+      {
+         "from": "jwood@mattbran.com",
+         "line": 48,
+         "rawfrom": "Jon Wood [mailto:jwood@mattbran.com]\n",
+         "source": "email",
+         "to": "'Pfister, Christian W.'; Jon Wood"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 60,
+         "rawfrom": "Pfister, Christian W. [mailto:CWPfister@cps-satx.com]\n",
+         "source": "email",
+         "to": "'jwood@mattbran.com'"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 87,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "jwood@mattbran.com",
+         "line": 130,
+         "rawfrom": "Jon Wood [mailto:jwood@mattbran.com]\n",
+         "source": "email",
+         "to": "'Pfister, Christian W.'"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 150,
+         "rawfrom": "Pfister, Christian W. [mailto:CWPfister@cps-satx.com]\n",
+         "source": "email",
+         "to": "'jwood@mattbran.com'"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 220,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "Pfister, Christian W.; Mc Whirter, Daniel D."
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/sent/44.",
+   "hops": [
+      {
+         "from": "dan.hyvl@enron.com",
+         "line": 4,
+         "rawfrom": "dan.hyvl@enron.com\r\n",
+         "source": "valid",
+         "to": "ddmcwhirter@cps-satx.com"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 39,
+         "rawfrom": "\"Pfister, Christian W.\" <CWPfister@cps-satx.com>\n",
+         "source": "email",
+         "to": "\"'Dan.J.Hyvl@enron.com'\" <Dan.J.Hyvl@enron.com>,"
+      },
+      {
+         "from": "jwood@mattbran.com",
+         "line": 52,
+         "rawfrom": "Jon Wood [mailto:jwood@mattbran.com]\n",
+         "source": "email",
+         "to": "'Pfister, Christian W.'"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 70,
+         "rawfrom": "Pfister, Christian W. [mailto:CWPfister@cps-satx.com]\n",
+         "source": "email",
+         "to": "'jwood@mattbran.com'"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 136,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "Pfister, Christian W.; Mc Whirter, Daniel D."
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/sent/391.",
+   "hops": [
+      {
+         "from": "dan.hyvl@enron.com",
+         "line": 4,
+         "rawfrom": "dan.hyvl@enron.com\r\n",
+         "source": "valid",
+         "to": "dwa3@pge.com"
+      },
+      {
+         "from": "dwa3@pge.com",
+         "line": 28,
+         "rawfrom": "\"Anderson, David W (Law)\" <DWA3@pge.com>\n",
+         "source": "email",
+         "to": "\"'Dan.J.Hyvl@enron.com'\" <Dan.J.Hyvl@enron.com>"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 57,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "Anderson, David W (Law)"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 110,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "Anderson, David W (Law)"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/sent/171.",
+   "hops": [
+      {
+         "from": "dan.hyvl@enron.com",
+         "line": 4,
+         "rawfrom": "dan.hyvl@enron.com\r\n",
+         "source": "valid",
+         "to": "cwpfister@cps-satx.com"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 32,
+         "rawfrom": "\"Pfister, Christian W.\" <CWPfister@cps-satx.com>\n",
+         "source": "email",
+         "to": "\"'Dan.J.Hyvl@enron.com'\" <Dan.J.Hyvl@enron.com>"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 64,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 129,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 179,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/sent/53.",
+   "hops": [
+      {
+         "from": "dan.hyvl@enron.com",
+         "line": 4,
+         "rawfrom": "dan.hyvl@enron.com\r\n",
+         "source": "valid",
+         "to": "cwpfister@cps-satx.com"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 30,
+         "rawfrom": "\"Pfister, Christian W.\" <CWPfister@cps-satx.com>\n",
+         "source": "email",
+         "to": "\"'Dan.J.Hyvl@enron.com'\" <Dan.J.Hyvl@enron.com>"
+      },
+      {
+         "from": "jwood@mattbran.com",
+         "line": 48,
+         "rawfrom": "Jon Wood [mailto:jwood@mattbran.com]\n",
+         "source": "email",
+         "to": "'Pfister, Christian W.'; Jon Wood"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 60,
+         "rawfrom": "Pfister, Christian W. [mailto:CWPfister@cps-satx.com]\n",
+         "source": "email",
+         "to": "'jwood@mattbran.com'"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 87,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "jwood@mattbran.com",
+         "line": 130,
+         "rawfrom": "Jon Wood [mailto:jwood@mattbran.com]\n",
+         "source": "email",
+         "to": "'Pfister, Christian W.'"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 150,
+         "rawfrom": "Pfister, Christian W. [mailto:CWPfister@cps-satx.com]\n",
+         "source": "email",
+         "to": "'jwood@mattbran.com'"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 220,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "Pfister, Christian W.; Mc Whirter, Daniel D."
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/sent/43.",
+   "hops": [
+      {
+         "from": "dan.hyvl@enron.com",
+         "line": 4,
+         "rawfrom": "dan.hyvl@enron.com\r\n",
+         "source": "valid",
+         "to": "cwpfister@cps-satx.com"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 29,
+         "rawfrom": "\"Pfister, Christian W.\" <CWPfister@cps-satx.com>\n",
+         "source": "email",
+         "to": "\"'Dan.J.Hyvl@enron.com'\" <Dan.J.Hyvl@enron.com>,"
+      },
+      {
+         "from": "jwood@mattbran.com",
+         "line": 42,
+         "rawfrom": "Jon Wood [mailto:jwood@mattbran.com]\n",
+         "source": "email",
+         "to": "'Pfister, Christian W.'"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 60,
+         "rawfrom": "Pfister, Christian W. [mailto:CWPfister@cps-satx.com]\n",
+         "source": "email",
+         "to": "'jwood@mattbran.com'"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 126,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "Pfister, Christian W.; Mc Whirter, Daniel D."
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/sent/232.",
+   "hops": [
+      {
+         "from": "dan.hyvl@enron.com",
+         "line": 4,
+         "rawfrom": "dan.hyvl@enron.com\r\n",
+         "source": "valid",
+         "to": "cwpfister@cps-satx.com"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 24,
+         "rawfrom": "\"Pfister, Christian W.\" <CWPfister@cps-satx.com>\n",
+         "source": "email",
+         "to": "\"'Dan.J.Hyvl@enron.com'\" <Dan.J.Hyvl@enron.com>"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 35,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 78,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/sent/465.",
+   "hops": [
+      {
+         "from": "dan.hyvl@enron.com",
+         "line": 4,
+         "rawfrom": "dan.hyvl@enron.com\r\n",
+         "source": "valid",
+         "to": "becky.spencer@enron.com, pat.radford@enron.com"
+      },
+      {
+         "from": "martha.alexander@tyc.state.tx.us",
+         "line": 44,
+         "rawfrom": "Martha Alexander [mailto:Martha.Alexander@tyc.state.tx.us]\n",
+         "source": "email",
+         "to": "'Christina.Gensler@alcoa.com'; 'Laura.Frei@alcoa.com'"
+      },
+      {
+         "from": "pschumpe@main.com",
+         "line": 64,
+         "rawfrom": " Philip Schumpe[SMTP:pschumpe@main.com]\n",
+         "source": "email",
+         "to": "Jeffrey & Sherrie Zgabay--at dps; Bobbie Lina; Jeannie Marek; Nancy"
+      },
+      {
+         "from": "lennoxa@swbell.net",
+         "line": 83,
+         "rawfrom": "lennoxa@swbell.net\n",
+         "source": "valid",
+         "to": "paulmaestro@aol.com, carylon54@hotmail.com, 1964@ev1.net,"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/sent/596.",
+   "hops": [
+      {
+         "from": "dan.hyvl@enron.com",
+         "line": 4,
+         "rawfrom": "dan.hyvl@enron.com\r\n",
+         "source": "valid",
+         "to": "clbywaters1@aep.com"
+      },
+      {
+         "from": "clbywaters1@aep.com",
+         "line": 20,
+         "rawfrom": "clbywaters1@aep.com\n",
+         "source": "valid",
+         "to": "Dan.J.Hyvl@enron.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 44,
+         "rawfrom": "Dan.J.Hyvl@enron.com on 06/07/2001 09:54:34 AM\n",
+         "source": "email",
+         "to": "clbywaters1@aep.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 86,
+         "rawfrom": "Dan.J.Hyvl@enron.com on 06/06/2001 02:04:34 PM\n",
+         "source": "email",
+         "to": "clbywaters1@aep.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/sent/429.",
+   "hops": [
+      {
+         "from": "dan.hyvl@enron.com",
+         "line": 4,
+         "rawfrom": "dan.hyvl@enron.com\r\n",
+         "source": "valid",
+         "to": "phil.demoes@enron.com"
+      },
+      {
+         "from": "phil.demoes@enron.com",
+         "line": 70,
+         "rawfrom": "Phil.DeMoes@enron.com [mailto:Phil.DeMoes@enron.com] \n",
+         "source": "email",
+         "to": "Phil Glaessner"
+      },
+      {
+         "from": "pglaessner@enermetrix.com",
+         "line": 84,
+         "rawfrom": "Phil Glaessner <pglaessner@enermetrix.com> on 04/02/2001 02:55:56 PM \n",
+         "source": "email",
+         "to": "?? \"'Phil.DeMoes@enron.com'\" <Phil.DeMoes@enron.com>"
+      },
+      {
+         "from": "phil.demoes@enron.com",
+         "line": 104,
+         "rawfrom": "Phil.DeMoes@enron.com [mailto:Phil.DeMoes@enron.com] \n",
+         "source": "email",
+         "to": "pglaessner@enermetrix.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/sent/149.",
+   "hops": [
+      {
+         "from": "dan.hyvl@enron.com",
+         "line": 4,
+         "rawfrom": "dan.hyvl@enron.com\r\n",
+         "source": "valid",
+         "to": "cwpfister@cps-satx.com"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 33,
+         "rawfrom": "\"Pfister, Christian W.\" <CWPfister@cps-satx.com>\n",
+         "source": "email",
+         "to": "\"'Dan.J.Hyvl@enron.com'\" <Dan.J.Hyvl@enron.com>"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 59,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 109,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/gas/cps/2.",
+   "hops": [
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 4,
+         "rawfrom": "cwpfister@cps-satx.com\r\n",
+         "source": "valid",
+         "to": "dan.j.hyvl@enron.com, james.i.ducote@enron.com"
+      },
+      {
+         "from": "jwood@mattbran.com",
+         "line": 26,
+         "rawfrom": "Jon Wood [mailto:jwood@mattbran.com]\n",
+         "source": "email",
+         "to": "'Pfister, Christian W.'"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 44,
+         "rawfrom": "Pfister, Christian W. [mailto:CWPfister@cps-satx.com]\n",
+         "source": "email",
+         "to": "'jwood@mattbran.com'"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 110,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "Pfister, Christian W.; Mc Whirter, Daniel D."
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/gas/cps/3.",
+   "hops": [
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 4,
+         "rawfrom": "cwpfister@cps-satx.com\r\n",
+         "source": "valid",
+         "to": "dan.j.hyvl@enron.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 32,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "jwood@mattbran.com",
+         "line": 86,
+         "rawfrom": "Jon Wood [mailto:jwood@mattbran.com]\n",
+         "source": "email",
+         "to": "'Pfister, Christian W.'; Jon Wood"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 98,
+         "rawfrom": "Pfister, Christian W. [mailto:CWPfister@cps-satx.com]\n",
+         "source": "email",
+         "to": "'jwood@mattbran.com'"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 126,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "jwood@mattbran.com",
+         "line": 169,
+         "rawfrom": "Jon Wood [mailto:jwood@mattbran.com]\n",
+         "source": "email",
+         "to": "'Pfister, Christian W.'"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 189,
+         "rawfrom": "Pfister, Christian W. [mailto:CWPfister@cps-satx.com]\n",
+         "source": "email",
+         "to": "'jwood@mattbran.com'"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 259,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "Pfister, Christian W.; Mc Whirter, Daniel D."
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/gas/cps/4.",
+   "hops": [
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 4,
+         "rawfrom": "cwpfister@cps-satx.com\r\n",
+         "source": "valid",
+         "to": "dan.j.hyvl@enron.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 42,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "jwood@mattbran.com",
+         "line": 96,
+         "rawfrom": "Jon Wood [mailto:jwood@mattbran.com]\n",
+         "source": "email",
+         "to": "'Pfister, Christian W.'; Jon Wood"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 108,
+         "rawfrom": "Pfister, Christian W. [mailto:CWPfister@cps-satx.com]\n",
+         "source": "email",
+         "to": "'jwood@mattbran.com'"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 136,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "jwood@mattbran.com",
+         "line": 179,
+         "rawfrom": "Jon Wood [mailto:jwood@mattbran.com]\n",
+         "source": "email",
+         "to": "'Pfister, Christian W.'"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 199,
+         "rawfrom": "Pfister, Christian W. [mailto:CWPfister@cps-satx.com]\n",
+         "source": "email",
+         "to": "'jwood@mattbran.com'"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 269,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "Pfister, Christian W.; Mc Whirter, Daniel D."
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/gas/cps/8.",
+   "hops": [
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 4,
+         "rawfrom": "cwpfister@cps-satx.com\r\n",
+         "source": "valid",
+         "to": "dan.j.hyvl@enron.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 31,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 96,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 146,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/gas/cps/9.",
+   "hops": [
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 4,
+         "rawfrom": "cwpfister@cps-satx.com\r\n",
+         "source": "valid",
+         "to": "dan.j.hyvl@enron.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 44,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 109,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 159,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/gas/cps/11.",
+   "hops": [
+      {
+         "from": "dan.hyvl@enron.com",
+         "line": 4,
+         "rawfrom": "dan.hyvl@enron.com\r\n",
+         "source": "valid",
+         "to": "cwpfister@cps-satx.com"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 32,
+         "rawfrom": "\"Pfister, Christian W.\" <CWPfister@cps-satx.com>\n",
+         "source": "email",
+         "to": "\"'Dan.J.Hyvl@enron.com'\" <Dan.J.Hyvl@enron.com>"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 64,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 129,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 179,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/gas/foster_ward/12.",
+   "hops": [
+      {
+         "from": "chris.foster@enron.com",
+         "line": 4,
+         "rawfrom": "chris.foster@enron.com\r\n",
+         "source": "valid",
+         "to": "sspalding@summitenergy.com"
+      },
+      {
+         "from": "sspalding@summitenergy.com",
+         "line": 33,
+         "rawfrom": " \"Susan Spalding\" <sspalding@summitenergy.com>                          \n",
+         "source": "email",
+         "to": "<Chris.H.Foster@enron.com>"
+      },
+      {
+         "from": "chris.h.foster@enron.com",
+         "line": 41,
+         "rawfrom": "<Chris.H.Foster@enron.com>\n",
+         "source": "email",
+         "to": "Susan Spalding <sspalding@summitenergy.com>"
+      },
+      {
+         "from": "chris.h.foster@enron.com",
+         "line": 76,
+         "rawfrom": "<Chris.H.Foster@enron.com>\n",
+         "source": "email",
+         "to": "Susan Spalding <sspalding@summitenergy.com>"
+      },
+      {
+         "from": "chris.h.foster@enron.com",
+         "line": 117,
+         "rawfrom": "<Chris.H.Foster@enron.com>\n",
+         "source": "email",
+         "to": "Susan Spalding <sspalding@summitenergy.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/gas/foster_ward/11.",
+   "hops": [
+      {
+         "from": "chris.foster@enron.com",
+         "line": 4,
+         "rawfrom": "chris.foster@enron.com\r\n",
+         "source": "valid",
+         "to": "sspalding@summitenergy.com"
+      },
+      {
+         "from": "sspalding@summitenergy.com",
+         "line": 32,
+         "rawfrom": " \"Susan Spalding\" <sspalding@summitenergy.com>                          \n",
+         "source": "email",
+         "to": "<Chris.H.Foster@enron.com>"
+      },
+      {
+         "from": "chris.h.foster@enron.com",
+         "line": 40,
+         "rawfrom": "<Chris.H.Foster@enron.com>\n",
+         "source": "email",
+         "to": "Susan Spalding <sspalding@summitenergy.com>"
+      },
+      {
+         "from": "chris.h.foster@enron.com",
+         "line": 81,
+         "rawfrom": "<Chris.H.Foster@enron.com>\n",
+         "source": "email",
+         "to": "Susan Spalding <sspalding@summitenergy.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/gas/hpl_customers/19.",
+   "hops": [
+      {
+         "from": "lee.papayoti@enron.com",
+         "line": 4,
+         "rawfrom": "lee.papayoti@enron.com\r\n",
+         "source": "valid",
+         "to": "dan.hyvl@enron.com, russell.diamond@enron.com"
+      },
+      {
+         "from": "lee.l.papayoti@enron.com",
+         "line": 47,
+         "rawfrom": "Lee.L.Papayoti@enron.com [SMTP:Lee.L.Papayoti@enron.com]\n",
+         "source": "email",
+         "to": "MQDA@chevron.com"
+      },
+      {
+         "from": "mqda@chevron.com",
+         "line": 75,
+         "rawfrom": "MQDA@chevron.com",
+         "source": "valid",
+         "to": "\"'Lee.L.Papayoti@enron.com'\" <Lee.L.Papayoti@enron.com>"
+      },
+      {
+         "from": "lee.l.papayoti@enron.com",
+         "line": 108,
+         "rawfrom": "  Lee.L.Papayoti@enron.com [SMTP:Lee.L.Papayoti@enron.com]\n",
+         "source": "email",
+         "to": "Martin Dale"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/gas/hpl_customers/20.",
+   "hops": [
+      {
+         "from": "lee.papayoti@enron.com",
+         "line": 4,
+         "rawfrom": "lee.papayoti@enron.com\r\n",
+         "source": "valid",
+         "to": "russell.diamond@enron.com, veronica.espinoza@enron.com"
+      },
+      {
+         "from": "lee.l.papayoti@enron.com",
+         "line": 122,
+         "rawfrom": "Lee.L.Papayoti@enron.com [SMTP:Lee.L.Papayoti@enron.com]\n",
+         "source": "email",
+         "to": "MQDA@chevron.com"
+      },
+      {
+         "from": "mqda@chevron.com",
+         "line": 150,
+         "rawfrom": "MQDA@chevron.com",
+         "source": "valid",
+         "to": "\"'Lee.L.Papayoti@enron.com'\" <Lee.L.Papayoti@enron.com>"
+      },
+      {
+         "from": "lee.l.papayoti@enron.com",
+         "line": 183,
+         "rawfrom": "  Lee.L.Papayoti@enron.com [SMTP:Lee.L.Papayoti@enron.com]\n",
+         "source": "email",
+         "to": "Martin Dale"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/gas/28.",
+   "hops": [
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 4,
+         "rawfrom": "cwpfister@cps-satx.com\r\n",
+         "source": "valid",
+         "to": "dan.j.hyvl@enron.com"
+      },
+      {
+         "from": "jwood@mattbran.com",
+         "line": 30,
+         "rawfrom": "Jon Wood [mailto:jwood@mattbran.com]\n",
+         "source": "email",
+         "to": "'Pfister, Christian W.'; Jon Wood"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 42,
+         "rawfrom": "Pfister, Christian W. [mailto:CWPfister@cps-satx.com]\n",
+         "source": "email",
+         "to": "'jwood@mattbran.com'"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 69,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "CWPfister@cps-satx.com"
+      },
+      {
+         "from": "jwood@mattbran.com",
+         "line": 112,
+         "rawfrom": "Jon Wood [mailto:jwood@mattbran.com]\n",
+         "source": "email",
+         "to": "'Pfister, Christian W.'"
+      },
+      {
+         "from": "cwpfister@cps-satx.com",
+         "line": 132,
+         "rawfrom": "Pfister, Christian W. [mailto:CWPfister@cps-satx.com]\n",
+         "source": "email",
+         "to": "'jwood@mattbran.com'"
+      },
+      {
+         "from": "dan.j.hyvl@enron.com",
+         "line": 202,
+         "rawfrom": "Dan.J.Hyvl@enron.com [mailto:Dan.J.Hyvl@enron.com]\n",
+         "source": "email",
+         "to": "Pfister, Christian W.; Mc Whirter, Daniel D."
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/miscellaneous/49.",
+   "hops": [
+      {
+         "from": "nbutler@susmangodfrey.com",
+         "line": 4,
+         "rawfrom": "nbutler@susmangodfrey.com\r\n",
+         "source": "valid",
+         "to": "dan.j.hyvl@enron.com"
+      },
+      {
+         "from": "rld@swmedmgt.com",
+         "line": 21,
+         "rawfrom": "Robert L. Dittert  [mailto:rld@swmedmgt.com]\n",
+         "source": "email",
+         "to": "Jeff Watkins (E-mail); Noel Butler; Veronica Dittert  (E-mail)"
+      },
+      {
+         "from": "djk@fittsroberts.com",
+         "line": 29,
+         "rawfrom": "Dee Koehler  [mailto:djk@fittsroberts.com]\n",
+         "source": "email",
+         "to": "Linda Frieda; Mary Freeman; Kelly J. Hunter; Kathy Gibson;"
+      },
+      {
+         "from": "dhsjava@aol.com",
+         "line": 70,
+         "rawfrom": "DHSJAVA@aol.com\n",
+         "source": "valid",
+         "to": "leeasher@swbell.net, the_meter@email.msn.com, rgump@intercession.net,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/miscellaneous/59.",
+   "hops": [
+      {
+         "from": "nbutler@susmangodfrey.com",
+         "line": 4,
+         "rawfrom": "nbutler@susmangodfrey.com\r\n",
+         "source": "valid",
+         "to": "dan.j.hyvl@enron.com"
+      },
+      {
+         "from": "jeffw@lashleyinc.com",
+         "line": 20,
+         "rawfrom": "Jeff Watkins [mailto:jeffw@lashleyinc.com]\n",
+         "source": "email",
+         "to": "Noel Butler"
+      },
+      {
+         "from": "kellim@lashleyinc.com",
+         "line": 29,
+         "rawfrom": "Kelli [mailto:kellim@lashleyinc.com]\n",
+         "source": "email",
+         "to": "Steve Davidek; Sarah Coil; Kim; Jeff Watkins; Erica Williams; Clif"
+      },
+      {
+         "from": "trob0116@hotmail.com",
+         "line": 39,
+         "rawfrom": "Tracy Robinson [mailto:trob0116@hotmail.com]\n",
+         "source": "email",
+         "to": "mattswierkowski@hotmail.com; michellenelson81@hotmail.com;"
+      },
+      {
+         "from": "mpagel21@hotmail.com",
+         "line": 55,
+         "rawfrom": "\"michelle pagel\" <mpagel21@hotmail.com>\n",
+         "source": "email",
+         "to": "chris@teligistics.com, boyd@teligistics.com,"
+      },
+      {
+         "from": "baerswa@hotmail.com",
+         "line": 68,
+         "rawfrom": "\"Barry Sparks\" <baerswa@hotmail.com>\n",
+         "source": "email",
+         "to": "mpagel21@hotmail.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/miscellaneous/57.",
+   "hops": [
+      {
+         "from": "nbutler@susmangodfrey.com",
+         "line": 4,
+         "rawfrom": "nbutler@susmangodfrey.com\r\n",
+         "source": "valid",
+         "to": "dan.j.hyvl@enron.com"
+      },
+      {
+         "from": "jeffw@lashleyinc.com",
+         "line": 20,
+         "rawfrom": "Jeff Watkins [mailto:jeffw@lashleyinc.com]\n",
+         "source": "email",
+         "to": "Steve Davidek; rob; Noel Butler; john; kelli; erica"
+      },
+      {
+         "from": "justinwatkins41@hotmail.com",
+         "line": 29,
+         "rawfrom": "Justin Watkins [mailto:justinwatkins41@hotmail.com]\n",
+         "source": "email",
+         "to": "kellyjolong@hotmail.com; jeffw@lashleyinc.com; kimberlym843@msn.com;"
+      },
+      {
+         "from": "hollyhoe25@hotmail.com",
+         "line": 40,
+         "rawfrom": "\"starla king\" <hollyhoe25@hotmail.com>\n",
+         "source": "email",
+         "to": "gketurah234@aol.com, dancincowboy13@aol.com,"
+      },
+      {
+         "from": "pixie_star82@hotmail.com",
+         "line": 52,
+         "rawfrom": "\"Shawna Tatum\" <pixie_star82@hotmail.com>\n",
+         "source": "email",
+         "to": "hollyhoe25@hotmail.com"
+      },
+      {
+         "from": "jrhouston10@hotmail.com",
+         "line": 60,
+         "rawfrom": "\"jessica romero\" <jrhouston10@hotmail.com>\n",
+         "source": "email",
+         "to": "kobethegame@hotmail.com, dice3425@hotmail.com, rcander81@hotmail.com,"
+      },
+      {
+         "from": "lilmik662@hotmail.com",
+         "line": 76,
+         "rawfrom": "\"Mikel Dickson\" <lilmik662@hotmail.com>\n",
+         "source": "email",
+         "to": "rmk237@yahoo.com, Big_J2K@email.com, Burly_03@yahoo.com,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/miscellaneous/confidentiality/4.",
+   "hops": [
+      {
+         "from": "brant.reves@enron.com",
+         "line": 4,
+         "rawfrom": "brant.reves@enron.com\r\n",
+         "source": "valid",
+         "to": "dan.hyvl@enron.com"
+      },
+      {
+         "from": "noubi.benhamida@elftrading.com",
+         "line": 30,
+         "rawfrom": " \"Noubi Ben Hamida\" <noubi.benhamida@elftrading.com>@ENRON \n",
+         "source": "email",
+         "to": "Reves, Brant"
+      },
+      {
+         "from": "noubi.benhamida@elftrading.com",
+         "line": 77,
+         "rawfrom": "    \"Noubi Ben Hamida\" <noubi.benhamida@elftrading.com>@ENRON\n",
+         "source": "email",
+         "to": "Reves, Brant"
+      },
+      {
+         "from": "noubi.benhamida@elftrading.com",
+         "line": 164,
+         "rawfrom": "    \"Noubi Ben Hamida\" <noubi.benhamida@elftrading.com>\n",
+         "source": "email",
+         "to": "Reves, Brant"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/miscellaneous/63.",
+   "hops": [
+      {
+         "from": "nbutler@susmangodfrey.com",
+         "line": 4,
+         "rawfrom": "nbutler@susmangodfrey.com\r\n",
+         "source": "valid",
+         "to": "dan.j.hyvl@enron.com"
+      },
+      {
+         "from": "bvjh@aol.com",
+         "line": 21,
+         "rawfrom": "BVJH@aol.com  [mailto:BVJH@aol.com]\n",
+         "source": "email",
+         "to": "aranda73@netscape.net; mbarakat@ev1.net; BRIERSPIPE@aol.com;  Noel"
+      },
+      {
+         "from": "jamiemoncur@hotmail.com",
+         "line": 37,
+         "rawfrom": "jamie moncur <jamiemoncur@hotmail.com>\n",
+         "source": "email",
+         "to": "marjoribanksjames@hotmail.com, Oconnell_a@hotmail.com,"
+      },
+      {
+         "from": "emma.innes@marconi.com",
+         "line": 59,
+         "rawfrom": "Emma.Innes@marconi.com  \n",
+         "source": "valid",
+         "to": "ASherwin-Brown@worcestershire.gov.uk, andybrownis@netscapeonline.co.uk,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hyvl-d/miscellaneous/48.",
+   "hops": [
+      {
+         "from": "nbutler@susmangodfrey.com",
+         "line": 4,
+         "rawfrom": "nbutler@susmangodfrey.com\r\n",
+         "source": "valid",
+         "to": "dan.j.hyvl@enron.com"
+      },
+      {
+         "from": "jeffw@lashleyinc.com",
+         "line": 20,
+         "rawfrom": "Jeff Watkins [mailto:jeffw@lashleyinc.com]\n",
+         "source": "email",
+         "to": "DARRIN D DAY; Kurt Meinert; rob; Noel Butler"
+      },
+      {
+         "from": "kellim@lashleyinc.com",
+         "line": 29,
+         "rawfrom": "Kelli [mailto:kellim@lashleyinc.com]\n",
+         "source": "email",
+         "to": "Steve Davidek; Stephanie; Kim; Jeff Watkins; Gloria Allen; DAD;"
+      },
+      {
+         "from": "matt@gmont.com",
+         "line": 39,
+         "rawfrom": "Matt Vuskov [mailto:matt@gmont.com]\n",
+         "source": "email",
+         "to": "KELLI (E-mail)"
+      },
+      {
+         "from": "viet@gmont.com",
+         "line": 48,
+         "rawfrom": "Viet Tran [mailto:viet@gmont.com]\n",
+         "source": "email",
+         "to": "REBECCA (E-mail); MATT VUSKOV (E-mail)"
+      },
+      {
+         "from": "annievo@mailcity.com",
+         "line": 57,
+         "rawfrom": "anh n vo [mailto:Annievo@mailcity.com]\n",
+         "source": "email",
+         "to": "tthv@yahoogroups.com"
+      },
+      {
+         "from": "hongvo@lycos.com",
+         "line": 68,
+         "rawfrom": "\"Hong Vo\" <hongvo@lycos.com>\n",
+         "source": "email",
+         "to": "annievo@mailcity.com"
+      },
+      {
+         "from": "loanstar82@hotmail.com",
+         "line": 77,
+         "rawfrom": "\"Loan Tran\" <loanstar82@hotmail.com>\n",
+         "source": "email",
+         "to": "hongvo@lycos.com"
+      }
+   ],
+   "skipped": 0
+}
+]

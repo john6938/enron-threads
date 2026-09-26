@@ -1,0 +1,561 @@
+[
+{
+   "file": "/home/jb/maildir/williams-j/inbox/154.",
+   "hops": [
+      {
+         "from": "chatcher@wm.com",
+         "line": 4,
+         "rawfrom": "chatcher@wm.com\r\n",
+         "source": "valid",
+         "to": "trading <.williams@enron.com>"
+      },
+      {
+         "from": "jason.williams@enron.com",
+         "line": 31,
+         "rawfrom": "Williams, Jason (Trading) [mailto:Jason.Williams@ENRON.com]\n",
+         "source": "email",
+         "to": "\"Brian J Davison\" <bjdavison@cmsenergy.com>@ENRON;"
+      },
+      {
+         "from": "bjdavison@cmsenergy.com",
+         "line": 46,
+         "rawfrom": "\t\"Brian J Davison\" <bjdavison@cmsenergy.com>@ENRON\n",
+         "source": "email",
+         "to": "cferguson@stephenstephenson.com"
+      },
+      {
+         "from": "cferguson@stephenstephenson.com",
+         "line": 92,
+         "rawfrom": "cferguson@stephenstephenson.com",
+         "source": "valid",
+         "to": "\"Daniel M. Altom\" <DAltom@mglconsulting.com>, \"Hatcher, Chris\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/williams-j/all_documents/125.",
+   "hops": [
+      {
+         "from": "brant.reves@enron.com",
+         "line": 4,
+         "rawfrom": "brant.reves@enron.com\r\n",
+         "source": "valid",
+         "to": "jason.williams@enron.com, russell.diamond@enron.com"
+      },
+      {
+         "from": "stephens@cpsinet.com",
+         "line": 46,
+         "rawfrom": "Stephen Shivers [mailto:stephens@cpsinet.com]\n",
+         "source": "email",
+         "to": "Wally Poole (E-mail); Spencer Williams; Paul Omezi; Michael Muscat;"
+      },
+      {
+         "from": "karenm@cpsinet.com",
+         "line": 59,
+         "rawfrom": "Karen Waggoner <karenm@cpsinet.com>\n",
+         "source": "email",
+         "to": "JERRY KISER <jerryk@cpsinet.com>; JENNIFER SWEENEY"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 85,
+         "rawfrom": "\"Personalize, NIKE iD\" <nikeid_personalize@nike.com\n",
+         "source": "email",
+         "to": "\"'Jonah H. Peretti'\" <peretti@media.mit.edu"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 109,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu\n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\" <nikeid_personalize@nike.com"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 135,
+         "rawfrom": "\"Personalize, NIKE iD\" <nikeid_personalize@nike.com\n",
+         "source": "email",
+         "to": "\"'Jonah H. Peretti'\" <peretti@media.mit.edu"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 150,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu\n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\" <nikeid_personalize@nike.com"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 190,
+         "rawfrom": "\"Personalize, NIKE iD\" <nikeid_personalize@nike.com\n",
+         "source": "email",
+         "to": "\"'Jonah H. Peretti'\" <peretti@media.mit.edu"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 226,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu\n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\" <nikeid_personalize@nike.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/williams-j/deleted_items/240.",
+   "hops": [
+      {
+         "from": "cferguson@stephenstephenson.com",
+         "line": 30,
+         "rawfrom": "cferguson@stephenstephenson.com\n",
+         "source": "valid",
+         "to": "Williams, Jason (Trading); Jason Kriendler"
+      },
+      {
+         "from": "jason.williams@enron.com",
+         "line": 47,
+         "rawfrom": "Williams, Jason (Trading) <Jason.Williams@ENRON.com>\n",
+         "source": "email",
+         "to": "Jason Kriendler <jkriendler@yahoo.com>@ENRON"
+      },
+      {
+         "from": "jkriendler@yahoo.com",
+         "line": 65,
+         "rawfrom": "Jason Kriendler <jkriendler@yahoo.com>@ENRON\n",
+         "source": "email",
+         "to": "cferguson@stephenstephenson.com; Daniel M. Altom; Hatcher,"
+      },
+      {
+         "from": "daltom@mglconsulting.com",
+         "line": 93,
+         "rawfrom": "Daniel M. Altom <DAltom@mglconsulting.com>\n",
+         "source": "email",
+         "to": "<cferguson@stephenstephenson.com>; Hatcher,"
+      },
+      {
+         "from": "cferguson@stephenstephenson.com",
+         "line": 121,
+         "rawfrom": "cferguson@stephenstephenson.com\n",
+         "source": "valid",
+         "to": "Hatcher, Chris; 'Daniel M. Altom'; Brian"
+      },
+      {
+         "from": "chatcher@wm.com",
+         "line": 138,
+         "rawfrom": "Hatcher, Chris <CHatcher@wm.com>\n",
+         "source": "email",
+         "to": "'Daniel M. Altom' <DAltom@mglconsulting.com>;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/williams-j/deleted_items/238.",
+   "hops": [
+      {
+         "from": "daltom@mglconsulting.com",
+         "line": 4,
+         "rawfrom": "daltom@mglconsulting.com\r\n",
+         "source": "valid",
+         "to": "e-mail <.brian@enron.com>, e-mail <.david@enron.com>,"
+      },
+      {
+         "from": "cferguson@stephenstephenson.com",
+         "line": 39,
+         "rawfrom": "cferguson@stephenstephenson.com\n",
+         "source": "valid",
+         "to": "Daniel M. Altom; Hatcher, Chris; Brian Davison (E-mail); David"
+      },
+      {
+         "from": "daltom@mglconsulting.com",
+         "line": 54,
+         "rawfrom": "Daniel M. Altom <DAltom@mglconsulting.com>\n",
+         "source": "email",
+         "to": "<cferguson@stephenstephenson.com>; Hatcher, Chris <CHatcher@wm.com>;"
+      },
+      {
+         "from": "cferguson@stephenstephenson.com",
+         "line": 77,
+         "rawfrom": "cferguson@stephenstephenson.com\n",
+         "source": "valid",
+         "to": "Hatcher, Chris; 'Daniel M. Altom'; Brian Davison (E-mail); David"
+      },
+      {
+         "from": "chatcher@wm.com",
+         "line": 90,
+         "rawfrom": "Hatcher, Chris <CHatcher@wm.com>\n",
+         "source": "email",
+         "to": "'Daniel M. Altom' <DAltom@mglconsulting.com>; Brian Davison (E-mail)"
+      },
+      {
+         "from": "daltom@mglconsulting.com",
+         "line": 110,
+         "rawfrom": "Daniel M. Altom [mailto:DAltom@mglconsulting.com]\n",
+         "source": "email",
+         "to": "Brian Davison (E-mail); Chris Ferguson (E-mail); Hatcher, Chris; Dan"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/williams-j/deleted_items/237.",
+   "hops": [
+      {
+         "from": "daltom@mglconsulting.com",
+         "line": 4,
+         "rawfrom": "daltom@mglconsulting.com\r\n",
+         "source": "valid",
+         "to": "altom.daniel@enron.com, e-mail <.brian@enron.com>, e-mail <.david@enron.com>,"
+      },
+      {
+         "from": "cferguson@stephenstephenson.com",
+         "line": 31,
+         "rawfrom": "cferguson@stephenstephenson.com\n",
+         "source": "valid",
+         "to": "Hatcher, Chris; 'Daniel M. Altom'; Brian Davison (E-mail); David"
+      },
+      {
+         "from": "chatcher@wm.com",
+         "line": 44,
+         "rawfrom": "Hatcher, Chris <CHatcher@wm.com>\n",
+         "source": "email",
+         "to": "'Daniel M. Altom' <DAltom@mglconsulting.com>; Brian Davison (E-mail)"
+      },
+      {
+         "from": "daltom@mglconsulting.com",
+         "line": 63,
+         "rawfrom": "Daniel M. Altom [mailto:DAltom@mglconsulting.com]\n",
+         "source": "email",
+         "to": "Brian Davison (E-mail); Chris Ferguson (E-mail); Hatcher, Chris; Dan"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/williams-j/sent_items/90.",
+   "hops": [
+      {
+         "from": ".williams@enron.com",
+         "line": 4,
+         "rawfrom": "trading <.williams@enron.com>\r\n",
+         "source": "email",
+         "to": "jkriendler@yahoo.com, cferguson@stephenstephenson.com,"
+      },
+      {
+         "from": "jkriendler@yahoo.com",
+         "line": 25,
+         "rawfrom": "\tJason Kriendler <jkriendler@yahoo.com>@ENRON [mailto:IMCEANOTES-Jason+20Kriendler+20+3Cjkriendler+40yahoo+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "cferguson@stephenstephenson.com; Daniel M. Altom; Hatcher, Chris; Brian Davison \\(E-mail\\); David Esones \\(E-mail\\); Williams, Jason (Trading); Todd Grabbe \\(E-mail\\); Wayne Bland \\(E-mail\\)"
+      },
+      {
+         "from": "daltom@mglconsulting.com",
+         "line": 51,
+         "rawfrom": "Daniel M. Altom <DAltom@mglconsulting.com>\n",
+         "source": "email",
+         "to": "<cferguson@stephenstephenson.com>; Hatcher,"
+      },
+      {
+         "from": "cferguson@stephenstephenson.com",
+         "line": 79,
+         "rawfrom": "cferguson@stephenstephenson.com\n",
+         "source": "valid",
+         "to": "Hatcher, Chris; 'Daniel M. Altom'; Brian"
+      },
+      {
+         "from": "chatcher@wm.com",
+         "line": 96,
+         "rawfrom": "Hatcher, Chris <CHatcher@wm.com>\n",
+         "source": "email",
+         "to": "'Daniel M. Altom' <DAltom@mglconsulting.com>;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/williams-j/sent_items/121.",
+   "hops": [
+      {
+         "from": ".williams@enron.com",
+         "line": 4,
+         "rawfrom": "trading <.williams@enron.com>\r\n",
+         "source": "email",
+         "to": "williamsj@iconus.com"
+      },
+      {
+         "from": "williamsj@iconus.com",
+         "line": 23,
+         "rawfrom": "\t\"Williams, Joanna (TX)\" <WilliamsJ@iconus.com>@ENRON  \n",
+         "source": "email",
+         "to": "Williams, Jason (Trading)"
+      },
+      {
+         "from": "jason.williams@enron.com",
+         "line": 31,
+         "rawfrom": "Jason.Williams@enron.com [mailto:Jason.Williams@enron.com]\n",
+         "source": "email",
+         "to": "WilliamsJ@iconus.com"
+      },
+      {
+         "from": "williamsj@iconus.com",
+         "line": 41,
+         "rawfrom": "  \"Williams, Joanna (TX)\" <WilliamsJ@iconus.com>@ENRON\n",
+         "source": "email",
+         "to": "Williams, Jason (Trading)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/williams-j/sent_items/115.",
+   "hops": [
+      {
+         "from": ".williams@enron.com",
+         "line": 4,
+         "rawfrom": "trading <.williams@enron.com>\r\n",
+         "source": "email",
+         "to": "bill.barker@attws.com"
+      },
+      {
+         "from": "bill.barker@attws.com",
+         "line": 23,
+         "rawfrom": "\t\"Barker, Bill\" <bill.barker@attws.com>@ENRON  \n",
+         "source": "email",
+         "to": "Williams, Jason (Trading)"
+      },
+      {
+         "from": "jason.williams@enron.com",
+         "line": 34,
+         "rawfrom": "Jason.Williams@enron.com [mailto:Jason.Williams@enron.com]\n",
+         "source": "email",
+         "to": "bill.barker@attws.com"
+      },
+      {
+         "from": "bill.barker@attws.com",
+         "line": 44,
+         "rawfrom": "  \"Barker, Bill\" <bill.barker@attws.com>@ENRON\n",
+         "source": "email",
+         "to": "Williams, Jason (Trading)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/williams-j/sent_items/157.",
+   "hops": [
+      {
+         "from": ".williams@enron.com",
+         "line": 4,
+         "rawfrom": "trading <.williams@enron.com>\r\n",
+         "source": "email",
+         "to": "billm@hammondshomes.com"
+      },
+      {
+         "from": "billm@hammondshomes.com",
+         "line": 22,
+         "rawfrom": "\t\"Murray, Bill\" <BillM@HammondsHomes.com>@ENRON  \n",
+         "source": "email",
+         "to": "Williams, Jason (Trading)"
+      },
+      {
+         "from": "jason.williams@enron.com",
+         "line": 31,
+         "rawfrom": "Jason.Williams@enron.com [mailto:Jason.Williams@enron.com]\n",
+         "source": "email",
+         "to": "Murray, Bill"
+      },
+      {
+         "from": "billm@hammondshomes.com",
+         "line": 40,
+         "rawfrom": "  \"Murray, Bill\" <BillM@HammondsHomes.com>@ENRON\n",
+         "source": "email",
+         "to": "Williams, Jason (Trading); Michael Green (E-mail); Wayne"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/williams-j/sent_items/122.",
+   "hops": [
+      {
+         "from": ".williams@enron.com",
+         "line": 4,
+         "rawfrom": "trading <.williams@enron.com>\r\n",
+         "source": "email",
+         "to": "williamsj@iconus.com"
+      },
+      {
+         "from": "williamsj@iconus.com",
+         "line": 23,
+         "rawfrom": "\t\"Williams, Joanna (TX)\" <WilliamsJ@iconus.com>@ENRON  \n",
+         "source": "email",
+         "to": "Williams, Jason (Trading)"
+      },
+      {
+         "from": "jason.williams@enron.com",
+         "line": 33,
+         "rawfrom": "Jason.Williams@enron.com [mailto:Jason.Williams@enron.com]\n",
+         "source": "email",
+         "to": "WilliamsJ@iconus.com"
+      },
+      {
+         "from": "williamsj@iconus.com",
+         "line": 43,
+         "rawfrom": "  \"Williams, Joanna (TX)\" <WilliamsJ@iconus.com>@ENRON\n",
+         "source": "email",
+         "to": "Williams, Jason (Trading)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/williams-j/discussion_threads/106.",
+   "hops": [
+      {
+         "from": "brant.reves@enron.com",
+         "line": 4,
+         "rawfrom": "brant.reves@enron.com\r\n",
+         "source": "valid",
+         "to": "jason.williams@enron.com, russell.diamond@enron.com"
+      },
+      {
+         "from": "stephens@cpsinet.com",
+         "line": 46,
+         "rawfrom": "Stephen Shivers [mailto:stephens@cpsinet.com]\n",
+         "source": "email",
+         "to": "Wally Poole (E-mail); Spencer Williams; Paul Omezi; Michael Muscat;"
+      },
+      {
+         "from": "karenm@cpsinet.com",
+         "line": 59,
+         "rawfrom": "Karen Waggoner <karenm@cpsinet.com>\n",
+         "source": "email",
+         "to": "JERRY KISER <jerryk@cpsinet.com>; JENNIFER SWEENEY"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 85,
+         "rawfrom": "\"Personalize, NIKE iD\" <nikeid_personalize@nike.com\n",
+         "source": "email",
+         "to": "\"'Jonah H. Peretti'\" <peretti@media.mit.edu"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 109,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu\n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\" <nikeid_personalize@nike.com"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 135,
+         "rawfrom": "\"Personalize, NIKE iD\" <nikeid_personalize@nike.com\n",
+         "source": "email",
+         "to": "\"'Jonah H. Peretti'\" <peretti@media.mit.edu"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 150,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu\n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\" <nikeid_personalize@nike.com"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 190,
+         "rawfrom": "\"Personalize, NIKE iD\" <nikeid_personalize@nike.com\n",
+         "source": "email",
+         "to": "\"'Jonah H. Peretti'\" <peretti@media.mit.edu"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 226,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu\n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\" <nikeid_personalize@nike.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/williams-j/private_folders/jays_stuff/24.",
+   "hops": [
+      {
+         "from": "brant.reves@enron.com",
+         "line": 4,
+         "rawfrom": "brant.reves@enron.com\r\n",
+         "source": "valid",
+         "to": "jason.williams@enron.com, russell.diamond@enron.com"
+      },
+      {
+         "from": "stephens@cpsinet.com",
+         "line": 46,
+         "rawfrom": "Stephen Shivers [mailto:stephens@cpsinet.com]\n",
+         "source": "email",
+         "to": "Wally Poole (E-mail); Spencer Williams; Paul Omezi; Michael Muscat;"
+      },
+      {
+         "from": "karenm@cpsinet.com",
+         "line": 59,
+         "rawfrom": "Karen Waggoner <karenm@cpsinet.com>\n",
+         "source": "email",
+         "to": "JERRY KISER <jerryk@cpsinet.com>; JENNIFER SWEENEY"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 85,
+         "rawfrom": "\"Personalize, NIKE iD\" <nikeid_personalize@nike.com\n",
+         "source": "email",
+         "to": "\"'Jonah H. Peretti'\" <peretti@media.mit.edu"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 109,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu\n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\" <nikeid_personalize@nike.com"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 135,
+         "rawfrom": "\"Personalize, NIKE iD\" <nikeid_personalize@nike.com\n",
+         "source": "email",
+         "to": "\"'Jonah H. Peretti'\" <peretti@media.mit.edu"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 150,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu\n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\" <nikeid_personalize@nike.com"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 190,
+         "rawfrom": "\"Personalize, NIKE iD\" <nikeid_personalize@nike.com\n",
+         "source": "email",
+         "to": "\"'Jonah H. Peretti'\" <peretti@media.mit.edu"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 226,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu\n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\" <nikeid_personalize@nike.com"
+      }
+   ],
+   "skipped": 2
+}
+]

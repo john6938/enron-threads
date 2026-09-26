@@ -1,0 +1,911 @@
+[
+{
+   "file": "/home/jb/maildir/presto-k/all_documents/14.",
+   "hops": [
+      {
+         "from": "slgoza@tva.gov",
+         "line": 4,
+         "rawfrom": "slgoza@tva.gov\r\n",
+         "source": "valid",
+         "to": "slgoza@tva.gov, rogers.herndon@enron.com"
+      },
+      {
+         "from": "rogers.herndon@enron.com",
+         "line": 49,
+         "rawfrom": " Rogers.Herndon@enron.com[SMTP:Rogers.Herndon@enron.com]\n",
+         "source": "email",
+         "to": "slgoza@tva.gov"
+      },
+      {
+         "from": "slgoza@tva.gov",
+         "line": 117,
+         "rawfrom": "slgoza@tva.gov",
+         "source": "valid",
+         "to": "slgoza@tva.gov, \"'Rogers.Herndon@enron.com'\""
+      },
+      {
+         "from": "rogers.herndon@enron.com",
+         "line": 143,
+         "rawfrom": "  Rogers.Herndon@enron.com[SMTP:Rogers.Herndon@enron.com]\n",
+         "source": "email",
+         "to": "slgoza@tva.gov"
+      },
+      {
+         "from": "rogers.herndon@enron.com",
+         "line": 391,
+         "rawfrom": "    Rogers.Herndon@enron.com[SMTP:Rogers.Herndon@enron.com]\n",
+         "source": "email",
+         "to": "Goza, Stuart L."
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/presto-k/all_documents/16.",
+   "hops": [
+      {
+         "from": "slgoza@tva.gov",
+         "line": 4,
+         "rawfrom": "slgoza@tva.gov\r\n",
+         "source": "valid",
+         "to": "slgoza@tva.gov, rogers.herndon@enron.com"
+      },
+      {
+         "from": "rogers.herndon@enron.com",
+         "line": 29,
+         "rawfrom": " Rogers.Herndon@enron.com[SMTP:Rogers.Herndon@enron.com]\n",
+         "source": "email",
+         "to": "Goza, Stuart L."
+      },
+      {
+         "from": "slgoza@tva.gov",
+         "line": 55,
+         "rawfrom": "slgoza@tva.gov",
+         "source": "valid",
+         "to": "slgoza@tva.gov, \"'Rogers.Herndon@enron.com'\""
+      },
+      {
+         "from": "rogers.herndon@enron.com",
+         "line": 94,
+         "rawfrom": "  Rogers.Herndon@enron.com[SMTP:Rogers.Herndon@enron.com]\n",
+         "source": "email",
+         "to": "slgoza@tva.gov"
+      },
+      {
+         "from": "slgoza@tva.gov",
+         "line": 165,
+         "rawfrom": "slgoza@tva.gov",
+         "source": "valid",
+         "to": "slgoza@tva.gov, \"'Rogers.Herndon@enron.com'\""
+      },
+      {
+         "from": "rogers.herndon@enron.com",
+         "line": 196,
+         "rawfrom": "  Rogers.Herndon@enron.com[SMTP:Rogers.Herndon@enron.com]\n",
+         "source": "email",
+         "to": "slgoza@tva.gov"
+      },
+      {
+         "from": "rogers.herndon@enron.com",
+         "line": 476,
+         "rawfrom": "    Rogers.Herndon@enron.com[SMTP:Rogers.Herndon@enron.com]\n",
+         "source": "email",
+         "to": "Goza, Stuart L."
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/presto-k/all_documents/15.",
+   "hops": [
+      {
+         "from": "rogers.herndon@enron.com",
+         "line": 4,
+         "rawfrom": "rogers.herndon@enron.com\r\n",
+         "source": "valid",
+         "to": "slgoza@tva.gov"
+      },
+      {
+         "from": "slgoza@tva.gov",
+         "line": 39,
+         "rawfrom": "\"Goza, Stuart L.\" <slgoza@tva.gov> on 01/18/2001 03:20:28 PM\n",
+         "source": "email",
+         "to": "slgoza@tva.gov, \"'Rogers.Herndon@enron.com'\"  <Rogers.Herndon@enron.com>"
+      },
+      {
+         "from": "rogers.herndon@enron.com",
+         "line": 74,
+         "rawfrom": " Rogers.Herndon@enron.com[SMTP:Rogers.Herndon@enron.com]\n",
+         "source": "email",
+         "to": "slgoza@tva.gov"
+      },
+      {
+         "from": "slgoza@tva.gov",
+         "line": 142,
+         "rawfrom": "slgoza@tva.gov",
+         "source": "valid",
+         "to": "slgoza@tva.gov, \"'Rogers.Herndon@enron.com'\""
+      },
+      {
+         "from": "rogers.herndon@enron.com",
+         "line": 168,
+         "rawfrom": "  Rogers.Herndon@enron.com[SMTP:Rogers.Herndon@enron.com]\n",
+         "source": "email",
+         "to": "slgoza@tva.gov"
+      },
+      {
+         "from": "rogers.herndon@enron.com",
+         "line": 416,
+         "rawfrom": "    Rogers.Herndon@enron.com[SMTP:Rogers.Herndon@enron.com]\n",
+         "source": "email",
+         "to": "Goza, Stuart L."
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/presto-k/deleted_items/643.",
+   "hops": [
+      {
+         "from": "rogers.herndon@enron.com",
+         "line": 4,
+         "rawfrom": "rogers.herndon@enron.com\r\n",
+         "source": "valid",
+         "to": "m..presto@enron.com"
+      },
+      {
+         "from": "killian.gilbert-smith@sci-us.com",
+         "line": 26,
+         "rawfrom": "\t\"Gilbert-Smith, Killian\" <Killian.Gilbert-Smith@sci-us.com>@ENRON  \n",
+         "source": "email",
+         "to": "Herndon, Rogers"
+      },
+      {
+         "from": "rogers.herndon@enron.com",
+         "line": 35,
+         "rawfrom": "Rogers.Herndon@enron.com [mailto:Rogers.Herndon@enron.com]\n",
+         "source": "email",
+         "to": "Killian.Gilbert-Smith@sci-us.com"
+      },
+      {
+         "from": "killian.gilbert-smith@sci-us.com",
+         "line": 47,
+         "rawfrom": "  \"Gilbert-Smith, Killian\" <Killian.Gilbert-Smith@sci-us.com>\n",
+         "source": "email",
+         "to": "Herndon, Rogers"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/presto-k/deleted_items/575.",
+   "hops": [
+      {
+         "from": "prestojj@aol.com",
+         "line": 4,
+         "rawfrom": "prestojj@aol.com\r\n",
+         "source": "valid",
+         "to": "elpresto24@aol.com, hawkeye@agritel.net, odk1512inv@aol.com, ibkutch@att.net,"
+      },
+      {
+         "from": "joycejeljal@aol.com",
+         "line": 29,
+         "rawfrom": "JoyceJeljal@aol.com\n",
+         "source": "valid",
+         "to": "Bbwbabsann@aol.com, b-lang@att.net, cuban_lady@yahoo.com, Dhalsey42@aol.com,\tflint3614@msn.com, Grampa1937@aol.com, lwhoseonfirst@email.msn.com,\tmini@gohighspeed.com, PrestoJJ@aol.com, shellie@colfax.com,\ttonia.l.elsey@usace.army.mil, woody@cyberport.net"
+      },
+      {
+         "from": "jfleming@pionnet.com",
+         "line": 43,
+         "rawfrom": "\"JoAnne Fleming\" <jfleming@pionnet.com>\n",
+         "source": "email",
+         "to": "\"Joyce\" <joycejeljal@aol.com>"
+      },
+      {
+         "from": "pmeww@bmi.net",
+         "line": 58,
+         "rawfrom": " Dean Culbertson <pmeww@bmi.net >\n",
+         "source": "email",
+         "to": "Vance and  Michelle Norsworthy <vancen@hscis.net >; Mike Wallace <mikew@southwind.net >; Mike and Cindy  Wallace <wallacm@wwics.com >; Linda  Zellner <ljzel@aol.com >; Leif and Robin  Erickson <lerickson@colfax.com >;  JoAnne and Daimond Fleming <jfleming@pionnet.com >; Harvey and  Leona Herman <hlherman@colfax.com >; Dale and Shirley  Culbertson <dalec@colfax.com >; Craig  and Denise Culbertson <craigc@colfax.com >"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/presto-k/deleted_items/48.",
+   "hops": [
+      {
+         "from": "james.baker@ubsw.com",
+         "line": 4,
+         "rawfrom": "james.baker@ubsw.com\r\n",
+         "source": "valid",
+         "to": "m..presto@enron.com"
+      },
+      {
+         "from": "kevin.m.presto@enron.com",
+         "line": 22,
+         "rawfrom": "Kevin.M.Presto@enron.com [mailto:Kevin.M.Presto@enron.com]\n",
+         "source": "email",
+         "to": "Baker, James+"
+      },
+      {
+         "from": "james.baker@ubsw.com",
+         "line": 37,
+         "rawfrom": "\"Baker, James+\" <James.Baker@ubsw.com>@ENRON [mailto:\"Baker,\n",
+         "source": "email",
+         "to": "Presto, Kevin M."
+      },
+      {
+         "from": "kevin.m.presto@enron.com",
+         "line": 64,
+         "rawfrom": "Kevin.M.Presto@enron.com [mailto:Kevin.M.Presto@enron.com\n",
+         "source": "email",
+         "to": "Baker, James+"
+      },
+      {
+         "from": "james.baker@ubsw.com",
+         "line": 83,
+         "rawfrom": "  \"Baker, James+\" <James.Baker@ubsw.com>@ENRON\n",
+         "source": "email",
+         "to": "Presto, Kevin M."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/presto-k/sent_items/955.",
+   "hops": [
+      {
+         "from": "m..presto@enron.com",
+         "line": 4,
+         "rawfrom": "m..presto@enron.com\r\n",
+         "source": "valid",
+         "to": "henry.emery@ubspainewebber.com"
+      },
+      {
+         "from": "henry.emery@ubspainewebber.com",
+         "line": 22,
+         "rawfrom": "\t\"Emery, Henry\" <henry.emery@ubspainewebber.com>@ENRON [mailto:IMCEANOTES-+22Emery+2C+20Henry+22+20+3Chenry+2Eemery+40ubspainewebber+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Presto, Kevin M."
+      },
+      {
+         "from": "kevin.m.presto@enron.com",
+         "line": 48,
+         "rawfrom": "Kevin.M.Presto@enron.com [mailto:Kevin.M.Presto@enron.com]\n",
+         "source": "email",
+         "to": "henry.emery@ubspainewebber.com"
+      },
+      {
+         "from": "henry.emery@ubspainewebber.com",
+         "line": 62,
+         "rawfrom": "  \"Emery, Henry\" <henry.emery@ubspainewebber.com>@ENRON\n",
+         "source": "email",
+         "to": "Presto, Kevin M."
+      },
+      {
+         "from": "kevin.m.presto@enron.com",
+         "line": 76,
+         "rawfrom": "Kevin.M.Presto@enron.com [mailto:Kevin.M.Presto@enron.com]\n",
+         "source": "email",
+         "to": "henry.emery@ubspainewebber.com"
+      },
+      {
+         "from": "henry.emery@ubspainewebber.com",
+         "line": 98,
+         "rawfrom": "  \"Emery, Henry\" <henry.emery@ubspainewebber.com>@ENRON\n",
+         "source": "email",
+         "to": "Presto, Kevin M."
+      },
+      {
+         "from": "kevin.m.presto@enron.com",
+         "line": 116,
+         "rawfrom": "Kevin.M.Presto@enron.com [mailto:Kevin.M.Presto@enron.com]\n",
+         "source": "email",
+         "to": "henry.emery@ubspainewebber.com"
+      },
+      {
+         "from": "henry.emery@ubspainewebber.com",
+         "line": 132,
+         "rawfrom": "  \"Emery, Henry\" <henry.emery@ubspainewebber.com>@ENRON\n",
+         "source": "email",
+         "to": "Presto, Kevin M."
+      },
+      {
+         "from": "kevin.m.presto@enron.com",
+         "line": 148,
+         "rawfrom": "Kevin.M.Presto@enron.com [mailto:Kevin.M.Presto@enron.com]\n",
+         "source": "email",
+         "to": "henry.emery@ubspainewebber.com"
+      },
+      {
+         "from": "henry.emery@ubspainewebber.com",
+         "line": 175,
+         "rawfrom": "  \"Emery, Henry\" <henry.emery@ubspainewebber.com>@ENRON\n",
+         "source": "email",
+         "to": "Presto, Kevin M."
+      },
+      {
+         "from": "kevin.m.presto@enron.com",
+         "line": 195,
+         "rawfrom": "Presto, Kevin M. [mailto:Kevin.M.Presto@enron.com]\n",
+         "source": "email",
+         "to": "henry.emery@ubspainewebber.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/presto-k/sent_items/895.",
+   "hops": [
+      {
+         "from": "m..presto@enron.com",
+         "line": 4,
+         "rawfrom": "m..presto@enron.com\r\n",
+         "source": "valid",
+         "to": "j.kaminski@enron.com"
+      },
+      {
+         "from": "ekrapels@esaibos.com",
+         "line": 67,
+         "rawfrom": "\t\"Edward Krapels\" <ekrapels@esaibos.com>@ENRON [mailto:IMCEANOTES-+22Edward+20Krapels+22+20+3Cekrapels+40esaibos+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Kaminski, Vince J"
+      },
+      {
+         "from": "vince.j.kaminski@enron.com",
+         "line": 96,
+         "rawfrom": "Kaminski, Vince J [mailto:Vince.J.Kaminski@ENRON.com]\n",
+         "source": "email",
+         "to": "ekrapels@esaibos.com"
+      },
+      {
+         "from": "ekrapels@esaibos.com",
+         "line": 119,
+         "rawfrom": "\t\"Edward Krapels\" <ekrapels@esaibos.com>@ENRON\n",
+         "source": "email",
+         "to": "Vincent Kaminski \\(E-mail\\)"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/presto-k/sent_items/915.",
+   "hops": [
+      {
+         "from": "m..presto@enron.com",
+         "line": 4,
+         "rawfrom": "m..presto@enron.com\r\n",
+         "source": "valid",
+         "to": "henry.emery@ubspainewebber.com"
+      },
+      {
+         "from": "henry.emery@ubspainewebber.com",
+         "line": 24,
+         "rawfrom": "\t\"Emery, Henry\" <henry.emery@ubspainewebber.com>@ENRON [mailto:IMCEANOTES-+22Emery+2C+20Henry+22+20+3Chenry+2Eemery+40ubspainewebber+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Presto, Kevin M."
+      },
+      {
+         "from": "kevin.m.presto@enron.com",
+         "line": 40,
+         "rawfrom": "Kevin.M.Presto@enron.com [mailto:Kevin.M.Presto@enron.com]\n",
+         "source": "email",
+         "to": "henry.emery@ubspainewebber.com"
+      },
+      {
+         "from": "henry.emery@ubspainewebber.com",
+         "line": 54,
+         "rawfrom": "  \"Emery, Henry\" <henry.emery@ubspainewebber.com>@ENRON\n",
+         "source": "email",
+         "to": "Presto, Kevin M."
+      },
+      {
+         "from": "kevin.m.presto@enron.com",
+         "line": 69,
+         "rawfrom": "Kevin.M.Presto@enron.com [mailto:Kevin.M.Presto@enron.com]\n",
+         "source": "email",
+         "to": "henry.emery@ubspainewebber.com"
+      },
+      {
+         "from": "henry.emery@ubspainewebber.com",
+         "line": 90,
+         "rawfrom": "  \"Emery, Henry\" <henry.emery@ubspainewebber.com>@ENRON\n",
+         "source": "email",
+         "to": "Presto, Kevin M."
+      },
+      {
+         "from": "kevin.m.presto@enron.com",
+         "line": 107,
+         "rawfrom": "Presto, Kevin M. [mailto:Kevin.M.Presto@enron.com]\n",
+         "source": "email",
+         "to": "henry.emery@ubspainewebber.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/presto-k/sent_items/17.",
+   "hops": [
+      {
+         "from": "m..presto@enron.com",
+         "line": 4,
+         "rawfrom": "m..presto@enron.com\r\n",
+         "source": "valid",
+         "to": "jae.black@enron.com"
+      },
+      {
+         "from": "james.baker@ubsw.com",
+         "line": 22,
+         "rawfrom": "\t\"Baker, James+\" <James.Baker@ubsw.com>@ENRON  \n",
+         "source": "email",
+         "to": "Presto, Kevin M."
+      },
+      {
+         "from": "kevin.m.presto@enron.com",
+         "line": 30,
+         "rawfrom": "Kevin.M.Presto@enron.com [mailto:Kevin.M.Presto@enron.com]\n",
+         "source": "email",
+         "to": "Baker, James+"
+      },
+      {
+         "from": "james.baker@ubsw.com",
+         "line": 45,
+         "rawfrom": "\"Baker, James+\" <James.Baker@ubsw.com>@ENRON [mailto:\"Baker,\n",
+         "source": "email",
+         "to": "Presto, Kevin M."
+      },
+      {
+         "from": "kevin.m.presto@enron.com",
+         "line": 72,
+         "rawfrom": "Kevin.M.Presto@enron.com [mailto:Kevin.M.Presto@enron.com\n",
+         "source": "email",
+         "to": "Baker, James+"
+      },
+      {
+         "from": "james.baker@ubsw.com",
+         "line": 91,
+         "rawfrom": "  \"Baker, James+\" <James.Baker@ubsw.com>@ENRON\n",
+         "source": "email",
+         "to": "Presto, Kevin M."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/presto-k/sent_items/354.",
+   "hops": [
+      {
+         "from": "m..presto@enron.com",
+         "line": 4,
+         "rawfrom": "m..presto@enron.com\r\n",
+         "source": "valid",
+         "to": "info@evans-automation.com"
+      },
+      {
+         "from": "info@evans-automation.com",
+         "line": 22,
+         "rawfrom": "\tEvans Automation <info@evans-automation.com>@ENRON [mailto:IMCEANOTES-Evans+20Automation+20+3Cinfo+40evans-automation+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Presto, Kevin M."
+      },
+      {
+         "from": "kevin.m.presto@enron.com",
+         "line": 30,
+         "rawfrom": "Kevin.M.Presto@enron.com [mailto:Kevin.M.Presto@enron.com]\n",
+         "source": "email",
+         "to": "info@evans-automation.com"
+      },
+      {
+         "from": "info@evans-automation.com",
+         "line": 44,
+         "rawfrom": "  Evans Automation <info@evans-automation.com>@ENRON\n",
+         "source": "email",
+         "to": "KPresto@Enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/presto-k/sent_items/347.",
+   "hops": [
+      {
+         "from": "m..presto@enron.com",
+         "line": 4,
+         "rawfrom": "m..presto@enron.com\r\n",
+         "source": "valid",
+         "to": "elpresto24@aol.com"
+      },
+      {
+         "from": "info@evans-automation.com",
+         "line": 22,
+         "rawfrom": "\tEvans Automation <info@evans-automation.com>@ENRON [mailto:IMCEANOTES-Evans+20Automation+20+3Cinfo+40evans-automation+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Presto, Kevin M."
+      },
+      {
+         "from": "kevin.m.presto@enron.com",
+         "line": 30,
+         "rawfrom": "Kevin.M.Presto@enron.com [mailto:Kevin.M.Presto@enron.com]\n",
+         "source": "email",
+         "to": "info@evans-automation.com"
+      },
+      {
+         "from": "info@evans-automation.com",
+         "line": 44,
+         "rawfrom": "  Evans Automation <info@evans-automation.com>@ENRON\n",
+         "source": "email",
+         "to": "KPresto@Enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/presto-k/sent_items/909.",
+   "hops": [
+      {
+         "from": "m..presto@enron.com",
+         "line": 4,
+         "rawfrom": "m..presto@enron.com\r\n",
+         "source": "valid",
+         "to": "henry.emery@ubspainewebber.com"
+      },
+      {
+         "from": "henry.emery@ubspainewebber.com",
+         "line": 22,
+         "rawfrom": "\t\"Emery, Henry\" <henry.emery@ubspainewebber.com>@ENRON [mailto:IMCEANOTES-+22Emery+2C+20Henry+22+20+3Chenry+2Eemery+40ubspainewebber+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Presto, Kevin M."
+      },
+      {
+         "from": "kevin.m.presto@enron.com",
+         "line": 38,
+         "rawfrom": "Kevin.M.Presto@enron.com [mailto:Kevin.M.Presto@enron.com]\n",
+         "source": "email",
+         "to": "henry.emery@ubspainewebber.com"
+      },
+      {
+         "from": "henry.emery@ubspainewebber.com",
+         "line": 53,
+         "rawfrom": "  \"Emery, Henry\" <henry.emery@ubspainewebber.com>@ENRON\n",
+         "source": "email",
+         "to": "Presto, Kevin M."
+      },
+      {
+         "from": "kevin.m.presto@enron.com",
+         "line": 61,
+         "rawfrom": "Presto, Kevin M. [mailto:Kevin.M.Presto@enron.com]\n",
+         "source": "email",
+         "to": "henry.emery@ubspainewebber.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/presto-k/sent_items/484.",
+   "hops": [
+      {
+         "from": "m..presto@enron.com",
+         "line": 4,
+         "rawfrom": "m..presto@enron.com\r\n",
+         "source": "valid",
+         "to": "lloyd.will@enron.com"
+      },
+      {
+         "from": "gsheble@iastate.edu",
+         "line": 38,
+         "rawfrom": "\t\"Sheble, G.B.\" <gsheble@iastate.edu>@ENRON [mailto:IMCEANOTES-+22Sheble+2C+20G+2EB+2E+22+20+3Cgsheble+40iastate+2Eedu+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Will, Lloyd"
+      },
+      {
+         "from": "lloyd.will@enron.com",
+         "line": 56,
+         "rawfrom": "Lloyd.Will@enron.com [mailto:Lloyd.Will@enron.com]\n",
+         "source": "email",
+         "to": "gsheble@iastate.edu"
+      },
+      {
+         "from": "gsheble@iastate.edu",
+         "line": 73,
+         "rawfrom": "  \"Sheble, G.B.\" <gsheble@iastate.edu>@ENRON\n",
+         "source": "email",
+         "to": "Will, Lloyd"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/presto-k/sent_items/497.",
+   "hops": [
+      {
+         "from": "m..presto@enron.com",
+         "line": 4,
+         "rawfrom": "m..presto@enron.com\r\n",
+         "source": "valid",
+         "to": "elpresto24@aol.com"
+      },
+      {
+         "from": "trademup@yahoo.com",
+         "line": 22,
+         "rawfrom": "\tFletcher Sturm <trademup@yahoo.com>@ENRON [mailto:IMCEANOTES-Fletcher+20Sturm+20+3Ctrademup+40yahoo+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "kpresto@enron.com"
+      },
+      {
+         "from": "sturmt@yahoo.com",
+         "line": 37,
+         "rawfrom": "Toni Sturm <sturmt@yahoo.com>\n",
+         "source": "email",
+         "to": "trademup@yahoo.com"
+      },
+      {
+         "from": "elpresto24@aol.com",
+         "line": 54,
+         "rawfrom": "ELPRESTO24@aol.com\n",
+         "source": "valid",
+         "to": "melony_aggs24@hotmail.com, Mitchaguilera@cs.com, MoniqueATD2@gateway.net,        aguilera@cminet.net, ang_hairpin@hotmail.com,        NDOMINGUEZ@exclusivemillworkfla.com, dougster@centurytel.net,        Btb1961@cs.com, djtjohnsen@ria.net, Cieralisk@aol.com, SHERN2N@aol.com,        FlyGir6467@aol.com, PeterRoque@aol.com, Vickersore@aol.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/presto-k/sent_items/914.",
+   "hops": [
+      {
+         "from": "m..presto@enron.com",
+         "line": 4,
+         "rawfrom": "m..presto@enron.com\r\n",
+         "source": "valid",
+         "to": "henry.emery@ubspainewebber.com"
+      },
+      {
+         "from": "henry.emery@ubspainewebber.com",
+         "line": 22,
+         "rawfrom": "\t\"Emery, Henry\" <henry.emery@ubspainewebber.com>@ENRON [mailto:IMCEANOTES-+22Emery+2C+20Henry+22+20+3Chenry+2Eemery+40ubspainewebber+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Presto, Kevin M."
+      },
+      {
+         "from": "kevin.m.presto@enron.com",
+         "line": 36,
+         "rawfrom": "Kevin.M.Presto@enron.com [mailto:Kevin.M.Presto@enron.com]\n",
+         "source": "email",
+         "to": "henry.emery@ubspainewebber.com"
+      },
+      {
+         "from": "henry.emery@ubspainewebber.com",
+         "line": 55,
+         "rawfrom": "  \"Emery, Henry\" <henry.emery@ubspainewebber.com>@ENRON\n",
+         "source": "email",
+         "to": "Presto, Kevin M."
+      },
+      {
+         "from": "kevin.m.presto@enron.com",
+         "line": 72,
+         "rawfrom": "Presto, Kevin M. [mailto:Kevin.M.Presto@enron.com]\n",
+         "source": "email",
+         "to": "henry.emery@ubspainewebber.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/presto-k/sent_items/1111.",
+   "hops": [
+      {
+         "from": "m..presto@enron.com",
+         "line": 4,
+         "rawfrom": "m..presto@enron.com\r\n",
+         "source": "valid",
+         "to": "dana.davis@enron.com"
+      },
+      {
+         "from": "fgiffels@hgp-inc.com",
+         "line": 29,
+         "rawfrom": "Fred W. Giffels [mailto:fgiffels@HGP-Inc.com]\n",
+         "source": "email",
+         "to": "Presto, Kevin M."
+      },
+      {
+         "from": "fgiffels@hgp-inc.com",
+         "line": 58,
+         "rawfrom": "Fred W. Giffels [mailto:fgiffels@HGP-Inc.com]\n",
+         "source": "email",
+         "to": "Presto, Kevin M."
+      },
+      {
+         "from": "fgiffels@hgp-inc.com",
+         "line": 91,
+         "rawfrom": "Fred W. Giffels [mailto:fgiffels@HGP-Inc.com]\n",
+         "source": "email",
+         "to": "Presto, Kevin M."
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/presto-k/sent_items/917.",
+   "hops": [
+      {
+         "from": "m..presto@enron.com",
+         "line": 4,
+         "rawfrom": "m..presto@enron.com\r\n",
+         "source": "valid",
+         "to": "henry.emery@ubspainewebber.com"
+      },
+      {
+         "from": "henry.emery@ubspainewebber.com",
+         "line": 22,
+         "rawfrom": "\t\"Emery, Henry\" <henry.emery@ubspainewebber.com>@ENRON [mailto:IMCEANOTES-+22Emery+2C+20Henry+22+20+3Chenry+2Eemery+40ubspainewebber+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Presto, Kevin M."
+      },
+      {
+         "from": "kevin.m.presto@enron.com",
+         "line": 35,
+         "rawfrom": "Kevin.M.Presto@enron.com [mailto:Kevin.M.Presto@enron.com]\n",
+         "source": "email",
+         "to": "henry.emery@ubspainewebber.com"
+      },
+      {
+         "from": "henry.emery@ubspainewebber.com",
+         "line": 54,
+         "rawfrom": "  \"Emery, Henry\" <henry.emery@ubspainewebber.com>@ENRON\n",
+         "source": "email",
+         "to": "Presto, Kevin M."
+      },
+      {
+         "from": "kevin.m.presto@enron.com",
+         "line": 71,
+         "rawfrom": "Kevin.M.Presto@enron.com [mailto:Kevin.M.Presto@enron.com]\n",
+         "source": "email",
+         "to": "henry.emery@ubspainewebber.com"
+      },
+      {
+         "from": "henry.emery@ubspainewebber.com",
+         "line": 86,
+         "rawfrom": "  \"Emery, Henry\" <henry.emery@ubspainewebber.com>@ENRON\n",
+         "source": "email",
+         "to": "Presto, Kevin M."
+      },
+      {
+         "from": "kevin.m.presto@enron.com",
+         "line": 101,
+         "rawfrom": "Kevin.M.Presto@enron.com [mailto:Kevin.M.Presto@enron.com]\n",
+         "source": "email",
+         "to": "henry.emery@ubspainewebber.com"
+      },
+      {
+         "from": "henry.emery@ubspainewebber.com",
+         "line": 126,
+         "rawfrom": "  \"Emery, Henry\" <henry.emery@ubspainewebber.com>@ENRON\n",
+         "source": "email",
+         "to": "Presto, Kevin M."
+      },
+      {
+         "from": "kevin.m.presto@enron.com",
+         "line": 144,
+         "rawfrom": "Presto, Kevin M. [mailto:Kevin.M.Presto@enron.com]\n",
+         "source": "email",
+         "to": "henry.emery@ubspainewebber.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/presto-k/discussion_threads/13.",
+   "hops": [
+      {
+         "from": "slgoza@tva.gov",
+         "line": 4,
+         "rawfrom": "slgoza@tva.gov\r\n",
+         "source": "valid",
+         "to": "slgoza@tva.gov, rogers.herndon@enron.com"
+      },
+      {
+         "from": "rogers.herndon@enron.com",
+         "line": 29,
+         "rawfrom": " Rogers.Herndon@enron.com[SMTP:Rogers.Herndon@enron.com]\n",
+         "source": "email",
+         "to": "Goza, Stuart L."
+      },
+      {
+         "from": "slgoza@tva.gov",
+         "line": 55,
+         "rawfrom": "slgoza@tva.gov",
+         "source": "valid",
+         "to": "slgoza@tva.gov, \"'Rogers.Herndon@enron.com'\""
+      },
+      {
+         "from": "rogers.herndon@enron.com",
+         "line": 94,
+         "rawfrom": "  Rogers.Herndon@enron.com[SMTP:Rogers.Herndon@enron.com]\n",
+         "source": "email",
+         "to": "slgoza@tva.gov"
+      },
+      {
+         "from": "slgoza@tva.gov",
+         "line": 165,
+         "rawfrom": "slgoza@tva.gov",
+         "source": "valid",
+         "to": "slgoza@tva.gov, \"'Rogers.Herndon@enron.com'\""
+      },
+      {
+         "from": "rogers.herndon@enron.com",
+         "line": 196,
+         "rawfrom": "  Rogers.Herndon@enron.com[SMTP:Rogers.Herndon@enron.com]\n",
+         "source": "email",
+         "to": "slgoza@tva.gov"
+      },
+      {
+         "from": "rogers.herndon@enron.com",
+         "line": 476,
+         "rawfrom": "    Rogers.Herndon@enron.com[SMTP:Rogers.Herndon@enron.com]\n",
+         "source": "email",
+         "to": "Goza, Stuart L."
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/presto-k/discussion_threads/12.",
+   "hops": [
+      {
+         "from": "slgoza@tva.gov",
+         "line": 4,
+         "rawfrom": "slgoza@tva.gov\r\n",
+         "source": "valid",
+         "to": "slgoza@tva.gov, rogers.herndon@enron.com"
+      },
+      {
+         "from": "rogers.herndon@enron.com",
+         "line": 49,
+         "rawfrom": " Rogers.Herndon@enron.com[SMTP:Rogers.Herndon@enron.com]\n",
+         "source": "email",
+         "to": "slgoza@tva.gov"
+      },
+      {
+         "from": "slgoza@tva.gov",
+         "line": 117,
+         "rawfrom": "slgoza@tva.gov",
+         "source": "valid",
+         "to": "slgoza@tva.gov, \"'Rogers.Herndon@enron.com'\""
+      },
+      {
+         "from": "rogers.herndon@enron.com",
+         "line": 143,
+         "rawfrom": "  Rogers.Herndon@enron.com[SMTP:Rogers.Herndon@enron.com]\n",
+         "source": "email",
+         "to": "slgoza@tva.gov"
+      },
+      {
+         "from": "rogers.herndon@enron.com",
+         "line": 391,
+         "rawfrom": "    Rogers.Herndon@enron.com[SMTP:Rogers.Herndon@enron.com]\n",
+         "source": "email",
+         "to": "Goza, Stuart L."
+      }
+   ],
+   "skipped": 4
+}
+]

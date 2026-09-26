@@ -1,0 +1,127 @@
+[
+{
+   "file": "/home/jb/maildir/badeer-r/deleted_items/4.",
+   "hops": [
+      {
+         "from": "john.monaco@citi.com",
+         "line": 4,
+         "rawfrom": "john.monaco@citi.com\r\n",
+         "source": "valid",
+         "to": "robert.badeer@enron.com"
+      },
+      {
+         "from": "robert.badeer@ubswenergy.com",
+         "line": 34,
+         "rawfrom": "Badeer, Robert [mailto:Robert.Badeer@ubswenergy.com]\n",
+         "source": "email",
+         "to": "Monaco, John [EM]"
+      },
+      {
+         "from": "john.monaco@citi.com",
+         "line": 48,
+         "rawfrom": "Monaco, John [EM] [mailto:john.monaco@citi.com]\n",
+         "source": "email",
+         "to": "Badeer, Robert"
+      },
+      {
+         "from": "robert.badeer@ubswenergy.com",
+         "line": 72,
+         "rawfrom": "Badeer, Robert [mailto:Robert.Badeer@ubswenergy.com]\n",
+         "source": "email",
+         "to": "Monaco, John [EM]"
+      },
+      {
+         "from": "john.monaco@citi.com",
+         "line": 88,
+         "rawfrom": "Monaco, John [EM] [mailto:john.monaco@citi.com]\n",
+         "source": "email",
+         "to": "Badeer, Robert"
+      },
+      {
+         "from": "enron.mailsweeper.admin@enron.com",
+         "line": 99,
+         "rawfrom": "enron.mailsweeper.admin@enron.com\n",
+         "source": "valid",
+         "to": "Monaco, John [EM]"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/badeer-r/deleted_items/1.",
+   "hops": [
+      {
+         "from": "john.monaco@citi.com",
+         "line": 4,
+         "rawfrom": "john.monaco@citi.com\r\n",
+         "source": "valid",
+         "to": "robert.badeer@enron.com"
+      },
+      {
+         "from": "robert.badeer@ubswenergy.com",
+         "line": 37,
+         "rawfrom": "Badeer, Robert [mailto:Robert.Badeer@ubswenergy.com]\n",
+         "source": "email",
+         "to": "Monaco, John [EM]"
+      },
+      {
+         "from": "john.monaco@citi.com",
+         "line": 53,
+         "rawfrom": "Monaco, John [EM] [mailto:john.monaco@citi.com]\n",
+         "source": "email",
+         "to": "Badeer, Robert"
+      },
+      {
+         "from": "enron.mailsweeper.admin@enron.com",
+         "line": 64,
+         "rawfrom": "enron.mailsweeper.admin@enron.com\n",
+         "source": "valid",
+         "to": "Monaco, John [EM]"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/badeer-r/sent_items/1.",
+   "hops": [
+      {
+         "from": "robert.badeer@enron.com",
+         "line": 4,
+         "rawfrom": "robert.badeer@enron.com\r\n",
+         "source": "valid",
+         "to": "'monaco@enron.com, john.monaco@citi.com"
+      },
+      {
+         "from": "john.monaco@citi.com",
+         "line": 25,
+         "rawfrom": "Monaco, John [EM] [mailto:john.monaco@citi.com]\n",
+         "source": "email",
+         "to": "Badeer, Robert"
+      },
+      {
+         "from": "robert.badeer@ubswenergy.com",
+         "line": 49,
+         "rawfrom": "Badeer, Robert [mailto:Robert.Badeer@ubswenergy.com]\n",
+         "source": "email",
+         "to": "Monaco, John [EM]"
+      },
+      {
+         "from": "john.monaco@citi.com",
+         "line": 65,
+         "rawfrom": "Monaco, John [EM] [mailto:john.monaco@citi.com]\n",
+         "source": "email",
+         "to": "Badeer, Robert"
+      },
+      {
+         "from": "enron.mailsweeper.admin@enron.com",
+         "line": 76,
+         "rawfrom": "enron.mailsweeper.admin@enron.com\n",
+         "source": "valid",
+         "to": "Monaco, John [EM]"
+      }
+   ],
+   "skipped": 0
+}
+]

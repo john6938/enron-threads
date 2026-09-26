@@ -1,0 +1,372 @@
+[
+{
+   "file": "/home/jb/maildir/gay-r/all_documents/82.",
+   "hops": [
+      {
+         "from": "rob.gay@enron.com",
+         "line": 4,
+         "rawfrom": "rob.gay@enron.com\r\n",
+         "source": "valid",
+         "to": "rkg@tozzini.com.br"
+      },
+      {
+         "from": "rkg@tozzini.com.br",
+         "line": 41,
+         "rawfrom": "RKG@tozzini.com.br",
+         "source": "valid",
+         "to": "<Richard.A.Lammers@enron.com>"
+      },
+      {
+         "from": "rkg@tozzini.com.br",
+         "line": 125,
+         "rawfrom": "RKG@tozzini.com.br",
+         "source": "valid",
+         "to": "<Richard.A.Lammers@enron.com>"
+      },
+      {
+         "from": "pseraphim@tozzini.com.br",
+         "line": 169,
+         "rawfrom": "pseraphim@tozzini.com.br",
+         "source": "valid",
+         "to": "<Richard.A.Lammers@enron.com>, <Guido.Renno@shell.com.br>"
+      },
+      {
+         "from": "guido.renno@shell.com.br",
+         "line": 277,
+         "rawfrom": "Guido.Renno@shell.com.br on 12/13/2000 07:24:56 PM\r\n",
+         "source": "email",
+         "to": "Johannes.Walzebuck@shell.com.br, Richard.A.Lammers@enron.com"
+      },
+      {
+         "from": "johannes.walzebuck@shell.com.br",
+         "line": 309,
+         "rawfrom": "Johannes.Walzebuck@shell.com.br",
+         "source": "valid",
+         "to": "John.Novak@enron.com, Richard.A.Lammers@enron.com,"
+      },
+      {
+         "from": "pseraphim@tozzini.com.br",
+         "line": 349,
+         "rawfrom": "  PGS - Pedro G. Seraphim[SMTP:pseraphim@tozzini.com.br]\r\n",
+         "source": "email",
+         "to": "John.Novak@enron.com; Richard.A.Lammers@enron.com; Walzebuck,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/gay-r/all_documents/18.",
+   "hops": [
+      {
+         "from": "rob.gay@enron.com",
+         "line": 4,
+         "rawfrom": "rob.gay@enron.com\r\n",
+         "source": "valid",
+         "to": "mbeckworth@velaw.com"
+      },
+      {
+         "from": "mbeckworth@velaw.com",
+         "line": 23,
+         "rawfrom": "\"Beckworth, Melissa\" <mbeckworth@velaw.com> on 12/06/2000 11:57:49 AM\n",
+         "source": "email",
+         "to": "\"Gay, Rob (Enron)\" <rob.g.gay@enron.com>"
+      },
+      {
+         "from": "celso.bernardi@enron.com",
+         "line": 53,
+         "rawfrom": "Celso.Bernardi@enron.com [mailto:Celso.Bernardi@enron.com]\n",
+         "source": "email",
+         "to": "mbeckworth@velaw.com"
+      },
+      {
+         "from": "mbeckworth@velaw.com",
+         "line": 77,
+         "rawfrom": "\"Beckworth, Melissa\" <mbeckworth@velaw.com> on 29/11/2000 11:31:01\n",
+         "source": "email",
+         "to": "\"Powell, Laine (Enron)\" <laine.a.powell@enron.com>, \"Lammers, Rick"
+      },
+      {
+         "from": "laine.a.powell@enron.com",
+         "line": 104,
+         "rawfrom": "Laine.A.Powell@enron.com [mailto:Laine.A.Powell@enron.com]\n",
+         "source": "email",
+         "to": "Richard.A.Lammers@enron.com"
+      },
+      {
+         "from": "mbeckworth@velaw.com",
+         "line": 156,
+         "rawfrom": "\"Beckworth, Melissa\" <mbeckworth@velaw.com> on 11/27/2000 07:11:59 PM\n",
+         "source": "email",
+         "to": "\"Novak, John (Enron)\" <john.novak@enron.com>"
+      },
+      {
+         "from": "celso.bernardi@enron.com",
+         "line": 271,
+         "rawfrom": "Celso.Bernardi@enron.com [mailto:Celso.Bernardi@enron.com]\n",
+         "source": "email",
+         "to": "raraujo@velaw.com"
+      },
+      {
+         "from": "raraujo@velaw.com",
+         "line": 295,
+         "rawfrom": "\"Araujo, Renata Jayme De\" <raraujo@velaw.com> on 20/11/2000 18:45:25\n",
+         "source": "email",
+         "to": "\"'celso.bernardi@enron.com'\" <celso.bernardi@enron.com>,"
+      },
+      {
+         "from": "cristiane.mantelli@enron.com",
+         "line": 333,
+         "rawfrom": "Cristiane.Mantelli@enron.com\n",
+         "source": "valid",
+         "to": "raraujo@velaw.com"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/gay-r/all_documents/202.",
+   "hops": [
+      {
+         "from": "rob.gay@enron.com",
+         "line": 4,
+         "rawfrom": "rob.gay@enron.com\r\n",
+         "source": "valid",
+         "to": "sherbich@paclawteam.com"
+      },
+      {
+         "from": "sherbich@paclawteam.com",
+         "line": 30,
+         "rawfrom": "\"Sue V. Herbich\" <sherbich@paclawteam.com> on 02/16/2001 09:28:33 PM\n",
+         "source": "email",
+         "to": "<Rob.G.Gay@enron.com>"
+      },
+      {
+         "from": "rob.g.gay@enron.com",
+         "line": 55,
+         "rawfrom": "Rob.G.Gay@enron.com [mailto:Rob.G.Gay@enron.com]\n",
+         "source": "email",
+         "to": "Sue Vo Herbich, Esq."
+      },
+      {
+         "from": "sherbich@paclawteam.com",
+         "line": 73,
+         "rawfrom": "\"Sue Vo Herbich, Esq.\" <sherbich@paclawteam.com> on 07/18/2000 09:53:52 PM\n",
+         "source": "email",
+         "to": "<Rob.G.Gay@enron.com>"
+      },
+      {
+         "from": "rob.g.gay@enron.com",
+         "line": 93,
+         "rawfrom": "Rob.G.Gay@enron.com <Rob.G.Gay@enron.com>\n",
+         "source": "email",
+         "to": "sherbich@paclawteam.com <sherbich@paclawteam.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/gay-r/sent/201.",
+   "hops": [
+      {
+         "from": "rob.gay@enron.com",
+         "line": 4,
+         "rawfrom": "rob.gay@enron.com\r\n",
+         "source": "valid",
+         "to": "sherbich@paclawteam.com"
+      },
+      {
+         "from": "sherbich@paclawteam.com",
+         "line": 30,
+         "rawfrom": "\"Sue V. Herbich\" <sherbich@paclawteam.com> on 02/16/2001 09:28:33 PM\n",
+         "source": "email",
+         "to": "<Rob.G.Gay@enron.com>"
+      },
+      {
+         "from": "rob.g.gay@enron.com",
+         "line": 55,
+         "rawfrom": "Rob.G.Gay@enron.com [mailto:Rob.G.Gay@enron.com]\n",
+         "source": "email",
+         "to": "Sue Vo Herbich, Esq."
+      },
+      {
+         "from": "sherbich@paclawteam.com",
+         "line": 73,
+         "rawfrom": "\"Sue Vo Herbich, Esq.\" <sherbich@paclawteam.com> on 07/18/2000 09:53:52 PM\n",
+         "source": "email",
+         "to": "<Rob.G.Gay@enron.com>"
+      },
+      {
+         "from": "rob.g.gay@enron.com",
+         "line": 93,
+         "rawfrom": "Rob.G.Gay@enron.com <Rob.G.Gay@enron.com>\n",
+         "source": "email",
+         "to": "sherbich@paclawteam.com <sherbich@paclawteam.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/gay-r/sent/82.",
+   "hops": [
+      {
+         "from": "rob.gay@enron.com",
+         "line": 4,
+         "rawfrom": "rob.gay@enron.com\r\n",
+         "source": "valid",
+         "to": "rkg@tozzini.com.br"
+      },
+      {
+         "from": "rkg@tozzini.com.br",
+         "line": 41,
+         "rawfrom": "RKG@tozzini.com.br",
+         "source": "valid",
+         "to": "<Richard.A.Lammers@enron.com>"
+      },
+      {
+         "from": "rkg@tozzini.com.br",
+         "line": 125,
+         "rawfrom": "RKG@tozzini.com.br",
+         "source": "valid",
+         "to": "<Richard.A.Lammers@enron.com>"
+      },
+      {
+         "from": "pseraphim@tozzini.com.br",
+         "line": 169,
+         "rawfrom": "pseraphim@tozzini.com.br",
+         "source": "valid",
+         "to": "<Richard.A.Lammers@enron.com>, <Guido.Renno@shell.com.br>"
+      },
+      {
+         "from": "guido.renno@shell.com.br",
+         "line": 277,
+         "rawfrom": "Guido.Renno@shell.com.br on 12/13/2000 07:24:56 PM\r\n",
+         "source": "email",
+         "to": "Johannes.Walzebuck@shell.com.br, Richard.A.Lammers@enron.com"
+      },
+      {
+         "from": "johannes.walzebuck@shell.com.br",
+         "line": 309,
+         "rawfrom": "Johannes.Walzebuck@shell.com.br",
+         "source": "valid",
+         "to": "John.Novak@enron.com, Richard.A.Lammers@enron.com,"
+      },
+      {
+         "from": "pseraphim@tozzini.com.br",
+         "line": 349,
+         "rawfrom": "  PGS - Pedro G. Seraphim[SMTP:pseraphim@tozzini.com.br]\r\n",
+         "source": "email",
+         "to": "John.Novak@enron.com; Richard.A.Lammers@enron.com; Walzebuck,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/gay-r/sent/18.",
+   "hops": [
+      {
+         "from": "rob.gay@enron.com",
+         "line": 4,
+         "rawfrom": "rob.gay@enron.com\r\n",
+         "source": "valid",
+         "to": "mbeckworth@velaw.com"
+      },
+      {
+         "from": "mbeckworth@velaw.com",
+         "line": 23,
+         "rawfrom": "\"Beckworth, Melissa\" <mbeckworth@velaw.com> on 12/06/2000 11:57:49 AM\n",
+         "source": "email",
+         "to": "\"Gay, Rob (Enron)\" <rob.g.gay@enron.com>"
+      },
+      {
+         "from": "celso.bernardi@enron.com",
+         "line": 53,
+         "rawfrom": "Celso.Bernardi@enron.com [mailto:Celso.Bernardi@enron.com]\n",
+         "source": "email",
+         "to": "mbeckworth@velaw.com"
+      },
+      {
+         "from": "mbeckworth@velaw.com",
+         "line": 77,
+         "rawfrom": "\"Beckworth, Melissa\" <mbeckworth@velaw.com> on 29/11/2000 11:31:01\n",
+         "source": "email",
+         "to": "\"Powell, Laine (Enron)\" <laine.a.powell@enron.com>, \"Lammers, Rick"
+      },
+      {
+         "from": "laine.a.powell@enron.com",
+         "line": 104,
+         "rawfrom": "Laine.A.Powell@enron.com [mailto:Laine.A.Powell@enron.com]\n",
+         "source": "email",
+         "to": "Richard.A.Lammers@enron.com"
+      },
+      {
+         "from": "mbeckworth@velaw.com",
+         "line": 156,
+         "rawfrom": "\"Beckworth, Melissa\" <mbeckworth@velaw.com> on 11/27/2000 07:11:59 PM\n",
+         "source": "email",
+         "to": "\"Novak, John (Enron)\" <john.novak@enron.com>"
+      },
+      {
+         "from": "celso.bernardi@enron.com",
+         "line": 271,
+         "rawfrom": "Celso.Bernardi@enron.com [mailto:Celso.Bernardi@enron.com]\n",
+         "source": "email",
+         "to": "raraujo@velaw.com"
+      },
+      {
+         "from": "raraujo@velaw.com",
+         "line": 295,
+         "rawfrom": "\"Araujo, Renata Jayme De\" <raraujo@velaw.com> on 20/11/2000 18:45:25\n",
+         "source": "email",
+         "to": "\"'celso.bernardi@enron.com'\" <celso.bernardi@enron.com>,"
+      },
+      {
+         "from": "cristiane.mantelli@enron.com",
+         "line": 333,
+         "rawfrom": "Cristiane.Mantelli@enron.com\n",
+         "source": "valid",
+         "to": "raraujo@velaw.com"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/gay-r/sent_items/4.",
+   "hops": [
+      {
+         "from": "l..gay@enron.com",
+         "line": 4,
+         "rawfrom": "l..gay@enron.com\r\n",
+         "source": "valid",
+         "to": "pooky@pipeline.com"
+      },
+      {
+         "from": "pooky@pipeline.com",
+         "line": 22,
+         "rawfrom": "\tRandy Gay <pooky@pipeline.com>@ENRON  \n",
+         "source": "email",
+         "to": "Gay, Randall L."
+      },
+      {
+         "from": "brian.frommelt@motorola.com",
+         "line": 37,
+         "rawfrom": "Frommelt Brian-WBF001 <Brian.Frommelt@motorola.com>\n",
+         "source": "email",
+         "to": "\"'Randy Gay'\" <pooky@pipeline.com>"
+      },
+      {
+         "from": "pooky@pipeline.com",
+         "line": 140,
+         "rawfrom": "Randy Gay [mailto:pooky@pipeline.com]\n",
+         "source": "email",
+         "to": "Frommelt Brian-WBF001"
+      }
+   ],
+   "skipped": 2
+}
+]

@@ -1,0 +1,1051 @@
+[
+{
+   "file": "/home/jb/maildir/hyatt-k/inbox/47.",
+   "hops": [
+      {
+         "from": "willthurmond@emerging-markets.com",
+         "line": 4,
+         "rawfrom": "willthurmond@emerging-markets.com\r\n",
+         "source": "valid",
+         "to": "kevin.hyatt@enron.com"
+      },
+      {
+         "from": "kevin.hyatt@enron.com",
+         "line": 34,
+         "rawfrom": "Hyatt, Kevin [mailto:Kevin.Hyatt@ENRON.com]\n",
+         "source": "email",
+         "to": "willthurmond@emerging-markets.com"
+      },
+      {
+         "from": "willthurmond@emerging-markets.com",
+         "line": 44,
+         "rawfrom": "Emerging Markets Online [mailto:willthurmond@emerging-markets.com]\n",
+         "source": "email",
+         "to": "Hyatt, Kevin"
+      },
+      {
+         "from": "kevin.hyatt@enron.com",
+         "line": 60,
+         "rawfrom": "Hyatt, Kevin [mailto:Kevin.Hyatt@ENRON.com]\n",
+         "source": "email",
+         "to": "Schlesinger, Judith; willthurmond@emerging-markets.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hyatt-k/power_conf/15.",
+   "hops": [
+      {
+         "from": "carries@tradefairgroup.com",
+         "line": 4,
+         "rawfrom": "carries@tradefairgroup.com\r\n",
+         "source": "valid",
+         "to": "kevin.hyatt@enron.com"
+      },
+      {
+         "from": "kevin.hyatt@enron.com",
+         "line": 24,
+         "rawfrom": "Hyatt, Kevin [mailto:Kevin.Hyatt@ENRON.com]\n",
+         "source": "email",
+         "to": "Carrie Shapiro"
+      },
+      {
+         "from": "carries@tradefairgroup.com",
+         "line": 36,
+         "rawfrom": "Carrie Shapiro [mailto:CarrieS@Tradefairgroup.com]\n",
+         "source": "email",
+         "to": "Hyatt, Kevin"
+      },
+      {
+         "from": "kevin.hyatt@enron.com",
+         "line": 50,
+         "rawfrom": "Hyatt, Kevin [mailto:Kevin.Hyatt@ENRON.com]\n",
+         "source": "email",
+         "to": "carries@tradefairgroup.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hyatt-k/deleted_items/541.",
+   "hops": [
+      {
+         "from": "jerry.hyatt@eaglegl.com",
+         "line": 4,
+         "rawfrom": "jerry.hyatt@eaglegl.com\r\n",
+         "source": "valid",
+         "to": "kevin.hyatt@enron.com"
+      },
+      {
+         "from": "don@aeroexpress.com",
+         "line": 22,
+         "rawfrom": "Don Lueke [mailto:don@aeroexpress.com]\n",
+         "source": "email",
+         "to": "Hyatt, Jerry"
+      },
+      {
+         "from": "rosine.lueke@fritolay.com",
+         "line": 34,
+         "rawfrom": "<Rosine.Lueke@fritolay.com>\n",
+         "source": "email",
+         "to": "<don@aeroexpress.com>; <Trish.Boudet@fritolay.com>;"
+      },
+      {
+         "from": "joseph.l.wolf@kc.frb.org",
+         "line": 69,
+         "rawfrom": "joseph.l.wolf@kc.frb.org [mailto:joseph.l.wolf@kc.frb.org]\n",
+         "source": "email",
+         "to": "cmadill@kc.rr.com; Wolf1936@aol.com; wolf@bpu.com; ad014@mizzou.edu;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/hyatt-k/deleted_items/205.",
+   "hops": [
+      {
+         "from": "tina_leavy@msn.com",
+         "line": 4,
+         "rawfrom": "tina_leavy@msn.com\r\n",
+         "source": "valid",
+         "to": "rda2c@unix.mail.virginia.edu, bandrews257@aol.com, maanbr@hotmail.com,"
+      },
+      {
+         "from": "resdive626@hotmail.com",
+         "line": 25,
+         "rawfrom": "\"Larry Gordon\" <resdive626@hotmail.com>\n",
+         "source": "email",
+         "to": "Cardiac734@aol.com, ctcoach4u@aol.com, found@monumental.com,"
+      },
+      {
+         "from": "jsand4617@aol.com",
+         "line": 39,
+         "rawfrom": "JSand4617@aol.com\n",
+         "source": "valid",
+         "to": "rcarlso@novacoxmail.com, Godfather204@aol.com, resdive626@hotmail.com,"
+      },
+      {
+         "from": "dunn7758@cs.com",
+         "line": 59,
+         "rawfrom": " <Dunn7758@cs.com>\n",
+         "source": "email",
+         "to": "MIKE.CAVANAUGH@APPL.GE.COM, dunn9360@netzero.net, scott.floore@appl.ge.com, barry.holley@appl.ge.com, DWAYNE.KAHL@APPL.GE.COM, WNEDKEITH@cs.com, T7716@aol.com, subodhipatel@hotmail.com, PICKLE948@aol.com, Prollin3@cs.com, JSand4617@aol.com, KRAT-S-123@att.net, eric.stokes@appl.ge.com, BOB.VETTER@APPL.GE.COM"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hyatt-k/deleted_items/407.",
+   "hops": [
+      {
+         "from": "tina_leavy@msn.com",
+         "line": 4,
+         "rawfrom": "tina_leavy@msn.com\r\n",
+         "source": "valid",
+         "to": "dalbritton@cox.rr.com, rda2c@unix.mail.virginia.edu, bandrews257@aol.com,"
+      },
+      {
+         "from": "sjplus5@hotmail.com",
+         "line": 26,
+         "rawfrom": "\"stanley czajkowski\" <sjplus5@hotmail.com>\n",
+         "source": "email",
+         "to": "BJLord2@aol.com, cahemming@hotmail.com, cardiactech@adelphia.net,"
+      },
+      {
+         "from": "emsequalnolife@aol.com",
+         "line": 41,
+         "rawfrom": "Emsequalnolife@aol.com\n",
+         "source": "valid",
+         "to": "bocooks@fls.infi.net, OKIE245@aol.com, Pita651@aol.com,"
+      },
+      {
+         "from": "loopysweet@aol.com",
+         "line": 69,
+         "rawfrom": " <LoopySweet@aol.com>\n",
+         "source": "email",
+         "to": "lacib@shentel.net, Jljw@aol.com, amandasue76@yahoo.com, Treky710@aol.com, Emsequalnolife@aol.com, sherrymichel@hotmail.com, Mdnitetkr@aol.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hyatt-k/deleted_items/208.",
+   "hops": [
+      {
+         "from": "tina_leavy@msn.com",
+         "line": 4,
+         "rawfrom": "tina_leavy@msn.com\r\n",
+         "source": "valid",
+         "to": "rda2c@unix.mail.virginia.edu, mbock@kgo.csc.com, maanbr@hotmail.com,"
+      },
+      {
+         "from": "sjplus5@hotmail.com",
+         "line": 25,
+         "rawfrom": "\"stanley czajkowski\" <sjplus5@hotmail.com>\n",
+         "source": "email",
+         "to": "BJLord2@aol.com, cardiac734@aol.com, cardiactech@adelphia.net,"
+      },
+      {
+         "from": "emsequalnolife@aol.com",
+         "line": 40,
+         "rawfrom": "Emsequalnolife@aol.com\n",
+         "source": "valid",
+         "to": "CMarsh3892@aol.com, Sassylilbrat12@aol.com, Nimitzcop@aol.com,"
+      },
+      {
+         "from": "cmarsh3892@aol.com",
+         "line": 64,
+         "rawfrom": " <CMarsh3892@aol.com>\n",
+         "source": "email",
+         "to": "Todefibux3@aol.com, Emsequalnolife@aol.com, Cardiac696@aol.com, Pita651@aol.com, Cardiac734@aol.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hyatt-k/deleted_items/409.",
+   "hops": [
+      {
+         "from": "tina_leavy@msn.com",
+         "line": 4,
+         "rawfrom": "tina_leavy@msn.com\r\n",
+         "source": "valid",
+         "to": "rda2c@unix.mail.virginia.edu, bandrews257@aol.com, mbock@kgo.csc.com,"
+      },
+      {
+         "from": "sjplus5@hotmail.com",
+         "line": 29,
+         "rawfrom": "\"stanley czajkowski\" <sjplus5@hotmail.com>\r\n",
+         "source": "email",
+         "to": "BJLord2@aol.com, cahemming@hotmail.com, Cardiac696@aol.com,=20"
+      },
+      {
+         "from": "katwilliams@juno.com",
+         "line": 49,
+         "rawfrom": "\"Kathy S. Williams\" <katwilliams@juno.com>\r\n",
+         "source": "email",
+         "to": "BBrogo@aol.com, sjplus5@juno.com, SEANO231@aol.com, cocoppm@msn.com,"
+      },
+      {
+         "from": "bumblebea14@hotmail.com",
+         "line": 151,
+         "rawfrom": "\"Lenee Roberts\" <BUMBLEBEA14@HOTMAIL.COM>\r\n",
+         "source": "email",
+         "to": "bbyma@hotmail.com, bcredle59@hotmail.com, bebediva1@aol.com="
+      },
+      {
+         "from": "trlljamie@aol.com",
+         "line": 204,
+         "rawfrom": "TrllJamie@aol.com\r\n",
+         "source": "valid",
+         "to": "ItalianGodess25@aol.com"
+      },
+      {
+         "from": "stephiejb6@aol.com",
+         "line": 228,
+         "rawfrom": "Stephiejb6@aol.com\r\n",
+         "source": "valid",
+         "to": "Jodyl923@aol.com, LilDevil417916@aol.com, ChRiSTiNa81626@aol.com,"
+      },
+      {
+         "from": "chickee582@aol.com",
+         "line": 253,
+         "rawfrom": "Chickee582@aol.com\r\n",
+         "source": "valid",
+         "to": "KACTyson@aol.com"
+      },
+      {
+         "from": "jrmedic52@aol.com",
+         "line": 283,
+         "rawfrom": "JRMEDIC52@aol.com\r\n",
+         "source": "valid",
+         "to": "KACCURRY48@aol.com, VLCurry@aol.com, VEVANS@ADELPHIA.NET,"
+      },
+      {
+         "from": "ceb250468@aol.com",
+         "line": 448,
+         "rawfrom": "CEB250468@aol.com\r\n",
+         "source": "valid",
+         "to": "ALLANV957@aol.com, Arloe64@aol.com, annbro@dreamscape.com,"
+      },
+      {
+         "from": "tobis1185@aol.com",
+         "line": 592,
+         "rawfrom": "Tobis1185@aol.com\r\n",
+         "source": "valid",
+         "to": "Amylou92@aol.com, Specialgirl72@aol.com, Kickr74@aol.com,"
+      },
+      {
+         "from": "scrimmins@usadatanet.net",
+         "line": 637,
+         "rawfrom": "Susan Crimmins <scrimmins@usadatanet.net>\r\n",
+         "source": "email",
+         "to": "elaine brown <elaine@twcny.rr.com>, Erica Wheet <tejwheet@usadatanet.ne="
+      },
+      {
+         "from": "queen_of_66@yahoo.com",
+         "line": 676,
+         "rawfrom": "debra dixon <queen_of_66@yahoo.com>\r\n",
+         "source": "email",
+         "to": "Tracy <twameling@aol.com>, Alan <Indiansaws@hotmail.com>,"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/hyatt-k/deleted_items/123.",
+   "hops": [
+      {
+         "from": "sjplus5@hotmail.com",
+         "line": 20,
+         "rawfrom": "\"stanley czajkowski\" <sjplus5@hotmail.com>\n",
+         "source": "email",
+         "to": "BJLord2@aol.com, cahemming@hotmail.com, cardiac734@aol.com,"
+      },
+      {
+         "from": "okfine66@aol.com",
+         "line": 36,
+         "rawfrom": "OKfine66@aol.com\n",
+         "source": "valid",
+         "to": "PAWZNMS@aol.com, haasdc@borg.com, Carolewithane2353@yahoo.com,"
+      },
+      {
+         "from": "sonnylae@hotmail.com",
+         "line": 81,
+         "rawfrom": " <sonnylae@hotmail.com>\n",
+         "source": "email",
+         "to": "drs10@cornell.edu"
+      },
+      {
+         "from": "flatfishg@yahoo.com",
+         "line": 90,
+         "rawfrom": "glenn waldron <flatfishg@yahoo.com>\n",
+         "source": "email",
+         "to": "\"sonny aaa.eade\" <sonnylae@hotmail.com>,  Matt aaaWaldron"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hyatt-k/deleted_items/577.",
+   "hops": [
+      {
+         "from": "faggard@cpchem.com",
+         "line": 4,
+         "rawfrom": "faggard@cpchem.com\r\n",
+         "source": "valid",
+         "to": "kevin.hyatt@enron.com"
+      },
+      {
+         "from": "chuck.atteberry@inteq.com",
+         "line": 32,
+         "rawfrom": "Atteberry, Chuck [mailto:Chuck.Atteberry@inteq.com]\n",
+         "source": "email",
+         "to": "Faggard, Steve"
+      },
+      {
+         "from": "faggard@cpchem.com",
+         "line": 45,
+         "rawfrom": "Faggard, Steve [mailto:FAGGARD@Cpchem.com]\n",
+         "source": "email",
+         "to": "Chuck' 'Atteberry (E-mail)"
+      },
+      {
+         "from": "kevin.hyatt@enron.com",
+         "line": 67,
+         "rawfrom": "Hyatt, Kevin [mailto:Kevin.Hyatt@ENRON.com]\n",
+         "source": "email",
+         "to": "Steve Faggard (E-mail)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hyatt-k/deleted_items/403.",
+   "hops": [
+      {
+         "from": "sjplus5@hotmail.com",
+         "line": 31,
+         "rawfrom": "\"stanley czajkowski\" <sjplus5@hotmail.com>\n",
+         "source": "email",
+         "to": "BJLord2@aol.com, cahemming@hotmail.com, Cardiac696@aol.com,"
+      },
+      {
+         "from": "cmarsh3892@aol.com",
+         "line": 47,
+         "rawfrom": "CMarsh3892@aol.com\n",
+         "source": "valid",
+         "to": "ResQVol@aol.com, Pita651@aol.com, Emsequalnolife@aol.com,"
+      },
+      {
+         "from": "kirk8828@hotmail.com",
+         "line": 67,
+         "rawfrom": " <kirk8828@hotmail.com>\n",
+         "source": "email",
+         "to": "bpayne@erols.com, blznldy84@hotmail.com, cardiactech@adelphia.net, gikmlk@aol.com, poohdeb1@aol.com, CMarsh3892@aol.com, JNBDKAL@aol.com"
+      },
+      {
+         "from": "foreverlate22@aol.com",
+         "line": 75,
+         "rawfrom": "Foreverlate22@aol.com\n",
+         "source": "valid",
+         "to": "dayton82@hotmail.com, MsPurples@aol.com, Dreamsicle003@aol.com,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hyatt-k/deleted_items/602.",
+   "hops": [
+      {
+         "from": "jeffery.fawcett@enron.com",
+         "line": 4,
+         "rawfrom": "jeffery.fawcett@enron.com\r\n",
+         "source": "valid",
+         "to": "igi@nctimes.net"
+      },
+      {
+         "from": "igi@nctimes.net",
+         "line": 46,
+         "rawfrom": "\tKirk Ketcherside <igi@nctimes.net>@ENRON [mailto:IMCEANOTES-Kirk+20Ketcherside+20+3Cigi+40nctimes+2Enet+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Fawcett, Jeffery"
+      },
+      {
+         "from": "igi@nctimes.net",
+         "line": 89,
+         "rawfrom": "igi@nctimes.net",
+         "source": "valid",
+         "to": "Jeffery.Fawcett@enron.com"
+      },
+      {
+         "from": "igi@nctimes.net",
+         "line": 154,
+         "rawfrom": "igi@nctimes.net",
+         "source": "valid",
+         "to": "jfawcet@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hyatt-k/sent_items/296.",
+   "hops": [
+      {
+         "from": "kevin.hyatt@enron.com",
+         "line": 4,
+         "rawfrom": "kevin.hyatt@enron.com\r\n",
+         "source": "valid",
+         "to": "carries@tradefairgroup.com"
+      },
+      {
+         "from": "carries@tradefairgroup.com",
+         "line": 22,
+         "rawfrom": "Carrie Shapiro [mailto:CarrieS@Tradefairgroup.com]\n",
+         "source": "email",
+         "to": "Nelson, Mike"
+      },
+      {
+         "from": "michel.nelson@enron.com",
+         "line": 32,
+         "rawfrom": "Nelson, Mike [mailto:Michel.Nelson@ENRON.com]\n",
+         "source": "email",
+         "to": "CarrieS@Tradefairgroup.com"
+      },
+      {
+         "from": "carries@tradefairgroup.com",
+         "line": 51,
+         "rawfrom": "Carrie Shapiro [mailto:CarrieS@Tradefairgroup.com]\n",
+         "source": "email",
+         "to": "Hyatt, Kevin"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/hyatt-k/sent_items/276.",
+   "hops": [
+      {
+         "from": "kevin.hyatt@enron.com",
+         "line": 4,
+         "rawfrom": "kevin.hyatt@enron.com\r\n",
+         "source": "valid",
+         "to": "jhyatt@msn.com"
+      },
+      {
+         "from": "tina_leavy@msn.com",
+         "line": 21,
+         "rawfrom": "Tina Leavy [mailto:tina_leavy@msn.com]\n",
+         "source": "email",
+         "to": "Patti eberhart; Rosie Matthews; Betty Lord; Christine Hemming; Linda Harris; David and Patti Drake; Elena Carver; Jim Hart; Marla Melehs; John Fowler; Mike Hall; Jeff Hyatt; Jayne & Rusty Saighman; Kim Carr; Hyatt, Kevin; Keith Dockens; Michael Leavy; Steve Leavy; Lydia Majak; Mark Brasch; Matthew Jackson; Peg and Marv Brasch; Marian Bock; Luis Mata; Erica Murray; Mellissa Herrald; Nancy Dockens; Kyle Ierarde; Dan Miller; Ray Anderson; Angel Gordon; Erin Dockens; Tammie & Gary Pech; Tammy Leavy; Meredith Howdyshell; Gerald Perry"
+      },
+      {
+         "from": "aluv4ems@aol.com",
+         "line": 38,
+         "rawfrom": "ALuv4EMS@aol.com\n",
+         "source": "valid",
+         "to": "Snibbley@att.net, Cardiac734@aol.com, Pita651@aol.com,"
+      },
+      {
+         "from": "brewstergirlsbak@aol.com",
+         "line": 62,
+         "rawfrom": " <BrewsterGirlsBak@aol.com>\n",
+         "source": "email",
+         "to": "McDaddy1029@aol.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/hyatt-k/sent_items/297.",
+   "hops": [
+      {
+         "from": "kevin.hyatt@enron.com",
+         "line": 4,
+         "rawfrom": "kevin.hyatt@enron.com\r\n",
+         "source": "valid",
+         "to": "'rector@enron.com, grector@reliant.com"
+      },
+      {
+         "from": "grector@reliant.com",
+         "line": 22,
+         "rawfrom": "Rector, Glen [mailto:GRector@reliant.com]\n",
+         "source": "email",
+         "to": "Hyatt, Kevin"
+      },
+      {
+         "from": "kevin.hyatt@enron.com",
+         "line": 32,
+         "rawfrom": "Hyatt, Kevin [mailto:Kevin.Hyatt@enron.com]\n",
+         "source": "email",
+         "to": "Rector, Glen"
+      },
+      {
+         "from": "grector@reliant.com",
+         "line": 45,
+         "rawfrom": "Rector, Glen [mailto:GRector@reliant.com]\n",
+         "source": "email",
+         "to": "Hyatt, Kevin"
+      },
+      {
+         "from": "kevin.hyatt@enron.com",
+         "line": 62,
+         "rawfrom": "Hyatt, Kevin [mailto:Kevin.Hyatt@enron.com]\n",
+         "source": "email",
+         "to": "Rector, Glen"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hyatt-k/sent_items/321.",
+   "hops": [
+      {
+         "from": "kevin.hyatt@enron.com",
+         "line": 4,
+         "rawfrom": "kevin.hyatt@enron.com\r\n",
+         "source": "valid",
+         "to": "'faggard@enron.com, faggard@cpchem.com"
+      },
+      {
+         "from": "faggard@cpchem.com",
+         "line": 23,
+         "rawfrom": "Faggard, Steve [mailto:FAGGARD@Cpchem.com]\n",
+         "source": "email",
+         "to": "Hyatt, Kevin"
+      },
+      {
+         "from": "chuck.atteberry@inteq.com",
+         "line": 42,
+         "rawfrom": "Atteberry, Chuck [mailto:Chuck.Atteberry@inteq.com]\n",
+         "source": "email",
+         "to": "Faggard, Steve"
+      },
+      {
+         "from": "faggard@cpchem.com",
+         "line": 55,
+         "rawfrom": "Faggard, Steve [mailto:FAGGARD@Cpchem.com]\n",
+         "source": "email",
+         "to": "Chuck' 'Atteberry (E-mail)"
+      },
+      {
+         "from": "kevin.hyatt@enron.com",
+         "line": 77,
+         "rawfrom": "Hyatt, Kevin [mailto:Kevin.Hyatt@ENRON.com]\n",
+         "source": "email",
+         "to": "Steve Faggard (E-mail)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hyatt-k/sent_items/202.",
+   "hops": [
+      {
+         "from": "kevin.hyatt@enron.com",
+         "line": 4,
+         "rawfrom": "kevin.hyatt@enron.com\r\n",
+         "source": "valid",
+         "to": "lindy.donoho@enron.com, lorraine.lindberg@enron.com, tk.lohman@enron.com,"
+      },
+      {
+         "from": "mcook@utilicorp.com",
+         "line": 28,
+         "rawfrom": "Cook, Mark [mailto:MCook@utilicorp.com]\n",
+         "source": "email",
+         "to": "Hyatt, Kevin"
+      },
+      {
+         "from": "dlsmith@pplweb.com",
+         "line": 46,
+         "rawfrom": "dlsmith@pplweb.com [mailto:dlsmith@pplweb.com]\n",
+         "source": "email",
+         "to": "KBohne@utilicorp.com"
+      },
+      {
+         "from": "kbohne@utilicorp.com",
+         "line": 80,
+         "rawfrom": "KBohne@utilicorp.com [mailto:KBohne@utilicorp.com]\n",
+         "source": "email",
+         "to": "Smith, David L."
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/hyatt-k/projects/sun_devil/74.",
+   "hops": [
+      {
+         "from": "bvana@dot.state.az.us",
+         "line": 4,
+         "rawfrom": "bvana@dot.state.az.us\r\n",
+         "source": "valid",
+         "to": "kevin.hyatt@enron.com"
+      },
+      {
+         "from": "kevin.hyatt@enron.com",
+         "line": 25,
+         "rawfrom": "\t\tFrom:\tHyatt, Kevin [mailto:Kevin.Hyatt@ENRON.com]\n",
+         "source": "email",
+         "to": "Bruce Vana"
+      },
+      {
+         "from": "bvana@dot.state.az.us",
+         "line": 45,
+         "rawfrom": "Bruce Vana [mailto:BVana@dot.state.az.us]\n",
+         "source": "email",
+         "to": "Hyatt, Kevin"
+      },
+      {
+         "from": "kevin.hyatt@enron.com",
+         "line": 95,
+         "rawfrom": "\t\tFrom:\tHyatt, Kevin [mailto:Kevin.Hyatt@ENRON.com]\n",
+         "source": "email",
+         "to": "info@dot.state.az.us <mailto:info@dot.state.az.us>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/hyatt-k/projects/sun_devil/81.",
+   "hops": [
+      {
+         "from": "doug.cebryk@enron.com",
+         "line": 4,
+         "rawfrom": "doug.cebryk@enron.com\r\n",
+         "source": "valid",
+         "to": "scott'.'patti@enron.com, john.shafer@enron.com, kevin.hyatt@enron.com,"
+      },
+      {
+         "from": "spatti@ensr.com",
+         "line": 41,
+         "rawfrom": "Patti, Scott [mailto:SPatti@ensr.com]\n",
+         "source": "email",
+         "to": "Shafer, John; Hyatt, Kevin; Gadd, Eric"
+      },
+      {
+         "from": "john.shafer@enron.com",
+         "line": 87,
+         "rawfrom": "Shafer, John [mailto:John.Shafer@ENRON.com]\n",
+         "source": "email",
+         "to": "Patti, Scott; Hyatt, Kevin; Gadd, Eric"
+      },
+      {
+         "from": "spatti@ensr.com",
+         "line": 97,
+         "rawfrom": "Patti, Scott [mailto:SPatti@ensr.com]\n",
+         "source": "email",
+         "to": "Shafer, John; Hyatt, Kevin; Gadd, Eric"
+      },
+      {
+         "from": "john.shafer@enron.com",
+         "line": 125,
+         "rawfrom": "Shafer, John [mailto:John.Shafer@ENRON.com]\n",
+         "source": "email",
+         "to": "Hyatt, Kevin; Gadd, Eric"
+      },
+      {
+         "from": "spatti@ensr.com",
+         "line": 174,
+         "rawfrom": "Patti, Scott [mailto:SPatti@ensr.com]\n",
+         "source": "email",
+         "to": "Cebryk, Doug; Shafer, John; Campbell, Larry"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/hyatt-k/projects/sun_devil/76.",
+   "hops": [
+      {
+         "from": "spatti@ensr.com",
+         "line": 4,
+         "rawfrom": "spatti@ensr.com\r\n",
+         "source": "valid",
+         "to": "john.shafer@enron.com, kevin.hyatt@enron.com, eric.gadd@enron.com"
+      },
+      {
+         "from": "john.shafer@enron.com",
+         "line": 62,
+         "rawfrom": "Shafer, John [mailto:John.Shafer@ENRON.com]\n",
+         "source": "email",
+         "to": "Patti, Scott; Hyatt, Kevin; Gadd, Eric"
+      },
+      {
+         "from": "spatti@ensr.com",
+         "line": 72,
+         "rawfrom": "Patti, Scott [mailto:SPatti@ensr.com]\n",
+         "source": "email",
+         "to": "Shafer, John; Hyatt, Kevin; Gadd, Eric"
+      },
+      {
+         "from": "john.shafer@enron.com",
+         "line": 100,
+         "rawfrom": "Shafer, John [mailto:John.Shafer@ENRON.com]\n",
+         "source": "email",
+         "to": "Hyatt, Kevin; Gadd, Eric"
+      },
+      {
+         "from": "spatti@ensr.com",
+         "line": 149,
+         "rawfrom": "Patti, Scott [mailto:SPatti@ensr.com]\n",
+         "source": "email",
+         "to": "Cebryk, Doug; Shafer, John; Campbell, Larry"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/hyatt-k/projects/sun_devil/80.",
+   "hops": [
+      {
+         "from": "jschmidt@ensr.com",
+         "line": 4,
+         "rawfrom": "jschmidt@ensr.com\r\n",
+         "source": "valid",
+         "to": "john.shafer@enron.com, scott.patti@enron.com, larry.campbell@enron.com"
+      },
+      {
+         "from": "john.shafer@enron.com",
+         "line": 26,
+         "rawfrom": "Shafer, John [mailto:John.Shafer@ENRON.com]\n",
+         "source": "email",
+         "to": "Patti, Scott; Campbell, Larry; Schmidt, Jon"
+      },
+      {
+         "from": "spatti@ensr.com",
+         "line": 89,
+         "rawfrom": "Patti, Scott [mailto:SPatti@ensr.com]\n",
+         "source": "email",
+         "to": "Shafer, John; Hyatt, Kevin; Gadd, Eric"
+      },
+      {
+         "from": "john.shafer@enron.com",
+         "line": 117,
+         "rawfrom": "Shafer, John [mailto:John.Shafer@ENRON.com]\n",
+         "source": "email",
+         "to": "Hyatt, Kevin; Gadd, Eric"
+      },
+      {
+         "from": "spatti@ensr.com",
+         "line": 166,
+         "rawfrom": "Patti, Scott [mailto:SPatti@ensr.com]\n",
+         "source": "email",
+         "to": "Cebryk, Doug; Shafer, John; Campbell, Larry"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/hyatt-k/projects/sun_devil/92.",
+   "hops": [
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 4,
+         "rawfrom": "larry.campbell@enron.com\r\n",
+         "source": "valid",
+         "to": "alstad@enron.com, jalstad@ensr.com"
+      },
+      {
+         "from": "jalstad@ensr.com",
+         "line": 29,
+         "rawfrom": "\"Alstad, Jon\" <JAlstad@ensr.com> on 09/26/2001 03:15:10 PM\n",
+         "source": "email",
+         "to": "\"'Larry.Campbell@enron.com'\" <Larry.Campbell@enron.com>, \"Patti, Scott\" <SPatti@ensr.com>"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 50,
+         "rawfrom": "Larry.Campbell@enron.com [mailto:Larry.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "Patti, Scott"
+      },
+      {
+         "from": "spatti@ensr.com",
+         "line": 72,
+         "rawfrom": "\"Patti, Scott\" <SPatti@ensr.com> on 09/25/2001 05:10:00 PM\n",
+         "source": "email",
+         "to": "\"'Shafer, John'\" <John.Shafer@ENRON.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hyatt-k/projects/sun_devil/77.",
+   "hops": [
+      {
+         "from": "spatti@ensr.com",
+         "line": 4,
+         "rawfrom": "spatti@ensr.com\r\n",
+         "source": "valid",
+         "to": "john.shafer@enron.com, kevin.hyatt@enron.com, eric.gadd@enron.com"
+      },
+      {
+         "from": "john.shafer@enron.com",
+         "line": 85,
+         "rawfrom": "Shafer, John [mailto:John.Shafer@ENRON.com]\n",
+         "source": "email",
+         "to": "Patti, Scott; Hyatt, Kevin; Gadd, Eric"
+      },
+      {
+         "from": "spatti@ensr.com",
+         "line": 95,
+         "rawfrom": "Patti, Scott [mailto:SPatti@ensr.com]\n",
+         "source": "email",
+         "to": "Shafer, John; Hyatt, Kevin; Gadd, Eric"
+      },
+      {
+         "from": "john.shafer@enron.com",
+         "line": 123,
+         "rawfrom": "Shafer, John [mailto:John.Shafer@ENRON.com]\n",
+         "source": "email",
+         "to": "Hyatt, Kevin; Gadd, Eric"
+      },
+      {
+         "from": "spatti@ensr.com",
+         "line": 172,
+         "rawfrom": "Patti, Scott [mailto:SPatti@ensr.com]\n",
+         "source": "email",
+         "to": "Cebryk, Doug; Shafer, John; Campbell, Larry"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/hyatt-k/projects/sun_devil/82.",
+   "hops": [
+      {
+         "from": "spatti@ensr.com",
+         "line": 4,
+         "rawfrom": "spatti@ensr.com\r\n",
+         "source": "valid",
+         "to": "scott.patti@enron.com, jon.schmidt@enron.com, john.shafer@enron.com"
+      },
+      {
+         "from": "john.shafer@enron.com",
+         "line": 91,
+         "rawfrom": "Shafer, John [mailto:John.Shafer@ENRON.com]\n",
+         "source": "email",
+         "to": "Schmidt, Jon"
+      },
+      {
+         "from": "spatti@ensr.com",
+         "line": 143,
+         "rawfrom": "Patti, Scott [mailto:SPatti@ensr.com]\n",
+         "source": "email",
+         "to": "Shafer, John; Hyatt, Kevin; Gadd, Eric"
+      },
+      {
+         "from": "john.shafer@enron.com",
+         "line": 192,
+         "rawfrom": "Shafer, John [mailto:John.Shafer@ENRON.com]\n",
+         "source": "email",
+         "to": "Patti, Scott; Hyatt, Kevin; Gadd, Eric"
+      },
+      {
+         "from": "spatti@ensr.com",
+         "line": 202,
+         "rawfrom": "Patti, Scott [mailto:SPatti@ensr.com]\n",
+         "source": "email",
+         "to": "Shafer, John; Hyatt, Kevin; Gadd, Eric"
+      },
+      {
+         "from": "john.shafer@enron.com",
+         "line": 230,
+         "rawfrom": "Shafer, John [mailto:John.Shafer@ENRON.com]\n",
+         "source": "email",
+         "to": "Hyatt, Kevin; Gadd, Eric"
+      },
+      {
+         "from": "spatti@ensr.com",
+         "line": 279,
+         "rawfrom": "Patti, Scott [mailto:SPatti@ensr.com]\n",
+         "source": "email",
+         "to": "Cebryk, Doug; Shafer, John; Campbell, Larry"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/hyatt-k/projects/sun_devil/79.",
+   "hops": [
+      {
+         "from": "spatti@ensr.com",
+         "line": 4,
+         "rawfrom": "spatti@ensr.com\r\n",
+         "source": "valid",
+         "to": "john.shafer@enron.com, kevin.hyatt@enron.com, eric.gadd@enron.com"
+      },
+      {
+         "from": "john.shafer@enron.com",
+         "line": 113,
+         "rawfrom": "Shafer, John [mailto:John.Shafer@ENRON.com]\n",
+         "source": "email",
+         "to": "Patti, Scott; Hyatt, Kevin; Gadd, Eric"
+      },
+      {
+         "from": "spatti@ensr.com",
+         "line": 123,
+         "rawfrom": "Patti, Scott [mailto:SPatti@ensr.com]\n",
+         "source": "email",
+         "to": "Shafer, John; Hyatt, Kevin; Gadd, Eric"
+      },
+      {
+         "from": "john.shafer@enron.com",
+         "line": 151,
+         "rawfrom": "Shafer, John [mailto:John.Shafer@ENRON.com]\n",
+         "source": "email",
+         "to": "Hyatt, Kevin; Gadd, Eric"
+      },
+      {
+         "from": "spatti@ensr.com",
+         "line": 200,
+         "rawfrom": "Patti, Scott [mailto:SPatti@ensr.com]\n",
+         "source": "email",
+         "to": "Cebryk, Doug; Shafer, John; Campbell, Larry"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/hyatt-k/projects/29.",
+   "hops": [
+      {
+         "from": "lindy.donoho@enron.com",
+         "line": 4,
+         "rawfrom": "lindy.donoho@enron.com\r\n",
+         "source": "valid",
+         "to": "jeffery.fawcett@enron.com"
+      },
+      {
+         "from": "sasselin@trigon-sheehan.com",
+         "line": 34,
+         "rawfrom": "\t\"Stu Asselin\" <sasselin@trigon-sheehan.com>@ENRON [mailto:IMCEANOTES-+22Stu+20Asselin+22+20+3Csasselin+40trigon-sheehan+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Fawcett, Jeffery"
+      },
+      {
+         "from": "jeffery.fawcett@enron.com",
+         "line": 74,
+         "rawfrom": "Fawcett, Jeffery [mailto:Jeffery.Fawcett@ENRON.com]\n",
+         "source": "email",
+         "to": "sasselin@trigon-sheehan.com"
+      },
+      {
+         "from": "sasselin@trigon-sheehan.com",
+         "line": 112,
+         "rawfrom": "\t\"Stu Asselin\" <sasselin@trigon-sheehan.com>@ENRON\n",
+         "source": "email",
+         "to": "Jeff Fawcett"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hyatt-k/projects/28.",
+   "hops": [
+      {
+         "from": "jeffery.fawcett@enron.com",
+         "line": 4,
+         "rawfrom": "jeffery.fawcett@enron.com\r\n",
+         "source": "valid",
+         "to": "igi@nctimes.net"
+      },
+      {
+         "from": "igi@nctimes.net",
+         "line": 40,
+         "rawfrom": "\tKirk Ketcherside <igi@nctimes.net>@ENRON [mailto:IMCEANOTES-Kirk+20Ketcherside+20+3Cigi+40nctimes+2Enet+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Fawcett, Jeffery"
+      },
+      {
+         "from": "igi@nctimes.net",
+         "line": 117,
+         "rawfrom": "  Kirk Ketcherside <igi@nctimes.net>@ENRON\n",
+         "source": "email",
+         "to": "Fawcett, Jeffery"
+      },
+      {
+         "from": "igi@nctimes.net",
+         "line": 154,
+         "rawfrom": "igi@nctimes.net",
+         "source": "valid",
+         "to": "Jeffery.Fawcett@enron.com"
+      },
+      {
+         "from": "igi@nctimes.net",
+         "line": 236,
+         "rawfrom": "igi@nctimes.net",
+         "source": "valid",
+         "to": "jfawcet@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+]

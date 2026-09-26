@@ -1,0 +1,1114 @@
+[
+{
+   "file": "/home/jb/maildir/hain-m/all_documents/127.",
+   "hops": [
+      {
+         "from": "rrga-l@list.rtowest.org",
+         "line": 4,
+         "rawfrom": "rrga-l@list.rtowest.org\r\n",
+         "source": "valid",
+         "to": "rrga-l@list.rtowest.org"
+      },
+      {
+         "from": "dwphillips@bpa.gov",
+         "line": 23,
+         "rawfrom": "Phillips, Dennis - PSP-5 [mailto:dwphillips@BPA.GOV]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      },
+      {
+         "from": "gerry.garnett@bchydro.bc.ca",
+         "line": 32,
+         "rawfrom": "Garnett, Gerry [mailto:Gerry.Garnett@BCHYDRO.BC.CA]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      },
+      {
+         "from": "mschaff@worldnet.att.net",
+         "line": 54,
+         "rawfrom": " Margaret Schaff [SMTP:mschaff@WORLDNET.ATT.NET]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      },
+      {
+         "from": "sdleonard@earthlink.net",
+         "line": 64,
+         "rawfrom": "\"Sarah Dennison-Leonard\" <sdleonard@EARTHLINK.NET>\n",
+         "source": "email",
+         "to": "<RRGA-L@LIST.RTOWEST.ORG>"
+      },
+      {
+         "from": "jack.pyburn@mirant.com",
+         "line": 78,
+         "rawfrom": "\"Pyburn, Jack R.\" <jack.pyburn@MIRANT.COM>\n",
+         "source": "email",
+         "to": "<RRGA-L@LIST.RTOWEST.ORG>"
+      },
+      {
+         "from": "kadalia@bpa.gov",
+         "line": 98,
+         "rawfrom": "Dalia, Keith A - TOS-DITT1 [mailto:kadalia@BPA.GOV]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hain-m/all_documents/133.",
+   "hops": [
+      {
+         "from": "rrga-l@list.rtowest.org",
+         "line": 4,
+         "rawfrom": "rrga-l@list.rtowest.org\r\n",
+         "source": "valid",
+         "to": "rrga-l@list.rtowest.org"
+      },
+      {
+         "from": "mschaff@worldnet.att.net",
+         "line": 35,
+         "rawfrom": " Margaret Schaff [SMTP:mschaff@WORLDNET.ATT.NET]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      },
+      {
+         "from": "sdleonard@earthlink.net",
+         "line": 45,
+         "rawfrom": "\"Sarah Dennison-Leonard\" <sdleonard@EARTHLINK.NET>\n",
+         "source": "email",
+         "to": "<RRGA-L@LIST.RTOWEST.ORG>"
+      },
+      {
+         "from": "jack.pyburn@mirant.com",
+         "line": 59,
+         "rawfrom": "\"Pyburn, Jack R.\" <jack.pyburn@MIRANT.COM>\n",
+         "source": "email",
+         "to": "<RRGA-L@LIST.RTOWEST.ORG>"
+      },
+      {
+         "from": "kadalia@bpa.gov",
+         "line": 79,
+         "rawfrom": "Dalia, Keith A - TOS-DITT1 [mailto:kadalia@BPA.GOV]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hain-m/all_documents/657.",
+   "hops": [
+      {
+         "from": "jeff.shields@enron.com",
+         "line": 4,
+         "rawfrom": "jeff.shields@enron.com\r\n",
+         "source": "valid",
+         "to": "mary.hain@enron.com"
+      },
+      {
+         "from": "rbbennett@bpa.gov",
+         "line": 34,
+         "rawfrom": "\"Bennett, Ruth - TM-DITT1\" <rbbennett@bpa.gov>\n",
+         "source": "email",
+         "to": "\"'jeffshields@enron.com'\" <jeffshields@enron.com>"
+      },
+      {
+         "from": "mailer-daemon@bpa.gov",
+         "line": 47,
+         "rawfrom": "Mail Delivery Subsystem [mailto:mailer-daemon@bpa.gov]\n",
+         "source": "email",
+         "to": "rbbennett@bpa.gov"
+      },
+      {
+         "from": "jeff.shield@enron.com",
+         "line": 59,
+         "rawfrom": "jeff.shield@enron.com",
+         "source": "valid",
+         "to": "<jeff.shield@enron.com>"
+      },
+      {
+         "from": "rbbennett@bpa.gov",
+         "line": 68,
+         "rawfrom": "\"Bennett, Ruth - TM-DITT1\" <rbbennett@bpa.gov>\n",
+         "source": "email",
+         "to": "\"'jeff.shield@enron.com'\" <jeff.shield@enron.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/hain-m/all_documents/544.",
+   "hops": [
+      {
+         "from": "mailer-daemon@aol.com",
+         "line": 4,
+         "rawfrom": "mailer-daemon@aol.com\r\n",
+         "source": "valid",
+         "to": "mary.hain@enron.com"
+      },
+      {
+         "from": "imaxtrans@aol.com",
+         "line": 48,
+         "rawfrom": "imaxtrans@aol.com",
+         "source": "valid",
+         "to": "<powerlac@aol.com>"
+      },
+      {
+         "from": "powerlac@aol.com",
+         "line": 51,
+         "rawfrom": "powerlac@aol.com",
+         "source": "valid",
+         "to": "<imaxtrans@aol.com>"
+      },
+      {
+         "from": "powerlac@aol.com",
+         "line": 54,
+         "rawfrom": "powerlac@aol.com",
+         "source": "valid",
+         "to": "<mhornst@aol.com>"
+      },
+      {
+         "from": "mary.hain@enron.com",
+         "line": 73,
+         "rawfrom": "Mary.Hain@enron.com\n",
+         "source": "valid",
+         "to": "David_Aamodt@pgn.com, dapnucc@teleport.com, dick@pnucc.org,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hain-m/all_documents/552.",
+   "hops": [
+      {
+         "from": "mailer-daemon@postmaster.enron.com",
+         "line": 4,
+         "rawfrom": "mailer-daemon@postmaster.enron.com\r\n",
+         "source": "valid",
+         "to": "mary.hain@enron.com"
+      },
+      {
+         "from": "brugen@erols.com",
+         "line": 26,
+         "rawfrom": "brugen@erols.com",
+         "source": "valid",
+         "to": "<peterroi@erols.com>"
+      },
+      {
+         "from": "peterroi@erols.com",
+         "line": 29,
+         "rawfrom": "peterroi@erols.com",
+         "source": "valid",
+         "to": "<brugen@erols.com>"
+      },
+      {
+         "from": "mary.hain@enron.com",
+         "line": 49,
+         "rawfrom": "Mary.Hain@enron.com\n",
+         "source": "valid",
+         "to": "David_Aamodt@pgn.com, dapnucc@teleport.com, dick@pnucc.org,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hain-m/all_documents/772.",
+   "hops": [
+      {
+         "from": "don.hammond@enron.com",
+         "line": 4,
+         "rawfrom": "don.hammond@enron.com\r\n",
+         "source": "valid",
+         "to": "ed.clark@enron.com, stan.gray@enron.com, mary.hain@enron.com"
+      },
+      {
+         "from": "lluna@nevp.com",
+         "line": 31,
+         "rawfrom": " \"Luna, Larry\" <LLuna@nevp.com>                           03/16/2001 \n",
+         "source": "email",
+         "to": "\"'Don.Hammond@enron.com'\" <Don.Hammond@enron.com>"
+      },
+      {
+         "from": "don.hammond@enron.com",
+         "line": 44,
+         "rawfrom": "Don.Hammond@enron.com [mailto:Don.Hammond@enron.com]\n",
+         "source": "email",
+         "to": "Luna, Larry"
+      },
+      {
+         "from": "lluna@nevp.com",
+         "line": 75,
+         "rawfrom": " \"Luna, Larry\" <LLuna@nevp.com>\n",
+         "source": "email",
+         "to": "\"'don.hammond@enron.com'\" <don.hammond@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hain-m/all_documents/148.",
+   "hops": [
+      {
+         "from": "rrga-l@list.rtowest.org",
+         "line": 4,
+         "rawfrom": "rrga-l@list.rtowest.org\r\n",
+         "source": "valid",
+         "to": "rrga-l@list.rtowest.org"
+      },
+      {
+         "from": "nnicke@puget.com",
+         "line": 26,
+         "rawfrom": "\"Nickeson-Moore, Nikki\" <NNicke@PUGET.COM>\n",
+         "source": "email",
+         "to": "<RRGA-L@LIST.RTOWEST.ORG>"
+      },
+      {
+         "from": "kadalia@bpa.gov",
+         "line": 36,
+         "rawfrom": "        Dalia, Keith A - TOS-DITT1[SMTP:kadalia@BPA.GOV]\n",
+         "source": "email",
+         "to": "RTO West Regional Representatives Group"
+      },
+      {
+         "from": "kadalia@bpa.gov",
+         "line": 38,
+         "rawfrom": "kadalia@BPA.GOV",
+         "source": "valid",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hain-m/all_documents/140.",
+   "hops": [
+      {
+         "from": "rrga-l@list.rtowest.org",
+         "line": 4,
+         "rawfrom": "rrga-l@list.rtowest.org\r\n",
+         "source": "valid",
+         "to": "rrga-l@list.rtowest.org"
+      },
+      {
+         "from": "sdleonard@earthlink.net",
+         "line": 25,
+         "rawfrom": "\"Sarah Dennison-Leonard\" <sdleonard@EARTHLINK.NET>\n",
+         "source": "email",
+         "to": "<RRGA-L@LIST.RTOWEST.ORG>"
+      },
+      {
+         "from": "jack.pyburn@mirant.com",
+         "line": 39,
+         "rawfrom": "\"Pyburn, Jack R.\" <jack.pyburn@MIRANT.COM>\n",
+         "source": "email",
+         "to": "<RRGA-L@LIST.RTOWEST.ORG>"
+      },
+      {
+         "from": "kadalia@bpa.gov",
+         "line": 59,
+         "rawfrom": "Dalia, Keith A - TOS-DITT1 [mailto:kadalia@BPA.GOV]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hain-m/all_documents/129.",
+   "hops": [
+      {
+         "from": "rrga-l@list.rtowest.org",
+         "line": 4,
+         "rawfrom": "rrga-l@list.rtowest.org\r\n",
+         "source": "valid",
+         "to": "rrga-l@list.rtowest.org"
+      },
+      {
+         "from": "gerry.garnett@bchydro.bc.ca",
+         "line": 22,
+         "rawfrom": "Garnett, Gerry [mailto:Gerry.Garnett@BCHYDRO.BC.CA]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      },
+      {
+         "from": "mschaff@worldnet.att.net",
+         "line": 44,
+         "rawfrom": " Margaret Schaff [SMTP:mschaff@WORLDNET.ATT.NET]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      },
+      {
+         "from": "sdleonard@earthlink.net",
+         "line": 54,
+         "rawfrom": "\"Sarah Dennison-Leonard\" <sdleonard@EARTHLINK.NET>\n",
+         "source": "email",
+         "to": "<RRGA-L@LIST.RTOWEST.ORG>"
+      },
+      {
+         "from": "jack.pyburn@mirant.com",
+         "line": 68,
+         "rawfrom": "\"Pyburn, Jack R.\" <jack.pyburn@MIRANT.COM>\n",
+         "source": "email",
+         "to": "<RRGA-L@LIST.RTOWEST.ORG>"
+      },
+      {
+         "from": "kadalia@bpa.gov",
+         "line": 88,
+         "rawfrom": "Dalia, Keith A - TOS-DITT1 [mailto:kadalia@BPA.GOV]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hain-m/notes_inbox/127.",
+   "hops": [
+      {
+         "from": "rrga-l@list.rtowest.org",
+         "line": 4,
+         "rawfrom": "rrga-l@list.rtowest.org\r\n",
+         "source": "valid",
+         "to": "rrga-l@list.rtowest.org"
+      },
+      {
+         "from": "dwphillips@bpa.gov",
+         "line": 23,
+         "rawfrom": "Phillips, Dennis - PSP-5 [mailto:dwphillips@BPA.GOV]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      },
+      {
+         "from": "gerry.garnett@bchydro.bc.ca",
+         "line": 32,
+         "rawfrom": "Garnett, Gerry [mailto:Gerry.Garnett@BCHYDRO.BC.CA]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      },
+      {
+         "from": "mschaff@worldnet.att.net",
+         "line": 54,
+         "rawfrom": " Margaret Schaff [SMTP:mschaff@WORLDNET.ATT.NET]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      },
+      {
+         "from": "sdleonard@earthlink.net",
+         "line": 64,
+         "rawfrom": "\"Sarah Dennison-Leonard\" <sdleonard@EARTHLINK.NET>\n",
+         "source": "email",
+         "to": "<RRGA-L@LIST.RTOWEST.ORG>"
+      },
+      {
+         "from": "jack.pyburn@mirant.com",
+         "line": 78,
+         "rawfrom": "\"Pyburn, Jack R.\" <jack.pyburn@MIRANT.COM>\n",
+         "source": "email",
+         "to": "<RRGA-L@LIST.RTOWEST.ORG>"
+      },
+      {
+         "from": "kadalia@bpa.gov",
+         "line": 98,
+         "rawfrom": "Dalia, Keith A - TOS-DITT1 [mailto:kadalia@BPA.GOV]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hain-m/notes_inbox/548.",
+   "hops": [
+      {
+         "from": "jeff.shields@enron.com",
+         "line": 4,
+         "rawfrom": "jeff.shields@enron.com\r\n",
+         "source": "valid",
+         "to": "mary.hain@enron.com"
+      },
+      {
+         "from": "rbbennett@bpa.gov",
+         "line": 34,
+         "rawfrom": "\"Bennett, Ruth - TM-DITT1\" <rbbennett@bpa.gov>\n",
+         "source": "email",
+         "to": "\"'jeffshields@enron.com'\" <jeffshields@enron.com>"
+      },
+      {
+         "from": "mailer-daemon@bpa.gov",
+         "line": 47,
+         "rawfrom": "Mail Delivery Subsystem [mailto:mailer-daemon@bpa.gov]\n",
+         "source": "email",
+         "to": "rbbennett@bpa.gov"
+      },
+      {
+         "from": "jeff.shield@enron.com",
+         "line": 59,
+         "rawfrom": "jeff.shield@enron.com",
+         "source": "valid",
+         "to": "<jeff.shield@enron.com>"
+      },
+      {
+         "from": "rbbennett@bpa.gov",
+         "line": 68,
+         "rawfrom": "\"Bennett, Ruth - TM-DITT1\" <rbbennett@bpa.gov>\n",
+         "source": "email",
+         "to": "\"'jeff.shield@enron.com'\" <jeff.shield@enron.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/hain-m/notes_inbox/133.",
+   "hops": [
+      {
+         "from": "rrga-l@list.rtowest.org",
+         "line": 4,
+         "rawfrom": "rrga-l@list.rtowest.org\r\n",
+         "source": "valid",
+         "to": "rrga-l@list.rtowest.org"
+      },
+      {
+         "from": "mschaff@worldnet.att.net",
+         "line": 35,
+         "rawfrom": " Margaret Schaff [SMTP:mschaff@WORLDNET.ATT.NET]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      },
+      {
+         "from": "sdleonard@earthlink.net",
+         "line": 45,
+         "rawfrom": "\"Sarah Dennison-Leonard\" <sdleonard@EARTHLINK.NET>\n",
+         "source": "email",
+         "to": "<RRGA-L@LIST.RTOWEST.ORG>"
+      },
+      {
+         "from": "jack.pyburn@mirant.com",
+         "line": 59,
+         "rawfrom": "\"Pyburn, Jack R.\" <jack.pyburn@MIRANT.COM>\n",
+         "source": "email",
+         "to": "<RRGA-L@LIST.RTOWEST.ORG>"
+      },
+      {
+         "from": "kadalia@bpa.gov",
+         "line": 79,
+         "rawfrom": "Dalia, Keith A - TOS-DITT1 [mailto:kadalia@BPA.GOV]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hain-m/notes_inbox/148.",
+   "hops": [
+      {
+         "from": "rrga-l@list.rtowest.org",
+         "line": 4,
+         "rawfrom": "rrga-l@list.rtowest.org\r\n",
+         "source": "valid",
+         "to": "rrga-l@list.rtowest.org"
+      },
+      {
+         "from": "nnicke@puget.com",
+         "line": 26,
+         "rawfrom": "\"Nickeson-Moore, Nikki\" <NNicke@PUGET.COM>\n",
+         "source": "email",
+         "to": "<RRGA-L@LIST.RTOWEST.ORG>"
+      },
+      {
+         "from": "kadalia@bpa.gov",
+         "line": 36,
+         "rawfrom": "        Dalia, Keith A - TOS-DITT1[SMTP:kadalia@BPA.GOV]\n",
+         "source": "email",
+         "to": "RTO West Regional Representatives Group"
+      },
+      {
+         "from": "kadalia@bpa.gov",
+         "line": 38,
+         "rawfrom": "kadalia@BPA.GOV",
+         "source": "valid",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hain-m/notes_inbox/661.",
+   "hops": [
+      {
+         "from": "don.hammond@enron.com",
+         "line": 4,
+         "rawfrom": "don.hammond@enron.com\r\n",
+         "source": "valid",
+         "to": "ed.clark@enron.com, stan.gray@enron.com, mary.hain@enron.com"
+      },
+      {
+         "from": "lluna@nevp.com",
+         "line": 31,
+         "rawfrom": " \"Luna, Larry\" <LLuna@nevp.com>                           03/16/2001 \n",
+         "source": "email",
+         "to": "\"'Don.Hammond@enron.com'\" <Don.Hammond@enron.com>"
+      },
+      {
+         "from": "don.hammond@enron.com",
+         "line": 44,
+         "rawfrom": "Don.Hammond@enron.com [mailto:Don.Hammond@enron.com]\n",
+         "source": "email",
+         "to": "Luna, Larry"
+      },
+      {
+         "from": "lluna@nevp.com",
+         "line": 75,
+         "rawfrom": " \"Luna, Larry\" <LLuna@nevp.com>\n",
+         "source": "email",
+         "to": "\"'don.hammond@enron.com'\" <don.hammond@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hain-m/notes_inbox/450.",
+   "hops": [
+      {
+         "from": "mailer-daemon@postmaster.enron.com",
+         "line": 4,
+         "rawfrom": "mailer-daemon@postmaster.enron.com\r\n",
+         "source": "valid",
+         "to": "mary.hain@enron.com"
+      },
+      {
+         "from": "brugen@erols.com",
+         "line": 26,
+         "rawfrom": "brugen@erols.com",
+         "source": "valid",
+         "to": "<peterroi@erols.com>"
+      },
+      {
+         "from": "peterroi@erols.com",
+         "line": 29,
+         "rawfrom": "peterroi@erols.com",
+         "source": "valid",
+         "to": "<brugen@erols.com>"
+      },
+      {
+         "from": "mary.hain@enron.com",
+         "line": 49,
+         "rawfrom": "Mary.Hain@enron.com\n",
+         "source": "valid",
+         "to": "David_Aamodt@pgn.com, dapnucc@teleport.com, dick@pnucc.org,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hain-m/notes_inbox/444.",
+   "hops": [
+      {
+         "from": "mailer-daemon@aol.com",
+         "line": 4,
+         "rawfrom": "mailer-daemon@aol.com\r\n",
+         "source": "valid",
+         "to": "mary.hain@enron.com"
+      },
+      {
+         "from": "imaxtrans@aol.com",
+         "line": 48,
+         "rawfrom": "imaxtrans@aol.com",
+         "source": "valid",
+         "to": "<powerlac@aol.com>"
+      },
+      {
+         "from": "powerlac@aol.com",
+         "line": 51,
+         "rawfrom": "powerlac@aol.com",
+         "source": "valid",
+         "to": "<imaxtrans@aol.com>"
+      },
+      {
+         "from": "powerlac@aol.com",
+         "line": 54,
+         "rawfrom": "powerlac@aol.com",
+         "source": "valid",
+         "to": "<mhornst@aol.com>"
+      },
+      {
+         "from": "mary.hain@enron.com",
+         "line": 73,
+         "rawfrom": "Mary.Hain@enron.com\n",
+         "source": "valid",
+         "to": "David_Aamodt@pgn.com, dapnucc@teleport.com, dick@pnucc.org,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hain-m/notes_inbox/140.",
+   "hops": [
+      {
+         "from": "rrga-l@list.rtowest.org",
+         "line": 4,
+         "rawfrom": "rrga-l@list.rtowest.org\r\n",
+         "source": "valid",
+         "to": "rrga-l@list.rtowest.org"
+      },
+      {
+         "from": "sdleonard@earthlink.net",
+         "line": 25,
+         "rawfrom": "\"Sarah Dennison-Leonard\" <sdleonard@EARTHLINK.NET>\n",
+         "source": "email",
+         "to": "<RRGA-L@LIST.RTOWEST.ORG>"
+      },
+      {
+         "from": "jack.pyburn@mirant.com",
+         "line": 39,
+         "rawfrom": "\"Pyburn, Jack R.\" <jack.pyburn@MIRANT.COM>\n",
+         "source": "email",
+         "to": "<RRGA-L@LIST.RTOWEST.ORG>"
+      },
+      {
+         "from": "kadalia@bpa.gov",
+         "line": 59,
+         "rawfrom": "Dalia, Keith A - TOS-DITT1 [mailto:kadalia@BPA.GOV]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hain-m/notes_inbox/129.",
+   "hops": [
+      {
+         "from": "rrga-l@list.rtowest.org",
+         "line": 4,
+         "rawfrom": "rrga-l@list.rtowest.org\r\n",
+         "source": "valid",
+         "to": "rrga-l@list.rtowest.org"
+      },
+      {
+         "from": "gerry.garnett@bchydro.bc.ca",
+         "line": 22,
+         "rawfrom": "Garnett, Gerry [mailto:Gerry.Garnett@BCHYDRO.BC.CA]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      },
+      {
+         "from": "mschaff@worldnet.att.net",
+         "line": 44,
+         "rawfrom": " Margaret Schaff [SMTP:mschaff@WORLDNET.ATT.NET]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      },
+      {
+         "from": "sdleonard@earthlink.net",
+         "line": 54,
+         "rawfrom": "\"Sarah Dennison-Leonard\" <sdleonard@EARTHLINK.NET>\n",
+         "source": "email",
+         "to": "<RRGA-L@LIST.RTOWEST.ORG>"
+      },
+      {
+         "from": "jack.pyburn@mirant.com",
+         "line": 68,
+         "rawfrom": "\"Pyburn, Jack R.\" <jack.pyburn@MIRANT.COM>\n",
+         "source": "email",
+         "to": "<RRGA-L@LIST.RTOWEST.ORG>"
+      },
+      {
+         "from": "kadalia@bpa.gov",
+         "line": 88,
+         "rawfrom": "Dalia, Keith A - TOS-DITT1 [mailto:kadalia@BPA.GOV]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hain-m/discussion_threads/499.",
+   "hops": [
+      {
+         "from": "don.hammond@enron.com",
+         "line": 4,
+         "rawfrom": "don.hammond@enron.com\r\n",
+         "source": "valid",
+         "to": "ed.clark@enron.com, stan.gray@enron.com, mary.hain@enron.com"
+      },
+      {
+         "from": "lluna@nevp.com",
+         "line": 31,
+         "rawfrom": " \"Luna, Larry\" <LLuna@nevp.com>                           03/16/2001 \n",
+         "source": "email",
+         "to": "\"'Don.Hammond@enron.com'\" <Don.Hammond@enron.com>"
+      },
+      {
+         "from": "don.hammond@enron.com",
+         "line": 44,
+         "rawfrom": "Don.Hammond@enron.com [mailto:Don.Hammond@enron.com]\n",
+         "source": "email",
+         "to": "Luna, Larry"
+      },
+      {
+         "from": "lluna@nevp.com",
+         "line": 75,
+         "rawfrom": " \"Luna, Larry\" <LLuna@nevp.com>\n",
+         "source": "email",
+         "to": "\"'don.hammond@enron.com'\" <don.hammond@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hain-m/discussion_threads/1113.",
+   "hops": [
+      {
+         "from": "rrga-l@list.rtowest.org",
+         "line": 4,
+         "rawfrom": "rrga-l@list.rtowest.org\r\n",
+         "source": "valid",
+         "to": "rrga-l@list.rtowest.org"
+      },
+      {
+         "from": "dwphillips@bpa.gov",
+         "line": 23,
+         "rawfrom": "Phillips, Dennis - PSP-5 [mailto:dwphillips@BPA.GOV]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      },
+      {
+         "from": "gerry.garnett@bchydro.bc.ca",
+         "line": 32,
+         "rawfrom": "Garnett, Gerry [mailto:Gerry.Garnett@BCHYDRO.BC.CA]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      },
+      {
+         "from": "mschaff@worldnet.att.net",
+         "line": 54,
+         "rawfrom": " Margaret Schaff [SMTP:mschaff@WORLDNET.ATT.NET]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      },
+      {
+         "from": "sdleonard@earthlink.net",
+         "line": 64,
+         "rawfrom": "\"Sarah Dennison-Leonard\" <sdleonard@EARTHLINK.NET>\n",
+         "source": "email",
+         "to": "<RRGA-L@LIST.RTOWEST.ORG>"
+      },
+      {
+         "from": "jack.pyburn@mirant.com",
+         "line": 78,
+         "rawfrom": "\"Pyburn, Jack R.\" <jack.pyburn@MIRANT.COM>\n",
+         "source": "email",
+         "to": "<RRGA-L@LIST.RTOWEST.ORG>"
+      },
+      {
+         "from": "kadalia@bpa.gov",
+         "line": 98,
+         "rawfrom": "Dalia, Keith A - TOS-DITT1 [mailto:kadalia@BPA.GOV]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hain-m/discussion_threads/621.",
+   "hops": [
+      {
+         "from": "jeff.shields@enron.com",
+         "line": 4,
+         "rawfrom": "jeff.shields@enron.com\r\n",
+         "source": "valid",
+         "to": "mary.hain@enron.com"
+      },
+      {
+         "from": "rbbennett@bpa.gov",
+         "line": 34,
+         "rawfrom": "\"Bennett, Ruth - TM-DITT1\" <rbbennett@bpa.gov>\n",
+         "source": "email",
+         "to": "\"'jeffshields@enron.com'\" <jeffshields@enron.com>"
+      },
+      {
+         "from": "mailer-daemon@bpa.gov",
+         "line": 47,
+         "rawfrom": "Mail Delivery Subsystem [mailto:mailer-daemon@bpa.gov]\n",
+         "source": "email",
+         "to": "rbbennett@bpa.gov"
+      },
+      {
+         "from": "jeff.shield@enron.com",
+         "line": 59,
+         "rawfrom": "jeff.shield@enron.com",
+         "source": "valid",
+         "to": "<jeff.shield@enron.com>"
+      },
+      {
+         "from": "rbbennett@bpa.gov",
+         "line": 68,
+         "rawfrom": "\"Bennett, Ruth - TM-DITT1\" <rbbennett@bpa.gov>\n",
+         "source": "email",
+         "to": "\"'jeff.shield@enron.com'\" <jeff.shield@enron.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/hain-m/discussion_threads/740.",
+   "hops": [
+      {
+         "from": "mailer-daemon@aol.com",
+         "line": 4,
+         "rawfrom": "mailer-daemon@aol.com\r\n",
+         "source": "valid",
+         "to": "mary.hain@enron.com"
+      },
+      {
+         "from": "imaxtrans@aol.com",
+         "line": 48,
+         "rawfrom": "imaxtrans@aol.com",
+         "source": "valid",
+         "to": "<powerlac@aol.com>"
+      },
+      {
+         "from": "powerlac@aol.com",
+         "line": 51,
+         "rawfrom": "powerlac@aol.com",
+         "source": "valid",
+         "to": "<imaxtrans@aol.com>"
+      },
+      {
+         "from": "powerlac@aol.com",
+         "line": 54,
+         "rawfrom": "powerlac@aol.com",
+         "source": "valid",
+         "to": "<mhornst@aol.com>"
+      },
+      {
+         "from": "mary.hain@enron.com",
+         "line": 73,
+         "rawfrom": "Mary.Hain@enron.com\n",
+         "source": "valid",
+         "to": "David_Aamodt@pgn.com, dapnucc@teleport.com, dick@pnucc.org,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hain-m/discussion_threads/1092.",
+   "hops": [
+      {
+         "from": "rrga-l@list.rtowest.org",
+         "line": 4,
+         "rawfrom": "rrga-l@list.rtowest.org\r\n",
+         "source": "valid",
+         "to": "rrga-l@list.rtowest.org"
+      },
+      {
+         "from": "nnicke@puget.com",
+         "line": 26,
+         "rawfrom": "\"Nickeson-Moore, Nikki\" <NNicke@PUGET.COM>\n",
+         "source": "email",
+         "to": "<RRGA-L@LIST.RTOWEST.ORG>"
+      },
+      {
+         "from": "kadalia@bpa.gov",
+         "line": 36,
+         "rawfrom": "        Dalia, Keith A - TOS-DITT1[SMTP:kadalia@BPA.GOV]\n",
+         "source": "email",
+         "to": "RTO West Regional Representatives Group"
+      },
+      {
+         "from": "kadalia@bpa.gov",
+         "line": 38,
+         "rawfrom": "kadalia@BPA.GOV",
+         "source": "valid",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hain-m/discussion_threads/1107.",
+   "hops": [
+      {
+         "from": "rrga-l@list.rtowest.org",
+         "line": 4,
+         "rawfrom": "rrga-l@list.rtowest.org\r\n",
+         "source": "valid",
+         "to": "rrga-l@list.rtowest.org"
+      },
+      {
+         "from": "mschaff@worldnet.att.net",
+         "line": 35,
+         "rawfrom": " Margaret Schaff [SMTP:mschaff@WORLDNET.ATT.NET]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      },
+      {
+         "from": "sdleonard@earthlink.net",
+         "line": 45,
+         "rawfrom": "\"Sarah Dennison-Leonard\" <sdleonard@EARTHLINK.NET>\n",
+         "source": "email",
+         "to": "<RRGA-L@LIST.RTOWEST.ORG>"
+      },
+      {
+         "from": "jack.pyburn@mirant.com",
+         "line": 59,
+         "rawfrom": "\"Pyburn, Jack R.\" <jack.pyburn@MIRANT.COM>\n",
+         "source": "email",
+         "to": "<RRGA-L@LIST.RTOWEST.ORG>"
+      },
+      {
+         "from": "kadalia@bpa.gov",
+         "line": 79,
+         "rawfrom": "Dalia, Keith A - TOS-DITT1 [mailto:kadalia@BPA.GOV]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hain-m/discussion_threads/732.",
+   "hops": [
+      {
+         "from": "mailer-daemon@postmaster.enron.com",
+         "line": 4,
+         "rawfrom": "mailer-daemon@postmaster.enron.com\r\n",
+         "source": "valid",
+         "to": "mary.hain@enron.com"
+      },
+      {
+         "from": "brugen@erols.com",
+         "line": 26,
+         "rawfrom": "brugen@erols.com",
+         "source": "valid",
+         "to": "<peterroi@erols.com>"
+      },
+      {
+         "from": "peterroi@erols.com",
+         "line": 29,
+         "rawfrom": "peterroi@erols.com",
+         "source": "valid",
+         "to": "<brugen@erols.com>"
+      },
+      {
+         "from": "mary.hain@enron.com",
+         "line": 49,
+         "rawfrom": "Mary.Hain@enron.com\n",
+         "source": "valid",
+         "to": "David_Aamodt@pgn.com, dapnucc@teleport.com, dick@pnucc.org,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hain-m/discussion_threads/1111.",
+   "hops": [
+      {
+         "from": "rrga-l@list.rtowest.org",
+         "line": 4,
+         "rawfrom": "rrga-l@list.rtowest.org\r\n",
+         "source": "valid",
+         "to": "rrga-l@list.rtowest.org"
+      },
+      {
+         "from": "gerry.garnett@bchydro.bc.ca",
+         "line": 22,
+         "rawfrom": "Garnett, Gerry [mailto:Gerry.Garnett@BCHYDRO.BC.CA]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      },
+      {
+         "from": "mschaff@worldnet.att.net",
+         "line": 44,
+         "rawfrom": " Margaret Schaff [SMTP:mschaff@WORLDNET.ATT.NET]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      },
+      {
+         "from": "sdleonard@earthlink.net",
+         "line": 54,
+         "rawfrom": "\"Sarah Dennison-Leonard\" <sdleonard@EARTHLINK.NET>\n",
+         "source": "email",
+         "to": "<RRGA-L@LIST.RTOWEST.ORG>"
+      },
+      {
+         "from": "jack.pyburn@mirant.com",
+         "line": 68,
+         "rawfrom": "\"Pyburn, Jack R.\" <jack.pyburn@MIRANT.COM>\n",
+         "source": "email",
+         "to": "<RRGA-L@LIST.RTOWEST.ORG>"
+      },
+      {
+         "from": "kadalia@bpa.gov",
+         "line": 88,
+         "rawfrom": "Dalia, Keith A - TOS-DITT1 [mailto:kadalia@BPA.GOV]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hain-m/discussion_threads/1100.",
+   "hops": [
+      {
+         "from": "rrga-l@list.rtowest.org",
+         "line": 4,
+         "rawfrom": "rrga-l@list.rtowest.org\r\n",
+         "source": "valid",
+         "to": "rrga-l@list.rtowest.org"
+      },
+      {
+         "from": "sdleonard@earthlink.net",
+         "line": 25,
+         "rawfrom": "\"Sarah Dennison-Leonard\" <sdleonard@EARTHLINK.NET>\n",
+         "source": "email",
+         "to": "<RRGA-L@LIST.RTOWEST.ORG>"
+      },
+      {
+         "from": "jack.pyburn@mirant.com",
+         "line": 39,
+         "rawfrom": "\"Pyburn, Jack R.\" <jack.pyburn@MIRANT.COM>\n",
+         "source": "email",
+         "to": "<RRGA-L@LIST.RTOWEST.ORG>"
+      },
+      {
+         "from": "kadalia@bpa.gov",
+         "line": 59,
+         "rawfrom": "Dalia, Keith A - TOS-DITT1 [mailto:kadalia@BPA.GOV]\n",
+         "source": "email",
+         "to": "RRGA-L@LIST.RTOWEST.ORG"
+      }
+   ],
+   "skipped": 0
+}
+]

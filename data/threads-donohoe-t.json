@@ -1,0 +1,351 @@
+[
+{
+   "file": "/home/jb/maildir/donohoe-t/inbox/42.",
+   "hops": [
+      {
+         "from": "dan.masters@enron.com",
+         "line": 4,
+         "rawfrom": "dan.masters@enron.com\r\n",
+         "source": "valid",
+         "to": "tom.donohoe@enron.com"
+      },
+      {
+         "from": "dan.masters@enron.com",
+         "line": 70,
+         "rawfrom": "Dan.Masters@enron.com on 04/06/2001 05:43:24 PM\n",
+         "source": "email",
+         "to": "Tammy.Gilmore@enron.com"
+      },
+      {
+         "from": "dabradbury@cmsenergy.com",
+         "line": 109,
+         "rawfrom": "\"Debbie A. Bradbury\" <dabradbury@cmsenergy.com> on 04/06/2001 02:07:43 PM\n",
+         "source": "email",
+         "to": "\"Dan.Masters\" <Dan.Masters@enron.com>"
+      },
+      {
+         "from": "dan.masters@enron.com",
+         "line": 126,
+         "rawfrom": "Dan.Masters@enron.com on 04/03/2001 01:08:52 PM\n",
+         "source": "email",
+         "to": "Tammy.Gilmore@enron.com"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/donohoe-t/inbox/41.",
+   "hops": [
+      {
+         "from": "40ect@enron.com",
+         "line": 23,
+         "rawfrom": "40ect@enron.com\r\n",
+         "source": "valid",
+         "to": "Tammy Gilmore/NA/Enron@ENRON"
+      },
+      {
+         "from": "dan.masters@enron.com",
+         "line": 52,
+         "rawfrom": "Dan.Masters@enron.com on 04/06/2001 05:43:24 PM\n",
+         "source": "email",
+         "to": "Tammy.Gilmore@enron.com"
+      },
+      {
+         "from": "dabradbury@cmsenergy.com",
+         "line": 91,
+         "rawfrom": "\"Debbie A. Bradbury\" <dabradbury@cmsenergy.com> on 04/06/2001 02:07:43 PM\n",
+         "source": "email",
+         "to": "\"Dan.Masters\" <Dan.Masters@enron.com>"
+      },
+      {
+         "from": "dan.masters@enron.com",
+         "line": 108,
+         "rawfrom": "Dan.Masters@enron.com on 04/03/2001 01:08:52 PM\n",
+         "source": "email",
+         "to": "Tammy.Gilmore@enron.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/donohoe-t/all_documents/76.",
+   "hops": [
+      {
+         "from": "mark.schrab@enron.com",
+         "line": 4,
+         "rawfrom": "mark.schrab@enron.com\r\n",
+         "source": "valid",
+         "to": "tom.donohoe@enron.com"
+      },
+      {
+         "from": "tjones@spinexp.com",
+         "line": 37,
+         "rawfrom": "Tom Jones <tjones@spinexp.com>\n",
+         "source": "email",
+         "to": "\"William Young III (E-mail)\" <billyoung3@aol.com>"
+      },
+      {
+         "from": "wmcdougle@spinexp.com",
+         "line": 104,
+         "rawfrom": "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "source": "email",
+         "to": "\"'Tom'\" <tjones@spinexp.com>, \"'Gary @ Home'\" <gaphouma@aol.com>,"
+      },
+      {
+         "from": "wmcdougle@spinexp.com",
+         "line": 144,
+         "rawfrom": "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "source": "email",
+         "to": "\"'Bill'\" <billyoung3@aol.com>, \"'Gary'\" <garyp@spinexp.com>,"
+      },
+      {
+         "from": "wmcdougle@spinexp.com",
+         "line": 182,
+         "rawfrom": "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "source": "email",
+         "to": "\"'Gary'\" <garyp@spinexp.com>, \"'Bill'\" <billyoung3@aol.com>"
+      },
+      {
+         "from": "wmcdougle@spinexp.com",
+         "line": 243,
+         "rawfrom": "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "source": "email",
+         "to": "\"'Gary'\" <garyp@spinexp.com>, \"'Bill'\" <billyoung3@aol.com>"
+      },
+      {
+         "from": "garyp@spinexp.com",
+         "line": 295,
+         "rawfrom": "Gary Pierce <garyp@spinexp.com>\n",
+         "source": "email",
+         "to": "\"'Billyoung3@aol.com'\" <Billyoung3@aol.com>"
+      },
+      {
+         "from": "billyoung3@aol.com",
+         "line": 320,
+         "rawfrom": "Billyoung3@aol.com  \n",
+         "source": "valid",
+         "to": "wmcdougle@spinexp.com; Garyp@spinexp.com"
+      },
+      {
+         "from": "wmcdougle@spinexp.com",
+         "line": 347,
+         "rawfrom": "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "source": "email",
+         "to": "\"'Bill'\" <billyoung3@aol.com>, \"'Gary'\" <garyp@spinexp.com>,"
+      }
+   ],
+   "skipped": 12
+}
+,
+{
+   "file": "/home/jb/maildir/donohoe-t/notes_inbox/76.",
+   "hops": [
+      {
+         "from": "mark.schrab@enron.com",
+         "line": 4,
+         "rawfrom": "mark.schrab@enron.com\r\n",
+         "source": "valid",
+         "to": "tom.donohoe@enron.com"
+      },
+      {
+         "from": "tjones@spinexp.com",
+         "line": 37,
+         "rawfrom": "Tom Jones <tjones@spinexp.com>\n",
+         "source": "email",
+         "to": "\"William Young III (E-mail)\" <billyoung3@aol.com>"
+      },
+      {
+         "from": "wmcdougle@spinexp.com",
+         "line": 104,
+         "rawfrom": "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "source": "email",
+         "to": "\"'Tom'\" <tjones@spinexp.com>, \"'Gary @ Home'\" <gaphouma@aol.com>,"
+      },
+      {
+         "from": "wmcdougle@spinexp.com",
+         "line": 144,
+         "rawfrom": "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "source": "email",
+         "to": "\"'Bill'\" <billyoung3@aol.com>, \"'Gary'\" <garyp@spinexp.com>,"
+      },
+      {
+         "from": "wmcdougle@spinexp.com",
+         "line": 182,
+         "rawfrom": "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "source": "email",
+         "to": "\"'Gary'\" <garyp@spinexp.com>, \"'Bill'\" <billyoung3@aol.com>"
+      },
+      {
+         "from": "wmcdougle@spinexp.com",
+         "line": 243,
+         "rawfrom": "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "source": "email",
+         "to": "\"'Gary'\" <garyp@spinexp.com>, \"'Bill'\" <billyoung3@aol.com>"
+      },
+      {
+         "from": "garyp@spinexp.com",
+         "line": 295,
+         "rawfrom": "Gary Pierce <garyp@spinexp.com>\n",
+         "source": "email",
+         "to": "\"'Billyoung3@aol.com'\" <Billyoung3@aol.com>"
+      },
+      {
+         "from": "billyoung3@aol.com",
+         "line": 320,
+         "rawfrom": "Billyoung3@aol.com  \n",
+         "source": "valid",
+         "to": "wmcdougle@spinexp.com; Garyp@spinexp.com"
+      },
+      {
+         "from": "wmcdougle@spinexp.com",
+         "line": 347,
+         "rawfrom": "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "source": "email",
+         "to": "\"'Bill'\" <billyoung3@aol.com>, \"'Gary'\" <garyp@spinexp.com>,"
+      }
+   ],
+   "skipped": 12
+}
+,
+{
+   "file": "/home/jb/maildir/donohoe-t/sent_items/5.",
+   "hops": [
+      {
+         "from": "tom.donohoe@enron.com",
+         "line": 4,
+         "rawfrom": "tom.donohoe@enron.com\r\n",
+         "source": "valid",
+         "to": "donnie.myers@enron.com"
+      },
+      {
+         "from": "dan.masters@enron.com",
+         "line": 61,
+         "rawfrom": "Dan.Masters@enron.com on 04/06/2001 05:43:24 PM\n",
+         "source": "email",
+         "to": "Tammy.Gilmore@enron.com"
+      },
+      {
+         "from": "dabradbury@cmsenergy.com",
+         "line": 100,
+         "rawfrom": "\"Debbie A. Bradbury\" <dabradbury@cmsenergy.com> on 04/06/2001 02:07:43 PM\n",
+         "source": "email",
+         "to": "\"Dan.Masters\" <Dan.Masters@enron.com>"
+      },
+      {
+         "from": "dan.masters@enron.com",
+         "line": 117,
+         "rawfrom": "Dan.Masters@enron.com on 04/03/2001 01:08:52 PM\n",
+         "source": "email",
+         "to": "Tammy.Gilmore@enron.com"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/donohoe-t/sent_items/29.",
+   "hops": [
+      {
+         "from": "tom.donohoe@enron.com",
+         "line": 4,
+         "rawfrom": "tom.donohoe@enron.com\r\n",
+         "source": "valid",
+         "to": "todd@mrienergy.com"
+      },
+      {
+         "from": "todd@mrienergy.com",
+         "line": 22,
+         "rawfrom": "todd@mrienergy.com [mailto:todd@mrienergy.com]\n",
+         "source": "email",
+         "to": "Donohoe, Tom"
+      },
+      {
+         "from": "tom.donohoe@enron.com",
+         "line": 31,
+         "rawfrom": "Donohoe, Tom [mailto:Tom.Donohoe@ENRON.com]\n",
+         "source": "email",
+         "to": "todd@mrienergy.com"
+      },
+      {
+         "from": "todd@mrienergy.com",
+         "line": 41,
+         "rawfrom": "todd@mrienergy.com [mailto:todd@mrienergy.com]\n",
+         "source": "email",
+         "to": "Donohoe, Tom"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/donohoe-t/discussion_threads/109.",
+   "hops": [
+      {
+         "from": "mark.schrab@enron.com",
+         "line": 4,
+         "rawfrom": "mark.schrab@enron.com\r\n",
+         "source": "valid",
+         "to": "tom.donohoe@enron.com"
+      },
+      {
+         "from": "tjones@spinexp.com",
+         "line": 37,
+         "rawfrom": "Tom Jones <tjones@spinexp.com>\n",
+         "source": "email",
+         "to": "\"William Young III (E-mail)\" <billyoung3@aol.com>"
+      },
+      {
+         "from": "wmcdougle@spinexp.com",
+         "line": 104,
+         "rawfrom": "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "source": "email",
+         "to": "\"'Tom'\" <tjones@spinexp.com>, \"'Gary @ Home'\" <gaphouma@aol.com>,"
+      },
+      {
+         "from": "wmcdougle@spinexp.com",
+         "line": 144,
+         "rawfrom": "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "source": "email",
+         "to": "\"'Bill'\" <billyoung3@aol.com>, \"'Gary'\" <garyp@spinexp.com>,"
+      },
+      {
+         "from": "wmcdougle@spinexp.com",
+         "line": 182,
+         "rawfrom": "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "source": "email",
+         "to": "\"'Gary'\" <garyp@spinexp.com>, \"'Bill'\" <billyoung3@aol.com>"
+      },
+      {
+         "from": "wmcdougle@spinexp.com",
+         "line": 243,
+         "rawfrom": "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "source": "email",
+         "to": "\"'Gary'\" <garyp@spinexp.com>, \"'Bill'\" <billyoung3@aol.com>"
+      },
+      {
+         "from": "garyp@spinexp.com",
+         "line": 295,
+         "rawfrom": "Gary Pierce <garyp@spinexp.com>\n",
+         "source": "email",
+         "to": "\"'Billyoung3@aol.com'\" <Billyoung3@aol.com>"
+      },
+      {
+         "from": "billyoung3@aol.com",
+         "line": 320,
+         "rawfrom": "Billyoung3@aol.com  \n",
+         "source": "valid",
+         "to": "wmcdougle@spinexp.com; Garyp@spinexp.com"
+      },
+      {
+         "from": "wmcdougle@spinexp.com",
+         "line": 347,
+         "rawfrom": "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "source": "email",
+         "to": "\"'Bill'\" <billyoung3@aol.com>, \"'Gary'\" <garyp@spinexp.com>,"
+      }
+   ],
+   "skipped": 12
+}
+]

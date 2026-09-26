@@ -1,0 +1,1429 @@
+[
+{
+   "file": "/home/jb/maildir/steffes-j/inbox/313.",
+   "hops": [
+      {
+         "from": "smerz@mreconsulting.com",
+         "line": 4,
+         "rawfrom": "smerz@mreconsulting.com\r\n",
+         "source": "valid",
+         "to": "d..steffes@enron.com"
+      },
+      {
+         "from": "james.d.steffes@enron.com",
+         "line": 28,
+         "rawfrom": "James.D.Steffes@enron.com [mailto:James.D.Steffes@enron.com]\n",
+         "source": "email",
+         "to": "smerz@mreconsulting.com"
+      },
+      {
+         "from": "smerz@mreconsulting.com",
+         "line": 39,
+         "rawfrom": "  \"Shane Merz\" <smerz@mreconsulting.com>@ENRON\n",
+         "source": "email",
+         "to": "Steffes, James D."
+      },
+      {
+         "from": "james.d.steffes@enron.com",
+         "line": 49,
+         "rawfrom": "Steffes, James D. [mailto:James.D.Steffes@enron.com]\n",
+         "source": "email",
+         "to": "smerz@mreconsulting.com"
+      },
+      {
+         "from": "smerz@mreconsulting.com",
+         "line": 60,
+         "rawfrom": "     \"Shane Merz\" <smerz@mreconsulting.com>@ENRON\n",
+         "source": "email",
+         "to": "Steffes, James D."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/inbox/281.",
+   "hops": [
+      {
+         "from": "susan.mara@enron.com",
+         "line": 4,
+         "rawfrom": "susan.mara@enron.com\r\n",
+         "source": "valid",
+         "to": "tom.riley@enron.com, diann.huddleson@enron.com"
+      },
+      {
+         "from": "heckmat@sutterhealth.org",
+         "line": 71,
+         "rawfrom": "> From:\t\"Heckmann, Thomas\" <HeckmaT@sutterhealth.org>@ENRON@EES \n",
+         "source": "email",
+         "to": "'Lee, Rod'"
+      },
+      {
+         "from": "rzl1@pge.com",
+         "line": 104,
+         "rawfrom": "> \tFrom:\tLee, Rod [SMTP:RZL1@pge.com]\n",
+         "source": "email",
+         "to": "'Heckmann, Thomas'"
+      },
+      {
+         "from": "heckmat@sutterhealth.org",
+         "line": 136,
+         "rawfrom": "Heckmann, Thomas [ mailto:HeckmaT@sutterhealth.org\n",
+         "source": "email",
+         "to": "Lee, Rod"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/inbox/13.",
+   "hops": [
+      {
+         "from": "patrick.keene@enron.com",
+         "line": 4,
+         "rawfrom": "patrick.keene@enron.com\r\n",
+         "source": "valid",
+         "to": "d..steffes@enron.com"
+      },
+      {
+         "from": "bdrinkwater@mcdonaldcarano.com",
+         "line": 63,
+         "rawfrom": "\t\"Bonnie Drinkwater\" <bdrinkwater@Mcdonaldcarano.com>@ENRON  \n",
+         "source": "email",
+         "to": "Keene, Patrick; Kaufman, Paul"
+      },
+      {
+         "from": "patrick.keene@enron.com",
+         "line": 78,
+         "rawfrom": "Keene, Patrick [mailto:Patrick.Keene@ENRON.com]\n",
+         "source": "email",
+         "to": "Kaufman, Paul; Bonnie Drinkwater"
+      },
+      {
+         "from": "bdrinkwater@mcdonaldcarano.com",
+         "line": 116,
+         "rawfrom": "Bonnie Drinkwater [mailto:bdrinkwater@Mcdonaldcarano.com]\n",
+         "source": "email",
+         "to": "Kaufman, Paul"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/inbox/258.",
+   "hops": [
+      {
+         "from": "susan.mara@enron.com",
+         "line": 4,
+         "rawfrom": "susan.mara@enron.com\r\n",
+         "source": "valid",
+         "to": "jeff.dasovich@enron.com, d..steffes@enron.com"
+      },
+      {
+         "from": "douglass@energyattorney.com",
+         "line": 22,
+         "rawfrom": "Dan Douglass [mailto:douglass@energyattorney.com]\n",
+         "source": "email",
+         "to": "ARM"
+      },
+      {
+         "from": "wbooth@booth-law.com",
+         "line": 45,
+         "rawfrom": "\"William Booth\" <wbooth@booth-law.COM>\n",
+         "source": "email",
+         "to": "\"'Dan Douglass'\" <douglass@energyattorney.com>"
+      },
+      {
+         "from": "douglass@energyattorney.com",
+         "line": 56,
+         "rawfrom": "Dan Douglass [mailto:douglass@energyattorney.com]\n",
+         "source": "email",
+         "to": "William Booth"
+      },
+      {
+         "from": "wbooth@booth-law.com",
+         "line": 74,
+         "rawfrom": "\"William Booth\" <wbooth@booth-law.COM>\n",
+         "source": "email",
+         "to": "\"'Dan Douglass'\" <douglass@energyattorney.com>"
+      },
+      {
+         "from": "douglass@energyattorney.com",
+         "line": 87,
+         "rawfrom": "Dan Douglass [mailto:douglass@energyattorney.com]\n",
+         "source": "email",
+         "to": "William Booth"
+      },
+      {
+         "from": "wbooth@booth-law.com",
+         "line": 105,
+         "rawfrom": "\"William Booth\" <wbooth@booth-law.COM>\n",
+         "source": "email",
+         "to": "\"'Pulmano, Erlinda'\" <eap@cpuc.ca.gov>;"
+      },
+      {
+         "from": "eap@cpuc.ca.gov",
+         "line": 250,
+         "rawfrom": "Pulmano, Erlinda [mailto:eap@cpuc.ca.gov]\n",
+         "source": "email",
+         "to": "'DavoodiKR@efaches.navfac.navy.mil';"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/inbox/315.",
+   "hops": [
+      {
+         "from": "smerz@mreconsulting.com",
+         "line": 4,
+         "rawfrom": "smerz@mreconsulting.com\r\n",
+         "source": "valid",
+         "to": "d..steffes@enron.com"
+      },
+      {
+         "from": "james.d.steffes@enron.com",
+         "line": 24,
+         "rawfrom": "James.D.Steffes@enron.com [mailto:James.D.Steffes@enron.com]\n",
+         "source": "email",
+         "to": "smerz@mreconsulting.com"
+      },
+      {
+         "from": "smerz@mreconsulting.com",
+         "line": 39,
+         "rawfrom": "  \"Shane Merz\" <smerz@mreconsulting.com>@ENRON\n",
+         "source": "email",
+         "to": "Steffes, James D."
+      },
+      {
+         "from": "james.d.steffes@enron.com",
+         "line": 54,
+         "rawfrom": "James.D.Steffes@enron.com [mailto:James.D.Steffes@enron.com]\n",
+         "source": "email",
+         "to": "smerz@mreconsulting.com"
+      },
+      {
+         "from": "smerz@mreconsulting.com",
+         "line": 65,
+         "rawfrom": "  \"Shane Merz\" <smerz@mreconsulting.com>@ENRON\n",
+         "source": "email",
+         "to": "Steffes, James D."
+      },
+      {
+         "from": "james.d.steffes@enron.com",
+         "line": 76,
+         "rawfrom": "Steffes, James D. [mailto:James.D.Steffes@enron.com]\n",
+         "source": "email",
+         "to": "smerz@mreconsulting.com"
+      },
+      {
+         "from": "smerz@mreconsulting.com",
+         "line": 87,
+         "rawfrom": "     \"Shane Merz\" <smerz@mreconsulting.com>@ENRON\n",
+         "source": "email",
+         "to": "Steffes, James D."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/deleted_items/272.",
+   "hops": [
+      {
+         "from": "schriverrg@state.gov",
+         "line": 4,
+         "rawfrom": "schriverrg@state.gov\r\n",
+         "source": "valid",
+         "to": "d..steffes@enron.com"
+      },
+      {
+         "from": "james.d.steffes@enron.com",
+         "line": 31,
+         "rawfrom": "James.D.Steffes@enron.com [mailto:James.D.Steffes@enron.com]\n",
+         "source": "email",
+         "to": "SchriverRG@STATE.GOV"
+      },
+      {
+         "from": "schriverrg@state.gov",
+         "line": 47,
+         "rawfrom": "  \"Schriver, Randall G\" <SchriverRG@STATE.GOV>@ENRON\n",
+         "source": "email",
+         "to": "Steffes, James D."
+      },
+      {
+         "from": "james.d.steffes@enron.com",
+         "line": 58,
+         "rawfrom": "Steffes, James D. [mailto:James.D.Steffes@ENRON.com]\n",
+         "source": "email",
+         "to": "Randall Schriver (E-mail)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/deleted_items/267.",
+   "hops": [
+      {
+         "from": "patrick.keene@enron.com",
+         "line": 4,
+         "rawfrom": "patrick.keene@enron.com\r\n",
+         "source": "valid",
+         "to": "d..steffes@enron.com"
+      },
+      {
+         "from": "bdrinkwater@mcdonaldcarano.com",
+         "line": 45,
+         "rawfrom": "\t\"Bonnie Drinkwater\" <bdrinkwater@Mcdonaldcarano.com>@ENRON  \n",
+         "source": "email",
+         "to": "Keene, Patrick; Kaufman, Paul"
+      },
+      {
+         "from": "patrick.keene@enron.com",
+         "line": 60,
+         "rawfrom": "Keene, Patrick [mailto:Patrick.Keene@ENRON.com]\n",
+         "source": "email",
+         "to": "Kaufman, Paul; Bonnie Drinkwater"
+      },
+      {
+         "from": "bdrinkwater@mcdonaldcarano.com",
+         "line": 98,
+         "rawfrom": "Bonnie Drinkwater [mailto:bdrinkwater@Mcdonaldcarano.com]\n",
+         "source": "email",
+         "to": "Kaufman, Paul"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/deleted_items/555.",
+   "hops": [
+      {
+         "from": "rrozic@swbell.net",
+         "line": 4,
+         "rawfrom": "rrozic@swbell.net\r\n",
+         "source": "valid",
+         "to": "d..steffes@enron.com"
+      },
+      {
+         "from": "james.d.steffes@enron.com",
+         "line": 25,
+         "rawfrom": "James.D.Steffes@enron.com [mailto:James.D.Steffes@enron.com]\n",
+         "source": "email",
+         "to": "rrozic@swbell.net"
+      },
+      {
+         "from": "rrozic@swbell.net",
+         "line": 36,
+         "rawfrom": "  Dick Rozic <rrozic@swbell.net>@ENRON\n",
+         "source": "email",
+         "to": "Steffes, James D."
+      },
+      {
+         "from": "james.d.steffes@enron.com",
+         "line": 49,
+         "rawfrom": "James.D.Steffes@enron.com [mailto:James.D.Steffes@enron.com]\n",
+         "source": "email",
+         "to": "rrozic@swbell.net"
+      },
+      {
+         "from": "rrozic@swbell.net",
+         "line": 62,
+         "rawfrom": "  Dick Rozic <rrozic@swbell.net>@ENRON\n",
+         "source": "email",
+         "to": "Steffes, James D."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/deleted_items/259.",
+   "hops": [
+      {
+         "from": "schriverrg@state.gov",
+         "line": 4,
+         "rawfrom": "schriverrg@state.gov\r\n",
+         "source": "valid",
+         "to": "d..steffes@enron.com"
+      },
+      {
+         "from": "james.d.steffes@enron.com",
+         "line": 23,
+         "rawfrom": "James.D.Steffes@enron.com [mailto:James.D.Steffes@enron.com]\n",
+         "source": "email",
+         "to": "SchriverRG@STATE.GOV"
+      },
+      {
+         "from": "schriverrg@state.gov",
+         "line": 39,
+         "rawfrom": "  \"Schriver, Randall G\" <SchriverRG@STATE.GOV>@ENRON\n",
+         "source": "email",
+         "to": "Steffes, James D."
+      },
+      {
+         "from": "james.d.steffes@enron.com",
+         "line": 50,
+         "rawfrom": "Steffes, James D. [mailto:James.D.Steffes@ENRON.com]\n",
+         "source": "email",
+         "to": "Randall Schriver (E-mail)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/deleted_items/86.",
+   "hops": [
+      {
+         "from": "mnkunselman@swidlaw.com",
+         "line": 4,
+         "rawfrom": "mnkunselman@swidlaw.com\r\n",
+         "source": "valid",
+         "to": "el00-95@listserv.gsa.gov"
+      },
+      {
+         "from": "capoley@tid.org",
+         "line": 30,
+         "rawfrom": "Christian Poley <capoley@tid.org>\n",
+         "source": "email",
+         "to": "\"Nickel, Judy\" <JNickel@caiso.com>"
+      },
+      {
+         "from": "jnickel@caiso.com",
+         "line": 47,
+         "rawfrom": "\"Nickel, Judy\" <JNickel@caiso.com>\n",
+         "source": "email",
+         "to": "'Christian Poley' <capoley@tid.org>, \"Brommer,  Mike\"         <mtbrommer@tid.org>"
+      },
+      {
+         "from": "jnickel@caiso.com",
+         "line": 77,
+         "rawfrom": "\"Nickel, Judy\" <JNickel@caiso.com>\n",
+         "source": "email",
+         "to": "'Christian Poley' <capoley@tid.org>, \"Brommer,  Mike\"         <mtbrommer@tid.org>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/deleted_items/251.",
+   "hops": [
+      {
+         "from": "patrick.keene@enron.com",
+         "line": 4,
+         "rawfrom": "patrick.keene@enron.com\r\n",
+         "source": "valid",
+         "to": "<drinkwater\".'\"bonnie@enron.com>"
+      },
+      {
+         "from": "bdrinkwater@mcdonaldcarano.com",
+         "line": 24,
+         "rawfrom": "\t\"Bonnie Drinkwater\" <bdrinkwater@Mcdonaldcarano.com>@ENRON  \n",
+         "source": "email",
+         "to": "Keene, Patrick; Kaufman, Paul"
+      },
+      {
+         "from": "patrick.keene@enron.com",
+         "line": 39,
+         "rawfrom": "Keene, Patrick [mailto:Patrick.Keene@ENRON.com]\n",
+         "source": "email",
+         "to": "Kaufman, Paul; Bonnie Drinkwater"
+      },
+      {
+         "from": "bdrinkwater@mcdonaldcarano.com",
+         "line": 77,
+         "rawfrom": "Bonnie Drinkwater [mailto:bdrinkwater@Mcdonaldcarano.com]\n",
+         "source": "email",
+         "to": "Kaufman, Paul"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/sent_items/415.",
+   "hops": [
+      {
+         "from": "d..steffes@enron.com",
+         "line": 4,
+         "rawfrom": "d..steffes@enron.com\r\n",
+         "source": "valid",
+         "to": "patrick.keene@enron.com"
+      },
+      {
+         "from": "bdrinkwater@mcdonaldcarano.com",
+         "line": 37,
+         "rawfrom": "\t\"Bonnie Drinkwater\" <bdrinkwater@Mcdonaldcarano.com>@ENRON  \n",
+         "source": "email",
+         "to": "Keene, Patrick; Kaufman, Paul"
+      },
+      {
+         "from": "patrick.keene@enron.com",
+         "line": 52,
+         "rawfrom": "Keene, Patrick [mailto:Patrick.Keene@ENRON.com]\n",
+         "source": "email",
+         "to": "Kaufman, Paul; Bonnie Drinkwater"
+      },
+      {
+         "from": "bdrinkwater@mcdonaldcarano.com",
+         "line": 90,
+         "rawfrom": "Bonnie Drinkwater [mailto:bdrinkwater@Mcdonaldcarano.com]\n",
+         "source": "email",
+         "to": "Kaufman, Paul"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/sent_items/425.",
+   "hops": [
+      {
+         "from": "d..steffes@enron.com",
+         "line": 4,
+         "rawfrom": "d..steffes@enron.com\r\n",
+         "source": "valid",
+         "to": "gfoster@antigenics.com"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 26,
+         "rawfrom": "\t\"Foster, Gary\" <GFoster@Antigenics.com>@ENRON  \n",
+         "source": "email",
+         "to": "Steffes, James D."
+      },
+      {
+         "from": "james.d.steffes@enron.com",
+         "line": 39,
+         "rawfrom": "James.D.Steffes@enron.com [mailto:James.D.Steffes@enron.com]\n",
+         "source": "email",
+         "to": "GFoster@Antigenics.com"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 54,
+         "rawfrom": "  \"Foster, Gary\" <GFoster@Antigenics.com>@ENRON\n",
+         "source": "email",
+         "to": "Steffes, James D."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/sent_items/527.",
+   "hops": [
+      {
+         "from": "d..steffes@enron.com",
+         "line": 4,
+         "rawfrom": "d..steffes@enron.com\r\n",
+         "source": "valid",
+         "to": "patrick.keene@enron.com"
+      },
+      {
+         "from": "bdrinkwater@mcdonaldcarano.com",
+         "line": 71,
+         "rawfrom": "\t\"Bonnie Drinkwater\" <bdrinkwater@Mcdonaldcarano.com>@ENRON  \n",
+         "source": "email",
+         "to": "Keene, Patrick; Kaufman, Paul"
+      },
+      {
+         "from": "patrick.keene@enron.com",
+         "line": 86,
+         "rawfrom": "Keene, Patrick [mailto:Patrick.Keene@ENRON.com]\n",
+         "source": "email",
+         "to": "Kaufman, Paul; Bonnie Drinkwater"
+      },
+      {
+         "from": "bdrinkwater@mcdonaldcarano.com",
+         "line": 124,
+         "rawfrom": "Bonnie Drinkwater [mailto:bdrinkwater@Mcdonaldcarano.com]\n",
+         "source": "email",
+         "to": "Kaufman, Paul"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/sent_items/419.",
+   "hops": [
+      {
+         "from": "d..steffes@enron.com",
+         "line": 4,
+         "rawfrom": "d..steffes@enron.com\r\n",
+         "source": "valid",
+         "to": "patrick.keene@enron.com"
+      },
+      {
+         "from": "bdrinkwater@mcdonaldcarano.com",
+         "line": 55,
+         "rawfrom": "\t\"Bonnie Drinkwater\" <bdrinkwater@Mcdonaldcarano.com>@ENRON  \n",
+         "source": "email",
+         "to": "Keene, Patrick; Kaufman, Paul"
+      },
+      {
+         "from": "patrick.keene@enron.com",
+         "line": 70,
+         "rawfrom": "Keene, Patrick [mailto:Patrick.Keene@ENRON.com]\n",
+         "source": "email",
+         "to": "Kaufman, Paul; Bonnie Drinkwater"
+      },
+      {
+         "from": "bdrinkwater@mcdonaldcarano.com",
+         "line": 108,
+         "rawfrom": "Bonnie Drinkwater [mailto:bdrinkwater@Mcdonaldcarano.com]\n",
+         "source": "email",
+         "to": "Kaufman, Paul"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/sent_items/593.",
+   "hops": [
+      {
+         "from": "d..steffes@enron.com",
+         "line": 4,
+         "rawfrom": "d..steffes@enron.com\r\n",
+         "source": "valid",
+         "to": "jbennett@gmssr.com, jdasovic@enron.com"
+      },
+      {
+         "from": "jbennett@gmssr.com",
+         "line": 26,
+         "rawfrom": "\tJBennett <JBennett@GMSSR.com>@ENRON [mailto:IMCEANOTES-JBennett+20+3CJBennett+40GMSSR+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "jdasovic@enron.com; James_D_Steffes@enron.com"
+      },
+      {
+         "from": "james.d.steffes@enron.com",
+         "line": 51,
+         "rawfrom": "James.D.Steffes@enron.com [mailto:James.D.Steffes@enron.com]\n",
+         "source": "email",
+         "to": "JBennett@GMSSR.com; jdasovic@enron.com; James_D_Steffes@enron.com"
+      },
+      {
+         "from": "jbennett@gmssr.com",
+         "line": 78,
+         "rawfrom": "  JBennett <JBennett@GMSSR.com>@ENRON\n",
+         "source": "email",
+         "to": "Jeff Dasovich (E-mail); Jim Steffes (E-mail)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/sent_items/2325.",
+   "hops": [
+      {
+         "from": "d..steffes@enron.com",
+         "line": 4,
+         "rawfrom": "d..steffes@enron.com\r\n",
+         "source": "valid",
+         "to": "rrozic@swbell.net"
+      },
+      {
+         "from": "rrozic@swbell.net",
+         "line": 24,
+         "rawfrom": "\tDick Rozic <rrozic@swbell.net>@ENRON  \n",
+         "source": "email",
+         "to": "Steffes, James D."
+      },
+      {
+         "from": "james.d.steffes@enron.com",
+         "line": 36,
+         "rawfrom": "James.D.Steffes@enron.com [mailto:James.D.Steffes@enron.com]\n",
+         "source": "email",
+         "to": "rrozic@swbell.net"
+      },
+      {
+         "from": "rrozic@swbell.net",
+         "line": 48,
+         "rawfrom": "  Dick Rozic <rrozic@swbell.net>@ENRON\n",
+         "source": "email",
+         "to": "Steffes, James D."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/sent_items/119.",
+   "hops": [
+      {
+         "from": "d..steffes@enron.com",
+         "line": 4,
+         "rawfrom": "d..steffes@enron.com\r\n",
+         "source": "valid",
+         "to": "jason.riley@novoforum.com, scott.karro@csfb.com"
+      },
+      {
+         "from": "jason.riley@novoforum.com",
+         "line": 26,
+         "rawfrom": "\tJason Riley <jason.riley@novoforum.com>@ENRON [mailto:IMCEANOTES-Jason+20Riley+20+3Cjason+2Eriley+40novoforum+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "'Jim Steffes - work'; 'Stewart Rowlands - home'"
+      },
+      {
+         "from": "scott.karro@csfb.com",
+         "line": 34,
+         "rawfrom": "Karro, Scott  [mailto:scott.karro@csfb.com]\n",
+         "source": "email",
+         "to": "'Jason Riley'"
+      },
+      {
+         "from": "jason.riley@novoforum.com",
+         "line": 40,
+         "rawfrom": "Jason Riley  [mailto:jason.riley@novoforum.com]\n",
+         "source": "email",
+         "to": "'Scott Karro - work'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/sent_items/350.",
+   "hops": [
+      {
+         "from": "d..steffes@enron.com",
+         "line": 4,
+         "rawfrom": "d..steffes@enron.com\r\n",
+         "source": "valid",
+         "to": "j..noske@enron.com"
+      },
+      {
+         "from": "mcarroll@texas.net",
+         "line": 22,
+         "rawfrom": "\t\"Marianne Carroll\" <mcarroll@texas.net>@ENRON  \n",
+         "source": "email",
+         "to": "Steffes, James D."
+      },
+      {
+         "from": "mcarroll@texas.net",
+         "line": 31,
+         "rawfrom": "Marianne Carroll  [mailto:mcarroll@texas.net]\n",
+         "source": "email",
+         "to": "lwbrewer@aep.com"
+      },
+      {
+         "from": "lwbrewer@aep.com",
+         "line": 37,
+         "rawfrom": "lwbrewer@aep.com  [mailto:lwbrewer@aep.com]\n",
+         "source": "email",
+         "to": "Marianne Carroll"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/sent_items/2200.",
+   "hops": [
+      {
+         "from": "d..steffes@enron.com",
+         "line": 4,
+         "rawfrom": "d..steffes@enron.com\r\n",
+         "source": "valid",
+         "to": "gfoster@antigenics.com"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 24,
+         "rawfrom": "\t\"Foster, Gary\" <GFoster@Antigenics.com>@ENRON  \n",
+         "source": "email",
+         "to": "Steffes, James D."
+      },
+      {
+         "from": "pmizell@swbell.net",
+         "line": 34,
+         "rawfrom": "Pat Mizell [mailto:pmizell@swbell.net]\n",
+         "source": "email",
+         "to": "Foster, Gary"
+      },
+      {
+         "from": "mtrent@reliant.com",
+         "line": 40,
+         "rawfrom": "<mtrent@reliant.com>\n",
+         "source": "email",
+         "to": "<Patrick_Mizell@Justex.net>; <ctrent@hajs.com>; <cdoyle@reliant.com>;"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/sent_items/347.",
+   "hops": [
+      {
+         "from": "d..steffes@enron.com",
+         "line": 4,
+         "rawfrom": "d..steffes@enron.com\r\n",
+         "source": "valid",
+         "to": "j..noske@enron.com"
+      },
+      {
+         "from": "mcarroll@texas.net",
+         "line": 24,
+         "rawfrom": "\t\"Marianne Carroll\" <mcarroll@texas.net>@ENRON  \n",
+         "source": "email",
+         "to": "Steffes, James D."
+      },
+      {
+         "from": "diana.liebmann@haynesboone.com",
+         "line": 36,
+         "rawfrom": "Diana Liebmann [mailto:Diana.Liebmann@haynesboone.com]\n",
+         "source": "email",
+         "to": "mcarroll@texas.net"
+      },
+      {
+         "from": "rkford@aep.com",
+         "line": 42,
+         "rawfrom": "<rkford@aep.com>\n",
+         "source": "email",
+         "to": "<dgcarpenter@aep.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/sent_items/856.",
+   "hops": [
+      {
+         "from": "d..steffes@enron.com",
+         "line": 4,
+         "rawfrom": "d..steffes@enron.com\r\n",
+         "source": "valid",
+         "to": "<tom\".\"riley@enron.com>, susan.mara@enron.com, jeff.dasovich@enron.com"
+      },
+      {
+         "from": "tom.riley@enron.com",
+         "line": 36,
+         "rawfrom": "\t\"Riley, Tom\" <Tom.Riley@enron.com>@ENRON [mailto:IMCEANOTES-+22Riley+2C+20Tom+22+20+3CTom+2ERiley+40enron+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Steffes, James D.; Mara, Susan; Dasovich, Jeff"
+      },
+      {
+         "from": "maric.munn@ucop.edu",
+         "line": 52,
+         "rawfrom": "> From:\tMaric Munn <Maric.munn@ucop.edu>@ENRON@EES\n",
+         "source": "email",
+         "to": "TRiley@enron.com; dhuddles@enron.com"
+      },
+      {
+         "from": "ktilton@gralegal.com",
+         "line": 76,
+         "rawfrom": "KTilton <ktilton@gralegal.com>\n",
+         "source": "email",
+         "to": "Maric Munn <Maric.Munn@ucop.edu>, Mark Gutheinz"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/sent_items/2299.",
+   "hops": [
+      {
+         "from": "d..steffes@enron.com",
+         "line": 4,
+         "rawfrom": "d..steffes@enron.com\r\n",
+         "source": "valid",
+         "to": "smerz@mreconsulting.com"
+      },
+      {
+         "from": "smerz@mreconsulting.com",
+         "line": 24,
+         "rawfrom": "\t\"Shane Merz\" <smerz@mreconsulting.com>@ENRON  \n",
+         "source": "email",
+         "to": "Steffes, James D."
+      },
+      {
+         "from": "james.d.steffes@enron.com",
+         "line": 33,
+         "rawfrom": "Steffes, James D. [mailto:James.D.Steffes@enron.com]\n",
+         "source": "email",
+         "to": "smerz@mreconsulting.com"
+      },
+      {
+         "from": "smerz@mreconsulting.com",
+         "line": 44,
+         "rawfrom": "\t\"Shane Merz\" <smerz@mreconsulting.com>@ENRON\n",
+         "source": "email",
+         "to": "Steffes, James D."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/sent_items/421.",
+   "hops": [
+      {
+         "from": "d..steffes@enron.com",
+         "line": 4,
+         "rawfrom": "d..steffes@enron.com\r\n",
+         "source": "valid",
+         "to": "schriverrg@state.gov, keith_hennessey@lott.senate.gov"
+      },
+      {
+         "from": "schriverrg@state.gov",
+         "line": 31,
+         "rawfrom": "\t\"Schriver, Randall G\" <SchriverRG@STATE.GOV>@ENRON  \n",
+         "source": "email",
+         "to": "'Keith_Hennessey@lott.senate.gov'; Steffes, James D."
+      },
+      {
+         "from": "keith_hennessey@lott.senate.gov",
+         "line": 41,
+         "rawfrom": "Keith_Hennessey@lott.senate.gov\n",
+         "source": "valid",
+         "to": "'James.D.Steffes@enron.com'"
+      },
+      {
+         "from": "schriverrg@state.gov",
+         "line": 59,
+         "rawfrom": "\"Schriver; Randall G\" <SchriverRG@STATE.GOV>\n",
+         "source": "email",
+         "to": "keith hennessey; \"'James.D.Steffes@enron.com'\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/sent_items/2347.",
+   "hops": [
+      {
+         "from": "d..steffes@enron.com",
+         "line": 4,
+         "rawfrom": "d..steffes@enron.com\r\n",
+         "source": "valid",
+         "to": "smerz@mreconsulting.com"
+      },
+      {
+         "from": "smerz@mreconsulting.com",
+         "line": 26,
+         "rawfrom": "\t\"Shane Merz\" <smerz@mreconsulting.com>@ENRON  \n",
+         "source": "email",
+         "to": "Steffes, James D."
+      },
+      {
+         "from": "james.d.steffes@enron.com",
+         "line": 40,
+         "rawfrom": "James.D.Steffes@enron.com [mailto:James.D.Steffes@enron.com]\n",
+         "source": "email",
+         "to": "smerz@mreconsulting.com"
+      },
+      {
+         "from": "smerz@mreconsulting.com",
+         "line": 51,
+         "rawfrom": "  \"Shane Merz\" <smerz@mreconsulting.com>@ENRON\n",
+         "source": "email",
+         "to": "Steffes, James D."
+      },
+      {
+         "from": "james.d.steffes@enron.com",
+         "line": 61,
+         "rawfrom": "Steffes, James D. [mailto:James.D.Steffes@enron.com]\n",
+         "source": "email",
+         "to": "smerz@mreconsulting.com"
+      },
+      {
+         "from": "smerz@mreconsulting.com",
+         "line": 72,
+         "rawfrom": "     \"Shane Merz\" <smerz@mreconsulting.com>@ENRON\n",
+         "source": "email",
+         "to": "Steffes, James D."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/sent_items/2288.",
+   "hops": [
+      {
+         "from": "d..steffes@enron.com",
+         "line": 4,
+         "rawfrom": "d..steffes@enron.com\r\n",
+         "source": "valid",
+         "to": "alan.comnes@enron.com, ray.alvarez@enron.com, dave.perrino@enron.com,"
+      },
+      {
+         "from": "kristiwallis@sprintmail.com",
+         "line": 42,
+         "rawfrom": "Kristi M. Wallis [mailto:kristiwallis@sprintmail.com]\n",
+         "source": "email",
+         "to": "Greenleaf, Steve"
+      },
+      {
+         "from": "ofnabors@bpa.gov",
+         "line": 73,
+         "rawfrom": "Nabors, Ottie F - PMB-6 [mailto:ofnabors@bpa.gov]\n",
+         "source": "email",
+         "to": "'Greenleaf, Steve'; 'Nabors, Ottie F - PMB-6'; Shea, Karen;"
+      },
+      {
+         "from": "sgreenleaf@caiso.com",
+         "line": 92,
+         "rawfrom": "Greenleaf, Steve [SMTP:SGreenleaf@caiso.com]\n",
+         "source": "email",
+         "to": "'Nabors, Ottie F - PMB-6'; Shea, Karen; kristiwallis@sprintmail.com"
+      },
+      {
+         "from": "ofnabors@bpa.gov",
+         "line": 109,
+         "rawfrom": "Nabors, Ottie F - PMB-6 [mailto:ofnabors@bpa.gov]\n",
+         "source": "email",
+         "to": "'Greenleaf, Steve'; Shea, Karen; kristiwallis@sprintmail.com"
+      },
+      {
+         "from": "sgreenleaf@caiso.com",
+         "line": 152,
+         "rawfrom": "      Greenleaf, Steve [SMTP:SGreenleaf@caiso.com]\n",
+         "source": "email",
+         "to": "Shea, Karen; kristiwallis@sprintmail.com"
+      },
+      {
+         "from": "karen.shea@dynegy.com",
+         "line": 173,
+         "rawfrom": "Karen.Shea@dynegy.com [mailto:Karen.Shea@dynegy.com]\n",
+         "source": "email",
+         "to": "kristiwallis@sprintmail.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/sent_items/349.",
+   "hops": [
+      {
+         "from": "d..steffes@enron.com",
+         "line": 4,
+         "rawfrom": "d..steffes@enron.com\r\n",
+         "source": "valid",
+         "to": "j..noske@enron.com"
+      },
+      {
+         "from": "mcarroll@texas.net",
+         "line": 26,
+         "rawfrom": "\t\"Marianne Carroll\" <mcarroll@texas.net>@ENRON  \n",
+         "source": "email",
+         "to": "Steffes, James D."
+      },
+      {
+         "from": "lwbrewer@aep.com",
+         "line": 36,
+         "rawfrom": "lwbrewer@aep.com  [mailto:lwbrewer@aep.com]\n",
+         "source": "email",
+         "to": "Marianne Carroll"
+      },
+      {
+         "from": "lwbrewer@aep.com",
+         "line": 50,
+         "rawfrom": "lwbrewer@aep.com  [mailto:lwbrewer@aep.com]\n",
+         "source": "email",
+         "to": "Marianne Carroll"
+      },
+      {
+         "from": "lwbrewer@aep.com",
+         "line": 65,
+         "rawfrom": "lwbrewer@aep.com  [mailto:lwbrewer@aep.com]\n",
+         "source": "email",
+         "to": "Marianne Carroll"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/sent_items/125.",
+   "hops": [
+      {
+         "from": "d..steffes@enron.com",
+         "line": 4,
+         "rawfrom": "d..steffes@enron.com\r\n",
+         "source": "valid",
+         "to": "jerrybowyer@home.com"
+      },
+      {
+         "from": "jerrybowyer@home.com",
+         "line": 24,
+         "rawfrom": "\t\"Jerry Bowyer\" <jerrybowyer@home.com>@ENRON [mailto:IMCEANOTES-+22Jerry+20Bowyer+22+20+3Cjerrybowyer+40home+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Steffes, James D."
+      },
+      {
+         "from": "james.d.steffes@enron.com",
+         "line": 52,
+         "rawfrom": "James.D.Steffes@enron.com [mailto:James.D.Steffes@enron.com]\n",
+         "source": "email",
+         "to": "jerrybowyer@home.com"
+      },
+      {
+         "from": "jerrybowyer@home.com",
+         "line": 68,
+         "rawfrom": "  \"Jerry Bowyer\" <jerrybowyer@home.com>@ENRON\n",
+         "source": "email",
+         "to": "Steffes, James D."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/sent_items/719.",
+   "hops": [
+      {
+         "from": "d..steffes@enron.com",
+         "line": 4,
+         "rawfrom": "d..steffes@enron.com\r\n",
+         "source": "valid",
+         "to": "karen.denne@enron.com"
+      },
+      {
+         "from": "syamane@marathon-com.com",
+         "line": 30,
+         "rawfrom": "\tSandra Yamane <SYamane@marathon-com.com>@ENRON [mailto:IMCEANOTES-Sandra+20Yamane+20+3CSYamane+40marathon-com+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Denne, Karen"
+      },
+      {
+         "from": "karen.denne@enron.com",
+         "line": 69,
+         "rawfrom": "Karen.Denne@enron.com [mailto:Karen.Denne@enron.com]\n",
+         "source": "email",
+         "to": "SYamane@marathon-com.com"
+      },
+      {
+         "from": "syamane@marathon-com.com",
+         "line": 84,
+         "rawfrom": "  Sandra Yamane <SYamane@marathon-com.com>@ENRON\n",
+         "source": "email",
+         "to": "Denne, Karen"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/sent_items/1196.",
+   "hops": [
+      {
+         "from": "d..steffes@enron.com",
+         "line": 4,
+         "rawfrom": "d..steffes@enron.com\r\n",
+         "source": "valid",
+         "to": "tom.riley@enron.com"
+      },
+      {
+         "from": "tom.riley@enron.com",
+         "line": 28,
+         "rawfrom": "\t\"Riley, Tom\" <Tom.Riley@enron.com>@ENRON  \n",
+         "source": "email",
+         "to": "Steffes, James D."
+      },
+      {
+         "from": "maric.munn@ucop.edu",
+         "line": 40,
+         "rawfrom": "> From:\tMaric Munn <Maric.munn@ucop.edu>@ENRON@EES\n",
+         "source": "email",
+         "to": "Riley, Tom"
+      },
+      {
+         "from": "cynoah@popserv.ucop.edu",
+         "line": 64,
+         "rawfrom": "cynoah@popserv.ucop.edu",
+         "source": "valid",
+         "to": "Maric Munn <Maric.munn@ucop.edu>"
+      },
+      {
+         "from": "vlboucher@ucdavis.edu",
+         "line": 69,
+         "rawfrom": "\"Boucher, Virginia\" <vlboucher@ucdavis.edu>\n",
+         "source": "email",
+         "to": "\"Chen Yin Noah (E-mail)\" <ChenYin.Noah@ucop.edu>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/sent_items/144.",
+   "hops": [
+      {
+         "from": "d..steffes@enron.com",
+         "line": 4,
+         "rawfrom": "d..steffes@enron.com\r\n",
+         "source": "valid",
+         "to": "jhess@usbr.gov"
+      },
+      {
+         "from": "jhess@usbr.gov",
+         "line": 28,
+         "rawfrom": "\t\"James Hess\" <JHESS@usbr.gov>@ENRON [mailto:IMCEANOTES-+22James+20Hess+22+20+3CJHESS+40usbr+2Egov+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Steffes, James D."
+      },
+      {
+         "from": "jhess@usbr.gov",
+         "line": 48,
+         "rawfrom": "    \"James Hess\"  <JHESS@usbr.gov>@ENRON\n",
+         "source": "email",
+         "to": "jwthompson@aspeninst.org;  Freeland.Grant@BCG.com;"
+      },
+      {
+         "from": "bharris@usbr.gov",
+         "line": 61,
+         "rawfrom": "\"Brenda Harris\"  <BHARRIS@usbr.gov>\n",
+         "source": "email",
+         "to": "<JGARNER@do.usbr.gov>,<SMAGNUSSEN@lc.usbr.gov>,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/sent_items/94.",
+   "hops": [
+      {
+         "from": "d..steffes@enron.com",
+         "line": 4,
+         "rawfrom": "d..steffes@enron.com\r\n",
+         "source": "valid",
+         "to": "jeff.dasovich@enron.com"
+      },
+      {
+         "from": "lynnek@rppi.org",
+         "line": 24,
+         "rawfrom": "\tLynne Kiesling <lynnek@rppi.org>@ENRON [mailto:IMCEANOTES-Lynne+20Kiesling+20+3Clynnek+40rppi+2Eorg+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Steffes, James D."
+      },
+      {
+         "from": "lynnek@rppi.org",
+         "line": 51,
+         "rawfrom": "        Lynne Kiesling <lynnek@rppi.org>@ENRON\n",
+         "source": "email",
+         "to": "james_d_steffes@enron.com"
+      },
+      {
+         "from": "lynnek@rppi.org",
+         "line": 70,
+         "rawfrom": "        Lynne Kiesling <lynnek@rppi.org>\n",
+         "source": "email",
+         "to": "james_d_steffes@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/california_issues/583.",
+   "hops": [
+      {
+         "from": "susan.mara@enron.com",
+         "line": 4,
+         "rawfrom": "susan.mara@enron.com\r\n",
+         "source": "valid",
+         "to": "jeff.dasovich@enron.com, c..williams@enron.com, andrew.wu@enron.com,"
+      },
+      {
+         "from": "matt.pagano@sce.com",
+         "line": 25,
+         "rawfrom": "Matt.Pagano@sce.com [mailto:Matt.Pagano@sce.com]\n",
+         "source": "email",
+         "to": "Mara, Susan"
+      },
+      {
+         "from": "email-paganomj@sce.com",
+         "line": 51,
+         "rawfrom": "Email-Paganomj@SCE.Com",
+         "source": "valid",
+         "to": "<Matt.Pagano@sce.com>,"
+      },
+      {
+         "from": "matt.pagano@sce.com",
+         "line": 123,
+         "rawfrom": "Matt.Pagano@sce.com [mailto:Matt.Pagano@sce.com]\n",
+         "source": "email",
+         "to": "dhuddles@enron.com"
+      },
+      {
+         "from": "matt.pagano@sce.com",
+         "line": 195,
+         "rawfrom": "Matt.Pagano@sce.com on 11/02/2001 02:39:09 PM\n",
+         "source": "email",
+         "to": "dhuddles@enron.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/california_issues/582.",
+   "hops": [
+      {
+         "from": "susan.mara@enron.com",
+         "line": 4,
+         "rawfrom": "susan.mara@enron.com\r\n",
+         "source": "valid",
+         "to": "matt.pagano@sce.com"
+      },
+      {
+         "from": "matt.pagano@sce.com",
+         "line": 29,
+         "rawfrom": "Matt.Pagano@sce.com [mailto:Matt.Pagano@sce.com]\n",
+         "source": "email",
+         "to": "Mara, Susan"
+      },
+      {
+         "from": "email-paganomj@sce.com",
+         "line": 55,
+         "rawfrom": "Email-Paganomj@SCE.Com",
+         "source": "valid",
+         "to": "<Matt.Pagano@sce.com>,"
+      },
+      {
+         "from": "matt.pagano@sce.com",
+         "line": 127,
+         "rawfrom": "Matt.Pagano@sce.com [mailto:Matt.Pagano@sce.com]\n",
+         "source": "email",
+         "to": "dhuddles@enron.com"
+      },
+      {
+         "from": "matt.pagano@sce.com",
+         "line": 199,
+         "rawfrom": "Matt.Pagano@sce.com on 11/02/2001 02:39:09 PM\n",
+         "source": "email",
+         "to": "dhuddles@enron.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/california_issues/338.",
+   "hops": [
+      {
+         "from": "tom.riley@enron.com",
+         "line": 4,
+         "rawfrom": "tom.riley@enron.com\r\n",
+         "source": "valid",
+         "to": "d..steffes@enron.com"
+      },
+      {
+         "from": "maric.munn@ucop.edu",
+         "line": 29,
+         "rawfrom": "> From:\tMaric Munn <Maric.munn@ucop.edu>@ENRON@EES\n",
+         "source": "email",
+         "to": "Riley, Tom"
+      },
+      {
+         "from": "cynoah@popserv.ucop.edu",
+         "line": 53,
+         "rawfrom": "cynoah@popserv.ucop.edu",
+         "source": "valid",
+         "to": "Maric Munn <Maric.munn@ucop.edu>"
+      },
+      {
+         "from": "vlboucher@ucdavis.edu",
+         "line": 58,
+         "rawfrom": "\"Boucher, Virginia\" <vlboucher@ucdavis.edu>\n",
+         "source": "email",
+         "to": "\"Chen Yin Noah (E-mail)\" <ChenYin.Noah@ucop.edu>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/california_issues/581.",
+   "hops": [
+      {
+         "from": "jeff.dasovich@enron.com",
+         "line": 4,
+         "rawfrom": "jeff.dasovich@enron.com\r\n",
+         "source": "valid",
+         "to": "susan.mara@enron.com, c..williams@enron.com, andrew.wu@enron.com,"
+      },
+      {
+         "from": "matt.pagano@sce.com",
+         "line": 38,
+         "rawfrom": "Matt.Pagano@sce.com [mailto:Matt.Pagano@sce.com]\n",
+         "source": "email",
+         "to": "Mara, Susan"
+      },
+      {
+         "from": "email-paganomj@sce.com",
+         "line": 64,
+         "rawfrom": "Email-Paganomj@SCE.Com",
+         "source": "valid",
+         "to": "<Matt.Pagano@sce.com>,"
+      },
+      {
+         "from": "matt.pagano@sce.com",
+         "line": 136,
+         "rawfrom": "Matt.Pagano@sce.com [mailto:Matt.Pagano@sce.com]\n",
+         "source": "email",
+         "to": "dhuddles@enron.com"
+      },
+      {
+         "from": "matt.pagano@sce.com",
+         "line": 208,
+         "rawfrom": "Matt.Pagano@sce.com on 11/02/2001 02:39:09 PM\n",
+         "source": "email",
+         "to": "dhuddles@enron.com"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/steffes-j/california_issues/587.",
+   "hops": [
+      {
+         "from": "susan.mara@enron.com",
+         "line": 4,
+         "rawfrom": "susan.mara@enron.com\r\n",
+         "source": "valid",
+         "to": "diann.huddleson@enron.com, andrew.wu@enron.com, c..williams@enron.com,"
+      },
+      {
+         "from": "matt.pagano@sce.com",
+         "line": 60,
+         "rawfrom": "Matt.Pagano@sce.com [mailto:Matt.Pagano@sce.com]\n",
+         "source": "email",
+         "to": "dhuddles@enron.com"
+      },
+      {
+         "from": "email-paganomj@sce.com",
+         "line": 86,
+         "rawfrom": "Email-Paganomj@SCE.Com",
+         "source": "valid",
+         "to": "Matt.Pagano@sce.com"
+      },
+      {
+         "from": "matt.pagano@sce.com",
+         "line": 118,
+         "rawfrom": "Matt.Pagano@sce.com on 11/02/2001 02:39:09 PM\n",
+         "source": "email",
+         "to": "dhuddles@enron.com"
+      }
+   ],
+   "skipped": 3
+}
+]

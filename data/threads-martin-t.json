@@ -1,0 +1,239 @@
+[
+{
+   "file": "/home/jb/maildir/martin-t/inbox/327.",
+   "hops": [
+      {
+         "from": "brian.redmond@enron.com",
+         "line": 4,
+         "rawfrom": "brian.redmond@enron.com\r\n",
+         "source": "valid",
+         "to": "a..martin@enron.com"
+      },
+      {
+         "from": "alan@nnu.com",
+         "line": 22,
+         "rawfrom": "Alan Kaniss [mailto:alan@nnu.com]\n",
+         "source": "email",
+         "to": "Redmond, Brian"
+      },
+      {
+         "from": "brian.redmond@enron.com",
+         "line": 38,
+         "rawfrom": "Redmond, Brian [mailto:Brian.Redmond@ENRON.com]\n",
+         "source": "email",
+         "to": "Alan Kaniss"
+      },
+      {
+         "from": "alan@nnu.com",
+         "line": 57,
+         "rawfrom": "Alan Kaniss [mailto:alan@nnu.com]\n",
+         "source": "email",
+         "to": "Allen J. Michel (E-mail); Redmond, Brian; Buddy Ellisor (E-mail);"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/martin-t/inbox/385.",
+   "hops": [
+      {
+         "from": "laura.vuittonet@enron.com",
+         "line": 4,
+         "rawfrom": "laura.vuittonet@enron.com\r\n",
+         "source": "valid",
+         "to": "bward@mitchellgs.com"
+      },
+      {
+         "from": "bward@mitchellgs.com",
+         "line": 47,
+         "rawfrom": "Bill Ward [mailto:bward@mitchellgs.com]\n",
+         "source": "email",
+         "to": "Redmond, Brian"
+      },
+      {
+         "from": "brian.redmond@enron.com",
+         "line": 62,
+         "rawfrom": "Redmond, Brian [mailto:Brian.Redmond@enron.com]\n",
+         "source": "email",
+         "to": "Bill Ward; Martin, Thomas A."
+      },
+      {
+         "from": "bward@mitchellgs.com",
+         "line": 79,
+         "rawfrom": "Bill Ward [mailto:bward@mitchellgs.com]\n",
+         "source": "email",
+         "to": "'bredmon@ect.enron.com'"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/martin-t/deleted_items/164.",
+   "hops": [
+      {
+         "from": "lynemartin@msn.com",
+         "line": 4,
+         "rawfrom": "lynemartin@msn.com\r\n",
+         "source": "valid",
+         "to": "a..martin@enron.com"
+      },
+      {
+         "from": "dbassani@abm.com",
+         "line": 33,
+         "rawfrom": "Doug Bassani [mailto:dbassani@abm.com]\n",
+         "source": "email",
+         "to": "Bassani, Margaret MM SHLOIL; Sarah Black"
+      },
+      {
+         "from": "chiseppa@msn.com",
+         "line": 174,
+         "rawfrom": "julie seppa  [mailto:chiseppa@msn.com]\n",
+         "source": "email",
+         "to": "helenb123; Jerry Bentley; Sarah_Shaw"
+      },
+      {
+         "from": "sseppa@knutsenins.com",
+         "line": 185,
+         "rawfrom": "Scott Seppa  [mailto:sseppa@knutsenins.com]\n",
+         "source": "email",
+         "to": "'Angela'; 'Bev'; 'Bob and Barbara Canessa'; 'BobK';  'Brent';"
+      },
+      {
+         "from": "hseppa@bankofastoria.com",
+         "line": 195,
+         "rawfrom": "Heather  Seppa [SMTP:hseppa@bankofastoria.com]\n",
+         "source": "email",
+         "to": "'Scott Seppa'"
+      },
+      {
+         "from": "rralph@mtpower.com",
+         "line": 213,
+         "rawfrom": "Ralph, Rose Marie [mailto:rralph@mtpower.com]\n",
+         "source": "email",
+         "to": "'wsta@yahoogroups.com'"
+      },
+      {
+         "from": "tony.nespoli@icn.siemens.com",
+         "line": 219,
+         "rawfrom": "Nespoli, Tony  [mailto:Tony.Nespoli@icn.siemens.com]\n",
+         "source": "email",
+         "to": "Burns, Scott;  'john.pino@morganstanley.com';"
+      }
+   ],
+   "skipped": 8
+}
+,
+{
+   "file": "/home/jb/maildir/martin-t/deleted_items/183.",
+   "hops": [
+      {
+         "from": "clfauxde@houston.rr.com",
+         "line": 4,
+         "rawfrom": "clfauxde@houston.rr.com\r\n",
+         "source": "valid",
+         "to": "a..martin@enron.com"
+      },
+      {
+         "from": "thomas.a.martin@enron.com",
+         "line": 26,
+         "rawfrom": "\"Martin, Thomas A.\" <Thomas.A.Martin@enron.com>\n",
+         "source": "email",
+         "to": "\"Cindy Knapp\" <clfauxde@houston.rr.com>"
+      },
+      {
+         "from": "clfauxde@houston.rr.com",
+         "line": 41,
+         "rawfrom": "\"Cindy Knapp\" <clfauxde@houston.rr.com>@ENRON\n",
+         "source": "email",
+         "to": "Martin, Thomas A."
+      },
+      {
+         "from": "thomas.a.martin@enron.com",
+         "line": 63,
+         "rawfrom": "\"Martin, Thomas A.\" <Thomas.A.Martin@enron.com>\n",
+         "source": "email",
+         "to": "<clfauxde@houston.rr.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/martin-t/sent_items/234.",
+   "hops": [
+      {
+         "from": "a..martin@enron.com",
+         "line": 4,
+         "rawfrom": "a..martin@enron.com\r\n",
+         "source": "valid",
+         "to": "kitkatmartin@msn.com"
+      },
+      {
+         "from": "kitkatmartin@msn.com",
+         "line": 22,
+         "rawfrom": "\t\"Kathryn Martin\" <kitkatmartin@msn.com>@ENRON  \n",
+         "source": "email",
+         "to": "Martin, Thomas A."
+      },
+      {
+         "from": "thomas.a.martin@enron.com",
+         "line": 37,
+         "rawfrom": "Thomas.A.Martin@enron.com\n",
+         "source": "valid",
+         "to": "kitkatmartin@msn.com"
+      },
+      {
+         "from": "kitkatmartin@msn.com",
+         "line": 63,
+         "rawfrom": "  \"Kathryn Martin\" <kitkatmartin@msn.com>@ENRON\n",
+         "source": "email",
+         "to": "Martin, Thomas A."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/martin-t/sent_items/245.",
+   "hops": [
+      {
+         "from": "a..martin@enron.com",
+         "line": 4,
+         "rawfrom": "a..martin@enron.com\r\n",
+         "source": "valid",
+         "to": "clfauxde@houston.rr.com"
+      },
+      {
+         "from": "clfauxde@houston.rr.com",
+         "line": 24,
+         "rawfrom": "\t\"Cindy Knapp\" <clfauxde@houston.rr.com>@ENRON  \n",
+         "source": "email",
+         "to": "Martin, Thomas A."
+      },
+      {
+         "from": "thomas.a.martin@enron.com",
+         "line": 36,
+         "rawfrom": "\"Martin, Thomas A.\" <Thomas.A.Martin@enron.com>\n",
+         "source": "email",
+         "to": "\"Cindy Knapp\" <clfauxde@houston.rr.com>"
+      },
+      {
+         "from": "clfauxde@houston.rr.com",
+         "line": 51,
+         "rawfrom": "\"Cindy Knapp\" <clfauxde@houston.rr.com>@ENRON\n",
+         "source": "email",
+         "to": "Martin, Thomas A."
+      },
+      {
+         "from": "thomas.a.martin@enron.com",
+         "line": 73,
+         "rawfrom": "\"Martin, Thomas A.\" <Thomas.A.Martin@enron.com>\n",
+         "source": "email",
+         "to": "<clfauxde@houston.rr.com>"
+      }
+   ],
+   "skipped": 0
+}
+]

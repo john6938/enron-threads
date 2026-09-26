@@ -1,0 +1,43 @@
+[
+{
+   "file": "/home/jb/maildir/sturm-f/deleted_items/73.",
+   "hops": [
+      {
+         "from": "tim.belden@enron.com",
+         "line": 4,
+         "rawfrom": "tim.belden@enron.com\r\n",
+         "source": "valid",
+         "to": "vwatkins@pira.com"
+      },
+      {
+         "from": "vwatkins@pira.com",
+         "line": 28,
+         "rawfrom": "Victoria Watkins [mailto:vwatkins@pira.com]\n",
+         "source": "email",
+         "to": "Tim Belden"
+      },
+      {
+         "from": "vwatkins@pira.com",
+         "line": 38,
+         "rawfrom": "Victoria Watkins [mailto:vwatkins@pira.com]\n",
+         "source": "email",
+         "to": "Kevin.M.Presto@enron.com"
+      },
+      {
+         "from": "kevin.m.presto@enron.com",
+         "line": 58,
+         "rawfrom": "Kevin.M.Presto@enron.com [mailto:Kevin.M.Presto@enron.com]\n",
+         "source": "email",
+         "to": "vwatkins@pira.com"
+      },
+      {
+         "from": "vwatkins@pira.com",
+         "line": 71,
+         "rawfrom": "  \"Victoria Watkins\" <vwatkins@pira.com>@ENRON\n",
+         "source": "email",
+         "to": "Tim Belden"
+      }
+   ],
+   "skipped": 0
+}
+]

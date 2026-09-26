@@ -1,0 +1,246 @@
+[
+{
+   "file": "/home/jb/maildir/hodge-j/inbox/378.",
+   "hops": [
+      {
+         "from": "djhyvl@aep.com",
+         "line": 4,
+         "rawfrom": "djhyvl@aep.com\r\n",
+         "source": "valid",
+         "to": "t..hodge@enron.com"
+      },
+      {
+         "from": "pschnorbach@tielp.com",
+         "line": 61,
+         "rawfrom": "Phil Schnorbach [mailto:PSchnorbach@tielp.com]\r\n",
+         "source": "email",
+         "to": "'djhyvl@aep.com'; 'smbraband@aep.com'"
+      },
+      {
+         "from": "jim.coffey@enron.com",
+         "line": 83,
+         "rawfrom": "Coffey Jr., Jim [mailto:Jim.Coffey@ENRON.com]\r\n",
+         "source": "email",
+         "to": "SCHNORBACH, PHIL"
+      },
+      {
+         "from": "pschnorbach@tielp.com",
+         "line": 101,
+         "rawfrom": "Phil Schnorbach [mailto:PSchnorbach@tielp.com]\r\n",
+         "source": "email",
+         "to": "Coffey Jr., Jim"
+      },
+      {
+         "from": "jim.coffey@enron.com",
+         "line": 109,
+         "rawfrom": "Coffey Jr., Jim [mailto:Jim.Coffey@ENRON.com]\r\n",
+         "source": "email",
+         "to": "SCHNORBACH, PHIL"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/hodge-j/inbox/537.",
+   "hops": [
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 4,
+         "rawfrom": "leslie.hansen@enron.com\r\n",
+         "source": "valid",
+         "to": "t..hodge@enron.com"
+      },
+      {
+         "from": "rfmarkha@southernco.com",
+         "line": 22,
+         "rawfrom": "\t\"Markham, Robert F.\" <RFMARKHA@southernco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Hansen, Leslie"
+      },
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 39,
+         "rawfrom": "Leslie.Hansen@enron.com [mailto:Leslie.Hansen@enron.com]\n",
+         "source": "email",
+         "to": "RFMARKHA@southernco.com"
+      },
+      {
+         "from": "rfmarkha@southernco.com",
+         "line": 54,
+         "rawfrom": "  \"Markham, Robert F.\" <RFMARKHA@southernco.com>@ENRON\n",
+         "source": "email",
+         "to": "Hansen, Leslie"
+      },
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 76,
+         "rawfrom": "Leslie.Hansen@enron.com [mailto:Leslie.Hansen@enron.com]\n",
+         "source": "email",
+         "to": "RFMARKHA@southernco.com"
+      },
+      {
+         "from": "rfmarkha@southernco.com",
+         "line": 95,
+         "rawfrom": "  \"Markham, Robert F.\" <RFMARKHA@southernco.com>@ENRON\n",
+         "source": "email",
+         "to": "Hansen, Leslie"
+      },
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 121,
+         "rawfrom": "Leslie.Hansen@enron.com [mailto:Leslie.Hansen@enron.com]\n",
+         "source": "email",
+         "to": "RFMARKHA@southernco.com"
+      },
+      {
+         "from": "rfmarkha@southernco.com",
+         "line": 141,
+         "rawfrom": "  \"Markham, Robert F.\" <RFMARKHA@southernco.com>@ENRON\n",
+         "source": "email",
+         "to": "Hansen, Leslie"
+      },
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 151,
+         "rawfrom": "Leslie.Hansen@enron.com [mailto:Leslie.Hansen@enron.com]\n",
+         "source": "email",
+         "to": "RFMARKHA@southernco.com"
+      },
+      {
+         "from": "rfmarkha@southernco.com",
+         "line": 178,
+         "rawfrom": "  \"Markham, Robert F.\" <RFMARKHA@southernco.com>@ENRON\n",
+         "source": "email",
+         "to": "Hansen, Leslie"
+      },
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 204,
+         "rawfrom": "Hansen, Leslie [mailto:Leslie.Hansen@enron.com]\n",
+         "source": "email",
+         "to": "RFMARKHA@southernco.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hodge-j/all_documents/244.",
+   "hops": [
+      {
+         "from": "jeffrey.hodge@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.hodge@enron.com\r\n",
+         "source": "valid",
+         "to": "paul_a_karns@fpl.com"
+      },
+      {
+         "from": "paul_a_karns@fpl.com",
+         "line": 28,
+         "rawfrom": "Paul_A_Karns@fpl.com\n",
+         "source": "valid",
+         "to": "Jeffrey.T.Hodge@enron.com"
+      },
+      {
+         "from": "jeffrey.t.hodge@enron.com",
+         "line": 43,
+         "rawfrom": "Jeffrey.T.Hodge@enron.com on 11/29/2000 04:37:02 PM\n",
+         "source": "email",
+         "to": "Paul_A_Karns@fpl.com"
+      },
+      {
+         "from": "jeffrey.t.hodge@enron.com",
+         "line": 91,
+         "rawfrom": "Jeffrey.T.Hodge@enron.com on 11/20/2000 10:51:16 AM\n",
+         "source": "email",
+         "to": "Paul_A_Karns@fpl.com"
+      },
+      {
+         "from": "jeffrey.t.hodge@enron.com",
+         "line": 130,
+         "rawfrom": "Jeffrey.T.Hodge@enron.com on 11/17/2000 09:13:30 AM\n",
+         "source": "email",
+         "to": "Paul_A_Karns@fpl.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/hodge-j/sent/14.",
+   "hops": [
+      {
+         "from": "jeffrey.hodge@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.hodge@enron.com\r\n",
+         "source": "valid",
+         "to": "paul_a_karns@fpl.com"
+      },
+      {
+         "from": "paul_a_karns@fpl.com",
+         "line": 28,
+         "rawfrom": "Paul_A_Karns@fpl.com\n",
+         "source": "valid",
+         "to": "Jeffrey.T.Hodge@enron.com"
+      },
+      {
+         "from": "jeffrey.t.hodge@enron.com",
+         "line": 43,
+         "rawfrom": "Jeffrey.T.Hodge@enron.com on 11/29/2000 04:37:02 PM\n",
+         "source": "email",
+         "to": "Paul_A_Karns@fpl.com"
+      },
+      {
+         "from": "jeffrey.t.hodge@enron.com",
+         "line": 91,
+         "rawfrom": "Jeffrey.T.Hodge@enron.com on 11/20/2000 10:51:16 AM\n",
+         "source": "email",
+         "to": "Paul_A_Karns@fpl.com"
+      },
+      {
+         "from": "jeffrey.t.hodge@enron.com",
+         "line": 130,
+         "rawfrom": "Jeffrey.T.Hodge@enron.com on 11/17/2000 09:13:30 AM\n",
+         "source": "email",
+         "to": "Paul_A_Karns@fpl.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/hodge-j/deleted_items/180.",
+   "hops": [
+      {
+         "from": "ruth.concannon@enron.com",
+         "line": 4,
+         "rawfrom": "ruth.concannon@enron.com\r\n",
+         "source": "valid",
+         "to": "gil.muhl@enron.com"
+      },
+      {
+         "from": "eanderson@keyspanenergy.com",
+         "line": 32,
+         "rawfrom": "\t\"Edwin P Anderson\" <eanderson@keyspanenergy.com>@ENRON  \n",
+         "source": "email",
+         "to": "Gil Muhl; Ruth Concannon"
+      },
+      {
+         "from": "rmontenes@keyspanenergy.com",
+         "line": 51,
+         "rawfrom": "\"Richard T. Montenes\" <rmontenes@keyspanenergy.com>\n",
+         "source": "email",
+         "to": "Edwin P Anderson <eanderson@keyspanenergy.com>"
+      },
+      {
+         "from": "rmontenes@keyspanenergy.com",
+         "line": 78,
+         "rawfrom": "\"Richard T. Montenes\" <rmontenes@keyspanenergy.com>\n",
+         "source": "email",
+         "to": "Ruth Concannon <rconcan@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+]

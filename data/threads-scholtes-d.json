@@ -1,0 +1,386 @@
+[
+{
+   "file": "/home/jb/maildir/scholtes-d/inbox/8.",
+   "hops": [
+      {
+         "from": "bharsh@puget.com",
+         "line": 4,
+         "rawfrom": "bharsh@puget.com\r\n",
+         "source": "valid",
+         "to": "isas@wscc.com"
+      },
+      {
+         "from": "ray.grinberg@pacificorp.com",
+         "line": 50,
+         "rawfrom": "\tGrinberg, Ray[SMTP:Ray.Grinberg@PacifiCorp.com]\n",
+         "source": "email",
+         "to": "Interchange Scheduling & Accounting Subcommittee (ISAS)"
+      },
+      {
+         "from": "sccobb@srpnet.com",
+         "line": 98,
+         "rawfrom": "sccobb@srpnet.com [mailto:sccobb@srpnet.com]\n",
+         "source": "email",
+         "to": "RWINN@pnm.com"
+      },
+      {
+         "from": "rwinn@pnm.com",
+         "line": 145,
+         "rawfrom": "Winn, Robert [mailto:RWINN@pnm.com]\n",
+         "source": "email",
+         "to": "'sccobb@srpnet.com'; ISAS Correspondents"
+      },
+      {
+         "from": "sccobb@srpnet.com",
+         "line": 194,
+         "rawfrom": "sccobb@srpnet.com [ mailto:sccobb@srpnet.com] \n",
+         "source": "email",
+         "to": "ISAS Correspondents"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scholtes-d/sent_items/70.",
+   "hops": [
+      {
+         "from": "diana.scholtes@enron.com",
+         "line": 4,
+         "rawfrom": "diana.scholtes@enron.com\r\n",
+         "source": "valid",
+         "to": "premierpumpcompany@home.com"
+      },
+      {
+         "from": "garrett@jobmenu.com",
+         "line": 22,
+         "rawfrom": "Garrett Stephenson [mailto:garrett@jobmenu.com]\n",
+         "source": "email",
+         "to": "Scholtes, Diana"
+      },
+      {
+         "from": "mkane@jobmenu.com",
+         "line": 36,
+         "rawfrom": "Michael Kane [mailto:mkane@jobmenu.com]\n",
+         "source": "email",
+         "to": "Garrett Stephenson"
+      },
+      {
+         "from": "mkane@jobmenu.com",
+         "line": 47,
+         "rawfrom": "Michael Kane <mkane@jobmenu.com>\n",
+         "source": "email",
+         "to": "<diana.scholtes@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scholtes-d/sent_items/68.",
+   "hops": [
+      {
+         "from": "diana.scholtes@enron.com",
+         "line": 4,
+         "rawfrom": "diana.scholtes@enron.com\r\n",
+         "source": "valid",
+         "to": "garrett@jobmenu.com"
+      },
+      {
+         "from": "garrett@jobmenu.com",
+         "line": 30,
+         "rawfrom": "Garrett Stephenson [mailto:garrett@jobmenu.com]\n",
+         "source": "email",
+         "to": "Scholtes, Diana"
+      },
+      {
+         "from": "mkane@jobmenu.com",
+         "line": 44,
+         "rawfrom": "Michael Kane [mailto:mkane@jobmenu.com]\n",
+         "source": "email",
+         "to": "Garrett Stephenson"
+      },
+      {
+         "from": "mkane@jobmenu.com",
+         "line": 55,
+         "rawfrom": "Michael Kane <mkane@jobmenu.com>\n",
+         "source": "email",
+         "to": "<diana.scholtes@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scholtes-d/stf/current_issues/14.",
+   "hops": [
+      {
+         "from": "bharsh@puget.com",
+         "line": 4,
+         "rawfrom": "bharsh@puget.com\r\n",
+         "source": "valid",
+         "to": "isas@wscc.com"
+      },
+      {
+         "from": "mfranz@sppc.com",
+         "line": 39,
+         "rawfrom": "\tFranz, Marilyn[SMTP:MFranz@SPPC.com]\n",
+         "source": "email",
+         "to": "Interchange Scheduling & Accounting Subcommittee (ISAS)"
+      },
+      {
+         "from": "mark.hackney@aps.com",
+         "line": 56,
+         "rawfrom": "Hackney, Mark W(Z39911) [mailto:Mark.Hackney@aps.com]\n",
+         "source": "email",
+         "to": "Interchange Scheduling & Accounting Subcommittee (ISAS)"
+      },
+      {
+         "from": "mark.hackney@aps.com",
+         "line": 104,
+         "rawfrom": "Hackney, Mark W(Z39911) <Mark.Hackney@aps.com>\n",
+         "source": "email",
+         "to": "Interchange Scheduling & Accounting Subcommittee (ISAS) <isas@wscc.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scholtes-d/stf/current_issues/19.",
+   "hops": [
+      {
+         "from": "dempsey@wapa.gov",
+         "line": 4,
+         "rawfrom": "dempsey@wapa.gov\r\n",
+         "source": "valid",
+         "to": "mhackney@apsc.com, demetrios.fotiou@bchydro.bc.ca, csmith@caiso.com,"
+      },
+      {
+         "from": "andy.rodriquez@enron.com",
+         "line": 72,
+         "rawfrom": "\tRodriquez, Andy[SMTP:Andy.Rodriquez@enron.com] \n",
+         "source": "email",
+         "to": "Harshbarger, Robert"
+      },
+      {
+         "from": "bharsh@puget.com",
+         "line": 124,
+         "rawfrom": "Harshbarger, Robert [mailto:bharsh@puget.com] \n",
+         "source": "email",
+         "to": "Rodriquez, Andy"
+      },
+      {
+         "from": "andy.rodriquez@enron.com",
+         "line": 162,
+         "rawfrom": "\tRodriquez, Andy[SMTP:Andy.Rodriquez@enron.com] \n",
+         "source": "email",
+         "to": "Harshbarger, Robert"
+      },
+      {
+         "from": "bharsh@puget.com",
+         "line": 192,
+         "rawfrom": "Harshbarger, Robert [mailto:bharsh@puget.com] \n",
+         "source": "email",
+         "to": "Rodriquez, Andy"
+      },
+      {
+         "from": "andy.rodriquez@enron.com",
+         "line": 220,
+         "rawfrom": "\tRodriquez, Andy[SMTP:Andy.Rodriquez@enron.com] \n",
+         "source": "email",
+         "to": "osc@nerc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scholtes-d/stf/current_issues/21.",
+   "hops": [
+      {
+         "from": "bharsh@puget.com",
+         "line": 4,
+         "rawfrom": "bharsh@puget.com\r\n",
+         "source": "valid",
+         "to": "'hackney@enron.com, mhackney@apsc.com, 'grow@enron.com, lgrow@idahopower.com,"
+      },
+      {
+         "from": "andy.rodriquez@enron.com",
+         "line": 65,
+         "rawfrom": "\tRodriquez, Andy[SMTP:Andy.Rodriquez@enron.com]\n",
+         "source": "email",
+         "to": "Harshbarger, Robert"
+      },
+      {
+         "from": "bharsh@puget.com",
+         "line": 117,
+         "rawfrom": "Harshbarger, Robert [mailto:bharsh@puget.com]\n",
+         "source": "email",
+         "to": "Rodriquez, Andy"
+      },
+      {
+         "from": "andy.rodriquez@enron.com",
+         "line": 155,
+         "rawfrom": "\tRodriquez, Andy[SMTP:Andy.Rodriquez@enron.com]\n",
+         "source": "email",
+         "to": "Harshbarger, Robert"
+      },
+      {
+         "from": "bharsh@puget.com",
+         "line": 185,
+         "rawfrom": "Harshbarger, Robert [mailto:bharsh@puget.com]\n",
+         "source": "email",
+         "to": "Rodriquez, Andy"
+      },
+      {
+         "from": "andy.rodriquez@enron.com",
+         "line": 213,
+         "rawfrom": "\tRodriquez, Andy[SMTP:Andy.Rodriquez@enron.com]\n",
+         "source": "email",
+         "to": "osc@nerc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scholtes-d/stf/current_issues/18.",
+   "hops": [
+      {
+         "from": "demetrios.fotiou@powerex.com",
+         "line": 4,
+         "rawfrom": "demetrios.fotiou@powerex.com\r\n",
+         "source": "valid",
+         "to": "'hackney@enron.com, mhackney@apsc.com, 'grow@enron.com, lgrow@idahopower.com,"
+      },
+      {
+         "from": "bharsh@puget.com",
+         "line": 28,
+         "rawfrom": "\tHarshbarger, Robert[SMTP:bharsh@puget.com]\n",
+         "source": "email",
+         "to": "'Hackney, Mark'; 'Grow, Lisa'; 'Lacen, Don'; 'DEMPSEY, JERRY';"
+      },
+      {
+         "from": "andy.rodriquez@enron.com",
+         "line": 90,
+         "rawfrom": "\tRodriquez, Andy[SMTP:Andy.Rodriquez@enron.com]\n",
+         "source": "email",
+         "to": "Harshbarger, Robert"
+      },
+      {
+         "from": "bharsh@puget.com",
+         "line": 142,
+         "rawfrom": "Harshbarger, Robert [mailto:bharsh@puget.com]\n",
+         "source": "email",
+         "to": "Rodriquez, Andy"
+      },
+      {
+         "from": "andy.rodriquez@enron.com",
+         "line": 180,
+         "rawfrom": "\tRodriquez, Andy[SMTP:Andy.Rodriquez@enron.com]\n",
+         "source": "email",
+         "to": "Harshbarger, Robert"
+      },
+      {
+         "from": "bharsh@puget.com",
+         "line": 210,
+         "rawfrom": "Harshbarger, Robert [mailto:bharsh@puget.com]\n",
+         "source": "email",
+         "to": "Rodriquez, Andy"
+      },
+      {
+         "from": "andy.rodriquez@enron.com",
+         "line": 238,
+         "rawfrom": "\tRodriquez, Andy[SMTP:Andy.Rodriquez@enron.com]\n",
+         "source": "email",
+         "to": "osc@nerc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scholtes-d/stf/current_issues/20.",
+   "hops": [
+      {
+         "from": "bharsh@puget.com",
+         "line": 4,
+         "rawfrom": "bharsh@puget.com\r\n",
+         "source": "valid",
+         "to": "andy.rodriquez@enron.com"
+      },
+      {
+         "from": "andy.rodriquez@enron.com",
+         "line": 56,
+         "rawfrom": "\tRodriquez, Andy[SMTP:Andy.Rodriquez@enron.com]\n",
+         "source": "email",
+         "to": "Harshbarger, Robert"
+      },
+      {
+         "from": "bharsh@puget.com",
+         "line": 108,
+         "rawfrom": "Harshbarger, Robert [mailto:bharsh@puget.com]\n",
+         "source": "email",
+         "to": "Rodriquez, Andy"
+      },
+      {
+         "from": "andy.rodriquez@enron.com",
+         "line": 146,
+         "rawfrom": "\tRodriquez, Andy[SMTP:Andy.Rodriquez@enron.com]\n",
+         "source": "email",
+         "to": "Harshbarger, Robert"
+      },
+      {
+         "from": "bharsh@puget.com",
+         "line": 176,
+         "rawfrom": "Harshbarger, Robert [mailto:bharsh@puget.com]\n",
+         "source": "email",
+         "to": "Rodriquez, Andy"
+      },
+      {
+         "from": "andy.rodriquez@enron.com",
+         "line": 204,
+         "rawfrom": "\tRodriquez, Andy[SMTP:Andy.Rodriquez@enron.com]\n",
+         "source": "email",
+         "to": "osc@nerc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scholtes-d/diana_scholtes/saved_sent/77.",
+   "hops": [
+      {
+         "from": "diana.scholtes@enron.com",
+         "line": 4,
+         "rawfrom": "diana.scholtes@enron.com\r\n",
+         "source": "valid",
+         "to": "wscholtes@aol.com"
+      },
+      {
+         "from": "julie.longoria@biggsinsurance.com",
+         "line": 22,
+         "rawfrom": "Julie Longoria [mailto:julie.longoria@biggsinsurance.com]\n",
+         "source": "email",
+         "to": "Scholtes, Diana"
+      },
+      {
+         "from": "mailer-daemon@biggsinsurance.com",
+         "line": 34,
+         "rawfrom": "Mail Delivery System [mailto:Mailer-Daemon@biggsinsurance.com]\n",
+         "source": "email",
+         "to": "julie.longoria@biggsinsurance.com"
+      },
+      {
+         "from": "julie.longoria@biggsinsurance.com",
+         "line": 57,
+         "rawfrom": "\"Julie Longoria\" <julie.longoria@biggsinsurance.com>\n",
+         "source": "email",
+         "to": "<dianascholtes@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+]

@@ -1,0 +1,1198 @@
+[
+{
+   "file": "/home/jb/maildir/cash-m/inbox/19.",
+   "hops": [
+      {
+         "from": "mike.indivero@nepco.com",
+         "line": 4,
+         "rawfrom": "mike.indivero@nepco.com\r\n",
+         "source": "valid",
+         "to": "michelle.cash@enron.com"
+      },
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 31,
+         "rawfrom": "Cash, Michelle [mailto:Michelle.Cash@ENRON.com]\n",
+         "source": "email",
+         "to": "David.Lund@nepco.com@ENRON; Mike.Indivero@nepco.com"
+      },
+      {
+         "from": "david.lund@nepco.com",
+         "line": 70,
+         "rawfrom": "David.Lund@nepco.com@ENRON\n",
+         "source": "email",
+         "to": "Mike.Indivero@nepco.com"
+      },
+      {
+         "from": "stublemm@odnss.com",
+         "line": 150,
+         "rawfrom": "Stubley, Mark [ mailto:StubleMM@odnss.com\n",
+         "source": "email",
+         "to": "'Mike.Indivero@nepco.com'"
+      },
+      {
+         "from": "mike.indivero@nepco.com",
+         "line": 219,
+         "rawfrom": "Mike.Indivero@nepco.com\n",
+         "source": "valid",
+         "to": "mark.stubley@odnss.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/cash-m/inbox/23.",
+   "hops": [
+      {
+         "from": "bob.black@nepco.com",
+         "line": 4,
+         "rawfrom": "bob.black@nepco.com\r\n",
+         "source": "valid",
+         "to": "michelle.cash@enron.com"
+      },
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 48,
+         "rawfrom": "Cash, Michelle [mailto:Michelle.Cash@ENRON.com]\n",
+         "source": "email",
+         "to": "David.Lund@nepco.com@ENRON; Mike.Indivero@nepco.com"
+      },
+      {
+         "from": "david.lund@nepco.com",
+         "line": 87,
+         "rawfrom": "David.Lund@nepco.com@ENRON\n",
+         "source": "email",
+         "to": "Mike.Indivero@nepco.com"
+      },
+      {
+         "from": "stublemm@odnss.com",
+         "line": 167,
+         "rawfrom": "Stubley, Mark [ mailto:StubleMM@odnss.com\n",
+         "source": "email",
+         "to": "'Mike.Indivero@nepco.com'"
+      },
+      {
+         "from": "mike.indivero@nepco.com",
+         "line": 236,
+         "rawfrom": "Mike.Indivero@nepco.com\n",
+         "source": "valid",
+         "to": "mark.stubley@odnss.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/cash-m/inbox/202.",
+   "hops": [
+      {
+         "from": "mike.croall@nepco.com",
+         "line": 4,
+         "rawfrom": "mike.croall@nepco.com\r\n",
+         "source": "valid",
+         "to": "michelle.cash@enron.com"
+      },
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 50,
+         "rawfrom": "> From:\tMichelle.Cash@enron.com [SMTP:Michelle.Cash@enron.com]\n",
+         "source": "email",
+         "to": "Mike.Croall@nepco.com"
+      },
+      {
+         "from": "mike.croall@nepco.com",
+         "line": 63,
+         "rawfrom": "FLO-Mike Croall <Mike.Croall@nepco.com>@ENRON\n",
+         "source": "email",
+         "to": "Cash, Michelle"
+      },
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 95,
+         "rawfrom": "Cash, Michelle [SMTP:Michelle.Cash@ENRON.com]\n",
+         "source": "email",
+         "to": "Mike.Indivero@nepco.com@ENRON; Mike.Croall@nepco.com; Indivero,"
+      },
+      {
+         "from": "mike.indivero@nepco.com",
+         "line": 117,
+         "rawfrom": "      Mike.Indivero@nepco.com@ENRON\n",
+         "source": "email",
+         "to": "Mike.Croall@nepco.com; Indivero, Michael"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/cash-m/all_documents/748.",
+   "hops": [
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 4,
+         "rawfrom": "michelle.cash@enron.com\r\n",
+         "source": "valid",
+         "to": "lbroocks@ogwb.com"
+      },
+      {
+         "from": "lbroocks@ogwb.com",
+         "line": 27,
+         "rawfrom": "lbroocks@ogwb.com",
+         "source": "valid",
+         "to": "\"Fine, Thomas F.\" <tffine@tva.gov>"
+      },
+      {
+         "from": "tffine@tva.gov",
+         "line": 42,
+         "rawfrom": "Fine, Thomas F. [mailto:tffine@tva.gov]\n",
+         "source": "email",
+         "to": "'lbroocks@ogwb.com'"
+      },
+      {
+         "from": "lbroocks@ogwb.com",
+         "line": 57,
+         "rawfrom": " Linda Broocks[SMTP:lbroocks@ogwb.com]\n",
+         "source": "email",
+         "to": "lbroocks@ogwb.com"
+      },
+      {
+         "from": "lbroocks@ogwb.com",
+         "line": 59,
+         "rawfrom": "lbroocks@ogwb.com",
+         "source": "valid",
+         "to": "Fine, Thomas F."
+      },
+      {
+         "from": "tffine@tva.gov",
+         "line": 76,
+         "rawfrom": "Fine, Thomas F. [mailto:tffine@tva.gov]\n",
+         "source": "email",
+         "to": "'lbroocks@ogwb.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/cash-m/all_documents/744.",
+   "hops": [
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 4,
+         "rawfrom": "michelle.cash@enron.com\r\n",
+         "source": "valid",
+         "to": "knotestine@littler.com"
+      },
+      {
+         "from": "knotestine@littler.com",
+         "line": 23,
+         "rawfrom": "\"Notestine, Kerry\" <KNotestine@littler.com> on 05/11/2000 08:59:54 AM\n",
+         "source": "email",
+         "to": "\"'Michelle.Cash@enron.com'\" <Michelle.Cash@enron.com>"
+      },
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 45,
+         "rawfrom": "Michelle.Cash@enron.com [mailto:Michelle.Cash@enron.com]\n",
+         "source": "email",
+         "to": "KNotestine@littler.com"
+      },
+      {
+         "from": "knotestine@littler.com",
+         "line": 57,
+         "rawfrom": "\"Notestine, Kerry\" <KNotestine@littler.com> on 05/10/2000 06:28:34 PM\n",
+         "source": "email",
+         "to": "\"'mcash@enron.com'\" <mcash@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/cash-m/all_documents/233.",
+   "hops": [
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 4,
+         "rawfrom": "michelle.cash@enron.com\r\n",
+         "source": "valid",
+         "to": "jon.chapman@enron.com"
+      },
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 66,
+         "rawfrom": "Michelle.Cash@enron.com [mailto:Michelle.Cash@enron.com]\n",
+         "source": "email",
+         "to": "jdodd@mdck.com"
+      },
+      {
+         "from": "jdodd@mdck.com",
+         "line": 83,
+         "rawfrom": "\"DODD, JEFF\" <jdodd@mdck.com> on 04/20/2000 01:13:34 PM\n",
+         "source": "email",
+         "to": "\"'Michelle Cash'\" <Michelle.Cash@enron.com>"
+      },
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 117,
+         "rawfrom": "Michelle Cash [mailto:Michelle.Cash@enron.com]\n",
+         "source": "email",
+         "to": "jdodd@mdck.com"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/cash-m/all_documents/223.",
+   "hops": [
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 4,
+         "rawfrom": "michelle.cash@enron.com\r\n",
+         "source": "valid",
+         "to": "jon.chapman@enron.com"
+      },
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 36,
+         "rawfrom": "Michelle.Cash@enron.com [mailto:Michelle.Cash@enron.com]\n",
+         "source": "email",
+         "to": "jdodd@mdck.com"
+      },
+      {
+         "from": "jdodd@mdck.com",
+         "line": 53,
+         "rawfrom": "\"DODD, JEFF\" <jdodd@mdck.com> on 04/20/2000 01:13:34 PM\n",
+         "source": "email",
+         "to": "\"'Michelle Cash'\" <Michelle.Cash@enron.com>"
+      },
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 87,
+         "rawfrom": "Michelle Cash [mailto:Michelle.Cash@enron.com]\n",
+         "source": "email",
+         "to": "jdodd@mdck.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/cash-m/all_documents/752.",
+   "hops": [
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 4,
+         "rawfrom": "michelle.cash@enron.com\r\n",
+         "source": "valid",
+         "to": "jeff@smartprice.com"
+      },
+      {
+         "from": "jeff@smartprice.com",
+         "line": 41,
+         "rawfrom": "Jeff Hoogendam <Jeff@SmartPrice.com>\n",
+         "source": "email",
+         "to": "\"'wcash@mindspring.com'\" <wcash@mindspring.com>"
+      },
+      {
+         "from": "wcash@houston.rr.com",
+         "line": 67,
+         "rawfrom": "Trey Cash [mailto:wcash@houston.rr.com]\n",
+         "source": "email",
+         "to": "'Jeff Hoogendam'"
+      },
+      {
+         "from": "jeff@smartprice.com",
+         "line": 87,
+         "rawfrom": "Jeff Hoogendam [mailto:Jeff@SmartPrice.com]\n",
+         "source": "email",
+         "to": "'wcash@mindspring.com'"
+      },
+      {
+         "from": "wcash@houston.rr.com",
+         "line": 96,
+         "rawfrom": "Trey Cash [mailto:wcash@houston.rr.com]\n",
+         "source": "email",
+         "to": "'Jeff Hoogendam'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/cash-m/all_documents/696.",
+   "hops": [
+      {
+         "from": "kelly@ecogas.com",
+         "line": 4,
+         "rawfrom": "kelly@ecogas.com\r\n",
+         "source": "valid",
+         "to": "michelle.cash@enron.com"
+      },
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 23,
+         "rawfrom": "Michelle.Cash@enron.com [mailto:Michelle.Cash@enron.com]\n",
+         "source": "email",
+         "to": "Kelly@ECOGAS.com"
+      },
+      {
+         "from": "kelly@ecogas.com",
+         "line": 36,
+         "rawfrom": "Kelly Mahmoud <Kelly@ECOGAS.com> on 12/12/2000 08:57:47 AM\n",
+         "source": "email",
+         "to": "\"'Randal.Maffett@enron.com'\" <Randal.Maffett@enron.com>"
+      },
+      {
+         "from": "randal.maffett@enron.com",
+         "line": 49,
+         "rawfrom": "Randal.Maffett@enron.com [mailto:Randal.Maffett@enron.com]\n",
+         "source": "email",
+         "to": "kelly@ecogas.com; kmahmoud@austin.rr.com; kelly.mahmoud@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/cash-m/all_documents/699.",
+   "hops": [
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 4,
+         "rawfrom": "michelle.cash@enron.com\r\n",
+         "source": "valid",
+         "to": "esholeen@bracepatt.com"
+      },
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 35,
+         "rawfrom": "Michelle.Cash@enron.com [mailto:Michelle.Cash@enron.com]\n",
+         "source": "email",
+         "to": "Kelly@ECOGAS.com"
+      },
+      {
+         "from": "kelly@ecogas.com",
+         "line": 48,
+         "rawfrom": "Kelly Mahmoud <Kelly@ECOGAS.com> on 12/12/2000 08:57:47 AM\n",
+         "source": "email",
+         "to": "\"'Randal.Maffett@enron.com'\" <Randal.Maffett@enron.com>"
+      },
+      {
+         "from": "randal.maffett@enron.com",
+         "line": 61,
+         "rawfrom": "Randal.Maffett@enron.com [mailto:Randal.Maffett@enron.com]\n",
+         "source": "email",
+         "to": "kelly@ecogas.com; kmahmoud@austin.rr.com; kelly.mahmoud@enron.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/cash-m/sent/162.",
+   "hops": [
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 4,
+         "rawfrom": "michelle.cash@enron.com\r\n",
+         "source": "valid",
+         "to": "jon.chapman@enron.com"
+      },
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 66,
+         "rawfrom": "Michelle.Cash@enron.com [mailto:Michelle.Cash@enron.com]\n",
+         "source": "email",
+         "to": "jdodd@mdck.com"
+      },
+      {
+         "from": "jdodd@mdck.com",
+         "line": 83,
+         "rawfrom": "\"DODD, JEFF\" <jdodd@mdck.com> on 04/20/2000 01:13:34 PM\n",
+         "source": "email",
+         "to": "\"'Michelle Cash'\" <Michelle.Cash@enron.com>"
+      },
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 117,
+         "rawfrom": "Michelle Cash [mailto:Michelle.Cash@enron.com]\n",
+         "source": "email",
+         "to": "jdodd@mdck.com"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/cash-m/sent/555.",
+   "hops": [
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 4,
+         "rawfrom": "michelle.cash@enron.com\r\n",
+         "source": "valid",
+         "to": "esholeen@bracepatt.com"
+      },
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 35,
+         "rawfrom": "Michelle.Cash@enron.com [mailto:Michelle.Cash@enron.com]\n",
+         "source": "email",
+         "to": "Kelly@ECOGAS.com"
+      },
+      {
+         "from": "kelly@ecogas.com",
+         "line": 48,
+         "rawfrom": "Kelly Mahmoud <Kelly@ECOGAS.com> on 12/12/2000 08:57:47 AM\n",
+         "source": "email",
+         "to": "\"'Randal.Maffett@enron.com'\" <Randal.Maffett@enron.com>"
+      },
+      {
+         "from": "randal.maffett@enron.com",
+         "line": 61,
+         "rawfrom": "Randal.Maffett@enron.com [mailto:Randal.Maffett@enron.com]\n",
+         "source": "email",
+         "to": "kelly@ecogas.com; kmahmoud@austin.rr.com; kelly.mahmoud@enron.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/cash-m/sent/595.",
+   "hops": [
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 4,
+         "rawfrom": "michelle.cash@enron.com\r\n",
+         "source": "valid",
+         "to": "lbroocks@ogwb.com"
+      },
+      {
+         "from": "lbroocks@ogwb.com",
+         "line": 27,
+         "rawfrom": "lbroocks@ogwb.com",
+         "source": "valid",
+         "to": "\"Fine, Thomas F.\" <tffine@tva.gov>"
+      },
+      {
+         "from": "tffine@tva.gov",
+         "line": 42,
+         "rawfrom": "Fine, Thomas F. [mailto:tffine@tva.gov]\n",
+         "source": "email",
+         "to": "'lbroocks@ogwb.com'"
+      },
+      {
+         "from": "lbroocks@ogwb.com",
+         "line": 57,
+         "rawfrom": " Linda Broocks[SMTP:lbroocks@ogwb.com]\n",
+         "source": "email",
+         "to": "lbroocks@ogwb.com"
+      },
+      {
+         "from": "lbroocks@ogwb.com",
+         "line": 59,
+         "rawfrom": "lbroocks@ogwb.com",
+         "source": "valid",
+         "to": "Fine, Thomas F."
+      },
+      {
+         "from": "tffine@tva.gov",
+         "line": 76,
+         "rawfrom": "Fine, Thomas F. [mailto:tffine@tva.gov]\n",
+         "source": "email",
+         "to": "'lbroocks@ogwb.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/cash-m/sent/591.",
+   "hops": [
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 4,
+         "rawfrom": "michelle.cash@enron.com\r\n",
+         "source": "valid",
+         "to": "knotestine@littler.com"
+      },
+      {
+         "from": "knotestine@littler.com",
+         "line": 23,
+         "rawfrom": "\"Notestine, Kerry\" <KNotestine@littler.com> on 05/11/2000 08:59:54 AM\n",
+         "source": "email",
+         "to": "\"'Michelle.Cash@enron.com'\" <Michelle.Cash@enron.com>"
+      },
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 45,
+         "rawfrom": "Michelle.Cash@enron.com [mailto:Michelle.Cash@enron.com]\n",
+         "source": "email",
+         "to": "KNotestine@littler.com"
+      },
+      {
+         "from": "knotestine@littler.com",
+         "line": 57,
+         "rawfrom": "\"Notestine, Kerry\" <KNotestine@littler.com> on 05/10/2000 06:28:34 PM\n",
+         "source": "email",
+         "to": "\"'mcash@enron.com'\" <mcash@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/cash-m/sent/153.",
+   "hops": [
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 4,
+         "rawfrom": "michelle.cash@enron.com\r\n",
+         "source": "valid",
+         "to": "jon.chapman@enron.com"
+      },
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 36,
+         "rawfrom": "Michelle.Cash@enron.com [mailto:Michelle.Cash@enron.com]\n",
+         "source": "email",
+         "to": "jdodd@mdck.com"
+      },
+      {
+         "from": "jdodd@mdck.com",
+         "line": 53,
+         "rawfrom": "\"DODD, JEFF\" <jdodd@mdck.com> on 04/20/2000 01:13:34 PM\n",
+         "source": "email",
+         "to": "\"'Michelle Cash'\" <Michelle.Cash@enron.com>"
+      },
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 87,
+         "rawfrom": "Michelle Cash [mailto:Michelle.Cash@enron.com]\n",
+         "source": "email",
+         "to": "jdodd@mdck.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/cash-m/notes_inbox/49.",
+   "hops": [
+      {
+         "from": "kelly@ecogas.com",
+         "line": 4,
+         "rawfrom": "kelly@ecogas.com\r\n",
+         "source": "valid",
+         "to": "michelle.cash@enron.com"
+      },
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 23,
+         "rawfrom": "Michelle.Cash@enron.com [mailto:Michelle.Cash@enron.com]\n",
+         "source": "email",
+         "to": "Kelly@ECOGAS.com"
+      },
+      {
+         "from": "kelly@ecogas.com",
+         "line": 36,
+         "rawfrom": "Kelly Mahmoud <Kelly@ECOGAS.com> on 12/12/2000 08:57:47 AM\n",
+         "source": "email",
+         "to": "\"'Randal.Maffett@enron.com'\" <Randal.Maffett@enron.com>"
+      },
+      {
+         "from": "randal.maffett@enron.com",
+         "line": 49,
+         "rawfrom": "Randal.Maffett@enron.com [mailto:Randal.Maffett@enron.com]\n",
+         "source": "email",
+         "to": "kelly@ecogas.com; kmahmoud@austin.rr.com; kelly.mahmoud@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/cash-m/deleted_items/189.",
+   "hops": [
+      {
+         "from": "rob.walls@enron.com",
+         "line": 4,
+         "rawfrom": "rob.walls@enron.com\r\n",
+         "source": "valid",
+         "to": "michelle.cash@enron.com"
+      },
+      {
+         "from": "diomedes@cumulouscapital.com",
+         "line": 22,
+         "rawfrom": "\t\"Diomedes Christodoulou\" <diomedes@cumulouscapital.com>@ENRON  \n",
+         "source": "email",
+         "to": "Walls Jr., Rob"
+      },
+      {
+         "from": "rob.walls@enron.com",
+         "line": 49,
+         "rawfrom": "Rob.Walls@enron.com [mailto:Rob.Walls@enron.com]\n",
+         "source": "email",
+         "to": "diomedes@cumulouscapital.com"
+      },
+      {
+         "from": "diomedes@cumulouscapital.com",
+         "line": 64,
+         "rawfrom": "  \"Diomedes Christodoulou\" <diomedes@cumulouscapital.com>@ENRON\n",
+         "source": "email",
+         "to": "Walls Jr., Rob"
+      },
+      {
+         "from": "diomedes@cumulouscapital.com",
+         "line": 80,
+         "rawfrom": "Diomedes Christodoulou [mailto:diomedes@cumulouscapital.com]\n",
+         "source": "email",
+         "to": "'jim.dereck@enron.com'; 'rob.walls@enron.com'"
+      },
+      {
+         "from": "diomedes@cumulouscapital.com",
+         "line": 114,
+         "rawfrom": "Diomedes Christodoulou [mailto:diomedes@cumulouscapital.com]\n",
+         "source": "email",
+         "to": "'mary.joyce@enron.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/cash-m/deleted_items/306.",
+   "hops": [
+      {
+         "from": "rob.walls@enron.com",
+         "line": 4,
+         "rawfrom": "rob.walls@enron.com\r\n",
+         "source": "valid",
+         "to": "mary.joyce@enron.com, michelle.cash@enron.com, pam.butler@enron.com"
+      },
+      {
+         "from": "diomedes@cumulouscapital.com",
+         "line": 23,
+         "rawfrom": "\"Diomedes Christodoulou\" <diomedes@cumulouscapital.com>@ENRON [NOTES:\"Diomedes Christodoulou\" <diomedes@cumulouscapital.com>@ENRON]\n",
+         "source": "email",
+         "to": "Walls Jr., Rob <Rob.Walls@ENRON.com>"
+      },
+      {
+         "from": "rob.walls@enron.com",
+         "line": 48,
+         "rawfrom": "Rob.Walls@enron.com [mailto:Rob.Walls@enron.com]\n",
+         "source": "email",
+         "to": "diomedes@cumulouscapital.com"
+      },
+      {
+         "from": "diomedes@cumulouscapital.com",
+         "line": 64,
+         "rawfrom": "  \"Diomedes Christodoulou\" <diomedes@cumulouscapital.com>@ENRON\n",
+         "source": "email",
+         "to": "Walls Jr., Rob"
+      },
+      {
+         "from": "rob.walls@enron.com",
+         "line": 93,
+         "rawfrom": "Rob.Walls@enron.com [mailto:Rob.Walls@enron.com]\n",
+         "source": "email",
+         "to": "diomedes@cumulouscapital.com"
+      },
+      {
+         "from": "diomedes@cumulouscapital.com",
+         "line": 128,
+         "rawfrom": "Diomedes Christodoulou [mailto:diomedes@cumulouscapital.com]\n",
+         "source": "email",
+         "to": "'jim.dereck@enron.com'; 'rob.walls@enron.com'"
+      },
+      {
+         "from": "diomedes@cumulouscapital.com",
+         "line": 167,
+         "rawfrom": "Diomedes Christodoulou [mailto:diomedes@cumulouscapital.com]\n",
+         "source": "email",
+         "to": "'mary.joyce@enron.com'"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/cash-m/deleted_items/186.",
+   "hops": [
+      {
+         "from": "mary.joyce@enron.com",
+         "line": 4,
+         "rawfrom": "mary.joyce@enron.com\r\n",
+         "source": "valid",
+         "to": "michelle.cash@enron.com"
+      },
+      {
+         "from": "diomedes@cumulouscapital.com",
+         "line": 37,
+         "rawfrom": "\t\"Diomedes Christodoulou\" <diomedes@cumulouscapital.com>@ENRON  \n",
+         "source": "email",
+         "to": "Walls Jr., Rob"
+      },
+      {
+         "from": "rob.walls@enron.com",
+         "line": 64,
+         "rawfrom": "Rob.Walls@enron.com [mailto:Rob.Walls@enron.com]\n",
+         "source": "email",
+         "to": "diomedes@cumulouscapital.com"
+      },
+      {
+         "from": "diomedes@cumulouscapital.com",
+         "line": 79,
+         "rawfrom": "  \"Diomedes Christodoulou\" <diomedes@cumulouscapital.com>@ENRON\n",
+         "source": "email",
+         "to": "Walls Jr., Rob"
+      },
+      {
+         "from": "diomedes@cumulouscapital.com",
+         "line": 95,
+         "rawfrom": "Diomedes Christodoulou [mailto:diomedes@cumulouscapital.com]\n",
+         "source": "email",
+         "to": "'jim.dereck@enron.com'; 'rob.walls@enron.com'"
+      },
+      {
+         "from": "diomedes@cumulouscapital.com",
+         "line": 129,
+         "rawfrom": "Diomedes Christodoulou [mailto:diomedes@cumulouscapital.com]\n",
+         "source": "email",
+         "to": "'mary.joyce@enron.com'"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/cash-m/deleted_items/26.",
+   "hops": [
+      {
+         "from": "cglazzard@pdq.net",
+         "line": 4,
+         "rawfrom": "cglazzard@pdq.net\r\n",
+         "source": "valid",
+         "to": "michelle.cash@enron.com"
+      },
+      {
+         "from": "cglazzard@pdq.net",
+         "line": 33,
+         "rawfrom": "  charles glazzard <cglazzard@pdq.net>@ENRON\n",
+         "source": "email",
+         "to": "Cash, Michelle"
+      },
+      {
+         "from": "cglazzard@pdq.net",
+         "line": 52,
+         "rawfrom": "charles glazzard <cglazzard@pdq.net>\n",
+         "source": "email",
+         "to": "Michelle.Cash@enron.com"
+      },
+      {
+         "from": "cglazzard@pdq.net",
+         "line": 74,
+         "rawfrom": "  charles glazzard <cglazzard@pdq.net>@ENRON\n",
+         "source": "email",
+         "to": "Cash, Michelle"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/cash-m/sent_items/405.",
+   "hops": [
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 4,
+         "rawfrom": "michelle.cash@enron.com\r\n",
+         "source": "valid",
+         "to": "gary.smith@enron.com, scott.gilchrist@enron.com"
+      },
+      {
+         "from": "mike.croall@nepco.com",
+         "line": 26,
+         "rawfrom": "\tFLO-Mike Croall <Mike.Croall@nepco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Cash, Michelle"
+      },
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 62,
+         "rawfrom": "> From:\tMichelle.Cash@enron.com [SMTP:Michelle.Cash@enron.com]\n",
+         "source": "email",
+         "to": "Mike.Croall@nepco.com"
+      },
+      {
+         "from": "mike.croall@nepco.com",
+         "line": 75,
+         "rawfrom": "FLO-Mike Croall <Mike.Croall@nepco.com>@ENRON\n",
+         "source": "email",
+         "to": "Cash, Michelle"
+      },
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 107,
+         "rawfrom": "Cash, Michelle [SMTP:Michelle.Cash@ENRON.com]\n",
+         "source": "email",
+         "to": "Mike.Indivero@nepco.com@ENRON; Mike.Croall@nepco.com; Indivero,"
+      },
+      {
+         "from": "mike.indivero@nepco.com",
+         "line": 129,
+         "rawfrom": "      Mike.Indivero@nepco.com@ENRON\n",
+         "source": "email",
+         "to": "Mike.Croall@nepco.com; Indivero, Michael"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/cash-m/sent_items/33.",
+   "hops": [
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 4,
+         "rawfrom": "michelle.cash@enron.com\r\n",
+         "source": "valid",
+         "to": "cindy.skinner@enron.com, david.oxley@enron.com, neil.davies@enron.com,"
+      },
+      {
+         "from": "knotestine@littler.com",
+         "line": 23,
+         "rawfrom": "\t\"Notestine, Kerry\" <KNotestine@littler.com>@ENRON [mailto:IMCEANOTES-+22Notestine+2C+20Kerry+22+20+3CKNotestine+40littler+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Cash, Michelle"
+      },
+      {
+         "from": "apeter@littler.com",
+         "line": 124,
+         "rawfrom": "\"Peter, Arnold\" <APeter@littler.com>\n",
+         "source": "email",
+         "to": ""
+      },
+      {
+         "from": "vmcevoy@littler.com",
+         "line": 137,
+         "rawfrom": "\"McEvoy, Vivienne\" <VMcEvoy@littler.com>\n",
+         "source": "email",
+         "to": ""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/cash-m/sent_items/211.",
+   "hops": [
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 4,
+         "rawfrom": "michelle.cash@enron.com\r\n",
+         "source": "valid",
+         "to": "knotestine@littler.com"
+      },
+      {
+         "from": "knotestine@littler.com",
+         "line": 23,
+         "rawfrom": "\t\"Notestine, Kerry\" <KNotestine@littler.com>@ENRON [mailto:IMCEANOTES-+22Notestine+2C+20Kerry+22+20+3CKNotestine+40littler+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Cash, Michelle"
+      },
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 42,
+         "rawfrom": "Michelle.Cash@enron.com [mailto:Michelle.Cash@enron.com]\n",
+         "source": "email",
+         "to": "KNotestine@littler.com"
+      },
+      {
+         "from": "knotestine@littler.com",
+         "line": 57,
+         "rawfrom": "  \"Notestine, Kerry\" <KNotestine@littler.com>@ENRON\n",
+         "source": "email",
+         "to": "Cash, Michelle"
+      },
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 83,
+         "rawfrom": "Michelle.Cash@enron.com [mailto:Michelle.Cash@enron.com]\n",
+         "source": "email",
+         "to": "KNotestine@littler.com"
+      },
+      {
+         "from": "knotestine@littler.com",
+         "line": 99,
+         "rawfrom": "  \"Notestine, Kerry\" <KNotestine@littler.com>@ENRON\n",
+         "source": "email",
+         "to": "#All Attorneys Firmwide"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/cash-m/sent_items/210.",
+   "hops": [
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 4,
+         "rawfrom": "michelle.cash@enron.com\r\n",
+         "source": "valid",
+         "to": "knotestine@littler.com"
+      },
+      {
+         "from": "knotestine@littler.com",
+         "line": 23,
+         "rawfrom": "\t\"Notestine, Kerry\" <KNotestine@littler.com>@ENRON [mailto:IMCEANOTES-+22Notestine+2C+20Kerry+22+20+3CKNotestine+40littler+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Cash, Michelle"
+      },
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 45,
+         "rawfrom": "Michelle.Cash@enron.com [mailto:Michelle.Cash@enron.com]\n",
+         "source": "email",
+         "to": "KNotestine@littler.com"
+      },
+      {
+         "from": "knotestine@littler.com",
+         "line": 60,
+         "rawfrom": "  \"Notestine, Kerry\" <KNotestine@littler.com>@ENRON\n",
+         "source": "email",
+         "to": "#All Attorneys Firmwide"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/cash-m/sent_items/146.",
+   "hops": [
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 4,
+         "rawfrom": "michelle.cash@enron.com\r\n",
+         "source": "valid",
+         "to": "cheryl.brinkman@mckesson.com"
+      },
+      {
+         "from": "cheryl.brinkman@mckesson.com",
+         "line": 28,
+         "rawfrom": "\t\"Brinkman, Cheryl\" <Cheryl.Brinkman@McKesson.com>@ENRON [mailto:IMCEANOTES-+22Brinkman+2C+20Cheryl+22+20+3CCheryl+2EBrinkman+40McKesson+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Cash, Michelle"
+      },
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 50,
+         "rawfrom": "Michelle.Cash@enron.com [mailto:Michelle.Cash@enron.com]\n",
+         "source": "email",
+         "to": "Brinkman, Cheryl"
+      },
+      {
+         "from": "cheryl.brinkman@mckesson.com",
+         "line": 64,
+         "rawfrom": "  \"Brinkman, Cheryl\" <Cheryl.Brinkman@McKesson.com>@ENRON\n",
+         "source": "email",
+         "to": "Cash, Michelle"
+      },
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 80,
+         "rawfrom": "Michelle.Cash@enron.com [mailto:Michelle.Cash@enron.com]\n",
+         "source": "email",
+         "to": "Brinkman, Cheryl"
+      },
+      {
+         "from": "cheryl.brinkman@mckesson.com",
+         "line": 97,
+         "rawfrom": "  \"Brinkman, Cheryl\" <Cheryl.Brinkman@McKesson.com>@ENRON\n",
+         "source": "email",
+         "to": "Cash, Michelle"
+      },
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 113,
+         "rawfrom": "Michelle.Cash@enron.com [mailto:Michelle.Cash@enron.com]\n",
+         "source": "email",
+         "to": "Brinkman, Cheryl"
+      },
+      {
+         "from": "cheryl.brinkman@mckesson.com",
+         "line": 141,
+         "rawfrom": "  \"Brinkman, Cheryl\" <Cheryl.Brinkman@McKesson.com>@ENRON\n",
+         "source": "email",
+         "to": "Cash, Michelle"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/cash-m/sent_items/418.",
+   "hops": [
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 4,
+         "rawfrom": "michelle.cash@enron.com\r\n",
+         "source": "valid",
+         "to": "a..hope@enron.com"
+      },
+      {
+         "from": "whalanjct@houston.rr.com",
+         "line": 40,
+         "rawfrom": "Jubran & Tina Whalan [mailto:whalanjct@houston.rr.com]\n",
+         "source": "email",
+         "to": "Fitzpatrick, Amy"
+      },
+      {
+         "from": "amy.fitzpatrick@enron.com",
+         "line": 63,
+         "rawfrom": "Fitzpatrick, Amy [mailto:Amy.Fitzpatrick@enron.com]\n",
+         "source": "email",
+         "to": "Jubran & Tina Whalan"
+      },
+      {
+         "from": "whalanjct@houston.rr.com",
+         "line": 77,
+         "rawfrom": "Jubran & Tina Whalan [mailto:whalanjct@houston.rr.com]\n",
+         "source": "email",
+         "to": "Fitzpatrick, Amy; Vhope@enron.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/cash-m/sent_items/19.",
+   "hops": [
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 4,
+         "rawfrom": "michelle.cash@enron.com\r\n",
+         "source": "valid",
+         "to": "rick.johnson@enron.com"
+      },
+      {
+         "from": "knotestine@littler.com",
+         "line": 22,
+         "rawfrom": "\t\"Notestine, Kerry\" <KNotestine@littler.com>@ENRON [mailto:IMCEANOTES-+22Notestine+2C+20Kerry+22+20+3CKNotestine+40littler+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Cash, Michelle"
+      },
+      {
+         "from": "christina.cordoza@mckesson.com",
+         "line": 84,
+         "rawfrom": "Cordoza, Christina [mailto:Christina.Cordoza@McKesson.com]\n",
+         "source": "email",
+         "to": "TDowdalls@LITTLER.com"
+      },
+      {
+         "from": "tdowdalls@littler.com",
+         "line": 107,
+         "rawfrom": "Dowdalls, Thomas [mailto:TDowdalls@LITTLER.com]\n",
+         "source": "email",
+         "to": "Cordoza, Christina"
+      },
+      {
+         "from": "christina.cordoza@mckesson.com",
+         "line": 126,
+         "rawfrom": "Cordoza, Christina [mailto:Christina.Cordoza@McKesson.com]\n",
+         "source": "email",
+         "to": "TDowdalls@LITTLER.com"
+      },
+      {
+         "from": "tdowdalls@littler.com",
+         "line": 150,
+         "rawfrom": "Dowdalls, Thomas [mailto:TDowdalls@LITTLER.com]\n",
+         "source": "email",
+         "to": "Andrew Pollack (E-mail); Armand G. Skol (E-mail); Barbara Birsinger"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/cash-m/sent_items/249.",
+   "hops": [
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 4,
+         "rawfrom": "michelle.cash@enron.com\r\n",
+         "source": "valid",
+         "to": "knotestine@littler.com"
+      },
+      {
+         "from": "knotestine@littler.com",
+         "line": 24,
+         "rawfrom": "\t\"Notestine, Kerry\" <KNotestine@littler.com>@ENRON [mailto:IMCEANOTES-+22Notestine+2C+20Kerry+22+20+3CKNotestine+40littler+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Cash, Michelle"
+      },
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 47,
+         "rawfrom": "Michelle.Cash@enron.com [mailto:Michelle.Cash@enron.com]\n",
+         "source": "email",
+         "to": "KNotestine@littler.com"
+      },
+      {
+         "from": "michelle.cash@enron.com",
+         "line": 101,
+         "rawfrom": "Michelle.Cash@enron.com\n",
+         "source": "valid",
+         "to": "knotestine@littler.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/cash-m/personal/11.",
+   "hops": [
+      {
+         "from": "twanda.sweet@enron.com",
+         "line": 4,
+         "rawfrom": "twanda.sweet@enron.com\r\n",
+         "source": "valid",
+         "to": "michelle.cash@enron.com, andrew.edison@enron.com"
+      },
+      {
+         "from": "uhines@gardere.com",
+         "line": 22,
+         "rawfrom": "\t\"UNDREA HINES\" <uhines@gardere.com>@ENRON [mailto:IMCEANOTES-+22UNDREA+20HINES+22+20+3Cuhines+40gardere+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "dhill@bracepatt.com; gdial@bracepatt.com; Sweet, Twanda; RLanford@ielectric.com; hwatson@jenkens.com"
+      },
+      {
+         "from": "dirvin@gardere.com",
+         "line": 29,
+         "rawfrom": "\"DAVID IRVIN\" <dirvin@gardere.com>\n",
+         "source": "email",
+         "to": "\"DELMAR ROBERTS\" <droberts@gardere.com>,\t\"UNDREA HINES\" <uhines@gardere.com>,\t\"WINNIE HURSTON\" <whurston@gardere.com>"
+      },
+      {
+         "from": "swain@copn.com",
+         "line": 42,
+         "rawfrom": "\"Swain, Sharon\" <swain@copn.com>\n",
+         "source": "email",
+         "to": "\"'sgriffin@velaw.com'\" <sgriffin@velaw.com>,\t\"'pfalvella@gardere.com'\" <pfalvella@gardere.com>,\t\"'pwiggins@gardere.com'\" <pwiggins@gardere.com>,\t\"'dirvin@gardere.com'\" <dirvin@gardere.com>,\t\"'smtakacs@aol.com'\" <smtakacs@aol.com>"
+      },
+      {
+         "from": "carol.martin@chamberlainlaw.com",
+         "line": 55,
+         "rawfrom": "Carol Martin [mailto:Carol.Martin@chamberlainlaw.com]\n",
+         "source": "email",
+         "to": "anne_davis@administaff.com; Karen_Palmer@administaff.com;"
+      }
+   ],
+   "skipped": 0
+}
+]

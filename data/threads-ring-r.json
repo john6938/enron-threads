@@ -1,0 +1,253 @@
+[
+{
+   "file": "/home/jb/maildir/ring-r/eesirenewableenergy/118.",
+   "hops": [
+      {
+         "from": "mmcclel4@csc.com",
+         "line": 4,
+         "rawfrom": "mmcclel4@csc.com\r\n",
+         "source": "valid",
+         "to": "richard.ring@enron.com"
+      },
+      {
+         "from": "richard.ring@enron.com",
+         "line": 52,
+         "rawfrom": "\"Ring, Richard\" <Richard.Ring@ENRON.com> on 09/12/2001 10:29:17 AM\n",
+         "source": "email",
+         "to": "Michael J McClellan/TMG/CSC@CSC"
+      },
+      {
+         "from": "mmcclel4@csc.com",
+         "line": 75,
+         "rawfrom": "mmcclel4@csc.com [mailto:mmcclel4@csc.com]\n",
+         "source": "email",
+         "to": "rring@enron.com"
+      },
+      {
+         "from": "rring@enron.com",
+         "line": 93,
+         "rawfrom": "rring@enron.com on 08/17/2001 02:25:33 PM\n",
+         "source": "email",
+         "to": "Michael J McClellan/TMG/CSC@CSC"
+      },
+      {
+         "from": "mmcclel4@csc.com",
+         "line": 124,
+         "rawfrom": "mmcclel4@csc.com@csc.com on 08/15/2001 04:30:28 PM\n",
+         "source": "email",
+         "to": "eespower@enron.com, richard.ring@enron.com, mhannusc@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/ring-r/eesirenewableenergy/121.",
+   "hops": [
+      {
+         "from": "mmcclel4@csc.com",
+         "line": 4,
+         "rawfrom": "mmcclel4@csc.com\r\n",
+         "source": "valid",
+         "to": "richard.ring@enron.com"
+      },
+      {
+         "from": "richard.ring@enron.com",
+         "line": 27,
+         "rawfrom": "\"Ring, Richard\" <Richard.Ring@ENRON.com> on 09/12/2001 10:29:17 AM\n",
+         "source": "email",
+         "to": "Michael J McClellan/TMG/CSC@CSC"
+      },
+      {
+         "from": "mmcclel4@csc.com",
+         "line": 50,
+         "rawfrom": "mmcclel4@csc.com [mailto:mmcclel4@csc.com]\n",
+         "source": "email",
+         "to": "rring@enron.com"
+      },
+      {
+         "from": "rring@enron.com",
+         "line": 68,
+         "rawfrom": "rring@enron.com on 08/17/2001 02:25:33 PM\n",
+         "source": "email",
+         "to": "Michael J McClellan/TMG/CSC@CSC"
+      },
+      {
+         "from": "mmcclel4@csc.com",
+         "line": 99,
+         "rawfrom": "mmcclel4@csc.com@csc.com on 08/15/2001 04:30:28 PM\n",
+         "source": "email",
+         "to": "eespower@enron.com, richard.ring@enron.com, mhannusc@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/ring-r/eesirenewableenergy/115.",
+   "hops": [
+      {
+         "from": "stacey.bolton@enron.com",
+         "line": 4,
+         "rawfrom": "stacey.bolton@enron.com\r\n",
+         "source": "valid",
+         "to": "hap.boyd@enron.com, michael.payne@enron.com, elliot.mainzer@enron.com,"
+      },
+      {
+         "from": "bgrace@seadvantage.com",
+         "line": 33,
+         "rawfrom": "\t\"Robert C. Grace\" <bgrace@seadvantage.com>@ENRON [mailto:IMCEANOTES-+22Robert+20C+2E+20Grace+22+20+3Cbgrace+40seadvantage+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Bolton, Stacey"
+      },
+      {
+         "from": "stacey.bolton@enron.com",
+         "line": 82,
+         "rawfrom": "Bolton, Stacey [mailto:Stacey.Bolton@ENRON.com]\n",
+         "source": "email",
+         "to": "PJM,"
+      },
+      {
+         "from": "rdeangelis@cklcpc.com",
+         "line": 137,
+         "rawfrom": "\t\"Richard DeAngelis\" <RDeAngelis@CKLCPC.com>@ENRON\n",
+         "source": "email",
+         "to": "Rishe, Frank; Bolton, Stacey"
+      },
+      {
+         "from": "linda.nowicki@bpu.state.nj.us",
+         "line": 151,
+         "rawfrom": "\"Linda Nowicki\" <linda.nowicki@bpu.state.nj.us>\n",
+         "source": "email",
+         "to": "\"New Jersey Metering and Billing List Server\" <njmab@ls.eei.org>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/ring-r/sent_items/47.",
+   "hops": [
+      {
+         "from": "richard.ring@enron.com",
+         "line": 4,
+         "rawfrom": "richard.ring@enron.com\r\n",
+         "source": "valid",
+         "to": "sssharma@aep.com"
+      },
+      {
+         "from": "dtran2149@yahoo.com",
+         "line": 22,
+         "rawfrom": " <dtran2149@yahoo.com>\n",
+         "source": "email",
+         "to": "ddecelle@lehman.com, hvo@houston.rr.com, naz05@msn.com, Padron, Juan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JPADRON>, rring@enron.com, carlos.garcia@grandecom.com"
+      },
+      {
+         "from": "dtran2149@yahoo.com",
+         "line": 48,
+         "rawfrom": " <dtran2149@yahoo.com>\n",
+         "source": "email",
+         "to": "ddecelle@lehman.com, naz05@msn.com, jackson.vo@newpower.com, Padron, Juan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JPADRON>, rring@enron.com, god@heaven.com, david-ngo@ergos.com"
+      },
+      {
+         "from": "dtran2149@yahoo.com",
+         "line": 71,
+         "rawfrom": " <dtran2149@yahoo.com>\n",
+         "source": "email",
+         "to": "chris@taprootventures.com, jackson.vo@newpower.com, god@heaven.com, david-ngo@ergos.com, carlos.garcia@grandecom.com, lng1@houston.rr.com, ceci.torn@newpower.com, craig.ingerto@newpower.com, Padron, Juan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JPADRON>, rring@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/ring-r/outbox/1.",
+   "hops": [
+      {
+         "from": "nancy.hetrick@enron.com",
+         "line": 4,
+         "rawfrom": "nancy.hetrick@enron.com\r\n",
+         "source": "valid",
+         "to": "rebecca.fite@enron.com"
+      },
+      {
+         "from": "kbergman@ercot.com",
+         "line": 30,
+         "rawfrom": "\t\"Bergman, Karen\" <KBergman@ercot.com>@ENRON [mailto:IMCEANOTES-+22Bergman+2C+20Karen+22+20+3CKBergman+40ercot+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Hetrick, Nancy"
+      },
+      {
+         "from": "nancy.hetrick@enron.com",
+         "line": 83,
+         "rawfrom": "Nancy.Hetrick@ENRON.com",
+         "source": "valid",
+         "to": "\"Fite, Rebecca\" <Rebecca.Fite@ENRON.com>, nhetrick@enron.com,"
+      },
+      {
+         "from": "preston.ochsner@enron.com",
+         "line": 129,
+         "rawfrom": "  Ochsner, Preston [mailto:Preston.Ochsner@ENRON.com  << File: \n",
+         "source": "email",
+         "to": "Bergman, Karen"
+      },
+      {
+         "from": "kbergman@ercot.com",
+         "line": 137,
+         "rawfrom": "Bergman, Karen [mailto:KBergman@ercot.com  << File: \n",
+         "source": "email",
+         "to": "Ochsner, Preston"
+      },
+      {
+         "from": "preston.ochsner@enron.com",
+         "line": 161,
+         "rawfrom": "  Ochsner, Preston [ mailto:Preston.Ochsner@ENRON.com  << File: \n",
+         "source": "email",
+         "to": "Fite, Rebecca"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/ring-r/eesidealsgsaregion1/29.",
+   "hops": [
+      {
+         "from": "bill.hatch@enron.com",
+         "line": 4,
+         "rawfrom": "bill.hatch@enron.com\r\n",
+         "source": "valid",
+         "to": "richard.ring@enron.com"
+      },
+      {
+         "from": "dbrown66@csc.com",
+         "line": 42,
+         "rawfrom": "dbrown66@csc.com",
+         "source": "valid",
+         "to": "bhatch@enron.com"
+      },
+      {
+         "from": "bhatch@enron.com",
+         "line": 64,
+         "rawfrom": "bhatch@enron.com on 08/27/2001 03:41:49 PM\n",
+         "source": "email",
+         "to": "Dyaniese A Brown/TMG/CSC@CSC"
+      },
+      {
+         "from": "dbrown66@csc.com",
+         "line": 96,
+         "rawfrom": "dbrown66@csc.com on 08/27/2001 02:41:47 PM\n",
+         "source": "email",
+         "to": "\"Bill Hatch\" <bhatch@enron.com>"
+      },
+      {
+         "from": "bhatch@enron.com",
+         "line": 116,
+         "rawfrom": "\"Bill Hatch\" <bhatch@enron.com> on 08/27/2001 01:49:12 PM\n",
+         "source": "email",
+         "to": "Dyaniese A Brown/TMG/CSC@CSC"
+      }
+   ],
+   "skipped": 1
+}
+]

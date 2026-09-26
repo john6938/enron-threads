@@ -1,0 +1,260 @@
+[
+{
+   "file": "/home/jb/maildir/storey-g/deleted_items/210.",
+   "hops": [
+      {
+         "from": "martin.cuilla@enron.com",
+         "line": 4,
+         "rawfrom": "martin.cuilla@enron.com\r\n",
+         "source": "valid",
+         "to": "s..shively@enron.com, kevin.ruscitti@enron.com, h..lewis@enron.com,"
+      },
+      {
+         "from": "mcontant@cypressasset.com",
+         "line": 23,
+         "rawfrom": "\t\"Michael D. Contant\" <mcontant@cypressasset.com>@ENRON [mailto:IMCEANOTES-+22Michael+20D+2E+20Contant+22+20+3Cmcontant+40cypressasset+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Cuilla, Martin"
+      },
+      {
+         "from": "jnaples@brobeck.com",
+         "line": 33,
+         "rawfrom": "\"Naples, Joseph J.\" <JNaples@brobeck.com>\n",
+         "source": "email",
+         "to": "\"'carlos'\" <csoltero@mcginnislaw.com>,\t\"'drew'\" <ADinovo@velaw.com>,\t\"'contant'\" <mcontant@cypressasset.com>,\t\"'clay'\" <cplatt@graycary.com>,\t\"'dimitri'\" <dkarhu@houston.rr.com>,\t\"'george'\" <GONZGY@bracepatt.com>,\t\"'glatter'\" <jglatter@whhf.com>,\t\"'joe'\" <joe_graham@kirkland.com>,\t\"'murr'\" <gmurr@fulbright.com>,\t\"'vic'\" <vhardy@orrick.com>,\t\"'ray'\" <Ray.Kerlick@roystonlaw.com>"
+      },
+      {
+         "from": "andy@mbst.com",
+         "line": 63,
+         "rawfrom": "Andrew Tenenbaum [mailto:andy@mbst.com]\n",
+         "source": "email",
+         "to": "John Melideo (E-mail); Warren Lazarow (E-mail); Jonathan G. Shapiro"
+      },
+      {
+         "from": "sylvie.motz@delta.com",
+         "line": 74,
+         "rawfrom": "Motz, Sylvie [mailto:Sylvie.Motz@delta.com]\n",
+         "source": "email",
+         "to": "'planetchang@yahoo.com'; 'dkim@winston.com'; 'Eun Hee Pai';"
+      },
+      {
+         "from": "csparks@nyc.rr.com",
+         "line": 90,
+         "rawfrom": "Carilyn Sparks <csparks@nyc.rr.com>\n",
+         "source": "email",
+         "to": "Amy Ford <Amy_Ford@firstar.com>, Barry Bryant"
+      },
+      {
+         "from": "karenyoung19@hotmail.com",
+         "line": 102,
+         "rawfrom": "karenyoung19@hotmail.com",
+         "source": "valid",
+         "to": "Johannes Juette/PA/EU/ShS@ShSDOMAIN"
+      },
+      {
+         "from": "maureen@cavallocapital.com",
+         "line": 197,
+         "rawfrom": "Ong, Maureen [mailto:Maureen@cavallocapital.com]\n",
+         "source": "email",
+         "to": "Julia Kim (E-mail); Philip Utsch (E-mail); Richard Carty (E-mail);"
+      },
+      {
+         "from": "twaugh@hbk.com",
+         "line": 207,
+         "rawfrom": "Tom Waugh [mailto:twaugh@hbk.com]\n",
+         "source": "email",
+         "to": "Tadd Chessen (E-mail); Taylor McGowan (E-mail); Michael Fein"
+      },
+      {
+         "from": "matt.waddell@morganstanley.com",
+         "line": 230,
+         "rawfrom": "W. Matthew Waddell [mailto:Matt.Waddell@morganstanley.com]=20\n",
+         "source": "email",
+         "to": "Tim Ryan"
+      },
+      {
+         "from": "jonathan.langer@gs.com",
+         "line": 252,
+         "rawfrom": "Langer, Jonathan [mailto:jonathan.langer@gs.com]\n",
+         "source": "email",
+         "to": "'Robert Langer'"
+      },
+      {
+         "from": "samuel.greene@drkw.com",
+         "line": 302,
+         "rawfrom": "samuel.greene@drkw.com [mailto:samuel.greene@drkw.com]\n",
+         "source": "email",
+         "to": "jason.horowitz@fxminc.com; salter_james@jpmorgan.com;"
+      },
+      {
+         "from": "dmcnulty@exchange.ml.com",
+         "line": 384,
+         "rawfrom": "McNulty, Derek (IBK-NY) [mailto:DMcNulty@exchange.ML.com]\n",
+         "source": "email",
+         "to": "'paul.brown@csfb.com'; 'dz@msdcapital.com';"
+      },
+      {
+         "from": "mokyoung_hyun@hotmail.com",
+         "line": 413,
+         "rawfrom": "  Mokyoung Hyun [SMTP:mokyoung_hyun@hotmail.com]\n",
+         "source": "email",
+         "to": "mhyun2@exchange.ml.com"
+      },
+      {
+         "from": "olivia.ha@gs.com",
+         "line": 428,
+         "rawfrom": "\"Ha, Olivia\" <Olivia.Ha@gs.com>\n",
+         "source": "email",
+         "to": "\"'TITI'\" <ohkee@ms.com>, \"'Mokyoung!'\""
+      },
+      {
+         "from": "troh@lehman.com",
+         "line": 452,
+         "rawfrom": "Roh, Thomas L [mailto:troh@lehman.com]\n",
+         "source": "email",
+         "to": "'albert.park@gs.com'; 'jseo@broadview.com'; 'haidee.lee@ubsw.com';"
+      },
+      {
+         "from": "plevine@regionalhealthgroup.com",
+         "line": 505,
+         "rawfrom": " Peter Levine [mailto:plevine@regionalhealthgroup.com]\n",
+         "source": "email",
+         "to": "Andrew Cavanna; David Zorub; Eric Reiter"
+      },
+      {
+         "from": "pstanberry@onebox.com",
+         "line": 580,
+         "rawfrom": " parker stanberry [SMTP:pstanberry@onebox.com]\n",
+         "source": "email",
+         "to": "michael.goller@jpmorganpartners.com;"
+      },
+      {
+         "from": "pchung@thecarlylegroup.co.kr",
+         "line": 642,
+         "rawfrom": "Peter Chung <pchung@thecarlylegroup.co.kr>\n",
+         "source": "email",
+         "to": "\"'james_graff@rsco.com'\" <james_graff@rsco.com>,"
+      }
+   ],
+   "skipped": 21
+}
+,
+{
+   "file": "/home/jb/maildir/storey-g/sent_items/31.",
+   "hops": [
+      {
+         "from": "geoff.storey@enron.com",
+         "line": 4,
+         "rawfrom": "geoff.storey@enron.com\r\n",
+         "source": "valid",
+         "to": "cestopinal@mohleadams.com"
+      },
+      {
+         "from": "cestopinal@mohleadams.com",
+         "line": 22,
+         "rawfrom": "Connie L. Babbitt [mailto:cestopinal@mohleadams.com]\n",
+         "source": "email",
+         "to": "Storey, Geoff"
+      },
+      {
+         "from": "geoff.storey@enron.com",
+         "line": 31,
+         "rawfrom": "Storey, Geoff [mailto:Geoff.Storey@ENRON.com]\n",
+         "source": "email",
+         "to": "Connie L. Babbitt"
+      },
+      {
+         "from": "cestopinal@mohleadams.com",
+         "line": 40,
+         "rawfrom": "Connie L. Babbitt [mailto:cestopinal@mohleadams.com]\n",
+         "source": "email",
+         "to": "Storey, Geoff"
+      },
+      {
+         "from": "geoff.storey@enron.com",
+         "line": 49,
+         "rawfrom": "Storey, Geoff [mailto:Geoff.Storey@ENRON.com]\n",
+         "source": "email",
+         "to": "Connie L. Babbitt"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/storey-g/sent_items/26.",
+   "hops": [
+      {
+         "from": "geoff.storey@enron.com",
+         "line": 4,
+         "rawfrom": "geoff.storey@enron.com\r\n",
+         "source": "valid",
+         "to": "cestopinal@mohleadams.com"
+      },
+      {
+         "from": "cestopinal@mohleadams.com",
+         "line": 26,
+         "rawfrom": "Connie L. Babbitt [mailto:cestopinal@mohleadams.com]\n",
+         "source": "email",
+         "to": "Storey, Geoff"
+      },
+      {
+         "from": "geoff.storey@enron.com",
+         "line": 35,
+         "rawfrom": "Storey, Geoff [mailto:Geoff.Storey@ENRON.com]\n",
+         "source": "email",
+         "to": "Connie L. Babbitt"
+      },
+      {
+         "from": "jimmystorey@fbcc.com",
+         "line": 43,
+         "rawfrom": "Pam Storey [mailto:jimmystorey@fbcc.com]\n",
+         "source": "email",
+         "to": "Storey, Geoff"
+      },
+      {
+         "from": "geoff.storey@enron.com",
+         "line": 66,
+         "rawfrom": "Storey, Geoff [mailto:Geoff.Storey@ENRON.com]\n",
+         "source": "email",
+         "to": "Connie L. Babbitt"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/storey-g/estate/9.",
+   "hops": [
+      {
+         "from": "cestopinal@mohleadams.com",
+         "line": 4,
+         "rawfrom": "cestopinal@mohleadams.com\r\n",
+         "source": "valid",
+         "to": "geoff.storey@enron.com"
+      },
+      {
+         "from": "geoff.storey@enron.com",
+         "line": 22,
+         "rawfrom": "Storey, Geoff [mailto:Geoff.Storey@ENRON.com]\n",
+         "source": "email",
+         "to": "Connie L. Babbitt"
+      },
+      {
+         "from": "cestopinal@mohleadams.com",
+         "line": 31,
+         "rawfrom": "Connie L. Babbitt [mailto:cestopinal@mohleadams.com]\n",
+         "source": "email",
+         "to": "Storey, Geoff"
+      },
+      {
+         "from": "geoff.storey@enron.com",
+         "line": 40,
+         "rawfrom": "Storey, Geoff [mailto:Geoff.Storey@ENRON.com]\n",
+         "source": "email",
+         "to": "Connie L. Babbitt"
+      }
+   ],
+   "skipped": 0
+}
+]

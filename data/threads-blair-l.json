@@ -1,0 +1,351 @@
+[
+{
+   "file": "/home/jb/maildir/blair-l/inbox/254.",
+   "hops": [
+      {
+         "from": "steve.weller@enron.com",
+         "line": 4,
+         "rawfrom": "steve.weller@enron.com\r\n",
+         "source": "valid",
+         "to": "lynn.blair@enron.com, dan.fancler@enron.com"
+      },
+      {
+         "from": "srogers@oneok.com",
+         "line": 24,
+         "rawfrom": "Rogers, Sherry [mailto:srogers@Oneok.com]\n",
+         "source": "email",
+         "to": "Weller, Steve"
+      },
+      {
+         "from": "steve.weller@enron.com",
+         "line": 43,
+         "rawfrom": "Weller, Steve [mailto:Steve.Weller@ENRON.com]\n",
+         "source": "email",
+         "to": "Rogers, Sherry"
+      },
+      {
+         "from": "srogers@oneok.com",
+         "line": 52,
+         "rawfrom": "Rogers, Sherry [mailto:srogers@Oneok.com]\n",
+         "source": "email",
+         "to": "Weller, Steve"
+      },
+      {
+         "from": "steve.weller@enron.com",
+         "line": 75,
+         "rawfrom": "Weller, Steve [mailto:Steve.Weller@ENRON.com]\n",
+         "source": "email",
+         "to": "Sherry Rogers (E-mail)"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/blair-l/sent_items/665.",
+   "hops": [
+      {
+         "from": "lynn.blair@enron.com",
+         "line": 4,
+         "rawfrom": "lynn.blair@enron.com\r\n",
+         "source": "valid",
+         "to": "charlie.graham@enron.com"
+      },
+      {
+         "from": "dkurth@oneok.com",
+         "line": 51,
+         "rawfrom": "Kurth, Delaine [mailto:dkurth@Oneok.com]\n",
+         "source": "email",
+         "to": "Graham, Charlie"
+      },
+      {
+         "from": "charlie.graham@enron.com",
+         "line": 66,
+         "rawfrom": "Charlie.Graham@enron.com [mailto:Charlie.Graham@enron.com]\n",
+         "source": "email",
+         "to": "dkurth@Oneok.com"
+      },
+      {
+         "from": "dkurth@oneok.com",
+         "line": 84,
+         "rawfrom": "    \"Kurth, Delaine\" <dkurth@Oneok.com>@ENRON\n",
+         "source": "email",
+         "to": "Graham, Charlie"
+      },
+      {
+         "from": "charlie.graham@enron.com",
+         "line": 93,
+         "rawfrom": "Graham, Charlie [mailto:Charlie.Graham@ENRON.com]\n",
+         "source": "email",
+         "to": "Delaine Kurth (E-mail)"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/blair-l/sent_items/924.",
+   "hops": [
+      {
+         "from": "lynn.blair@enron.com",
+         "line": 4,
+         "rawfrom": "lynn.blair@enron.com\r\n",
+         "source": "valid",
+         "to": "harry.woodson@enron.com, raetta.zadow@enron.com, larry.berger@enron.com"
+      },
+      {
+         "from": "srogers@oneok.com",
+         "line": 35,
+         "rawfrom": "Rogers, Sherry [mailto:srogers@Oneok.com]\n",
+         "source": "email",
+         "to": "Weller, Steve"
+      },
+      {
+         "from": "steve.weller@enron.com",
+         "line": 54,
+         "rawfrom": "Weller, Steve [mailto:Steve.Weller@ENRON.com]\n",
+         "source": "email",
+         "to": "Rogers, Sherry"
+      },
+      {
+         "from": "srogers@oneok.com",
+         "line": 63,
+         "rawfrom": "Rogers, Sherry [mailto:srogers@Oneok.com]\n",
+         "source": "email",
+         "to": "Weller, Steve"
+      },
+      {
+         "from": "steve.weller@enron.com",
+         "line": 86,
+         "rawfrom": "Weller, Steve [mailto:Steve.Weller@ENRON.com]\n",
+         "source": "email",
+         "to": "Sherry Rogers (E-mail)"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/blair-l/sent_items/222.",
+   "hops": [
+      {
+         "from": "lynn.blair@enron.com",
+         "line": 4,
+         "rawfrom": "lynn.blair@enron.com\r\n",
+         "source": "valid",
+         "to": "tgh4@pge.com"
+      },
+      {
+         "from": "tgh4@pge.com",
+         "line": 22,
+         "rawfrom": "\t\"Hudson, Todd\" <TGH4@pge.com>@ENRON  \n",
+         "source": "email",
+         "to": "Blair, Lynn"
+      },
+      {
+         "from": "lynn.blair@enron.com",
+         "line": 44,
+         "rawfrom": "Lynn.Blair@enron.com [mailto:Lynn.Blair@enron.com]\n",
+         "source": "email",
+         "to": "Hudson, Todd"
+      },
+      {
+         "from": "tgh4@pge.com",
+         "line": 55,
+         "rawfrom": "  \"Hudson, Todd\" <TGH4@pge.com>@ENRON\n",
+         "source": "email",
+         "to": "Blair, Lynn"
+      },
+      {
+         "from": "lynn.blair@enron.com",
+         "line": 77,
+         "rawfrom": "Blair, Lynn [mailto:Lynn.Blair@enron.com]\n",
+         "source": "email",
+         "to": "\"Snyder, Cheryl\" <CxM2@pge.com>@ENRON; Hudson, Todd"
+      },
+      {
+         "from": "cxm2@pge.com",
+         "line": 109,
+         "rawfrom": "     \"Snyder, Cheryl\" <CxM2@pge.com>@ENRON\n",
+         "source": "email",
+         "to": "Blair, Lynn"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/blair-l/sent_items/220.",
+   "hops": [
+      {
+         "from": "lynn.blair@enron.com",
+         "line": 4,
+         "rawfrom": "lynn.blair@enron.com\r\n",
+         "source": "valid",
+         "to": "tgh4@pge.com"
+      },
+      {
+         "from": "tgh4@pge.com",
+         "line": 23,
+         "rawfrom": "\t\"Hudson, Todd\" <TGH4@pge.com>@ENRON  \n",
+         "source": "email",
+         "to": "Blair, Lynn"
+      },
+      {
+         "from": "lynn.blair@enron.com",
+         "line": 43,
+         "rawfrom": "Blair, Lynn [mailto:Lynn.Blair@enron.com]\n",
+         "source": "email",
+         "to": "\"Snyder, Cheryl\" <CxM2@pge.com>@ENRON; Hudson, Todd"
+      },
+      {
+         "from": "cxm2@pge.com",
+         "line": 75,
+         "rawfrom": "\t\"Snyder, Cheryl\" <CxM2@pge.com>@ENRON\n",
+         "source": "email",
+         "to": "Blair, Lynn"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/blair-l/sent_items/479.",
+   "hops": [
+      {
+         "from": "lynn.blair@enron.com",
+         "line": 4,
+         "rawfrom": "lynn.blair@enron.com\r\n",
+         "source": "valid",
+         "to": "tammy.jaquet@enron.com"
+      },
+      {
+         "from": "kathleen.royal@elpaso.com",
+         "line": 22,
+         "rawfrom": "\t\"Royal, Kathleen S.\" <Kathleen.Royal@ElPaso.com>@ENRON [mailto:IMCEANOTES-+22Royal+2C+20Kathleen+20S+2E+22+20+3CKathleen+2ERoyal+40ElPaso+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "'Lynn Blair'"
+      },
+      {
+         "from": "tammy.jaquet@enron.com",
+         "line": 42,
+         "rawfrom": "Jaquet, Tammy [mailto:Tammy.Jaquet@ENRON.com]\n",
+         "source": "email",
+         "to": "Royal, Kathleen S."
+      },
+      {
+         "from": "kathleen.royal@elpaso.com",
+         "line": 57,
+         "rawfrom": "Royal, Kathleen S. [mailto:Kathleen.Royal@ElPaso.com]\n",
+         "source": "email",
+         "to": "Stender, Mike; 'tjaquet@enron.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/blair-l/sent_items/227.",
+   "hops": [
+      {
+         "from": "lynn.blair@enron.com",
+         "line": 4,
+         "rawfrom": "lynn.blair@enron.com\r\n",
+         "source": "valid",
+         "to": "tgh4@pge.com"
+      },
+      {
+         "from": "tgh4@pge.com",
+         "line": 22,
+         "rawfrom": "\t\"Hudson, Todd\" <TGH4@pge.com>@ENRON  \n",
+         "source": "email",
+         "to": "Blair, Lynn"
+      },
+      {
+         "from": "lynn.blair@enron.com",
+         "line": 38,
+         "rawfrom": "Lynn.Blair@enron.com [mailto:Lynn.Blair@enron.com]\n",
+         "source": "email",
+         "to": "Hudson, Todd"
+      },
+      {
+         "from": "tgh4@pge.com",
+         "line": 48,
+         "rawfrom": "  \"Hudson, Todd\" <TGH4@pge.com>@ENRON\n",
+         "source": "email",
+         "to": "Blair, Lynn"
+      },
+      {
+         "from": "lynn.blair@enron.com",
+         "line": 73,
+         "rawfrom": "Lynn.Blair@enron.com [mailto:Lynn.Blair@enron.com]\n",
+         "source": "email",
+         "to": "Hudson, Todd"
+      },
+      {
+         "from": "tgh4@pge.com",
+         "line": 85,
+         "rawfrom": "  \"Hudson, Todd\" <TGH4@pge.com>@ENRON\n",
+         "source": "email",
+         "to": "Blair, Lynn"
+      },
+      {
+         "from": "lynn.blair@enron.com",
+         "line": 108,
+         "rawfrom": "Blair, Lynn [mailto:Lynn.Blair@enron.com]\n",
+         "source": "email",
+         "to": "\"Snyder, Cheryl\" <CxM2@pge.com>@ENRON; Hudson, Todd"
+      },
+      {
+         "from": "cxm2@pge.com",
+         "line": 141,
+         "rawfrom": "     \"Snyder, Cheryl\" <CxM2@pge.com>@ENRON\n",
+         "source": "email",
+         "to": "Blair, Lynn"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/blair-l/customer___oneok/3.",
+   "hops": [
+      {
+         "from": "rick.kile@enron.com",
+         "line": 4,
+         "rawfrom": "rick.kile@enron.com\r\n",
+         "source": "valid",
+         "to": "charlie.graham@enron.com, lynn.blair@enron.com"
+      },
+      {
+         "from": "dkurth@oneok.com",
+         "line": 66,
+         "rawfrom": "Kurth, Delaine [mailto:dkurth@Oneok.com]\n",
+         "source": "email",
+         "to": "Graham, Charlie"
+      },
+      {
+         "from": "charlie.graham@enron.com",
+         "line": 81,
+         "rawfrom": "Charlie.Graham@enron.com [mailto:Charlie.Graham@enron.com]\n",
+         "source": "email",
+         "to": "dkurth@Oneok.com"
+      },
+      {
+         "from": "dkurth@oneok.com",
+         "line": 99,
+         "rawfrom": "    \"Kurth, Delaine\" <dkurth@Oneok.com>@ENRON\n",
+         "source": "email",
+         "to": "Graham, Charlie"
+      },
+      {
+         "from": "charlie.graham@enron.com",
+         "line": 108,
+         "rawfrom": "Graham, Charlie [mailto:Charlie.Graham@ENRON.com]\n",
+         "source": "email",
+         "to": "Delaine Kurth (E-mail)"
+      }
+   ],
+   "skipped": 3
+}
+]

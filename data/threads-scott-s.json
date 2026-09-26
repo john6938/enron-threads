@@ -1,0 +1,5349 @@
+[
+{
+   "file": "/home/jb/maildir/scott-s/inbox/181.",
+   "hops": [
+      {
+         "from": "tori.kuykendall@enron.com",
+         "line": 4,
+         "rawfrom": "tori.kuykendall@enron.com\r\n",
+         "source": "valid",
+         "to": "m..scott@enron.com"
+      },
+      {
+         "from": "diane_hoyuela@foleys.com",
+         "line": 22,
+         "rawfrom": "Diane_Hoyuela@Foleys.com [mailto:Diane_Hoyuela@Foleys.com]\n",
+         "source": "email",
+         "to": "marcgarcia@earthlink.com; Hamm Laura; terra.henderson@accenture.com;"
+      },
+      {
+         "from": "khoyuela@rice.edu",
+         "line": 38,
+         "rawfrom": "\"Kristy Hoyuela\" <khoyuela@rice.edu> on 10/11/2001 10:50 PM\n",
+         "source": "email",
+         "to": "<Diane_Hoyuela@Foleys.com>"
+      },
+      {
+         "from": "longhornliz@mail.utexas.edu",
+         "line": 47,
+         "rawfrom": "\"Elizabeth Anderson\" <longhornliz@mail.utexas.edu>\n",
+         "source": "email",
+         "to": "\"Deana\" <UTde@mail.utexas.edu>; \"Bex\" <Kristin_Bexley@baylor.edu>;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/inbox/69.",
+   "hops": [
+      {
+         "from": "mharp@austin.apc.slb.com",
+         "line": 4,
+         "rawfrom": "mharp@austin.apc.slb.com\r\n",
+         "source": "valid",
+         "to": "susan.m.scott@enron.com"
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 26,
+         "rawfrom": "Susan.M.Scott@enron.com [mailto:Susan.M.Scott@enron.com]\n",
+         "source": "email",
+         "to": "mharp@austin.apc.slb.com"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 82,
+         "rawfrom": "Scott, Susan [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "mharp@austin.apc.slb.com"
+      },
+      {
+         "from": "mharp@austin.apc.slb.com",
+         "line": 94,
+         "rawfrom": "  \"Mary Rebecca Harp\" <mharp@austin.apc.slb.com>@ENRON\n",
+         "source": "email",
+         "to": "Scott, Susan"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/inbox/72.",
+   "hops": [
+      {
+         "from": "ehillegeist@hotmail.com",
+         "line": 4,
+         "rawfrom": "ehillegeist@hotmail.com\r\n",
+         "source": "valid",
+         "to": "sonderfan@hotmail.com, kaseywalker@mindspring.com, katyhester@hotmail.com,"
+      },
+      {
+         "from": "shannonleighwilliams@hotmail.com",
+         "line": 27,
+         "rawfrom": "\"S. Williams\" <shannonleighwilliams@hotmail.com>\n",
+         "source": "email",
+         "to": "alej_abogado@hotmail.com, aliciamandola@yahoo.com,"
+      },
+      {
+         "from": "m_cloud@angelfire.com",
+         "line": 55,
+         "rawfrom": "Meredith A. Cloud [mailto:m_cloud@angelfire.com] \n",
+         "source": "email",
+         "to": "melissa mcclure; Tristan Rappold; Sarah Cain; Nikki Moberg; Natalie"
+      },
+      {
+         "from": "katie@netaonline.org",
+         "line": 91,
+         "rawfrom": "Katie Stearns [SMTP:Katie@netaonline.org] \n",
+         "source": "email",
+         "to": "'Allison Weed'; 'Betsy Clarkson'; 'Debby Hames Hinricher';"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/inbox/212.",
+   "hops": [
+      {
+         "from": "tkelley5@austin.rr.com",
+         "line": 4,
+         "rawfrom": "tkelley5@austin.rr.com\r\n",
+         "source": "valid",
+         "to": "scott.chucksally@enron.com, williams.wilbur@enron.com, m..scott@enron.com,"
+      },
+      {
+         "from": "ceggl@aol.com",
+         "line": 22,
+         "rawfrom": "CEGGL@aol.com  \n",
+         "source": "valid",
+         "to": "candicebyers@hotmail.com  ; LoCollins@aol.com  ;  CHASECONOVER@aol.com  ; nancy.dailey@ev1.net  ; jdunagan@hcdattorneys.com  ; ceggers@shortel.com  ; EggersDJ@aol.com  ; HEggers@SCHROEDERMOVING.com  ; marye@peoplepc.com   ; Bgillmer27@aol.com  ; Jocelyn_Gordon@hotmail.com  ; drakell_2000@yahoo.com  ; JnKirk@aol.com  ; LKirk28409@aol.com   ; KimRaus@Hotmail.com  ; Dianna@houston.rr.com  ; NR4@aol.com  ; Greektreat@aol.com   ; CJSRN@email.msn.com  ; BKSchwing@aol.com  ;  Rolostripes@aol.com  ; Donald.Whitehead@msdw.com"
+      },
+      {
+         "from": "slvan4@aol.com",
+         "line": 59,
+         "rawfrom": "<SLVan4@aol.com>\n",
+         "source": "email",
+         "to": "<Cjsmavan@sunrisenet.com>,\t<CEGGL@aol.com>"
+      },
+      {
+         "from": "leevan2@aol.com",
+         "line": 71,
+         "rawfrom": "<LeeVan2@aol.com>\n",
+         "source": "email",
+         "to": "<SLVan4@aol.com>"
+      },
+      {
+         "from": "oldspice_1899@yahoo.com",
+         "line": 83,
+         "rawfrom": "\"jill barlow\" <oldspice_1899@yahoo.com>\n",
+         "source": "email",
+         "to": "<jeri.adams@octanner.com>,\t<tommylclark@aol.com>,\t<vikidmama@aol.com>,\t<susiemey06@aol.com>,\t<shannon.skeen@mansell.net>,\t<grsd@sginet.com>,\t<mhbarlow@hs.state.ut.us>,\t<cirobertson57@yahoo.com>,\t<gdean@hamsfork.net>,\t<dtclark75@hotmail.com>,\t<jgclark74@hotmail.com>,\t<emccoy351@aol.com>,\t<leevan2@aol.com>"
+      },
+      {
+         "from": "ruizkristina@hotmail.com",
+         "line": 104,
+         "rawfrom": "\"Kristina Ruiz\" <ruizkristina@hotmail.com>\n",
+         "source": "email",
+         "to": "<oldspice_1899@yahoo.com>,\t<as1706@worldnet.att.net>,\t<doghouse281@att.net>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/inbox/108.",
+   "hops": [
+      {
+         "from": "tkelley5@austin.rr.com",
+         "line": 4,
+         "rawfrom": "tkelley5@austin.rr.com\r\n",
+         "source": "valid",
+         "to": "m..scott@enron.com"
+      },
+      {
+         "from": "dgustafson@anational.com",
+         "line": 31,
+         "rawfrom": "daniel gustafson [mailto:dgustafson@anational.com]\n",
+         "source": "email",
+         "to": "theparks@ev1.net; britking@yahoo.com; jharvey@jw.com;"
+      },
+      {
+         "from": "tionewton@aol.com",
+         "line": 45,
+         "rawfrom": "Tionewton@aol.com\n",
+         "source": "valid",
+         "to": "dgustafson@anational.com"
+      },
+      {
+         "from": "texaskew@aol.com",
+         "line": 55,
+         "rawfrom": "TEXASKEW@aol.com\n",
+         "source": "valid",
+         "to": "Tionewton@aol.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/inbox/70.",
+   "hops": [
+      {
+         "from": "blathram@lmnarchitects.com",
+         "line": 4,
+         "rawfrom": "blathram@lmnarchitects.com\r\n",
+         "source": "valid",
+         "to": "m..scott@enron.com"
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 36,
+         "rawfrom": "Susan.M.Scott@enron.com [mailto:Susan.M.Scott@enron.com]\n",
+         "source": "email",
+         "to": "Bonnie Lathram"
+      },
+      {
+         "from": "blathram@lmnarchitects.com",
+         "line": 70,
+         "rawfrom": "  \"Bonnie Lathram\" <blathram@LMNArchitects.com>@ENRON\n",
+         "source": "email",
+         "to": "Scott, Susan M."
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 103,
+         "rawfrom": "Susan.M.Scott@enron.com [mailto:Susan.M.Scott@enron.com]\n",
+         "source": "email",
+         "to": "Bonnie Lathram"
+      },
+      {
+         "from": "blathram@lmnarchitects.com",
+         "line": 124,
+         "rawfrom": "  \"Bonnie Lathram\" <blathram@LMNArchitects.com>@ENRON\n",
+         "source": "email",
+         "to": "Scott, Susan M."
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 178,
+         "rawfrom": "Scott, Susan M. [mailto:Susan.M.Scott@ENRON.com]\n",
+         "source": "email",
+         "to": "Bonnie Lathram"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/inbox/384.",
+   "hops": [
+      {
+         "from": "moshuffle@hotmail.com",
+         "line": 4,
+         "rawfrom": "moshuffle@hotmail.com\r\n",
+         "source": "valid",
+         "to": "m..scott@enron.com"
+      },
+      {
+         "from": "jmenconi@adv-eng-ser-inc.com",
+         "line": 22,
+         "rawfrom": "\"John Menconi\" <jmenconi@adv-eng-ser-inc.com>\n",
+         "source": "email",
+         "to": "\"'Monique Sanchez'\" <moshuffle@hotmail.com>"
+      },
+      {
+         "from": "moshuffle@hotmail.com",
+         "line": 44,
+         "rawfrom": "Monique Sanchez [mailto:moshuffle@hotmail.com]\n",
+         "source": "email",
+         "to": "jmenconi@adv-eng-ser-inc.com"
+      },
+      {
+         "from": "jmenconi@adv-eng-ser-inc.com",
+         "line": 53,
+         "rawfrom": "\"John Menconi\" <jmenconi@adv-eng-ser-inc.com>\n",
+         "source": "email",
+         "to": "\"'Monique Sanchez'\" <moshuffle@hotmail.com>"
+      },
+      {
+         "from": "moshuffle@hotmail.com",
+         "line": 65,
+         "rawfrom": "Monique Sanchez [mailto:moshuffle@hotmail.com]\n",
+         "source": "email",
+         "to": "jmenconi@adv-eng-ser-inc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/inbox/365.",
+   "hops": [
+      {
+         "from": "randy.bhatia@enron.com",
+         "line": 4,
+         "rawfrom": "randy.bhatia@enron.com\r\n",
+         "source": "valid",
+         "to": "m..scott@enron.com"
+      },
+      {
+         "from": "jdeleo@tfsbrokers.com",
+         "line": 31,
+         "rawfrom": " <jdeleo@tfsbrokers.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "davidn@apbenergy.com",
+         "line": 39,
+         "rawfrom": " <davidn@apbenergy.com>\n",
+         "source": "email",
+         "to": "'kholst@enron.com'"
+      },
+      {
+         "from": "tblando@amerexenergy.com",
+         "line": 56,
+         "rawfrom": " <tblando@amerexenergy.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tvaughan@prebon.com",
+         "line": 65,
+         "rawfrom": " <TVaughan@prebon.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "stouchstone@natsource.com",
+         "line": 73,
+         "rawfrom": " <STouchstone@natsource.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tblando@amerexenergy.com",
+         "line": 82,
+         "rawfrom": " <tblando@amerexenergy.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "jdeleo@tfsbrokers.com",
+         "line": 91,
+         "rawfrom": " <jdeleo@tfsbrokers.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "stouchstone@natsource.com",
+         "line": 99,
+         "rawfrom": " <STouchstone@natsource.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "jdeleo@tfsbrokers.com",
+         "line": 108,
+         "rawfrom": " <jdeleo@tfsbrokers.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tblando@amerexenergy.com",
+         "line": 116,
+         "rawfrom": " <tblando@amerexenergy.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tvaughan@prebon.com",
+         "line": 125,
+         "rawfrom": " <TVaughan@prebon.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tblando@amerexenergy.com",
+         "line": 133,
+         "rawfrom": " <tblando@amerexenergy.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "jdeleo@tfsbrokers.com",
+         "line": 142,
+         "rawfrom": " <jdeleo@tfsbrokers.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "davidn@apbenergy.com",
+         "line": 150,
+         "rawfrom": " <davidn@apbenergy.com>\n",
+         "source": "email",
+         "to": "'kholst@enron.com'"
+      },
+      {
+         "from": "tblando@amerexenergy.com",
+         "line": 167,
+         "rawfrom": " <tblando@amerexenergy.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "jdeleo@tfsbrokers.com",
+         "line": 176,
+         "rawfrom": " <jdeleo@tfsbrokers.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tvaughan@prebon.com",
+         "line": 184,
+         "rawfrom": " <TVaughan@prebon.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "jdeleo@tfsbrokers.com",
+         "line": 192,
+         "rawfrom": " <jdeleo@tfsbrokers.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tblando@amerexenergy.com",
+         "line": 200,
+         "rawfrom": " <tblando@amerexenergy.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tblando@amerexenergy.com",
+         "line": 209,
+         "rawfrom": " <tblando@amerexenergy.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "jdeleo@tfsbrokers.com",
+         "line": 218,
+         "rawfrom": " <jdeleo@tfsbrokers.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tvaughan@prebon.com",
+         "line": 226,
+         "rawfrom": " <TVaughan@prebon.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tblando@amerexenergy.com",
+         "line": 234,
+         "rawfrom": " <tblando@amerexenergy.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "jdeleo@tfsbrokers.com",
+         "line": 243,
+         "rawfrom": " <jdeleo@tfsbrokers.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tblando@amerexenergy.com",
+         "line": 251,
+         "rawfrom": " <tblando@amerexenergy.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "davidn@apbenergy.com",
+         "line": 260,
+         "rawfrom": " <davidn@apbenergy.com>\n",
+         "source": "email",
+         "to": "'kholst@enron.com'"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/all_documents/1799.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "gary.stadler@enron.com"
+      },
+      {
+         "from": "cscott@ala.net",
+         "line": 27,
+         "rawfrom": " \"C. Scott\" <cscott@ala.net>                           04/10/2000 01:38 \n",
+         "source": "email",
+         "to": "\"Wilbur & Betty Williams\" <wbwilliams@flex.net>, \"Susan Margaret Scott\""
+      },
+      {
+         "from": "ccarbo@hssbc.com",
+         "line": 36,
+         "rawfrom": "Christine Carbo <ccarbo@hssbc.com>\n",
+         "source": "email",
+         "to": "cscott@ala.net <cscott@ala.net>; cookjr@arlaw.com <cookjr@arlaw.com>;"
+      },
+      {
+         "from": "browning@pbworld.com",
+         "line": 55,
+         "rawfrom": "\"Browning, Erin\" <Browning@pbworld.com>\n",
+         "source": "email",
+         "to": "\"'Chris Carbo'\" <ccarbo@hssbc.com>,        \"Rosborough, Gala\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/all_documents/1768.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "gary.stadler@enron.com, sunil.dalal@enron.com"
+      },
+      {
+         "from": "lisa.a.meador@chase.com",
+         "line": 25,
+         "rawfrom": " Lisa.A.Meador@chase.com                           04/14/2000 08:37 AM\n",
+         "source": "email",
+         "to": "joemeador@aol.com, bath@dynegy.com, jesbateman@aol.com, sscott5@enron.com"
+      },
+      {
+         "from": "patti@thehealthmanagementacademy.com",
+         "line": 46,
+         "rawfrom": "  patti@thehealthmanagementacademy.com\n",
+         "source": "valid",
+         "to": "Galeana Younger Woodson; Allison Dreeben Zeller; Raleigh Trumbo;"
+      },
+      {
+         "from": "aschroll@hdrinc.com",
+         "line": 60,
+         "rawfrom": "\"Schroller, Aimee\" <ASchroll@hdrinc.com>\n",
+         "source": "email",
+         "to": "\"'Kimberly (work)'\" <kkeller@bracepatt.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/all_documents/1872.",
+   "hops": [
+      {
+         "from": "cabel@ect.enron.com",
+         "line": 4,
+         "rawfrom": "cabel@ect.enron.com\r\n",
+         "source": "valid",
+         "to": "gary.stadler@enron.com, susan.scott@enron.com, tobin.carlson@enron.com,"
+      },
+      {
+         "from": "abellink@aol.com",
+         "line": 35,
+         "rawfrom": "    Abellink@aol.com [SMTP:Abellink@aol.com]\n",
+         "source": "email",
+         "to": "cabel@hal-pc.org; jeffrey@lxnet.com; meliage@lcc.net; Ekb8004910@aol.com;"
+      },
+      {
+         "from": "suzanne@strategic-hou.com",
+         "line": 112,
+         "rawfrom": "\"suzanne@strategic-hou.com\" <suzanne@strategic-hou.com>\n",
+         "source": "email",
+         "to": "\"abellink@aol.com\" <abellink@aol.com>, \"eneadams@aol.com\""
+      },
+      {
+         "from": "abellink@aol.com",
+         "line": 117,
+         "rawfrom": "abellink@aol.com",
+         "source": "valid",
+         "to": "\"kelmormil@aol.com\" <kelmormil@aol.com>, \"danawardel@aol.com\""
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/all_documents/1143.",
+   "hops": [
+      {
+         "from": "cscott_korea@yahoo.com",
+         "line": 4,
+         "rawfrom": "cscott_korea@yahoo.com\r\n",
+         "source": "valid",
+         "to": "sscott5@enron.com, wbwilliams@flex.net, betgraham@hotmail.com,"
+      },
+      {
+         "from": "bacco1@mindspring.com",
+         "line": 41,
+         "rawfrom": "Charlee Williamson <bacco1@mindspring.com>\n",
+         "source": "email",
+         "to": "dke1069@hotmail.com, cscott_korea@yahoo.com"
+      },
+      {
+         "from": "michaelreiss@aol.com",
+         "line": 60,
+         "rawfrom": "MichaelReiss@aol.com\n",
+         "source": "valid",
+         "to": "hgabel@neworleans-food.com, cwilliamson@neworleans-food.com,"
+      },
+      {
+         "from": "patti.micklin@stmsaints.com",
+         "line": 79,
+         "rawfrom": "Patti Micklin <patti.micklin@stmsaints.com>\n",
+         "source": "email",
+         "to": "\"Alyson Ray (E-mail)\" <ANJRAY5@aol.com>,        \"Bobbie & Charlie Yuspeh"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/all_documents/2843.",
+   "hops": [
+      {
+         "from": "elaina5@hotmail.com",
+         "line": 4,
+         "rawfrom": "elaina5@hotmail.com\r\n",
+         "source": "valid",
+         "to": "ashley.a.mace@williams.com, kelbarker@aol.com, susan_s_edwards@yahoo.com,"
+      },
+      {
+         "from": "shannonleighwilliams@hotmail.com",
+         "line": 19,
+         "rawfrom": "\"S. Williams\" <shannonleighwilliams@hotmail.com>\n",
+         "source": "email",
+         "to": "kaseywalker@mindspring.com, azeringue@hotmail.com,"
+      },
+      {
+         "from": "shannonleighwilliams@hotmail.com",
+         "line": 43,
+         "rawfrom": "\"S. Williams\" <shannonleighwilliams@hotmail.com>\n",
+         "source": "email",
+         "to": "kaseywalker@mindspring.com, azeringue@hotmail.com,"
+      },
+      {
+         "from": "cmluther@aol.com",
+         "line": 67,
+         "rawfrom": "Cmluther@aol.com \n",
+         "source": "valid",
+         "to": "jkbowles@hotmail.com, hguren@law.harvard.edu, Jerry_Luther@compusa.com,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/all_documents/899.",
+   "hops": [
+      {
+         "from": "burkee@cts.com",
+         "line": 4,
+         "rawfrom": "burkee@cts.com\r\n",
+         "source": "valid",
+         "to": "tomb@crossborderenergy.com, michael.alexander@sce.com, rochmanm@spurr.org"
+      },
+      {
+         "from": "tomb@crossborderenergy.com",
+         "line": 46,
+         "rawfrom": "Tom Beach <tomb@crossborderenergy.com>\n",
+         "source": "email",
+         "to": "<Michael.Alexander@sce.com>; Michael Rochman <rochmanm@spurr.org>"
+      },
+      {
+         "from": "michael.alexander@sce.com",
+         "line": 71,
+         "rawfrom": "<Michael.Alexander@sce.com>\n",
+         "source": "email",
+         "to": "Michael Rochman <rochmanm@spurr.org>"
+      },
+      {
+         "from": "mday@gmssr.com",
+         "line": 211,
+         "rawfrom": "MBD [mailto:MDay@GMSSR.com]\n",
+         "source": "email",
+         "to": "'Pocta, Robert M.'; 'Counihan, Rick'; 'Jeff.Dasovich@enron.com';"
+      },
+      {
+         "from": "gwright@sempra.com",
+         "line": 245,
+         "rawfrom": "Wright, Gillian - TP1GXW [mailto:GWright@sempra.com]\n",
+         "source": "email",
+         "to": "'mday@gmssr.com'"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/all_documents/776.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "ccaldwell@velaw.com"
+      },
+      {
+         "from": "ccaldwell@velaw.com",
+         "line": 26,
+         "rawfrom": "\"Caldwell, Charles\" <ccaldwell@velaw.com> on 11/29/2000 08:39:59 AM\n",
+         "source": "email",
+         "to": "\"'dttran@duke-energy.com'\" <dttran@duke-energy.com>, Susan.Scott@enron.com"
+      },
+      {
+         "from": "dttran@duke-energy.com",
+         "line": 41,
+         "rawfrom": "dttran@duke-energy.com [mailto:dttran@duke-energy.com]\n",
+         "source": "email",
+         "to": "Susan.Scott@enron.com"
+      },
+      {
+         "from": "ccaldwell@velaw.com",
+         "line": 82,
+         "rawfrom": "\"Caldwell, Charles\" <ccaldwell@velaw.com> on 11/28/2000 02:12:47 PM\n",
+         "source": "email",
+         "to": "\"'dttran@duke-energy.com'\" <dttran@duke-energy.com>,"
+      },
+      {
+         "from": "dttran@duke-energy.com",
+         "line": 95,
+         "rawfrom": "dttran@duke-energy.com [mailto:dttran@duke-energy.com]\n",
+         "source": "email",
+         "to": "Susan.Scott@enron.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/all_documents/364.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "mday@gmssr.com"
+      },
+      {
+         "from": "mday@gmssr.com",
+         "line": 35,
+         "rawfrom": "MBD <MDay@GMSSR.com> on 06/15/2000 05:39:54 PM\n",
+         "source": "email",
+         "to": "\"'Susan.Scott@enron.com'\" <Susan.Scott@enron.com>"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 54,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "Norman A. Pedersen"
+      },
+      {
+         "from": "napedersen@jonesday.com",
+         "line": 103,
+         "rawfrom": "\"Norman A. Pedersen\" <napedersen@JonesDay.com> on 06/14/2000 08:12:05 PM\n",
+         "source": "email",
+         "to": "Susan.Scott@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/all_documents/1868.",
+   "hops": [
+      {
+         "from": "jkbowles@hotmail.com",
+         "line": 4,
+         "rawfrom": "jkbowles@hotmail.com\r\n",
+         "source": "valid",
+         "to": "cwilkes@santafe-snyder.com, ashleastu@aol.com, ccaton@hillandknowlton.com,"
+      },
+      {
+         "from": "jcwachtman@aol.com",
+         "line": 35,
+         "rawfrom": "JCWACHTMAN@aol.com\n",
+         "source": "valid",
+         "to": "Sweetbets@aol.com, Nipjap@aol.com, jonestes@yahoo.com, Twholley@aol.com,"
+      },
+      {
+         "from": "daatterb@garlandisd.net",
+         "line": 60,
+         "rawfrom": "\"Dodi Atterberry\" <daatterb@garlandisd.net>\n",
+         "source": "email",
+         "to": "<JCWACHTMAN@aol.com>, <dana.przybylski@eds.com>,"
+      },
+      {
+         "from": "t_taliaferro@hotmail.com",
+         "line": 84,
+         "rawfrom": "\"Tara Taliaferro\" <t_taliaferro@hotmail.com>\n",
+         "source": "email",
+         "to": "christopher_fields@yahoo.com, aaron_j1@yahoo.com,"
+      },
+      {
+         "from": "mcmillc@osu.net",
+         "line": 100,
+         "rawfrom": "Christy McMillian <mcmillc@osu.net>\n",
+         "source": "email",
+         "to": "\"William Trisciani Jr.\" <wtrisciani@hotmail.com>,    Tara Taliaferro"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/all_documents/898.",
+   "hops": [
+      {
+         "from": "tomb@crossborderenergy.com",
+         "line": 4,
+         "rawfrom": "tomb@crossborderenergy.com\r\n",
+         "source": "valid",
+         "to": "michael.alexander@sce.com, rochmanm@spurr.org"
+      },
+      {
+         "from": "michael.alexander@sce.com",
+         "line": 41,
+         "rawfrom": "<Michael.Alexander@sce.com>\n",
+         "source": "email",
+         "to": "Michael Rochman <rochmanm@spurr.org>"
+      },
+      {
+         "from": "mday@gmssr.com",
+         "line": 174,
+         "rawfrom": "MBD [mailto:MDay@GMSSR.com]\n",
+         "source": "email",
+         "to": "'Pocta, Robert M.'; 'Counihan, Rick'; 'Jeff.Dasovich@enron.com';"
+      },
+      {
+         "from": "gwright@sempra.com",
+         "line": 206,
+         "rawfrom": "Wright, Gillian - TP1GXW [mailto:GWright@sempra.com]\n",
+         "source": "email",
+         "to": "'mday@gmssr.com'"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/all_documents/986.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "celeahy@hotmail.com, monique.sanchez@enron.com, jkbowles@hotmail.com,"
+      },
+      {
+         "from": "ehillegeist@hotmail.com",
+         "line": 28,
+         "rawfrom": " \"Emily Hillegeist\" <ehillegeist@hotmail.com>                           \n",
+         "source": "email",
+         "to": "sonderfan@hotmail.com, katyhester@hotmail.com, sscott5@enron.com"
+      },
+      {
+         "from": "ukhawks@aol.com",
+         "line": 38,
+         "rawfrom": "Ukhawks@aol.com  \n",
+         "source": "valid",
+         "to": "bandrowski@msn.com, aboguszewski@hotmail.com, jclarke@chuck.stchas.edu,"
+      },
+      {
+         "from": "thesymingtons@email.msn.com",
+         "line": 66,
+         "rawfrom": "\"thesymingtons\" <thesymingtons@email.msn.com>\n",
+         "source": "email",
+         "to": "\"Maggie Symington\" <msymington@hotmail.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/all_documents/1395.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "dutch.quigley@enron.com, dutch.quigley@enron.com"
+      },
+      {
+         "from": "charliecoyote@compuserve.com",
+         "line": 26,
+         "rawfrom": " Chuck Scott <CHARLIECOYOTE@compuserve.com>@compuserve.com>             \n",
+         "source": "email",
+         "to": "\"INTERNET:Susan.M.Scott@enron.com\" <Susan.M.Scott@enron.com>"
+      },
+      {
+         "from": "wilbur.williams@coastalcorp.com",
+         "line": 36,
+         "rawfrom": "\"Williams, Wilbur\", INTERNET:Wilbur.Williams@Coastalcorp.com\n",
+         "source": "email",
+         "to": "\"William Hieronymus\", INTERNET:HIERW@Coastal.Com"
+      },
+      {
+         "from": "dischijb@bp.com",
+         "line": 68,
+         "rawfrom": "Dischinger, James B [SMTP:DischiJB@bp.com]\n",
+         "source": "email",
+         "to": "Andy (E-mail); Becker (E-mail); Benson (E-mail); bunch (E-mail);"
+      },
+      {
+         "from": "wilbur.williams@coastalcorp.com",
+         "line": 143,
+         "rawfrom": "\"Williams, Wilbur\" <Wilbur.Williams@Coastalcorp.com>\n",
+         "source": "email",
+         "to": "\"'BETTY WILLIAMS'\" <WBWILLIAMS@FLEX.NET>,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/all_documents/1794.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "gary.stadler@enron.com"
+      },
+      {
+         "from": "cscott@ala.net",
+         "line": 18,
+         "rawfrom": "cscott@ala.net",
+         "source": "valid",
+         "to": "\"Wilbur & Betty Williams\" <wbwilliams@flex.net>, \"Susan Margaret Scott\""
+      },
+      {
+         "from": "ccarbo@hssbc.com",
+         "line": 27,
+         "rawfrom": "Christine Carbo <ccarbo@hssbc.com>\n",
+         "source": "email",
+         "to": "cscott@ala.net <cscott@ala.net>; cookjr@arlaw.com <cookjr@arlaw.com>;"
+      },
+      {
+         "from": "browning@pbworld.com",
+         "line": 46,
+         "rawfrom": "\"Browning, Erin\" <Browning@pbworld.com>\n",
+         "source": "email",
+         "to": "\"'Chris Carbo'\" <ccarbo@hssbc.com>,        \"Rosborough, Gala\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/all_documents/985.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "kori.loibl@enron.com"
+      },
+      {
+         "from": "ehillegeist@hotmail.com",
+         "line": 26,
+         "rawfrom": " \"Emily Hillegeist\" <ehillegeist@hotmail.com>                           \n",
+         "source": "email",
+         "to": "sonderfan@hotmail.com, katyhester@hotmail.com, sscott5@enron.com"
+      },
+      {
+         "from": "ukhawks@aol.com",
+         "line": 36,
+         "rawfrom": "Ukhawks@aol.com  \n",
+         "source": "valid",
+         "to": "bandrowski@msn.com, aboguszewski@hotmail.com, jclarke@chuck.stchas.edu,"
+      },
+      {
+         "from": "thesymingtons@email.msn.com",
+         "line": 64,
+         "rawfrom": "\"thesymingtons\" <thesymingtons@email.msn.com>\n",
+         "source": "email",
+         "to": "\"Maggie Symington\" <msymington@hotmail.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/all_documents/338.",
+   "hops": [
+      {
+         "from": "bcherry@sempra.com",
+         "line": 4,
+         "rawfrom": "bcherry@sempra.com\r\n",
+         "source": "valid",
+         "to": "susan.scott@enron.com, gsullivan@sempra.com"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 28,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com] \n",
+         "source": "email",
+         "to": "Sullivan, Glen J."
+      },
+      {
+         "from": "gsullivan@sempra.com",
+         "line": 45,
+         "rawfrom": "\"Sullivan, Glen J.\" <GSullivan@sempra.com> on 06/08/2000 02:47:10 PM \n",
+         "source": "email",
+         "to": "?? \"'Susan.Scott@enron.com'\" <Susan.Scott@enron.com>, \"Sullivan, Glen"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 92,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com] \n",
+         "source": "email",
+         "to": "gsullivan@sempra.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/all_documents/661.",
+   "hops": [
+      {
+         "from": "craigl@calpine.com",
+         "line": 4,
+         "rawfrom": "craigl@calpine.com\r\n",
+         "source": "valid",
+         "to": "susan.scott@enron.com"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 22,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "Craig Lindberg"
+      },
+      {
+         "from": "craigl@calpine.com",
+         "line": 35,
+         "rawfrom": "Craig Lindberg <craigl@calpine.com> on 11/06/2000 11:58:18 AM\n",
+         "source": "email",
+         "to": "\"'Susan.Scott@enron.com'\" <Susan.Scott@enron.com>"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 46,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "Craig Lindberg"
+      },
+      {
+         "from": "craigl@calpine.com",
+         "line": 61,
+         "rawfrom": "Craig Lindberg <craigl@calpine.com> on 11/06/2000 11:18:58 AM\n",
+         "source": "email",
+         "to": "\"'Susan.Scott@enron.com'\" <Susan.Scott@enron.com>"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 74,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "craigl@calpine.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/all_documents/934.",
+   "hops": [
+      {
+         "from": "jeffery.fawcett@enron.com",
+         "line": 4,
+         "rawfrom": "jeffery.fawcett@enron.com\r\n",
+         "source": "valid",
+         "to": "susan.scott@enron.com"
+      },
+      {
+         "from": "jeffery.fawcett@enron.com",
+         "line": 36,
+         "rawfrom": "Jeffery.Fawcett@enron.com [mailto:Jeffery.Fawcett@enron.com]\n",
+         "source": "email",
+         "to": "MBD"
+      },
+      {
+         "from": "mday@gmssr.com",
+         "line": 52,
+         "rawfrom": "MBD <MDay@GMSSR.com> on 12/12/2000 11:19:27 AM\n",
+         "source": "email",
+         "to": "\"'Jeffery.Fawcett@enron.com'\" <Jeffery.Fawcett@enron.com>"
+      },
+      {
+         "from": "jeffery.fawcett@enron.com",
+         "line": 65,
+         "rawfrom": "Jeffery.Fawcett@enron.com [mailto:Jeffery.Fawcett@enron.com]\n",
+         "source": "email",
+         "to": "MBD"
+      },
+      {
+         "from": "mday@gmssr.com",
+         "line": 82,
+         "rawfrom": "MBD <MDay@GMSSR.com> on 12/11/2000 01:46:04 PM\n",
+         "source": "email",
+         "to": "Jeffery.Fawcett@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/all_documents/926.",
+   "hops": [
+      {
+         "from": "jeffery.fawcett@enron.com",
+         "line": 4,
+         "rawfrom": "jeffery.fawcett@enron.com\r\n",
+         "source": "valid",
+         "to": "mday@gmssr.com"
+      },
+      {
+         "from": "mday@gmssr.com",
+         "line": 27,
+         "rawfrom": "MBD <MDay@GMSSR.com> on 12/12/2000 11:19:27 AM\n",
+         "source": "email",
+         "to": "\"'Jeffery.Fawcett@enron.com'\" <Jeffery.Fawcett@enron.com>"
+      },
+      {
+         "from": "jeffery.fawcett@enron.com",
+         "line": 40,
+         "rawfrom": "Jeffery.Fawcett@enron.com [mailto:Jeffery.Fawcett@enron.com]\n",
+         "source": "email",
+         "to": "MBD"
+      },
+      {
+         "from": "mday@gmssr.com",
+         "line": 57,
+         "rawfrom": "MBD <MDay@GMSSR.com> on 12/11/2000 01:46:04 PM\n",
+         "source": "email",
+         "to": "Jeffery.Fawcett@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/all_documents/853.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "rmendoza@mail.mdanderson.org"
+      },
+      {
+         "from": "rmendoza@mail.mdanderson.org",
+         "line": 24,
+         "rawfrom": "rmendoza@mail.mdanderson.org on 12/07/2000 03:51:22 PM\n",
+         "source": "email",
+         "to": "aballesteros@vaughnconstruction.com, ckraham@enron.com,"
+      },
+      {
+         "from": "kkkaleh@riley-harris.com",
+         "line": 90,
+         "rawfrom": "Kandy K Kaleh [mailto:kkkaleh@riley-harris.com]\n",
+         "source": "email",
+         "to": "'Calvin Suddeath'; 'Purrecious'; 'Sandy Wagner'; 'Sheryl'; 'Steve';"
+      },
+      {
+         "from": "rziemba@springtime-santa.com",
+         "line": 100,
+         "rawfrom": "Renea Ziemba [mailto:rziemba@springtime-santa.com]\n",
+         "source": "email",
+         "to": "Vicki; Trace; Terry; Stevie; Maureen; Mary; Lisa; Kelly; Kathy"
+      },
+      {
+         "from": "sgutkowski@j-quin.com",
+         "line": 108,
+         "rawfrom": "\"Sue Gutkowski\" <SGUTKOWSKI@J-QUIN.com>\n",
+         "source": "email",
+         "to": "\"Bill (E-mail)\" <Bill_Grimpe@HomeDepot.COM>; \"Brian Wozny (E-mail)\""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/all_documents/626.",
+   "hops": [
+      {
+         "from": "drosser@velaw.com",
+         "line": 4,
+         "rawfrom": "drosser@velaw.com\r\n",
+         "source": "valid",
+         "to": "craigl@calpine.com, drosser@velaw.com, susan.scott@enron.com"
+      },
+      {
+         "from": "craigl@calpine.com",
+         "line": 22,
+         "rawfrom": "Craig Lindberg [mailto:craigl@calpine.com]\n",
+         "source": "email",
+         "to": "'Rosser, Dianna'; 'Susan.Scott@enron.com'; Craig Lindberg"
+      },
+      {
+         "from": "drosser@velaw.com",
+         "line": 39,
+         "rawfrom": "Rosser, Dianna [mailto:drosser@velaw.com]\n",
+         "source": "email",
+         "to": "'Susan.Scott@enron.com'; Rosser, Dianna; craigl@calpine.com"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 54,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "drosser@velaw.com; craigl@calpine.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/all_documents/599.",
+   "hops": [
+      {
+         "from": "rmendoza@mail.mdanderson.org",
+         "line": 4,
+         "rawfrom": "rmendoza@mail.mdanderson.org\r\n",
+         "source": "valid",
+         "to": "susan.scott@enron.com"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 46,
+         "rawfrom": "Susan.Scott@enron.com on 10/10/2000 09:31:53 AM\n",
+         "source": "email",
+         "to": "rmendoza@mail.mdanderson.org"
+      },
+      {
+         "from": "rmendoza@mail.mdanderson.org",
+         "line": 77,
+         "rawfrom": "rmendoza@mail.mdanderson.org on 10/10/2000 09:09:50 AM\n",
+         "source": "email",
+         "to": "Susan.Scott@enron.com"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 114,
+         "rawfrom": "Susan.Scott@enron.com on 10/10/2000 09:03:47 AM\n",
+         "source": "email",
+         "to": "Rosanna A. Mendoza/MDACC@MDACC"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/all_documents/984.",
+   "hops": [
+      {
+         "from": "monique.sanchez@enron.com",
+         "line": 4,
+         "rawfrom": "monique.sanchez@enron.com\r\n",
+         "source": "valid",
+         "to": "susan.scott@enron.com"
+      },
+      {
+         "from": "ehillegeist@hotmail.com",
+         "line": 43,
+         "rawfrom": " \"Emily Hillegeist\" <ehillegeist@hotmail.com>                           \n",
+         "source": "email",
+         "to": "sonderfan@hotmail.com, katyhester@hotmail.com, sscott5@enron.com"
+      },
+      {
+         "from": "ukhawks@aol.com",
+         "line": 53,
+         "rawfrom": "Ukhawks@aol.com  \n",
+         "source": "valid",
+         "to": "bandrowski@msn.com, aboguszewski@hotmail.com, jclarke@chuck.stchas.edu,"
+      },
+      {
+         "from": "thesymingtons@email.msn.com",
+         "line": 81,
+         "rawfrom": "\"thesymingtons\" <thesymingtons@email.msn.com>\n",
+         "source": "email",
+         "to": "\"Maggie Symington\" <msymington@hotmail.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/all_documents/778.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "frazier.king@enron.com"
+      },
+      {
+         "from": "dttran@duke-energy.com",
+         "line": 68,
+         "rawfrom": "dttran@duke-energy.com [mailto:dttran@duke-energy.com]\n",
+         "source": "email",
+         "to": "Susan.Scott@enron.com"
+      },
+      {
+         "from": "ccaldwell@velaw.com",
+         "line": 109,
+         "rawfrom": "\"Caldwell, Charles\" <ccaldwell@velaw.com> on 11/28/2000 02:12:47 PM\n",
+         "source": "email",
+         "to": "\"'dttran@duke-energy.com'\" <dttran@duke-energy.com>,"
+      },
+      {
+         "from": "dttran@duke-energy.com",
+         "line": 122,
+         "rawfrom": "dttran@duke-energy.com [mailto:dttran@duke-energy.com]\n",
+         "source": "email",
+         "to": "Susan.Scott@enron.com"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/all_documents/664.",
+   "hops": [
+      {
+         "from": "craigl@calpine.com",
+         "line": 4,
+         "rawfrom": "craigl@calpine.com\r\n",
+         "source": "valid",
+         "to": "susan.scott@enron.com"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 27,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "Craig Lindberg"
+      },
+      {
+         "from": "craigl@calpine.com",
+         "line": 45,
+         "rawfrom": "Craig Lindberg <craigl@calpine.com> on 11/06/2000 12:42:46 PM\n",
+         "source": "email",
+         "to": "\"'Susan.Scott@enron.com'\" <Susan.Scott@enron.com>"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 56,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "craigl@calpine.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/all_documents/589.",
+   "hops": [
+      {
+         "from": "kss@overlandpartners.com",
+         "line": 4,
+         "rawfrom": "kss@overlandpartners.com\r\n",
+         "source": "valid",
+         "to": "susan.scott@enron.com"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 23,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "Shelton, Karin"
+      },
+      {
+         "from": "kss@overlandpartners.com",
+         "line": 68,
+         "rawfrom": "\"Shelton, Karin\" <kss@overlandpartners.com> on 10/05/2000 03:02:57 PM\n",
+         "source": "email",
+         "to": "\"'Susan.Scott@enron.com'\" <Susan.Scott@enron.com>"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 87,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "Shelton, Karin"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/all_documents/1097.",
+   "hops": [
+      {
+         "from": "jkbowles@hotmail.com",
+         "line": 4,
+         "rawfrom": "jkbowles@hotmail.com\r\n",
+         "source": "valid",
+         "to": "kathybowles@juno.com, thielemannb@epenergy.com, tcornwell@txbeef.org,"
+      },
+      {
+         "from": "sarahreneehughes@hotmail.com",
+         "line": 28,
+         "rawfrom": "\"Sarah Hughes\" <sarahreneehughes@hotmail.com>\n",
+         "source": "email",
+         "to": "asharbino@yahoo.com, ggregory@eastland.net, all@arn.net,"
+      },
+      {
+         "from": "paulinsclu@aol.com",
+         "line": 40,
+         "rawfrom": "PAULINSCLU@aol.com\n",
+         "source": "valid",
+         "to": "cherylbecker@hotmail.com, lbcot@email.msn.com, jdrew@mindspring.com,"
+      },
+      {
+         "from": "autosend@grassfire.net",
+         "line": 64,
+         "rawfrom": "\"Your Grassfire Link Msg\" <autosend@grassfire.net>\n",
+         "source": "email",
+         "to": "<paulinsclu@aol.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent/446.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "kori.loibl@enron.com"
+      },
+      {
+         "from": "ehillegeist@hotmail.com",
+         "line": 26,
+         "rawfrom": " \"Emily Hillegeist\" <ehillegeist@hotmail.com>                           \n",
+         "source": "email",
+         "to": "sonderfan@hotmail.com, katyhester@hotmail.com, sscott5@enron.com"
+      },
+      {
+         "from": "ukhawks@aol.com",
+         "line": 36,
+         "rawfrom": "Ukhawks@aol.com  \n",
+         "source": "valid",
+         "to": "bandrowski@msn.com, aboguszewski@hotmail.com, jclarke@chuck.stchas.edu,"
+      },
+      {
+         "from": "thesymingtons@email.msn.com",
+         "line": 64,
+         "rawfrom": "\"thesymingtons\" <thesymingtons@email.msn.com>\n",
+         "source": "email",
+         "to": "\"Maggie Symington\" <msymington@hotmail.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent/844.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "gary.stadler@enron.com, sunil.dalal@enron.com"
+      },
+      {
+         "from": "lisa.a.meador@chase.com",
+         "line": 25,
+         "rawfrom": " Lisa.A.Meador@chase.com                           04/14/2000 08:37 AM\n",
+         "source": "email",
+         "to": "joemeador@aol.com, bath@dynegy.com, jesbateman@aol.com, sscott5@enron.com"
+      },
+      {
+         "from": "patti@thehealthmanagementacademy.com",
+         "line": 46,
+         "rawfrom": "  patti@thehealthmanagementacademy.com\n",
+         "source": "valid",
+         "to": "Galeana Younger Woodson; Allison Dreeben Zeller; Raleigh Trumbo;"
+      },
+      {
+         "from": "aschroll@hdrinc.com",
+         "line": 60,
+         "rawfrom": "\"Schroller, Aimee\" <ASchroll@hdrinc.com>\n",
+         "source": "email",
+         "to": "\"'Kimberly (work)'\" <kkeller@bracepatt.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent/414.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "ccaldwell@velaw.com"
+      },
+      {
+         "from": "ccaldwell@velaw.com",
+         "line": 26,
+         "rawfrom": "\"Caldwell, Charles\" <ccaldwell@velaw.com> on 11/29/2000 08:39:59 AM\n",
+         "source": "email",
+         "to": "\"'dttran@duke-energy.com'\" <dttran@duke-energy.com>, Susan.Scott@enron.com"
+      },
+      {
+         "from": "dttran@duke-energy.com",
+         "line": 41,
+         "rawfrom": "dttran@duke-energy.com [mailto:dttran@duke-energy.com]\n",
+         "source": "email",
+         "to": "Susan.Scott@enron.com"
+      },
+      {
+         "from": "ccaldwell@velaw.com",
+         "line": 82,
+         "rawfrom": "\"Caldwell, Charles\" <ccaldwell@velaw.com> on 11/28/2000 02:12:47 PM\n",
+         "source": "email",
+         "to": "\"'dttran@duke-energy.com'\" <dttran@duke-energy.com>,"
+      },
+      {
+         "from": "dttran@duke-energy.com",
+         "line": 95,
+         "rawfrom": "dttran@duke-energy.com [mailto:dttran@duke-energy.com]\n",
+         "source": "email",
+         "to": "Susan.Scott@enron.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent/873.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "gary.stadler@enron.com"
+      },
+      {
+         "from": "cscott@ala.net",
+         "line": 27,
+         "rawfrom": " \"C. Scott\" <cscott@ala.net>                           04/10/2000 01:38 \n",
+         "source": "email",
+         "to": "\"Wilbur & Betty Williams\" <wbwilliams@flex.net>, \"Susan Margaret Scott\""
+      },
+      {
+         "from": "ccarbo@hssbc.com",
+         "line": 36,
+         "rawfrom": "Christine Carbo <ccarbo@hssbc.com>\n",
+         "source": "email",
+         "to": "cscott@ala.net <cscott@ala.net>; cookjr@arlaw.com <cookjr@arlaw.com>;"
+      },
+      {
+         "from": "browning@pbworld.com",
+         "line": 55,
+         "rawfrom": "\"Browning, Erin\" <Browning@pbworld.com>\n",
+         "source": "email",
+         "to": "\"'Chris Carbo'\" <ccarbo@hssbc.com>,        \"Rosborough, Gala\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent/588.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "dutch.quigley@enron.com, dutch.quigley@enron.com"
+      },
+      {
+         "from": "charliecoyote@compuserve.com",
+         "line": 26,
+         "rawfrom": " Chuck Scott <CHARLIECOYOTE@compuserve.com>@compuserve.com>             \n",
+         "source": "email",
+         "to": "\"INTERNET:Susan.M.Scott@enron.com\" <Susan.M.Scott@enron.com>"
+      },
+      {
+         "from": "wilbur.williams@coastalcorp.com",
+         "line": 36,
+         "rawfrom": "\"Williams, Wilbur\", INTERNET:Wilbur.Williams@Coastalcorp.com\n",
+         "source": "email",
+         "to": "\"William Hieronymus\", INTERNET:HIERW@Coastal.Com"
+      },
+      {
+         "from": "dischijb@bp.com",
+         "line": 68,
+         "rawfrom": "Dischinger, James B [SMTP:DischiJB@bp.com]\n",
+         "source": "email",
+         "to": "Andy (E-mail); Becker (E-mail); Benson (E-mail); bunch (E-mail);"
+      },
+      {
+         "from": "wilbur.williams@coastalcorp.com",
+         "line": 143,
+         "rawfrom": "\"Williams, Wilbur\" <Wilbur.Williams@Coastalcorp.com>\n",
+         "source": "email",
+         "to": "\"'BETTY WILLIAMS'\" <WBWILLIAMS@FLEX.NET>,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent/868.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "gary.stadler@enron.com"
+      },
+      {
+         "from": "cscott@ala.net",
+         "line": 18,
+         "rawfrom": "cscott@ala.net",
+         "source": "valid",
+         "to": "\"Wilbur & Betty Williams\" <wbwilliams@flex.net>, \"Susan Margaret Scott\""
+      },
+      {
+         "from": "ccarbo@hssbc.com",
+         "line": 27,
+         "rawfrom": "Christine Carbo <ccarbo@hssbc.com>\n",
+         "source": "email",
+         "to": "cscott@ala.net <cscott@ala.net>; cookjr@arlaw.com <cookjr@arlaw.com>;"
+      },
+      {
+         "from": "browning@pbworld.com",
+         "line": 46,
+         "rawfrom": "\"Browning, Erin\" <Browning@pbworld.com>\n",
+         "source": "email",
+         "to": "\"'Chris Carbo'\" <ccarbo@hssbc.com>,        \"Rosborough, Gala\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent/220.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "mday@gmssr.com"
+      },
+      {
+         "from": "mday@gmssr.com",
+         "line": 35,
+         "rawfrom": "MBD <MDay@GMSSR.com> on 06/15/2000 05:39:54 PM\n",
+         "source": "email",
+         "to": "\"'Susan.Scott@enron.com'\" <Susan.Scott@enron.com>"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 54,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "Norman A. Pedersen"
+      },
+      {
+         "from": "napedersen@jonesday.com",
+         "line": 103,
+         "rawfrom": "\"Norman A. Pedersen\" <napedersen@JonesDay.com> on 06/14/2000 08:12:05 PM\n",
+         "source": "email",
+         "to": "Susan.Scott@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent/416.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "frazier.king@enron.com"
+      },
+      {
+         "from": "dttran@duke-energy.com",
+         "line": 68,
+         "rawfrom": "dttran@duke-energy.com [mailto:dttran@duke-energy.com]\n",
+         "source": "email",
+         "to": "Susan.Scott@enron.com"
+      },
+      {
+         "from": "ccaldwell@velaw.com",
+         "line": 109,
+         "rawfrom": "\"Caldwell, Charles\" <ccaldwell@velaw.com> on 11/28/2000 02:12:47 PM\n",
+         "source": "email",
+         "to": "\"'dttran@duke-energy.com'\" <dttran@duke-energy.com>,"
+      },
+      {
+         "from": "dttran@duke-energy.com",
+         "line": 122,
+         "rawfrom": "dttran@duke-energy.com [mailto:dttran@duke-energy.com]\n",
+         "source": "email",
+         "to": "Susan.Scott@enron.com"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent/432.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "rmendoza@mail.mdanderson.org"
+      },
+      {
+         "from": "rmendoza@mail.mdanderson.org",
+         "line": 24,
+         "rawfrom": "rmendoza@mail.mdanderson.org on 12/07/2000 03:51:22 PM\n",
+         "source": "email",
+         "to": "aballesteros@vaughnconstruction.com, ckraham@enron.com,"
+      },
+      {
+         "from": "kkkaleh@riley-harris.com",
+         "line": 90,
+         "rawfrom": "Kandy K Kaleh [mailto:kkkaleh@riley-harris.com]\n",
+         "source": "email",
+         "to": "'Calvin Suddeath'; 'Purrecious'; 'Sandy Wagner'; 'Sheryl'; 'Steve';"
+      },
+      {
+         "from": "rziemba@springtime-santa.com",
+         "line": 100,
+         "rawfrom": "Renea Ziemba [mailto:rziemba@springtime-santa.com]\n",
+         "source": "email",
+         "to": "Vicki; Trace; Terry; Stevie; Maureen; Mary; Lisa; Kelly; Kathy"
+      },
+      {
+         "from": "sgutkowski@j-quin.com",
+         "line": 108,
+         "rawfrom": "\"Sue Gutkowski\" <SGUTKOWSKI@J-QUIN.com>\n",
+         "source": "email",
+         "to": "\"Bill (E-mail)\" <Bill_Grimpe@HomeDepot.COM>; \"Brian Wozny (E-mail)\""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent/447.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "celeahy@hotmail.com, monique.sanchez@enron.com, jkbowles@hotmail.com,"
+      },
+      {
+         "from": "ehillegeist@hotmail.com",
+         "line": 28,
+         "rawfrom": " \"Emily Hillegeist\" <ehillegeist@hotmail.com>                           \n",
+         "source": "email",
+         "to": "sonderfan@hotmail.com, katyhester@hotmail.com, sscott5@enron.com"
+      },
+      {
+         "from": "ukhawks@aol.com",
+         "line": 38,
+         "rawfrom": "Ukhawks@aol.com  \n",
+         "source": "valid",
+         "to": "bandrowski@msn.com, aboguszewski@hotmail.com, jclarke@chuck.stchas.edu,"
+      },
+      {
+         "from": "thesymingtons@email.msn.com",
+         "line": 66,
+         "rawfrom": "\"thesymingtons\" <thesymingtons@email.msn.com>\n",
+         "source": "email",
+         "to": "\"Maggie Symington\" <msymington@hotmail.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/notes_inbox/54.",
+   "hops": [
+      {
+         "from": "tomb@crossborderenergy.com",
+         "line": 4,
+         "rawfrom": "tomb@crossborderenergy.com\r\n",
+         "source": "valid",
+         "to": "michael.alexander@sce.com, rochmanm@spurr.org"
+      },
+      {
+         "from": "michael.alexander@sce.com",
+         "line": 41,
+         "rawfrom": "<Michael.Alexander@sce.com>\n",
+         "source": "email",
+         "to": "Michael Rochman <rochmanm@spurr.org>"
+      },
+      {
+         "from": "mday@gmssr.com",
+         "line": 174,
+         "rawfrom": "MBD [mailto:MDay@GMSSR.com]\n",
+         "source": "email",
+         "to": "'Pocta, Robert M.'; 'Counihan, Rick'; 'Jeff.Dasovich@enron.com';"
+      },
+      {
+         "from": "gwright@sempra.com",
+         "line": 206,
+         "rawfrom": "Wright, Gillian - TP1GXW [mailto:GWright@sempra.com]\n",
+         "source": "email",
+         "to": "'mday@gmssr.com'"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/notes_inbox/53.",
+   "hops": [
+      {
+         "from": "burkee@cts.com",
+         "line": 4,
+         "rawfrom": "burkee@cts.com\r\n",
+         "source": "valid",
+         "to": "tomb@crossborderenergy.com, michael.alexander@sce.com, rochmanm@spurr.org"
+      },
+      {
+         "from": "tomb@crossborderenergy.com",
+         "line": 46,
+         "rawfrom": "Tom Beach <tomb@crossborderenergy.com>\n",
+         "source": "email",
+         "to": "<Michael.Alexander@sce.com>; Michael Rochman <rochmanm@spurr.org>"
+      },
+      {
+         "from": "michael.alexander@sce.com",
+         "line": 71,
+         "rawfrom": "<Michael.Alexander@sce.com>\n",
+         "source": "email",
+         "to": "Michael Rochman <rochmanm@spurr.org>"
+      },
+      {
+         "from": "mday@gmssr.com",
+         "line": 211,
+         "rawfrom": "MBD [mailto:MDay@GMSSR.com]\n",
+         "source": "email",
+         "to": "'Pocta, Robert M.'; 'Counihan, Rick'; 'Jeff.Dasovich@enron.com';"
+      },
+      {
+         "from": "gwright@sempra.com",
+         "line": 245,
+         "rawfrom": "Wright, Gillian - TP1GXW [mailto:GWright@sempra.com]\n",
+         "source": "email",
+         "to": "'mday@gmssr.com'"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/notes_inbox/18.",
+   "hops": [
+      {
+         "from": "jeffery.fawcett@enron.com",
+         "line": 4,
+         "rawfrom": "jeffery.fawcett@enron.com\r\n",
+         "source": "valid",
+         "to": "susan.scott@enron.com"
+      },
+      {
+         "from": "jeffery.fawcett@enron.com",
+         "line": 36,
+         "rawfrom": "Jeffery.Fawcett@enron.com [mailto:Jeffery.Fawcett@enron.com]\n",
+         "source": "email",
+         "to": "MBD"
+      },
+      {
+         "from": "mday@gmssr.com",
+         "line": 52,
+         "rawfrom": "MBD <MDay@GMSSR.com> on 12/12/2000 11:19:27 AM\n",
+         "source": "email",
+         "to": "\"'Jeffery.Fawcett@enron.com'\" <Jeffery.Fawcett@enron.com>"
+      },
+      {
+         "from": "jeffery.fawcett@enron.com",
+         "line": 65,
+         "rawfrom": "Jeffery.Fawcett@enron.com [mailto:Jeffery.Fawcett@enron.com]\n",
+         "source": "email",
+         "to": "MBD"
+      },
+      {
+         "from": "mday@gmssr.com",
+         "line": 82,
+         "rawfrom": "MBD <MDay@GMSSR.com> on 12/11/2000 01:46:04 PM\n",
+         "source": "email",
+         "to": "Jeffery.Fawcett@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/notes_inbox/302.",
+   "hops": [
+      {
+         "from": "jkbowles@hotmail.com",
+         "line": 4,
+         "rawfrom": "jkbowles@hotmail.com\r\n",
+         "source": "valid",
+         "to": "kathybowles@juno.com, thielemannb@epenergy.com, tcornwell@txbeef.org,"
+      },
+      {
+         "from": "sarahreneehughes@hotmail.com",
+         "line": 28,
+         "rawfrom": "\"Sarah Hughes\" <sarahreneehughes@hotmail.com>\n",
+         "source": "email",
+         "to": "asharbino@yahoo.com, ggregory@eastland.net, all@arn.net,"
+      },
+      {
+         "from": "paulinsclu@aol.com",
+         "line": 40,
+         "rawfrom": "PAULINSCLU@aol.com\n",
+         "source": "valid",
+         "to": "cherylbecker@hotmail.com, lbcot@email.msn.com, jdrew@mindspring.com,"
+      },
+      {
+         "from": "autosend@grassfire.net",
+         "line": 64,
+         "rawfrom": "\"Your Grassfire Link Msg\" <autosend@grassfire.net>\n",
+         "source": "email",
+         "to": "<paulinsclu@aol.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/notes_inbox/220.",
+   "hops": [
+      {
+         "from": "monique.sanchez@enron.com",
+         "line": 4,
+         "rawfrom": "monique.sanchez@enron.com\r\n",
+         "source": "valid",
+         "to": "susan.scott@enron.com"
+      },
+      {
+         "from": "ehillegeist@hotmail.com",
+         "line": 43,
+         "rawfrom": " \"Emily Hillegeist\" <ehillegeist@hotmail.com>                           \n",
+         "source": "email",
+         "to": "sonderfan@hotmail.com, katyhester@hotmail.com, sscott5@enron.com"
+      },
+      {
+         "from": "ukhawks@aol.com",
+         "line": 53,
+         "rawfrom": "Ukhawks@aol.com  \n",
+         "source": "valid",
+         "to": "bandrowski@msn.com, aboguszewski@hotmail.com, jclarke@chuck.stchas.edu,"
+      },
+      {
+         "from": "thesymingtons@email.msn.com",
+         "line": 81,
+         "rawfrom": "\"thesymingtons\" <thesymingtons@email.msn.com>\n",
+         "source": "email",
+         "to": "\"Maggie Symington\" <msymington@hotmail.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/notes_inbox/335.",
+   "hops": [
+      {
+         "from": "cscott_korea@yahoo.com",
+         "line": 4,
+         "rawfrom": "cscott_korea@yahoo.com\r\n",
+         "source": "valid",
+         "to": "sscott5@enron.com, wbwilliams@flex.net, betgraham@hotmail.com,"
+      },
+      {
+         "from": "bacco1@mindspring.com",
+         "line": 41,
+         "rawfrom": "Charlee Williamson <bacco1@mindspring.com>\n",
+         "source": "email",
+         "to": "dke1069@hotmail.com, cscott_korea@yahoo.com"
+      },
+      {
+         "from": "michaelreiss@aol.com",
+         "line": 60,
+         "rawfrom": "MichaelReiss@aol.com\n",
+         "source": "valid",
+         "to": "hgabel@neworleans-food.com, cwilliamson@neworleans-food.com,"
+      },
+      {
+         "from": "patti.micklin@stmsaints.com",
+         "line": 79,
+         "rawfrom": "Patti Micklin <patti.micklin@stmsaints.com>\n",
+         "source": "email",
+         "to": "\"Alyson Ray (E-mail)\" <ANJRAY5@aol.com>,        \"Bobbie & Charlie Yuspeh"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/notes_inbox/26.",
+   "hops": [
+      {
+         "from": "jeffery.fawcett@enron.com",
+         "line": 4,
+         "rawfrom": "jeffery.fawcett@enron.com\r\n",
+         "source": "valid",
+         "to": "mday@gmssr.com"
+      },
+      {
+         "from": "mday@gmssr.com",
+         "line": 27,
+         "rawfrom": "MBD <MDay@GMSSR.com> on 12/12/2000 11:19:27 AM\n",
+         "source": "email",
+         "to": "\"'Jeffery.Fawcett@enron.com'\" <Jeffery.Fawcett@enron.com>"
+      },
+      {
+         "from": "jeffery.fawcett@enron.com",
+         "line": 40,
+         "rawfrom": "Jeffery.Fawcett@enron.com [mailto:Jeffery.Fawcett@enron.com]\n",
+         "source": "email",
+         "to": "MBD"
+      },
+      {
+         "from": "mday@gmssr.com",
+         "line": 57,
+         "rawfrom": "MBD <MDay@GMSSR.com> on 12/11/2000 01:46:04 PM\n",
+         "source": "email",
+         "to": "Jeffery.Fawcett@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/415.",
+   "hops": [
+      {
+         "from": "m..scott@enron.com",
+         "line": 4,
+         "rawfrom": "m..scott@enron.com\r\n",
+         "source": "valid",
+         "to": "moshuffle@hotmail.com"
+      },
+      {
+         "from": "ehillegeist@hotmail.com",
+         "line": 22,
+         "rawfrom": "\t\"Emily Hillegeist\" <ehillegeist@hotmail.com>@ENRON [mailto:IMCEANOTES-+22Emily+20Hillegeist+22+20+3Cehillegeist+40hotmail+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "sonderfan@hotmail.com; kaseywalker@mindspring.com; katyhester@hotmail.com; sscott5@enron.com"
+      },
+      {
+         "from": "shannonleighwilliams@hotmail.com",
+         "line": 34,
+         "rawfrom": "\"S. Williams\" <shannonleighwilliams@hotmail.com>\n",
+         "source": "email",
+         "to": "alej_abogado@hotmail.com, aliciamandola@yahoo.com,"
+      },
+      {
+         "from": "m_cloud@angelfire.com",
+         "line": 62,
+         "rawfrom": "Meredith A. Cloud [mailto:m_cloud@angelfire.com] \n",
+         "source": "email",
+         "to": "melissa mcclure; Tristan Rappold; Sarah Cain; Nikki Moberg; Natalie"
+      },
+      {
+         "from": "katie@netaonline.org",
+         "line": 98,
+         "rawfrom": "Katie Stearns [SMTP:Katie@netaonline.org] \n",
+         "source": "email",
+         "to": "'Allison Weed'; 'Betsy Clarkson'; 'Debby Hames Hinricher';"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/381.",
+   "hops": [
+      {
+         "from": "m..scott@enron.com",
+         "line": 4,
+         "rawfrom": "m..scott@enron.com\r\n",
+         "source": "valid",
+         "to": "monique.sanchez@enron.com"
+      },
+      {
+         "from": "blathram@lmnarchitects.com",
+         "line": 22,
+         "rawfrom": "\t\"Bonnie Lathram\" <blathram@LMNArchitects.com>@ENRON [mailto:IMCEANOTES-+22Bonnie+20Lathram+22+20+3Cblathram+40LMNArchitects+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Scott, Susan M."
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 44,
+         "rawfrom": "Susan.M.Scott@enron.com [mailto:Susan.M.Scott@enron.com]\n",
+         "source": "email",
+         "to": "Bonnie Lathram"
+      },
+      {
+         "from": "blathram@lmnarchitects.com",
+         "line": 78,
+         "rawfrom": "  \"Bonnie Lathram\" <blathram@LMNArchitects.com>@ENRON\n",
+         "source": "email",
+         "to": "Scott, Susan M."
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 111,
+         "rawfrom": "Susan.M.Scott@enron.com [mailto:Susan.M.Scott@enron.com]\n",
+         "source": "email",
+         "to": "Bonnie Lathram"
+      },
+      {
+         "from": "blathram@lmnarchitects.com",
+         "line": 132,
+         "rawfrom": "  \"Bonnie Lathram\" <blathram@LMNArchitects.com>@ENRON\n",
+         "source": "email",
+         "to": "Scott, Susan M."
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 186,
+         "rawfrom": "Scott, Susan M. [mailto:Susan.M.Scott@ENRON.com]\n",
+         "source": "email",
+         "to": "Bonnie Lathram"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/204.",
+   "hops": [
+      {
+         "from": "m..scott@enron.com",
+         "line": 4,
+         "rawfrom": "m..scott@enron.com\r\n",
+         "source": "valid",
+         "to": "ehillegeist@hotmail.com"
+      },
+      {
+         "from": "ehillegeist@hotmail.com",
+         "line": 22,
+         "rawfrom": "\t\"Emily Hillegeist\" <ehillegeist@hotmail.com>@ENRON [mailto:IMCEANOTES-+22Emily+20Hillegeist+22+20+3Cehillegeist+40hotmail+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Scott, Susan M."
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 34,
+         "rawfrom": "Susan.M.Scott@enron.com\n",
+         "source": "valid",
+         "to": "ehillegeist@hotmail.com"
+      },
+      {
+         "from": "ehillegeist@hotmail.com",
+         "line": 59,
+         "rawfrom": "  \"Emily Hillegeist\" <ehillegeist@hotmail.com>@ENRON\n",
+         "source": "email",
+         "to": "sscott5@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/361.",
+   "hops": [
+      {
+         "from": "m..scott@enron.com",
+         "line": 4,
+         "rawfrom": "m..scott@enron.com\r\n",
+         "source": "valid",
+         "to": "jarrod.haughn@enron.com"
+      },
+      {
+         "from": "jmenconi@adv-eng-ser-inc.com",
+         "line": 71,
+         "rawfrom": "\t\"John Menconi\" <jmenconi@adv-eng-ser-inc.com>@ENRON [mailto:IMCEANOTES-+22John+20Menconi+22+20+3Cjmenconi+40adv-eng-ser-inc+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "'Friend, Trip \\(JW\\)'; 'Robert A. Parry, M.S., DABMP'; 'aimee girl'; Haughn, Jarrod; Scott, Susan M.; Sanchez, Monique"
+      },
+      {
+         "from": "jwfriend@dow.com",
+         "line": 80,
+         "rawfrom": "Friend, Trip (JW) [mailto:JWFriend@dow.com]\n",
+         "source": "email",
+         "to": "'Robert A. Parry, M.S., DABMP'; aimee girl; Haughn, Jarrod; Scott, Susan M.; jmenconi@adv-eng-ser-inc.com; Sanchez, Monique"
+      },
+      {
+         "from": "rparry@bcm.tmc.edu",
+         "line": 93,
+         "rawfrom": "Robert A. Parry, M.S., DABMP [mailto:rparry@bcm.tmc.edu]\n",
+         "source": "email",
+         "to": "Trip (Work); aimee girl; Haughn, Jarrod; Scott, Susan M.; jmenconi@adv-eng-ser-inc.com; Sanchez, Monique"
+      },
+      {
+         "from": "jwfriend@dow.com",
+         "line": 112,
+         "rawfrom": "\"Friend, Trip (JW)\" <JWFriend@dow.com>@ENRON\n",
+         "source": "email",
+         "to": "'Robert A. Parry, M.S., DABMP'; jmenconi@adv-eng-ser-inc.com;"
+      },
+      {
+         "from": "jarrod.haughn@enron.com",
+         "line": 135,
+         "rawfrom": "Haughn, Jarrod [mailto:Jarrod.Haughn@ENRON.com]\n",
+         "source": "email",
+         "to": "Robert A. Parry, M.S., DABMP; Trip (Work);"
+      },
+      {
+         "from": "rparry@bcm.tmc.edu",
+         "line": 150,
+         "rawfrom": "Robert A. Parry, M.S., DABMP [mailto:rparry@bcm.tmc.edu]\n",
+         "source": "email",
+         "to": "Trip (Work); jmenconi@adv-eng-ser-inc.com << File: mailto:jmenconi@adv-eng-ser-inc.com >> ; Scott, Susan M.;"
+      },
+      {
+         "from": "jarrod.haughn@enron.com",
+         "line": 186,
+         "rawfrom": "Haughn, Jarrod [mailto:Jarrod.Haughn@ENRON.com]\n",
+         "source": "email",
+         "to": "rparry@bcm.tmc.edu << File: mailto:rparry@bcm.tmc.edu >>  <mailto:rparry@bcm.tmc.edu> ; Sanchez,"
+      }
+   ],
+   "skipped": 9
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/40.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "julieg@qualcomm.com"
+      },
+      {
+         "from": "julieg@qualcomm.com",
+         "line": 27,
+         "rawfrom": " Julie Gibson <julieg@qualcomm.com>                           04/18/2001 04:15 PM\t\n",
+         "source": "email",
+         "to": "Susan.M.Scott@enron.com"
+      },
+      {
+         "from": "cmcclell@adept.qualcomm.com",
+         "line": 115,
+         "rawfrom": "cmcclell@adept.qualcomm.com",
+         "source": "valid",
+         "to": "Julie Gibson <julieg@qualcomm.com>"
+      },
+      {
+         "from": "gomezer@psi.com",
+         "line": 150,
+         "rawfrom": "\"Eric Gomez\" <gomezer@psi.com>\n",
+         "source": "email",
+         "to": "\"Julie Gibson\" <julieg@qualcomm.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/209.",
+   "hops": [
+      {
+         "from": "m..scott@enron.com",
+         "line": 4,
+         "rawfrom": "m..scott@enron.com\r\n",
+         "source": "valid",
+         "to": "celeahy@hotmail.com"
+      },
+      {
+         "from": "celeahy@hotmail.com",
+         "line": 22,
+         "rawfrom": "\t\"corey leahy\" <celeahy@hotmail.com>@ENRON [mailto:IMCEANOTES-+22corey+20leahy+22+20+3Cceleahy+40hotmail+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Scott, Susan M."
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 37,
+         "rawfrom": "Susan.M.Scott@enron.com\n",
+         "source": "valid",
+         "to": "celeahy@hotmail.com"
+      },
+      {
+         "from": "celeahy@hotmail.com",
+         "line": 57,
+         "rawfrom": "  \"corey leahy\" <celeahy@hotmail.com>@ENRON\n",
+         "source": "email",
+         "to": "Scott, Susan M."
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 73,
+         "rawfrom": "\"Scott, Susan M.\" <Susan.M.Scott@ENRON.com>\n",
+         "source": "email",
+         "to": "\"Corey Leahy (E-mail)\" <celeahy@hotmail.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/608.",
+   "hops": [
+      {
+         "from": "m..scott@enron.com",
+         "line": 4,
+         "rawfrom": "m..scott@enron.com\r\n",
+         "source": "valid",
+         "to": "joe.parks@enron.com"
+      },
+      {
+         "from": "jdeleo@tfsbrokers.com",
+         "line": 21,
+         "rawfrom": " <jdeleo@tfsbrokers.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "davidn@apbenergy.com",
+         "line": 29,
+         "rawfrom": " <davidn@apbenergy.com>\n",
+         "source": "email",
+         "to": "'kholst@enron.com'"
+      },
+      {
+         "from": "tblando@amerexenergy.com",
+         "line": 46,
+         "rawfrom": " <tblando@amerexenergy.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tvaughan@prebon.com",
+         "line": 55,
+         "rawfrom": " <TVaughan@prebon.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "stouchstone@natsource.com",
+         "line": 63,
+         "rawfrom": " <STouchstone@natsource.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tblando@amerexenergy.com",
+         "line": 72,
+         "rawfrom": " <tblando@amerexenergy.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "jdeleo@tfsbrokers.com",
+         "line": 81,
+         "rawfrom": " <jdeleo@tfsbrokers.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "stouchstone@natsource.com",
+         "line": 89,
+         "rawfrom": " <STouchstone@natsource.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "jdeleo@tfsbrokers.com",
+         "line": 98,
+         "rawfrom": " <jdeleo@tfsbrokers.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tblando@amerexenergy.com",
+         "line": 106,
+         "rawfrom": " <tblando@amerexenergy.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tvaughan@prebon.com",
+         "line": 115,
+         "rawfrom": " <TVaughan@prebon.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tblando@amerexenergy.com",
+         "line": 123,
+         "rawfrom": " <tblando@amerexenergy.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "jdeleo@tfsbrokers.com",
+         "line": 132,
+         "rawfrom": " <jdeleo@tfsbrokers.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "davidn@apbenergy.com",
+         "line": 140,
+         "rawfrom": " <davidn@apbenergy.com>\n",
+         "source": "email",
+         "to": "'kholst@enron.com'"
+      },
+      {
+         "from": "tblando@amerexenergy.com",
+         "line": 157,
+         "rawfrom": " <tblando@amerexenergy.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "jdeleo@tfsbrokers.com",
+         "line": 166,
+         "rawfrom": " <jdeleo@tfsbrokers.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tvaughan@prebon.com",
+         "line": 174,
+         "rawfrom": " <TVaughan@prebon.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "jdeleo@tfsbrokers.com",
+         "line": 182,
+         "rawfrom": " <jdeleo@tfsbrokers.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tblando@amerexenergy.com",
+         "line": 190,
+         "rawfrom": " <tblando@amerexenergy.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tblando@amerexenergy.com",
+         "line": 199,
+         "rawfrom": " <tblando@amerexenergy.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "jdeleo@tfsbrokers.com",
+         "line": 208,
+         "rawfrom": " <jdeleo@tfsbrokers.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tvaughan@prebon.com",
+         "line": 216,
+         "rawfrom": " <TVaughan@prebon.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tblando@amerexenergy.com",
+         "line": 224,
+         "rawfrom": " <tblando@amerexenergy.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "jdeleo@tfsbrokers.com",
+         "line": 233,
+         "rawfrom": " <jdeleo@tfsbrokers.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tblando@amerexenergy.com",
+         "line": 241,
+         "rawfrom": " <tblando@amerexenergy.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "davidn@apbenergy.com",
+         "line": 250,
+         "rawfrom": " <davidn@apbenergy.com>\n",
+         "source": "email",
+         "to": "'kholst@enron.com'"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/607.",
+   "hops": [
+      {
+         "from": "m..scott@enron.com",
+         "line": 4,
+         "rawfrom": "m..scott@enron.com\r\n",
+         "source": "valid",
+         "to": "lisag@kis.ernet.in"
+      },
+      {
+         "from": "lisag@kis.ernet.in",
+         "line": 35,
+         "rawfrom": "\t\"Lisa Gillette\" <lisag@kis.ernet.in>@ENRON  \n",
+         "source": "email",
+         "to": "Scott, Susan M."
+      },
+      {
+         "from": "lisag@kis.ernet.in",
+         "line": 43,
+         "rawfrom": "          \tLisa Gillette <lisag@kis.ernet.in>\n",
+         "source": "email",
+         "to": "Susan.M.Scott@enron.com"
+      },
+      {
+         "from": "lisag@kis.ernet.in",
+         "line": 77,
+         "rawfrom": "          \tLisa Gillette <lisag@kis.ernet.in>\n",
+         "source": "email",
+         "to": "elizabeth_ivers@eogresources.com,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/13.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "celeahy@hotmail.com"
+      },
+      {
+         "from": "celeahy@hotmail.com",
+         "line": 26,
+         "rawfrom": " \"corey leahy\" <celeahy@hotmail.com>                           04/24/2001 03:07 PM\t\n",
+         "source": "email",
+         "to": "Susan.M.Scott@enron.com"
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 48,
+         "rawfrom": "Susan.M.Scott@enron.com\n",
+         "source": "valid",
+         "to": "celeahy@hotmail.com"
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 103,
+         "rawfrom": "Susan.M.Scott@enron.com\n",
+         "source": "valid",
+         "to": "celeahy@hotmail.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/270.",
+   "hops": [
+      {
+         "from": "m..scott@enron.com",
+         "line": 4,
+         "rawfrom": "m..scott@enron.com\r\n",
+         "source": "valid",
+         "to": "lisa.gillette@enron.com"
+      },
+      {
+         "from": "lisa.gillette@enron.com",
+         "line": 22,
+         "rawfrom": "\t\"Gillette, Lisa\" <Lisa.Gillette@ENRON.com>@ENRON [mailto:IMCEANOTES-+22Gillette+2C+20Lisa+22+20+3CLisa+2EGillette+40ENRON+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "\"\\\"Mace@ENRON; Ashley A\\\" <Ashley.A.Mace@Williams.com>@ENRON\" <IMCEANOTES-+22Mace+2C+20Ashley+20A+22+20+3CAshley+2EA+2EMace+40Williams+2Ecom+3E+40ENRON@ENRON.com>; Elaina Vallo; Mace, Ashley A; ljahnke@aerotek.com; Scott, Susan M.; sscott5@enron.com"
+      },
+      {
+         "from": "ashley.a.mace@williams.com",
+         "line": 35,
+         "rawfrom": "\t\"Mace, Ashley A\" <Ashley.A.Mace@Williams.com>@ENRON\n",
+         "source": "email",
+         "to": "'Elaina Vallo'; Mace, Ashley A; Gillette, Lisa;"
+      },
+      {
+         "from": "elaina5@hotmail.com",
+         "line": 47,
+         "rawfrom": "  Elaina Vallo [SMTP:elaina5@hotmail.com]\n",
+         "source": "email",
+         "to": "ashley.a.mace@williams.com; Lisa.Gillette@enron.com;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/81.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "ehillegeist@hotmail.com"
+      },
+      {
+         "from": "ehillegeist@hotmail.com",
+         "line": 28,
+         "rawfrom": " \"Emily Hillegeist\" <ehillegeist@hotmail.com>                           04/09/2001 01:17 PM\t\n",
+         "source": "email",
+         "to": "sscott5@enron.com"
+      },
+      {
+         "from": "urgent@lastminute.com",
+         "line": 41,
+         "rawfrom": "Urgent <urgent@lastminute.com>\n",
+         "source": "email",
+         "to": "Emily Hillegeist <ehillegeist@hotmail.com>"
+      },
+      {
+         "from": "ehillegeist@hotmail.com",
+         "line": 69,
+         "rawfrom": "  Emily Hillegeist <ehillegeist@hotmail.com>\n",
+         "source": "email",
+         "to": "urgent@lastminute.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/33.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "christi.nicolay@enron.com"
+      },
+      {
+         "from": "eschlaf@icc.state.il.us",
+         "line": 112,
+         "rawfrom": "> From:\tSchlaf, Eric [SMTP:eschlaf@icc.state.il.us]\n",
+         "source": "email",
+         "to": "@ Fein, David"
+      },
+      {
+         "from": "david.fein@piperrudnick.com",
+         "line": 125,
+         "rawfrom": "Fein, David I. - CHI [mailto:david.fein@piperrudnick.com]\n",
+         "source": "email",
+         "to": "'Schlaf, Eric'; @ Flygt, Flora; 'marcnielsen@alliant-energy.com';"
+      },
+      {
+         "from": "eschlaf@icc.state.il.us",
+         "line": 188,
+         "rawfrom": "> > From:\tSchlaf, Eric [SMTP:eschlaf@icc.state.il.us]\n",
+         "source": "email",
+         "to": "@ Flygt, Flora; 'marcnielsen@alliant-energy.com';"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/569.",
+   "hops": [
+      {
+         "from": "m..scott@enron.com",
+         "line": 4,
+         "rawfrom": "m..scott@enron.com\r\n",
+         "source": "valid",
+         "to": "susan_m_scott@hotmail.com"
+      },
+      {
+         "from": "susan_m_scott@hotmail.com",
+         "line": 28,
+         "rawfrom": "\t\"Susan Scott\" <susan_m_scott@hotmail.com>@ENRON  \n",
+         "source": "email",
+         "to": "sscott5@enron.com"
+      },
+      {
+         "from": "blathram@lmnarchitects.com",
+         "line": 35,
+         "rawfrom": "\"Bonnie Lathram\" <blathram@LMNArchitects.com>\n",
+         "source": "email",
+         "to": "\"Susan Scott\" <susan_m_scott@hotmail.com>"
+      },
+      {
+         "from": "susan_m_scott@hotmail.com",
+         "line": 79,
+         "rawfrom": "Susan Scott [mailto:susan_m_scott@hotmail.com]\n",
+         "source": "email",
+         "to": "Bonnie Lathram"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/166.",
+   "hops": [
+      {
+         "from": "m..scott@enron.com",
+         "line": 4,
+         "rawfrom": "m..scott@enron.com\r\n",
+         "source": "valid",
+         "to": "monique.sanchez@enron.com"
+      },
+      {
+         "from": "jmenconi@adv-eng-ser-inc.com",
+         "line": 22,
+         "rawfrom": "\t\"John Menconi\" <jmenconi@adv-eng-ser-inc.com>@ENRON [mailto:IMCEANOTES-+22John+20Menconi+22+20+3Cjmenconi+40adv-eng-ser-inc+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Scott, Susan M."
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 33,
+         "rawfrom": "Scott, Susan M. [mailto:Susan.M.Scott@enron.com]\n",
+         "source": "email",
+         "to": "jmenconi@adv-eng-ser-inc.com"
+      },
+      {
+         "from": "bobby@kobaki.com",
+         "line": 46,
+         "rawfrom": "        \"Bobby Gerry\" <bobby@kobaki.com>@ENRON\n",
+         "source": "email",
+         "to": "Susan Scott"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/123.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "ehillegeist@hotmail.com"
+      },
+      {
+         "from": "ehillegeist@hotmail.com",
+         "line": 30,
+         "rawfrom": " \"Emily Hillegeist\" <ehillegeist@hotmail.com>                           03/27/2001 09:59 AM\t\n",
+         "source": "email",
+         "to": "Susan.M.Scott@enron.com"
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 42,
+         "rawfrom": "Susan.M.Scott@enron.com\n",
+         "source": "valid",
+         "to": "ehillegeist@hotmail.com"
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 109,
+         "rawfrom": "Susan.M.Scott@enron.com\n",
+         "source": "valid",
+         "to": "ehillegeist@hotmail.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/80.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "mharp@austin.apc.slb.com"
+      },
+      {
+         "from": "mharp@austin.apc.slb.com",
+         "line": 34,
+         "rawfrom": " \"Mary Rebecca Harp\" <mharp@austin.apc.slb.com>                           04/09/2001 04:41 PM\t\n",
+         "source": "email",
+         "to": "<susan.m.scott@enron.com>"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 52,
+         "rawfrom": "Scott, Susan [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "mharp@austin.apc.slb.com"
+      },
+      {
+         "from": "mharp@austin.apc.slb.com",
+         "line": 64,
+         "rawfrom": "\t\"Mary Rebecca Harp\" <mharp@austin.apc.slb.com>@ENRON\n",
+         "source": "email",
+         "to": "Scott, Susan"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/285.",
+   "hops": [
+      {
+         "from": "m..scott@enron.com",
+         "line": 4,
+         "rawfrom": "m..scott@enron.com\r\n",
+         "source": "valid",
+         "to": "jkbowles@hotmail.com"
+      },
+      {
+         "from": "jkbowles@hotmail.com",
+         "line": 22,
+         "rawfrom": "\t\"Jennifer Bowles\" <jkbowles@hotmail.com>@ENRON [mailto:IMCEANOTES-+22Jennifer+20Bowles+22+20+3Cjkbowles+40hotmail+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Scott, Susan M."
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 29,
+         "rawfrom": "Susan.M.Scott@enron.com\n",
+         "source": "valid",
+         "to": "jkbowles@hotmail.com"
+      },
+      {
+         "from": "jkbowles@hotmail.com",
+         "line": 44,
+         "rawfrom": "  \"Jennifer Bowles\" <jkbowles@hotmail.com>@ENRON\n",
+         "source": "email",
+         "to": "Scott, Susan M."
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 55,
+         "rawfrom": "Susan.M.Scott@enron.com\n",
+         "source": "valid",
+         "to": "jkbowles@hotmail.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/167.",
+   "hops": [
+      {
+         "from": "m..scott@enron.com",
+         "line": 4,
+         "rawfrom": "m..scott@enron.com\r\n",
+         "source": "valid",
+         "to": "jmenconi@adv-eng-ser-inc.com"
+      },
+      {
+         "from": "jmenconi@adv-eng-ser-inc.com",
+         "line": 22,
+         "rawfrom": "\t\"John Menconi\" <jmenconi@adv-eng-ser-inc.com>@ENRON [mailto:IMCEANOTES-+22John+20Menconi+22+20+3Cjmenconi+40adv-eng-ser-inc+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Scott, Susan M."
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 33,
+         "rawfrom": "Scott, Susan M. [mailto:Susan.M.Scott@enron.com]\n",
+         "source": "email",
+         "to": "jmenconi@adv-eng-ser-inc.com"
+      },
+      {
+         "from": "bobby@kobaki.com",
+         "line": 46,
+         "rawfrom": "        \"Bobby Gerry\" <bobby@kobaki.com>@ENRON\n",
+         "source": "email",
+         "to": "Susan Scott"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/317.",
+   "hops": [
+      {
+         "from": "m..scott@enron.com",
+         "line": 4,
+         "rawfrom": "m..scott@enron.com\r\n",
+         "source": "valid",
+         "to": "celeahy@hotmail.com"
+      },
+      {
+         "from": "celeahy@hotmail.com",
+         "line": 22,
+         "rawfrom": "\t\"corey leahy\" <celeahy@hotmail.com>@ENRON [mailto:IMCEANOTES-+22corey+20leahy+22+20+3Cceleahy+40hotmail+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Scott, Susan M."
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 31,
+         "rawfrom": "Susan.M.Scott@enron.com \n",
+         "source": "valid",
+         "to": "celeahy@hotmail.com"
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 64,
+         "rawfrom": "Susan.M.Scott@enron.com  \n",
+         "source": "valid",
+         "to": "celeahy@hotmail.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/357.",
+   "hops": [
+      {
+         "from": "m..scott@enron.com",
+         "line": 4,
+         "rawfrom": "m..scott@enron.com\r\n",
+         "source": "valid",
+         "to": "jmenconi@adv-eng-ser-inc.com"
+      },
+      {
+         "from": "jmenconi@adv-eng-ser-inc.com",
+         "line": 22,
+         "rawfrom": "\t\"John Menconi\" <jmenconi@adv-eng-ser-inc.com>@ENRON [mailto:IMCEANOTES-+22John+20Menconi+22+20+3Cjmenconi+40adv-eng-ser-inc+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "'Friend, Trip \\(JW\\)'; 'Robert A. Parry, M.S., DABMP'; 'aimee girl'; Haughn, Jarrod; Scott, Susan M.; Sanchez, Monique"
+      },
+      {
+         "from": "jwfriend@dow.com",
+         "line": 31,
+         "rawfrom": "Friend, Trip (JW) [mailto:JWFriend@dow.com]\n",
+         "source": "email",
+         "to": "'Robert A. Parry, M.S., DABMP'; aimee girl; Haughn, Jarrod; Scott, Susan M.; jmenconi@adv-eng-ser-inc.com; Sanchez, Monique"
+      },
+      {
+         "from": "rparry@bcm.tmc.edu",
+         "line": 44,
+         "rawfrom": "Robert A. Parry, M.S., DABMP [mailto:rparry@bcm.tmc.edu]\n",
+         "source": "email",
+         "to": "Trip (Work); aimee girl; Haughn, Jarrod; Scott, Susan M.; jmenconi@adv-eng-ser-inc.com; Sanchez, Monique"
+      },
+      {
+         "from": "jwfriend@dow.com",
+         "line": 63,
+         "rawfrom": "\"Friend, Trip (JW)\" <JWFriend@dow.com>@ENRON\n",
+         "source": "email",
+         "to": "'Robert A. Parry, M.S., DABMP'; jmenconi@adv-eng-ser-inc.com;"
+      },
+      {
+         "from": "jarrod.haughn@enron.com",
+         "line": 86,
+         "rawfrom": "Haughn, Jarrod [mailto:Jarrod.Haughn@ENRON.com]\n",
+         "source": "email",
+         "to": "Robert A. Parry, M.S., DABMP; Trip (Work);"
+      },
+      {
+         "from": "rparry@bcm.tmc.edu",
+         "line": 101,
+         "rawfrom": "Robert A. Parry, M.S., DABMP [mailto:rparry@bcm.tmc.edu]\n",
+         "source": "email",
+         "to": "Trip (Work); jmenconi@adv-eng-ser-inc.com << File: mailto:jmenconi@adv-eng-ser-inc.com >> ; Scott, Susan M.;"
+      },
+      {
+         "from": "jarrod.haughn@enron.com",
+         "line": 137,
+         "rawfrom": "Haughn, Jarrod [mailto:Jarrod.Haughn@ENRON.com]\n",
+         "source": "email",
+         "to": "rparry@bcm.tmc.edu << File: mailto:rparry@bcm.tmc.edu >>  <mailto:rparry@bcm.tmc.edu> ; Sanchez,"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/379.",
+   "hops": [
+      {
+         "from": "m..scott@enron.com",
+         "line": 4,
+         "rawfrom": "m..scott@enron.com\r\n",
+         "source": "valid",
+         "to": "blathram@lmnarchitects.com"
+      },
+      {
+         "from": "blathram@lmnarchitects.com",
+         "line": 29,
+         "rawfrom": "\t\"Bonnie Lathram\" <blathram@LMNArchitects.com>@ENRON [mailto:IMCEANOTES-+22Bonnie+20Lathram+22+20+3Cblathram+40LMNArchitects+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Scott, Susan M."
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 59,
+         "rawfrom": "Susan.M.Scott@enron.com [mailto:Susan.M.Scott@enron.com]\n",
+         "source": "email",
+         "to": "Bonnie Lathram"
+      },
+      {
+         "from": "blathram@lmnarchitects.com",
+         "line": 79,
+         "rawfrom": "  \"Bonnie Lathram\" <blathram@LMNArchitects.com>@ENRON\n",
+         "source": "email",
+         "to": "Scott, Susan M."
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 125,
+         "rawfrom": "Scott, Susan M. [mailto:Susan.M.Scott@ENRON.com]\n",
+         "source": "email",
+         "to": "Bonnie Lathram"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/359.",
+   "hops": [
+      {
+         "from": "m..scott@enron.com",
+         "line": 4,
+         "rawfrom": "m..scott@enron.com\r\n",
+         "source": "valid",
+         "to": "jarrod.haughn@enron.com"
+      },
+      {
+         "from": "jmenconi@adv-eng-ser-inc.com",
+         "line": 39,
+         "rawfrom": "\t\"John Menconi\" <jmenconi@adv-eng-ser-inc.com>@ENRON [mailto:IMCEANOTES-+22John+20Menconi+22+20+3Cjmenconi+40adv-eng-ser-inc+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "'Friend, Trip \\(JW\\)'; 'Robert A. Parry, M.S., DABMP'; 'aimee girl'; Haughn, Jarrod; Scott, Susan M.; Sanchez, Monique"
+      },
+      {
+         "from": "jwfriend@dow.com",
+         "line": 48,
+         "rawfrom": "Friend, Trip (JW) [mailto:JWFriend@dow.com]\n",
+         "source": "email",
+         "to": "'Robert A. Parry, M.S., DABMP'; aimee girl; Haughn, Jarrod; Scott, Susan M.; jmenconi@adv-eng-ser-inc.com; Sanchez, Monique"
+      },
+      {
+         "from": "rparry@bcm.tmc.edu",
+         "line": 61,
+         "rawfrom": "Robert A. Parry, M.S., DABMP [mailto:rparry@bcm.tmc.edu]\n",
+         "source": "email",
+         "to": "Trip (Work); aimee girl; Haughn, Jarrod; Scott, Susan M.; jmenconi@adv-eng-ser-inc.com; Sanchez, Monique"
+      },
+      {
+         "from": "jwfriend@dow.com",
+         "line": 80,
+         "rawfrom": "\"Friend, Trip (JW)\" <JWFriend@dow.com>@ENRON\n",
+         "source": "email",
+         "to": "'Robert A. Parry, M.S., DABMP'; jmenconi@adv-eng-ser-inc.com;"
+      },
+      {
+         "from": "jarrod.haughn@enron.com",
+         "line": 103,
+         "rawfrom": "Haughn, Jarrod [mailto:Jarrod.Haughn@ENRON.com]\n",
+         "source": "email",
+         "to": "Robert A. Parry, M.S., DABMP; Trip (Work);"
+      },
+      {
+         "from": "rparry@bcm.tmc.edu",
+         "line": 118,
+         "rawfrom": "Robert A. Parry, M.S., DABMP [mailto:rparry@bcm.tmc.edu]\n",
+         "source": "email",
+         "to": "Trip (Work); jmenconi@adv-eng-ser-inc.com << File: mailto:jmenconi@adv-eng-ser-inc.com >> ; Scott, Susan M.;"
+      },
+      {
+         "from": "jarrod.haughn@enron.com",
+         "line": 154,
+         "rawfrom": "Haughn, Jarrod [mailto:Jarrod.Haughn@ENRON.com]\n",
+         "source": "email",
+         "to": "rparry@bcm.tmc.edu << File: mailto:rparry@bcm.tmc.edu >>  <mailto:rparry@bcm.tmc.edu> ; Sanchez,"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/185.",
+   "hops": [
+      {
+         "from": "m..scott@enron.com",
+         "line": 4,
+         "rawfrom": "m..scott@enron.com\r\n",
+         "source": "valid",
+         "to": "ehillegeist@hotmail.com"
+      },
+      {
+         "from": "ehillegeist@hotmail.com",
+         "line": 22,
+         "rawfrom": "\t\"Emily Hillegeist\" <ehillegeist@hotmail.com>@ENRON [mailto:IMCEANOTES-+22Emily+20Hillegeist+22+20+3Cehillegeist+40hotmail+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Scott, Susan M."
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 52,
+         "rawfrom": "Susan.M.Scott@enron.com\n",
+         "source": "valid",
+         "to": "ehillegeist@hotmail.com"
+      },
+      {
+         "from": "ehillegeist@hotmail.com",
+         "line": 84,
+         "rawfrom": "  \"Emily Hillegeist\" <ehillegeist@hotmail.com>@ENRON\n",
+         "source": "email",
+         "to": "sscott5@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/625.",
+   "hops": [
+      {
+         "from": "m..scott@enron.com",
+         "line": 4,
+         "rawfrom": "m..scott@enron.com\r\n",
+         "source": "valid",
+         "to": "victoria.versen@enron.com"
+      },
+      {
+         "from": "jdeleo@tfsbrokers.com",
+         "line": 39,
+         "rawfrom": " <jdeleo@tfsbrokers.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "davidn@apbenergy.com",
+         "line": 47,
+         "rawfrom": " <davidn@apbenergy.com>\n",
+         "source": "email",
+         "to": "'kholst@enron.com'"
+      },
+      {
+         "from": "tblando@amerexenergy.com",
+         "line": 64,
+         "rawfrom": " <tblando@amerexenergy.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tvaughan@prebon.com",
+         "line": 73,
+         "rawfrom": " <TVaughan@prebon.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "stouchstone@natsource.com",
+         "line": 81,
+         "rawfrom": " <STouchstone@natsource.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tblando@amerexenergy.com",
+         "line": 90,
+         "rawfrom": " <tblando@amerexenergy.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "jdeleo@tfsbrokers.com",
+         "line": 99,
+         "rawfrom": " <jdeleo@tfsbrokers.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "stouchstone@natsource.com",
+         "line": 107,
+         "rawfrom": " <STouchstone@natsource.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "jdeleo@tfsbrokers.com",
+         "line": 116,
+         "rawfrom": " <jdeleo@tfsbrokers.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tblando@amerexenergy.com",
+         "line": 124,
+         "rawfrom": " <tblando@amerexenergy.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tvaughan@prebon.com",
+         "line": 133,
+         "rawfrom": " <TVaughan@prebon.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tblando@amerexenergy.com",
+         "line": 141,
+         "rawfrom": " <tblando@amerexenergy.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "jdeleo@tfsbrokers.com",
+         "line": 150,
+         "rawfrom": " <jdeleo@tfsbrokers.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "davidn@apbenergy.com",
+         "line": 158,
+         "rawfrom": " <davidn@apbenergy.com>\n",
+         "source": "email",
+         "to": "'kholst@enron.com'"
+      },
+      {
+         "from": "tblando@amerexenergy.com",
+         "line": 175,
+         "rawfrom": " <tblando@amerexenergy.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "jdeleo@tfsbrokers.com",
+         "line": 184,
+         "rawfrom": " <jdeleo@tfsbrokers.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tvaughan@prebon.com",
+         "line": 192,
+         "rawfrom": " <TVaughan@prebon.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "jdeleo@tfsbrokers.com",
+         "line": 200,
+         "rawfrom": " <jdeleo@tfsbrokers.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tblando@amerexenergy.com",
+         "line": 208,
+         "rawfrom": " <tblando@amerexenergy.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tblando@amerexenergy.com",
+         "line": 217,
+         "rawfrom": " <tblando@amerexenergy.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "jdeleo@tfsbrokers.com",
+         "line": 226,
+         "rawfrom": " <jdeleo@tfsbrokers.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tvaughan@prebon.com",
+         "line": 234,
+         "rawfrom": " <TVaughan@prebon.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tblando@amerexenergy.com",
+         "line": 242,
+         "rawfrom": " <tblando@amerexenergy.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "jdeleo@tfsbrokers.com",
+         "line": 251,
+         "rawfrom": " <jdeleo@tfsbrokers.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "tblando@amerexenergy.com",
+         "line": 259,
+         "rawfrom": " <tblando@amerexenergy.com>\n",
+         "source": "email",
+         "to": "Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHOLST>"
+      },
+      {
+         "from": "davidn@apbenergy.com",
+         "line": 268,
+         "rawfrom": " <davidn@apbenergy.com>\n",
+         "source": "email",
+         "to": "'kholst@enron.com'"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/302.",
+   "hops": [
+      {
+         "from": "m..scott@enron.com",
+         "line": 4,
+         "rawfrom": "m..scott@enron.com\r\n",
+         "source": "valid",
+         "to": "ehillegeist@hotmail.com"
+      },
+      {
+         "from": "ehillegeist@hotmail.com",
+         "line": 22,
+         "rawfrom": "\t\"Emily Hillegeist\" <ehillegeist@hotmail.com>@ENRON [mailto:IMCEANOTES-+22Emily+20Hillegeist+22+20+3Cehillegeist+40hotmail+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Scott, Susan M."
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 30,
+         "rawfrom": "Susan.M.Scott@enron.com\n",
+         "source": "valid",
+         "to": "ehillegeist@hotmail.com"
+      },
+      {
+         "from": "ehillegeist@hotmail.com",
+         "line": 44,
+         "rawfrom": "  \"Emily Hillegeist\" <ehillegeist@hotmail.com>@ENRON\n",
+         "source": "email",
+         "to": "sscott5@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/187.",
+   "hops": [
+      {
+         "from": "m..scott@enron.com",
+         "line": 4,
+         "rawfrom": "m..scott@enron.com\r\n",
+         "source": "valid",
+         "to": "jkbowles@hotmail.com"
+      },
+      {
+         "from": "jkbowles@hotmail.com",
+         "line": 22,
+         "rawfrom": "\t\"Jennifer Bowles\" <jkbowles@hotmail.com>@ENRON [mailto:IMCEANOTES-+22Jennifer+20Bowles+22+20+3Cjkbowles+40hotmail+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Scott, Susan M."
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 29,
+         "rawfrom": "Susan.M.Scott@enron.com\n",
+         "source": "valid",
+         "to": "jkbowles@hotmail.com"
+      },
+      {
+         "from": "jkbowles@hotmail.com",
+         "line": 43,
+         "rawfrom": "  \"Jennifer Bowles\" <jkbowles@hotmail.com>@ENRON\n",
+         "source": "email",
+         "to": "Scott, Susan M."
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 67,
+         "rawfrom": "\"Scott, Susan M.\" <Susan.M.Scott@ENRON.com>\n",
+         "source": "email",
+         "to": "\"jennifer bowles (E-mail)\" <jkbowles@hotmail.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/416.",
+   "hops": [
+      {
+         "from": "m..scott@enron.com",
+         "line": 4,
+         "rawfrom": "m..scott@enron.com\r\n",
+         "source": "valid",
+         "to": "susan_m_scott@hotmail.com"
+      },
+      {
+         "from": "tkelley5@austin.rr.com",
+         "line": 22,
+         "rawfrom": "\t\"Travis Kelley\" <tkelley5@austin.rr.com>@ENRON [mailto:IMCEANOTES-+22Travis+20Kelley+22+20+3Ctkelley5+40austin+2Err+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Scott, Susan M."
+      },
+      {
+         "from": "dgustafson@anational.com",
+         "line": 39,
+         "rawfrom": "daniel gustafson [mailto:dgustafson@anational.com]\n",
+         "source": "email",
+         "to": "theparks@ev1.net; britking@yahoo.com; jharvey@jw.com;"
+      },
+      {
+         "from": "tionewton@aol.com",
+         "line": 53,
+         "rawfrom": "Tionewton@aol.com\n",
+         "source": "valid",
+         "to": "dgustafson@anational.com"
+      },
+      {
+         "from": "texaskew@aol.com",
+         "line": 63,
+         "rawfrom": "TEXASKEW@aol.com\n",
+         "source": "valid",
+         "to": "Tionewton@aol.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/353.",
+   "hops": [
+      {
+         "from": "m..scott@enron.com",
+         "line": 4,
+         "rawfrom": "m..scott@enron.com\r\n",
+         "source": "valid",
+         "to": "monique.sanchez@enron.com"
+      },
+      {
+         "from": "blathram@lmnarchitects.com",
+         "line": 22,
+         "rawfrom": "\t\"Bonnie Lathram\" <blathram@LMNArchitects.com>@ENRON [mailto:IMCEANOTES-+22Bonnie+20Lathram+22+20+3Cblathram+40LMNArchitects+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Scott, Susan M."
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 52,
+         "rawfrom": "Susan.M.Scott@enron.com [mailto:Susan.M.Scott@enron.com]\n",
+         "source": "email",
+         "to": "Bonnie Lathram"
+      },
+      {
+         "from": "blathram@lmnarchitects.com",
+         "line": 72,
+         "rawfrom": "  \"Bonnie Lathram\" <blathram@LMNArchitects.com>@ENRON\n",
+         "source": "email",
+         "to": "Scott, Susan M."
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 118,
+         "rawfrom": "Scott, Susan M. [mailto:Susan.M.Scott@ENRON.com]\n",
+         "source": "email",
+         "to": "Bonnie Lathram"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/360.",
+   "hops": [
+      {
+         "from": "m..scott@enron.com",
+         "line": 4,
+         "rawfrom": "m..scott@enron.com\r\n",
+         "source": "valid",
+         "to": "jarrod.haughn@enron.com"
+      },
+      {
+         "from": "jmenconi@adv-eng-ser-inc.com",
+         "line": 55,
+         "rawfrom": "\t\"John Menconi\" <jmenconi@adv-eng-ser-inc.com>@ENRON [mailto:IMCEANOTES-+22John+20Menconi+22+20+3Cjmenconi+40adv-eng-ser-inc+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "'Friend, Trip \\(JW\\)'; 'Robert A. Parry, M.S., DABMP'; 'aimee girl'; Haughn, Jarrod; Scott, Susan M.; Sanchez, Monique"
+      },
+      {
+         "from": "jwfriend@dow.com",
+         "line": 64,
+         "rawfrom": "Friend, Trip (JW) [mailto:JWFriend@dow.com]\n",
+         "source": "email",
+         "to": "'Robert A. Parry, M.S., DABMP'; aimee girl; Haughn, Jarrod; Scott, Susan M.; jmenconi@adv-eng-ser-inc.com; Sanchez, Monique"
+      },
+      {
+         "from": "rparry@bcm.tmc.edu",
+         "line": 77,
+         "rawfrom": "Robert A. Parry, M.S., DABMP [mailto:rparry@bcm.tmc.edu]\n",
+         "source": "email",
+         "to": "Trip (Work); aimee girl; Haughn, Jarrod; Scott, Susan M.; jmenconi@adv-eng-ser-inc.com; Sanchez, Monique"
+      },
+      {
+         "from": "jwfriend@dow.com",
+         "line": 96,
+         "rawfrom": "\"Friend, Trip (JW)\" <JWFriend@dow.com>@ENRON\n",
+         "source": "email",
+         "to": "'Robert A. Parry, M.S., DABMP'; jmenconi@adv-eng-ser-inc.com;"
+      },
+      {
+         "from": "jarrod.haughn@enron.com",
+         "line": 119,
+         "rawfrom": "Haughn, Jarrod [mailto:Jarrod.Haughn@ENRON.com]\n",
+         "source": "email",
+         "to": "Robert A. Parry, M.S., DABMP; Trip (Work);"
+      },
+      {
+         "from": "rparry@bcm.tmc.edu",
+         "line": 134,
+         "rawfrom": "Robert A. Parry, M.S., DABMP [mailto:rparry@bcm.tmc.edu]\n",
+         "source": "email",
+         "to": "Trip (Work); jmenconi@adv-eng-ser-inc.com << File: mailto:jmenconi@adv-eng-ser-inc.com >> ; Scott, Susan M.;"
+      },
+      {
+         "from": "jarrod.haughn@enron.com",
+         "line": 170,
+         "rawfrom": "Haughn, Jarrod [mailto:Jarrod.Haughn@ENRON.com]\n",
+         "source": "email",
+         "to": "rparry@bcm.tmc.edu << File: mailto:rparry@bcm.tmc.edu >>  <mailto:rparry@bcm.tmc.edu> ; Sanchez,"
+      }
+   ],
+   "skipped": 7
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/393.",
+   "hops": [
+      {
+         "from": "m..scott@enron.com",
+         "line": 4,
+         "rawfrom": "m..scott@enron.com\r\n",
+         "source": "valid",
+         "to": "jkbowles@hotmail.com"
+      },
+      {
+         "from": "jkbowles@hotmail.com",
+         "line": 22,
+         "rawfrom": "\t\"Jennifer Bowles\" <jkbowles@hotmail.com>@ENRON [mailto:IMCEANOTES-+22Jennifer+20Bowles+22+20+3Cjkbowles+40hotmail+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Scott, Susan M."
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 31,
+         "rawfrom": "Susan.M.Scott@enron.com\n",
+         "source": "valid",
+         "to": "jkbowles@hotmail.com"
+      },
+      {
+         "from": "jkbowles@hotmail.com",
+         "line": 51,
+         "rawfrom": "  \"Jennifer Bowles\" <jkbowles@hotmail.com>@ENRON\n",
+         "source": "email",
+         "to": "sscott5@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/sent_items/358.",
+   "hops": [
+      {
+         "from": "m..scott@enron.com",
+         "line": 4,
+         "rawfrom": "m..scott@enron.com\r\n",
+         "source": "valid",
+         "to": "dabmp'.'robert@enron.com, girl'.'aimee@enron.com, jarrod.haughn@enron.com,"
+      },
+      {
+         "from": "jmenconi@adv-eng-ser-inc.com",
+         "line": 24,
+         "rawfrom": "\t\"John Menconi\" <jmenconi@adv-eng-ser-inc.com>@ENRON [mailto:IMCEANOTES-+22John+20Menconi+22+20+3Cjmenconi+40adv-eng-ser-inc+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "'Friend, Trip \\(JW\\)'; 'Robert A. Parry, M.S., DABMP'; 'aimee girl'; Haughn, Jarrod; Scott, Susan M.; Sanchez, Monique"
+      },
+      {
+         "from": "jwfriend@dow.com",
+         "line": 33,
+         "rawfrom": "Friend, Trip (JW) [mailto:JWFriend@dow.com]\n",
+         "source": "email",
+         "to": "'Robert A. Parry, M.S., DABMP'; aimee girl; Haughn, Jarrod; Scott, Susan M.; jmenconi@adv-eng-ser-inc.com; Sanchez, Monique"
+      },
+      {
+         "from": "rparry@bcm.tmc.edu",
+         "line": 46,
+         "rawfrom": "Robert A. Parry, M.S., DABMP [mailto:rparry@bcm.tmc.edu]\n",
+         "source": "email",
+         "to": "Trip (Work); aimee girl; Haughn, Jarrod; Scott, Susan M.; jmenconi@adv-eng-ser-inc.com; Sanchez, Monique"
+      },
+      {
+         "from": "jwfriend@dow.com",
+         "line": 65,
+         "rawfrom": "\"Friend, Trip (JW)\" <JWFriend@dow.com>@ENRON\n",
+         "source": "email",
+         "to": "'Robert A. Parry, M.S., DABMP'; jmenconi@adv-eng-ser-inc.com;"
+      },
+      {
+         "from": "jarrod.haughn@enron.com",
+         "line": 88,
+         "rawfrom": "Haughn, Jarrod [mailto:Jarrod.Haughn@ENRON.com]\n",
+         "source": "email",
+         "to": "Robert A. Parry, M.S., DABMP; Trip (Work);"
+      },
+      {
+         "from": "rparry@bcm.tmc.edu",
+         "line": 103,
+         "rawfrom": "Robert A. Parry, M.S., DABMP [mailto:rparry@bcm.tmc.edu]\n",
+         "source": "email",
+         "to": "Trip (Work); jmenconi@adv-eng-ser-inc.com << File: mailto:jmenconi@adv-eng-ser-inc.com >> ; Scott, Susan M.;"
+      },
+      {
+         "from": "jarrod.haughn@enron.com",
+         "line": 139,
+         "rawfrom": "Haughn, Jarrod [mailto:Jarrod.Haughn@ENRON.com]\n",
+         "source": "email",
+         "to": "rparry@bcm.tmc.edu << File: mailto:rparry@bcm.tmc.edu >>  <mailto:rparry@bcm.tmc.edu> ; Sanchez,"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/fun_emails/23.",
+   "hops": [
+      {
+         "from": "cabel@ect.enron.com",
+         "line": 4,
+         "rawfrom": "cabel@ect.enron.com\r\n",
+         "source": "valid",
+         "to": "gary.stadler@enron.com, susan.scott@enron.com, tobin.carlson@enron.com,"
+      },
+      {
+         "from": "abellink@aol.com",
+         "line": 35,
+         "rawfrom": "    Abellink@aol.com [SMTP:Abellink@aol.com]\n",
+         "source": "email",
+         "to": "cabel@hal-pc.org; jeffrey@lxnet.com; meliage@lcc.net; Ekb8004910@aol.com;"
+      },
+      {
+         "from": "suzanne@strategic-hou.com",
+         "line": 112,
+         "rawfrom": "\"suzanne@strategic-hou.com\" <suzanne@strategic-hou.com>\n",
+         "source": "email",
+         "to": "\"abellink@aol.com\" <abellink@aol.com>, \"eneadams@aol.com\""
+      },
+      {
+         "from": "abellink@aol.com",
+         "line": 117,
+         "rawfrom": "abellink@aol.com",
+         "source": "valid",
+         "to": "\"kelmormil@aol.com\" <kelmormil@aol.com>, \"danawardel@aol.com\""
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/fun_emails/20.",
+   "hops": [
+      {
+         "from": "jkbowles@hotmail.com",
+         "line": 4,
+         "rawfrom": "jkbowles@hotmail.com\r\n",
+         "source": "valid",
+         "to": "cwilkes@santafe-snyder.com, ashleastu@aol.com, ccaton@hillandknowlton.com,"
+      },
+      {
+         "from": "jcwachtman@aol.com",
+         "line": 35,
+         "rawfrom": "JCWACHTMAN@aol.com\n",
+         "source": "valid",
+         "to": "Sweetbets@aol.com, Nipjap@aol.com, jonestes@yahoo.com, Twholley@aol.com,"
+      },
+      {
+         "from": "daatterb@garlandisd.net",
+         "line": 60,
+         "rawfrom": "\"Dodi Atterberry\" <daatterb@garlandisd.net>\n",
+         "source": "email",
+         "to": "<JCWACHTMAN@aol.com>, <dana.przybylski@eds.com>,"
+      },
+      {
+         "from": "t_taliaferro@hotmail.com",
+         "line": 84,
+         "rawfrom": "\"Tara Taliaferro\" <t_taliaferro@hotmail.com>\n",
+         "source": "email",
+         "to": "christopher_fields@yahoo.com, aaron_j1@yahoo.com,"
+      },
+      {
+         "from": "mcmillc@osu.net",
+         "line": 100,
+         "rawfrom": "Christy McMillian <mcmillc@osu.net>\n",
+         "source": "email",
+         "to": "\"William Trisciani Jr.\" <wtrisciani@hotmail.com>,    Tara Taliaferro"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/gir/155.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "mday@gmssr.com"
+      },
+      {
+         "from": "mday@gmssr.com",
+         "line": 35,
+         "rawfrom": "MBD <MDay@GMSSR.com> on 06/15/2000 05:39:54 PM\n",
+         "source": "email",
+         "to": "\"'Susan.Scott@enron.com'\" <Susan.Scott@enron.com>"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 54,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "Norman A. Pedersen"
+      },
+      {
+         "from": "napedersen@jonesday.com",
+         "line": 103,
+         "rawfrom": "\"Norman A. Pedersen\" <napedersen@JonesDay.com> on 06/14/2000 08:12:05 PM\n",
+         "source": "email",
+         "to": "Susan.Scott@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/gir/135.",
+   "hops": [
+      {
+         "from": "bcherry@sempra.com",
+         "line": 4,
+         "rawfrom": "bcherry@sempra.com\r\n",
+         "source": "valid",
+         "to": "susan.scott@enron.com, gsullivan@sempra.com"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 28,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com] \n",
+         "source": "email",
+         "to": "Sullivan, Glen J."
+      },
+      {
+         "from": "gsullivan@sempra.com",
+         "line": 45,
+         "rawfrom": "\"Sullivan, Glen J.\" <GSullivan@sempra.com> on 06/08/2000 02:47:10 PM \n",
+         "source": "email",
+         "to": "?? \"'Susan.Scott@enron.com'\" <Susan.Scott@enron.com>, \"Sullivan, Glen"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 92,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com] \n",
+         "source": "email",
+         "to": "gsullivan@sempra.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/discussion_threads/1505.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "celeahy@hotmail.com, monique.sanchez@enron.com, jkbowles@hotmail.com,"
+      },
+      {
+         "from": "ehillegeist@hotmail.com",
+         "line": 28,
+         "rawfrom": " \"Emily Hillegeist\" <ehillegeist@hotmail.com>                           \n",
+         "source": "email",
+         "to": "sonderfan@hotmail.com, katyhester@hotmail.com, sscott5@enron.com"
+      },
+      {
+         "from": "ukhawks@aol.com",
+         "line": 38,
+         "rawfrom": "Ukhawks@aol.com  \n",
+         "source": "valid",
+         "to": "bandrowski@msn.com, aboguszewski@hotmail.com, jclarke@chuck.stchas.edu,"
+      },
+      {
+         "from": "thesymingtons@email.msn.com",
+         "line": 66,
+         "rawfrom": "\"thesymingtons\" <thesymingtons@email.msn.com>\n",
+         "source": "email",
+         "to": "\"Maggie Symington\" <msymington@hotmail.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/discussion_threads/803.",
+   "hops": [
+      {
+         "from": "cabel@ect.enron.com",
+         "line": 4,
+         "rawfrom": "cabel@ect.enron.com\r\n",
+         "source": "valid",
+         "to": "gary.stadler@enron.com, susan.scott@enron.com, tobin.carlson@enron.com,"
+      },
+      {
+         "from": "abellink@aol.com",
+         "line": 35,
+         "rawfrom": "    Abellink@aol.com [SMTP:Abellink@aol.com]\n",
+         "source": "email",
+         "to": "cabel@hal-pc.org; jeffrey@lxnet.com; meliage@lcc.net; Ekb8004910@aol.com;"
+      },
+      {
+         "from": "suzanne@strategic-hou.com",
+         "line": 112,
+         "rawfrom": "\"suzanne@strategic-hou.com\" <suzanne@strategic-hou.com>\n",
+         "source": "email",
+         "to": "\"abellink@aol.com\" <abellink@aol.com>, \"eneadams@aol.com\""
+      },
+      {
+         "from": "abellink@aol.com",
+         "line": 117,
+         "rawfrom": "abellink@aol.com",
+         "source": "valid",
+         "to": "\"kelmormil@aol.com\" <kelmormil@aol.com>, \"danawardel@aol.com\""
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/discussion_threads/538.",
+   "hops": [
+      {
+         "from": "craigl@calpine.com",
+         "line": 4,
+         "rawfrom": "craigl@calpine.com\r\n",
+         "source": "valid",
+         "to": "susan.scott@enron.com"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 22,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "Craig Lindberg"
+      },
+      {
+         "from": "craigl@calpine.com",
+         "line": 35,
+         "rawfrom": "Craig Lindberg <craigl@calpine.com> on 11/06/2000 11:58:18 AM\n",
+         "source": "email",
+         "to": "\"'Susan.Scott@enron.com'\" <Susan.Scott@enron.com>"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 46,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "Craig Lindberg"
+      },
+      {
+         "from": "craigl@calpine.com",
+         "line": 61,
+         "rawfrom": "Craig Lindberg <craigl@calpine.com> on 11/06/2000 11:18:58 AM\n",
+         "source": "email",
+         "to": "\"'Susan.Scott@enron.com'\" <Susan.Scott@enron.com>"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 74,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "craigl@calpine.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/discussion_threads/507.",
+   "hops": [
+      {
+         "from": "drosser@velaw.com",
+         "line": 4,
+         "rawfrom": "drosser@velaw.com\r\n",
+         "source": "valid",
+         "to": "craigl@calpine.com, drosser@velaw.com, susan.scott@enron.com"
+      },
+      {
+         "from": "craigl@calpine.com",
+         "line": 22,
+         "rawfrom": "Craig Lindberg [mailto:craigl@calpine.com]\n",
+         "source": "email",
+         "to": "'Rosser, Dianna'; 'Susan.Scott@enron.com'; Craig Lindberg"
+      },
+      {
+         "from": "drosser@velaw.com",
+         "line": 39,
+         "rawfrom": "Rosser, Dianna [mailto:drosser@velaw.com]\n",
+         "source": "email",
+         "to": "'Susan.Scott@enron.com'; Rosser, Dianna; craigl@calpine.com"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 54,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "drosser@velaw.com; craigl@calpine.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/discussion_threads/747.",
+   "hops": [
+      {
+         "from": "burkee@cts.com",
+         "line": 4,
+         "rawfrom": "burkee@cts.com\r\n",
+         "source": "valid",
+         "to": "tomb@crossborderenergy.com, michael.alexander@sce.com, rochmanm@spurr.org"
+      },
+      {
+         "from": "tomb@crossborderenergy.com",
+         "line": 46,
+         "rawfrom": "Tom Beach <tomb@crossborderenergy.com>\n",
+         "source": "email",
+         "to": "<Michael.Alexander@sce.com>; Michael Rochman <rochmanm@spurr.org>"
+      },
+      {
+         "from": "michael.alexander@sce.com",
+         "line": 71,
+         "rawfrom": "<Michael.Alexander@sce.com>\n",
+         "source": "email",
+         "to": "Michael Rochman <rochmanm@spurr.org>"
+      },
+      {
+         "from": "mday@gmssr.com",
+         "line": 211,
+         "rawfrom": "MBD [mailto:MDay@GMSSR.com]\n",
+         "source": "email",
+         "to": "'Pocta, Robert M.'; 'Counihan, Rick'; 'Jeff.Dasovich@enron.com';"
+      },
+      {
+         "from": "gwright@sempra.com",
+         "line": 245,
+         "rawfrom": "Wright, Gillian - TP1GXW [mailto:GWright@sempra.com]\n",
+         "source": "email",
+         "to": "'mday@gmssr.com'"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/discussion_threads/484.",
+   "hops": [
+      {
+         "from": "rmendoza@mail.mdanderson.org",
+         "line": 4,
+         "rawfrom": "rmendoza@mail.mdanderson.org\r\n",
+         "source": "valid",
+         "to": "susan.scott@enron.com"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 46,
+         "rawfrom": "Susan.Scott@enron.com on 10/10/2000 09:31:53 AM\n",
+         "source": "email",
+         "to": "rmendoza@mail.mdanderson.org"
+      },
+      {
+         "from": "rmendoza@mail.mdanderson.org",
+         "line": 77,
+         "rawfrom": "rmendoza@mail.mdanderson.org on 10/10/2000 09:09:50 AM\n",
+         "source": "email",
+         "to": "Susan.Scott@enron.com"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 114,
+         "rawfrom": "Susan.Scott@enron.com on 10/10/2000 09:03:47 AM\n",
+         "source": "email",
+         "to": "Rosanna A. Mendoza/MDACC@MDACC"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/discussion_threads/781.",
+   "hops": [
+      {
+         "from": "jeffery.fawcett@enron.com",
+         "line": 4,
+         "rawfrom": "jeffery.fawcett@enron.com\r\n",
+         "source": "valid",
+         "to": "susan.scott@enron.com"
+      },
+      {
+         "from": "jeffery.fawcett@enron.com",
+         "line": 36,
+         "rawfrom": "Jeffery.Fawcett@enron.com [mailto:Jeffery.Fawcett@enron.com]\n",
+         "source": "email",
+         "to": "MBD"
+      },
+      {
+         "from": "mday@gmssr.com",
+         "line": 52,
+         "rawfrom": "MBD <MDay@GMSSR.com> on 12/12/2000 11:19:27 AM\n",
+         "source": "email",
+         "to": "\"'Jeffery.Fawcett@enron.com'\" <Jeffery.Fawcett@enron.com>"
+      },
+      {
+         "from": "jeffery.fawcett@enron.com",
+         "line": 65,
+         "rawfrom": "Jeffery.Fawcett@enron.com [mailto:Jeffery.Fawcett@enron.com]\n",
+         "source": "email",
+         "to": "MBD"
+      },
+      {
+         "from": "mday@gmssr.com",
+         "line": 82,
+         "rawfrom": "MBD <MDay@GMSSR.com> on 12/11/2000 01:46:04 PM\n",
+         "source": "email",
+         "to": "Jeffery.Fawcett@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/discussion_threads/852.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "gary.stadler@enron.com"
+      },
+      {
+         "from": "cscott@ala.net",
+         "line": 18,
+         "rawfrom": "cscott@ala.net",
+         "source": "valid",
+         "to": "\"Wilbur & Betty Williams\" <wbwilliams@flex.net>, \"Susan Margaret Scott\""
+      },
+      {
+         "from": "ccarbo@hssbc.com",
+         "line": 27,
+         "rawfrom": "Christine Carbo <ccarbo@hssbc.com>\n",
+         "source": "email",
+         "to": "cscott@ala.net <cscott@ala.net>; cookjr@arlaw.com <cookjr@arlaw.com>;"
+      },
+      {
+         "from": "browning@pbworld.com",
+         "line": 46,
+         "rawfrom": "\"Browning, Erin\" <Browning@pbworld.com>\n",
+         "source": "email",
+         "to": "\"'Chris Carbo'\" <ccarbo@hssbc.com>,        \"Rosborough, Gala\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/discussion_threads/1357.",
+   "hops": [
+      {
+         "from": "cscott_korea@yahoo.com",
+         "line": 4,
+         "rawfrom": "cscott_korea@yahoo.com\r\n",
+         "source": "valid",
+         "to": "sscott5@enron.com, wbwilliams@flex.net, betgraham@hotmail.com,"
+      },
+      {
+         "from": "bacco1@mindspring.com",
+         "line": 41,
+         "rawfrom": "Charlee Williamson <bacco1@mindspring.com>\n",
+         "source": "email",
+         "to": "dke1069@hotmail.com, cscott_korea@yahoo.com"
+      },
+      {
+         "from": "michaelreiss@aol.com",
+         "line": 60,
+         "rawfrom": "MichaelReiss@aol.com\n",
+         "source": "valid",
+         "to": "hgabel@neworleans-food.com, cwilliamson@neworleans-food.com,"
+      },
+      {
+         "from": "patti.micklin@stmsaints.com",
+         "line": 79,
+         "rawfrom": "Patti Micklin <patti.micklin@stmsaints.com>\n",
+         "source": "email",
+         "to": "\"Alyson Ray (E-mail)\" <ANJRAY5@aol.com>,        \"Bobbie & Charlie Yuspeh"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/discussion_threads/1136.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "dutch.quigley@enron.com, dutch.quigley@enron.com"
+      },
+      {
+         "from": "charliecoyote@compuserve.com",
+         "line": 26,
+         "rawfrom": " Chuck Scott <CHARLIECOYOTE@compuserve.com>@compuserve.com>             \n",
+         "source": "email",
+         "to": "\"INTERNET:Susan.M.Scott@enron.com\" <Susan.M.Scott@enron.com>"
+      },
+      {
+         "from": "wilbur.williams@coastalcorp.com",
+         "line": 36,
+         "rawfrom": "\"Williams, Wilbur\", INTERNET:Wilbur.Williams@Coastalcorp.com\n",
+         "source": "email",
+         "to": "\"William Hieronymus\", INTERNET:HIERW@Coastal.Com"
+      },
+      {
+         "from": "dischijb@bp.com",
+         "line": 68,
+         "rawfrom": "Dischinger, James B [SMTP:DischiJB@bp.com]\n",
+         "source": "email",
+         "to": "Andy (E-mail); Becker (E-mail); Benson (E-mail); bunch (E-mail);"
+      },
+      {
+         "from": "wilbur.williams@coastalcorp.com",
+         "line": 143,
+         "rawfrom": "\"Williams, Wilbur\" <Wilbur.Williams@Coastalcorp.com>\n",
+         "source": "email",
+         "to": "\"'BETTY WILLIAMS'\" <WBWILLIAMS@FLEX.NET>,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/discussion_threads/540.",
+   "hops": [
+      {
+         "from": "craigl@calpine.com",
+         "line": 4,
+         "rawfrom": "craigl@calpine.com\r\n",
+         "source": "valid",
+         "to": "susan.scott@enron.com"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 27,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "Craig Lindberg"
+      },
+      {
+         "from": "craigl@calpine.com",
+         "line": 45,
+         "rawfrom": "Craig Lindberg <craigl@calpine.com> on 11/06/2000 12:42:46 PM\n",
+         "source": "email",
+         "to": "\"'Susan.Scott@enron.com'\" <Susan.Scott@enron.com>"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 56,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "craigl@calpine.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/discussion_threads/850.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "gary.stadler@enron.com"
+      },
+      {
+         "from": "cscott@ala.net",
+         "line": 27,
+         "rawfrom": " \"C. Scott\" <cscott@ala.net>                           04/10/2000 01:38 \n",
+         "source": "email",
+         "to": "\"Wilbur & Betty Williams\" <wbwilliams@flex.net>, \"Susan Margaret Scott\""
+      },
+      {
+         "from": "ccarbo@hssbc.com",
+         "line": 36,
+         "rawfrom": "Christine Carbo <ccarbo@hssbc.com>\n",
+         "source": "email",
+         "to": "cscott@ala.net <cscott@ala.net>; cookjr@arlaw.com <cookjr@arlaw.com>;"
+      },
+      {
+         "from": "browning@pbworld.com",
+         "line": 55,
+         "rawfrom": "\"Browning, Erin\" <Browning@pbworld.com>\n",
+         "source": "email",
+         "to": "\"'Chris Carbo'\" <ccarbo@hssbc.com>,        \"Rosborough, Gala\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/discussion_threads/1507.",
+   "hops": [
+      {
+         "from": "monique.sanchez@enron.com",
+         "line": 4,
+         "rawfrom": "monique.sanchez@enron.com\r\n",
+         "source": "valid",
+         "to": "susan.scott@enron.com"
+      },
+      {
+         "from": "ehillegeist@hotmail.com",
+         "line": 43,
+         "rawfrom": " \"Emily Hillegeist\" <ehillegeist@hotmail.com>                           \n",
+         "source": "email",
+         "to": "sonderfan@hotmail.com, katyhester@hotmail.com, sscott5@enron.com"
+      },
+      {
+         "from": "ukhawks@aol.com",
+         "line": 53,
+         "rawfrom": "Ukhawks@aol.com  \n",
+         "source": "valid",
+         "to": "bandrowski@msn.com, aboguszewski@hotmail.com, jclarke@chuck.stchas.edu,"
+      },
+      {
+         "from": "thesymingtons@email.msn.com",
+         "line": 81,
+         "rawfrom": "\"thesymingtons\" <thesymingtons@email.msn.com>\n",
+         "source": "email",
+         "to": "\"Maggie Symington\" <msymington@hotmail.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/discussion_threads/271.",
+   "hops": [
+      {
+         "from": "bcherry@sempra.com",
+         "line": 4,
+         "rawfrom": "bcherry@sempra.com\r\n",
+         "source": "valid",
+         "to": "susan.scott@enron.com, gsullivan@sempra.com"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 28,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com] \n",
+         "source": "email",
+         "to": "Sullivan, Glen J."
+      },
+      {
+         "from": "gsullivan@sempra.com",
+         "line": 45,
+         "rawfrom": "\"Sullivan, Glen J.\" <GSullivan@sempra.com> on 06/08/2000 02:47:10 PM \n",
+         "source": "email",
+         "to": "?? \"'Susan.Scott@enron.com'\" <Susan.Scott@enron.com>, \"Sullivan, Glen"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 92,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com] \n",
+         "source": "email",
+         "to": "gsullivan@sempra.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/discussion_threads/295.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "mday@gmssr.com"
+      },
+      {
+         "from": "mday@gmssr.com",
+         "line": 35,
+         "rawfrom": "MBD <MDay@GMSSR.com> on 06/15/2000 05:39:54 PM\n",
+         "source": "email",
+         "to": "\"'Susan.Scott@enron.com'\" <Susan.Scott@enron.com>"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 54,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "Norman A. Pedersen"
+      },
+      {
+         "from": "napedersen@jonesday.com",
+         "line": 103,
+         "rawfrom": "\"Norman A. Pedersen\" <napedersen@JonesDay.com> on 06/14/2000 08:12:05 PM\n",
+         "source": "email",
+         "to": "Susan.Scott@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/discussion_threads/1404.",
+   "hops": [
+      {
+         "from": "jkbowles@hotmail.com",
+         "line": 4,
+         "rawfrom": "jkbowles@hotmail.com\r\n",
+         "source": "valid",
+         "to": "kathybowles@juno.com, thielemannb@epenergy.com, tcornwell@txbeef.org,"
+      },
+      {
+         "from": "sarahreneehughes@hotmail.com",
+         "line": 28,
+         "rawfrom": "\"Sarah Hughes\" <sarahreneehughes@hotmail.com>\n",
+         "source": "email",
+         "to": "asharbino@yahoo.com, ggregory@eastland.net, all@arn.net,"
+      },
+      {
+         "from": "paulinsclu@aol.com",
+         "line": 40,
+         "rawfrom": "PAULINSCLU@aol.com\n",
+         "source": "valid",
+         "to": "cherylbecker@hotmail.com, lbcot@email.msn.com, jdrew@mindspring.com,"
+      },
+      {
+         "from": "autosend@grassfire.net",
+         "line": 64,
+         "rawfrom": "\"Your Grassfire Link Msg\" <autosend@grassfire.net>\n",
+         "source": "email",
+         "to": "<paulinsclu@aol.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/discussion_threads/1506.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "kori.loibl@enron.com"
+      },
+      {
+         "from": "ehillegeist@hotmail.com",
+         "line": 26,
+         "rawfrom": " \"Emily Hillegeist\" <ehillegeist@hotmail.com>                           \n",
+         "source": "email",
+         "to": "sonderfan@hotmail.com, katyhester@hotmail.com, sscott5@enron.com"
+      },
+      {
+         "from": "ukhawks@aol.com",
+         "line": 36,
+         "rawfrom": "Ukhawks@aol.com  \n",
+         "source": "valid",
+         "to": "bandrowski@msn.com, aboguszewski@hotmail.com, jclarke@chuck.stchas.edu,"
+      },
+      {
+         "from": "thesymingtons@email.msn.com",
+         "line": 64,
+         "rawfrom": "\"thesymingtons\" <thesymingtons@email.msn.com>\n",
+         "source": "email",
+         "to": "\"Maggie Symington\" <msymington@hotmail.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/discussion_threads/871.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "gary.stadler@enron.com, sunil.dalal@enron.com"
+      },
+      {
+         "from": "lisa.a.meador@chase.com",
+         "line": 25,
+         "rawfrom": " Lisa.A.Meador@chase.com                           04/14/2000 08:37 AM\n",
+         "source": "email",
+         "to": "joemeador@aol.com, bath@dynegy.com, jesbateman@aol.com, sscott5@enron.com"
+      },
+      {
+         "from": "patti@thehealthmanagementacademy.com",
+         "line": 46,
+         "rawfrom": "  patti@thehealthmanagementacademy.com\n",
+         "source": "valid",
+         "to": "Galeana Younger Woodson; Allison Dreeben Zeller; Raleigh Trumbo;"
+      },
+      {
+         "from": "aschroll@hdrinc.com",
+         "line": 60,
+         "rawfrom": "\"Schroller, Aimee\" <ASchroll@hdrinc.com>\n",
+         "source": "email",
+         "to": "\"'Kimberly (work)'\" <kkeller@bracepatt.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/discussion_threads/476.",
+   "hops": [
+      {
+         "from": "kss@overlandpartners.com",
+         "line": 4,
+         "rawfrom": "kss@overlandpartners.com\r\n",
+         "source": "valid",
+         "to": "susan.scott@enron.com"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 23,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "Shelton, Karin"
+      },
+      {
+         "from": "kss@overlandpartners.com",
+         "line": 68,
+         "rawfrom": "\"Shelton, Karin\" <kss@overlandpartners.com> on 10/05/2000 03:02:57 PM\n",
+         "source": "email",
+         "to": "\"'Susan.Scott@enron.com'\" <Susan.Scott@enron.com>"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 87,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "Shelton, Karin"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/discussion_threads/746.",
+   "hops": [
+      {
+         "from": "tomb@crossborderenergy.com",
+         "line": 4,
+         "rawfrom": "tomb@crossborderenergy.com\r\n",
+         "source": "valid",
+         "to": "michael.alexander@sce.com, rochmanm@spurr.org"
+      },
+      {
+         "from": "michael.alexander@sce.com",
+         "line": 41,
+         "rawfrom": "<Michael.Alexander@sce.com>\n",
+         "source": "email",
+         "to": "Michael Rochman <rochmanm@spurr.org>"
+      },
+      {
+         "from": "mday@gmssr.com",
+         "line": 174,
+         "rawfrom": "MBD [mailto:MDay@GMSSR.com]\n",
+         "source": "email",
+         "to": "'Pocta, Robert M.'; 'Counihan, Rick'; 'Jeff.Dasovich@enron.com';"
+      },
+      {
+         "from": "gwright@sempra.com",
+         "line": 206,
+         "rawfrom": "Wright, Gillian - TP1GXW [mailto:GWright@sempra.com]\n",
+         "source": "email",
+         "to": "'mday@gmssr.com'"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/discussion_threads/2342.",
+   "hops": [
+      {
+         "from": "elaina5@hotmail.com",
+         "line": 4,
+         "rawfrom": "elaina5@hotmail.com\r\n",
+         "source": "valid",
+         "to": "ashley.a.mace@williams.com, kelbarker@aol.com, susan_s_edwards@yahoo.com,"
+      },
+      {
+         "from": "shannonleighwilliams@hotmail.com",
+         "line": 19,
+         "rawfrom": "\"S. Williams\" <shannonleighwilliams@hotmail.com>\n",
+         "source": "email",
+         "to": "kaseywalker@mindspring.com, azeringue@hotmail.com,"
+      },
+      {
+         "from": "shannonleighwilliams@hotmail.com",
+         "line": 43,
+         "rawfrom": "\"S. Williams\" <shannonleighwilliams@hotmail.com>\n",
+         "source": "email",
+         "to": "kaseywalker@mindspring.com, azeringue@hotmail.com,"
+      },
+      {
+         "from": "cmluther@aol.com",
+         "line": 67,
+         "rawfrom": "Cmluther@aol.com \n",
+         "source": "valid",
+         "to": "jkbowles@hotmail.com, hguren@law.harvard.edu, Jerry_Luther@compusa.com,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/discussion_threads/807.",
+   "hops": [
+      {
+         "from": "jkbowles@hotmail.com",
+         "line": 4,
+         "rawfrom": "jkbowles@hotmail.com\r\n",
+         "source": "valid",
+         "to": "cwilkes@santafe-snyder.com, ashleastu@aol.com, ccaton@hillandknowlton.com,"
+      },
+      {
+         "from": "jcwachtman@aol.com",
+         "line": 35,
+         "rawfrom": "JCWACHTMAN@aol.com\n",
+         "source": "valid",
+         "to": "Sweetbets@aol.com, Nipjap@aol.com, jonestes@yahoo.com, Twholley@aol.com,"
+      },
+      {
+         "from": "daatterb@garlandisd.net",
+         "line": 60,
+         "rawfrom": "\"Dodi Atterberry\" <daatterb@garlandisd.net>\n",
+         "source": "email",
+         "to": "<JCWACHTMAN@aol.com>, <dana.przybylski@eds.com>,"
+      },
+      {
+         "from": "t_taliaferro@hotmail.com",
+         "line": 84,
+         "rawfrom": "\"Tara Taliaferro\" <t_taliaferro@hotmail.com>\n",
+         "source": "email",
+         "to": "christopher_fields@yahoo.com, aaron_j1@yahoo.com,"
+      },
+      {
+         "from": "mcmillc@osu.net",
+         "line": 100,
+         "rawfrom": "Christy McMillian <mcmillc@osu.net>\n",
+         "source": "email",
+         "to": "\"William Trisciani Jr.\" <wtrisciani@hotmail.com>,    Tara Taliaferro"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/_sent_mail/1341.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "ehillegeist@hotmail.com"
+      },
+      {
+         "from": "ehillegeist@hotmail.com",
+         "line": 28,
+         "rawfrom": " \"Emily Hillegeist\" <ehillegeist@hotmail.com>                           04/09/2001 01:17 PM\t\n",
+         "source": "email",
+         "to": "sscott5@enron.com"
+      },
+      {
+         "from": "urgent@lastminute.com",
+         "line": 41,
+         "rawfrom": "Urgent <urgent@lastminute.com>\n",
+         "source": "email",
+         "to": "Emily Hillegeist <ehillegeist@hotmail.com>"
+      },
+      {
+         "from": "ehillegeist@hotmail.com",
+         "line": 69,
+         "rawfrom": "  Emily Hillegeist <ehillegeist@hotmail.com>\n",
+         "source": "email",
+         "to": "urgent@lastminute.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/_sent_mail/1340.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "mharp@austin.apc.slb.com"
+      },
+      {
+         "from": "mharp@austin.apc.slb.com",
+         "line": 34,
+         "rawfrom": " \"Mary Rebecca Harp\" <mharp@austin.apc.slb.com>                           04/09/2001 04:41 PM\t\n",
+         "source": "email",
+         "to": "<susan.m.scott@enron.com>"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 52,
+         "rawfrom": "Scott, Susan [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "mharp@austin.apc.slb.com"
+      },
+      {
+         "from": "mharp@austin.apc.slb.com",
+         "line": 64,
+         "rawfrom": "\t\"Mary Rebecca Harp\" <mharp@austin.apc.slb.com>@ENRON\n",
+         "source": "email",
+         "to": "Scott, Susan"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/_sent_mail/409.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "kori.loibl@enron.com"
+      },
+      {
+         "from": "ehillegeist@hotmail.com",
+         "line": 26,
+         "rawfrom": " \"Emily Hillegeist\" <ehillegeist@hotmail.com>                           \n",
+         "source": "email",
+         "to": "sonderfan@hotmail.com, katyhester@hotmail.com, sscott5@enron.com"
+      },
+      {
+         "from": "ukhawks@aol.com",
+         "line": 36,
+         "rawfrom": "Ukhawks@aol.com  \n",
+         "source": "valid",
+         "to": "bandrowski@msn.com, aboguszewski@hotmail.com, jclarke@chuck.stchas.edu,"
+      },
+      {
+         "from": "thesymingtons@email.msn.com",
+         "line": 64,
+         "rawfrom": "\"thesymingtons\" <thesymingtons@email.msn.com>\n",
+         "source": "email",
+         "to": "\"Maggie Symington\" <msymington@hotmail.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/_sent_mail/551.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "dutch.quigley@enron.com, dutch.quigley@enron.com"
+      },
+      {
+         "from": "charliecoyote@compuserve.com",
+         "line": 26,
+         "rawfrom": " Chuck Scott <CHARLIECOYOTE@compuserve.com>@compuserve.com>             \n",
+         "source": "email",
+         "to": "\"INTERNET:Susan.M.Scott@enron.com\" <Susan.M.Scott@enron.com>"
+      },
+      {
+         "from": "wilbur.williams@coastalcorp.com",
+         "line": 36,
+         "rawfrom": "\"Williams, Wilbur\", INTERNET:Wilbur.Williams@Coastalcorp.com\n",
+         "source": "email",
+         "to": "\"William Hieronymus\", INTERNET:HIERW@Coastal.Com"
+      },
+      {
+         "from": "dischijb@bp.com",
+         "line": 68,
+         "rawfrom": "Dischinger, James B [SMTP:DischiJB@bp.com]\n",
+         "source": "email",
+         "to": "Andy (E-mail); Becker (E-mail); Benson (E-mail); bunch (E-mail);"
+      },
+      {
+         "from": "wilbur.williams@coastalcorp.com",
+         "line": 143,
+         "rawfrom": "\"Williams, Wilbur\" <Wilbur.Williams@Coastalcorp.com>\n",
+         "source": "email",
+         "to": "\"'BETTY WILLIAMS'\" <WBWILLIAMS@FLEX.NET>,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/_sent_mail/27.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "frazier.king@enron.com"
+      },
+      {
+         "from": "dttran@duke-energy.com",
+         "line": 68,
+         "rawfrom": "dttran@duke-energy.com [mailto:dttran@duke-energy.com]\n",
+         "source": "email",
+         "to": "Susan.Scott@enron.com"
+      },
+      {
+         "from": "ccaldwell@velaw.com",
+         "line": 109,
+         "rawfrom": "\"Caldwell, Charles\" <ccaldwell@velaw.com> on 11/28/2000 02:12:47 PM\n",
+         "source": "email",
+         "to": "\"'dttran@duke-energy.com'\" <dttran@duke-energy.com>,"
+      },
+      {
+         "from": "dttran@duke-energy.com",
+         "line": 122,
+         "rawfrom": "dttran@duke-energy.com [mailto:dttran@duke-energy.com]\n",
+         "source": "email",
+         "to": "Susan.Scott@enron.com"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/_sent_mail/1383.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "ehillegeist@hotmail.com"
+      },
+      {
+         "from": "ehillegeist@hotmail.com",
+         "line": 30,
+         "rawfrom": " \"Emily Hillegeist\" <ehillegeist@hotmail.com>                           03/27/2001 09:59 AM\t\n",
+         "source": "email",
+         "to": "Susan.M.Scott@enron.com"
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 42,
+         "rawfrom": "Susan.M.Scott@enron.com\n",
+         "source": "valid",
+         "to": "ehillegeist@hotmail.com"
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 109,
+         "rawfrom": "Susan.M.Scott@enron.com\n",
+         "source": "valid",
+         "to": "ehillegeist@hotmail.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/_sent_mail/765.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "gary.stadler@enron.com, sunil.dalal@enron.com"
+      },
+      {
+         "from": "lisa.a.meador@chase.com",
+         "line": 25,
+         "rawfrom": " Lisa.A.Meador@chase.com                           04/14/2000 08:37 AM\n",
+         "source": "email",
+         "to": "joemeador@aol.com, bath@dynegy.com, jesbateman@aol.com, sscott5@enron.com"
+      },
+      {
+         "from": "patti@thehealthmanagementacademy.com",
+         "line": 46,
+         "rawfrom": "  patti@thehealthmanagementacademy.com\n",
+         "source": "valid",
+         "to": "Galeana Younger Woodson; Allison Dreeben Zeller; Raleigh Trumbo;"
+      },
+      {
+         "from": "aschroll@hdrinc.com",
+         "line": 60,
+         "rawfrom": "\"Schroller, Aimee\" <ASchroll@hdrinc.com>\n",
+         "source": "email",
+         "to": "\"'Kimberly (work)'\" <kkeller@bracepatt.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/_sent_mail/794.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "gary.stadler@enron.com"
+      },
+      {
+         "from": "cscott@ala.net",
+         "line": 27,
+         "rawfrom": " \"C. Scott\" <cscott@ala.net>                           04/10/2000 01:38 \n",
+         "source": "email",
+         "to": "\"Wilbur & Betty Williams\" <wbwilliams@flex.net>, \"Susan Margaret Scott\""
+      },
+      {
+         "from": "ccarbo@hssbc.com",
+         "line": 36,
+         "rawfrom": "Christine Carbo <ccarbo@hssbc.com>\n",
+         "source": "email",
+         "to": "cscott@ala.net <cscott@ala.net>; cookjr@arlaw.com <cookjr@arlaw.com>;"
+      },
+      {
+         "from": "browning@pbworld.com",
+         "line": 55,
+         "rawfrom": "\"Browning, Erin\" <Browning@pbworld.com>\n",
+         "source": "email",
+         "to": "\"'Chris Carbo'\" <ccarbo@hssbc.com>,        \"Rosborough, Gala\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/_sent_mail/789.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "gary.stadler@enron.com"
+      },
+      {
+         "from": "cscott@ala.net",
+         "line": 18,
+         "rawfrom": "cscott@ala.net",
+         "source": "valid",
+         "to": "\"Wilbur & Betty Williams\" <wbwilliams@flex.net>, \"Susan Margaret Scott\""
+      },
+      {
+         "from": "ccarbo@hssbc.com",
+         "line": 27,
+         "rawfrom": "Christine Carbo <ccarbo@hssbc.com>\n",
+         "source": "email",
+         "to": "cscott@ala.net <cscott@ala.net>; cookjr@arlaw.com <cookjr@arlaw.com>;"
+      },
+      {
+         "from": "browning@pbworld.com",
+         "line": 46,
+         "rawfrom": "\"Browning, Erin\" <Browning@pbworld.com>\n",
+         "source": "email",
+         "to": "\"'Chris Carbo'\" <ccarbo@hssbc.com>,        \"Rosborough, Gala\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/_sent_mail/1273.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "celeahy@hotmail.com"
+      },
+      {
+         "from": "celeahy@hotmail.com",
+         "line": 26,
+         "rawfrom": " \"corey leahy\" <celeahy@hotmail.com>                           04/24/2001 03:07 PM\t\n",
+         "source": "email",
+         "to": "Susan.M.Scott@enron.com"
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 48,
+         "rawfrom": "Susan.M.Scott@enron.com\n",
+         "source": "valid",
+         "to": "celeahy@hotmail.com"
+      },
+      {
+         "from": "susan.m.scott@enron.com",
+         "line": 103,
+         "rawfrom": "Susan.M.Scott@enron.com\n",
+         "source": "valid",
+         "to": "celeahy@hotmail.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/_sent_mail/1300.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "julieg@qualcomm.com"
+      },
+      {
+         "from": "julieg@qualcomm.com",
+         "line": 27,
+         "rawfrom": " Julie Gibson <julieg@qualcomm.com>                           04/18/2001 04:15 PM\t\n",
+         "source": "email",
+         "to": "Susan.M.Scott@enron.com"
+      },
+      {
+         "from": "cmcclell@adept.qualcomm.com",
+         "line": 115,
+         "rawfrom": "cmcclell@adept.qualcomm.com",
+         "source": "valid",
+         "to": "Julie Gibson <julieg@qualcomm.com>"
+      },
+      {
+         "from": "gomezer@psi.com",
+         "line": 150,
+         "rawfrom": "\"Eric Gomez\" <gomezer@psi.com>\n",
+         "source": "email",
+         "to": "\"Julie Gibson\" <julieg@qualcomm.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/_sent_mail/1293.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "christi.nicolay@enron.com"
+      },
+      {
+         "from": "eschlaf@icc.state.il.us",
+         "line": 112,
+         "rawfrom": "> From:\tSchlaf, Eric [SMTP:eschlaf@icc.state.il.us]\n",
+         "source": "email",
+         "to": "@ Fein, David"
+      },
+      {
+         "from": "david.fein@piperrudnick.com",
+         "line": 125,
+         "rawfrom": "Fein, David I. - CHI [mailto:david.fein@piperrudnick.com]\n",
+         "source": "email",
+         "to": "'Schlaf, Eric'; @ Flygt, Flora; 'marcnielsen@alliant-energy.com';"
+      },
+      {
+         "from": "eschlaf@icc.state.il.us",
+         "line": 188,
+         "rawfrom": "> > From:\tSchlaf, Eric [SMTP:eschlaf@icc.state.il.us]\n",
+         "source": "email",
+         "to": "@ Flygt, Flora; 'marcnielsen@alliant-energy.com';"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/_sent_mail/410.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "celeahy@hotmail.com, monique.sanchez@enron.com, jkbowles@hotmail.com,"
+      },
+      {
+         "from": "ehillegeist@hotmail.com",
+         "line": 28,
+         "rawfrom": " \"Emily Hillegeist\" <ehillegeist@hotmail.com>                           \n",
+         "source": "email",
+         "to": "sonderfan@hotmail.com, katyhester@hotmail.com, sscott5@enron.com"
+      },
+      {
+         "from": "ukhawks@aol.com",
+         "line": 38,
+         "rawfrom": "Ukhawks@aol.com  \n",
+         "source": "valid",
+         "to": "bandrowski@msn.com, aboguszewski@hotmail.com, jclarke@chuck.stchas.edu,"
+      },
+      {
+         "from": "thesymingtons@email.msn.com",
+         "line": 66,
+         "rawfrom": "\"thesymingtons\" <thesymingtons@email.msn.com>\n",
+         "source": "email",
+         "to": "\"Maggie Symington\" <msymington@hotmail.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/_sent_mail/29.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "ccaldwell@velaw.com"
+      },
+      {
+         "from": "ccaldwell@velaw.com",
+         "line": 26,
+         "rawfrom": "\"Caldwell, Charles\" <ccaldwell@velaw.com> on 11/29/2000 08:39:59 AM\n",
+         "source": "email",
+         "to": "\"'dttran@duke-energy.com'\" <dttran@duke-energy.com>, Susan.Scott@enron.com"
+      },
+      {
+         "from": "dttran@duke-energy.com",
+         "line": 41,
+         "rawfrom": "dttran@duke-energy.com [mailto:dttran@duke-energy.com]\n",
+         "source": "email",
+         "to": "Susan.Scott@enron.com"
+      },
+      {
+         "from": "ccaldwell@velaw.com",
+         "line": 82,
+         "rawfrom": "\"Caldwell, Charles\" <ccaldwell@velaw.com> on 11/28/2000 02:12:47 PM\n",
+         "source": "email",
+         "to": "\"'dttran@duke-energy.com'\" <dttran@duke-energy.com>,"
+      },
+      {
+         "from": "dttran@duke-energy.com",
+         "line": 95,
+         "rawfrom": "dttran@duke-energy.com [mailto:dttran@duke-energy.com]\n",
+         "source": "email",
+         "to": "Susan.Scott@enron.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/_sent_mail/11.",
+   "hops": [
+      {
+         "from": "susan.scott@enron.com",
+         "line": 4,
+         "rawfrom": "susan.scott@enron.com\r\n",
+         "source": "valid",
+         "to": "rmendoza@mail.mdanderson.org"
+      },
+      {
+         "from": "rmendoza@mail.mdanderson.org",
+         "line": 24,
+         "rawfrom": "rmendoza@mail.mdanderson.org on 12/07/2000 03:51:22 PM\n",
+         "source": "email",
+         "to": "aballesteros@vaughnconstruction.com, ckraham@enron.com,"
+      },
+      {
+         "from": "kkkaleh@riley-harris.com",
+         "line": 90,
+         "rawfrom": "Kandy K Kaleh [mailto:kkkaleh@riley-harris.com]\n",
+         "source": "email",
+         "to": "'Calvin Suddeath'; 'Purrecious'; 'Sandy Wagner'; 'Sheryl'; 'Steve';"
+      },
+      {
+         "from": "rziemba@springtime-santa.com",
+         "line": 100,
+         "rawfrom": "Renea Ziemba [mailto:rziemba@springtime-santa.com]\n",
+         "source": "email",
+         "to": "Vicki; Trace; Terry; Stevie; Maureen; Mary; Lisa; Kelly; Kathy"
+      },
+      {
+         "from": "sgutkowski@j-quin.com",
+         "line": 108,
+         "rawfrom": "\"Sue Gutkowski\" <SGUTKOWSKI@J-QUIN.com>\n",
+         "source": "email",
+         "to": "\"Bill (E-mail)\" <Bill_Grimpe@HomeDepot.COM>; \"Brian Wozny (E-mail)\""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/personal/50.",
+   "hops": [
+      {
+         "from": "craigl@calpine.com",
+         "line": 4,
+         "rawfrom": "craigl@calpine.com\r\n",
+         "source": "valid",
+         "to": "susan.scott@enron.com"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 27,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "Craig Lindberg"
+      },
+      {
+         "from": "craigl@calpine.com",
+         "line": 45,
+         "rawfrom": "Craig Lindberg <craigl@calpine.com> on 11/06/2000 12:42:46 PM\n",
+         "source": "email",
+         "to": "\"'Susan.Scott@enron.com'\" <Susan.Scott@enron.com>"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 56,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "craigl@calpine.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/personal/36.",
+   "hops": [
+      {
+         "from": "drosser@velaw.com",
+         "line": 4,
+         "rawfrom": "drosser@velaw.com\r\n",
+         "source": "valid",
+         "to": "craigl@calpine.com, drosser@velaw.com, susan.scott@enron.com"
+      },
+      {
+         "from": "craigl@calpine.com",
+         "line": 22,
+         "rawfrom": "Craig Lindberg [mailto:craigl@calpine.com]\n",
+         "source": "email",
+         "to": "'Rosser, Dianna'; 'Susan.Scott@enron.com'; Craig Lindberg"
+      },
+      {
+         "from": "drosser@velaw.com",
+         "line": 39,
+         "rawfrom": "Rosser, Dianna [mailto:drosser@velaw.com]\n",
+         "source": "email",
+         "to": "'Susan.Scott@enron.com'; Rosser, Dianna; craigl@calpine.com"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 54,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "drosser@velaw.com; craigl@calpine.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/personal/21.",
+   "hops": [
+      {
+         "from": "rmendoza@mail.mdanderson.org",
+         "line": 4,
+         "rawfrom": "rmendoza@mail.mdanderson.org\r\n",
+         "source": "valid",
+         "to": "susan.scott@enron.com"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 46,
+         "rawfrom": "Susan.Scott@enron.com on 10/10/2000 09:31:53 AM\n",
+         "source": "email",
+         "to": "rmendoza@mail.mdanderson.org"
+      },
+      {
+         "from": "rmendoza@mail.mdanderson.org",
+         "line": 77,
+         "rawfrom": "rmendoza@mail.mdanderson.org on 10/10/2000 09:09:50 AM\n",
+         "source": "email",
+         "to": "Susan.Scott@enron.com"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 114,
+         "rawfrom": "Susan.Scott@enron.com on 10/10/2000 09:03:47 AM\n",
+         "source": "email",
+         "to": "Rosanna A. Mendoza/MDACC@MDACC"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/scott-s/personal/47.",
+   "hops": [
+      {
+         "from": "craigl@calpine.com",
+         "line": 4,
+         "rawfrom": "craigl@calpine.com\r\n",
+         "source": "valid",
+         "to": "susan.scott@enron.com"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 22,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "Craig Lindberg"
+      },
+      {
+         "from": "craigl@calpine.com",
+         "line": 35,
+         "rawfrom": "Craig Lindberg <craigl@calpine.com> on 11/06/2000 11:58:18 AM\n",
+         "source": "email",
+         "to": "\"'Susan.Scott@enron.com'\" <Susan.Scott@enron.com>"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 46,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "Craig Lindberg"
+      },
+      {
+         "from": "craigl@calpine.com",
+         "line": 61,
+         "rawfrom": "Craig Lindberg <craigl@calpine.com> on 11/06/2000 11:18:58 AM\n",
+         "source": "email",
+         "to": "\"'Susan.Scott@enron.com'\" <Susan.Scott@enron.com>"
+      },
+      {
+         "from": "susan.scott@enron.com",
+         "line": 74,
+         "rawfrom": "Susan.Scott@enron.com [mailto:Susan.Scott@enron.com]\n",
+         "source": "email",
+         "to": "craigl@calpine.com"
+      }
+   ],
+   "skipped": 0
+}
+]

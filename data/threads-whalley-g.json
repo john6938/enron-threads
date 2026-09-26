@@ -1,0 +1,127 @@
+[
+{
+   "file": "/home/jb/maildir/whalley-g/all_documents/42.",
+   "hops": [
+      {
+         "from": "herbert_molina@juno.com",
+         "line": 4,
+         "rawfrom": "herbert_molina@juno.com\r\n",
+         "source": "valid",
+         "to": "ken_rice@enron.net, mike.mcconnel@enron.net"
+      },
+      {
+         "from": "postoffice@staff.juno.com",
+         "line": 24,
+         "rawfrom": "Mail Delivery Subsystem <postoffice@staff.juno.com>\n",
+         "source": "email",
+         "to": "herbert_molina@juno.com"
+      },
+      {
+         "from": "ken_rice@enron.com",
+         "line": 38,
+         "rawfrom": "ken_rice@enron.com",
+         "source": "valid",
+         "to": "<mike.mcconnel@enron.com>"
+      },
+      {
+         "from": "mike.mcconnel@enron.com",
+         "line": 41,
+         "rawfrom": "mike.mcconnel@enron.com",
+         "source": "valid",
+         "to": "<ken_rice@enron.com>"
+      },
+      {
+         "from": "herbert_molina@juno.com",
+         "line": 51,
+         "rawfrom": "herbert_molina@juno.com",
+         "source": "valid",
+         "to": "ken_rice@enron.com, Jeff.skilling@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/whalley-g/discussion_threads/43.",
+   "hops": [
+      {
+         "from": "herbert_molina@juno.com",
+         "line": 4,
+         "rawfrom": "herbert_molina@juno.com\r\n",
+         "source": "valid",
+         "to": "ken_rice@enron.net, mike.mcconnel@enron.net"
+      },
+      {
+         "from": "postoffice@staff.juno.com",
+         "line": 24,
+         "rawfrom": "Mail Delivery Subsystem <postoffice@staff.juno.com>\n",
+         "source": "email",
+         "to": "herbert_molina@juno.com"
+      },
+      {
+         "from": "ken_rice@enron.com",
+         "line": 38,
+         "rawfrom": "ken_rice@enron.com",
+         "source": "valid",
+         "to": "<mike.mcconnel@enron.com>"
+      },
+      {
+         "from": "mike.mcconnel@enron.com",
+         "line": 41,
+         "rawfrom": "mike.mcconnel@enron.com",
+         "source": "valid",
+         "to": "<ken_rice@enron.com>"
+      },
+      {
+         "from": "herbert_molina@juno.com",
+         "line": 51,
+         "rawfrom": "herbert_molina@juno.com",
+         "source": "valid",
+         "to": "ken_rice@enron.com, Jeff.skilling@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/whalley-g/connect_deletes/182.",
+   "hops": [
+      {
+         "from": "herbert_molina@juno.com",
+         "line": 4,
+         "rawfrom": "herbert_molina@juno.com\r\n",
+         "source": "valid",
+         "to": "ken_rice@enron.net, mike.mcconnel@enron.net"
+      },
+      {
+         "from": "postoffice@staff.juno.com",
+         "line": 24,
+         "rawfrom": "Mail Delivery Subsystem <postoffice@staff.juno.com>\n",
+         "source": "email",
+         "to": "herbert_molina@juno.com"
+      },
+      {
+         "from": "ken_rice@enron.com",
+         "line": 38,
+         "rawfrom": "ken_rice@enron.com",
+         "source": "valid",
+         "to": "<mike.mcconnel@enron.com>"
+      },
+      {
+         "from": "mike.mcconnel@enron.com",
+         "line": 41,
+         "rawfrom": "mike.mcconnel@enron.com",
+         "source": "valid",
+         "to": "<ken_rice@enron.com>"
+      },
+      {
+         "from": "herbert_molina@juno.com",
+         "line": 51,
+         "rawfrom": "herbert_molina@juno.com",
+         "source": "valid",
+         "to": "ken_rice@enron.com, Jeff.skilling@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+]

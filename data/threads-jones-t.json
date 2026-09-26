@@ -1,0 +1,6651 @@
+[
+{
+   "file": "/home/jb/maildir/jones-t/inbox/90.",
+   "hops": [
+      {
+         "from": "lance.jameson@enron.com",
+         "line": 4,
+         "rawfrom": "lance.jameson@enron.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 25,
+         "rawfrom": "Jones, Tana <Tana.Jones@ENRON.com>\n",
+         "source": "email",
+         "to": "Jameson, Lance <Lance.Jameson@ENRON.com>"
+      },
+      {
+         "from": "joe.witherspoon@enron.com",
+         "line": 49,
+         "rawfrom": "Witherspoon, Joe <Joe.Witherspoon@ENRON.com>\n",
+         "source": "email",
+         "to": "Jameson, Lance <Lance.Jameson@ENRON.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 96,
+         "rawfrom": "Jones, Tana <Tana.Jones@ENRON.com> \n",
+         "source": "email",
+         "to": "Jameson, Lance <Lance.Jameson@ENRON.com>"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/inbox/272.",
+   "hops": [
+      {
+         "from": "rdezenzo@quallaby.com",
+         "line": 4,
+         "rawfrom": "rdezenzo@quallaby.com\r\n",
+         "source": "valid",
+         "to": "rick.shoup@enron.com, mark.greenberg@enron.com"
+      },
+      {
+         "from": "rdezenzo@quallaby.com",
+         "line": 53,
+         "rawfrom": "\"DeZenzo, Ray\" <rdezenzo@quallaby.com>@ENRON \n",
+         "source": "email",
+         "to": "Greenberg, Mark"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 72,
+         "rawfrom": "Mark.Greenberg@enron.com [ mailto:Mark.Greenberg@enron.com  \n",
+         "source": "email",
+         "to": "rdezenzo@quallaby.com"
+      },
+      {
+         "from": "rdezenzo@quallaby.com",
+         "line": 134,
+         "rawfrom": "  \"DeZenzo, Ray\" <rdezenzo@quallaby.com>@ENRON \n",
+         "source": "email",
+         "to": "Greenberg, Mark"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/inbox/758.",
+   "hops": [
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 4,
+         "rawfrom": "pyoung@cliverunnells.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 24,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 33,
+         "rawfrom": "  \"Patti Young\" <pyoung@cliverunnells.com>@ENRON\n",
+         "source": "email",
+         "to": "Jones, Tana"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 44,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 56,
+         "rawfrom": "  \"Patti Young\" <pyoung@cliverunnells.com>@ENRON\n",
+         "source": "email",
+         "to": "Jones, Tana"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 69,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 81,
+         "rawfrom": "  \"Patti Young\" <pyoung@cliverunnells.com>@ENRON\n",
+         "source": "email",
+         "to": "Jones, Tana"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/inbox/809.",
+   "hops": [
+      {
+         "from": "ccerria@hess.com",
+         "line": 4,
+         "rawfrom": "ccerria@hess.com\r\n",
+         "source": "valid",
+         "to": "mark.greenberg@enron.com"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 29,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "ccerria@Hess.com"
+      },
+      {
+         "from": "ccerria@hess.com",
+         "line": 47,
+         "rawfrom": "  \"Cerria, Chuck (Commodities - NY)\" <ccerria@Hess.com>@ENRON\n",
+         "source": "email",
+         "to": "Greenberg, Mark"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 55,
+         "rawfrom": "Greenberg, Mark [mailto:Mark.Greenberg@ENRON.com]\n",
+         "source": "email",
+         "to": "ccerria@hess.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/inbox/277.",
+   "hops": [
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 4,
+         "rawfrom": "mark.greenberg@enron.com\r\n",
+         "source": "valid",
+         "to": "rdezenzo@quallaby.com"
+      },
+      {
+         "from": "rdezenzo@quallaby.com",
+         "line": 32,
+         "rawfrom": "\t\"DeZenzo, Ray\" <rdezenzo@quallaby.com>@ENRON [mailto:IMCEANOTES-+22DeZenzo+2C+20Ray+22+20+3Crdezenzo+40quallaby+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Shoup, Rick; Greenberg, Mark"
+      },
+      {
+         "from": "rdezenzo@quallaby.com",
+         "line": 70,
+         "rawfrom": "\"DeZenzo, Ray\" <rdezenzo@quallaby.com>@ENRON \n",
+         "source": "email",
+         "to": "Greenberg, Mark"
+      },
+      {
+         "from": "rdezenzo@quallaby.com",
+         "line": 151,
+         "rawfrom": "  \"DeZenzo, Ray\" <rdezenzo@quallaby.com>@ENRON \n",
+         "source": "email",
+         "to": "Greenberg, Mark"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/inbox/751.",
+   "hops": [
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 4,
+         "rawfrom": "pyoung@cliverunnells.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 25,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 36,
+         "rawfrom": "  \"Patti Young\" <pyoung@cliverunnells.com>@ENRON\n",
+         "source": "email",
+         "to": "Jones, Tana"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 49,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 60,
+         "rawfrom": "  \"Patti Young\" <pyoung@cliverunnells.com>@ENRON\n",
+         "source": "email",
+         "to": "Jones, Tana"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/inbox/221.",
+   "hops": [
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 4,
+         "rawfrom": "mark.greenberg@enron.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "joe.wright@truequote.com",
+         "line": 30,
+         "rawfrom": "\t\"Joe F. Wright\" <joe.wright@truequote.com>@ENRON [mailto:IMCEANOTES-+22Joe+20F+2E+20Wright+22+20+3Cjoe+2Ewright+40truequote+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Greenberg, Mark"
+      },
+      {
+         "from": "joe.wright@truequote.com",
+         "line": 58,
+         "rawfrom": "Joe F. Wright [mailto:joe.wright@truequote.com]\n",
+         "source": "email",
+         "to": "'mark.greenberg@enron.com'"
+      },
+      {
+         "from": "joe.wright@truequote.com",
+         "line": 67,
+         "rawfrom": "Joe F. Wright [mailto:joe.wright@truequote.com]\n",
+         "source": "email",
+         "to": "'Shults, Bob'"
+      },
+      {
+         "from": "bob.shults@enron.com",
+         "line": 109,
+         "rawfrom": "Shults, Bob [mailto:Bob.Shults@ENRON.com]\n",
+         "source": "email",
+         "to": "Joe Wright (E-mail)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/inbox/477.",
+   "hops": [
+      {
+         "from": "hkjii@erols.com",
+         "line": 4,
+         "rawfrom": "hkjii@erols.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "computerde@aol.com",
+         "line": 22,
+         "rawfrom": "ComputerDe@aol.com [mailto:ComputerDe@aol.com]\n",
+         "source": "email",
+         "to": "islandfan@aol.com; roleranger@aol.com; llevinson@sidley.com;"
+      },
+      {
+         "from": "valeria.dusablon@gm.com",
+         "line": 30,
+         "rawfrom": "<valeria.dusablon@gm.com>\n",
+         "source": "email",
+         "to": "\"Family\" <Family@gm.com>"
+      },
+      {
+         "from": "don.hanson@trw.com",
+         "line": 97,
+         "rawfrom": "\"Don Hanson\" <Don.Hanson@trw.com>\n",
+         "source": "email",
+         "to": "\"Amish Patel\" <Amish.Patel@trw.com>,"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/inbox/775.",
+   "hops": [
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 4,
+         "rawfrom": "mark.greenberg@enron.com\r\n",
+         "source": "valid",
+         "to": "stephanie.panus@enron.com"
+      },
+      {
+         "from": "jeannine.ford@experian.com",
+         "line": 32,
+         "rawfrom": "\t\"Ford, Jeannine\" <jeannine.ford@experian.com>@ENRON  \n",
+         "source": "email",
+         "to": "Greenberg, Mark"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 63,
+         "rawfrom": "Greenberg, Mark [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "jeannine.ford@experian.com"
+      },
+      {
+         "from": "sharon.granger@experian.com",
+         "line": 124,
+         "rawfrom": "Sharon.Granger@experian.com [mailto:Sharon.Granger@experian.com]\n",
+         "source": "email",
+         "to": "Detiveaux, Kim"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/inbox/278.",
+   "hops": [
+      {
+         "from": "rdezenzo@quallaby.com",
+         "line": 4,
+         "rawfrom": "rdezenzo@quallaby.com\r\n",
+         "source": "valid",
+         "to": "mark.greenberg@enron.com"
+      },
+      {
+         "from": "rdezenzo@quallaby.com",
+         "line": 38,
+         "rawfrom": "  \"DeZenzo, Ray\" <rdezenzo@quallaby.com>@ENRON \n",
+         "source": "email",
+         "to": "Shoup, Rick; Greenberg, Mark"
+      },
+      {
+         "from": "rick.shoup@enron.com",
+         "line": 52,
+         "rawfrom": "Rick.Shoup@enron.com [mailto:Rick.Shoup@enron.com  << File: \n",
+         "source": "email",
+         "to": "Mark.Greenberg@enron.com; rdezenzo@quallaby.com"
+      },
+      {
+         "from": "rdezenzo@quallaby.com",
+         "line": 76,
+         "rawfrom": "\"DeZenzo, Ray\" <rdezenzo@quallaby.com>@ENRON \n",
+         "source": "email",
+         "to": "Greenberg, Mark"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 102,
+         "rawfrom": "Mark.Greenberg@enron.com [ mailto:Mark.Greenberg@enron.com  \n",
+         "source": "email",
+         "to": "rdezenzo@quallaby.com"
+      },
+      {
+         "from": "rdezenzo@quallaby.com",
+         "line": 186,
+         "rawfrom": "  \"DeZenzo, Ray\" <rdezenzo@quallaby.com>@ENRON \n",
+         "source": "email",
+         "to": "Greenberg, Mark"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/11927.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 24,
+         "rawfrom": "\"Patti Young\" <pyoung@cliverunnells.com>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 38,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 74,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/5225.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.net",
+         "line": 26,
+         "rawfrom": "\"Patti Young\" <pyoung@pdq.net>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 42,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.n",
+         "line": 53,
+         "rawfrom": "pyoung@pdq.n",
+         "source": "valid",
+         "to": "\"Tana Jones\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/3046.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.net",
+         "line": 24,
+         "rawfrom": "\"Patti Young\" <pyoung@pdq.net>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 44,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "pyoung@pdq.n",
+         "line": 56,
+         "rawfrom": "pyoung@pdq.n",
+         "source": "valid",
+         "to": "\"Tana Jones\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/12220.",
+   "hops": [
+      {
+         "from": "adriane.schultea@enron.com",
+         "line": 4,
+         "rawfrom": "adriane.schultea@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.greenberg@enron.com"
+      },
+      {
+         "from": "john.gray@greenmountain.com",
+         "line": 24,
+         "rawfrom": " \"Gray, John\" <John.Gray@GreenMountain.com>@ENRON \n",
+         "source": "email",
+         "to": "Schultea, Adriane"
+      },
+      {
+         "from": "adriane.schultea@enron.com",
+         "line": 32,
+         "rawfrom": "Adriane.Schultea@enron.com [mailto:Adriane.Schultea@enron.com]\n",
+         "source": "email",
+         "to": "John.Gray@GreenMountain.com"
+      },
+      {
+         "from": "john.gray@greenmountain.com",
+         "line": 56,
+         "rawfrom": "  \"Gray, John\" <John.Gray@GreenMountain.com>@ENRON\n",
+         "source": "email",
+         "to": "Schultea, Adriane"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/4651.",
+   "hops": [
+      {
+         "from": "clare.godson@allenovery.com",
+         "line": 4,
+         "rawfrom": "clare.godson@allenovery.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 38,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 78,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 118,
+         "rawfrom": "Mark.Taylor@enron.com [mailto:Mark.Taylor@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/11978.",
+   "hops": [
+      {
+         "from": "john.allario@enron.com",
+         "line": 4,
+         "rawfrom": "john.allario@enron.com\r\n",
+         "source": "valid",
+         "to": "<\"\"keefer@enron.com>, kkeefer@ajilon.com"
+      },
+      {
+         "from": "kkeefer@ajilon.com",
+         "line": 33,
+         "rawfrom": " \"Keefer, Ken\" <kkeefer@ajilon.com>@ENRON \n",
+         "source": "email",
+         "to": "Allario, John"
+      },
+      {
+         "from": "john.pavetto@enron.com",
+         "line": 48,
+         "rawfrom": "John.Pavetto@enron.com [mailto:John.Pavetto@enron.com]\n",
+         "source": "email",
+         "to": "kkeefer@ajilon.com"
+      },
+      {
+         "from": "kkeefer@ajilon.com",
+         "line": 65,
+         "rawfrom": "  \"Keefer, Ken\" <kkeefer@ajilon.com>@ENRON\n",
+         "source": "email",
+         "to": "Pavetto, John"
+      },
+      {
+         "from": "john.pavetto@enron.com",
+         "line": 80,
+         "rawfrom": "John.Pavetto@enron.com [mailto:John.Pavetto@enron.com]\n",
+         "source": "email",
+         "to": "kkeefer@ajilon.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/4018.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.net",
+         "line": 25,
+         "rawfrom": "\"Patti Young\" <pyoung@pdq.net>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 39,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 77,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 113,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 161,
+         "rawfrom": "Tana Jones <Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/4001.",
+   "hops": [
+      {
+         "from": "pyoung@pdq.net",
+         "line": 4,
+         "rawfrom": "pyoung@pdq.net\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 26,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 64,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 100,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 148,
+         "rawfrom": "Tana Jones <Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/4635.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "clare.godson@allenovery.com"
+      },
+      {
+         "from": "clare.godson@allenovery.com",
+         "line": 31,
+         "rawfrom": "Clare.Godson@AllenOvery.com\n",
+         "source": "valid",
+         "to": "Tana.Jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 41,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 81,
+         "rawfrom": "Mark.Taylor@enron.com [mailto:Mark.Taylor@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/12379.",
+   "hops": [
+      {
+         "from": "corinna.bolender@enron.com",
+         "line": 4,
+         "rawfrom": "corinna.bolender@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.greenberg@enron.com, tana.jones@enron.com"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 44,
+         "rawfrom": "Mark.Greenberg@enron.com",
+         "source": "valid",
+         "to": "Mark"
+      },
+      {
+         "from": "jammo@microsoft.com",
+         "line": 74,
+         "rawfrom": " \"James Morris\" <jammo@microsoft.com>@ENRON \n",
+         "source": "email",
+         "to": "Corinna Bolender; Bolender, Corinna; Ward, Bob"
+      },
+      {
+         "from": "bob.ward@enron.com",
+         "line": 133,
+         "rawfrom": "Ward, Bob [mailto:Bob.Ward@ENRON.com]\n",
+         "source": "email",
+         "to": "James Morris"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/10461.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.greenberg@enron.com"
+      },
+      {
+         "from": "lgiordano@nwncable.com",
+         "line": 69,
+         "rawfrom": " \"Louis Giordano\" <lgiordano@nwncable.com>@ENRON \n",
+         "source": "email",
+         "to": "Feltman, Peter"
+      },
+      {
+         "from": "svadasz@nwncable.com",
+         "line": 81,
+         "rawfrom": "svadasz [mailto:svadasz@nwncable.com]\n",
+         "source": "email",
+         "to": "Louis Giordano"
+      },
+      {
+         "from": "dmartin@nwncable.com",
+         "line": 116,
+         "rawfrom": "David Martin [mailto:dmartin@nwncable.com]\n",
+         "source": "email",
+         "to": "svadasz@nwncable.com"
+      },
+      {
+         "from": "lgiordano@nwncable.com",
+         "line": 125,
+         "rawfrom": "Louis Giordano [mailto:lgiordano@nwncable.com]\n",
+         "source": "email",
+         "to": "dmartin@nwncable.com"
+      },
+      {
+         "from": "peter.feltman@enron.com",
+         "line": 135,
+         "rawfrom": "Peter.Feltman@enron.com [mailto:Peter.Feltman@enron.com]\n",
+         "source": "email",
+         "to": "lgiordano@nwncable.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/9701.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 26,
+         "rawfrom": "\"Patti Young\" <pyoung@cliverunnells.com>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 39,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 72,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/1647.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "preisinger@tmh.tmc.edu"
+      },
+      {
+         "from": "preisinger@tmh.tmc.edu",
+         "line": 24,
+         "rawfrom": "\"Preisinger, Andrea\" <PREISINGER@tmh.tmc.edu>\n",
+         "source": "email",
+         "to": "\"'Tana.Jones@enron.com'\" <Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 34,
+         "rawfrom": "Tana.Jones@enron.com [SMTP:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "PREISINGER@tmh.tmc.edu"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 73,
+         "rawfrom": "  Tana.Jones@enron.com [SMTP:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "PREISINGER@tmh.tmc.edu"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/3983.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.net",
+         "line": 27,
+         "rawfrom": "\"Patti Young\" <pyoung@pdq.net>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 40,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 80,
+         "rawfrom": "Tana Jones <Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/9672.",
+   "hops": [
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 4,
+         "rawfrom": "mark.greenberg@enron.com\r\n",
+         "source": "valid",
+         "to": "sfogel@cantor.com"
+      },
+      {
+         "from": "sfogel@cantor.com",
+         "line": 34,
+         "rawfrom": "\"Fogel, Stephen\" <SFogel@cantor.com>\n",
+         "source": "email",
+         "to": "\"'Mark.Greenberg@enron.com'\" <Mark.Greenberg@enron.com>"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 53,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Fogel, Stephen"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 111,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Fogel, Stephen"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/12385.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "corinna.bolender@enron.com"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 57,
+         "rawfrom": "Mark.Greenberg@enron.com",
+         "source": "valid",
+         "to": "Mark"
+      },
+      {
+         "from": "jammo@microsoft.com",
+         "line": 87,
+         "rawfrom": " \"James Morris\" <jammo@microsoft.com>@ENRON \n",
+         "source": "email",
+         "to": "Corinna Bolender; Bolender, Corinna; Ward, Bob"
+      },
+      {
+         "from": "bob.ward@enron.com",
+         "line": 146,
+         "rawfrom": "Ward, Bob [mailto:Bob.Ward@ENRON.com]\n",
+         "source": "email",
+         "to": "James Morris"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/9883.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 24,
+         "rawfrom": "\"Patti Young\" <pyoung@cliverunnells.com>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 36,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 71,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/9728.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.greenberg@enron.com"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 56,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Fogel, Stephen"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 111,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Fogel, Stephen"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 169,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Fogel, Stephen"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/5266.",
+   "hops": [
+      {
+         "from": "clare.godson@allenovery.com",
+         "line": 4,
+         "rawfrom": "clare.godson@allenovery.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 32,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 86,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 126,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 166,
+         "rawfrom": "Mark.Taylor@enron.com [mailto:Mark.Taylor@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/11309.",
+   "hops": [
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 4,
+         "rawfrom": "mark.greenberg@enron.com\r\n",
+         "source": "valid",
+         "to": "raquel.guzman@pgworks.com"
+      },
+      {
+         "from": "raquel.guzman@pgworks.com",
+         "line": 51,
+         "rawfrom": "Raquel Guzman <Raquel.Guzman@pgworks.com>\n",
+         "source": "email",
+         "to": "\"'Mark.Greenberg@enron.com'\" <Mark.Greenberg@enron.com>"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 70,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Raquel Guzman"
+      },
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 121,
+         "rawfrom": "Leslie.Hansen@enron.com [mailto:Leslie.Hansen@enron.com]\n",
+         "source": "email",
+         "to": "Raquel.Guzman@pgworks.com"
+      },
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 170,
+         "rawfrom": " Leslie.Hansen@enron.com [SMTP:Leslie.Hansen@enron.com]\n",
+         "source": "email",
+         "to": "raquel.guzman@pgworks.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/4488.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "greg.malcolm@ontariopowergeneration.com"
+      },
+      {
+         "from": "greg.malcolm@ontariopowergeneration.com",
+         "line": 25,
+         "rawfrom": "MALCOLM Greg -CONTROLLER <greg.malcolm@ontariopowergeneration.com>\n",
+         "source": "email",
+         "to": "\"'Tana.Jones@enron.com'\" <Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 39,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "MALCOLM Greg -CONTROLLER"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 87,
+         "rawfrom": "    Tana.Jones@enron.com\n",
+         "source": "valid",
+         "to": "MALCOLM Greg -CONTROLLER"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/11938.",
+   "hops": [
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 4,
+         "rawfrom": "pyoung@cliverunnells.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 23,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 49,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 83,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 118,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 154,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/12371.",
+   "hops": [
+      {
+         "from": "bob.shults@enron.com",
+         "line": 4,
+         "rawfrom": "bob.shults@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.greenberg@enron.com"
+      },
+      {
+         "from": "igoldsmith@natsourcetulletteurope.com",
+         "line": 27,
+         "rawfrom": " \"Goldsmith, Ian\" <IGoldsmith@NatSourceTullettEurope.com>@ENRON \n",
+         "source": "email",
+         "to": "Shults, Bob"
+      },
+      {
+         "from": "bob.shults@enron.com",
+         "line": 40,
+         "rawfrom": "Bob.Shults@enron.com [mailto:Bob.Shults@enron.com]\n",
+         "source": "email",
+         "to": "Goldsmith, Ian"
+      },
+      {
+         "from": "igoldsmith@natsourcetulletteurope.com",
+         "line": 64,
+         "rawfrom": "  \"Goldsmith, Ian\" <IGoldsmith@NatSourceTullettEurope.com>@ENRON\n",
+         "source": "email",
+         "to": "Greenberg, Mark"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 83,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Goldsmith, Ian"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/8966.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "david.dupre@enron.com, rharris@credit2b.com"
+      },
+      {
+         "from": "david.p.dupre@enron.com",
+         "line": 62,
+         "rawfrom": "David.P.Dupre@enron.com [mailto:David.P.Dupre@enron.com]\n",
+         "source": "email",
+         "to": "RHarris@Credit2B.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 101,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "RHarris@Credit2B.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 136,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "RHarris@Credit2B.com"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/4019.",
+   "hops": [
+      {
+         "from": "pyoung@pdq.net",
+         "line": 4,
+         "rawfrom": "pyoung@pdq.net\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 24,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 58,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 98,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 137,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 188,
+         "rawfrom": "Tana Jones <Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/9154.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "rirombei@worthingtonindustries.com"
+      },
+      {
+         "from": "rirombei@worthingtonindustries.com",
+         "line": 30,
+         "rawfrom": "\"Randal Rombeiro\" <RIROMBEI@worthingtonindustries.com>\n",
+         "source": "email",
+         "to": "<tana.jones@enron.com>"
+      },
+      {
+         "from": "susan.bailey@enron.com",
+         "line": 69,
+         "rawfrom": "Susan.Bailey@enron.com\n",
+         "source": "valid",
+         "to": "RIROMBEI@worthingtonindustries.com"
+      },
+      {
+         "from": "susan.bailey@enron.com",
+         "line": 95,
+         "rawfrom": "Susan.Bailey@enron.com",
+         "source": "valid",
+         "to": ""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/11925.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 26,
+         "rawfrom": "\"Patti Young\" <pyoung@cliverunnells.com>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 43,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 79,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/9329.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 24,
+         "rawfrom": "\"Patti Young\" <pyoung@cliverunnells.com>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 36,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 66,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/5748.",
+   "hops": [
+      {
+         "from": "clare.godson@allenovery.com",
+         "line": 4,
+         "rawfrom": "clare.godson@allenovery.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 26,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 65,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "richard.sage@enron.com",
+         "line": 125,
+         "rawfrom": "  Richard.Sage@enron.com@ALLEN & OVERY\n",
+         "source": "email",
+         "to": "Clarry, James:ICM (LN)"
+      }
+   ],
+   "skipped": 7
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/11979.",
+   "hops": [
+      {
+         "from": "kkeefer@ajilon.com",
+         "line": 4,
+         "rawfrom": "kkeefer@ajilon.com\r\n",
+         "source": "valid",
+         "to": "john.allario@enron.com"
+      },
+      {
+         "from": "john.allario@enron.com",
+         "line": 24,
+         "rawfrom": "John.Allario@enron.com [mailto:John.Allario@enron.com]\n",
+         "source": "email",
+         "to": "kkeefer@ajilon.com"
+      },
+      {
+         "from": "kkeefer@ajilon.com",
+         "line": 46,
+         "rawfrom": "  \"Keefer, Ken\" <kkeefer@ajilon.com>@ENRON\n",
+         "source": "email",
+         "to": "Allario, John"
+      },
+      {
+         "from": "john.pavetto@enron.com",
+         "line": 62,
+         "rawfrom": "John.Pavetto@enron.com [mailto:John.Pavetto@enron.com]\n",
+         "source": "email",
+         "to": "kkeefer@ajilon.com"
+      },
+      {
+         "from": "kkeefer@ajilon.com",
+         "line": 80,
+         "rawfrom": "  \"Keefer, Ken\" <kkeefer@ajilon.com>@ENRON\n",
+         "source": "email",
+         "to": "Pavetto, John"
+      },
+      {
+         "from": "john.pavetto@enron.com",
+         "line": 95,
+         "rawfrom": "John.Pavetto@enron.com [mailto:John.Pavetto@enron.com]\n",
+         "source": "email",
+         "to": "kkeefer@ajilon.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/5233.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.net",
+         "line": 24,
+         "rawfrom": "\"Patti Young\" <pyoung@pdq.net>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 36,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.n",
+         "line": 48,
+         "rawfrom": "pyoung@pdq.n",
+         "source": "valid",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 71,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.n",
+         "line": 82,
+         "rawfrom": "pyoung@pdq.n",
+         "source": "valid",
+         "to": "\"Tana Jones\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/11467.",
+   "hops": [
+      {
+         "from": "steve.howarth@bea.com",
+         "line": 4,
+         "rawfrom": "steve.howarth@bea.com\r\n",
+         "source": "valid",
+         "to": "mark.greenberg@enron.com"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 59,
+         "rawfrom": "Mark.Greenberg@enron.com",
+         "source": "valid",
+         "to": "Mark.Greenberg@enron.com"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 139,
+         "rawfrom": "Mark.Greenberg@enron.com",
+         "source": "valid",
+         "to": "mark.greenberg@enron.com"
+      },
+      {
+         "from": "steve.howarth@bea.com",
+         "line": 164,
+         "rawfrom": "Steve Howarth <steve.howarth@bea.com>\n",
+         "source": "email",
+         "to": "mark.greenburg@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/5270.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "clare.godson@allenovery.com"
+      },
+      {
+         "from": "clare.godson@allenovery.com",
+         "line": 37,
+         "rawfrom": "Clare.Godson@AllenOvery.com\n",
+         "source": "valid",
+         "to": "Tana.Jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 55,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 109,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 149,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 189,
+         "rawfrom": "Mark.Taylor@enron.com [mailto:Mark.Taylor@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/9704.",
+   "hops": [
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 4,
+         "rawfrom": "pyoung@cliverunnells.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 28,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 59,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 92,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/3998.",
+   "hops": [
+      {
+         "from": "pyoung@pdq.net",
+         "line": 4,
+         "rawfrom": "pyoung@pdq.net\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 25,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 59,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 105,
+         "rawfrom": "Tana Jones <Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/11310.",
+   "hops": [
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 4,
+         "rawfrom": "mark.greenberg@enron.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 53,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Raquel Guzman"
+      },
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 104,
+         "rawfrom": "Leslie.Hansen@enron.com [mailto:Leslie.Hansen@enron.com]\n",
+         "source": "email",
+         "to": "Raquel.Guzman@pgworks.com"
+      },
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 153,
+         "rawfrom": " Leslie.Hansen@enron.com [SMTP:Leslie.Hansen@enron.com]\n",
+         "source": "email",
+         "to": "raquel.guzman@pgworks.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/9004.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "clare.godson@allenovery.com"
+      },
+      {
+         "from": "clare.godson@allenovery.com",
+         "line": 42,
+         "rawfrom": "Clare.Godson@AllenOvery.com\n",
+         "source": "valid",
+         "to": "Tana.Jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 54,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "richard.sage@enron.com",
+         "line": 113,
+         "rawfrom": "  Richard.Sage@enron.com@ALLEN & OVERY\n",
+         "source": "email",
+         "to": "Clarry, James:ICM (LN)"
+      }
+   ],
+   "skipped": 7
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/9895.",
+   "hops": [
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 4,
+         "rawfrom": "pyoung@cliverunnells.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 22,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 50,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 85,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/12004.",
+   "hops": [
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 4,
+         "rawfrom": "mark.greenberg@enron.com\r\n",
+         "source": "valid",
+         "to": "john.gray@greenmountain.com"
+      },
+      {
+         "from": "john.gray@greenmountain.com",
+         "line": 37,
+         "rawfrom": "\"Gray, John\" <John.Gray@GreenMountain.com>\n",
+         "source": "email",
+         "to": "\"'Mark.Greenberg@enron.com'\" <Mark.Greenberg@enron.com>"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 47,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "john.gray@greenmountain.com"
+      },
+      {
+         "from": "john.gray@greenmountain.com",
+         "line": 110,
+         "rawfrom": "  \"Gray, John\" <John.Gray@GreenMountain.com>@ENRON\n",
+         "source": "email",
+         "to": "Schultea, Adriane"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/5230.",
+   "hops": [
+      {
+         "from": "pyoung@pdq.net",
+         "line": 4,
+         "rawfrom": "pyoung@pdq.net\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 24,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.n",
+         "line": 36,
+         "rawfrom": "pyoung@pdq.n",
+         "source": "valid",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 59,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.n",
+         "line": 70,
+         "rawfrom": "pyoung@pdq.n",
+         "source": "valid",
+         "to": "\"Tana Jones\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/5807.",
+   "hops": [
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 4,
+         "rawfrom": "leslie.hansen@enron.com\r\n",
+         "source": "valid",
+         "to": "swagner@erisks.com, tana.jones@enron.com"
+      },
+      {
+         "from": "swagner@erisks.com",
+         "line": 31,
+         "rawfrom": "\"Steven Wagner\" <swagner@erisks.com>\n",
+         "source": "email",
+         "to": "<Leslie.Hansen@enron.com>"
+      },
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 43,
+         "rawfrom": "Leslie.Hansen@enron.com [mailto:Leslie.Hansen@enron.com]\n",
+         "source": "email",
+         "to": "Steven Wagner"
+      },
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 76,
+         "rawfrom": "Leslie.Hansen@enron.com [mailto:Leslie.Hansen@enron.com]\n",
+         "source": "email",
+         "to": "Steven Wagner"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/3204.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.net",
+         "line": 26,
+         "rawfrom": "\"Patti Young\" <pyoung@pdq.net>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 41,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "pyoung@pdq.n",
+         "line": 62,
+         "rawfrom": "pyoung@pdq.n",
+         "source": "valid",
+         "to": "\"Tana Jones\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/8967.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "rharris@credit2b.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 36,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "David.P.Dupre@enron.com; rharris@Credit2B.com"
+      },
+      {
+         "from": "david.p.dupre@enron.com",
+         "line": 102,
+         "rawfrom": "David.P.Dupre@enron.com [mailto:David.P.Dupre@enron.com]\n",
+         "source": "email",
+         "to": "RHarris@Credit2B.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 141,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "RHarris@Credit2B.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 176,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "RHarris@Credit2B.com"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/1749.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.net",
+         "line": 26,
+         "rawfrom": "\"Patti Young\" <pyoung@pdq.net>\n",
+         "source": "email",
+         "to": "\"Tana Jones\" <tana.jones@enron.com>"
+      },
+      {
+         "from": "gail.francis@enron.com",
+         "line": 35,
+         "rawfrom": "<Gail.Francis@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "pyoung@pdq.net",
+         "line": 55,
+         "rawfrom": "\"Patti Young\" <pyoung@pdq.net> on 05/12/2000 11:12:38 AM\n",
+         "source": "email",
+         "to": "<Gail.Francis@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/11936.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 24,
+         "rawfrom": "\"Patti Young\" <pyoung@cliverunnells.com>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 34,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 68,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 103,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 139,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/3582.",
+   "hops": [
+      {
+         "from": "michael.mulligan@americas.bnpparibas.com",
+         "line": 4,
+         "rawfrom": "michael.mulligan@americas.bnpparibas.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 26,
+         "rawfrom": "    Tana.Jones@enron.com on 09/01/2000 07:38 PM GMT\n",
+         "source": "email",
+         "to": "Michael MULLIGAN"
+      },
+      {
+         "from": "michael.mulligan@americas.bnpp",
+         "line": 46,
+         "rawfrom": "michael.mulligan@americas.bnpp",
+         "source": "valid",
+         "to": ""
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 72,
+         "rawfrom": "    Tana.Jones@enron.com on 08/24/2000 04:25 PM GMT\n",
+         "source": "email",
+         "to": "Michael MULLIGAN"
+      },
+      {
+         "from": "michael.mulligan@americas.bnpp",
+         "line": 89,
+         "rawfrom": "michael.mulligan@americas.bnpp",
+         "source": "valid",
+         "to": ""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/2861.",
+   "hops": [
+      {
+         "from": "savita.puthigai@enron.com",
+         "line": 4,
+         "rawfrom": "savita.puthigai@enron.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "savita.puthigai@enron.com",
+         "line": 43,
+         "rawfrom": "Savita.Puthigai@enron.com [mailto:Savita.Puthigai@enron.com]\n",
+         "source": "email",
+         "to": "Marc Mellman"
+      },
+      {
+         "from": "mmellman@natsource.com",
+         "line": 64,
+         "rawfrom": "Marc Mellman <MMellman@natsource.com> on 07/25/2000 03:45:28 PM\n",
+         "source": "email",
+         "to": "\"'Savita.Puthigai@enron.com'\" <Savita.Puthigai@enron.com>"
+      },
+      {
+         "from": "savita.puthigai@enron.com",
+         "line": 82,
+         "rawfrom": "Savita.Puthigai@enron.com [mailto:Savita.Puthigai@enron.com]\n",
+         "source": "email",
+         "to": "Marc Mellman"
+      },
+      {
+         "from": "mmellman@natsource.com",
+         "line": 99,
+         "rawfrom": "Marc Mellman <MMellman@natsource.com> on 07/25/2000 03:30:57 PM\n",
+         "source": "email",
+         "to": "\"'Savita.Puthigai@enron.com'\" <Savita.Puthigai@enron.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/5271.",
+   "hops": [
+      {
+         "from": "clare.godson@allenovery.com",
+         "line": 4,
+         "rawfrom": "clare.godson@allenovery.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 24,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 78,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 133,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 173,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 213,
+         "rawfrom": "Mark.Taylor@enron.com [mailto:Mark.Taylor@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      }
+   ],
+   "skipped": 7
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/11934.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 24,
+         "rawfrom": "\"Patti Young\" <pyoung@cliverunnells.com>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 41,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 76,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 112,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/11930.",
+   "hops": [
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 4,
+         "rawfrom": "pyoung@cliverunnells.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 29,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 64,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 100,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/4004.",
+   "hops": [
+      {
+         "from": "pyoung@pdq.net",
+         "line": 4,
+         "rawfrom": "pyoung@pdq.net\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 22,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 60,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 96,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 144,
+         "rawfrom": "Tana Jones <Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/9729.",
+   "hops": [
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 4,
+         "rawfrom": "mark.greenberg@enron.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 73,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Fogel, Stephen"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 128,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Fogel, Stephen"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 186,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Fogel, Stephen"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/1750.",
+   "hops": [
+      {
+         "from": "pyoung@pdq.net",
+         "line": 4,
+         "rawfrom": "pyoung@pdq.net\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 25,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "pyoung@pdq.n",
+         "line": 38,
+         "rawfrom": "pyoung@pdq.n",
+         "source": "valid",
+         "to": "\"Tana Jones\""
+      },
+      {
+         "from": "gail.francis@enron.com",
+         "line": 55,
+         "rawfrom": "<Gail.Francis@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "pyoung@pdq.net",
+         "line": 75,
+         "rawfrom": "\"Patti Young\" <pyoung@pdq.net> on 05/12/2000 11:12:38 AM\n",
+         "source": "email",
+         "to": "<Gail.Francis@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/10948.",
+   "hops": [
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 4,
+         "rawfrom": "mark.greenberg@enron.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "c.craig.palmore@us.pwcglobal.com",
+         "line": 61,
+         "rawfrom": " <c.craig.palmore@us.pwcglobal.com>@ENRON \n",
+         "source": "email",
+         "to": "Detiveaux, Kim"
+      },
+      {
+         "from": "kim.detiveaux@enron.com",
+         "line": 86,
+         "rawfrom": "Kim.Detiveaux@enron.com on 04/06/2001 04:01:54 PM\n",
+         "source": "email",
+         "to": "C. Craig Palmore/MCS/Price Waterhouse"
+      },
+      {
+         "from": "c.craig.palmore@us.pwcglobal.com",
+         "line": 114,
+         "rawfrom": "  <c.craig.palmore@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "Detiveaux, Kim; Chaney, Craig"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/9723.",
+   "hops": [
+      {
+         "from": "sfogel@cantor.com",
+         "line": 4,
+         "rawfrom": "sfogel@cantor.com\r\n",
+         "source": "valid",
+         "to": "mark.greenberg@enron.com"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 27,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Fogel, Stephen"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 82,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Fogel, Stephen"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 140,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Fogel, Stephen"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/5869.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 25,
+         "rawfrom": "\"Patti Young\" <pyoung@cliverunnells.com>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 45,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 72,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/4901.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "clare.godson@allenovery.com"
+      },
+      {
+         "from": "clare.godson@allenovery.com",
+         "line": 29,
+         "rawfrom": "Clare.Godson@AllenOvery.com\n",
+         "source": "valid",
+         "to": "Tana.Jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 53,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 93,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 133,
+         "rawfrom": "Mark.Taylor@enron.com [mailto:Mark.Taylor@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/5736.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "clare.godson@allenovery.com"
+      },
+      {
+         "from": "clare.godson@allenovery.com",
+         "line": 28,
+         "rawfrom": "Clare.Godson@AllenOvery.com\n",
+         "source": "valid",
+         "to": "Tana.Jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 40,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "richard.sage@enron.com",
+         "line": 99,
+         "rawfrom": "  Richard.Sage@enron.com@ALLEN & OVERY\n",
+         "source": "email",
+         "to": "Clarry, James:ICM (LN)"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/3578.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "michael.mulligan@americas.bnpparibas.com"
+      },
+      {
+         "from": "michael.mulligan@americas.bnpparibas.com",
+         "line": 24,
+         "rawfrom": "michael.mulligan@americas.bnpparibas.com\n",
+         "source": "valid",
+         "to": "Tana.Jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 44,
+         "rawfrom": "    Tana.Jones@enron.com on 08/24/2000 04:25 PM GMT\n",
+         "source": "email",
+         "to": "Michael MULLIGAN"
+      },
+      {
+         "from": "michael.mulligan@americas.bnpp",
+         "line": 61,
+         "rawfrom": "michael.mulligan@americas.bnpp",
+         "source": "valid",
+         "to": ""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/10454.",
+   "hops": [
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 4,
+         "rawfrom": "mark.greenberg@enron.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "lgiordano@nwncable.com",
+         "line": 57,
+         "rawfrom": " \"Louis Giordano\" <lgiordano@nwncable.com>@ENRON \n",
+         "source": "email",
+         "to": "Feltman, Peter"
+      },
+      {
+         "from": "svadasz@nwncable.com",
+         "line": 69,
+         "rawfrom": "svadasz [mailto:svadasz@nwncable.com]\n",
+         "source": "email",
+         "to": "Louis Giordano"
+      },
+      {
+         "from": "dmartin@nwncable.com",
+         "line": 104,
+         "rawfrom": "David Martin [mailto:dmartin@nwncable.com]\n",
+         "source": "email",
+         "to": "svadasz@nwncable.com"
+      },
+      {
+         "from": "lgiordano@nwncable.com",
+         "line": 113,
+         "rawfrom": "Louis Giordano [mailto:lgiordano@nwncable.com]\n",
+         "source": "email",
+         "to": "dmartin@nwncable.com"
+      },
+      {
+         "from": "peter.feltman@enron.com",
+         "line": 123,
+         "rawfrom": "Peter.Feltman@enron.com [mailto:Peter.Feltman@enron.com]\n",
+         "source": "email",
+         "to": "lgiordano@nwncable.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/3999.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.net",
+         "line": 30,
+         "rawfrom": "\"Patti Young\" <pyoung@pdq.net>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 43,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 77,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 123,
+         "rawfrom": "Tana Jones <Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/2835.",
+   "hops": [
+      {
+         "from": "savita.puthigai@enron.com",
+         "line": 4,
+         "rawfrom": "savita.puthigai@enron.com\r\n",
+         "source": "valid",
+         "to": "mmellman@natsource.com"
+      },
+      {
+         "from": "mmellman@natsource.com",
+         "line": 32,
+         "rawfrom": "Marc Mellman <MMellman@natsource.com> on 07/25/2000 03:45:28 PM\n",
+         "source": "email",
+         "to": "\"'Savita.Puthigai@enron.com'\" <Savita.Puthigai@enron.com>"
+      },
+      {
+         "from": "savita.puthigai@enron.com",
+         "line": 50,
+         "rawfrom": "Savita.Puthigai@enron.com [mailto:Savita.Puthigai@enron.com]\n",
+         "source": "email",
+         "to": "Marc Mellman"
+      },
+      {
+         "from": "mmellman@natsource.com",
+         "line": 67,
+         "rawfrom": "Marc Mellman <MMellman@natsource.com> on 07/25/2000 03:30:57 PM\n",
+         "source": "email",
+         "to": "\"'Savita.Puthigai@enron.com'\" <Savita.Puthigai@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/2864.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "savita.puthigai@enron.com"
+      },
+      {
+         "from": "savita.puthigai@enron.com",
+         "line": 54,
+         "rawfrom": "Savita.Puthigai@enron.com [mailto:Savita.Puthigai@enron.com]\n",
+         "source": "email",
+         "to": "Marc Mellman"
+      },
+      {
+         "from": "mmellman@natsource.com",
+         "line": 75,
+         "rawfrom": "Marc Mellman <MMellman@natsource.com> on 07/25/2000 03:45:28 PM\n",
+         "source": "email",
+         "to": "\"'Savita.Puthigai@enron.com'\" <Savita.Puthigai@enron.com>"
+      },
+      {
+         "from": "savita.puthigai@enron.com",
+         "line": 93,
+         "rawfrom": "Savita.Puthigai@enron.com [mailto:Savita.Puthigai@enron.com]\n",
+         "source": "email",
+         "to": "Marc Mellman"
+      },
+      {
+         "from": "mmellman@natsource.com",
+         "line": 110,
+         "rawfrom": "Marc Mellman <MMellman@natsource.com> on 07/25/2000 03:30:57 PM\n",
+         "source": "email",
+         "to": "\"'Savita.Puthigai@enron.com'\" <Savita.Puthigai@enron.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/11981.",
+   "hops": [
+      {
+         "from": "john.allario@enron.com",
+         "line": 4,
+         "rawfrom": "john.allario@enron.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "kkeefer@ajilon.com",
+         "line": 24,
+         "rawfrom": " \"Keefer, Ken\" <kkeefer@ajilon.com>@ENRON \n",
+         "source": "email",
+         "to": "Allario, John"
+      },
+      {
+         "from": "john.allario@enron.com",
+         "line": 33,
+         "rawfrom": "John.Allario@enron.com [mailto:John.Allario@enron.com]\n",
+         "source": "email",
+         "to": "kkeefer@ajilon.com"
+      },
+      {
+         "from": "kkeefer@ajilon.com",
+         "line": 55,
+         "rawfrom": "  \"Keefer, Ken\" <kkeefer@ajilon.com>@ENRON\n",
+         "source": "email",
+         "to": "Allario, John"
+      },
+      {
+         "from": "john.pavetto@enron.com",
+         "line": 71,
+         "rawfrom": "John.Pavetto@enron.com [mailto:John.Pavetto@enron.com]\n",
+         "source": "email",
+         "to": "kkeefer@ajilon.com"
+      },
+      {
+         "from": "kkeefer@ajilon.com",
+         "line": 89,
+         "rawfrom": "  \"Keefer, Ken\" <kkeefer@ajilon.com>@ENRON\n",
+         "source": "email",
+         "to": "Pavetto, John"
+      },
+      {
+         "from": "john.pavetto@enron.com",
+         "line": 104,
+         "rawfrom": "John.Pavetto@enron.com [mailto:John.Pavetto@enron.com]\n",
+         "source": "email",
+         "to": "kkeefer@ajilon.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/11935.",
+   "hops": [
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 4,
+         "rawfrom": "pyoung@cliverunnells.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 22,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 56,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 91,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 127,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/11865.",
+   "hops": [
+      {
+         "from": "igoldsmith@natsourcetulletteurope.com",
+         "line": 4,
+         "rawfrom": "igoldsmith@natsourcetulletteurope.com\r\n",
+         "source": "valid",
+         "to": "bob.shults@enron.com"
+      },
+      {
+         "from": "bob.shults@enron.com",
+         "line": 36,
+         "rawfrom": "Bob.Shults@enron.com [mailto:Bob.Shults@enron.com]\n",
+         "source": "email",
+         "to": "Goldsmith, Ian"
+      },
+      {
+         "from": "igoldsmith@natsourcetulletteurope.com",
+         "line": 56,
+         "rawfrom": "  \"Goldsmith, Ian\" <IGoldsmith@NatSourceTullettEurope.com>@ENRON\n",
+         "source": "email",
+         "to": "Shults, Bob"
+      },
+      {
+         "from": "bob.shults@enron.com",
+         "line": 78,
+         "rawfrom": "Bob.Shults@enron.com [mailto:Bob.Shults@enron.com]\n",
+         "source": "email",
+         "to": "Goldsmith, Ian"
+      },
+      {
+         "from": "igoldsmith@natsourcetulletteurope.com",
+         "line": 100,
+         "rawfrom": "  \"Goldsmith, Ian\" <IGoldsmith@NatSourceTullettEurope.com>\n",
+         "source": "email",
+         "to": "Shults, Bob"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/9727.",
+   "hops": [
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 4,
+         "rawfrom": "mark.greenberg@enron.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 44,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Fogel, Stephen"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 99,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Fogel, Stephen"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 157,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Fogel, Stephen"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/11798.",
+   "hops": [
+      {
+         "from": "bob.shults@enron.com",
+         "line": 4,
+         "rawfrom": "bob.shults@enron.com\r\n",
+         "source": "valid",
+         "to": "<\"\"goldsmith@enron.com>, igoldsmith@natsourcetulletteurope.com"
+      },
+      {
+         "from": "igoldsmith@natsourcetulletteurope.com",
+         "line": 32,
+         "rawfrom": " \"Goldsmith, Ian\" <IGoldsmith@NatSourceTullettEurope.com>@ENRON \n",
+         "source": "email",
+         "to": "Shults, Bob"
+      },
+      {
+         "from": "bob.shults@enron.com",
+         "line": 54,
+         "rawfrom": "Bob.Shults@enron.com [mailto:Bob.Shults@enron.com]\n",
+         "source": "email",
+         "to": "Goldsmith, Ian"
+      },
+      {
+         "from": "igoldsmith@natsourcetulletteurope.com",
+         "line": 73,
+         "rawfrom": "  \"Goldsmith, Ian\" <IGoldsmith@NatSourceTullettEurope.com>@ENRON\n",
+         "source": "email",
+         "to": "Shults, Bob"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/5243.",
+   "hops": [
+      {
+         "from": "pyoung@pdq.net",
+         "line": 4,
+         "rawfrom": "pyoung@pdq.net\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 22,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.n",
+         "line": 32,
+         "rawfrom": "pyoung@pdq.n",
+         "source": "valid",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 52,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.n",
+         "line": 64,
+         "rawfrom": "pyoung@pdq.n",
+         "source": "valid",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 87,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.n",
+         "line": 98,
+         "rawfrom": "pyoung@pdq.n",
+         "source": "valid",
+         "to": "\"Tana Jones\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/2860.",
+   "hops": [
+      {
+         "from": "mmellman@natsource.com",
+         "line": 4,
+         "rawfrom": "mmellman@natsource.com\r\n",
+         "source": "valid",
+         "to": "savita.puthigai@enron.com"
+      },
+      {
+         "from": "savita.puthigai@enron.com",
+         "line": 28,
+         "rawfrom": "Savita.Puthigai@enron.com [mailto:Savita.Puthigai@enron.com]\n",
+         "source": "email",
+         "to": "Marc Mellman"
+      },
+      {
+         "from": "mmellman@natsource.com",
+         "line": 49,
+         "rawfrom": "Marc Mellman <MMellman@natsource.com> on 07/25/2000 03:45:28 PM\n",
+         "source": "email",
+         "to": "\"'Savita.Puthigai@enron.com'\" <Savita.Puthigai@enron.com>"
+      },
+      {
+         "from": "savita.puthigai@enron.com",
+         "line": 67,
+         "rawfrom": "Savita.Puthigai@enron.com [mailto:Savita.Puthigai@enron.com]\n",
+         "source": "email",
+         "to": "Marc Mellman"
+      },
+      {
+         "from": "mmellman@natsource.com",
+         "line": 84,
+         "rawfrom": "Marc Mellman <MMellman@natsource.com> on 07/25/2000 03:30:57 PM\n",
+         "source": "email",
+         "to": "\"'Savita.Puthigai@enron.com'\" <Savita.Puthigai@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/11466.",
+   "hops": [
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 4,
+         "rawfrom": "mark.greenberg@enron.com\r\n",
+         "source": "valid",
+         "to": "steve.howarth@bea.com"
+      },
+      {
+         "from": "steve.howarth@bea.com",
+         "line": 51,
+         "rawfrom": "Steve Howarth <steve.howarth@bea.com>\n",
+         "source": "email",
+         "to": "Mark.Greenberg@enron.com"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 124,
+         "rawfrom": "Mark.Greenberg@enron.com",
+         "source": "valid",
+         "to": "mark.greenberg@enron.com"
+      },
+      {
+         "from": "steve.howarth@bea.com",
+         "line": 149,
+         "rawfrom": "Steve Howarth <steve.howarth@bea.com>\n",
+         "source": "email",
+         "to": "mark.greenburg@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/1764.",
+   "hops": [
+      {
+         "from": "pyoung@pdq.net",
+         "line": 4,
+         "rawfrom": "pyoung@pdq.net\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "gail.francis@enron.com",
+         "line": 21,
+         "rawfrom": "<Gail.Francis@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "pyoung@pdq.net",
+         "line": 38,
+         "rawfrom": "\"Patti Young\" <pyoung@pdq.net> on 05/16/2000 09:55:26 AM\n",
+         "source": "email",
+         "to": "<Gail.Francis@enron.com>"
+      },
+      {
+         "from": "gail.francis@enron.com",
+         "line": 55,
+         "rawfrom": "<Gail.Francis@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "pyoung@pdq.net",
+         "line": 75,
+         "rawfrom": "\"Patti Young\" <pyoung@pdq.net> on 05/12/2000 11:12:38 AM\n",
+         "source": "email",
+         "to": "<Gail.Francis@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/11723.",
+   "hops": [
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 4,
+         "rawfrom": "mark.greenberg@enron.com\r\n",
+         "source": "valid",
+         "to": "abannes@amrresearch.com"
+      },
+      {
+         "from": "abannes@amrresearch.com",
+         "line": 49,
+         "rawfrom": "\"Bannes, Amy\" <ABannes@amrresearch.com>\n",
+         "source": "email",
+         "to": "\"'Mark.Greenberg@enron.com'\" <Mark.Greenberg@enron.com>, \"Feblowitz,"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 60,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Feblowitz, Jill"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 122,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "abannes@amrresearch.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/4902.",
+   "hops": [
+      {
+         "from": "clare.godson@allenovery.com",
+         "line": 4,
+         "rawfrom": "clare.godson@allenovery.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 24,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 78,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 118,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 158,
+         "rawfrom": "Mark.Taylor@enron.com [mailto:Mark.Taylor@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/5808.",
+   "hops": [
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 4,
+         "rawfrom": "leslie.hansen@enron.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 106,
+         "rawfrom": "Leslie.Hansen@enron.com\n",
+         "source": "valid",
+         "to": "dune.thorne@oracle.com"
+      },
+      {
+         "from": "jane.akdoruk@oracle.com",
+         "line": 170,
+         "rawfrom": "Jane Akdoruk <Jane.Akdoruk@oracle.com>\n",
+         "source": "email",
+         "to": "Dune Thorne <dune.thorne@oracle.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 229,
+         "rawfrom": "Tana.Jones@enron.com\n",
+         "source": "valid",
+         "to": "dune.thorne@oracle.com"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/all_documents/11291.",
+   "hops": [
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 4,
+         "rawfrom": "mark.greenberg@enron.com\r\n",
+         "source": "valid",
+         "to": "raquel.guzman@pgworks.com"
+      },
+      {
+         "from": "raquel.guzman@pgworks.com",
+         "line": 38,
+         "rawfrom": "Raquel Guzman <Raquel.Guzman@pgworks.com>\n",
+         "source": "email",
+         "to": "\"'mark.greenberg@enron.com'\" <mark.greenberg@enron.com>"
+      },
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 49,
+         "rawfrom": "Leslie.Hansen@enron.com [mailto:Leslie.Hansen@enron.com]\n",
+         "source": "email",
+         "to": "Raquel.Guzman@pgworks.com"
+      },
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 98,
+         "rawfrom": " Leslie.Hansen@enron.com [SMTP:Leslie.Hansen@enron.com]\n",
+         "source": "email",
+         "to": "raquel.guzman@pgworks.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/2388.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.net",
+         "line": 24,
+         "rawfrom": "\"Patti Young\" <pyoung@pdq.net>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 36,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.n",
+         "line": 48,
+         "rawfrom": "pyoung@pdq.n",
+         "source": "valid",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 71,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.n",
+         "line": 82,
+         "rawfrom": "pyoung@pdq.n",
+         "source": "valid",
+         "to": "\"Tana Jones\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/1819.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "michael.mulligan@americas.bnpparibas.com"
+      },
+      {
+         "from": "michael.mulligan@americas.bnpparibas.com",
+         "line": 24,
+         "rawfrom": "michael.mulligan@americas.bnpparibas.com\n",
+         "source": "valid",
+         "to": "Tana.Jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 44,
+         "rawfrom": "    Tana.Jones@enron.com on 08/24/2000 04:25 PM GMT\n",
+         "source": "email",
+         "to": "Michael MULLIGAN"
+      },
+      {
+         "from": "michael.mulligan@americas.bnpp",
+         "line": 61,
+         "rawfrom": "michael.mulligan@americas.bnpp",
+         "source": "valid",
+         "to": ""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/6354.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 24,
+         "rawfrom": "\"Patti Young\" <pyoung@cliverunnells.com>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 38,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 74,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/6356.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 24,
+         "rawfrom": "\"Patti Young\" <pyoung@cliverunnells.com>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 41,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 76,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 112,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/1556.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "savita.puthigai@enron.com"
+      },
+      {
+         "from": "savita.puthigai@enron.com",
+         "line": 54,
+         "rawfrom": "Savita.Puthigai@enron.com [mailto:Savita.Puthigai@enron.com]\n",
+         "source": "email",
+         "to": "Marc Mellman"
+      },
+      {
+         "from": "mmellman@natsource.com",
+         "line": 75,
+         "rawfrom": "Marc Mellman <MMellman@natsource.com> on 07/25/2000 03:45:28 PM\n",
+         "source": "email",
+         "to": "\"'Savita.Puthigai@enron.com'\" <Savita.Puthigai@enron.com>"
+      },
+      {
+         "from": "savita.puthigai@enron.com",
+         "line": 93,
+         "rawfrom": "Savita.Puthigai@enron.com [mailto:Savita.Puthigai@enron.com]\n",
+         "source": "email",
+         "to": "Marc Mellman"
+      },
+      {
+         "from": "mmellman@natsource.com",
+         "line": 110,
+         "rawfrom": "Marc Mellman <MMellman@natsource.com> on 07/25/2000 03:30:57 PM\n",
+         "source": "email",
+         "to": "\"'Savita.Puthigai@enron.com'\" <Savita.Puthigai@enron.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/5301.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "david.dupre@enron.com, rharris@credit2b.com"
+      },
+      {
+         "from": "david.p.dupre@enron.com",
+         "line": 62,
+         "rawfrom": "David.P.Dupre@enron.com [mailto:David.P.Dupre@enron.com]\n",
+         "source": "email",
+         "to": "RHarris@Credit2B.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 101,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "RHarris@Credit2B.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 136,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "RHarris@Credit2B.com"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/5468.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "rirombei@worthingtonindustries.com"
+      },
+      {
+         "from": "rirombei@worthingtonindustries.com",
+         "line": 30,
+         "rawfrom": "\"Randal Rombeiro\" <RIROMBEI@worthingtonindustries.com>\n",
+         "source": "email",
+         "to": "<tana.jones@enron.com>"
+      },
+      {
+         "from": "susan.bailey@enron.com",
+         "line": 69,
+         "rawfrom": "Susan.Bailey@enron.com\n",
+         "source": "valid",
+         "to": "RIROMBEI@worthingtonindustries.com"
+      },
+      {
+         "from": "susan.bailey@enron.com",
+         "line": 95,
+         "rawfrom": "Susan.Bailey@enron.com",
+         "source": "valid",
+         "to": ""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/5959.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.greenberg@enron.com"
+      },
+      {
+         "from": "lgiordano@nwncable.com",
+         "line": 69,
+         "rawfrom": " \"Louis Giordano\" <lgiordano@nwncable.com>@ENRON \n",
+         "source": "email",
+         "to": "Feltman, Peter"
+      },
+      {
+         "from": "svadasz@nwncable.com",
+         "line": 81,
+         "rawfrom": "svadasz [mailto:svadasz@nwncable.com]\n",
+         "source": "email",
+         "to": "Louis Giordano"
+      },
+      {
+         "from": "dmartin@nwncable.com",
+         "line": 116,
+         "rawfrom": "David Martin [mailto:dmartin@nwncable.com]\n",
+         "source": "email",
+         "to": "svadasz@nwncable.com"
+      },
+      {
+         "from": "lgiordano@nwncable.com",
+         "line": 125,
+         "rawfrom": "Louis Giordano [mailto:lgiordano@nwncable.com]\n",
+         "source": "email",
+         "to": "dmartin@nwncable.com"
+      },
+      {
+         "from": "peter.feltman@enron.com",
+         "line": 135,
+         "rawfrom": "Peter.Feltman@enron.com [mailto:Peter.Feltman@enron.com]\n",
+         "source": "email",
+         "to": "lgiordano@nwncable.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/1160.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.net",
+         "line": 26,
+         "rawfrom": "\"Patti Young\" <pyoung@pdq.net>\n",
+         "source": "email",
+         "to": "\"Tana Jones\" <tana.jones@enron.com>"
+      },
+      {
+         "from": "gail.francis@enron.com",
+         "line": 35,
+         "rawfrom": "<Gail.Francis@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "pyoung@pdq.net",
+         "line": 55,
+         "rawfrom": "\"Patti Young\" <pyoung@pdq.net> on 05/12/2000 11:12:38 AM\n",
+         "source": "email",
+         "to": "<Gail.Francis@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/2176.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "clare.godson@allenovery.com"
+      },
+      {
+         "from": "clare.godson@allenovery.com",
+         "line": 31,
+         "rawfrom": "Clare.Godson@AllenOvery.com\n",
+         "source": "valid",
+         "to": "Tana.Jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 41,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 81,
+         "rawfrom": "Mark.Taylor@enron.com [mailto:Mark.Taylor@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/1965.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.net",
+         "line": 25,
+         "rawfrom": "\"Patti Young\" <pyoung@pdq.net>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 39,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 77,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 113,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 161,
+         "rawfrom": "Tana Jones <Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/1954.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.net",
+         "line": 27,
+         "rawfrom": "\"Patti Young\" <pyoung@pdq.net>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 40,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 80,
+         "rawfrom": "Tana Jones <Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/5334.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "clare.godson@allenovery.com"
+      },
+      {
+         "from": "clare.godson@allenovery.com",
+         "line": 42,
+         "rawfrom": "Clare.Godson@AllenOvery.com\n",
+         "source": "valid",
+         "to": "Tana.Jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 54,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "richard.sage@enron.com",
+         "line": 113,
+         "rawfrom": "  Richard.Sage@enron.com@ALLEN & OVERY\n",
+         "source": "email",
+         "to": "Clarry, James:ICM (LN)"
+      }
+   ],
+   "skipped": 7
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/1959.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.net",
+         "line": 30,
+         "rawfrom": "\"Patti Young\" <pyoung@pdq.net>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 43,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 77,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 123,
+         "rawfrom": "Tana Jones <Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/6353.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 26,
+         "rawfrom": "\"Patti Young\" <pyoung@cliverunnells.com>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 43,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 79,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/2114.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "greg.malcolm@ontariopowergeneration.com"
+      },
+      {
+         "from": "greg.malcolm@ontariopowergeneration.com",
+         "line": 25,
+         "rawfrom": "MALCOLM Greg -CONTROLLER <greg.malcolm@ontariopowergeneration.com>\n",
+         "source": "email",
+         "to": "\"'Tana.Jones@enron.com'\" <Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 39,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "MALCOLM Greg -CONTROLLER"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 87,
+         "rawfrom": "    Tana.Jones@enron.com\n",
+         "source": "valid",
+         "to": "MALCOLM Greg -CONTROLLER"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/5758.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 26,
+         "rawfrom": "\"Patti Young\" <pyoung@cliverunnells.com>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 39,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 72,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/1129.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "preisinger@tmh.tmc.edu"
+      },
+      {
+         "from": "preisinger@tmh.tmc.edu",
+         "line": 24,
+         "rawfrom": "\"Preisinger, Andrea\" <PREISINGER@tmh.tmc.edu>\n",
+         "source": "email",
+         "to": "\"'Tana.Jones@enron.com'\" <Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 34,
+         "rawfrom": "Tana.Jones@enron.com [SMTP:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "PREISINGER@tmh.tmc.edu"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 73,
+         "rawfrom": "  Tana.Jones@enron.com [SMTP:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "PREISINGER@tmh.tmc.edu"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/2385.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.net",
+         "line": 26,
+         "rawfrom": "\"Patti Young\" <pyoung@pdq.net>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 42,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.n",
+         "line": 53,
+         "rawfrom": "pyoung@pdq.n",
+         "source": "valid",
+         "to": "\"Tana Jones\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/2262.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "clare.godson@allenovery.com"
+      },
+      {
+         "from": "clare.godson@allenovery.com",
+         "line": 29,
+         "rawfrom": "Clare.Godson@AllenOvery.com\n",
+         "source": "valid",
+         "to": "Tana.Jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 53,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 93,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 133,
+         "rawfrom": "Mark.Taylor@enron.com [mailto:Mark.Taylor@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/6455.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "corinna.bolender@enron.com"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 57,
+         "rawfrom": "Mark.Greenberg@enron.com",
+         "source": "valid",
+         "to": "Mark"
+      },
+      {
+         "from": "jammo@microsoft.com",
+         "line": 87,
+         "rawfrom": " \"James Morris\" <jammo@microsoft.com>@ENRON \n",
+         "source": "email",
+         "to": "Corinna Bolender; Bolender, Corinna; Ward, Bob"
+      },
+      {
+         "from": "bob.ward@enron.com",
+         "line": 146,
+         "rawfrom": "Ward, Bob [mailto:Bob.Ward@ENRON.com]\n",
+         "source": "email",
+         "to": "James Morris"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/1678.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.net",
+         "line": 26,
+         "rawfrom": "\"Patti Young\" <pyoung@pdq.net>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 41,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "pyoung@pdq.n",
+         "line": 62,
+         "rawfrom": "pyoung@pdq.n",
+         "source": "valid",
+         "to": "\"Tana Jones\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/2601.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 25,
+         "rawfrom": "\"Patti Young\" <pyoung@cliverunnells.com>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 45,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 72,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/1619.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.net",
+         "line": 24,
+         "rawfrom": "\"Patti Young\" <pyoung@pdq.net>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 44,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "pyoung@pdq.n",
+         "line": 56,
+         "rawfrom": "pyoung@pdq.n",
+         "source": "valid",
+         "to": "\"Tana Jones\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/6357.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 24,
+         "rawfrom": "\"Patti Young\" <pyoung@cliverunnells.com>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 34,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 68,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 103,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 139,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/2402.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "clare.godson@allenovery.com"
+      },
+      {
+         "from": "clare.godson@allenovery.com",
+         "line": 37,
+         "rawfrom": "Clare.Godson@AllenOvery.com\n",
+         "source": "valid",
+         "to": "Tana.Jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 55,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 109,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 149,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 189,
+         "rawfrom": "Mark.Taylor@enron.com [mailto:Mark.Taylor@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/5302.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "rharris@credit2b.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 36,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "David.P.Dupre@enron.com; rharris@Credit2B.com"
+      },
+      {
+         "from": "david.p.dupre@enron.com",
+         "line": 102,
+         "rawfrom": "David.P.Dupre@enron.com [mailto:David.P.Dupre@enron.com]\n",
+         "source": "email",
+         "to": "RHarris@Credit2B.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 141,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "RHarris@Credit2B.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 176,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "RHarris@Credit2B.com"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/5810.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 24,
+         "rawfrom": "\"Patti Young\" <pyoung@cliverunnells.com>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 36,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 71,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/5621.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 24,
+         "rawfrom": "\"Patti Young\" <pyoung@cliverunnells.com>\n",
+         "source": "email",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 36,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 66,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/5764.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.greenberg@enron.com"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 56,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Fogel, Stephen"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 111,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Fogel, Stephen"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 169,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Fogel, Stephen"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent/2568.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "clare.godson@allenovery.com"
+      },
+      {
+         "from": "clare.godson@allenovery.com",
+         "line": 28,
+         "rawfrom": "Clare.Godson@AllenOvery.com\n",
+         "source": "valid",
+         "to": "Tana.Jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 40,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "richard.sage@enron.com",
+         "line": 99,
+         "rawfrom": "  Richard.Sage@enron.com@ALLEN & OVERY\n",
+         "source": "email",
+         "to": "Clarry, James:ICM (LN)"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/425.",
+   "hops": [
+      {
+         "from": "pyoung@pdq.net",
+         "line": 4,
+         "rawfrom": "pyoung@pdq.net\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "gail.francis@enron.com",
+         "line": 21,
+         "rawfrom": "<Gail.Francis@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "pyoung@pdq.net",
+         "line": 38,
+         "rawfrom": "\"Patti Young\" <pyoung@pdq.net> on 05/16/2000 09:55:26 AM\n",
+         "source": "email",
+         "to": "<Gail.Francis@enron.com>"
+      },
+      {
+         "from": "gail.francis@enron.com",
+         "line": 55,
+         "rawfrom": "<Gail.Francis@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "pyoung@pdq.net",
+         "line": 75,
+         "rawfrom": "\"Patti Young\" <pyoung@pdq.net> on 05/12/2000 11:12:38 AM\n",
+         "source": "email",
+         "to": "<Gail.Francis@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/3256.",
+   "hops": [
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 4,
+         "rawfrom": "mark.greenberg@enron.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 73,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Fogel, Stephen"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 128,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Fogel, Stephen"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 186,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Fogel, Stephen"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/4711.",
+   "hops": [
+      {
+         "from": "bob.shults@enron.com",
+         "line": 4,
+         "rawfrom": "bob.shults@enron.com\r\n",
+         "source": "valid",
+         "to": "<\"\"goldsmith@enron.com>, igoldsmith@natsourcetulletteurope.com"
+      },
+      {
+         "from": "igoldsmith@natsourcetulletteurope.com",
+         "line": 32,
+         "rawfrom": " \"Goldsmith, Ian\" <IGoldsmith@NatSourceTullettEurope.com>@ENRON \n",
+         "source": "email",
+         "to": "Shults, Bob"
+      },
+      {
+         "from": "bob.shults@enron.com",
+         "line": 54,
+         "rawfrom": "Bob.Shults@enron.com [mailto:Bob.Shults@enron.com]\n",
+         "source": "email",
+         "to": "Goldsmith, Ian"
+      },
+      {
+         "from": "igoldsmith@natsourcetulletteurope.com",
+         "line": 73,
+         "rawfrom": "  \"Goldsmith, Ian\" <IGoldsmith@NatSourceTullettEurope.com>@ENRON\n",
+         "source": "email",
+         "to": "Shults, Bob"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/4470.",
+   "hops": [
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 4,
+         "rawfrom": "mark.greenberg@enron.com\r\n",
+         "source": "valid",
+         "to": "steve.howarth@bea.com"
+      },
+      {
+         "from": "steve.howarth@bea.com",
+         "line": 51,
+         "rawfrom": "Steve Howarth <steve.howarth@bea.com>\n",
+         "source": "email",
+         "to": "Mark.Greenberg@enron.com"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 124,
+         "rawfrom": "Mark.Greenberg@enron.com",
+         "source": "valid",
+         "to": "mark.greenberg@enron.com"
+      },
+      {
+         "from": "steve.howarth@bea.com",
+         "line": 149,
+         "rawfrom": "Steve Howarth <steve.howarth@bea.com>\n",
+         "source": "email",
+         "to": "mark.greenburg@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/3360.",
+   "hops": [
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 4,
+         "rawfrom": "pyoung@cliverunnells.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 22,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 50,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 85,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/1071.",
+   "hops": [
+      {
+         "from": "savita.puthigai@enron.com",
+         "line": 4,
+         "rawfrom": "savita.puthigai@enron.com\r\n",
+         "source": "valid",
+         "to": "mmellman@natsource.com"
+      },
+      {
+         "from": "mmellman@natsource.com",
+         "line": 32,
+         "rawfrom": "Marc Mellman <MMellman@natsource.com> on 07/25/2000 03:45:28 PM\n",
+         "source": "email",
+         "to": "\"'Savita.Puthigai@enron.com'\" <Savita.Puthigai@enron.com>"
+      },
+      {
+         "from": "savita.puthigai@enron.com",
+         "line": 50,
+         "rawfrom": "Savita.Puthigai@enron.com [mailto:Savita.Puthigai@enron.com]\n",
+         "source": "email",
+         "to": "Marc Mellman"
+      },
+      {
+         "from": "mmellman@natsource.com",
+         "line": 67,
+         "rawfrom": "Marc Mellman <MMellman@natsource.com> on 07/25/2000 03:30:57 PM\n",
+         "source": "email",
+         "to": "\"'Savita.Puthigai@enron.com'\" <Savita.Puthigai@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/4100.",
+   "hops": [
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 4,
+         "rawfrom": "mark.greenberg@enron.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "c.craig.palmore@us.pwcglobal.com",
+         "line": 61,
+         "rawfrom": " <c.craig.palmore@us.pwcglobal.com>@ENRON \n",
+         "source": "email",
+         "to": "Detiveaux, Kim"
+      },
+      {
+         "from": "kim.detiveaux@enron.com",
+         "line": 86,
+         "rawfrom": "Kim.Detiveaux@enron.com on 04/06/2001 04:01:54 PM\n",
+         "source": "email",
+         "to": "C. Craig Palmore/MCS/Price Waterhouse"
+      },
+      {
+         "from": "c.craig.palmore@us.pwcglobal.com",
+         "line": 114,
+         "rawfrom": "  <c.craig.palmore@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "Detiveaux, Kim; Chaney, Craig"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/2178.",
+   "hops": [
+      {
+         "from": "clare.godson@allenovery.com",
+         "line": 4,
+         "rawfrom": "clare.godson@allenovery.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 38,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 78,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 118,
+         "rawfrom": "Mark.Taylor@enron.com [mailto:Mark.Taylor@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/3239.",
+   "hops": [
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 4,
+         "rawfrom": "pyoung@cliverunnells.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 28,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 59,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 92,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/4806.",
+   "hops": [
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 4,
+         "rawfrom": "pyoung@cliverunnells.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 23,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 49,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 83,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 118,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 154,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/2895.",
+   "hops": [
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 4,
+         "rawfrom": "leslie.hansen@enron.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 106,
+         "rawfrom": "Leslie.Hansen@enron.com\n",
+         "source": "valid",
+         "to": "dune.thorne@oracle.com"
+      },
+      {
+         "from": "jane.akdoruk@oracle.com",
+         "line": 170,
+         "rawfrom": "Jane Akdoruk <Jane.Akdoruk@oracle.com>\n",
+         "source": "email",
+         "to": "Dune Thorne <dune.thorne@oracle.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 229,
+         "rawfrom": "Tana.Jones@enron.com\n",
+         "source": "valid",
+         "to": "dune.thorne@oracle.com"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/2555.",
+   "hops": [
+      {
+         "from": "clare.godson@allenovery.com",
+         "line": 4,
+         "rawfrom": "clare.godson@allenovery.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 32,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 86,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 126,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 166,
+         "rawfrom": "Mark.Taylor@enron.com [mailto:Mark.Taylor@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/4350.",
+   "hops": [
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 4,
+         "rawfrom": "mark.greenberg@enron.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 53,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Raquel Guzman"
+      },
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 104,
+         "rawfrom": "Leslie.Hansen@enron.com [mailto:Leslie.Hansen@enron.com]\n",
+         "source": "email",
+         "to": "Raquel.Guzman@pgworks.com"
+      },
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 153,
+         "rawfrom": " Leslie.Hansen@enron.com [SMTP:Leslie.Hansen@enron.com]\n",
+         "source": "email",
+         "to": "raquel.guzman@pgworks.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/4836.",
+   "hops": [
+      {
+         "from": "john.allario@enron.com",
+         "line": 4,
+         "rawfrom": "john.allario@enron.com\r\n",
+         "source": "valid",
+         "to": "<\"\"keefer@enron.com>, kkeefer@ajilon.com"
+      },
+      {
+         "from": "kkeefer@ajilon.com",
+         "line": 33,
+         "rawfrom": " \"Keefer, Ken\" <kkeefer@ajilon.com>@ENRON \n",
+         "source": "email",
+         "to": "Allario, John"
+      },
+      {
+         "from": "john.pavetto@enron.com",
+         "line": 48,
+         "rawfrom": "John.Pavetto@enron.com [mailto:John.Pavetto@enron.com]\n",
+         "source": "email",
+         "to": "kkeefer@ajilon.com"
+      },
+      {
+         "from": "kkeefer@ajilon.com",
+         "line": 65,
+         "rawfrom": "  \"Keefer, Ken\" <kkeefer@ajilon.com>@ENRON\n",
+         "source": "email",
+         "to": "Pavetto, John"
+      },
+      {
+         "from": "john.pavetto@enron.com",
+         "line": 80,
+         "rawfrom": "John.Pavetto@enron.com [mailto:John.Pavetto@enron.com]\n",
+         "source": "email",
+         "to": "kkeefer@ajilon.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/4658.",
+   "hops": [
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 4,
+         "rawfrom": "mark.greenberg@enron.com\r\n",
+         "source": "valid",
+         "to": "abannes@amrresearch.com"
+      },
+      {
+         "from": "abannes@amrresearch.com",
+         "line": 49,
+         "rawfrom": "\"Bannes, Amy\" <ABannes@amrresearch.com>\n",
+         "source": "email",
+         "to": "\"'Mark.Greenberg@enron.com'\" <Mark.Greenberg@enron.com>, \"Feblowitz,"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 60,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Feblowitz, Jill"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 122,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "abannes@amrresearch.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/5026.",
+   "hops": [
+      {
+         "from": "adriane.schultea@enron.com",
+         "line": 4,
+         "rawfrom": "adriane.schultea@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.greenberg@enron.com"
+      },
+      {
+         "from": "john.gray@greenmountain.com",
+         "line": 24,
+         "rawfrom": " \"Gray, John\" <John.Gray@GreenMountain.com>@ENRON \n",
+         "source": "email",
+         "to": "Schultea, Adriane"
+      },
+      {
+         "from": "adriane.schultea@enron.com",
+         "line": 32,
+         "rawfrom": "Adriane.Schultea@enron.com [mailto:Adriane.Schultea@enron.com]\n",
+         "source": "email",
+         "to": "John.Gray@GreenMountain.com"
+      },
+      {
+         "from": "john.gray@greenmountain.com",
+         "line": 56,
+         "rawfrom": "  \"Gray, John\" <John.Gray@GreenMountain.com>@ENRON\n",
+         "source": "email",
+         "to": "Schultea, Adriane"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/5150.",
+   "hops": [
+      {
+         "from": "corinna.bolender@enron.com",
+         "line": 4,
+         "rawfrom": "corinna.bolender@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.greenberg@enron.com, tana.jones@enron.com"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 44,
+         "rawfrom": "Mark.Greenberg@enron.com",
+         "source": "valid",
+         "to": "Mark"
+      },
+      {
+         "from": "jammo@microsoft.com",
+         "line": 74,
+         "rawfrom": " \"James Morris\" <jammo@microsoft.com>@ENRON \n",
+         "source": "email",
+         "to": "Corinna Bolender; Bolender, Corinna; Ward, Bob"
+      },
+      {
+         "from": "bob.ward@enron.com",
+         "line": 133,
+         "rawfrom": "Ward, Bob [mailto:Bob.Ward@ENRON.com]\n",
+         "source": "email",
+         "to": "James Morris"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/2894.",
+   "hops": [
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 4,
+         "rawfrom": "leslie.hansen@enron.com\r\n",
+         "source": "valid",
+         "to": "swagner@erisks.com, tana.jones@enron.com"
+      },
+      {
+         "from": "swagner@erisks.com",
+         "line": 31,
+         "rawfrom": "\"Steven Wagner\" <swagner@erisks.com>\n",
+         "source": "email",
+         "to": "<Leslie.Hansen@enron.com>"
+      },
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 43,
+         "rawfrom": "Leslie.Hansen@enron.com [mailto:Leslie.Hansen@enron.com]\n",
+         "source": "email",
+         "to": "Steven Wagner"
+      },
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 76,
+         "rawfrom": "Leslie.Hansen@enron.com [mailto:Leslie.Hansen@enron.com]\n",
+         "source": "email",
+         "to": "Steven Wagner"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/3218.",
+   "hops": [
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 4,
+         "rawfrom": "mark.greenberg@enron.com\r\n",
+         "source": "valid",
+         "to": "sfogel@cantor.com"
+      },
+      {
+         "from": "sfogel@cantor.com",
+         "line": 34,
+         "rawfrom": "\"Fogel, Stephen\" <SFogel@cantor.com>\n",
+         "source": "email",
+         "to": "\"'Mark.Greenberg@enron.com'\" <Mark.Greenberg@enron.com>"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 53,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Fogel, Stephen"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 111,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Fogel, Stephen"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/2543.",
+   "hops": [
+      {
+         "from": "pyoung@pdq.net",
+         "line": 4,
+         "rawfrom": "pyoung@pdq.net\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 22,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.n",
+         "line": 32,
+         "rawfrom": "pyoung@pdq.n",
+         "source": "valid",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 52,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.n",
+         "line": 64,
+         "rawfrom": "pyoung@pdq.n",
+         "source": "valid",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 87,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.n",
+         "line": 98,
+         "rawfrom": "pyoung@pdq.n",
+         "source": "valid",
+         "to": "\"Tana Jones\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/5143.",
+   "hops": [
+      {
+         "from": "bob.shults@enron.com",
+         "line": 4,
+         "rawfrom": "bob.shults@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.greenberg@enron.com"
+      },
+      {
+         "from": "igoldsmith@natsourcetulletteurope.com",
+         "line": 27,
+         "rawfrom": " \"Goldsmith, Ian\" <IGoldsmith@NatSourceTullettEurope.com>@ENRON \n",
+         "source": "email",
+         "to": "Shults, Bob"
+      },
+      {
+         "from": "bob.shults@enron.com",
+         "line": 40,
+         "rawfrom": "Bob.Shults@enron.com [mailto:Bob.Shults@enron.com]\n",
+         "source": "email",
+         "to": "Goldsmith, Ian"
+      },
+      {
+         "from": "igoldsmith@natsourcetulletteurope.com",
+         "line": 64,
+         "rawfrom": "  \"Goldsmith, Ian\" <IGoldsmith@NatSourceTullettEurope.com>@ENRON\n",
+         "source": "email",
+         "to": "Greenberg, Mark"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 83,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Goldsmith, Ian"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/4471.",
+   "hops": [
+      {
+         "from": "steve.howarth@bea.com",
+         "line": 4,
+         "rawfrom": "steve.howarth@bea.com\r\n",
+         "source": "valid",
+         "to": "mark.greenberg@enron.com"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 59,
+         "rawfrom": "Mark.Greenberg@enron.com",
+         "source": "valid",
+         "to": "Mark.Greenberg@enron.com"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 139,
+         "rawfrom": "Mark.Greenberg@enron.com",
+         "source": "valid",
+         "to": "mark.greenberg@enron.com"
+      },
+      {
+         "from": "steve.howarth@bea.com",
+         "line": 164,
+         "rawfrom": "Steve Howarth <steve.howarth@bea.com>\n",
+         "source": "email",
+         "to": "mark.greenburg@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/1086.",
+   "hops": [
+      {
+         "from": "savita.puthigai@enron.com",
+         "line": 4,
+         "rawfrom": "savita.puthigai@enron.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "savita.puthigai@enron.com",
+         "line": 43,
+         "rawfrom": "Savita.Puthigai@enron.com [mailto:Savita.Puthigai@enron.com]\n",
+         "source": "email",
+         "to": "Marc Mellman"
+      },
+      {
+         "from": "mmellman@natsource.com",
+         "line": 64,
+         "rawfrom": "Marc Mellman <MMellman@natsource.com> on 07/25/2000 03:45:28 PM\n",
+         "source": "email",
+         "to": "\"'Savita.Puthigai@enron.com'\" <Savita.Puthigai@enron.com>"
+      },
+      {
+         "from": "savita.puthigai@enron.com",
+         "line": 82,
+         "rawfrom": "Savita.Puthigai@enron.com [mailto:Savita.Puthigai@enron.com]\n",
+         "source": "email",
+         "to": "Marc Mellman"
+      },
+      {
+         "from": "mmellman@natsource.com",
+         "line": 99,
+         "rawfrom": "Marc Mellman <MMellman@natsource.com> on 07/25/2000 03:30:57 PM\n",
+         "source": "email",
+         "to": "\"'Savita.Puthigai@enron.com'\" <Savita.Puthigai@enron.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/4856.",
+   "hops": [
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 4,
+         "rawfrom": "mark.greenberg@enron.com\r\n",
+         "source": "valid",
+         "to": "john.gray@greenmountain.com"
+      },
+      {
+         "from": "john.gray@greenmountain.com",
+         "line": 37,
+         "rawfrom": "\"Gray, John\" <John.Gray@GreenMountain.com>\n",
+         "source": "email",
+         "to": "\"'Mark.Greenberg@enron.com'\" <Mark.Greenberg@enron.com>"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 47,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "john.gray@greenmountain.com"
+      },
+      {
+         "from": "john.gray@greenmountain.com",
+         "line": 110,
+         "rawfrom": "  \"Gray, John\" <John.Gray@GreenMountain.com>@ENRON\n",
+         "source": "email",
+         "to": "Schultea, Adriane"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/3252.",
+   "hops": [
+      {
+         "from": "sfogel@cantor.com",
+         "line": 4,
+         "rawfrom": "sfogel@cantor.com\r\n",
+         "source": "valid",
+         "to": "mark.greenberg@enron.com"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 27,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Fogel, Stephen"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 82,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Fogel, Stephen"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 140,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Fogel, Stephen"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/4839.",
+   "hops": [
+      {
+         "from": "john.allario@enron.com",
+         "line": 4,
+         "rawfrom": "john.allario@enron.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "kkeefer@ajilon.com",
+         "line": 24,
+         "rawfrom": " \"Keefer, Ken\" <kkeefer@ajilon.com>@ENRON \n",
+         "source": "email",
+         "to": "Allario, John"
+      },
+      {
+         "from": "john.allario@enron.com",
+         "line": 33,
+         "rawfrom": "John.Allario@enron.com [mailto:John.Allario@enron.com]\n",
+         "source": "email",
+         "to": "kkeefer@ajilon.com"
+      },
+      {
+         "from": "kkeefer@ajilon.com",
+         "line": 55,
+         "rawfrom": "  \"Keefer, Ken\" <kkeefer@ajilon.com>@ENRON\n",
+         "source": "email",
+         "to": "Allario, John"
+      },
+      {
+         "from": "john.pavetto@enron.com",
+         "line": 71,
+         "rawfrom": "John.Pavetto@enron.com [mailto:John.Pavetto@enron.com]\n",
+         "source": "email",
+         "to": "kkeefer@ajilon.com"
+      },
+      {
+         "from": "kkeefer@ajilon.com",
+         "line": 89,
+         "rawfrom": "  \"Keefer, Ken\" <kkeefer@ajilon.com>@ENRON\n",
+         "source": "email",
+         "to": "Pavetto, John"
+      },
+      {
+         "from": "john.pavetto@enron.com",
+         "line": 104,
+         "rawfrom": "John.Pavetto@enron.com [mailto:John.Pavetto@enron.com]\n",
+         "source": "email",
+         "to": "kkeefer@ajilon.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/2340.",
+   "hops": [
+      {
+         "from": "clare.godson@allenovery.com",
+         "line": 4,
+         "rawfrom": "clare.godson@allenovery.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 24,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 78,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 118,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 158,
+         "rawfrom": "Mark.Taylor@enron.com [mailto:Mark.Taylor@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/3753.",
+   "hops": [
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 4,
+         "rawfrom": "mark.greenberg@enron.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "lgiordano@nwncable.com",
+         "line": 57,
+         "rawfrom": " \"Louis Giordano\" <lgiordano@nwncable.com>@ENRON \n",
+         "source": "email",
+         "to": "Feltman, Peter"
+      },
+      {
+         "from": "svadasz@nwncable.com",
+         "line": 69,
+         "rawfrom": "svadasz [mailto:svadasz@nwncable.com]\n",
+         "source": "email",
+         "to": "Louis Giordano"
+      },
+      {
+         "from": "dmartin@nwncable.com",
+         "line": 104,
+         "rawfrom": "David Martin [mailto:dmartin@nwncable.com]\n",
+         "source": "email",
+         "to": "svadasz@nwncable.com"
+      },
+      {
+         "from": "lgiordano@nwncable.com",
+         "line": 113,
+         "rawfrom": "Louis Giordano [mailto:lgiordano@nwncable.com]\n",
+         "source": "email",
+         "to": "dmartin@nwncable.com"
+      },
+      {
+         "from": "peter.feltman@enron.com",
+         "line": 123,
+         "rawfrom": "Peter.Feltman@enron.com [mailto:Peter.Feltman@enron.com]\n",
+         "source": "email",
+         "to": "lgiordano@nwncable.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/3255.",
+   "hops": [
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 4,
+         "rawfrom": "mark.greenberg@enron.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 44,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Fogel, Stephen"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 99,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Fogel, Stephen"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 157,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Fogel, Stephen"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/1769.",
+   "hops": [
+      {
+         "from": "pyoung@pdq.net",
+         "line": 4,
+         "rawfrom": "pyoung@pdq.net\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 22,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 60,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 96,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 144,
+         "rawfrom": "Tana Jones <Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/4804.",
+   "hops": [
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 4,
+         "rawfrom": "pyoung@cliverunnells.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 22,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 56,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 91,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 127,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/1766.",
+   "hops": [
+      {
+         "from": "pyoung@pdq.net",
+         "line": 4,
+         "rawfrom": "pyoung@pdq.net\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 26,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 64,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 100,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 148,
+         "rawfrom": "Tana Jones <Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/4349.",
+   "hops": [
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 4,
+         "rawfrom": "mark.greenberg@enron.com\r\n",
+         "source": "valid",
+         "to": "raquel.guzman@pgworks.com"
+      },
+      {
+         "from": "raquel.guzman@pgworks.com",
+         "line": 51,
+         "rawfrom": "Raquel Guzman <Raquel.Guzman@pgworks.com>\n",
+         "source": "email",
+         "to": "\"'Mark.Greenberg@enron.com'\" <Mark.Greenberg@enron.com>"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 70,
+         "rawfrom": "Mark.Greenberg@enron.com [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "Raquel Guzman"
+      },
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 121,
+         "rawfrom": "Leslie.Hansen@enron.com [mailto:Leslie.Hansen@enron.com]\n",
+         "source": "email",
+         "to": "Raquel.Guzman@pgworks.com"
+      },
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 170,
+         "rawfrom": " Leslie.Hansen@enron.com [SMTP:Leslie.Hansen@enron.com]\n",
+         "source": "email",
+         "to": "raquel.guzman@pgworks.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/4753.",
+   "hops": [
+      {
+         "from": "igoldsmith@natsourcetulletteurope.com",
+         "line": 4,
+         "rawfrom": "igoldsmith@natsourcetulletteurope.com\r\n",
+         "source": "valid",
+         "to": "bob.shults@enron.com"
+      },
+      {
+         "from": "bob.shults@enron.com",
+         "line": 36,
+         "rawfrom": "Bob.Shults@enron.com [mailto:Bob.Shults@enron.com]\n",
+         "source": "email",
+         "to": "Goldsmith, Ian"
+      },
+      {
+         "from": "igoldsmith@natsourcetulletteurope.com",
+         "line": 56,
+         "rawfrom": "  \"Goldsmith, Ian\" <IGoldsmith@NatSourceTullettEurope.com>@ENRON\n",
+         "source": "email",
+         "to": "Shults, Bob"
+      },
+      {
+         "from": "bob.shults@enron.com",
+         "line": 78,
+         "rawfrom": "Bob.Shults@enron.com [mailto:Bob.Shults@enron.com]\n",
+         "source": "email",
+         "to": "Goldsmith, Ian"
+      },
+      {
+         "from": "igoldsmith@natsourcetulletteurope.com",
+         "line": 100,
+         "rawfrom": "  \"Goldsmith, Ian\" <IGoldsmith@NatSourceTullettEurope.com>\n",
+         "source": "email",
+         "to": "Shults, Bob"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/4337.",
+   "hops": [
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 4,
+         "rawfrom": "mark.greenberg@enron.com\r\n",
+         "source": "valid",
+         "to": "raquel.guzman@pgworks.com"
+      },
+      {
+         "from": "raquel.guzman@pgworks.com",
+         "line": 38,
+         "rawfrom": "Raquel Guzman <Raquel.Guzman@pgworks.com>\n",
+         "source": "email",
+         "to": "\"'mark.greenberg@enron.com'\" <mark.greenberg@enron.com>"
+      },
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 49,
+         "rawfrom": "Leslie.Hansen@enron.com [mailto:Leslie.Hansen@enron.com]\n",
+         "source": "email",
+         "to": "Raquel.Guzman@pgworks.com"
+      },
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 98,
+         "rawfrom": " Leslie.Hansen@enron.com [SMTP:Leslie.Hansen@enron.com]\n",
+         "source": "email",
+         "to": "raquel.guzman@pgworks.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/1506.",
+   "hops": [
+      {
+         "from": "michael.mulligan@americas.bnpparibas.com",
+         "line": 4,
+         "rawfrom": "michael.mulligan@americas.bnpparibas.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 26,
+         "rawfrom": "    Tana.Jones@enron.com on 09/01/2000 07:38 PM GMT\n",
+         "source": "email",
+         "to": "Michael MULLIGAN"
+      },
+      {
+         "from": "michael.mulligan@americas.bnpp",
+         "line": 46,
+         "rawfrom": "michael.mulligan@americas.bnpp",
+         "source": "valid",
+         "to": ""
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 72,
+         "rawfrom": "    Tana.Jones@enron.com on 08/24/2000 04:25 PM GMT\n",
+         "source": "email",
+         "to": "Michael MULLIGAN"
+      },
+      {
+         "from": "michael.mulligan@americas.bnpp",
+         "line": 89,
+         "rawfrom": "michael.mulligan@americas.bnpp",
+         "source": "valid",
+         "to": ""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/416.",
+   "hops": [
+      {
+         "from": "pyoung@pdq.net",
+         "line": 4,
+         "rawfrom": "pyoung@pdq.net\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 25,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "pyoung@pdq.n",
+         "line": 38,
+         "rawfrom": "pyoung@pdq.n",
+         "source": "valid",
+         "to": "\"Tana Jones\""
+      },
+      {
+         "from": "gail.francis@enron.com",
+         "line": 55,
+         "rawfrom": "<Gail.Francis@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "pyoung@pdq.net",
+         "line": 75,
+         "rawfrom": "\"Patti Young\" <pyoung@pdq.net> on 05/12/2000 11:12:38 AM\n",
+         "source": "email",
+         "to": "<Gail.Francis@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/2533.",
+   "hops": [
+      {
+         "from": "pyoung@pdq.net",
+         "line": 4,
+         "rawfrom": "pyoung@pdq.net\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 24,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.n",
+         "line": 36,
+         "rawfrom": "pyoung@pdq.n",
+         "source": "valid",
+         "to": "<Tana.Jones@enron.com>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 59,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@pdq.net"
+      },
+      {
+         "from": "pyoung@pdq.n",
+         "line": 70,
+         "rawfrom": "pyoung@pdq.n",
+         "source": "valid",
+         "to": "\"Tana Jones\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/2847.",
+   "hops": [
+      {
+         "from": "clare.godson@allenovery.com",
+         "line": 4,
+         "rawfrom": "clare.godson@allenovery.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 26,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 65,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "richard.sage@enron.com",
+         "line": 125,
+         "rawfrom": "  Richard.Sage@enron.com@ALLEN & OVERY\n",
+         "source": "email",
+         "to": "Clarry, James:ICM (LN)"
+      }
+   ],
+   "skipped": 7
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/1085.",
+   "hops": [
+      {
+         "from": "mmellman@natsource.com",
+         "line": 4,
+         "rawfrom": "mmellman@natsource.com\r\n",
+         "source": "valid",
+         "to": "savita.puthigai@enron.com"
+      },
+      {
+         "from": "savita.puthigai@enron.com",
+         "line": 28,
+         "rawfrom": "Savita.Puthigai@enron.com [mailto:Savita.Puthigai@enron.com]\n",
+         "source": "email",
+         "to": "Marc Mellman"
+      },
+      {
+         "from": "mmellman@natsource.com",
+         "line": 49,
+         "rawfrom": "Marc Mellman <MMellman@natsource.com> on 07/25/2000 03:45:28 PM\n",
+         "source": "email",
+         "to": "\"'Savita.Puthigai@enron.com'\" <Savita.Puthigai@enron.com>"
+      },
+      {
+         "from": "savita.puthigai@enron.com",
+         "line": 67,
+         "rawfrom": "Savita.Puthigai@enron.com [mailto:Savita.Puthigai@enron.com]\n",
+         "source": "email",
+         "to": "Marc Mellman"
+      },
+      {
+         "from": "mmellman@natsource.com",
+         "line": 84,
+         "rawfrom": "Marc Mellman <MMellman@natsource.com> on 07/25/2000 03:30:57 PM\n",
+         "source": "email",
+         "to": "\"'Savita.Puthigai@enron.com'\" <Savita.Puthigai@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/1764.",
+   "hops": [
+      {
+         "from": "pyoung@pdq.net",
+         "line": 4,
+         "rawfrom": "pyoung@pdq.net\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 25,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 59,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 105,
+         "rawfrom": "Tana Jones <Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/2558.",
+   "hops": [
+      {
+         "from": "clare.godson@allenovery.com",
+         "line": 4,
+         "rawfrom": "clare.godson@allenovery.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 24,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 78,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 133,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 173,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 213,
+         "rawfrom": "Mark.Taylor@enron.com [mailto:Mark.Taylor@enron.com]\n",
+         "source": "email",
+         "to": "Clare.Godson@AllenOvery.com"
+      }
+   ],
+   "skipped": 7
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/4801.",
+   "hops": [
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 4,
+         "rawfrom": "pyoung@cliverunnells.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 29,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 64,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 100,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/4837.",
+   "hops": [
+      {
+         "from": "kkeefer@ajilon.com",
+         "line": 4,
+         "rawfrom": "kkeefer@ajilon.com\r\n",
+         "source": "valid",
+         "to": "john.allario@enron.com"
+      },
+      {
+         "from": "john.allario@enron.com",
+         "line": 24,
+         "rawfrom": "John.Allario@enron.com [mailto:John.Allario@enron.com]\n",
+         "source": "email",
+         "to": "kkeefer@ajilon.com"
+      },
+      {
+         "from": "kkeefer@ajilon.com",
+         "line": 46,
+         "rawfrom": "  \"Keefer, Ken\" <kkeefer@ajilon.com>@ENRON\n",
+         "source": "email",
+         "to": "Allario, John"
+      },
+      {
+         "from": "john.pavetto@enron.com",
+         "line": 62,
+         "rawfrom": "John.Pavetto@enron.com [mailto:John.Pavetto@enron.com]\n",
+         "source": "email",
+         "to": "kkeefer@ajilon.com"
+      },
+      {
+         "from": "kkeefer@ajilon.com",
+         "line": 80,
+         "rawfrom": "  \"Keefer, Ken\" <kkeefer@ajilon.com>@ENRON\n",
+         "source": "email",
+         "to": "Pavetto, John"
+      },
+      {
+         "from": "john.pavetto@enron.com",
+         "line": 95,
+         "rawfrom": "John.Pavetto@enron.com [mailto:John.Pavetto@enron.com]\n",
+         "source": "email",
+         "to": "kkeefer@ajilon.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/notes_inbox/1777.",
+   "hops": [
+      {
+         "from": "pyoung@pdq.net",
+         "line": 4,
+         "rawfrom": "pyoung@pdq.net\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 24,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 58,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 98,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 137,
+         "rawfrom": "<Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 188,
+         "rawfrom": "Tana Jones <Tana.Jones@enron.com>\n",
+         "source": "email",
+         "to": "<pyoung@pdq.net>"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent_items/56.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.greenberg@enron.com"
+      },
+      {
+         "from": "pearsrj@texaco.com",
+         "line": 65,
+         "rawfrom": "\t\"Pearson, Ralph J Jr\" <pearsrj@texaco.com>@ENRON [mailto:IMCEANOTES-+22Pearson+2C+20Ralph+20J+20Jr+22+20+3Cpearsrj+40texaco+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Greenberg, Mark"
+      },
+      {
+         "from": "mark.greenberg@enron.com",
+         "line": 73,
+         "rawfrom": "Greenberg, Mark [mailto:Mark.Greenberg@enron.com]\n",
+         "source": "email",
+         "to": "davisrl@texaco.com"
+      },
+      {
+         "from": "vasquik@texaco.com",
+         "line": 117,
+         "rawfrom": "Vasquez-Brown, Indra K [mailto:vasquik@texaco.com]\n",
+         "source": "email",
+         "to": "Diamond, Daniel"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent_items/197.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "marie.heard@enron.com"
+      },
+      {
+         "from": "hkjii@erols.com",
+         "line": 22,
+         "rawfrom": "\t\"Kyle Jones\" <hkjii@erols.com>@ENRON  \n",
+         "source": "email",
+         "to": "'Benjamin James JONES \\(E-mail\\)'; 'Christopher Ridgway JONES \\(E-mail\\)'; 'Craig Stephen JONES \\(E-mail\\)'; 'Eileen \\(Gillis\\) JONES \\(E-mail\\)'; 'Harrison Kyle JONES Jr. \\(E-mail\\)'; 'Jay Charles JONES \\(E-mail\\)'; 'Jonathan Eric JONES \\(E-mail\\)'; 'Lee Osterman \\(E-mail\\)'; 'Sally and Bernie Case \\(E-mail\\)'; Jones, Tana"
+      },
+      {
+         "from": "computerde@aol.com",
+         "line": 30,
+         "rawfrom": "ComputerDe@aol.com [mailto:ComputerDe@aol.com]\n",
+         "source": "email",
+         "to": "islandfan@aol.com; roleranger@aol.com; llevinson@sidley.com;"
+      },
+      {
+         "from": "valeria.dusablon@gm.com",
+         "line": 38,
+         "rawfrom": "<valeria.dusablon@gm.com>\n",
+         "source": "email",
+         "to": "\"Family\" <Family@gm.com>"
+      },
+      {
+         "from": "don.hanson@trw.com",
+         "line": 105,
+         "rawfrom": "\"Don Hanson\" <Don.Hanson@trw.com>\n",
+         "source": "email",
+         "to": "\"Amish Patel\" <Amish.Patel@trw.com>,"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent_items/67.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "kay.young@enron.com"
+      },
+      {
+         "from": "mereli@chematch.com",
+         "line": 37,
+         "rawfrom": "Ereli, Michael [mailto:MERELI@CHEMATCH.com]\n",
+         "source": "email",
+         "to": "Wax, Brandon"
+      },
+      {
+         "from": "brandon.wax@enron.com",
+         "line": 59,
+         "rawfrom": "Wax, Brandon [mailto:Brandon.Wax@ENRON.com]\n",
+         "source": "email",
+         "to": "Ereli, Michael"
+      },
+      {
+         "from": "lmcafee@chematch.com",
+         "line": 77,
+         "rawfrom": "McAfee, Larry [mailto:lmcafee@chematch.com]\n",
+         "source": "email",
+         "to": "Wax, Brandon"
+      },
+      {
+         "from": "brandon.wax@enron.com",
+         "line": 89,
+         "rawfrom": "Wax, Brandon [mailto:Brandon.Wax@ENRON.com]\n",
+         "source": "email",
+         "to": "McAfee, Larry"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent_items/198.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "hkjii@erols.com"
+      },
+      {
+         "from": "hkjii@erols.com",
+         "line": 22,
+         "rawfrom": "\t\"Kyle Jones\" <hkjii@erols.com>@ENRON  \n",
+         "source": "email",
+         "to": "'Benjamin James JONES \\(E-mail\\)'; 'Christopher Ridgway JONES \\(E-mail\\)'; 'Craig Stephen JONES \\(E-mail\\)'; 'Eileen \\(Gillis\\) JONES \\(E-mail\\)'; 'Harrison Kyle JONES Jr. \\(E-mail\\)'; 'Jay Charles JONES \\(E-mail\\)'; 'Jonathan Eric JONES \\(E-mail\\)'; 'Lee Osterman \\(E-mail\\)'; 'Sally and Bernie Case \\(E-mail\\)'; Jones, Tana"
+      },
+      {
+         "from": "computerde@aol.com",
+         "line": 30,
+         "rawfrom": "ComputerDe@aol.com [mailto:ComputerDe@aol.com]\n",
+         "source": "email",
+         "to": "islandfan@aol.com; roleranger@aol.com; llevinson@sidley.com;"
+      },
+      {
+         "from": "valeria.dusablon@gm.com",
+         "line": 38,
+         "rawfrom": "<valeria.dusablon@gm.com>\n",
+         "source": "email",
+         "to": "\"Family\" <Family@gm.com>"
+      },
+      {
+         "from": "don.hanson@trw.com",
+         "line": 105,
+         "rawfrom": "\"Don Hanson\" <Don.Hanson@trw.com>\n",
+         "source": "email",
+         "to": "\"Amish Patel\" <Amish.Patel@trw.com>,"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent_items/203.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "c..koehler@enron.com"
+      },
+      {
+         "from": "hkjii@erols.com",
+         "line": 22,
+         "rawfrom": "\t\"Kyle Jones\" <hkjii@erols.com>@ENRON  \n",
+         "source": "email",
+         "to": "'Benjamin James JONES \\(E-mail\\)'; 'Christopher Ridgway JONES \\(E-mail\\)'; 'Craig Stephen JONES \\(E-mail\\)'; 'Eileen \\(Gillis\\) JONES \\(E-mail\\)'; 'Harrison Kyle JONES Jr. \\(E-mail\\)'; 'Jay Charles JONES \\(E-mail\\)'; 'Jonathan Eric JONES \\(E-mail\\)'; 'Lee Osterman \\(E-mail\\)'; 'Sally and Bernie Case \\(E-mail\\)'; Jones, Tana"
+      },
+      {
+         "from": "computerde@aol.com",
+         "line": 30,
+         "rawfrom": "ComputerDe@aol.com [mailto:ComputerDe@aol.com]\n",
+         "source": "email",
+         "to": "islandfan@aol.com; roleranger@aol.com; llevinson@sidley.com;"
+      },
+      {
+         "from": "valeria.dusablon@gm.com",
+         "line": 38,
+         "rawfrom": "<valeria.dusablon@gm.com>\n",
+         "source": "email",
+         "to": "\"Family\" <Family@gm.com>"
+      },
+      {
+         "from": "don.hanson@trw.com",
+         "line": 105,
+         "rawfrom": "\"Don Hanson\" <Don.Hanson@trw.com>\n",
+         "source": "email",
+         "to": "\"Amish Patel\" <Amish.Patel@trw.com>,"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent_items/335.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 22,
+         "rawfrom": "\t\"Patti Young\" <pyoung@cliverunnells.com>@ENRON  \n",
+         "source": "email",
+         "to": "Jones, Tana"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 33,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 44,
+         "rawfrom": "  \"Patti Young\" <pyoung@cliverunnells.com>@ENRON\n",
+         "source": "email",
+         "to": "Jones, Tana"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 57,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 68,
+         "rawfrom": "  \"Patti Young\" <pyoung@cliverunnells.com>@ENRON\n",
+         "source": "email",
+         "to": "Jones, Tana"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/jones-t/sent_items/334.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 22,
+         "rawfrom": "\t\"Patti Young\" <pyoung@cliverunnells.com>@ENRON  \n",
+         "source": "email",
+         "to": "Jones, Tana"
+      },
+      {
+         "from": "tana.jones@enron.com",
+         "line": 35,
+         "rawfrom": "Tana.Jones@enron.com [mailto:Tana.Jones@enron.com]\n",
+         "source": "email",
+         "to": "pyoung@cliverunnells.com"
+      },
+      {
+         "from": "pyoung@cliverunnells.com",
+         "line": 45,
+         "rawfrom": "  \"Patti Young\" <pyoung@cliverunnells.com>@ENRON\n",
+         "source": "email",
+         "to": "Jones, Tana"
+      }
+   ],
+   "skipped": 0
+}
+]

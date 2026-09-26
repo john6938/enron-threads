@@ -1,0 +1,365 @@
+[
+{
+   "file": "/home/jb/maildir/williams-w3/sent_items/279.",
+   "hops": [
+      {
+         "from": "bill.williams@enron.com",
+         "line": 4,
+         "rawfrom": "bill.williams@enron.com\r\n",
+         "source": "valid",
+         "to": "craig@stollerinc.com"
+      },
+      {
+         "from": "craig@stollerinc.com",
+         "line": 24,
+         "rawfrom": "Craig Stoller [mailto:craig@stollerinc.com]\n",
+         "source": "email",
+         "to": "Williams III, Bill"
+      },
+      {
+         "from": "bill.williams.iii@enron.com",
+         "line": 38,
+         "rawfrom": "[SMTP:Bill.Williams.III@ENRON.com]\n",
+         "source": "email",
+         "to": "MS Exchange::[SMTP:craig@stollerinc.com]"
+      },
+      {
+         "from": "craig@stollerinc.com",
+         "line": 53,
+         "rawfrom": "Craig Stoller [mailto:craig@stollerinc.com]\n",
+         "source": "email",
+         "to": "Williams III, Bill"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/williams-w3/sent_items/234.",
+   "hops": [
+      {
+         "from": "bill.williams@enron.com",
+         "line": 4,
+         "rawfrom": "bill.williams@enron.com\r\n",
+         "source": "valid",
+         "to": "alan.comnes@enron.com, dave.perrino@enron.com"
+      },
+      {
+         "from": "kalmeida@caiso.com",
+         "line": 29,
+         "rawfrom": "Almeida, Keoni [mailto:KAlmeida@caiso.com]\n",
+         "source": "email",
+         "to": "Foster, Chris H.; Almeida, Keoni"
+      },
+      {
+         "from": "chris.h.foster@enron.com",
+         "line": 50,
+         "rawfrom": "Foster, Chris H. [mailto:Chris.H.Foster@ENRON.com]\n",
+         "source": "email",
+         "to": "Almeida, Keoni"
+      },
+      {
+         "from": "kalmeida@caiso.com",
+         "line": 73,
+         "rawfrom": "Almeida, Keoni [mailto:KAlmeida@caiso.com]\n",
+         "source": "email",
+         "to": "Williams III, Bill; Foster, Chris H."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/williams-w3/sent_items/200.",
+   "hops": [
+      {
+         "from": "bill.williams@enron.com",
+         "line": 4,
+         "rawfrom": "bill.williams@enron.com\r\n",
+         "source": "valid",
+         "to": "badams@geraldmartin.com"
+      },
+      {
+         "from": "badams@geraldmartin.com",
+         "line": 28,
+         "rawfrom": "Brendan Adams [mailto:BAdams@geraldmartin.com]\n",
+         "source": "email",
+         "to": "Williams III, Bill"
+      },
+      {
+         "from": "bill.williams.iii@enron.com",
+         "line": 42,
+         "rawfrom": "\tWilliams III, Bill [mailto:Bill.Williams.III@ENRON.com] \n",
+         "source": "email",
+         "to": "Brendan Adams"
+      },
+      {
+         "from": "badams@geraldmartin.com",
+         "line": 55,
+         "rawfrom": "Brendan Adams [mailto:BAdams@geraldmartin.com]\n",
+         "source": "email",
+         "to": "Williams III, Bill"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/williams-w3/sent_items/229.",
+   "hops": [
+      {
+         "from": "bill.williams@enron.com",
+         "line": 4,
+         "rawfrom": "bill.williams@enron.com\r\n",
+         "source": "valid",
+         "to": "kate.symes@enron.com"
+      },
+      {
+         "from": "kdrager@idacorpenergy.com",
+         "line": 31,
+         "rawfrom": "Drager, Kevin [mailto:KDrager@idacorpenergy.com]\n",
+         "source": "email",
+         "to": "Gang, Lisa"
+      },
+      {
+         "from": "cheney@utahhumanities.org",
+         "line": 63,
+         "rawfrom": "Jean Cheney [mailto:cheney@utahhumanities.org]\n",
+         "source": "email",
+         "to": "Natasha Saje; Lisa Bickmore; Sandy Anderson; Charles Davidson;"
+      },
+      {
+         "from": "tpelie@aol.com",
+         "line": 72,
+         "rawfrom": "TPElie@aol.com [mailto:TPElie@aol.com]\n",
+         "source": "email",
+         "to": "SnagIt6391@aol.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/williams-w3/sent_items/70.",
+   "hops": [
+      {
+         "from": "bill.williams@enron.com",
+         "line": 4,
+         "rawfrom": "bill.williams@enron.com\r\n",
+         "source": "valid",
+         "to": "michael.tully@enron.com, will.smith@enron.com, pete.davis@enron.com"
+      },
+      {
+         "from": "arsystem@mailman.enron.com",
+         "line": 55,
+         "rawfrom": "ARSystem <ARSystem@mailman.enron.com>\n",
+         "source": "email",
+         "to": "Smith, Will </O=ENRON/OU=NA/CN=RECIPIENTS/CN=WSMITH>"
+      },
+      {
+         "from": "arsystem@mailman.enron.com",
+         "line": 78,
+         "rawfrom": "ARSystem <ARSystem@mailman.enron.com>\n",
+         "source": "email",
+         "to": "Smith, Will </O=ENRON/OU=NA/CN=RECIPIENTS/CN=WSMITH>"
+      },
+      {
+         "from": "arsystem@mailman.enron.com",
+         "line": 101,
+         "rawfrom": "ARSystem <ARSystem@mailman.enron.com>\n",
+         "source": "email",
+         "to": "Smith, Will </O=ENRON/OU=NA/CN=RECIPIENTS/CN=WSMITH>"
+      },
+      {
+         "from": "arsystem@mailman.enron.com",
+         "line": 124,
+         "rawfrom": "ARSystem <ARSystem@mailman.enron.com>\n",
+         "source": "email",
+         "to": "Smith, Will </O=ENRON/OU=NA/CN=RECIPIENTS/CN=WSMITH>"
+      },
+      {
+         "from": "arsystem@mailman.enron.com",
+         "line": 147,
+         "rawfrom": "ARSystem <ARSystem@mailman.enron.com>\n",
+         "source": "email",
+         "to": "Smith, Will </O=ENRON/OU=NA/CN=RECIPIENTS/CN=WSMITH>"
+      },
+      {
+         "from": "arsystem@mailman.enron.com",
+         "line": 170,
+         "rawfrom": "ARSystem <ARSystem@mailman.enron.com>\n",
+         "source": "email",
+         "to": "Smith, Will </O=ENRON/OU=NA/CN=RECIPIENTS/CN=WSMITH>"
+      },
+      {
+         "from": "arsystem@mailman.enron.com",
+         "line": 193,
+         "rawfrom": "ARSystem <ARSystem@mailman.enron.com>\n",
+         "source": "email",
+         "to": "Smith, Will </O=ENRON/OU=NA/CN=RECIPIENTS/CN=WSMITH>"
+      },
+      {
+         "from": "arsystem@mailman.enron.com",
+         "line": 216,
+         "rawfrom": "ARSystem <ARSystem@mailman.enron.com>\n",
+         "source": "email",
+         "to": "Smith, Will </O=ENRON/OU=NA/CN=RECIPIENTS/CN=WSMITH>"
+      },
+      {
+         "from": "arsystem@mailman.enron.com",
+         "line": 239,
+         "rawfrom": "ARSystem <ARSystem@mailman.enron.com>\n",
+         "source": "email",
+         "to": "Smith, Will </O=ENRON/OU=NA/CN=RECIPIENTS/CN=WSMITH>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/williams-w3/operations_committee_isas/10.",
+   "hops": [
+      {
+         "from": "smholden@bpa.gov",
+         "line": 4,
+         "rawfrom": "smholden@bpa.gov\r\n",
+         "source": "valid",
+         "to": "z34655 <m>, robert'.'harshbarger@enron.com, demetrios'.'fotiou@enron.com,"
+      },
+      {
+         "from": "mons.ellingson@pinnaclewest.com",
+         "line": 25,
+         "rawfrom": "Ellingson, Mons M(Z34655) [mailto:Mons.Ellingson@pinnaclewest.com]\n",
+         "source": "email",
+         "to": "'Harshbarger, Robert'; 'Fotiou, Demetrios'; 'Grow, Lisa'; 'Smith,"
+      },
+      {
+         "from": "bill.williams.iii@enron.com",
+         "line": 34,
+         "rawfrom": "Bill.Williams.III@enron.com [mailto:Bill.Williams.III@enron.com]\n",
+         "source": "email",
+         "to": "Ellingson, Mons M(Z34655)"
+      },
+      {
+         "from": "bharsh@puget.com",
+         "line": 74,
+         "rawfrom": "Harshbarger, Robert [mailto:bharsh@puget.com]\n",
+         "source": "email",
+         "to": "Ellingson, Mons M(Z34655); 'Fotiou, Demetrios'; 'Grow, Lisa';"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/williams-w3/operations_committee_isas/9.",
+   "hops": [
+      {
+         "from": "john.underwood@avistacorp.com",
+         "line": 4,
+         "rawfrom": "john.underwood@avistacorp.com\r\n",
+         "source": "valid",
+         "to": "tms-ditt2'.'holden-baker@enron.com, z34655 <m>,"
+      },
+      {
+         "from": "smholden@bpa.gov",
+         "line": 28,
+         "rawfrom": "Holden-Baker, Susan - TMS-DITT2 [mailto:smholden@bpa.gov]\n",
+         "source": "email",
+         "to": "'Ellingson, Mons M(Z34655)'; 'Harshbarger, Robert'; 'Fotiou,"
+      },
+      {
+         "from": "mons.ellingson@pinnaclewest.com",
+         "line": 39,
+         "rawfrom": "Ellingson, Mons M(Z34655) [mailto:Mons.Ellingson@pinnaclewest.com]\n",
+         "source": "email",
+         "to": "'Harshbarger, Robert'; 'Fotiou, Demetrios'; 'Grow, Lisa'; 'Smith,"
+      },
+      {
+         "from": "bill.williams.iii@enron.com",
+         "line": 48,
+         "rawfrom": "Bill.Williams.III@enron.com [mailto:Bill.Williams.III@enron.com]\n",
+         "source": "email",
+         "to": "Ellingson, Mons M(Z34655)"
+      },
+      {
+         "from": "bharsh@puget.com",
+         "line": 88,
+         "rawfrom": "Harshbarger, Robert [mailto:bharsh@puget.com]\n",
+         "source": "email",
+         "to": "Ellingson, Mons M(Z34655); 'Fotiou, Demetrios'; 'Grow, Lisa';"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/williams-w3/bill_williams_iii/955.",
+   "hops": [
+      {
+         "from": "mons.ellingson@pinnaclewest.com",
+         "line": 4,
+         "rawfrom": "mons.ellingson@pinnaclewest.com\r\n",
+         "source": "valid",
+         "to": "robert'.'harshbarger@enron.com, demetrios'.'fotiou@enron.com,"
+      },
+      {
+         "from": "bharsh@puget.com",
+         "line": 47,
+         "rawfrom": "Harshbarger, Robert [mailto:bharsh@puget.com]\n",
+         "source": "email",
+         "to": "Ellingson, Mons M(Z34655); 'Fotiou, Demetrios'; 'Grow, Lisa';"
+      },
+      {
+         "from": "smholden@bpa.gov",
+         "line": 76,
+         "rawfrom": "\tHolden-Baker, Susan - TMS-DITT2[SMTP:smholden@bpa.gov]\n",
+         "source": "email",
+         "to": "'Harshbarger, Robert'; 'Ellingson, Mons'; 'Fotiou, Demetrios';"
+      },
+      {
+         "from": "bharsh@puget.com",
+         "line": 102,
+         "rawfrom": "Harshbarger, Robert [mailto:bharsh@puget.com]\n",
+         "source": "email",
+         "to": "'Ellingson, Mons'; 'Fotiou, Demetrios'; 'Grow, Lisa'; 'Holden-Baker,"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/williams-w3/bill_williams_iii/332.",
+   "hops": [
+      {
+         "from": "kwitcosky@portlanddev.org",
+         "line": 4,
+         "rawfrom": "kwitcosky@portlanddev.org\r\n",
+         "source": "valid",
+         "to": "jon.gail@hcs.state.or.us, jacobf@hapdx.org"
+      },
+      {
+         "from": "jon.gail@hcs.state.or.us",
+         "line": 25,
+         "rawfrom": "Jon.Gail@hcs.state.or.us [mailto:Jon.Gail@hcs.state.or.us]\n",
+         "source": "email",
+         "to": "kwitcosky@portlanddev.org; Jon.Gail@hcs.state.or.us;"
+      },
+      {
+         "from": "kwitcosky@portlanddev.org",
+         "line": 53,
+         "rawfrom": "Witcosky, Keith J. [mailto:kwitcosky@portlanddev.org]\n",
+         "source": "email",
+         "to": "'Jon.Gail@hcs.state.or.us'; jacobf@hapdx.org"
+      },
+      {
+         "from": "jon.gail@hcs.state.or.us",
+         "line": 71,
+         "rawfrom": "Jon.Gail@hcs.state.or.us [mailto:Jon.Gail@hcs.state.or.us]\n",
+         "source": "email",
+         "to": "jacobf@hapdx.org"
+      }
+   ],
+   "skipped": 2
+}
+]

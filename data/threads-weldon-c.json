@@ -1,0 +1,246 @@
+[
+{
+   "file": "/home/jb/maildir/weldon-c/inbox/7.",
+   "hops": [
+      {
+         "from": "russellt@cottonrestorationinc.com",
+         "line": 4,
+         "rawfrom": "russellt@cottonrestorationinc.com\r\n",
+         "source": "valid",
+         "to": "whitenton.chris@enron.com, white.lamar@enron.com, charles.weldon@enron.com,"
+      },
+      {
+         "from": "benson03@juno.com",
+         "line": 25,
+         "rawfrom": "Benson Goebel <benson03@juno.com>\n",
+         "source": "email",
+         "to": "mhbldr@tstar.net <mhbldr@tstar.net>"
+      },
+      {
+         "from": "jhartman@bmsmanagement.com",
+         "line": 41,
+         "rawfrom": "\"Hartman, Jeff\" <JHartman@BMSManagement.com>\n",
+         "source": "email",
+         "to": "<benson@generalrestoration.com>"
+      },
+      {
+         "from": "j.b.griggs@att.net",
+         "line": 52,
+         "rawfrom": "J.B.GRIGGS@att.net [mailto:J.B.GRIGGS@att.net]\n",
+         "source": "email",
+         "to": "Brad Wallace; BEN WALLACE; Trey Smith; Mooring, Ben; Lon Loveless;"
+      },
+      {
+         "from": "hedberg@flash.net",
+         "line": 60,
+         "rawfrom": "   \"JOHN E GEORGE\" <hedberg@flash.net>\n",
+         "source": "email",
+         "to": "<J.B.GRIGGS@att.net>"
+      },
+      {
+         "from": "gkostohryz@hotmail.com",
+         "line": 67,
+         "rawfrom": "George Kostohryz <gkostohryz@hotmail.com>\n",
+         "source": "email",
+         "to": "<borisross@aol.com>; <carcyc@mcdonald-tech.com>; <ccw@kenedy.org>;"
+      },
+      {
+         "from": "carcyc@mcdonald-tech.com",
+         "line": 84,
+         "rawfrom": "\"Carcy Clinton\" <carcyc@mcdonald-tech.com>\n",
+         "source": "email",
+         "to": "\"Kostohryz, George\" <gkostohryz@hotmail.com>,        \"Clinton,"
+      },
+      {
+         "from": "erh3@swbell.net",
+         "line": 95,
+         "rawfrom": "E. Randall Hudson III [mailto:erh3@swbell.net]\n",
+         "source": "email",
+         "to": "Sherman Young; Chris Ryan"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/weldon-c/inbox/41.",
+   "hops": [
+      {
+         "from": "w..white@enron.com",
+         "line": 4,
+         "rawfrom": "w..white@enron.com\r\n",
+         "source": "valid",
+         "to": "charles.weldon@enron.com"
+      },
+      {
+         "from": "russellt@cottonrestorationinc.com",
+         "line": 22,
+         "rawfrom": "\t\"Russell White\" <russellt@cottonrestorationinc.com>@ENRON [mailto:IMCEANOTES-+22Russell+20White+22+20+3Crussellt+40cottonrestorationinc+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Chris Whitenton; White, Stacey W.; Lamar White; Stayton Weldon; Sachtleben, Kim M.; Rodney Pedraza; Bryan Klesel; Ken Horstman; Mary Harmon; Dee Harkey; Mark Golson; Benson Goebel; Chad Frers; Dunlop, James"
+      },
+      {
+         "from": "jeffk@cottonrestorationinc.com",
+         "line": 31,
+         "rawfrom": "Jeff Krone <jeffk@cottonrestorationinc.com>\n",
+         "source": "email",
+         "to": "Russell White <russellt@cottonrestorationinc.com>"
+      },
+      {
+         "from": "scotth@cottonconstructionllc.com",
+         "line": 39,
+         "rawfrom": "\"Scott Harrison\" <scotth@cottonconstructionllc.com>\n",
+         "source": "email",
+         "to": "\"Jeff Krone\" <jeffk@cottonrestorationinc.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/weldon-c/all_documents/268.",
+   "hops": [
+      {
+         "from": "connie.lee@enron.com",
+         "line": 4,
+         "rawfrom": "connie.lee@enron.com\r\n",
+         "source": "valid",
+         "to": "julia.hafener@bus.utexas.edu"
+      },
+      {
+         "from": "julia.hafener@bus.utexas.edu",
+         "line": 53,
+         "rawfrom": "Julia.Hafener@bus.utexas.edu\n",
+         "source": "valid",
+         "to": "Connie Lee/Enron Communications@Enron Communications"
+      },
+      {
+         "from": "connie_lee@enron.net",
+         "line": 73,
+         "rawfrom": "Connie_Lee@enron.net [mailto:Connie_Lee@enron.net]\n",
+         "source": "email",
+         "to": "Julia Hafener"
+      },
+      {
+         "from": "connie_lee@enron.net",
+         "line": 154,
+         "rawfrom": "Connie_Lee@enron.net [mailto:Connie_Lee@enron.net]\n",
+         "source": "email",
+         "to": "AdmissionVisits"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/weldon-c/deleted_items/240.",
+   "hops": [
+      {
+         "from": "cweldon@houston.rr.com",
+         "line": 4,
+         "rawfrom": "cweldon@houston.rr.com\r\n",
+         "source": "valid",
+         "to": "charles.weldon@enron.com"
+      },
+      {
+         "from": "t-willy@t-willy.com",
+         "line": 22,
+         "rawfrom": "Tom Williford [mailto:t-willy@t-willy.com]\n",
+         "source": "email",
+         "to": "cweldon@houston.rr.com"
+      },
+      {
+         "from": "cweldon@houston.rr.com",
+         "line": 35,
+         "rawfrom": "\"Charlie Weldon\" <cweldon@houston.rr.com>\n",
+         "source": "email",
+         "to": "\"'Tom Williford'\" <t-willy@t-willy.com>"
+      },
+      {
+         "from": "t-willy@t-willy.com",
+         "line": 49,
+         "rawfrom": "Tom Williford [mailto:t-willy@t-willy.com]\n",
+         "source": "email",
+         "to": "cweldon@houston.rr.com"
+      },
+      {
+         "from": "cweldon@houston.rr.com",
+         "line": 57,
+         "rawfrom": "\"Charlie Weldon\" <cweldon@houston.rr.com>\n",
+         "source": "email",
+         "to": "<t-willy@t-willy.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/weldon-c/ut_mba/3.",
+   "hops": [
+      {
+         "from": "connie.lee@enron.com",
+         "line": 4,
+         "rawfrom": "connie.lee@enron.com\r\n",
+         "source": "valid",
+         "to": "julia.hafener@bus.utexas.edu"
+      },
+      {
+         "from": "julia.hafener@bus.utexas.edu",
+         "line": 43,
+         "rawfrom": "Julia.Hafener@bus.utexas.edu 04/24/01 12:37 PM",
+         "source": "email",
+         "to": "Connie Lee/Enron Communications@Enron Communications  cc:   Subject: RE: Connie Lee Admission Visits"
+      },
+      {
+         "from": "connie_lee@enron.net",
+         "line": 62,
+         "rawfrom": "Connie_Lee@enron.net [mailto:Connie_Lee@enron.net]\n",
+         "source": "email",
+         "to": "Julia Hafener"
+      },
+      {
+         "from": "connie_lee@enron.net",
+         "line": 143,
+         "rawfrom": "Connie_Lee@enron.net [mailto:Connie_Lee@enron.net]\n",
+         "source": "email",
+         "to": "AdmissionVisits"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/weldon-c/ut_mba/7.",
+   "hops": [
+      {
+         "from": "connie.lee@enron.com",
+         "line": 4,
+         "rawfrom": "connie.lee@enron.com\r\n",
+         "source": "valid",
+         "to": "julia.hafener@bus.utexas.edu"
+      },
+      {
+         "from": "julia.hafener@bus.utexas.edu",
+         "line": 53,
+         "rawfrom": "Julia.Hafener@bus.utexas.edu\n",
+         "source": "valid",
+         "to": "Connie Lee/Enron Communications@Enron Communications"
+      },
+      {
+         "from": "connie_lee@enron.net",
+         "line": 73,
+         "rawfrom": "Connie_Lee@enron.net [mailto:Connie_Lee@enron.net]\n",
+         "source": "email",
+         "to": "Julia Hafener"
+      },
+      {
+         "from": "connie_lee@enron.net",
+         "line": 154,
+         "rawfrom": "Connie_Lee@enron.net [mailto:Connie_Lee@enron.net]\n",
+         "source": "email",
+         "to": "AdmissionVisits"
+      }
+   ],
+   "skipped": 1
+}
+]

@@ -1,0 +1,883 @@
+[
+{
+   "file": "/home/jb/maildir/pimenov-v/inbox/150.",
+   "hops": [
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 4,
+         "rawfrom": "nshand@condenast.co.uk\r\n",
+         "source": "valid",
+         "to": "vladi.pimenov@enron.com"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 22,
+         "rawfrom": "Vladi.Pimenov@enron.com [mailto:Vladi.Pimenov@enron.com]\n",
+         "source": "email",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 45,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 66,
+         "rawfrom": "Vladi.Pimenov@enron.com [mailto:Vladi.Pimenov@enron.com]\n",
+         "source": "email",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 86,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 94,
+         "rawfrom": "Vladi.Pimenov@enron.com [mailto:Vladi.Pimenov@enron.com]\n",
+         "source": "email",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 110,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 118,
+         "rawfrom": "Vladi.Pimenov@enron.com [mailto:Vladi.Pimenov@enron.com]\n",
+         "source": "email",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 135,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 143,
+         "rawfrom": "Vladi.Pimenov@enron.com [mailto:Vladi.Pimenov@enron.com]\n",
+         "source": "email",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 161,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 170,
+         "rawfrom": "Vladi.Pimenov@enron.com\n",
+         "source": "valid",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 189,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 198,
+         "rawfrom": "Vladi.Pimenov@enron.com\n",
+         "source": "valid",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 239,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 254,
+         "rawfrom": "Vladi.Pimenov@enron.com\n",
+         "source": "valid",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 286,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/pimenov-v/deleted_items/378.",
+   "hops": [
+      {
+         "from": "kevin.brady@enron.com",
+         "line": 4,
+         "rawfrom": "kevin.brady@enron.com\r\n",
+         "source": "valid",
+         "to": "lisa.kinsey@enron.com, brian.wesneske@enron.com, lindsay.culotta@enron.com,"
+      },
+      {
+         "from": "anne1857349@cs.com",
+         "line": 28,
+         "rawfrom": "\tAnne1857349@cs.com [mailto:Anne1857349@cs.com] \n",
+         "source": "email",
+         "to": "Brady, Kevin; givmebass@hotmail.com; annasgrandma@att.net; tcclu@kc.net; WFLemley@cs.com; bompo@blkhawk.net; etwolf@earthlink.net"
+      },
+      {
+         "from": "supercore@aol.com",
+         "line": 36,
+         "rawfrom": " <SUPERCORE@aol.com>\n",
+         "source": "email",
+         "to": "rbohnenkamp@smpsfa.com, BRDYBNCH1@aol.com, CCSUPERV@aol.com, debalix@hotmail.com, jclayton@smpsfa.com, ldelong@smpsfa.com, dderham@smpsfa.com, Anne1857349@cs.com, annasgrandma@juno.com, rex@kcnet.com, DGump76051@aol.com, chughs@flash.net, jjordan@smpsfa.com, glange@smpsfa.com, NFLAuthor@aol.com, lmorrison@smpsfa.com, L_M_Pozz@msn.com, eriddle@smpsfa.com, jsheridan@smpsfa.com, Simmons520@aol.com, Rascl44@aol.com, kwendling@smpsfa.com"
+      },
+      {
+         "from": "robertdstewart@msn.com",
+         "line": 45,
+         "rawfrom": " <robertdstewart@msn.com>\n",
+         "source": "email",
+         "to": "Jerry Janesko <gjj@execpc.com>, Dan <dan.stewart@prodigy.net>, Don Carter <donhtgcarter@hotmail.com>, TOM HAUSER <SK8BRDR84@AOL.COM>, RICK STEFFEN <Hosemansteffen@aol.com>, MARY ZABORSKI <maryz@attglobal.net>, mike lane <mikenfaith@mindspring.com>, RONNIE <RGB-2@webtv.net>, ROZ EPSTEIN <Maitriarch@aol.com>, LIL KOSLOWSKI <LILYKOZ@aol.com>, dan shepard <thesheps@mtaonline.net>, DENNIS McDONALD <SUPERCORE@aol.com>, Lewis Dalton <tnman59@msn.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/pimenov-v/deleted_items/418.",
+   "hops": [
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 4,
+         "rawfrom": "nshand@condenast.co.uk\r\n",
+         "source": "valid",
+         "to": "vladi.pimenov@enron.com"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 34,
+         "rawfrom": "Vladi.Pimenov@enron.com [mailto:Vladi.Pimenov@enron.com]\n",
+         "source": "email",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 52,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 60,
+         "rawfrom": "Vladi.Pimenov@enron.com [mailto:Vladi.Pimenov@enron.com]\n",
+         "source": "email",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 75,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 83,
+         "rawfrom": "Vladi.Pimenov@enron.com [mailto:Vladi.Pimenov@enron.com]\n",
+         "source": "email",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 99,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 107,
+         "rawfrom": "Vladi.Pimenov@enron.com [mailto:Vladi.Pimenov@enron.com]\n",
+         "source": "email",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 124,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 132,
+         "rawfrom": "Vladi.Pimenov@enron.com [mailto:Vladi.Pimenov@enron.com]\n",
+         "source": "email",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 150,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 159,
+         "rawfrom": "Vladi.Pimenov@enron.com\n",
+         "source": "valid",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 196,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 210,
+         "rawfrom": "Vladi.Pimenov@enron.com\n",
+         "source": "valid",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 240,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 262,
+         "rawfrom": "Pimenov, Vladi [mailto:Vladi.Pimenov@ENRON.com]\n",
+         "source": "email",
+         "to": "NShand@condenast.co.uk"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/pimenov-v/sent_items/128.",
+   "hops": [
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 4,
+         "rawfrom": "vladi.pimenov@enron.com\r\n",
+         "source": "valid",
+         "to": "csilva@uamericas.edu.ec"
+      },
+      {
+         "from": "csilva@uamericas.edu.ec",
+         "line": 23,
+         "rawfrom": "\tChristian Silva <csilva@uamericas.edu.ec>@ENRON [mailto:IMCEANOTES-Christian+20Silva+20+3Ccsilva+40uamericas+2Eedu+2Eec+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "csilva@uamericas.edu.ec",
+         "line": 42,
+         "rawfrom": "  Christian Silva <csilva@uamericas.edu.ec>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "csilva@uamericas.edu.ec",
+         "line": 63,
+         "rawfrom": "  Christian Silva <csilva@uamericas.edu.ec>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "csilva@uamericas.edu.ec",
+         "line": 96,
+         "rawfrom": "  Christian Silva <csilva@uamericas.edu.ec>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "csilva@uamericas.edu.ec",
+         "line": 128,
+         "rawfrom": "  Christian Silva <csilva@uamericas.edu.ec>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi; Vladislav Pimenov"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/pimenov-v/sent_items/133.",
+   "hops": [
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 4,
+         "rawfrom": "vladi.pimenov@enron.com\r\n",
+         "source": "valid",
+         "to": "nshand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 30,
+         "rawfrom": "\tNatalie Shand <NShand@condenast.co.uk>@ENRON [mailto:IMCEANOTES-Natalie+20Shand+20+3CNShand+40condenast+2Eco+2Euk+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 50,
+         "rawfrom": "Vladi.Pimenov@enron.com [mailto:Vladi.Pimenov@enron.com]\n",
+         "source": "email",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 68,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 76,
+         "rawfrom": "Vladi.Pimenov@enron.com [mailto:Vladi.Pimenov@enron.com]\n",
+         "source": "email",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 91,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 99,
+         "rawfrom": "Vladi.Pimenov@enron.com [mailto:Vladi.Pimenov@enron.com]\n",
+         "source": "email",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 115,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 123,
+         "rawfrom": "Vladi.Pimenov@enron.com [mailto:Vladi.Pimenov@enron.com]\n",
+         "source": "email",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 140,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 148,
+         "rawfrom": "Vladi.Pimenov@enron.com [mailto:Vladi.Pimenov@enron.com]\n",
+         "source": "email",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 166,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 175,
+         "rawfrom": "Vladi.Pimenov@enron.com\n",
+         "source": "valid",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 212,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 226,
+         "rawfrom": "Vladi.Pimenov@enron.com\n",
+         "source": "valid",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 256,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 278,
+         "rawfrom": "Pimenov, Vladi [mailto:Vladi.Pimenov@ENRON.com]\n",
+         "source": "email",
+         "to": "NShand@condenast.co.uk"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/pimenov-v/sent_items/136.",
+   "hops": [
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 4,
+         "rawfrom": "vladi.pimenov@enron.com\r\n",
+         "source": "valid",
+         "to": "nbondare@enron.com"
+      },
+      {
+         "from": "buci_2000@yahoo.com",
+         "line": 22,
+         "rawfrom": "\tMax Malolo <buci_2000@yahoo.com>@ENRON [mailto:IMCEANOTES-Max+20Malolo+20+3Cbuci+5F2000+40yahoo+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "nrudzki@yahoo.com",
+         "line": 41,
+         "rawfrom": "Nick Rudzki <nrudzki@yahoo.com>\n",
+         "source": "email",
+         "to": "Krys Rudzki <k_rudzki@lineone.net>"
+      },
+      {
+         "from": "leia_veidelis@quoin.com.au",
+         "line": 59,
+         "rawfrom": "Leia Veidelis <leia_veidelis@quoin.com.au>\n",
+         "source": "email",
+         "to": "\"Chris Lane (E-mail)\" <Christopher.Lane@ing.com.au>, \t\"Christine Ahern (E-mail)\" <ahernca@hotmail.com>, \t\"David Newling (E-mail)\" <david_newling@horwath.com.au>, \t\"Karyn Frost (E-mail)\" <Karyn_Frost@kaz.com.au>, \t\"Louisa Veidelis (E-mail)\" <lev_weasel@hotmail.com>, \t\"Natalie Hambly (E-mail)\" <Natalie_Hambly@idg.com.au>, \t\"Nick Rudzki (E-mail)\" <nrudzki@yahoo.com>, \"Peter Morath (E-mail)\"\t <servtronics@bigpond.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/pimenov-v/sent_items/1.",
+   "hops": [
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 4,
+         "rawfrom": "vladi.pimenov@enron.com\r\n",
+         "source": "valid",
+         "to": "nxb@allegrodevelopment.com"
+      },
+      {
+         "from": "nxb@allegrodevelopment.com",
+         "line": 23,
+         "rawfrom": "Natalie Bondareva [mailto:nxb@allegrodevelopment.com]\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 33,
+         "rawfrom": "Pimenov, Vladi [mailto:Vladi.Pimenov@ENRON.com]\n",
+         "source": "email",
+         "to": "Natalie Bondareva"
+      },
+      {
+         "from": "nxb@allegrodevelopment.com",
+         "line": 44,
+         "rawfrom": "Natalie Bondareva [mailto:nxb@allegrodevelopment.com]\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/pimenov-v/sent_items/42.",
+   "hops": [
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 4,
+         "rawfrom": "vladi.pimenov@enron.com\r\n",
+         "source": "valid",
+         "to": "nshand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 39,
+         "rawfrom": "\tNatalie Shand <NShand@condenast.co.uk>@ENRON  \n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 47,
+         "rawfrom": "Vladi.Pimenov@enron.com [mailto:Vladi.Pimenov@enron.com]\n",
+         "source": "email",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 70,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 91,
+         "rawfrom": "Vladi.Pimenov@enron.com [mailto:Vladi.Pimenov@enron.com]\n",
+         "source": "email",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 111,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 119,
+         "rawfrom": "Vladi.Pimenov@enron.com [mailto:Vladi.Pimenov@enron.com]\n",
+         "source": "email",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 135,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 143,
+         "rawfrom": "Vladi.Pimenov@enron.com [mailto:Vladi.Pimenov@enron.com]\n",
+         "source": "email",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 160,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 168,
+         "rawfrom": "Vladi.Pimenov@enron.com [mailto:Vladi.Pimenov@enron.com]\n",
+         "source": "email",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 186,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 195,
+         "rawfrom": "Vladi.Pimenov@enron.com\n",
+         "source": "valid",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 214,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 223,
+         "rawfrom": "Vladi.Pimenov@enron.com\n",
+         "source": "valid",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 264,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 279,
+         "rawfrom": "Vladi.Pimenov@enron.com\n",
+         "source": "valid",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 311,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/pimenov-v/sent_items/129.",
+   "hops": [
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 4,
+         "rawfrom": "vladi.pimenov@enron.com\r\n",
+         "source": "valid",
+         "to": "csilva@uamericas.edu.ec"
+      },
+      {
+         "from": "csilva@uamericas.edu.ec",
+         "line": 22,
+         "rawfrom": "\tChristian Silva <csilva@uamericas.edu.ec>@ENRON [mailto:IMCEANOTES-Christian+20Silva+20+3Ccsilva+40uamericas+2Eedu+2Eec+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "csilva@uamericas.edu.ec",
+         "line": 42,
+         "rawfrom": "  Christian Silva <csilva@uamericas.edu.ec>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "csilva@uamericas.edu.ec",
+         "line": 74,
+         "rawfrom": "  Christian Silva <csilva@uamericas.edu.ec>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "csilva@uamericas.edu.ec",
+         "line": 103,
+         "rawfrom": "  Christian Silva <csilva@uamericas.edu.ec>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi; Vladislav Pimenov"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/pimenov-v/sent_items/41.",
+   "hops": [
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 4,
+         "rawfrom": "vladi.pimenov@enron.com\r\n",
+         "source": "valid",
+         "to": "nshand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 35,
+         "rawfrom": "\tNatalie Shand <NShand@condenast.co.uk>@ENRON  \n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 59,
+         "rawfrom": "Vladi.Pimenov@enron.com [mailto:Vladi.Pimenov@enron.com]\n",
+         "source": "email",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 92,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 100,
+         "rawfrom": "Vladi.Pimenov@enron.com [mailto:Vladi.Pimenov@enron.com]\n",
+         "source": "email",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 125,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 146,
+         "rawfrom": "Vladi.Pimenov@enron.com [mailto:Vladi.Pimenov@enron.com]\n",
+         "source": "email",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 167,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 175,
+         "rawfrom": "Vladi.Pimenov@enron.com [mailto:Vladi.Pimenov@enron.com]\n",
+         "source": "email",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 192,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 200,
+         "rawfrom": "Vladi.Pimenov@enron.com [mailto:Vladi.Pimenov@enron.com]\n",
+         "source": "email",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 218,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 227,
+         "rawfrom": "Vladi.Pimenov@enron.com\n",
+         "source": "valid",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 246,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 255,
+         "rawfrom": "Vladi.Pimenov@enron.com\n",
+         "source": "valid",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 275,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 284,
+         "rawfrom": "Vladi.Pimenov@enron.com\n",
+         "source": "valid",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 329,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 344,
+         "rawfrom": "Vladi.Pimenov@enron.com\n",
+         "source": "valid",
+         "to": "NShand@condenast.co.uk"
+      },
+      {
+         "from": "nshand@condenast.co.uk",
+         "line": 378,
+         "rawfrom": "  Natalie Shand <NShand@condenast.co.uk>\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/pimenov-v/sent_items/130.",
+   "hops": [
+      {
+         "from": "vladi.pimenov@enron.com",
+         "line": 4,
+         "rawfrom": "vladi.pimenov@enron.com\r\n",
+         "source": "valid",
+         "to": "csilva@uamericas.edu.ec"
+      },
+      {
+         "from": "csilva@uamericas.edu.ec",
+         "line": 24,
+         "rawfrom": "\tChristian Silva <csilva@uamericas.edu.ec>@ENRON [mailto:IMCEANOTES-Christian+20Silva+20+3Ccsilva+40uamericas+2Eedu+2Eec+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "csilva@uamericas.edu.ec",
+         "line": 53,
+         "rawfrom": "  Christian Silva <csilva@uamericas.edu.ec>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi"
+      },
+      {
+         "from": "csilva@uamericas.edu.ec",
+         "line": 79,
+         "rawfrom": "  Christian Silva <csilva@uamericas.edu.ec>@ENRON\n",
+         "source": "email",
+         "to": "Pimenov, Vladi; Vladislav Pimenov"
+      }
+   ],
+   "skipped": 0
+}
+]

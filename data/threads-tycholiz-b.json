@@ -1,0 +1,596 @@
+[
+{
+   "file": "/home/jb/maildir/tycholiz-b/inbox/201.",
+   "hops": [
+      {
+         "from": "judy.perdomo@ca.pwcglobal.com",
+         "line": 4,
+         "rawfrom": "judy.perdomo@ca.pwcglobal.com\r\n",
+         "source": "valid",
+         "to": "barry.tycholiz@enron.com"
+      },
+      {
+         "from": "judy.perdomo@ca.pwcglobal.com",
+         "line": 55,
+         "rawfrom": "judy.perdomo@ca.pwcglobal.com\n",
+         "source": "valid",
+         "to": "Tycholiz, Barry"
+      },
+      {
+         "from": "judy.perdomo@ca.pwcglobal.com",
+         "line": 112,
+         "rawfrom": "judy.perdomo@ca.pwcglobal.com\n",
+         "source": "valid",
+         "to": "Tycholiz, Barry"
+      },
+      {
+         "from": "judy.perdomo@ca.pwcglobal.com",
+         "line": 177,
+         "rawfrom": "judy.perdomo@ca.pwcglobal.com\n",
+         "source": "valid",
+         "to": "Tycholiz, Barry"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/tycholiz-b/inbox/210.",
+   "hops": [
+      {
+         "from": "stephanie.miller@enron.com",
+         "line": 4,
+         "rawfrom": "stephanie.miller@enron.com\r\n",
+         "source": "valid",
+         "to": "barry.tycholiz@enron.com"
+      },
+      {
+         "from": "sgross@newportgen.com",
+         "line": 22,
+         "rawfrom": "\t\"Gross, Stephen\" <sgross@newportgen.com>@ENRON [mailto:IMCEANOTES-+22Gross+2C+20Stephen+22+20+3Csgross+40newportgen+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Miller, Stephanie"
+      },
+      {
+         "from": "stephanie.miller@enron.com",
+         "line": 34,
+         "rawfrom": "Stephanie.Miller@enron.com [mailto:Stephanie.Miller@enron.com]\n",
+         "source": "email",
+         "to": "sgross@newportgen.com"
+      },
+      {
+         "from": "sgross@newportgen.com",
+         "line": 48,
+         "rawfrom": "  \"Gross, Stephen\" <sgross@newportgen.com>@ENRON\n",
+         "source": "email",
+         "to": "Miller, Stephanie"
+      },
+      {
+         "from": "stephanie.miller@enron.com",
+         "line": 62,
+         "rawfrom": "Stephanie.Miller@enron.com [mailto:Stephanie.Miller@enron.com]\n",
+         "source": "email",
+         "to": "sgross@newportgen.com"
+      },
+      {
+         "from": "sgross@newportgen.com",
+         "line": 77,
+         "rawfrom": "  \"Gross, Stephen\" <sgross@newportgen.com>@ENRON\n",
+         "source": "email",
+         "to": "Miller, Stephanie"
+      },
+      {
+         "from": "stephanie.miller@enron.com",
+         "line": 93,
+         "rawfrom": "Stephanie.Miller@enron.com [mailto:Stephanie.Miller@enron.com]\n",
+         "source": "email",
+         "to": "sgross@newportgen.com"
+      },
+      {
+         "from": "sgross@newportgen.com",
+         "line": 114,
+         "rawfrom": "  \"Gross, Stephen\" <sgross@newportgen.com>@ENRON\n",
+         "source": "email",
+         "to": "Miller, Stephanie"
+      },
+      {
+         "from": "stephanie.miller@enron.com",
+         "line": 132,
+         "rawfrom": "Miller, Stephanie [mailto:Stephanie.Miller@ENRON.com]\n",
+         "source": "email",
+         "to": "sgross@newportgen.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/tycholiz-b/inbox/344.",
+   "hops": [
+      {
+         "from": "dave.fuller@enron.com",
+         "line": 4,
+         "rawfrom": "dave.fuller@enron.com\r\n",
+         "source": "valid",
+         "to": "barry.tycholiz@enron.com, stephanie.miller@enron.com, mark.whitt@enron.com"
+      },
+      {
+         "from": "barryp@bp.com",
+         "line": 22,
+         "rawfrom": "Barry, Penny [mailto:barryp@bp.com]\n",
+         "source": "email",
+         "to": "Fuller, Dave"
+      },
+      {
+         "from": "dave.fuller@enron.com",
+         "line": 46,
+         "rawfrom": "Fuller, Dave [mailto:Dave.Fuller@enron.com]\n",
+         "source": "email",
+         "to": "Barry, Penny"
+      },
+      {
+         "from": "barryp@bp.com",
+         "line": 70,
+         "rawfrom": "Barry, Penny [mailto:barryp@bp.com]\n",
+         "source": "email",
+         "to": "Fuller, Dave"
+      },
+      {
+         "from": "dave.fuller@enron.com",
+         "line": 90,
+         "rawfrom": "Fuller, Dave [mailto:Dave.Fuller@enron.com]\n",
+         "source": "email",
+         "to": "Barry, Penny"
+      },
+      {
+         "from": "barryp@bp.com",
+         "line": 102,
+         "rawfrom": "Barry, Penny [mailto:barryp@bp.com]\n",
+         "source": "email",
+         "to": "Fuller, Dave"
+      },
+      {
+         "from": "dave.fuller@enron.com",
+         "line": 115,
+         "rawfrom": "Fuller, Dave [mailto:Dave.Fuller@enron.com]\n",
+         "source": "email",
+         "to": "barryp@bp.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/tycholiz-b/inbox/537.",
+   "hops": [
+      {
+         "from": "fildesd@phibro.com",
+         "line": 4,
+         "rawfrom": "fildesd@phibro.com\r\n",
+         "source": "valid",
+         "to": "barry.tycholiz@enron.com"
+      },
+      {
+         "from": "barry.tycholiz@enron.com",
+         "line": 40,
+         "rawfrom": "Tycholiz, Barry [mailto:Barry.Tycholiz@enron.com]\n",
+         "source": "email",
+         "to": "Fildes, David"
+      },
+      {
+         "from": "fildesd@phibro.com",
+         "line": 52,
+         "rawfrom": "Fildes, David [mailto:fildesd@phibro.com]\n",
+         "source": "email",
+         "to": "Tycholiz, Barry"
+      },
+      {
+         "from": "barry.tycholiz@enron.com",
+         "line": 66,
+         "rawfrom": "Tycholiz, Barry [mailto:Barry.Tycholiz@enron.com]\n",
+         "source": "email",
+         "to": "Fildes, David"
+      },
+      {
+         "from": "fildesd@phibro.com",
+         "line": 79,
+         "rawfrom": "Fildes, David [mailto:fildesd@phibro.com]\n",
+         "source": "email",
+         "to": "Cross, Darren; Tycholiz, Barry"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/tycholiz-b/inbox/203.",
+   "hops": [
+      {
+         "from": "info@rockinhighliners.com",
+         "line": 4,
+         "rawfrom": "info@rockinhighliners.com\r\n",
+         "source": "valid",
+         "to": "barry.tycholiz@enron.com"
+      },
+      {
+         "from": "barry.tycholiz@enron.com",
+         "line": 33,
+         "rawfrom": "Tycholiz, Barry [mailto:Barry.Tycholiz@ENRON.com]\n",
+         "source": "email",
+         "to": "info@rockinhighliners.com"
+      },
+      {
+         "from": "info@rockinhighliners.com",
+         "line": 46,
+         "rawfrom": "Rockin' Highliners [mailto:info@rockinhighliners.com]\n",
+         "source": "email",
+         "to": "Tycholiz, Barry"
+      },
+      {
+         "from": "barry.tycholiz@enron.com",
+         "line": 72,
+         "rawfrom": "Tycholiz, Barry [mailto:Barry.Tycholiz@ENRON.com]\n",
+         "source": "email",
+         "to": "info@rockinhighliners.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/tycholiz-b/inbox/236.",
+   "hops": [
+      {
+         "from": "mwailes@equilon.com",
+         "line": 4,
+         "rawfrom": "mwailes@equilon.com\r\n",
+         "source": "valid",
+         "to": "barry.tycholiz@enron.com"
+      },
+      {
+         "from": "barry.tycholiz@enron.com",
+         "line": 40,
+         "rawfrom": "> From:\tTycholiz, Barry [SMTP:Barry.Tycholiz@enron.com]\n",
+         "source": "email",
+         "to": "Wailes M (Michelle)"
+      },
+      {
+         "from": "mwailes@equilon.com",
+         "line": 54,
+         "rawfrom": "Wailes M (Michelle) [mailto:MWailes@equilon.com]\n",
+         "source": "email",
+         "to": "Tycholiz, Barry"
+      },
+      {
+         "from": "barry.tycholiz@enron.com",
+         "line": 73,
+         "rawfrom": "> > From:\tTycholiz, Barry [SMTP:Barry.Tycholiz@enron.com]\n",
+         "source": "email",
+         "to": "Wailes M (Michelle)"
+      },
+      {
+         "from": "mwailes@equilon.com",
+         "line": 94,
+         "rawfrom": "Wailes M (Michelle) [mailto:MWailes@equilon.com]\n",
+         "source": "email",
+         "to": "Tycholiz, Barry"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/tycholiz-b/inbox/373.",
+   "hops": [
+      {
+         "from": "dave.fuller@enron.com",
+         "line": 4,
+         "rawfrom": "dave.fuller@enron.com\r\n",
+         "source": "valid",
+         "to": "barry.tycholiz@enron.com"
+      },
+      {
+         "from": "ameyer@wii.com",
+         "line": 22,
+         "rawfrom": "Alan Meyer [mailto:ameyer@wii.com]\n",
+         "source": "email",
+         "to": "Fuller, Dave"
+      },
+      {
+         "from": "dave.fuller@enron.com",
+         "line": 44,
+         "rawfrom": "\t\tFrom:\tFuller, Dave [mailto:Dave.Fuller@enron.com]\n",
+         "source": "email",
+         "to": "Alan Meyer"
+      },
+      {
+         "from": "ameyer@wii.com",
+         "line": 68,
+         "rawfrom": "Alan Meyer [mailto:ameyer@wii.com]\n",
+         "source": "email",
+         "to": "Fuller, Dave"
+      },
+      {
+         "from": "ameyer@wii.com",
+         "line": 106,
+         "rawfrom": "Alan Meyer [mailto:ameyer@wii.com]\n",
+         "source": "email",
+         "to": "Reynolds, Roger"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/tycholiz-b/deleted_items/139.",
+   "hops": [
+      {
+         "from": "jdmiller@petro-canada.ca",
+         "line": 4,
+         "rawfrom": "jdmiller@petro-canada.ca\r\n",
+         "source": "valid",
+         "to": "barry.tycholiz@enron.com"
+      },
+      {
+         "from": "barry.tycholiz@enron.com",
+         "line": 31,
+         "rawfrom": "Tycholiz, Barry [mailto:Barry.Tycholiz@ENRON.com]\n",
+         "source": "email",
+         "to": "Miller, John D."
+      },
+      {
+         "from": "jdmiller@petro-canada.ca",
+         "line": 63,
+         "rawfrom": "Miller, John D. [mailto:JDMILLER@petro-canada.ca]\n",
+         "source": "email",
+         "to": "Tycholiz, Barry"
+      },
+      {
+         "from": "barry.tycholiz@enron.com",
+         "line": 92,
+         "rawfrom": "Tycholiz, Barry [mailto:Barry.Tycholiz@ENRON.com]\n",
+         "source": "email",
+         "to": "Miller, John D."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/tycholiz-b/deleted_items/85.",
+   "hops": [
+      {
+         "from": "dave.fuller@enron.com",
+         "line": 4,
+         "rawfrom": "dave.fuller@enron.com\r\n",
+         "source": "valid",
+         "to": "ameyer@wii.com"
+      },
+      {
+         "from": "ameyer@wii.com",
+         "line": 28,
+         "rawfrom": "Alan Meyer [mailto:ameyer@wii.com]\n",
+         "source": "email",
+         "to": "Fuller, Dave"
+      },
+      {
+         "from": "dave.fuller@enron.com",
+         "line": 47,
+         "rawfrom": "\t\tFrom:\tFuller, Dave [mailto:Dave.Fuller@enron.com]\n",
+         "source": "email",
+         "to": "Alan Meyer"
+      },
+      {
+         "from": "ameyer@wii.com",
+         "line": 61,
+         "rawfrom": "Alan Meyer [mailto:ameyer@wii.com]\n",
+         "source": "email",
+         "to": "Reynolds, Roger"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/tycholiz-b/sent_items/387.",
+   "hops": [
+      {
+         "from": "barry.tycholiz@enron.com",
+         "line": 4,
+         "rawfrom": "barry.tycholiz@enron.com\r\n",
+         "source": "valid",
+         "to": "'fildes@enron.com, fildesd@phibro.com"
+      },
+      {
+         "from": "fildesd@phibro.com",
+         "line": 22,
+         "rawfrom": "Fildes, David [mailto:fildesd@phibro.com]\n",
+         "source": "email",
+         "to": "Tycholiz, Barry"
+      },
+      {
+         "from": "barry.tycholiz@enron.com",
+         "line": 35,
+         "rawfrom": "Tycholiz, Barry [mailto:Barry.Tycholiz@enron.com]\n",
+         "source": "email",
+         "to": "Fildes, David"
+      },
+      {
+         "from": "fildesd@phibro.com",
+         "line": 48,
+         "rawfrom": "Fildes, David [mailto:fildesd@phibro.com]\n",
+         "source": "email",
+         "to": "Cross, Darren; Tycholiz, Barry"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/tycholiz-b/sent_items/423.",
+   "hops": [
+      {
+         "from": "barry.tycholiz@enron.com",
+         "line": 4,
+         "rawfrom": "barry.tycholiz@enron.com\r\n",
+         "source": "valid",
+         "to": "'fildes@enron.com, fildesd@phibro.com"
+      },
+      {
+         "from": "fildesd@phibro.com",
+         "line": 24,
+         "rawfrom": "Fildes, David [mailto:fildesd@phibro.com]\n",
+         "source": "email",
+         "to": "Tycholiz, Barry"
+      },
+      {
+         "from": "barry.tycholiz@enron.com",
+         "line": 35,
+         "rawfrom": "Tycholiz, Barry [mailto:Barry.Tycholiz@enron.com]\n",
+         "source": "email",
+         "to": "Fildes, David"
+      },
+      {
+         "from": "fildesd@phibro.com",
+         "line": 57,
+         "rawfrom": "Fildes, David [mailto:fildesd@phibro.com]\n",
+         "source": "email",
+         "to": "Tycholiz, Barry"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/tycholiz-b/sent_items/14.",
+   "hops": [
+      {
+         "from": "barry.tycholiz@enron.com",
+         "line": 4,
+         "rawfrom": "barry.tycholiz@enron.com\r\n",
+         "source": "valid",
+         "to": "mwailes@equilon.com"
+      },
+      {
+         "from": "mwailes@equilon.com",
+         "line": 22,
+         "rawfrom": "Wailes M (Michelle) [mailto:MWailes@equilon.com]\n",
+         "source": "email",
+         "to": "Tycholiz, Barry"
+      },
+      {
+         "from": "barry.tycholiz@enron.com",
+         "line": 49,
+         "rawfrom": "> From:\tTycholiz, Barry [SMTP:Barry.Tycholiz@enron.com]\n",
+         "source": "email",
+         "to": "Wailes M (Michelle)"
+      },
+      {
+         "from": "mwailes@equilon.com",
+         "line": 63,
+         "rawfrom": "Wailes M (Michelle) [mailto:MWailes@equilon.com]\n",
+         "source": "email",
+         "to": "Tycholiz, Barry"
+      },
+      {
+         "from": "barry.tycholiz@enron.com",
+         "line": 82,
+         "rawfrom": "> > From:\tTycholiz, Barry [SMTP:Barry.Tycholiz@enron.com]\n",
+         "source": "email",
+         "to": "Wailes M (Michelle)"
+      },
+      {
+         "from": "mwailes@equilon.com",
+         "line": 103,
+         "rawfrom": "Wailes M (Michelle) [mailto:MWailes@equilon.com]\n",
+         "source": "email",
+         "to": "Tycholiz, Barry"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/tycholiz-b/sent_items/210.",
+   "hops": [
+      {
+         "from": "barry.tycholiz@enron.com",
+         "line": 4,
+         "rawfrom": "barry.tycholiz@enron.com\r\n",
+         "source": "valid",
+         "to": "lisa.doig@oemi.com"
+      },
+      {
+         "from": "lisa.doig@oemi.com",
+         "line": 34,
+         "rawfrom": "Lisa Doig [mailto:lisa.doIg@OEMI.COM]\n",
+         "source": "email",
+         "to": "Tycholiz, Barry"
+      },
+      {
+         "from": "barry.tycholiz@enron.com",
+         "line": 53,
+         "rawfrom": "Tycholiz, Barry [mailto:Barry.Tycholiz@ENRON.com]\n",
+         "source": "email",
+         "to": "Lisa Doig"
+      },
+      {
+         "from": "lisa.doig@oemi.com",
+         "line": 88,
+         "rawfrom": "Lisa Doig [mailto:lisa.doIg@OEMI.COM]\n",
+         "source": "email",
+         "to": "'btychol@ect.enron.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/tycholiz-b/sent_items/388.",
+   "hops": [
+      {
+         "from": "barry.tycholiz@enron.com",
+         "line": 4,
+         "rawfrom": "barry.tycholiz@enron.com\r\n",
+         "source": "valid",
+         "to": "'fildes@enron.com, fildesd@phibro.com"
+      },
+      {
+         "from": "fildesd@phibro.com",
+         "line": 28,
+         "rawfrom": "Fildes, David [mailto:fildesd@phibro.com]\n",
+         "source": "email",
+         "to": "Tycholiz, Barry"
+      },
+      {
+         "from": "barry.tycholiz@enron.com",
+         "line": 56,
+         "rawfrom": "Tycholiz, Barry [mailto:Barry.Tycholiz@enron.com]\n",
+         "source": "email",
+         "to": "Fildes, David"
+      },
+      {
+         "from": "fildesd@phibro.com",
+         "line": 68,
+         "rawfrom": "Fildes, David [mailto:fildesd@phibro.com]\n",
+         "source": "email",
+         "to": "Tycholiz, Barry"
+      },
+      {
+         "from": "barry.tycholiz@enron.com",
+         "line": 82,
+         "rawfrom": "Tycholiz, Barry [mailto:Barry.Tycholiz@enron.com]\n",
+         "source": "email",
+         "to": "Fildes, David"
+      },
+      {
+         "from": "fildesd@phibro.com",
+         "line": 95,
+         "rawfrom": "Fildes, David [mailto:fildesd@phibro.com]\n",
+         "source": "email",
+         "to": "Cross, Darren; Tycholiz, Barry"
+      }
+   ],
+   "skipped": 1
+}
+]

@@ -1,0 +1,2122 @@
+[
+{
+   "file": "/home/jb/maildir/kean-s/all_documents/6271.",
+   "hops": [
+      {
+         "from": "susan.mara@enron.com",
+         "line": 4,
+         "rawfrom": "susan.mara@enron.com\r\n",
+         "source": "valid",
+         "to": "alan.comnes@enron.com, angela.schwarz@enron.com, beverly.aden@enron.com,"
+      },
+      {
+         "from": "difellman@energy-law-group.com",
+         "line": 108,
+         "rawfrom": "Diane Fellman <difellman@energy-law-group.com>\n",
+         "source": "email",
+         "to": "Carol Hudson (E-mail) <chudson@iepa.com>; Steven Kelly (E-mail)"
+      },
+      {
+         "from": "wvm3@pge.com",
+         "line": 136,
+         "rawfrom": "Manheim, William (Law) [mailto:WVM3@pge.com]\n",
+         "source": "email",
+         "to": "'difellman@energy-law-group.com'"
+      },
+      {
+         "from": "mpa@aelaw.com",
+         "line": 145,
+         "rawfrom": "Michael Alcantar [mailto:mpa@aelaw.com]\n",
+         "source": "email",
+         "to": "Kugelman, Richard; Hapner, Dede; Manheim, William (Law); Reid, Alice"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/all_documents/600.",
+   "hops": [
+      {
+         "from": "pwarren@rice.edu",
+         "line": 4,
+         "rawfrom": "pwarren@rice.edu\r\n",
+         "source": "valid",
+         "to": "skean@enron.com"
+      },
+      {
+         "from": "mailer-daemon@ruf.rice.edu",
+         "line": 19,
+         "rawfrom": "Mail Delivery Subsystem <MAILER-DAEMON@ruf.rice.edu>\n",
+         "source": "email",
+         "to": "<pwarren@rice.edu>"
+      },
+      {
+         "from": "steve.kean@enron.com",
+         "line": 31,
+         "rawfrom": "steve.kean@enron.com",
+         "source": "valid",
+         "to": "<steve.kean@enron.com>"
+      },
+      {
+         "from": "pwarren@imap.ruf.rice.edu",
+         "line": 45,
+         "rawfrom": "pwarren@imap.ruf.rice.edu",
+         "source": "valid",
+         "to": "kenneth.lay@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/all_documents/436.",
+   "hops": [
+      {
+         "from": "ann.schmidt@enron.com",
+         "line": 4,
+         "rawfrom": "ann.schmidt@enron.com\r\n",
+         "source": "valid",
+         "to": "steven.kean@enron.com, mark.palmer@enron.com"
+      },
+      {
+         "from": "rhollas@darlinghomes.com",
+         "line": 47,
+         "rawfrom": "    \"Rebecca Hollas\" <rhollas@darlinghomes.com> AT TIME_INC\n",
+         "source": "email",
+         "to": "Kristen Bumgardner AT TIBHSPC3"
+      },
+      {
+         "from": "rhollas@darlinghomes.com",
+         "line": 48,
+         "rawfrom": "rhollas@darlinghomes.com",
+         "source": "valid",
+         "to": "\"Laura Slough\" <lslough@darlinghomes.com> AT TIME_INC"
+      },
+      {
+         "from": "rhollas@darlinghomes.com",
+         "line": 49,
+         "rawfrom": "rhollas@darlinghomes.com",
+         "source": "valid",
+         "to": "\"Maureen (E-mail)\" <mblair@lennar.com> AT TIME_INC"
+      },
+      {
+         "from": "rhollas@darlinghomes.com",
+         "line": 50,
+         "rawfrom": "rhollas@darlinghomes.com",
+         "source": "valid",
+         "to": "\"Ashley (E-mail)\" <ashham64@hotmail.com> AT TIME_INC"
+      },
+      {
+         "from": "lslough@darlinghomes.com",
+         "line": 51,
+         "rawfrom": "lslough@darlinghomes.com",
+         "source": "valid",
+         "to": "\"Shell (E-mail)\" <Shelvis59@yahoo.com> AT TIME_INC"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/all_documents/2091.",
+   "hops": [
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 4,
+         "rawfrom": "gfoster@antigenics.com\r\n",
+         "source": "valid",
+         "to": "rshapiro@enron.com, skean@enron.com"
+      },
+      {
+         "from": "mark.halperin@abc.com",
+         "line": 49,
+         "rawfrom": "Halperin, Mark [mailto:Mark.Halperin@abc.com]\n",
+         "source": "email",
+         "to": "'Foster, Gary'"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 64,
+         "rawfrom": "Foster, Gary [mailto:GFoster@Antigenics.com]\n",
+         "source": "email",
+         "to": "Halperin, Mark"
+      },
+      {
+         "from": "mark.halperin@abc.com",
+         "line": 86,
+         "rawfrom": "Halperin, Mark [mailto:Mark.Halperin@abc.com]\n",
+         "source": "email",
+         "to": "'Foster, Gary'"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 118,
+         "rawfrom": "Foster, Gary [mailto:GFoster@Antigenics.com]\n",
+         "source": "email",
+         "to": "Halperin, Mark"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/all_documents/5799.",
+   "hops": [
+      {
+         "from": "richard.shapiro@enron.com",
+         "line": 4,
+         "rawfrom": "richard.shapiro@enron.com\r\n",
+         "source": "valid",
+         "to": "susan.mara@enron.com"
+      },
+      {
+         "from": "zalaywan@caiso.com",
+         "line": 91,
+         "rawfrom": "\"Alaywan, Ziad\" <ZAlaywan@caiso.com>\n",
+         "source": "email",
+         "to": "\"Mara, Sue\" <Susan.J.Mara@enron.com>, \"Mara, Sue\" <smara@enron.com>"
+      },
+      {
+         "from": "alexp@eccointl.com",
+         "line": 104,
+         "rawfrom": "Alex Papalexopoulos [mailto:alexp@eccointl.com]\n",
+         "source": "email",
+         "to": "Alaywan, Ziad; Atkins, Sean; Kristov, Lorenzo; Kelley, Kristen;"
+      },
+      {
+         "from": "shams_siddiqi@hotmail.com",
+         "line": 135,
+         "rawfrom": "Shams Siddiqi [mailto:shams_siddiqi@hotmail.com]\n",
+         "source": "email",
+         "to": "Gregory Ioanidis"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/all_documents/11352.",
+   "hops": [
+      {
+         "from": "richard.shapiro@enron.com",
+         "line": 4,
+         "rawfrom": "richard.shapiro@enron.com\r\n",
+         "source": "valid",
+         "to": "steven.kean@enron.com"
+      },
+      {
+         "from": "brian.raggett@ogp.be",
+         "line": 191,
+         "rawfrom": "\"Raggett, Brian\" <Brian.Raggett@ogp.be>\n",
+         "source": "email",
+         "to": "\"'Joe.hillings@enron.com'\" <Joe.hillings@enron.com>"
+      },
+      {
+         "from": "lyn.arscott@ogp.org.uk",
+         "line": 244,
+         "rawfrom": "Arscott, Lyn [SMTP:Lyn.Arscott@ogp.org.uk]\n",
+         "source": "email",
+         "to": "Raggett, Brian"
+      },
+      {
+         "from": "joe.hillings@enron.com",
+         "line": 252,
+         "rawfrom": "Joe.Hillings@enron.com [mailto:Joe.Hillings@enron.com]\n",
+         "source": "email",
+         "to": "Lyn.Arscott@ogp.org.uk"
+      },
+      {
+         "from": "lora.sullivan@enron.com",
+         "line": 388,
+         "rawfrom": "Lora.Sullivan@enron.com [mailto:Lora.Sullivan@enron.com]\n",
+         "source": "email",
+         "to": "Lyn.Arscott%ogp.org.uk.@enron.com"
+      }
+   ],
+   "skipped": 11
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/all_documents/599.",
+   "hops": [
+      {
+         "from": "amy.fabian@enron.com",
+         "line": 4,
+         "rawfrom": "amy.fabian@enron.com\r\n",
+         "source": "valid",
+         "to": "steven.kean@enron.com"
+      },
+      {
+         "from": "spainter@fontheiminternational.com",
+         "line": 57,
+         "rawfrom": "Sally Painter <SPainter@fontheiminternational.com>\n",
+         "source": "email",
+         "to": "Rhonda Russell <RRussell@fontheiminternational.com>"
+      },
+      {
+         "from": "spainter@fontheiminternational.com",
+         "line": 187,
+         "rawfrom": "Sally Painter <SPainter@fontheiminternational.com>\n",
+         "source": "email",
+         "to": "Rhonda Russell <RRussell@fontheiminternational.com>"
+      },
+      {
+         "from": "spainter@fontheiminternational.com",
+         "line": 366,
+         "rawfrom": "Sally Painter <SPainter@fontheiminternational.com>\n",
+         "source": "email",
+         "to": "Claude Fontheim; 'David Milenthal'; 'Frank Cipriano'; 'Mark"
+      },
+      {
+         "from": "spainter@fontheiminternational.com",
+         "line": 378,
+         "rawfrom": "Sally Painter <SPainter@fontheiminternational.com>\n",
+         "source": "email",
+         "to": "Rhonda Russell <RRussell@fontheiminternational.com>"
+      },
+      {
+         "from": "spainter@fontheiminternational.com",
+         "line": 544,
+         "rawfrom": "Sally Painter <SPainter@fontheiminternational.com>\n",
+         "source": "email",
+         "to": "Rhonda Russell <RRussell@fontheiminternational.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/all_documents/2115.",
+   "hops": [
+      {
+         "from": "steven.kean@enron.com",
+         "line": 4,
+         "rawfrom": "steven.kean@enron.com\r\n",
+         "source": "valid",
+         "to": "gfoster@antigenics.com"
+      },
+      {
+         "from": "richard.shapiro@enron.com",
+         "line": 53,
+         "rawfrom": "Richard.Shapiro@enron.com [mailto:Richard.Shapiro@enron.com]\n",
+         "source": "email",
+         "to": "Foster, Gary"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 69,
+         "rawfrom": "\"Foster, Gary\" <GFoster@Antigenics.com> on 11/30/2000 08:07:18 AM\n",
+         "source": "email",
+         "to": "\"Rick and Amy Shapiro (E-mail)\" <rshapiro@enron.com>, \"Steve and"
+      },
+      {
+         "from": "mark.halperin@abc.com",
+         "line": 108,
+         "rawfrom": "Halperin, Mark [mailto:Mark.Halperin@abc.com]\n",
+         "source": "email",
+         "to": "'Foster, Gary'"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 123,
+         "rawfrom": "Foster, Gary [mailto:GFoster@Antigenics.com]\n",
+         "source": "email",
+         "to": "Halperin, Mark"
+      },
+      {
+         "from": "mark.halperin@abc.com",
+         "line": 147,
+         "rawfrom": "Halperin, Mark [mailto:Mark.Halperin@abc.com]\n",
+         "source": "email",
+         "to": "'Foster, Gary'"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 180,
+         "rawfrom": "Foster, Gary [mailto:GFoster@Antigenics.com]\n",
+         "source": "email",
+         "to": "Halperin, Mark"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/sent/586.",
+   "hops": [
+      {
+         "from": "steven.kean@enron.com",
+         "line": 4,
+         "rawfrom": "steven.kean@enron.com\r\n",
+         "source": "valid",
+         "to": "gfoster@antigenics.com"
+      },
+      {
+         "from": "richard.shapiro@enron.com",
+         "line": 53,
+         "rawfrom": "Richard.Shapiro@enron.com [mailto:Richard.Shapiro@enron.com]\n",
+         "source": "email",
+         "to": "Foster, Gary"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 69,
+         "rawfrom": "\"Foster, Gary\" <GFoster@Antigenics.com> on 11/30/2000 08:07:18 AM\n",
+         "source": "email",
+         "to": "\"Rick and Amy Shapiro (E-mail)\" <rshapiro@enron.com>, \"Steve and"
+      },
+      {
+         "from": "mark.halperin@abc.com",
+         "line": 108,
+         "rawfrom": "Halperin, Mark [mailto:Mark.Halperin@abc.com]\n",
+         "source": "email",
+         "to": "'Foster, Gary'"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 123,
+         "rawfrom": "Foster, Gary [mailto:GFoster@Antigenics.com]\n",
+         "source": "email",
+         "to": "Halperin, Mark"
+      },
+      {
+         "from": "mark.halperin@abc.com",
+         "line": 147,
+         "rawfrom": "Halperin, Mark [mailto:Mark.Halperin@abc.com]\n",
+         "source": "email",
+         "to": "'Foster, Gary'"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 180,
+         "rawfrom": "Foster, Gary [mailto:GFoster@Antigenics.com]\n",
+         "source": "email",
+         "to": "Halperin, Mark"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/notes_inbox/46.",
+   "hops": [
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 4,
+         "rawfrom": "gfoster@antigenics.com\r\n",
+         "source": "valid",
+         "to": "rshapiro@enron.com, skean@enron.com"
+      },
+      {
+         "from": "mark.halperin@abc.com",
+         "line": 49,
+         "rawfrom": "Halperin, Mark [mailto:Mark.Halperin@abc.com]\n",
+         "source": "email",
+         "to": "'Foster, Gary'"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 64,
+         "rawfrom": "Foster, Gary [mailto:GFoster@Antigenics.com]\n",
+         "source": "email",
+         "to": "Halperin, Mark"
+      },
+      {
+         "from": "mark.halperin@abc.com",
+         "line": 86,
+         "rawfrom": "Halperin, Mark [mailto:Mark.Halperin@abc.com]\n",
+         "source": "email",
+         "to": "'Foster, Gary'"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 118,
+         "rawfrom": "Foster, Gary [mailto:GFoster@Antigenics.com]\n",
+         "source": "email",
+         "to": "Halperin, Mark"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/dynegy_transaction/13.",
+   "hops": [
+      {
+         "from": ".palmer@enron.com",
+         "line": 4,
+         "rawfrom": "pr <.palmer@enron.com>\r\n",
+         "source": "email",
+         "to": "jeffrey.mcmahon@enron.com, raymond.bowen@enron.com, mark.koenig@enron.com,"
+      },
+      {
+         "from": "mbuckley@brunswickgroup.com",
+         "line": 22,
+         "rawfrom": "Michael Buckley [mailto:MBUCKLEY@BrunswickGroup.com]\n",
+         "source": "email",
+         "to": "Palmer, Mark A. (PR); Steve Lipin; Tim Payne"
+      },
+      {
+         "from": "mark.palmer@enron.com",
+         "line": 37,
+         "rawfrom": "Palmer, Mark A. (PR) [mailto:Mark.Palmer@ENRON.com]\n",
+         "source": "email",
+         "to": "Michael Buckley"
+      },
+      {
+         "from": "mbuckley@brunswickgroup.com",
+         "line": 46,
+         "rawfrom": "Michael Buckley [mailto:MBUCKLEY@BrunswickGroup.com]\n",
+         "source": "email",
+         "to": "Palmer, Mark A. (PR)"
+      },
+      {
+         "from": "mark.palmer@enron.com",
+         "line": 58,
+         "rawfrom": "Palmer, Mark A. (PR) [mailto:Mark.Palmer@ENRON.com]\n",
+         "source": "email",
+         "to": "Michael Buckley"
+      },
+      {
+         "from": "mbuckley@brunswickgroup.com",
+         "line": 67,
+         "rawfrom": "Michael Buckley [mailto:MBUCKLEY@BrunswickGroup.com]\n",
+         "source": "email",
+         "to": "Palmer, Mark A. (PR)"
+      },
+      {
+         "from": "deborah.fiorito@dynegy.com",
+         "line": 99,
+         "rawfrom": "Deborah.Fiorito@dynegy.com [mailto:Deborah.Fiorito@dynegy.com]\n",
+         "source": "email",
+         "to": "Steve Lipin"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/archiving/untitled/1728.",
+   "hops": [
+      {
+         "from": "pwarren@rice.edu",
+         "line": 4,
+         "rawfrom": "pwarren@rice.edu\r\n",
+         "source": "valid",
+         "to": "skean@enron.com"
+      },
+      {
+         "from": "mailer-daemon@ruf.rice.edu",
+         "line": 19,
+         "rawfrom": "Mail Delivery Subsystem <MAILER-DAEMON@ruf.rice.edu>\n",
+         "source": "email",
+         "to": "<pwarren@rice.edu>"
+      },
+      {
+         "from": "steve.kean@enron.com",
+         "line": 31,
+         "rawfrom": "steve.kean@enron.com",
+         "source": "valid",
+         "to": "<steve.kean@enron.com>"
+      },
+      {
+         "from": "pwarren@imap.ruf.rice.edu",
+         "line": 45,
+         "rawfrom": "pwarren@imap.ruf.rice.edu",
+         "source": "valid",
+         "to": "kenneth.lay@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/archiving/untitled/1891.",
+   "hops": [
+      {
+         "from": "ann.schmidt@enron.com",
+         "line": 4,
+         "rawfrom": "ann.schmidt@enron.com\r\n",
+         "source": "valid",
+         "to": "steven.kean@enron.com, mark.palmer@enron.com"
+      },
+      {
+         "from": "rhollas@darlinghomes.com",
+         "line": 47,
+         "rawfrom": "    \"Rebecca Hollas\" <rhollas@darlinghomes.com> AT TIME_INC\n",
+         "source": "email",
+         "to": "Kristen Bumgardner AT TIBHSPC3"
+      },
+      {
+         "from": "rhollas@darlinghomes.com",
+         "line": 48,
+         "rawfrom": "rhollas@darlinghomes.com",
+         "source": "valid",
+         "to": "\"Laura Slough\" <lslough@darlinghomes.com> AT TIME_INC"
+      },
+      {
+         "from": "rhollas@darlinghomes.com",
+         "line": 49,
+         "rawfrom": "rhollas@darlinghomes.com",
+         "source": "valid",
+         "to": "\"Maureen (E-mail)\" <mblair@lennar.com> AT TIME_INC"
+      },
+      {
+         "from": "rhollas@darlinghomes.com",
+         "line": 50,
+         "rawfrom": "rhollas@darlinghomes.com",
+         "source": "valid",
+         "to": "\"Ashley (E-mail)\" <ashham64@hotmail.com> AT TIME_INC"
+      },
+      {
+         "from": "lslough@darlinghomes.com",
+         "line": 51,
+         "rawfrom": "lslough@darlinghomes.com",
+         "source": "valid",
+         "to": "\"Shell (E-mail)\" <Shelvis59@yahoo.com> AT TIME_INC"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/archiving/untitled/6270.",
+   "hops": [
+      {
+         "from": "susan.mara@enron.com",
+         "line": 4,
+         "rawfrom": "susan.mara@enron.com\r\n",
+         "source": "valid",
+         "to": "alan.comnes@enron.com, angela.schwarz@enron.com, beverly.aden@enron.com,"
+      },
+      {
+         "from": "difellman@energy-law-group.com",
+         "line": 108,
+         "rawfrom": "Diane Fellman <difellman@energy-law-group.com>\n",
+         "source": "email",
+         "to": "Carol Hudson (E-mail) <chudson@iepa.com>; Steven Kelly (E-mail)"
+      },
+      {
+         "from": "wvm3@pge.com",
+         "line": 136,
+         "rawfrom": "Manheim, William (Law) [mailto:WVM3@pge.com]\n",
+         "source": "email",
+         "to": "'difellman@energy-law-group.com'"
+      },
+      {
+         "from": "mpa@aelaw.com",
+         "line": 145,
+         "rawfrom": "Michael Alcantar [mailto:mpa@aelaw.com]\n",
+         "source": "email",
+         "to": "Kugelman, Richard; Hapner, Dede; Manheim, William (Law); Reid, Alice"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/archiving/untitled/212.",
+   "hops": [
+      {
+         "from": "steven.kean@enron.com",
+         "line": 4,
+         "rawfrom": "steven.kean@enron.com\r\n",
+         "source": "valid",
+         "to": "gfoster@antigenics.com"
+      },
+      {
+         "from": "richard.shapiro@enron.com",
+         "line": 53,
+         "rawfrom": "Richard.Shapiro@enron.com [mailto:Richard.Shapiro@enron.com]\n",
+         "source": "email",
+         "to": "Foster, Gary"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 69,
+         "rawfrom": "\"Foster, Gary\" <GFoster@Antigenics.com> on 11/30/2000 08:07:18 AM\n",
+         "source": "email",
+         "to": "\"Rick and Amy Shapiro (E-mail)\" <rshapiro@enron.com>, \"Steve and"
+      },
+      {
+         "from": "mark.halperin@abc.com",
+         "line": 108,
+         "rawfrom": "Halperin, Mark [mailto:Mark.Halperin@abc.com]\n",
+         "source": "email",
+         "to": "'Foster, Gary'"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 123,
+         "rawfrom": "Foster, Gary [mailto:GFoster@Antigenics.com]\n",
+         "source": "email",
+         "to": "Halperin, Mark"
+      },
+      {
+         "from": "mark.halperin@abc.com",
+         "line": 147,
+         "rawfrom": "Halperin, Mark [mailto:Mark.Halperin@abc.com]\n",
+         "source": "email",
+         "to": "'Foster, Gary'"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 180,
+         "rawfrom": "Foster, Gary [mailto:GFoster@Antigenics.com]\n",
+         "source": "email",
+         "to": "Halperin, Mark"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/archiving/untitled/11352.",
+   "hops": [
+      {
+         "from": "richard.shapiro@enron.com",
+         "line": 4,
+         "rawfrom": "richard.shapiro@enron.com\r\n",
+         "source": "valid",
+         "to": "steven.kean@enron.com"
+      },
+      {
+         "from": "brian.raggett@ogp.be",
+         "line": 191,
+         "rawfrom": "\"Raggett, Brian\" <Brian.Raggett@ogp.be>\n",
+         "source": "email",
+         "to": "\"'Joe.hillings@enron.com'\" <Joe.hillings@enron.com>"
+      },
+      {
+         "from": "lyn.arscott@ogp.org.uk",
+         "line": 244,
+         "rawfrom": "Arscott, Lyn [SMTP:Lyn.Arscott@ogp.org.uk]\n",
+         "source": "email",
+         "to": "Raggett, Brian"
+      },
+      {
+         "from": "joe.hillings@enron.com",
+         "line": 252,
+         "rawfrom": "Joe.Hillings@enron.com [mailto:Joe.Hillings@enron.com]\n",
+         "source": "email",
+         "to": "Lyn.Arscott@ogp.org.uk"
+      },
+      {
+         "from": "lora.sullivan@enron.com",
+         "line": 388,
+         "rawfrom": "Lora.Sullivan@enron.com [mailto:Lora.Sullivan@enron.com]\n",
+         "source": "email",
+         "to": "Lyn.Arscott%ogp.org.uk.@enron.com"
+      }
+   ],
+   "skipped": 11
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/archiving/untitled/5798.",
+   "hops": [
+      {
+         "from": "richard.shapiro@enron.com",
+         "line": 4,
+         "rawfrom": "richard.shapiro@enron.com\r\n",
+         "source": "valid",
+         "to": "susan.mara@enron.com"
+      },
+      {
+         "from": "zalaywan@caiso.com",
+         "line": 91,
+         "rawfrom": "\"Alaywan, Ziad\" <ZAlaywan@caiso.com>\n",
+         "source": "email",
+         "to": "\"Mara, Sue\" <Susan.J.Mara@enron.com>, \"Mara, Sue\" <smara@enron.com>"
+      },
+      {
+         "from": "alexp@eccointl.com",
+         "line": 104,
+         "rawfrom": "Alex Papalexopoulos [mailto:alexp@eccointl.com]\n",
+         "source": "email",
+         "to": "Alaywan, Ziad; Atkins, Sean; Kristov, Lorenzo; Kelley, Kristen;"
+      },
+      {
+         "from": "shams_siddiqi@hotmail.com",
+         "line": 135,
+         "rawfrom": "Shams Siddiqi [mailto:shams_siddiqi@hotmail.com]\n",
+         "source": "email",
+         "to": "Gregory Ioanidis"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/archiving/untitled/1729.",
+   "hops": [
+      {
+         "from": "amy.fabian@enron.com",
+         "line": 4,
+         "rawfrom": "amy.fabian@enron.com\r\n",
+         "source": "valid",
+         "to": "steven.kean@enron.com"
+      },
+      {
+         "from": "spainter@fontheiminternational.com",
+         "line": 57,
+         "rawfrom": "Sally Painter <SPainter@fontheiminternational.com>\n",
+         "source": "email",
+         "to": "Rhonda Russell <RRussell@fontheiminternational.com>"
+      },
+      {
+         "from": "spainter@fontheiminternational.com",
+         "line": 187,
+         "rawfrom": "Sally Painter <SPainter@fontheiminternational.com>\n",
+         "source": "email",
+         "to": "Rhonda Russell <RRussell@fontheiminternational.com>"
+      },
+      {
+         "from": "spainter@fontheiminternational.com",
+         "line": 366,
+         "rawfrom": "Sally Painter <SPainter@fontheiminternational.com>\n",
+         "source": "email",
+         "to": "Claude Fontheim; 'David Milenthal'; 'Frank Cipriano'; 'Mark"
+      },
+      {
+         "from": "spainter@fontheiminternational.com",
+         "line": 378,
+         "rawfrom": "Sally Painter <SPainter@fontheiminternational.com>\n",
+         "source": "email",
+         "to": "Rhonda Russell <RRussell@fontheiminternational.com>"
+      },
+      {
+         "from": "spainter@fontheiminternational.com",
+         "line": 544,
+         "rawfrom": "Sally Painter <SPainter@fontheiminternational.com>\n",
+         "source": "email",
+         "to": "Rhonda Russell <RRussell@fontheiminternational.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/archiving/untitled/236.",
+   "hops": [
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 4,
+         "rawfrom": "gfoster@antigenics.com\r\n",
+         "source": "valid",
+         "to": "rshapiro@enron.com, skean@enron.com"
+      },
+      {
+         "from": "mark.halperin@abc.com",
+         "line": 49,
+         "rawfrom": "Halperin, Mark [mailto:Mark.Halperin@abc.com]\n",
+         "source": "email",
+         "to": "'Foster, Gary'"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 64,
+         "rawfrom": "Foster, Gary [mailto:GFoster@Antigenics.com]\n",
+         "source": "email",
+         "to": "Halperin, Mark"
+      },
+      {
+         "from": "mark.halperin@abc.com",
+         "line": 86,
+         "rawfrom": "Halperin, Mark [mailto:Mark.Halperin@abc.com]\n",
+         "source": "email",
+         "to": "'Foster, Gary'"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 118,
+         "rawfrom": "Foster, Gary [mailto:GFoster@Antigenics.com]\n",
+         "source": "email",
+         "to": "Halperin, Mark"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/pge/202.",
+   "hops": [
+      {
+         "from": "paul.kaufman@enron.com",
+         "line": 4,
+         "rawfrom": "paul.kaufman@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.metts@enron.com, jessica.uhl@enron.com, paul.puchot@enron.com,"
+      },
+      {
+         "from": "marc.hellman@state.or.us",
+         "line": 23,
+         "rawfrom": "HELLMAN Marc [mailto:marc.hellman@state.or.us]\n",
+         "source": "email",
+         "to": "Kaufman, Paul"
+      },
+      {
+         "from": "paul.kaufman@enron.com",
+         "line": 32,
+         "rawfrom": "Kaufman, Paul [mailto:Paul.Kaufman@ENRON.com]\n",
+         "source": "email",
+         "to": "HELLMAN Marc"
+      },
+      {
+         "from": "marc.hellman@state.or.us",
+         "line": 62,
+         "rawfrom": "HELLMAN Marc [mailto:marc.hellman@state.or.us]\n",
+         "source": "email",
+         "to": "'Ackerman, Susan'; Mike Morgan (E-mail); Lesh, Pamela; Kaufman, Paul"
+      },
+      {
+         "from": "ska@nwnatural.com",
+         "line": 79,
+         "rawfrom": "Ackerman, Susan [mailto:ska@nwnatural.com]\n",
+         "source": "email",
+         "to": "Bob Jenks (E-mail); Bonnie Tatom (E-mail); Ed Finklea (E-mail);"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/deleted_items/452.",
+   "hops": [
+      {
+         "from": "mark.pickering@enron.com",
+         "line": 4,
+         "rawfrom": "mark.pickering@enron.com\r\n",
+         "source": "valid",
+         "to": "j..kean@enron.com"
+      },
+      {
+         "from": "cvanpelt@gigaweb.com",
+         "line": 30,
+         "rawfrom": "Van Pelt, Chris [mailto:CVanPelt@gigaweb.com]\r\n",
+         "source": "email",
+         "to": "Pickering, Mark"
+      },
+      {
+         "from": "mark.pickering@enron.com",
+         "line": 171,
+         "rawfrom": "Pickering, Mark [mailto:Mark.Pickering@Enron.com]\r\n",
+         "source": "email",
+         "to": "Van Pelt, Chris"
+      },
+      {
+         "from": "cvanpelt@gigaweb.com",
+         "line": 209,
+         "rawfrom": "Van Pelt, Chris [mailto:CVanPelt@gigaweb.com]\r\n",
+         "source": "email",
+         "to": "Pickering, Mark"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/deleted_items/414.",
+   "hops": [
+      {
+         "from": "rkean@starband.net",
+         "line": 4,
+         "rawfrom": "rkean@starband.net\r\n",
+         "source": "valid",
+         "to": "j..kean@enron.com"
+      },
+      {
+         "from": "steve.kean@enron.com",
+         "line": 22,
+         "rawfrom": "Kean, Steven J. [mailto:steve.kean@enron.com] \n",
+         "source": "email",
+         "to": "Robert Kean"
+      },
+      {
+         "from": "rkean@starband.net",
+         "line": 31,
+         "rawfrom": "Robert Kean [mailto:rkean@starband.net]\n",
+         "source": "email",
+         "to": "Kean, Steven J."
+      },
+      {
+         "from": "steve.kean@enron.com",
+         "line": 40,
+         "rawfrom": "Kean, Steven J. [mailto:steve.kean@enron.com] \n",
+         "source": "email",
+         "to": "Robert Kean"
+      },
+      {
+         "from": "rkean@starband.net",
+         "line": 49,
+         "rawfrom": "Robert Kean [mailto:rkean@starband.net]\n",
+         "source": "email",
+         "to": "Steve & Melissa Kean"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/sent_items/607.",
+   "hops": [
+      {
+         "from": "j..kean@enron.com",
+         "line": 4,
+         "rawfrom": "j..kean@enron.com\r\n",
+         "source": "valid",
+         "to": "slipin@brunswickgroup.com"
+      },
+      {
+         "from": "slipin@brunswickgroup.com",
+         "line": 22,
+         "rawfrom": "Steve Lipin [mailto:slipin@BrunswickGroup.com]\n",
+         "source": "email",
+         "to": "Kean, Steven J."
+      },
+      {
+         "from": "steve.kean@enron.com",
+         "line": 33,
+         "rawfrom": "Kean, Steven J. [mailto:steve.kean@enron.com]\n",
+         "source": "email",
+         "to": "Michael Buckley; Palmer, Mark A. (PR); Steve Lipin; Ellen Gonda; Tim Payne; Lekha Rao"
+      },
+      {
+         "from": "mbuckley@brunswickgroup.com",
+         "line": 45,
+         "rawfrom": "Michael Buckley [mailto:MBUCKLEY@BrunswickGroup.com]\n",
+         "source": "email",
+         "to": "Kean, Steven J.; Palmer, Mark A. (PR); Steve Lipin; Ellen Gonda; Tim Payne; Lekha Rao"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/sent_items/595.",
+   "hops": [
+      {
+         "from": "j..kean@enron.com",
+         "line": 4,
+         "rawfrom": "j..kean@enron.com\r\n",
+         "source": "valid",
+         "to": "rkean@starband.net"
+      },
+      {
+         "from": "rkean@starband.net",
+         "line": 22,
+         "rawfrom": "Robert Kean [mailto:rkean@starband.net]\n",
+         "source": "email",
+         "to": "Kean, Steven J."
+      },
+      {
+         "from": "steve.kean@enron.com",
+         "line": 31,
+         "rawfrom": "Kean, Steven J. [mailto:steve.kean@enron.com] \n",
+         "source": "email",
+         "to": "Robert Kean"
+      },
+      {
+         "from": "rkean@starband.net",
+         "line": 40,
+         "rawfrom": "Robert Kean [mailto:rkean@starband.net]\n",
+         "source": "email",
+         "to": "Steve & Melissa Kean"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/sent_items/594.",
+   "hops": [
+      {
+         "from": "j..kean@enron.com",
+         "line": 4,
+         "rawfrom": "j..kean@enron.com\r\n",
+         "source": "valid",
+         "to": "josh-pekarsky@kekst.com"
+      },
+      {
+         "from": "josh-pekarsky@kekst.com",
+         "line": 24,
+         "rawfrom": "jpekarsky [mailto:josh-pekarsky@KEKST.COM]\n",
+         "source": "email",
+         "to": "Kean, Steven J."
+      },
+      {
+         "from": "steve.kean@enron.com",
+         "line": 36,
+         "rawfrom": "Kean, Steven J. [mailto:steve.kean@enron.com]\n",
+         "source": "email",
+         "to": "jpekarsky"
+      },
+      {
+         "from": "josh-pekarsky@kekst.com",
+         "line": 47,
+         "rawfrom": "jpekarsky [mailto:josh-pekarsky@KEKST.COM]\n",
+         "source": "email",
+         "to": "Kean, Steven J.; Palmer, Mark A. (PR)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/calendar/untitled/600.",
+   "hops": [
+      {
+         "from": "pwarren@rice.edu",
+         "line": 4,
+         "rawfrom": "pwarren@rice.edu\r\n",
+         "source": "valid",
+         "to": "skean@enron.com"
+      },
+      {
+         "from": "mailer-daemon@ruf.rice.edu",
+         "line": 19,
+         "rawfrom": "Mail Delivery Subsystem <MAILER-DAEMON@ruf.rice.edu>\n",
+         "source": "email",
+         "to": "<pwarren@rice.edu>"
+      },
+      {
+         "from": "steve.kean@enron.com",
+         "line": 31,
+         "rawfrom": "steve.kean@enron.com",
+         "source": "valid",
+         "to": "<steve.kean@enron.com>"
+      },
+      {
+         "from": "pwarren@imap.ruf.rice.edu",
+         "line": 45,
+         "rawfrom": "pwarren@imap.ruf.rice.edu",
+         "source": "valid",
+         "to": "kenneth.lay@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/calendar/untitled/436.",
+   "hops": [
+      {
+         "from": "ann.schmidt@enron.com",
+         "line": 4,
+         "rawfrom": "ann.schmidt@enron.com\r\n",
+         "source": "valid",
+         "to": "steven.kean@enron.com, mark.palmer@enron.com"
+      },
+      {
+         "from": "rhollas@darlinghomes.com",
+         "line": 47,
+         "rawfrom": "    \"Rebecca Hollas\" <rhollas@darlinghomes.com> AT TIME_INC\n",
+         "source": "email",
+         "to": "Kristen Bumgardner AT TIBHSPC3"
+      },
+      {
+         "from": "rhollas@darlinghomes.com",
+         "line": 48,
+         "rawfrom": "rhollas@darlinghomes.com",
+         "source": "valid",
+         "to": "\"Laura Slough\" <lslough@darlinghomes.com> AT TIME_INC"
+      },
+      {
+         "from": "rhollas@darlinghomes.com",
+         "line": 49,
+         "rawfrom": "rhollas@darlinghomes.com",
+         "source": "valid",
+         "to": "\"Maureen (E-mail)\" <mblair@lennar.com> AT TIME_INC"
+      },
+      {
+         "from": "rhollas@darlinghomes.com",
+         "line": 50,
+         "rawfrom": "rhollas@darlinghomes.com",
+         "source": "valid",
+         "to": "\"Ashley (E-mail)\" <ashham64@hotmail.com> AT TIME_INC"
+      },
+      {
+         "from": "lslough@darlinghomes.com",
+         "line": 51,
+         "rawfrom": "lslough@darlinghomes.com",
+         "source": "valid",
+         "to": "\"Shell (E-mail)\" <Shelvis59@yahoo.com> AT TIME_INC"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/calendar/untitled/7093.",
+   "hops": [
+      {
+         "from": "susan.mara@enron.com",
+         "line": 4,
+         "rawfrom": "susan.mara@enron.com\r\n",
+         "source": "valid",
+         "to": "alan.comnes@enron.com, angela.schwarz@enron.com, beverly.aden@enron.com,"
+      },
+      {
+         "from": "difellman@energy-law-group.com",
+         "line": 108,
+         "rawfrom": "Diane Fellman <difellman@energy-law-group.com>\n",
+         "source": "email",
+         "to": "Carol Hudson (E-mail) <chudson@iepa.com>; Steven Kelly (E-mail)"
+      },
+      {
+         "from": "wvm3@pge.com",
+         "line": 136,
+         "rawfrom": "Manheim, William (Law) [mailto:WVM3@pge.com]\n",
+         "source": "email",
+         "to": "'difellman@energy-law-group.com'"
+      },
+      {
+         "from": "mpa@aelaw.com",
+         "line": 145,
+         "rawfrom": "Michael Alcantar [mailto:mpa@aelaw.com]\n",
+         "source": "email",
+         "to": "Kugelman, Richard; Hapner, Dede; Manheim, William (Law); Reid, Alice"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/calendar/untitled/2092.",
+   "hops": [
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 4,
+         "rawfrom": "gfoster@antigenics.com\r\n",
+         "source": "valid",
+         "to": "rshapiro@enron.com, skean@enron.com"
+      },
+      {
+         "from": "mark.halperin@abc.com",
+         "line": 49,
+         "rawfrom": "Halperin, Mark [mailto:Mark.Halperin@abc.com]\n",
+         "source": "email",
+         "to": "'Foster, Gary'"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 64,
+         "rawfrom": "Foster, Gary [mailto:GFoster@Antigenics.com]\n",
+         "source": "email",
+         "to": "Halperin, Mark"
+      },
+      {
+         "from": "mark.halperin@abc.com",
+         "line": 86,
+         "rawfrom": "Halperin, Mark [mailto:Mark.Halperin@abc.com]\n",
+         "source": "email",
+         "to": "'Foster, Gary'"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 118,
+         "rawfrom": "Foster, Gary [mailto:GFoster@Antigenics.com]\n",
+         "source": "email",
+         "to": "Halperin, Mark"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/calendar/untitled/7565.",
+   "hops": [
+      {
+         "from": "richard.shapiro@enron.com",
+         "line": 4,
+         "rawfrom": "richard.shapiro@enron.com\r\n",
+         "source": "valid",
+         "to": "susan.mara@enron.com"
+      },
+      {
+         "from": "zalaywan@caiso.com",
+         "line": 91,
+         "rawfrom": "\"Alaywan, Ziad\" <ZAlaywan@caiso.com>\n",
+         "source": "email",
+         "to": "\"Mara, Sue\" <Susan.J.Mara@enron.com>, \"Mara, Sue\" <smara@enron.com>"
+      },
+      {
+         "from": "alexp@eccointl.com",
+         "line": 104,
+         "rawfrom": "Alex Papalexopoulos [mailto:alexp@eccointl.com]\n",
+         "source": "email",
+         "to": "Alaywan, Ziad; Atkins, Sean; Kristov, Lorenzo; Kelley, Kristen;"
+      },
+      {
+         "from": "shams_siddiqi@hotmail.com",
+         "line": 135,
+         "rawfrom": "Shams Siddiqi [mailto:shams_siddiqi@hotmail.com]\n",
+         "source": "email",
+         "to": "Gregory Ioanidis"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/calendar/untitled/10422.",
+   "hops": [
+      {
+         "from": "richard.shapiro@enron.com",
+         "line": 4,
+         "rawfrom": "richard.shapiro@enron.com\r\n",
+         "source": "valid",
+         "to": "steven.kean@enron.com"
+      },
+      {
+         "from": "brian.raggett@ogp.be",
+         "line": 191,
+         "rawfrom": "\"Raggett, Brian\" <Brian.Raggett@ogp.be>\n",
+         "source": "email",
+         "to": "\"'Joe.hillings@enron.com'\" <Joe.hillings@enron.com>"
+      },
+      {
+         "from": "lyn.arscott@ogp.org.uk",
+         "line": 244,
+         "rawfrom": "Arscott, Lyn [SMTP:Lyn.Arscott@ogp.org.uk]\n",
+         "source": "email",
+         "to": "Raggett, Brian"
+      },
+      {
+         "from": "joe.hillings@enron.com",
+         "line": 252,
+         "rawfrom": "Joe.Hillings@enron.com [mailto:Joe.Hillings@enron.com]\n",
+         "source": "email",
+         "to": "Lyn.Arscott@ogp.org.uk"
+      },
+      {
+         "from": "lora.sullivan@enron.com",
+         "line": 388,
+         "rawfrom": "Lora.Sullivan@enron.com [mailto:Lora.Sullivan@enron.com]\n",
+         "source": "email",
+         "to": "Lyn.Arscott%ogp.org.uk.@enron.com"
+      }
+   ],
+   "skipped": 11
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/calendar/untitled/2116.",
+   "hops": [
+      {
+         "from": "steven.kean@enron.com",
+         "line": 4,
+         "rawfrom": "steven.kean@enron.com\r\n",
+         "source": "valid",
+         "to": "gfoster@antigenics.com"
+      },
+      {
+         "from": "richard.shapiro@enron.com",
+         "line": 53,
+         "rawfrom": "Richard.Shapiro@enron.com [mailto:Richard.Shapiro@enron.com]\n",
+         "source": "email",
+         "to": "Foster, Gary"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 69,
+         "rawfrom": "\"Foster, Gary\" <GFoster@Antigenics.com> on 11/30/2000 08:07:18 AM\n",
+         "source": "email",
+         "to": "\"Rick and Amy Shapiro (E-mail)\" <rshapiro@enron.com>, \"Steve and"
+      },
+      {
+         "from": "mark.halperin@abc.com",
+         "line": 108,
+         "rawfrom": "Halperin, Mark [mailto:Mark.Halperin@abc.com]\n",
+         "source": "email",
+         "to": "'Foster, Gary'"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 123,
+         "rawfrom": "Foster, Gary [mailto:GFoster@Antigenics.com]\n",
+         "source": "email",
+         "to": "Halperin, Mark"
+      },
+      {
+         "from": "mark.halperin@abc.com",
+         "line": 147,
+         "rawfrom": "Halperin, Mark [mailto:Mark.Halperin@abc.com]\n",
+         "source": "email",
+         "to": "'Foster, Gary'"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 180,
+         "rawfrom": "Foster, Gary [mailto:GFoster@Antigenics.com]\n",
+         "source": "email",
+         "to": "Halperin, Mark"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/calendar/untitled/599.",
+   "hops": [
+      {
+         "from": "amy.fabian@enron.com",
+         "line": 4,
+         "rawfrom": "amy.fabian@enron.com\r\n",
+         "source": "valid",
+         "to": "steven.kean@enron.com"
+      },
+      {
+         "from": "spainter@fontheiminternational.com",
+         "line": 57,
+         "rawfrom": "Sally Painter <SPainter@fontheiminternational.com>\n",
+         "source": "email",
+         "to": "Rhonda Russell <RRussell@fontheiminternational.com>"
+      },
+      {
+         "from": "spainter@fontheiminternational.com",
+         "line": 187,
+         "rawfrom": "Sally Painter <SPainter@fontheiminternational.com>\n",
+         "source": "email",
+         "to": "Rhonda Russell <RRussell@fontheiminternational.com>"
+      },
+      {
+         "from": "spainter@fontheiminternational.com",
+         "line": 366,
+         "rawfrom": "Sally Painter <SPainter@fontheiminternational.com>\n",
+         "source": "email",
+         "to": "Claude Fontheim; 'David Milenthal'; 'Frank Cipriano'; 'Mark"
+      },
+      {
+         "from": "spainter@fontheiminternational.com",
+         "line": 378,
+         "rawfrom": "Sally Painter <SPainter@fontheiminternational.com>\n",
+         "source": "email",
+         "to": "Rhonda Russell <RRussell@fontheiminternational.com>"
+      },
+      {
+         "from": "spainter@fontheiminternational.com",
+         "line": 544,
+         "rawfrom": "Sally Painter <SPainter@fontheiminternational.com>\n",
+         "source": "email",
+         "to": "Rhonda Russell <RRussell@fontheiminternational.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/discussion_threads/392.",
+   "hops": [
+      {
+         "from": "ann.schmidt@enron.com",
+         "line": 4,
+         "rawfrom": "ann.schmidt@enron.com\r\n",
+         "source": "valid",
+         "to": "steven.kean@enron.com, mark.palmer@enron.com"
+      },
+      {
+         "from": "rhollas@darlinghomes.com",
+         "line": 47,
+         "rawfrom": "    \"Rebecca Hollas\" <rhollas@darlinghomes.com> AT TIME_INC\n",
+         "source": "email",
+         "to": "Kristen Bumgardner AT TIBHSPC3"
+      },
+      {
+         "from": "rhollas@darlinghomes.com",
+         "line": 48,
+         "rawfrom": "rhollas@darlinghomes.com",
+         "source": "valid",
+         "to": "\"Laura Slough\" <lslough@darlinghomes.com> AT TIME_INC"
+      },
+      {
+         "from": "rhollas@darlinghomes.com",
+         "line": 49,
+         "rawfrom": "rhollas@darlinghomes.com",
+         "source": "valid",
+         "to": "\"Maureen (E-mail)\" <mblair@lennar.com> AT TIME_INC"
+      },
+      {
+         "from": "rhollas@darlinghomes.com",
+         "line": 50,
+         "rawfrom": "rhollas@darlinghomes.com",
+         "source": "valid",
+         "to": "\"Ashley (E-mail)\" <ashham64@hotmail.com> AT TIME_INC"
+      },
+      {
+         "from": "lslough@darlinghomes.com",
+         "line": 51,
+         "rawfrom": "lslough@darlinghomes.com",
+         "source": "valid",
+         "to": "\"Shell (E-mail)\" <Shelvis59@yahoo.com> AT TIME_INC"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/discussion_threads/4952.",
+   "hops": [
+      {
+         "from": "richard.shapiro@enron.com",
+         "line": 4,
+         "rawfrom": "richard.shapiro@enron.com\r\n",
+         "source": "valid",
+         "to": "steven.kean@enron.com"
+      },
+      {
+         "from": "brian.raggett@ogp.be",
+         "line": 191,
+         "rawfrom": "\"Raggett, Brian\" <Brian.Raggett@ogp.be>\n",
+         "source": "email",
+         "to": "\"'Joe.hillings@enron.com'\" <Joe.hillings@enron.com>"
+      },
+      {
+         "from": "lyn.arscott@ogp.org.uk",
+         "line": 244,
+         "rawfrom": "Arscott, Lyn [SMTP:Lyn.Arscott@ogp.org.uk]\n",
+         "source": "email",
+         "to": "Raggett, Brian"
+      },
+      {
+         "from": "joe.hillings@enron.com",
+         "line": 252,
+         "rawfrom": "Joe.Hillings@enron.com [mailto:Joe.Hillings@enron.com]\n",
+         "source": "email",
+         "to": "Lyn.Arscott@ogp.org.uk"
+      },
+      {
+         "from": "lora.sullivan@enron.com",
+         "line": 388,
+         "rawfrom": "Lora.Sullivan@enron.com [mailto:Lora.Sullivan@enron.com]\n",
+         "source": "email",
+         "to": "Lyn.Arscott%ogp.org.uk.@enron.com"
+      }
+   ],
+   "skipped": 11
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/discussion_threads/1770.",
+   "hops": [
+      {
+         "from": "steven.kean@enron.com",
+         "line": 4,
+         "rawfrom": "steven.kean@enron.com\r\n",
+         "source": "valid",
+         "to": "gfoster@antigenics.com"
+      },
+      {
+         "from": "richard.shapiro@enron.com",
+         "line": 53,
+         "rawfrom": "Richard.Shapiro@enron.com [mailto:Richard.Shapiro@enron.com]\n",
+         "source": "email",
+         "to": "Foster, Gary"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 69,
+         "rawfrom": "\"Foster, Gary\" <GFoster@Antigenics.com> on 11/30/2000 08:07:18 AM\n",
+         "source": "email",
+         "to": "\"Rick and Amy Shapiro (E-mail)\" <rshapiro@enron.com>, \"Steve and"
+      },
+      {
+         "from": "mark.halperin@abc.com",
+         "line": 108,
+         "rawfrom": "Halperin, Mark [mailto:Mark.Halperin@abc.com]\n",
+         "source": "email",
+         "to": "'Foster, Gary'"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 123,
+         "rawfrom": "Foster, Gary [mailto:GFoster@Antigenics.com]\n",
+         "source": "email",
+         "to": "Halperin, Mark"
+      },
+      {
+         "from": "mark.halperin@abc.com",
+         "line": 147,
+         "rawfrom": "Halperin, Mark [mailto:Mark.Halperin@abc.com]\n",
+         "source": "email",
+         "to": "'Foster, Gary'"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 180,
+         "rawfrom": "Foster, Gary [mailto:GFoster@Antigenics.com]\n",
+         "source": "email",
+         "to": "Halperin, Mark"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/discussion_threads/1752.",
+   "hops": [
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 4,
+         "rawfrom": "gfoster@antigenics.com\r\n",
+         "source": "valid",
+         "to": "rshapiro@enron.com, skean@enron.com"
+      },
+      {
+         "from": "mark.halperin@abc.com",
+         "line": 49,
+         "rawfrom": "Halperin, Mark [mailto:Mark.Halperin@abc.com]\n",
+         "source": "email",
+         "to": "'Foster, Gary'"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 64,
+         "rawfrom": "Foster, Gary [mailto:GFoster@Antigenics.com]\n",
+         "source": "email",
+         "to": "Halperin, Mark"
+      },
+      {
+         "from": "mark.halperin@abc.com",
+         "line": 86,
+         "rawfrom": "Halperin, Mark [mailto:Mark.Halperin@abc.com]\n",
+         "source": "email",
+         "to": "'Foster, Gary'"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 118,
+         "rawfrom": "Foster, Gary [mailto:GFoster@Antigenics.com]\n",
+         "source": "email",
+         "to": "Halperin, Mark"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/discussion_threads/540.",
+   "hops": [
+      {
+         "from": "pwarren@rice.edu",
+         "line": 4,
+         "rawfrom": "pwarren@rice.edu\r\n",
+         "source": "valid",
+         "to": "skean@enron.com"
+      },
+      {
+         "from": "mailer-daemon@ruf.rice.edu",
+         "line": 19,
+         "rawfrom": "Mail Delivery Subsystem <MAILER-DAEMON@ruf.rice.edu>\n",
+         "source": "email",
+         "to": "<pwarren@rice.edu>"
+      },
+      {
+         "from": "steve.kean@enron.com",
+         "line": 31,
+         "rawfrom": "steve.kean@enron.com",
+         "source": "valid",
+         "to": "<steve.kean@enron.com>"
+      },
+      {
+         "from": "pwarren@imap.ruf.rice.edu",
+         "line": 45,
+         "rawfrom": "pwarren@imap.ruf.rice.edu",
+         "source": "valid",
+         "to": "kenneth.lay@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/discussion_threads/2081.",
+   "hops": [
+      {
+         "from": "susan.mara@enron.com",
+         "line": 4,
+         "rawfrom": "susan.mara@enron.com\r\n",
+         "source": "valid",
+         "to": "alan.comnes@enron.com, angela.schwarz@enron.com, beverly.aden@enron.com,"
+      },
+      {
+         "from": "difellman@energy-law-group.com",
+         "line": 108,
+         "rawfrom": "Diane Fellman <difellman@energy-law-group.com>\n",
+         "source": "email",
+         "to": "Carol Hudson (E-mail) <chudson@iepa.com>; Steven Kelly (E-mail)"
+      },
+      {
+         "from": "wvm3@pge.com",
+         "line": 136,
+         "rawfrom": "Manheim, William (Law) [mailto:WVM3@pge.com]\n",
+         "source": "email",
+         "to": "'difellman@energy-law-group.com'"
+      },
+      {
+         "from": "mpa@aelaw.com",
+         "line": 145,
+         "rawfrom": "Michael Alcantar [mailto:mpa@aelaw.com]\n",
+         "source": "email",
+         "to": "Kugelman, Richard; Hapner, Dede; Manheim, William (Law); Reid, Alice"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/discussion_threads/539.",
+   "hops": [
+      {
+         "from": "amy.fabian@enron.com",
+         "line": 4,
+         "rawfrom": "amy.fabian@enron.com\r\n",
+         "source": "valid",
+         "to": "steven.kean@enron.com"
+      },
+      {
+         "from": "spainter@fontheiminternational.com",
+         "line": 57,
+         "rawfrom": "Sally Painter <SPainter@fontheiminternational.com>\n",
+         "source": "email",
+         "to": "Rhonda Russell <RRussell@fontheiminternational.com>"
+      },
+      {
+         "from": "spainter@fontheiminternational.com",
+         "line": 187,
+         "rawfrom": "Sally Painter <SPainter@fontheiminternational.com>\n",
+         "source": "email",
+         "to": "Rhonda Russell <RRussell@fontheiminternational.com>"
+      },
+      {
+         "from": "spainter@fontheiminternational.com",
+         "line": 366,
+         "rawfrom": "Sally Painter <SPainter@fontheiminternational.com>\n",
+         "source": "email",
+         "to": "Claude Fontheim; 'David Milenthal'; 'Frank Cipriano'; 'Mark"
+      },
+      {
+         "from": "spainter@fontheiminternational.com",
+         "line": 378,
+         "rawfrom": "Sally Painter <SPainter@fontheiminternational.com>\n",
+         "source": "email",
+         "to": "Rhonda Russell <RRussell@fontheiminternational.com>"
+      },
+      {
+         "from": "spainter@fontheiminternational.com",
+         "line": 544,
+         "rawfrom": "Sally Painter <SPainter@fontheiminternational.com>\n",
+         "source": "email",
+         "to": "Rhonda Russell <RRussell@fontheiminternational.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/wto/89.",
+   "hops": [
+      {
+         "from": "richard.shapiro@enron.com",
+         "line": 4,
+         "rawfrom": "richard.shapiro@enron.com\r\n",
+         "source": "valid",
+         "to": "steven.kean@enron.com"
+      },
+      {
+         "from": "brian.raggett@ogp.be",
+         "line": 191,
+         "rawfrom": "\"Raggett, Brian\" <Brian.Raggett@ogp.be>\n",
+         "source": "email",
+         "to": "\"'Joe.hillings@enron.com'\" <Joe.hillings@enron.com>"
+      },
+      {
+         "from": "lyn.arscott@ogp.org.uk",
+         "line": 244,
+         "rawfrom": "Arscott, Lyn [SMTP:Lyn.Arscott@ogp.org.uk]\n",
+         "source": "email",
+         "to": "Raggett, Brian"
+      },
+      {
+         "from": "joe.hillings@enron.com",
+         "line": 252,
+         "rawfrom": "Joe.Hillings@enron.com [mailto:Joe.Hillings@enron.com]\n",
+         "source": "email",
+         "to": "Lyn.Arscott@ogp.org.uk"
+      },
+      {
+         "from": "lora.sullivan@enron.com",
+         "line": 388,
+         "rawfrom": "Lora.Sullivan@enron.com [mailto:Lora.Sullivan@enron.com]\n",
+         "source": "email",
+         "to": "Lyn.Arscott%ogp.org.uk.@enron.com"
+      }
+   ],
+   "skipped": 11
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/market_structure/27.",
+   "hops": [
+      {
+         "from": "richard.shapiro@enron.com",
+         "line": 4,
+         "rawfrom": "richard.shapiro@enron.com\r\n",
+         "source": "valid",
+         "to": "susan.mara@enron.com"
+      },
+      {
+         "from": "zalaywan@caiso.com",
+         "line": 91,
+         "rawfrom": "\"Alaywan, Ziad\" <ZAlaywan@caiso.com>\n",
+         "source": "email",
+         "to": "\"Mara, Sue\" <Susan.J.Mara@enron.com>, \"Mara, Sue\" <smara@enron.com>"
+      },
+      {
+         "from": "alexp@eccointl.com",
+         "line": 104,
+         "rawfrom": "Alex Papalexopoulos [mailto:alexp@eccointl.com]\n",
+         "source": "email",
+         "to": "Alaywan, Ziad; Atkins, Sean; Kristov, Lorenzo; Kelley, Kristen;"
+      },
+      {
+         "from": "shams_siddiqi@hotmail.com",
+         "line": 135,
+         "rawfrom": "Shams Siddiqi [mailto:shams_siddiqi@hotmail.com]\n",
+         "source": "email",
+         "to": "Gregory Ioanidis"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/gore/3.",
+   "hops": [
+      {
+         "from": "amy.fabian@enron.com",
+         "line": 4,
+         "rawfrom": "amy.fabian@enron.com\r\n",
+         "source": "valid",
+         "to": "steven.kean@enron.com"
+      },
+      {
+         "from": "spainter@fontheiminternational.com",
+         "line": 57,
+         "rawfrom": "Sally Painter <SPainter@fontheiminternational.com>\n",
+         "source": "email",
+         "to": "Rhonda Russell <RRussell@fontheiminternational.com>"
+      },
+      {
+         "from": "spainter@fontheiminternational.com",
+         "line": 187,
+         "rawfrom": "Sally Painter <SPainter@fontheiminternational.com>\n",
+         "source": "email",
+         "to": "Rhonda Russell <RRussell@fontheiminternational.com>"
+      },
+      {
+         "from": "spainter@fontheiminternational.com",
+         "line": 366,
+         "rawfrom": "Sally Painter <SPainter@fontheiminternational.com>\n",
+         "source": "email",
+         "to": "Claude Fontheim; 'David Milenthal'; 'Frank Cipriano'; 'Mark"
+      },
+      {
+         "from": "spainter@fontheiminternational.com",
+         "line": 378,
+         "rawfrom": "Sally Painter <SPainter@fontheiminternational.com>\n",
+         "source": "email",
+         "to": "Rhonda Russell <RRussell@fontheiminternational.com>"
+      },
+      {
+         "from": "spainter@fontheiminternational.com",
+         "line": 544,
+         "rawfrom": "Sally Painter <SPainter@fontheiminternational.com>\n",
+         "source": "email",
+         "to": "Rhonda Russell <RRussell@fontheiminternational.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/attachments/247.",
+   "hops": [
+      {
+         "from": "richard.shapiro@enron.com",
+         "line": 4,
+         "rawfrom": "richard.shapiro@enron.com\r\n",
+         "source": "valid",
+         "to": "susan.mara@enron.com"
+      },
+      {
+         "from": "zalaywan@caiso.com",
+         "line": 91,
+         "rawfrom": "\"Alaywan, Ziad\" <ZAlaywan@caiso.com>\n",
+         "source": "email",
+         "to": "\"Mara, Sue\" <Susan.J.Mara@enron.com>, \"Mara, Sue\" <smara@enron.com>"
+      },
+      {
+         "from": "alexp@eccointl.com",
+         "line": 104,
+         "rawfrom": "Alex Papalexopoulos [mailto:alexp@eccointl.com]\n",
+         "source": "email",
+         "to": "Alaywan, Ziad; Atkins, Sean; Kristov, Lorenzo; Kelley, Kristen;"
+      },
+      {
+         "from": "shams_siddiqi@hotmail.com",
+         "line": 135,
+         "rawfrom": "Shams Siddiqi [mailto:shams_siddiqi@hotmail.com]\n",
+         "source": "email",
+         "to": "Gregory Ioanidis"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/attachments/694.",
+   "hops": [
+      {
+         "from": "ann.schmidt@enron.com",
+         "line": 4,
+         "rawfrom": "ann.schmidt@enron.com\r\n",
+         "source": "valid",
+         "to": "steven.kean@enron.com, mark.palmer@enron.com"
+      },
+      {
+         "from": "rhollas@darlinghomes.com",
+         "line": 47,
+         "rawfrom": "    \"Rebecca Hollas\" <rhollas@darlinghomes.com> AT TIME_INC\n",
+         "source": "email",
+         "to": "Kristen Bumgardner AT TIBHSPC3"
+      },
+      {
+         "from": "rhollas@darlinghomes.com",
+         "line": 48,
+         "rawfrom": "rhollas@darlinghomes.com",
+         "source": "valid",
+         "to": "\"Laura Slough\" <lslough@darlinghomes.com> AT TIME_INC"
+      },
+      {
+         "from": "rhollas@darlinghomes.com",
+         "line": 49,
+         "rawfrom": "rhollas@darlinghomes.com",
+         "source": "valid",
+         "to": "\"Maureen (E-mail)\" <mblair@lennar.com> AT TIME_INC"
+      },
+      {
+         "from": "rhollas@darlinghomes.com",
+         "line": 50,
+         "rawfrom": "rhollas@darlinghomes.com",
+         "source": "valid",
+         "to": "\"Ashley (E-mail)\" <ashham64@hotmail.com> AT TIME_INC"
+      },
+      {
+         "from": "lslough@darlinghomes.com",
+         "line": 51,
+         "rawfrom": "lslough@darlinghomes.com",
+         "source": "valid",
+         "to": "\"Shell (E-mail)\" <Shelvis59@yahoo.com> AT TIME_INC"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/attachments/1861.",
+   "hops": [
+      {
+         "from": "susan.mara@enron.com",
+         "line": 4,
+         "rawfrom": "susan.mara@enron.com\r\n",
+         "source": "valid",
+         "to": "alan.comnes@enron.com, angela.schwarz@enron.com, beverly.aden@enron.com,"
+      },
+      {
+         "from": "difellman@energy-law-group.com",
+         "line": 108,
+         "rawfrom": "Diane Fellman <difellman@energy-law-group.com>\n",
+         "source": "email",
+         "to": "Carol Hudson (E-mail) <chudson@iepa.com>; Steven Kelly (E-mail)"
+      },
+      {
+         "from": "wvm3@pge.com",
+         "line": 136,
+         "rawfrom": "Manheim, William (Law) [mailto:WVM3@pge.com]\n",
+         "source": "email",
+         "to": "'difellman@energy-law-group.com'"
+      },
+      {
+         "from": "mpa@aelaw.com",
+         "line": 145,
+         "rawfrom": "Michael Alcantar [mailto:mpa@aelaw.com]\n",
+         "source": "email",
+         "to": "Kugelman, Richard; Hapner, Dede; Manheim, William (Law); Reid, Alice"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/california/556.",
+   "hops": [
+      {
+         "from": "susan.mara@enron.com",
+         "line": 4,
+         "rawfrom": "susan.mara@enron.com\r\n",
+         "source": "valid",
+         "to": "alan.comnes@enron.com, angela.schwarz@enron.com, beverly.aden@enron.com,"
+      },
+      {
+         "from": "difellman@energy-law-group.com",
+         "line": 108,
+         "rawfrom": "Diane Fellman <difellman@energy-law-group.com>\n",
+         "source": "email",
+         "to": "Carol Hudson (E-mail) <chudson@iepa.com>; Steven Kelly (E-mail)"
+      },
+      {
+         "from": "wvm3@pge.com",
+         "line": 136,
+         "rawfrom": "Manheim, William (Law) [mailto:WVM3@pge.com]\n",
+         "source": "email",
+         "to": "'difellman@energy-law-group.com'"
+      },
+      {
+         "from": "mpa@aelaw.com",
+         "line": 145,
+         "rawfrom": "Michael Alcantar [mailto:mpa@aelaw.com]\n",
+         "source": "email",
+         "to": "Kugelman, Richard; Hapner, Dede; Manheim, William (Law); Reid, Alice"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/rice/14.",
+   "hops": [
+      {
+         "from": "pwarren@rice.edu",
+         "line": 4,
+         "rawfrom": "pwarren@rice.edu\r\n",
+         "source": "valid",
+         "to": "skean@enron.com"
+      },
+      {
+         "from": "mailer-daemon@ruf.rice.edu",
+         "line": 19,
+         "rawfrom": "Mail Delivery Subsystem <MAILER-DAEMON@ruf.rice.edu>\n",
+         "source": "email",
+         "to": "<pwarren@rice.edu>"
+      },
+      {
+         "from": "steve.kean@enron.com",
+         "line": 31,
+         "rawfrom": "steve.kean@enron.com",
+         "source": "valid",
+         "to": "<steve.kean@enron.com>"
+      },
+      {
+         "from": "pwarren@imap.ruf.rice.edu",
+         "line": 45,
+         "rawfrom": "pwarren@imap.ruf.rice.edu",
+         "source": "valid",
+         "to": "kenneth.lay@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/federal_legislation/111.",
+   "hops": [
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 4,
+         "rawfrom": "gfoster@antigenics.com\r\n",
+         "source": "valid",
+         "to": "rshapiro@enron.com, skean@enron.com"
+      },
+      {
+         "from": "mark.halperin@abc.com",
+         "line": 49,
+         "rawfrom": "Halperin, Mark [mailto:Mark.Halperin@abc.com]\n",
+         "source": "email",
+         "to": "'Foster, Gary'"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 64,
+         "rawfrom": "Foster, Gary [mailto:GFoster@Antigenics.com]\n",
+         "source": "email",
+         "to": "Halperin, Mark"
+      },
+      {
+         "from": "mark.halperin@abc.com",
+         "line": 86,
+         "rawfrom": "Halperin, Mark [mailto:Mark.Halperin@abc.com]\n",
+         "source": "email",
+         "to": "'Foster, Gary'"
+      },
+      {
+         "from": "gfoster@antigenics.com",
+         "line": 118,
+         "rawfrom": "Foster, Gary [mailto:GFoster@Antigenics.com]\n",
+         "source": "email",
+         "to": "Halperin, Mark"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/kean-s/humor/23.",
+   "hops": [
+      {
+         "from": "ann.schmidt@enron.com",
+         "line": 4,
+         "rawfrom": "ann.schmidt@enron.com\r\n",
+         "source": "valid",
+         "to": "steven.kean@enron.com, mark.palmer@enron.com"
+      },
+      {
+         "from": "rhollas@darlinghomes.com",
+         "line": 47,
+         "rawfrom": "    \"Rebecca Hollas\" <rhollas@darlinghomes.com> AT TIME_INC\n",
+         "source": "email",
+         "to": "Kristen Bumgardner AT TIBHSPC3"
+      },
+      {
+         "from": "rhollas@darlinghomes.com",
+         "line": 48,
+         "rawfrom": "rhollas@darlinghomes.com",
+         "source": "valid",
+         "to": "\"Laura Slough\" <lslough@darlinghomes.com> AT TIME_INC"
+      },
+      {
+         "from": "rhollas@darlinghomes.com",
+         "line": 49,
+         "rawfrom": "rhollas@darlinghomes.com",
+         "source": "valid",
+         "to": "\"Maureen (E-mail)\" <mblair@lennar.com> AT TIME_INC"
+      },
+      {
+         "from": "rhollas@darlinghomes.com",
+         "line": 50,
+         "rawfrom": "rhollas@darlinghomes.com",
+         "source": "valid",
+         "to": "\"Ashley (E-mail)\" <ashham64@hotmail.com> AT TIME_INC"
+      },
+      {
+         "from": "lslough@darlinghomes.com",
+         "line": 51,
+         "rawfrom": "lslough@darlinghomes.com",
+         "source": "valid",
+         "to": "\"Shell (E-mail)\" <Shelvis59@yahoo.com> AT TIME_INC"
+      }
+   ],
+   "skipped": 2
+}
+]

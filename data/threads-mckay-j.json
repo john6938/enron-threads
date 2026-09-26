@@ -1,0 +1,547 @@
+[
+{
+   "file": "/home/jb/maildir/mckay-j/sent_items/2.",
+   "hops": [
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 4,
+         "rawfrom": "jonathan.mckay@enron.com\r\n",
+         "source": "valid",
+         "to": "bjenkins2@houston.rr.com"
+      },
+      {
+         "from": "phemsing@edc-see.ca",
+         "line": 22,
+         "rawfrom": "\t\"Hemsing, Paul\" <phemsing@edc-see.ca>@ENRON [mailto:IMCEANOTES-+22Hemsing+2C+20Paul+22+20+3Cphemsing+40edc-see+2Eca+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Mckay, Jonathan"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 57,
+         "rawfrom": "> From:\tJonathan.Mckay@enron.com [SMTP:Jonathan.Mckay@enron.com]\n",
+         "source": "email",
+         "to": "phemsing@edc-see.ca"
+      },
+      {
+         "from": "phemsing@edc-see.ca",
+         "line": 82,
+         "rawfrom": "  \"Hemsing, Paul\" <phemsing@edc-see.ca>@ENRON\n",
+         "source": "email",
+         "to": "Mckay, Jon (E-mail)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mckay-j/sent_items/91.",
+   "hops": [
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 4,
+         "rawfrom": "jonathan.mckay@enron.com\r\n",
+         "source": "valid",
+         "to": "geri.greenall@elpaso.com"
+      },
+      {
+         "from": "geri.greenall@elpaso.com",
+         "line": 22,
+         "rawfrom": "\t\"Greenall, Geri\" <Geri.Greenall@ElPaso.com>@ENRON [mailto:IMCEANOTES-+22Greenall+2C+20Geri+22+20+3CGeri+2EGreenall+40ElPaso+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Mckay, Jonathan"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 31,
+         "rawfrom": "\tJonathan.Mckay@enron.com [mailto:Jonathan.Mckay@enron.com]\n",
+         "source": "email",
+         "to": "Greenall, Geri"
+      },
+      {
+         "from": "geri.greenall@elpaso.com",
+         "line": 48,
+         "rawfrom": "  \"Greenall, Geri\" <Geri.Greenall@ElPaso.com>@ENRON\n",
+         "source": "email",
+         "to": "Cowan, Mike; Mckay, Jonathan"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mckay-j/sent_items/62.",
+   "hops": [
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 4,
+         "rawfrom": "jonathan.mckay@enron.com\r\n",
+         "source": "valid",
+         "to": "geri.greenall@elpaso.com"
+      },
+      {
+         "from": "geri.greenall@elpaso.com",
+         "line": 24,
+         "rawfrom": "\t\"Greenall, Geri\" <Geri.Greenall@ElPaso.com>@ENRON [mailto:IMCEANOTES-+22Greenall+2C+20Geri+22+20+3CGeri+2EGreenall+40ElPaso+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Mckay, Jonathan"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 33,
+         "rawfrom": "\tJonathan.Mckay@enron.com [mailto:Jonathan.Mckay@enron.com]\n",
+         "source": "email",
+         "to": "Greenall, Geri"
+      },
+      {
+         "from": "geri.greenall@elpaso.com",
+         "line": 51,
+         "rawfrom": "  \"Greenall, Geri\" <Geri.Greenall@ElPaso.com>@ENRON\n",
+         "source": "email",
+         "to": "Mckay, Jonathan"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 60,
+         "rawfrom": "  Jonathan.Mckay@enron.com [mailto:Jonathan.Mckay@enron.com]\n",
+         "source": "email",
+         "to": "Greenall, Geri"
+      },
+      {
+         "from": "geri.greenall@elpaso.com",
+         "line": 74,
+         "rawfrom": "  \"Greenall, Geri\" <Geri.Greenall@ElPaso.com>@ENRON\n",
+         "source": "email",
+         "to": "Mckay, Jonathan"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 85,
+         "rawfrom": "  Jonathan.Mckay@enron.com [mailto:Jonathan.Mckay@enron.com]\n",
+         "source": "email",
+         "to": "Greenall, Geri"
+      },
+      {
+         "from": "geri.greenall@elpaso.com",
+         "line": 105,
+         "rawfrom": "  \"Greenall, Geri\" <Geri.Greenall@ElPaso.com>@ENRON\n",
+         "source": "email",
+         "to": "Cowan, Mike; Mckay, Jonathan"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mckay-j/sent_items/198.",
+   "hops": [
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 4,
+         "rawfrom": "jonathan.mckay@enron.com\r\n",
+         "source": "valid",
+         "to": "jeffrey.r.pearson@dartmouth.edu"
+      },
+      {
+         "from": "jeffrey.r.pearson@dartmouth.edu",
+         "line": 24,
+         "rawfrom": "\t\"Jeffrey R. Pearson\" <Jeffrey.R.Pearson@Dartmouth.EDU>@ENRON [mailto:IMCEANOTES-+22Jeffrey+20R+2E+20Pearson+22+20+3CJeffrey+2ER+2EPearson+40Dartmouth+2EEDU+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Mckay, Jonathan"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 35,
+         "rawfrom": "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "source": "email",
+         "to": "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 70,
+         "rawfrom": "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "source": "email",
+         "to": "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 116,
+         "rawfrom": "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "source": "email",
+         "to": "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 168,
+         "rawfrom": "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "source": "email",
+         "to": "Jeffrey.R.Pearson@Dartmouth.EDU"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/mckay-j/sent_items/195.",
+   "hops": [
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 4,
+         "rawfrom": "jonathan.mckay@enron.com\r\n",
+         "source": "valid",
+         "to": "jeffrey.r.pearson@dartmouth.edu"
+      },
+      {
+         "from": "jeffrey.r.pearson@dartmouth.edu",
+         "line": 33,
+         "rawfrom": "\t\"Jeffrey R. Pearson\" <Jeffrey.R.Pearson@Dartmouth.EDU>@ENRON [mailto:IMCEANOTES-+22Jeffrey+20R+2E+20Pearson+22+20+3CJeffrey+2ER+2EPearson+40Dartmouth+2EEDU+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Mckay, Jonathan"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 42,
+         "rawfrom": "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "source": "email",
+         "to": "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 86,
+         "rawfrom": "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "source": "email",
+         "to": "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 133,
+         "rawfrom": "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "source": "email",
+         "to": "Jeffrey.R.Pearson@Dartmouth.EDU"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/mckay-j/sent_items/185.",
+   "hops": [
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 4,
+         "rawfrom": "jonathan.mckay@enron.com\r\n",
+         "source": "valid",
+         "to": "jeffrey.r.pearson@dartmouth.edu"
+      },
+      {
+         "from": "jeffrey.r.pearson@dartmouth.edu",
+         "line": 26,
+         "rawfrom": "\t\"Jeffrey R. Pearson\" <Jeffrey.R.Pearson@Dartmouth.EDU>@ENRON [mailto:IMCEANOTES-+22Jeffrey+20R+2E+20Pearson+22+20+3CJeffrey+2ER+2EPearson+40Dartmouth+2EEDU+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Mckay, Jonathan"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 50,
+         "rawfrom": "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "source": "email",
+         "to": "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 93,
+         "rawfrom": "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "source": "email",
+         "to": "Jeffrey.R.Pearson@Dartmouth.EDU"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/mckay-j/sent_items/65.",
+   "hops": [
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 4,
+         "rawfrom": "jonathan.mckay@enron.com\r\n",
+         "source": "valid",
+         "to": "geri.greenall@elpaso.com"
+      },
+      {
+         "from": "geri.greenall@elpaso.com",
+         "line": 25,
+         "rawfrom": "\t\"Greenall, Geri\" <Geri.Greenall@ElPaso.com>@ENRON [mailto:IMCEANOTES-+22Greenall+2C+20Geri+22+20+3CGeri+2EGreenall+40ElPaso+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Mckay, Jonathan"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 33,
+         "rawfrom": "\tJonathan.Mckay@enron.com [mailto:Jonathan.Mckay@enron.com]\n",
+         "source": "email",
+         "to": "Greenall, Geri"
+      },
+      {
+         "from": "geri.greenall@elpaso.com",
+         "line": 46,
+         "rawfrom": "  \"Greenall, Geri\" <Geri.Greenall@ElPaso.com>@ENRON\n",
+         "source": "email",
+         "to": "Mckay, Jonathan"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 56,
+         "rawfrom": "  Jonathan.Mckay@enron.com [mailto:Jonathan.Mckay@enron.com]\n",
+         "source": "email",
+         "to": "Greenall, Geri"
+      },
+      {
+         "from": "geri.greenall@elpaso.com",
+         "line": 74,
+         "rawfrom": "  \"Greenall, Geri\" <Geri.Greenall@ElPaso.com>@ENRON\n",
+         "source": "email",
+         "to": "Cowan, Mike; Mckay, Jonathan"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mckay-j/sent_items/184.",
+   "hops": [
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 4,
+         "rawfrom": "jonathan.mckay@enron.com\r\n",
+         "source": "valid",
+         "to": "rodf@telusplanet.net"
+      },
+      {
+         "from": "rodf@telusplanet.net",
+         "line": 22,
+         "rawfrom": "\t\"Rod Forsythe\" <rodf@telusplanet.net>@ENRON [mailto:IMCEANOTES-+22Rod+20Forsythe+22+20+3Crodf+40telusplanet+2Enet+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Mckay, Jonathan"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 38,
+         "rawfrom": "From:\tJonathan.Mckay@enron.com [mailto:Jonathan.Mckay@enron.com]\n",
+         "source": "email",
+         "to": "rodf@telusplanet.net"
+      },
+      {
+         "from": "rodf@telusplanet.net",
+         "line": 77,
+         "rawfrom": "  \"Rod Forsythe\" <rodf@telusplanet.net>@ENRON\n",
+         "source": "email",
+         "to": "Mckay, Jonathan"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mckay-j/sent_items/11.",
+   "hops": [
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 4,
+         "rawfrom": "jonathan.mckay@enron.com\r\n",
+         "source": "valid",
+         "to": "bjenkins2@houston.rr.com"
+      },
+      {
+         "from": "stephen.brown@rbcdain.com",
+         "line": 22,
+         "rawfrom": "\t\"Brown, Stephen\" <Stephen.Brown@Rbcdain.com>@ENRON  \n",
+         "source": "email",
+         "to": "Mckay, Jonathan"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 40,
+         "rawfrom": "Jonathan.Mckay@enron.com [mailto:Jonathan.Mckay@enron.com]\n",
+         "source": "email",
+         "to": "Brown, Stephen"
+      },
+      {
+         "from": "stephen.brown@rbcdain.com",
+         "line": 62,
+         "rawfrom": "  \"Brown, Stephen\" <Stephen.Brown@Rbcdain.com>@ENRON\n",
+         "source": "email",
+         "to": "Mckay, Jonathan"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mckay-j/personal/52.",
+   "hops": [
+      {
+         "from": "jeffrey.r.pearson@dartmouth.edu",
+         "line": 4,
+         "rawfrom": "jeffrey.r.pearson@dartmouth.edu\r\n",
+         "source": "valid",
+         "to": "jonathan.mckay@enron.com"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 25,
+         "rawfrom": "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "source": "email",
+         "to": "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 60,
+         "rawfrom": "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "source": "email",
+         "to": "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 106,
+         "rawfrom": "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "source": "email",
+         "to": "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 158,
+         "rawfrom": "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "source": "email",
+         "to": "Jeffrey.R.Pearson@Dartmouth.EDU"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/mckay-j/personal/69.",
+   "hops": [
+      {
+         "from": "geri.greenall@elpaso.com",
+         "line": 4,
+         "rawfrom": "geri.greenall@elpaso.com\r\n",
+         "source": "valid",
+         "to": "jonathan.mckay@enron.com"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 23,
+         "rawfrom": "\tJonathan.Mckay@enron.com [mailto:Jonathan.Mckay@enron.com]\n",
+         "source": "email",
+         "to": "Greenall, Geri"
+      },
+      {
+         "from": "geri.greenall@elpaso.com",
+         "line": 41,
+         "rawfrom": "  \"Greenall, Geri\" <Geri.Greenall@ElPaso.com>@ENRON\n",
+         "source": "email",
+         "to": "Mckay, Jonathan"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 50,
+         "rawfrom": "  Jonathan.Mckay@enron.com [mailto:Jonathan.Mckay@enron.com]\n",
+         "source": "email",
+         "to": "Greenall, Geri"
+      },
+      {
+         "from": "geri.greenall@elpaso.com",
+         "line": 64,
+         "rawfrom": "  \"Greenall, Geri\" <Geri.Greenall@ElPaso.com>@ENRON\n",
+         "source": "email",
+         "to": "Mckay, Jonathan"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 75,
+         "rawfrom": "  Jonathan.Mckay@enron.com [mailto:Jonathan.Mckay@enron.com]\n",
+         "source": "email",
+         "to": "Greenall, Geri"
+      },
+      {
+         "from": "geri.greenall@elpaso.com",
+         "line": 95,
+         "rawfrom": "  \"Greenall, Geri\" <Geri.Greenall@ElPaso.com>@ENRON\n",
+         "source": "email",
+         "to": "Cowan, Mike; Mckay, Jonathan"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mckay-j/personal/53.",
+   "hops": [
+      {
+         "from": "jeffrey.r.pearson@dartmouth.edu",
+         "line": 4,
+         "rawfrom": "jeffrey.r.pearson@dartmouth.edu\r\n",
+         "source": "valid",
+         "to": "jonathan.mckay@enron.com"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 23,
+         "rawfrom": "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "source": "email",
+         "to": "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 67,
+         "rawfrom": "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "source": "email",
+         "to": "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 114,
+         "rawfrom": "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "source": "email",
+         "to": "Jeffrey.R.Pearson@Dartmouth.EDU"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/mckay-j/personal/55.",
+   "hops": [
+      {
+         "from": "jeffrey.r.pearson@dartmouth.edu",
+         "line": 4,
+         "rawfrom": "jeffrey.r.pearson@dartmouth.edu\r\n",
+         "source": "valid",
+         "to": "jonathan.mckay@enron.com"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 24,
+         "rawfrom": "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "source": "email",
+         "to": "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 68,
+         "rawfrom": "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "source": "email",
+         "to": "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from": "jonathan.mckay@enron.com",
+         "line": 115,
+         "rawfrom": "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "source": "email",
+         "to": "Jeffrey.R.Pearson@Dartmouth.EDU"
+      }
+   ],
+   "skipped": 3
+}
+]

@@ -1,0 +1,50 @@
+[
+{
+   "file": "/home/jb/maildir/schoolcraft-d/deleted_items/234.",
+   "hops": [
+      {
+         "from": "dahwjh@aol.com",
+         "line": 24,
+         "rawfrom": "DAHWJH@aol.com\n",
+         "source": "valid",
+         "to": "anna.bialczak@nexsi.com, sevendolphins@hotmail.com, Duckcum@aol.com,\tlhd@pacbell.net, jadaisies@mail.ev1.net, STOVERRON1@aol.com,\ttjs1961@hotmail.com, navonod11@msn.com"
+      },
+      {
+         "from": "pomqueensuzie@aol.com",
+         "line": 38,
+         "rawfrom": "Pomqueensuzie@aol.com\n",
+         "source": "valid",
+         "to": "chuckCRB@webtv.net, missyg@ida.net, DAHWJH@aol.com, Silverwisp_25@yahoo.com,\tJimNKristy98121@aol.com, WanLv@aol.com, miskin3@earthlink.net,\tCheri_117@yahoo.com, MPettingill@fibres.net,\tsbyington@tcim.com (Byington,Stacey), PACKER1FAN11@aol.com,\tTarotwitch64@cs.com, mleewal@cableone.net"
+      },
+      {
+         "from": "mpettingill@fibres.net",
+         "line": 60,
+         "rawfrom": "\"Madeline Pettingill\" <MPettingill@fibres.net>\n",
+         "source": "email",
+         "to": "\"Collette Neel (E-mail)\" <autona@msn.com>,        \"Jessica Summers (E-mail)\" <jessicas42@hotmail.com>,        \"Jim Howard (E-mail 2)\" <nukid68@yahoo.com>,        \"JimNKristy98121@aol. com (E-mail)\" <JimNKristy98121@aol.com>,        \"Kathie Bischke (E-mail)\" <kathiebischke@hotmail.com>,        \"Mary Blake (E-mail)\" <meblake@ida.net>,        \"Shanell Johnson (E-mail)\" <Snailj@yahoo.com>,        \"Sharlene Denison (E-mail)\" <sharlenedenison@hotmail.com>,        \"Shawna Stagg (E-mail)\" <pomqueensuzie@aol.com>,        \"Sonya Fisher (E-mail)\" <sonfish4u@hotmail.com>,        \"Tina/Stacy Byington home (E-mail)\" <tina.byington@verizon.net>,        \"Will & Val jones (E-mail)\" <Jones3@ida.net>"
+      },
+      {
+         "from": "quail@cris.com",
+         "line": 68,
+         "rawfrom": "John and Shirley Huyett  [mailto:quail@cris.com]\n",
+         "source": "email",
+         "to": "Faye Scott; Janet Busta; Sandy Cosgrove; Elba Quackenbush;  Christy Davis"
+      },
+      {
+         "from": "ccr99@infi.net",
+         "line": 75,
+         "rawfrom": "Carolyn Rose-Faircloth  [mailto:ccr99@infi.net]\n",
+         "source": "email",
+         "to": "Wkrobbins@aol.com; Sherry; RENESAWEY@aol.com;  RDuBois34@aol.com; Pat Sharpe; Pat Holloway; MissEmily; Little Bit; Lexi; Laura;  Kristen Lewis; Joe Poor; Jo; Jim & Marsha Langlois; Jill Peery;  JEB0615@aol.com; craig.faircloth@faypwc.com; Christy Baker;  Amy"
+      },
+      {
+         "from": "jcashwell@faynet.com",
+         "line": 80,
+         "rawfrom": " Janice Cashwell at Hobgood, Jones and Associates <jcashwell@faynet.com >\n",
+         "source": "email",
+         "to": "Shirley Rogers <shrylrogers@aol.com >; John Stanley  <jrsrok@netscape.net >; Jeanette  Ward <jeanetteward@att.net >; JBoyd60332@aol.com  <JBoyd60332@aol.com >; Emily Hayes <ArmyWife_82nd@yahoo.com >; Debbie  Frazier <frazierd@BRAGG.ARMY.MIL >; David  Frazier <davefrazier@faynet.com >; Carolyn  Faircloth <ccf99@nc.rr.com >; Anne  Jasper <Luvsdsea@yahoo.com >"
+      }
+   ],
+   "skipped": 8
+}
+]

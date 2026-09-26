@@ -1,0 +1,820 @@
+[
+{
+   "file": "/home/jb/maildir/symes-k/all_documents/2779.",
+   "hops": [
+      {
+         "from": "kate.symes@enron.com",
+         "line": 4,
+         "rawfrom": "kate.symes@enron.com\r\n",
+         "source": "valid",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 25,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/23/2001 10:43:26 AM\n",
+         "source": "email",
+         "to": "\"Ali Gazarine (E-mail)\" <aligazarine@hotmail.com>, \"Digna Van Der Feltz"
+      },
+      {
+         "from": "marys@tvapdx.com",
+         "line": 41,
+         "rawfrom": "Mary Jane Symes [mailto:marys@tvapdx.com]\n",
+         "source": "email",
+         "to": "'annas@cobs.edu'"
+      },
+      {
+         "from": "slahaie@drmartensusa.com",
+         "line": 61,
+         "rawfrom": "slahaie@drmartensusa.com\n",
+         "source": "valid",
+         "to": "slaken@columbiaforestproducts.com; janet.rivera@theplatform.com;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/symes-k/all_documents/3611.",
+   "hops": [
+      {
+         "from": "kate.symes@enron.com",
+         "line": 4,
+         "rawfrom": "kate.symes@enron.com\r\n",
+         "source": "valid",
+         "to": "jenders@ap.org"
+      },
+      {
+         "from": "jenders@ap.org",
+         "line": 27,
+         "rawfrom": "John Enders <jenders@ap.org> on 04/25/2001 02:01:25 PM\n",
+         "source": "email",
+         "to": "Kate.Symes@enron.com"
+      },
+      {
+         "from": "jenders@ap.org",
+         "line": 51,
+         "rawfrom": "jenders@ap.org",
+         "source": "valid",
+         "to": "Kate.Symes@enron.com"
+      },
+      {
+         "from": "jenders@ap.org",
+         "line": 72,
+         "rawfrom": "jenders@ap.org",
+         "source": "valid",
+         "to": "Kate.Symes@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/symes-k/all_documents/2806.",
+   "hops": [
+      {
+         "from": "kate.symes@enron.com",
+         "line": 4,
+         "rawfrom": "kate.symes@enron.com\r\n",
+         "source": "valid",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 74,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/23/2001 08:06:18 AM\n",
+         "source": "email",
+         "to": "\"'Kate.Symes@enron.com'\" <Kate.Symes@enron.com>"
+      },
+      {
+         "from": "kate.symes@enron.com",
+         "line": 111,
+         "rawfrom": "Kate.Symes@enron.com [mailto:Kate.Symes@enron.com]\n",
+         "source": "email",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 135,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/22/2001 04:03:33 PM\n",
+         "source": "email",
+         "to": "\"Kate Symes (E-mail)\" <Kate.Symes@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/symes-k/all_documents/2510.",
+   "hops": [
+      {
+         "from": "kate.symes@enron.com",
+         "line": 4,
+         "rawfrom": "kate.symes@enron.com\r\n",
+         "source": "valid",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 61,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/14/2001 09:18:15 AM\n",
+         "source": "email",
+         "to": "\"'Kate.Symes@enron.com'\" <Kate.Symes@enron.com>"
+      },
+      {
+         "from": "kate.symes@enron.com",
+         "line": 118,
+         "rawfrom": "Kate.Symes@enron.com [mailto:Kate.Symes@enron.com]\n",
+         "source": "email",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 192,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/13/2001 02:55:09 PM\n",
+         "source": "email",
+         "to": "\"Kate Symes (E-mail)\" <Kate.Symes@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/symes-k/all_documents/2528.",
+   "hops": [
+      {
+         "from": "kate.symes@enron.com",
+         "line": 4,
+         "rawfrom": "kate.symes@enron.com\r\n",
+         "source": "valid",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 58,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/14/2001 03:11:54 PM\n",
+         "source": "email",
+         "to": "\"'Kate.Symes@enron.com'\" <Kate.Symes@enron.com>"
+      },
+      {
+         "from": "kate.symes@enron.com",
+         "line": 92,
+         "rawfrom": "Kate.Symes@enron.com [mailto:Kate.Symes@enron.com]\n",
+         "source": "email",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 144,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/14/2001 09:18:15 AM\n",
+         "source": "email",
+         "to": "\"'Kate.Symes@enron.com'\" <Kate.Symes@enron.com>"
+      },
+      {
+         "from": "kate.symes@enron.com",
+         "line": 206,
+         "rawfrom": "Kate.Symes@enron.com [mailto:Kate.Symes@enron.com]\n",
+         "source": "email",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 280,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/13/2001 02:55:09 PM\n",
+         "source": "email",
+         "to": "\"Kate Symes (E-mail)\" <Kate.Symes@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/symes-k/all_documents/344.",
+   "hops": [
+      {
+         "from": "carla.hoffman@enron.com",
+         "line": 4,
+         "rawfrom": "carla.hoffman@enron.com\r\n",
+         "source": "valid",
+         "to": "kate.symes@enron.com"
+      },
+      {
+         "from": "djenergy@dowjones.com",
+         "line": 32,
+         "rawfrom": " djenergy <djenergy@dowjones.com>                           10/31/2000 \n",
+         "source": "email",
+         "to": ""
+      },
+      {
+         "from": "djenergy@dowjones.com",
+         "line": 48,
+         "rawfrom": " djenergy <djenergy@dowjones.com>                           10/31/2000 \n",
+         "source": "email",
+         "to": ""
+      },
+      {
+         "from": "djenergy@dowjones.com",
+         "line": 64,
+         "rawfrom": " djenergy <djenergy@dowjones.com>                           10/31/2000 \n",
+         "source": "email",
+         "to": ""
+      },
+      {
+         "from": "djenergy@dowjones.com",
+         "line": 80,
+         "rawfrom": " djenergy <djenergy@dowjones.com>                           10/31/2000 \n",
+         "source": "email",
+         "to": ""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/symes-k/all_documents/2817.",
+   "hops": [
+      {
+         "from": "annas@cobs.edu",
+         "line": 4,
+         "rawfrom": "annas@cobs.edu\r\n",
+         "source": "valid",
+         "to": "kate.symes@enron.com"
+      },
+      {
+         "from": "kate.symes@enron.com",
+         "line": 65,
+         "rawfrom": "Kate.Symes@enron.com [mailto:Kate.Symes@enron.com]\n",
+         "source": "email",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 129,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/23/2001 08:06:18 AM\n",
+         "source": "email",
+         "to": "\"'Kate.Symes@enron.com'\" <Kate.Symes@enron.com>"
+      },
+      {
+         "from": "kate.symes@enron.com",
+         "line": 170,
+         "rawfrom": "Kate.Symes@enron.com [mailto:Kate.Symes@enron.com]\n",
+         "source": "email",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 194,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/22/2001 04:03:33 PM\n",
+         "source": "email",
+         "to": "\"Kate Symes (E-mail)\" <Kate.Symes@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/symes-k/sent/973.",
+   "hops": [
+      {
+         "from": "kate.symes@enron.com",
+         "line": 4,
+         "rawfrom": "kate.symes@enron.com\r\n",
+         "source": "valid",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 74,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/23/2001 08:06:18 AM\n",
+         "source": "email",
+         "to": "\"'Kate.Symes@enron.com'\" <Kate.Symes@enron.com>"
+      },
+      {
+         "from": "kate.symes@enron.com",
+         "line": 111,
+         "rawfrom": "Kate.Symes@enron.com [mailto:Kate.Symes@enron.com]\n",
+         "source": "email",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 135,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/22/2001 04:03:33 PM\n",
+         "source": "email",
+         "to": "\"Kate Symes (E-mail)\" <Kate.Symes@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/symes-k/sent/858.",
+   "hops": [
+      {
+         "from": "kate.symes@enron.com",
+         "line": 4,
+         "rawfrom": "kate.symes@enron.com\r\n",
+         "source": "valid",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 61,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/14/2001 09:18:15 AM\n",
+         "source": "email",
+         "to": "\"'Kate.Symes@enron.com'\" <Kate.Symes@enron.com>"
+      },
+      {
+         "from": "kate.symes@enron.com",
+         "line": 118,
+         "rawfrom": "Kate.Symes@enron.com [mailto:Kate.Symes@enron.com]\n",
+         "source": "email",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 192,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/13/2001 02:55:09 PM\n",
+         "source": "email",
+         "to": "\"Kate Symes (E-mail)\" <Kate.Symes@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/symes-k/sent/1257.",
+   "hops": [
+      {
+         "from": "kate.symes@enron.com",
+         "line": 4,
+         "rawfrom": "kate.symes@enron.com\r\n",
+         "source": "valid",
+         "to": "jenders@ap.org"
+      },
+      {
+         "from": "jenders@ap.org",
+         "line": 27,
+         "rawfrom": "John Enders <jenders@ap.org> on 04/25/2001 02:01:25 PM\n",
+         "source": "email",
+         "to": "Kate.Symes@enron.com"
+      },
+      {
+         "from": "jenders@ap.org",
+         "line": 51,
+         "rawfrom": "jenders@ap.org",
+         "source": "valid",
+         "to": "Kate.Symes@enron.com"
+      },
+      {
+         "from": "jenders@ap.org",
+         "line": 72,
+         "rawfrom": "jenders@ap.org",
+         "source": "valid",
+         "to": "Kate.Symes@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/symes-k/sent/962.",
+   "hops": [
+      {
+         "from": "kate.symes@enron.com",
+         "line": 4,
+         "rawfrom": "kate.symes@enron.com\r\n",
+         "source": "valid",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 25,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/23/2001 10:43:26 AM\n",
+         "source": "email",
+         "to": "\"Ali Gazarine (E-mail)\" <aligazarine@hotmail.com>, \"Digna Van Der Feltz"
+      },
+      {
+         "from": "marys@tvapdx.com",
+         "line": 41,
+         "rawfrom": "Mary Jane Symes [mailto:marys@tvapdx.com]\n",
+         "source": "email",
+         "to": "'annas@cobs.edu'"
+      },
+      {
+         "from": "slahaie@drmartensusa.com",
+         "line": 61,
+         "rawfrom": "slahaie@drmartensusa.com\n",
+         "source": "valid",
+         "to": "slaken@columbiaforestproducts.com; janet.rivera@theplatform.com;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/symes-k/sent/863.",
+   "hops": [
+      {
+         "from": "kate.symes@enron.com",
+         "line": 4,
+         "rawfrom": "kate.symes@enron.com\r\n",
+         "source": "valid",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 58,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/14/2001 03:11:54 PM\n",
+         "source": "email",
+         "to": "\"'Kate.Symes@enron.com'\" <Kate.Symes@enron.com>"
+      },
+      {
+         "from": "kate.symes@enron.com",
+         "line": 92,
+         "rawfrom": "Kate.Symes@enron.com [mailto:Kate.Symes@enron.com]\n",
+         "source": "email",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 144,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/14/2001 09:18:15 AM\n",
+         "source": "email",
+         "to": "\"'Kate.Symes@enron.com'\" <Kate.Symes@enron.com>"
+      },
+      {
+         "from": "kate.symes@enron.com",
+         "line": 206,
+         "rawfrom": "Kate.Symes@enron.com [mailto:Kate.Symes@enron.com]\n",
+         "source": "email",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 280,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/13/2001 02:55:09 PM\n",
+         "source": "email",
+         "to": "\"Kate Symes (E-mail)\" <Kate.Symes@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/symes-k/deal_communication/dow_jones/47.",
+   "hops": [
+      {
+         "from": "carla.hoffman@enron.com",
+         "line": 4,
+         "rawfrom": "carla.hoffman@enron.com\r\n",
+         "source": "valid",
+         "to": "kate.symes@enron.com"
+      },
+      {
+         "from": "djenergy@dowjones.com",
+         "line": 32,
+         "rawfrom": " djenergy <djenergy@dowjones.com>                           10/31/2000 \n",
+         "source": "email",
+         "to": ""
+      },
+      {
+         "from": "djenergy@dowjones.com",
+         "line": 48,
+         "rawfrom": " djenergy <djenergy@dowjones.com>                           10/31/2000 \n",
+         "source": "email",
+         "to": ""
+      },
+      {
+         "from": "djenergy@dowjones.com",
+         "line": 64,
+         "rawfrom": " djenergy <djenergy@dowjones.com>                           10/31/2000 \n",
+         "source": "email",
+         "to": ""
+      },
+      {
+         "from": "djenergy@dowjones.com",
+         "line": 80,
+         "rawfrom": " djenergy <djenergy@dowjones.com>                           10/31/2000 \n",
+         "source": "email",
+         "to": ""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/symes-k/discussion_threads/2692.",
+   "hops": [
+      {
+         "from": "annas@cobs.edu",
+         "line": 4,
+         "rawfrom": "annas@cobs.edu\r\n",
+         "source": "valid",
+         "to": "kate.symes@enron.com"
+      },
+      {
+         "from": "kate.symes@enron.com",
+         "line": 65,
+         "rawfrom": "Kate.Symes@enron.com [mailto:Kate.Symes@enron.com]\n",
+         "source": "email",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 129,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/23/2001 08:06:18 AM\n",
+         "source": "email",
+         "to": "\"'Kate.Symes@enron.com'\" <Kate.Symes@enron.com>"
+      },
+      {
+         "from": "kate.symes@enron.com",
+         "line": 170,
+         "rawfrom": "Kate.Symes@enron.com [mailto:Kate.Symes@enron.com]\n",
+         "source": "email",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 194,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/22/2001 04:03:33 PM\n",
+         "source": "email",
+         "to": "\"Kate Symes (E-mail)\" <Kate.Symes@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/symes-k/discussion_threads/321.",
+   "hops": [
+      {
+         "from": "carla.hoffman@enron.com",
+         "line": 4,
+         "rawfrom": "carla.hoffman@enron.com\r\n",
+         "source": "valid",
+         "to": "kate.symes@enron.com"
+      },
+      {
+         "from": "djenergy@dowjones.com",
+         "line": 32,
+         "rawfrom": " djenergy <djenergy@dowjones.com>                           10/31/2000 \n",
+         "source": "email",
+         "to": ""
+      },
+      {
+         "from": "djenergy@dowjones.com",
+         "line": 48,
+         "rawfrom": " djenergy <djenergy@dowjones.com>                           10/31/2000 \n",
+         "source": "email",
+         "to": ""
+      },
+      {
+         "from": "djenergy@dowjones.com",
+         "line": 64,
+         "rawfrom": " djenergy <djenergy@dowjones.com>                           10/31/2000 \n",
+         "source": "email",
+         "to": ""
+      },
+      {
+         "from": "djenergy@dowjones.com",
+         "line": 80,
+         "rawfrom": " djenergy <djenergy@dowjones.com>                           10/31/2000 \n",
+         "source": "email",
+         "to": ""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/symes-k/_sent_mail/354.",
+   "hops": [
+      {
+         "from": "kate.symes@enron.com",
+         "line": 4,
+         "rawfrom": "kate.symes@enron.com\r\n",
+         "source": "valid",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 74,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/23/2001 08:06:18 AM\n",
+         "source": "email",
+         "to": "\"'Kate.Symes@enron.com'\" <Kate.Symes@enron.com>"
+      },
+      {
+         "from": "kate.symes@enron.com",
+         "line": 111,
+         "rawfrom": "Kate.Symes@enron.com [mailto:Kate.Symes@enron.com]\n",
+         "source": "email",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 135,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/22/2001 04:03:33 PM\n",
+         "source": "email",
+         "to": "\"Kate Symes (E-mail)\" <Kate.Symes@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/symes-k/_sent_mail/469.",
+   "hops": [
+      {
+         "from": "kate.symes@enron.com",
+         "line": 4,
+         "rawfrom": "kate.symes@enron.com\r\n",
+         "source": "valid",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 61,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/14/2001 09:18:15 AM\n",
+         "source": "email",
+         "to": "\"'Kate.Symes@enron.com'\" <Kate.Symes@enron.com>"
+      },
+      {
+         "from": "kate.symes@enron.com",
+         "line": 118,
+         "rawfrom": "Kate.Symes@enron.com [mailto:Kate.Symes@enron.com]\n",
+         "source": "email",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 192,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/13/2001 02:55:09 PM\n",
+         "source": "email",
+         "to": "\"Kate Symes (E-mail)\" <Kate.Symes@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/symes-k/_sent_mail/464.",
+   "hops": [
+      {
+         "from": "kate.symes@enron.com",
+         "line": 4,
+         "rawfrom": "kate.symes@enron.com\r\n",
+         "source": "valid",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 58,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/14/2001 03:11:54 PM\n",
+         "source": "email",
+         "to": "\"'Kate.Symes@enron.com'\" <Kate.Symes@enron.com>"
+      },
+      {
+         "from": "kate.symes@enron.com",
+         "line": 92,
+         "rawfrom": "Kate.Symes@enron.com [mailto:Kate.Symes@enron.com]\n",
+         "source": "email",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 144,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/14/2001 09:18:15 AM\n",
+         "source": "email",
+         "to": "\"'Kate.Symes@enron.com'\" <Kate.Symes@enron.com>"
+      },
+      {
+         "from": "kate.symes@enron.com",
+         "line": 206,
+         "rawfrom": "Kate.Symes@enron.com [mailto:Kate.Symes@enron.com]\n",
+         "source": "email",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 280,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/13/2001 02:55:09 PM\n",
+         "source": "email",
+         "to": "\"Kate Symes (E-mail)\" <Kate.Symes@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/symes-k/_sent_mail/70.",
+   "hops": [
+      {
+         "from": "kate.symes@enron.com",
+         "line": 4,
+         "rawfrom": "kate.symes@enron.com\r\n",
+         "source": "valid",
+         "to": "jenders@ap.org"
+      },
+      {
+         "from": "jenders@ap.org",
+         "line": 27,
+         "rawfrom": "John Enders <jenders@ap.org> on 04/25/2001 02:01:25 PM\n",
+         "source": "email",
+         "to": "Kate.Symes@enron.com"
+      },
+      {
+         "from": "jenders@ap.org",
+         "line": 51,
+         "rawfrom": "jenders@ap.org",
+         "source": "valid",
+         "to": "Kate.Symes@enron.com"
+      },
+      {
+         "from": "jenders@ap.org",
+         "line": 72,
+         "rawfrom": "jenders@ap.org",
+         "source": "valid",
+         "to": "Kate.Symes@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/symes-k/_sent_mail/365.",
+   "hops": [
+      {
+         "from": "kate.symes@enron.com",
+         "line": 4,
+         "rawfrom": "kate.symes@enron.com\r\n",
+         "source": "valid",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 25,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/23/2001 10:43:26 AM\n",
+         "source": "email",
+         "to": "\"Ali Gazarine (E-mail)\" <aligazarine@hotmail.com>, \"Digna Van Der Feltz"
+      },
+      {
+         "from": "marys@tvapdx.com",
+         "line": 41,
+         "rawfrom": "Mary Jane Symes [mailto:marys@tvapdx.com]\n",
+         "source": "email",
+         "to": "'annas@cobs.edu'"
+      },
+      {
+         "from": "slahaie@drmartensusa.com",
+         "line": 61,
+         "rawfrom": "slahaie@drmartensusa.com\n",
+         "source": "valid",
+         "to": "slaken@columbiaforestproducts.com; janet.rivera@theplatform.com;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/symes-k/rainy_day/107.",
+   "hops": [
+      {
+         "from": "annas@cobs.edu",
+         "line": 4,
+         "rawfrom": "annas@cobs.edu\r\n",
+         "source": "valid",
+         "to": "kate.symes@enron.com"
+      },
+      {
+         "from": "kate.symes@enron.com",
+         "line": 65,
+         "rawfrom": "Kate.Symes@enron.com [mailto:Kate.Symes@enron.com]\n",
+         "source": "email",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 129,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/23/2001 08:06:18 AM\n",
+         "source": "email",
+         "to": "\"'Kate.Symes@enron.com'\" <Kate.Symes@enron.com>"
+      },
+      {
+         "from": "kate.symes@enron.com",
+         "line": 170,
+         "rawfrom": "Kate.Symes@enron.com [mailto:Kate.Symes@enron.com]\n",
+         "source": "email",
+         "to": "annas@cobs.edu"
+      },
+      {
+         "from": "annas@cobs.edu",
+         "line": 194,
+         "rawfrom": "Anna Symes <annas@cobs.edu> on 03/22/2001 04:03:33 PM\n",
+         "source": "email",
+         "to": "\"Kate Symes (E-mail)\" <Kate.Symes@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+]

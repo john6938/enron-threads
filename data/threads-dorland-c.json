@@ -1,0 +1,4838 @@
+[
+{
+   "file": "/home/jb/maildir/dorland-c/all_documents/289.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "kdorland@titanelectric.com, mgeorge@deloitte.ca, bgabrielson@cdnam.com,"
+      },
+      {
+         "from": "hasouaj@bp.com",
+         "line": 56,
+         "rawfrom": "Hasou, Andre J. [SMTP:hasouaj@bp.com]\n",
+         "source": "email",
+         "to": "'gilleanw@kochind.com'"
+      },
+      {
+         "from": "angie.kelly@williams.com",
+         "line": 72,
+         "rawfrom": " Kelly, Angie[SMTP:Angie.Kelly@Williams.com]\n",
+         "source": "email",
+         "to": "'denise'; 'Michelle'; 'Nesha'"
+      },
+      {
+         "from": "kotoole@westernhubs.com",
+         "line": 91,
+         "rawfrom": "Kevin O'Toole [mailto:kotoole@westernhubs.com]\n",
+         "source": "email",
+         "to": "'Silva, Chris - Williams'"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/all_documents/444.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "cddorlan@telusplanet.net"
+      },
+      {
+         "from": "bwilliamson@oebi.com",
+         "line": 34,
+         "rawfrom": "Blaine Williamson <bwilliamson@oebi.com>\n",
+         "source": "email",
+         "to": "\"'mjmcdermott@hotmail.com'\" <mjmcdermott@hotmail.com>"
+      },
+      {
+         "from": "mike.weninger@weatherford.com",
+         "line": 44,
+         "rawfrom": "mike.weninger@weatherford.com\n",
+         "source": "valid",
+         "to": "bwilliamson@oebi.com"
+      },
+      {
+         "from": "rdltzaec@telusplanet.net",
+         "line": 53,
+         "rawfrom": "Rodney Lutz [mailto:rdltzaec@telusplanet.net]\n",
+         "source": "email",
+         "to": "Chiplake"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent/426.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "cddorlan@telusplanet.net"
+      },
+      {
+         "from": "bwilliamson@oebi.com",
+         "line": 34,
+         "rawfrom": "Blaine Williamson <bwilliamson@oebi.com>\n",
+         "source": "email",
+         "to": "\"'mjmcdermott@hotmail.com'\" <mjmcdermott@hotmail.com>"
+      },
+      {
+         "from": "mike.weninger@weatherford.com",
+         "line": 44,
+         "rawfrom": "mike.weninger@weatherford.com\n",
+         "source": "valid",
+         "to": "bwilliamson@oebi.com"
+      },
+      {
+         "from": "rdltzaec@telusplanet.net",
+         "line": 53,
+         "rawfrom": "Rodney Lutz [mailto:rdltzaec@telusplanet.net]\n",
+         "source": "email",
+         "to": "Chiplake"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent/271.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "kdorland@titanelectric.com, mgeorge@deloitte.ca, bgabrielson@cdnam.com,"
+      },
+      {
+         "from": "hasouaj@bp.com",
+         "line": 56,
+         "rawfrom": "Hasou, Andre J. [SMTP:hasouaj@bp.com]\n",
+         "source": "email",
+         "to": "'gilleanw@kochind.com'"
+      },
+      {
+         "from": "angie.kelly@williams.com",
+         "line": 72,
+         "rawfrom": " Kelly, Angie[SMTP:Angie.Kelly@Williams.com]\n",
+         "source": "email",
+         "to": "'denise'; 'Michelle'; 'Nesha'"
+      },
+      {
+         "from": "kotoole@westernhubs.com",
+         "line": 91,
+         "rawfrom": "Kevin O'Toole [mailto:kotoole@westernhubs.com]\n",
+         "source": "email",
+         "to": "'Silva, Chris - Williams'"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/deleted_items/111.",
+   "hops": [
+      {
+         "from": "traci.mcbride@raymondjames.ca",
+         "line": 4,
+         "rawfrom": "traci.mcbride@raymondjames.ca\r\n",
+         "source": "valid",
+         "to": "chris.dorland@enron.com"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 30,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "Traci McBride"
+      },
+      {
+         "from": "traci.mcbride@raymondjames.ca",
+         "line": 47,
+         "rawfrom": "  Traci McBride <traci.mcbride@raymondjames.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 75,
+         "rawfrom": "Dorland, Chris [mailto:Chris.Dorland@ENRON.com]\n",
+         "source": "email",
+         "to": "Traci McBride"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/313.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON [mailto:IMCEANOTES-Rob+20Laird+20+3CRLaird+40natsource+2Eca+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 33,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 47,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/253.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "maria.valdes@enron.com"
+      },
+      {
+         "from": "chris.hellman@entergykoch.com",
+         "line": 39,
+         "rawfrom": "\t\"Hellman, Chris (EKT)\" <Chris.Hellman@entergykoch.com>@ENRON  \n",
+         "source": "email",
+         "to": "Valdes, Maria"
+      },
+      {
+         "from": "dean_patry@transcanada.com",
+         "line": 56,
+         "rawfrom": "> From:\tDean Patry [SMTP:dean_patry@transcanada.com]\n",
+         "source": "email",
+         "to": "Steven Jernigan; Jerry Jernigan; Mark Meunier; Mike Appling; Steve"
+      },
+      {
+         "from": "victoria_marselle@transcanada.com",
+         "line": 67,
+         "rawfrom": "\"Victoria Marselle\" <victoria_marselle@transcanada.com>\n",
+         "source": "email",
+         "to": ""
+      },
+      {
+         "from": "jbrennan@snclaw.com",
+         "line": 77,
+         "rawfrom": "\"Joe Brennan\" <jbrennan@snclaw.com>\n",
+         "source": "email",
+         "to": "\"Victoria Marselle\" <victoria_marselle@transcanada.com>,\t\"Simon Duley\" <simon.duley@tesma.com>,\t\"Rob Bell\" <jrbell@sympatico.ca>,\tpaulthepainter <paulthepainter@nexicom.net>,\t\"Nicole Lecours\" <nicole.lecours@fmc-law.com>,\t\"Kari Dixon\" <kari_dixon@hotmail.com>,\t\"Karen Dixon\" <kdixon@cdnx.ca>,\t\"John Young\" <jhp_young@hotmail.com>,\t\"Jim and Tracey Brennan\" <jandtbrennan@aol.com>,\t\"Janice Wilcox\" <janicewilcox@email.com>,\t\"Jack and Alice Bethune\" <jack.bethune@sympatico.ca>,\t\"Grant Murphy\" <thepontman@hotmail.com>,\t\"Darren Murphy\" <cdmurphy@sympatico.ca>,\t\"Brian and Pam Bethune\" <brian_pam@nexicom.net>,\t\"Brennan, Jim  - TAX\" <Jim.Brennan@statcan.ca>,\t\"Brennan Family\" <dbrennan@neptune.on.ca>"
+      },
+      {
+         "from": "gordon@valeopower.com",
+         "line": 87,
+         "rawfrom": "\"Gordon Smillie\" <gordon@valeopower.com>\n",
+         "source": "email",
+         "to": "<gordon@valeopower.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/381.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "sales@varsitychrysler.com"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 26,
+         "rawfrom": "\t\"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON [mailto:IMCEANOTES-+22Varsity+20Ecommerce+22+20+3Csales+40varsitychrysler+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 45,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 59,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 68,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 82,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 106,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 118,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 138,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 159,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 203,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/362.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "migeorge@deloitte.ca"
+      },
+      {
+         "from": "migeorge@deloitte.ca",
+         "line": 22,
+         "rawfrom": "\t\"George, Mike (CA - Calgary)\" <migeorge@deloitte.ca>@ENRON [mailto:IMCEANOTES-+22George+2C+20Mike+20+28CA+20-+20Calgary+29+22+20+3Cmigeorge+40deloitte+2Eca+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "jschoenhals@cicorp.sk.ca",
+         "line": 30,
+         "rawfrom": "Schoenhals, Jeff CIC  [mailto:JSchoenhals@cicorp.sk.ca]\n",
+         "source": "email",
+         "to": "'George, Mike (CA - Calgary)'"
+      },
+      {
+         "from": "migeorge@deloitte.ca",
+         "line": 36,
+         "rawfrom": "George, Mike (CA - Calgary)  [mailto:migeorge@deloitte.ca]\n",
+         "source": "email",
+         "to": "'Schoenhals, Jeff CIC'"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/424.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 34,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 44,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 55,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 64,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 86,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 97,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 111,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 123,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 134,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 152,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 164,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 176,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 188,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 202,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 215,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 228,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 250,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 269,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 282,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 308,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 328,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 338,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 357,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 420,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/401.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "sales@varsitychrysler.com"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 24,
+         "rawfrom": "\t\"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 39,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 53,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 82,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 101,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/471.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "lexserv@cadvision.com"
+      },
+      {
+         "from": "lexserv@cadvision.com",
+         "line": 27,
+         "rawfrom": "\t\"Lexus service\" <lexserv@cadvision.com>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 38,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "lexserv@cadvision.com"
+      },
+      {
+         "from": "lexserv@cadvision.com",
+         "line": 54,
+         "rawfrom": "  \"Lexus service\" <lexserv@cadvision.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 80,
+         "rawfrom": "Dorland, Chris [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "AlRatani@Stampede-Toyota.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/554.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "migeorge@deloitte.ca"
+      },
+      {
+         "from": "migeorge@deloitte.ca",
+         "line": 24,
+         "rawfrom": "\t\"George, Mike (CA - Calgary)\" <migeorge@deloitte.ca>@ENRON [mailto:IMCEANOTES-+22George+2C+20Mike+20+28CA+20-+20Calgary+29+22+20+3Cmigeorge+40deloitte+2Eca+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "migeorge@deloitte.ca",
+         "line": 40,
+         "rawfrom": "  \"George, Mike (CA - Calgary)\" <migeorge@deloitte.ca>@ENRON \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "migeorge@deloitte.ca",
+         "line": 66,
+         "rawfrom": "  \"George, Mike (CA - Calgary)\" <migeorge@deloitte.ca>@ENRON \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/485.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 33,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 44,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 56,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 66,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 81,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 98,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 109,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 121,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 140,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 167,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 179,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 201,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/467.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 34,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 43,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 55,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 79,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/383.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "sales@varsitychrysler.com"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 24,
+         "rawfrom": "\t\"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON [mailto:IMCEANOTES-+22Varsity+20Ecommerce+22+20+3Csales+40varsitychrysler+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 43,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 57,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 66,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 80,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 104,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 116,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 136,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 157,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 201,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/290.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "sales@varsitychrysler.com"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 26,
+         "rawfrom": "\t\"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON [mailto:IMCEANOTES-+22Varsity+20Ecommerce+22+20+3Csales+40varsitychrysler+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 44,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 67,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 89,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 105,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 114,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 129,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 156,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 170,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 191,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 266,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/555.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "migeorge@deloitte.ca"
+      },
+      {
+         "from": "migeorge@deloitte.ca",
+         "line": 22,
+         "rawfrom": "\t\"George, Mike (CA - Calgary)\" <migeorge@deloitte.ca>@ENRON [mailto:IMCEANOTES-+22George+2C+20Mike+20+28CA+20-+20Calgary+29+22+20+3Cmigeorge+40deloitte+2Eca+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "migeorge@deloitte.ca",
+         "line": 38,
+         "rawfrom": "  \"George, Mike (CA - Calgary)\" <migeorge@deloitte.ca>@ENRON \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "migeorge@deloitte.ca",
+         "line": 64,
+         "rawfrom": "  \"George, Mike (CA - Calgary)\" <migeorge@deloitte.ca>@ENRON \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/378.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON [mailto:IMCEANOTES-Rob+20Laird+20+3CRLaird+40natsource+2Eca+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 34,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 51,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/377.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON [mailto:IMCEANOTES-Rob+20Laird+20+3CRLaird+40natsource+2Eca+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 34,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 49,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 62,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 80,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/364.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "russell.ballato@enron.com, matt.lorenz@enron.com, mike.carson@enron.com,"
+      },
+      {
+         "from": "migeorge@deloitte.ca",
+         "line": 23,
+         "rawfrom": "\t\"George, Mike (CA - Calgary)\" <migeorge@deloitte.ca>@ENRON [mailto:IMCEANOTES-+22George+2C+20Mike+20+28CA+20-+20Calgary+29+22+20+3Cmigeorge+40deloitte+2Eca+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "jschoenhals@cicorp.sk.ca",
+         "line": 31,
+         "rawfrom": "Schoenhals, Jeff CIC  [mailto:JSchoenhals@cicorp.sk.ca]\n",
+         "source": "email",
+         "to": "'George, Mike (CA - Calgary)'"
+      },
+      {
+         "from": "migeorge@deloitte.ca",
+         "line": 37,
+         "rawfrom": "George, Mike (CA - Calgary)  [mailto:migeorge@deloitte.ca]\n",
+         "source": "email",
+         "to": "'Schoenhals, Jeff CIC'"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/488.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 35,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 47,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 58,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 68,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 85,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 107,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 118,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 138,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/423.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON [mailto:IMCEANOTES-Rob+20Laird+20+3CRLaird+40natsource+2Eca+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 35,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 45,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 57,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 68,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 79,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 88,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 113,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 125,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 139,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 151,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 164,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 184,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 196,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 208,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 220,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 234,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 248,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 262,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 286,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 307,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 320,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 349,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 369,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 381,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 400,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/164.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 33,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 43,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/375.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON [mailto:IMCEANOTES-Rob+20Laird+20+3CRLaird+40natsource+2Eca+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 33,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 47,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 58,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 82,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 95,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 113,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 127,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 150,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/69.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "cdorland@hotmail.com"
+      },
+      {
+         "from": "migeorge@deloitte.ca",
+         "line": 22,
+         "rawfrom": "=09\"George, Mike (CA - Calgary)\" <migeorge@deloitte.ca>@ENRON =20\r\n",
+         "source": "email",
+         "to": "=09'nuke'; 'Johnny Utah'; 'Hymie'; Dorland, Chris"
+      },
+      {
+         "from": "jprins@menloparkcorp.com",
+         "line": 63,
+         "rawfrom": "John Prins  [mailto:JPrins@menloparkcorp.com]\r\n",
+         "source": "email",
+         "to": "bwilliams@petersco.com; Cameron Plewes;  cchoi@petersco.com; ctraue@gmx="
+      },
+      {
+         "from": "nicop@grasslands.ab.ca",
+         "line": 95,
+         "rawfrom": "Nico Prins  [mailto:nicop@grasslands.ab.ca]=20\r\n",
+         "source": "email",
+         "to": "Turner; Tracy; Taylor; Stacey;  Sherriffs, Brad; Shawn Pederson; rod (h="
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/363.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "migeorge@deloitte.ca"
+      },
+      {
+         "from": "migeorge@deloitte.ca",
+         "line": 22,
+         "rawfrom": "\t\"George, Mike (CA - Calgary)\" <migeorge@deloitte.ca>@ENRON [mailto:IMCEANOTES-+22George+2C+20Mike+20+28CA+20-+20Calgary+29+22+20+3Cmigeorge+40deloitte+2Eca+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "jschoenhals@cicorp.sk.ca",
+         "line": 30,
+         "rawfrom": "Schoenhals, Jeff CIC  [mailto:JSchoenhals@cicorp.sk.ca]\n",
+         "source": "email",
+         "to": "'George, Mike (CA - Calgary)'"
+      },
+      {
+         "from": "migeorge@deloitte.ca",
+         "line": 36,
+         "rawfrom": "George, Mike (CA - Calgary)  [mailto:migeorge@deloitte.ca]\n",
+         "source": "email",
+         "to": "'Schoenhals, Jeff CIC'"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/440.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 33,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 46,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 57,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 68,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 79,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 90,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 101,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 112,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 130,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 145,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 157,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 176,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 194,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 203,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 220,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 266,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/491.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 24,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 35,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 50,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/433.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 37,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 47,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 60,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 71,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 82,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 98,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 109,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 120,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 131,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 144,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 157,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 170,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 191,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 209,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 221,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 245,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 264,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 273,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 291,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 344,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/116.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 33,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 42,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 53,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 62,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/418.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "kerrie.murray@telus.com"
+      },
+      {
+         "from": "kerrie.murray@telus.com",
+         "line": 26,
+         "rawfrom": "\t\"Kerrie Murray\" <Kerrie.Murray@TELUS.Com>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 39,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "Kerrie.Murray@TELUS.Com"
+      },
+      {
+         "from": "kerrie.murray@telus.com",
+         "line": 56,
+         "rawfrom": "  \"Kerrie Murray\" <Kerrie.Murray@TELUS.Com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/324.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "sales@varsitychrysler.com"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 26,
+         "rawfrom": "\t\"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON [mailto:IMCEANOTES-+22Varsity+20Ecommerce+22+20+3Csales+40varsitychrysler+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 45,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 59,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 68,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 82,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 106,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 118,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 138,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 159,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 203,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/148.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 34,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 43,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 54,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 63,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 76,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 87,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/465.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 33,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 44,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 57,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 66,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 79,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 107,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/198.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "migeorge@deloitte.ca"
+      },
+      {
+         "from": "migeorge@deloitte.ca",
+         "line": 22,
+         "rawfrom": "\t\"George, Mike (CA - Calgary)\" <migeorge@deloitte.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 35,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "George, Mike (CA - Calgary)"
+      },
+      {
+         "from": "migeorge@deloitte.ca",
+         "line": 47,
+         "rawfrom": "  \"George, Mike (CA - Calgary)\" <migeorge@deloitte.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/150.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 33,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 42,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 54,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 65,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/489.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 33,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 43,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 59,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 78,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 89,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 108,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/456.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "jfrizzley@shearman.com"
+      },
+      {
+         "from": "jfrizzley@shearman.com",
+         "line": 22,
+         "rawfrom": "\t\"Jill Frizzley\" <JFrizzley@Shearman.com>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 51,
+         "rawfrom": "Chris.Dorland@enron.com on 08/14/2001 03:29:23 PM\n",
+         "source": "email",
+         "to": "JFrizzley@Shearman.com"
+      },
+      {
+         "from": "jfrizzley@shearman.com",
+         "line": 110,
+         "rawfrom": "  \"Jill Frizzley\" <JFrizzley@Shearman.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 192,
+         "rawfrom": "Chris.Dorland@enron.com on 08/14/2001 01:43:21 PM\n",
+         "source": "email",
+         "to": "JFrizzley@Shearman.com"
+      },
+      {
+         "from": "jfrizzley@shearman.com",
+         "line": 214,
+         "rawfrom": "  \"Jill Frizzley\" <JFrizzley@Shearman.com>@ENRON\n",
+         "source": "email",
+         "to": "pkonieczny@bear.com; Nicole D Scaramelli; Bryn Jedlic;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/483.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 37,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 49,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 60,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 72,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 85,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 96,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 112,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 132,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 143,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 156,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 178,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 208,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 220,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 244,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/464.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 35,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 46,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 57,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 71,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 85,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 94,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 108,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 139,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/487.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 34,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 44,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 57,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 72,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 83,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 94,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 113,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 138,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 149,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 170,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/428.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 33,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 42,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 60,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 71,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 84,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 96,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 107,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 124,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 135,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 147,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 159,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 172,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 185,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 198,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 220,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 239,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 251,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 275,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 294,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 303,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 321,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 380,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/439.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 34,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 44,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 55,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 69,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 80,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 91,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 102,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 114,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 125,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 137,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 157,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 174,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 186,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 207,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 226,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 235,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 252,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 302,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/486.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 33,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 44,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 56,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 66,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 81,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 98,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 109,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 121,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 140,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 167,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 179,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 201,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/367.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "sales@varsitychrysler.com"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 22,
+         "rawfrom": "\t\"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON [mailto:IMCEANOTES-+22Varsity+20Ecommerce+22+20+3Csales+40varsitychrysler+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 41,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 55,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 64,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 78,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 102,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 114,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 134,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 155,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 199,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/430.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 33,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 42,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 60,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 71,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 84,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 96,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 107,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 124,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 135,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 147,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 159,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 172,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 185,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 198,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 220,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 239,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 251,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 275,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 294,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 303,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 321,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 380,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/106.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Acampbell@Reliant. Com (E-mail); Angel (E-mail); Barry Erskine (E-mail); Brad Saville (E-mail); Brandon Evans (E-mail); Brian Wood (E-mail); David Miles (E-mail); Duncan MacDonald (E-mail); Genevieve Bailey (E-mail); Gill Boyd (E-mail); Dorland, Chris; Jody Macdonald (E-mail); Karen Wyke (E-mail); Kevin Lindsay (E-mail); Meat Wacker (E-mail); Michael Kirker (E-mail); Organizers - Event Management Ltd. (E-mail); Paul Skeans (E-mail); Sean Blix (E-mail); Trevor Johnson (E-mail)"
+      },
+      {
+         "from": "chetty6@hotmail.com",
+         "line": 34,
+         "rawfrom": "Blair McDermid [mailto:chetty6@hotmail.com]\n",
+         "source": "email",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "patrick_elliott@pancanadianenergy.com",
+         "line": 43,
+         "rawfrom": "\"Patrick Elliott\" <Patrick_Elliott@PanCanadianEnergy.com>\n",
+         "source": "email",
+         "to": "Blair McDermid <chetty6@hotmail.com>,        Lorenzo Fontana"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/372.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON [mailto:IMCEANOTES-Rob+20Laird+20+3CRLaird+40natsource+2Eca+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 35,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 52,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 63,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 80,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 91,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 107,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 118,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 149,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 163,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 184,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 200,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 229,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/117.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 33,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 42,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/463.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 33,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 43,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 57,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 70,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 81,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 95,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 110,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 119,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 133,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 168,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/400.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "sales@varsitychrysler.com"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 24,
+         "rawfrom": "\t\"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 42,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 54,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 70,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 86,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 122,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 143,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/376.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON [mailto:IMCEANOTES-Rob+20Laird+20+3CRLaird+40natsource+2Eca+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 33,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 52,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 64,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 81,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 94,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 116,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/459.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "jfrizzley@shearman.com"
+      },
+      {
+         "from": "jfrizzley@shearman.com",
+         "line": 40,
+         "rawfrom": "\t\"Jill Frizzley\" <JFrizzley@Shearman.com>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 103,
+         "rawfrom": "Chris.Dorland@enron.com on 08/14/2001 01:43:21 PM\n",
+         "source": "email",
+         "to": "JFrizzley@Shearman.com"
+      },
+      {
+         "from": "jfrizzley@shearman.com",
+         "line": 122,
+         "rawfrom": "  \"Jill Frizzley\" <JFrizzley@Shearman.com>@ENRON\n",
+         "source": "email",
+         "to": "pkonieczny@bear.com; Nicole D Scaramelli; Bryn Jedlic;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/374.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON [mailto:IMCEANOTES-Rob+20Laird+20+3CRLaird+40natsource+2Eca+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 33,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 48,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 59,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 74,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 85,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 111,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 124,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 144,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 159,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 185,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/373.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON [mailto:IMCEANOTES-Rob+20Laird+20+3CRLaird+40natsource+2Eca+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 33,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 48,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 59,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 74,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 85,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 111,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 124,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 144,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 159,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 185,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/403.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "sales@varsitychrysler.com"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 24,
+         "rawfrom": "\t\"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 48,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 64,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/429.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "lexserv@cadvision.com"
+      },
+      {
+         "from": "lexserv@cadvision.com",
+         "line": 24,
+         "rawfrom": "\t\"Lexus service\" <lexserv@cadvision.com>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 35,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "lexserv@cadvision.com"
+      },
+      {
+         "from": "lexserv@cadvision.com",
+         "line": 51,
+         "rawfrom": "  \"Lexus service\" <lexserv@cadvision.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 77,
+         "rawfrom": "Dorland, Chris [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "AlRatani@Stampede-Toyota.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/149.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 34,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 43,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 54,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 63,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 76,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 87,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/370.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "dan.dorland@enron.com"
+      },
+      {
+         "from": "migeorge@deloitte.ca",
+         "line": 30,
+         "rawfrom": "George, Mike (CA - Calgary) [mailto:migeorge@deloitte.ca]\n",
+         "source": "email",
+         "to": "Dorland, Dan"
+      },
+      {
+         "from": "dan.dorland@enron.com",
+         "line": 46,
+         "rawfrom": "Dorland, Dan [mailto:Dan.Dorland@ENRON.com]\n",
+         "source": "email",
+         "to": "George, Mike (CA - Calgary)"
+      },
+      {
+         "from": "migeorge@deloitte.ca",
+         "line": 55,
+         "rawfrom": "George, Mike (CA - Calgary) [mailto:migeorge@deloitte.ca]\n",
+         "source": "email",
+         "to": "Dorland, Dan"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/441.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 24,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 35,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 45,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 56,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 67,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 78,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 88,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 104,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 119,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 130,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 148,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 165,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 174,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 190,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 232,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/199.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "migeorge@deloitte.ca"
+      },
+      {
+         "from": "migeorge@deloitte.ca",
+         "line": 22,
+         "rawfrom": "\t\"George, Mike (CA - Calgary)\" <migeorge@deloitte.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 35,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "George, Mike (CA - Calgary)"
+      },
+      {
+         "from": "migeorge@deloitte.ca",
+         "line": 47,
+         "rawfrom": "  \"George, Mike (CA - Calgary)\" <migeorge@deloitte.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/466.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 34,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 43,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 55,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 79,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/399.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "sales@varsitychrysler.com"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 24,
+         "rawfrom": "\t\"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 33,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 46,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 67,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 79,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 97,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 115,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 155,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 179,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/460.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 33,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 43,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 54,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 64,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 78,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 91,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 102,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 117,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 133,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 142,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 158,
+         "rawfrom": "Chris.Dorland@enron.com\n",
+         "source": "valid",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 196,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/468.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 34,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 53,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/490.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "rlaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 22,
+         "rawfrom": "\tRob Laird <RLaird@natsource.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 36,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 52,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 63,
+         "rawfrom": "Chris.Dorland@enron.com [mailto:Chris.Dorland@enron.com]\n",
+         "source": "email",
+         "to": "RLaird@natsource.ca"
+      },
+      {
+         "from": "rlaird@natsource.ca",
+         "line": 80,
+         "rawfrom": "  Rob Laird <RLaird@natsource.ca>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/sent_items/365.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "sales@varsitychrysler.com"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 22,
+         "rawfrom": "\t\"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON [mailto:IMCEANOTES-+22Varsity+20Ecommerce+22+20+3Csales+40varsitychrysler+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 43,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 59,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 81,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 97,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 106,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 121,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>@ENRON\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 148,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "sales@varsitychrysler.com",
+         "line": 162,
+         "rawfrom": "  \"Varsity Ecommerce\" <sales@varsitychrysler.com>\n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 183,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      },
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 258,
+         "rawfrom": "<Chris.Dorland@enron.com>\n",
+         "source": "email",
+         "to": "<sales@varsitychrysler.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/discussion_threads/15.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "cddorlan@telusplanet.net"
+      },
+      {
+         "from": "bwilliamson@oebi.com",
+         "line": 34,
+         "rawfrom": "Blaine Williamson <bwilliamson@oebi.com>\n",
+         "source": "email",
+         "to": "\"'mjmcdermott@hotmail.com'\" <mjmcdermott@hotmail.com>"
+      },
+      {
+         "from": "mike.weninger@weatherford.com",
+         "line": 44,
+         "rawfrom": "mike.weninger@weatherford.com\n",
+         "source": "valid",
+         "to": "bwilliamson@oebi.com"
+      },
+      {
+         "from": "rdltzaec@telusplanet.net",
+         "line": 53,
+         "rawfrom": "Rodney Lutz [mailto:rdltzaec@telusplanet.net]\n",
+         "source": "email",
+         "to": "Chiplake"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/dorland-c/discussion_threads/126.",
+   "hops": [
+      {
+         "from": "chris.dorland@enron.com",
+         "line": 4,
+         "rawfrom": "chris.dorland@enron.com\r\n",
+         "source": "valid",
+         "to": "kdorland@titanelectric.com, mgeorge@deloitte.ca, bgabrielson@cdnam.com,"
+      },
+      {
+         "from": "hasouaj@bp.com",
+         "line": 56,
+         "rawfrom": "Hasou, Andre J. [SMTP:hasouaj@bp.com]\n",
+         "source": "email",
+         "to": "'gilleanw@kochind.com'"
+      },
+      {
+         "from": "angie.kelly@williams.com",
+         "line": 72,
+         "rawfrom": " Kelly, Angie[SMTP:Angie.Kelly@Williams.com]\n",
+         "source": "email",
+         "to": "'denise'; 'Michelle'; 'Nesha'"
+      },
+      {
+         "from": "kotoole@westernhubs.com",
+         "line": 91,
+         "rawfrom": "Kevin O'Toole [mailto:kotoole@westernhubs.com]\n",
+         "source": "email",
+         "to": "'Silva, Chris - Williams'"
+      }
+   ],
+   "skipped": 5
+}
+]

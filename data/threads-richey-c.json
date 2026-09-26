@@ -1,0 +1,2899 @@
+[
+{
+   "file": "/home/jb/maildir/richey-c/inbox/43.",
+   "hops": [
+      {
+         "from": "jilld@cnrl.com",
+         "line": 4,
+         "rawfrom": "jilld@cnrl.com\r\n",
+         "source": "valid",
+         "to": "cooper.richey@enron.com"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 24,
+         "rawfrom": "  Cooper.Richey@enron.com [SMTP:Cooper.Richey@enron.com] \n",
+         "source": "email",
+         "to": "JillD@cnrl.com"
+      },
+      {
+         "from": "jilld@cnrl.com",
+         "line": 49,
+         "rawfrom": "  Jill Dunlop <JillD@cnrl.com>@ENRON \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 70,
+         "rawfrom": "  Cooper.Richey@enron.com [SMTP:Cooper.Richey@enron.com] \n",
+         "source": "email",
+         "to": "JillD@cnrl.com"
+      },
+      {
+         "from": "jilld@cnrl.com",
+         "line": 101,
+         "rawfrom": "  Jill Dunlop <JillD@cnrl.com>@ENRON \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/38.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jilld@cnrl.com"
+      },
+      {
+         "from": "jilld@cnrl.com",
+         "line": 29,
+         "rawfrom": "\tJill Dunlop <JillD@cnrl.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 42,
+         "rawfrom": "  Cooper.Richey@enron.com [SMTP:Cooper.Richey@enron.com] \n",
+         "source": "email",
+         "to": "JillD@cnrl.com"
+      },
+      {
+         "from": "jilld@cnrl.com",
+         "line": 60,
+         "rawfrom": "  Jill Dunlop <JillD@cnrl.com>@ENRON \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/128.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 22,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 30,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 39,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 47,
+         "rawfrom": "Richey, Cooper [mailto:Cooper.Richey@ENRON.com]\n",
+         "source": "email",
+         "to": "jhawker@petersco.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/37.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 22,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 30,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 40,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 48,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 63,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 79,
+         "rawfrom": "Jai Hawker  [mailto:JHawker@petersco.com]\n",
+         "source": "email",
+         "to": "'Staveley, Catheryn D'"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 100,
+         "rawfrom": "Jai Hawker  [mailto:JHawker@petersco.com]\n",
+         "source": "email",
+         "to": "'Staveley, Catheryn D'"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 130,
+         "rawfrom": "Jai Hawker  [mailto:JHawker@petersco.com]\n",
+         "source": "email",
+         "to": "'Staveley, Catheryn D'"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/91.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "epurtzki@deloitte.ca",
+         "line": 22,
+         "rawfrom": "\t\"Purtzki, Emily (CA - Calgary)\" <epurtzki@deloitte.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "epurtzki@deloitte.ca",
+         "line": 46,
+         "rawfrom": "  \"Purtzki, Emily (CA - Calgary)\" <epurtzki@deloitte.ca>@ENRON \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 71,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com  << File: \n",
+         "source": "email",
+         "to": "Purtzki, Emily (CA - Calgary)"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/142.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 22,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 30,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 39,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 47,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 62,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 72,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 85,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 99,
+         "rawfrom": "Richey, Cooper [mailto:Cooper.Richey@ENRON.com]\n",
+         "source": "email",
+         "to": "jhawker@petersco.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/30.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 22,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 30,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 39,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/40.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 22,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 30,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 44,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "catheryn.staveley@hugheschris.com",
+         "line": 52,
+         "rawfrom": "Staveley, Catheryn D  [mailto:catheryn.staveley@hugheschris.com]\n",
+         "source": "email",
+         "to": "Jai Hawker"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 59,
+         "rawfrom": "Jai Hawker  [mailto:JHawker@petersco.com]\n",
+         "source": "email",
+         "to": "'Staveley, Catheryn D'"
+      },
+      {
+         "from": "catheryn.staveley@hugheschris.com",
+         "line": 71,
+         "rawfrom": " Staveley, Catheryn D [mailto:catheryn.staveley@hugheschris.com]\n",
+         "source": "email",
+         "to": "Jai  Hawker"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 77,
+         "rawfrom": "Jai Hawker  [mailto:JHawker@petersco.com]\n",
+         "source": "email",
+         "to": "'Staveley, Catheryn D'"
+      },
+      {
+         "from": "catheryn.staveley@hugheschris.com",
+         "line": 88,
+         "rawfrom": "Staveley,  Catheryn D [mailto:catheryn.staveley@hugheschris.com]\n",
+         "source": "email",
+         "to": "Jai  Hawker"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 103,
+         "rawfrom": "Jai Hawker  [mailto:JHawker@petersco.com]\n",
+         "source": "email",
+         "to": "'Staveley, Catheryn D'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/191.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 22,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 30,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 39,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 49,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 58,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 66,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 75,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 83,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 92,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 100,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 109,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 118,
+         "rawfrom": "Cooper.Richey@enron.com\n",
+         "source": "valid",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 132,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/58.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 22,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "brenda_smith@hotmail.com",
+         "line": 33,
+         "rawfrom": "brenda smith [mailto:brenda_smith@hotmail.com]\n",
+         "source": "email",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jordandrobot@hotmail.com",
+         "line": 47,
+         "rawfrom": "\"Jordan Drobot\" <jordandrobot@hotmail.com>\n",
+         "source": "email",
+         "to": "brenda_smith@hotmail.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/59.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 22,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 31,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 41,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/27.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jilld@cnrl.com",
+         "line": 22,
+         "rawfrom": "\tJill Dunlop <JillD@cnrl.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 36,
+         "rawfrom": "  Cooper.Richey@enron.com [SMTP:Cooper.Richey@enron.com] \n",
+         "source": "email",
+         "to": "JillD@cnrl.com"
+      },
+      {
+         "from": "jilld@cnrl.com",
+         "line": 55,
+         "rawfrom": "  Jill Dunlop <JillD@cnrl.com>@ENRON \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 71,
+         "rawfrom": "  Cooper.Richey@enron.com [SMTP:Cooper.Richey@enron.com] \n",
+         "source": "email",
+         "to": "JillD@cnrl.com"
+      },
+      {
+         "from": "jilld@cnrl.com",
+         "line": 91,
+         "rawfrom": "  Jill Dunlop <JillD@cnrl.com>@ENRON \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/215.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 26,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 34,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 43,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/56.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 22,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 31,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 40,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "brenda_smith@hotmail.com",
+         "line": 53,
+         "rawfrom": "brenda smith [mailto:brenda_smith@hotmail.com]\n",
+         "source": "email",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jordandrobot@hotmail.com",
+         "line": 69,
+         "rawfrom": "\"Jordan Drobot\" <jordandrobot@hotmail.com>\n",
+         "source": "email",
+         "to": "brenda_smith@hotmail.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/71.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 22,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 30,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 40,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 48,
+         "rawfrom": "Richey, Cooper [mailto:Cooper.Richey@ENRON.com]\n",
+         "source": "email",
+         "to": "jhawker@petersco.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/139.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 22,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 31,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 42,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 50,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 59,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 67,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 82,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 92,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 106,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 120,
+         "rawfrom": "Richey, Cooper [mailto:Cooper.Richey@ENRON.com]\n",
+         "source": "email",
+         "to": "jhawker@petersco.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/123.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "epurtzki@deloitte.ca"
+      },
+      {
+         "from": "epurtzki@deloitte.ca",
+         "line": 27,
+         "rawfrom": "\t\"Purtzki, Emily (CA - Calgary)\" <epurtzki@deloitte.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "epurtzki@deloitte.ca",
+         "line": 49,
+         "rawfrom": "  \"Purtzki, Emily (CA - Calgary)\" <epurtzki@deloitte.ca>@ENRON \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "epurtzki@deloitte.ca",
+         "line": 83,
+         "rawfrom": "  \"Purtzki, Emily (CA - Calgary)\" <epurtzki@deloitte.ca>@ENRON \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/54.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 22,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 30,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 53,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 65,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 74,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 82,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 91,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "brenda_smith@hotmail.com",
+         "line": 106,
+         "rawfrom": "brenda smith [mailto:brenda_smith@hotmail.com]\n",
+         "source": "email",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jordandrobot@hotmail.com",
+         "line": 124,
+         "rawfrom": "\"Jordan Drobot\" <jordandrobot@hotmail.com>\n",
+         "source": "email",
+         "to": "brenda_smith@hotmail.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/145.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 22,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 30,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 39,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 47,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 62,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 72,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 85,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 99,
+         "rawfrom": "Richey, Cooper [mailto:Cooper.Richey@ENRON.com]\n",
+         "source": "email",
+         "to": "jhawker@petersco.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/69.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 22,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 30,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 39,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 47,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 56,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 64,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 74,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 82,
+         "rawfrom": "Richey, Cooper [mailto:Cooper.Richey@ENRON.com]\n",
+         "source": "email",
+         "to": "jhawker@petersco.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/57.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 22,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 30,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 39,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "brenda_smith@hotmail.com",
+         "line": 52,
+         "rawfrom": "brenda smith [mailto:brenda_smith@hotmail.com]\n",
+         "source": "email",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jordandrobot@hotmail.com",
+         "line": 68,
+         "rawfrom": "\"Jordan Drobot\" <jordandrobot@hotmail.com>\n",
+         "source": "email",
+         "to": "brenda_smith@hotmail.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/141.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "corinna.johnston@intria.com"
+      },
+      {
+         "from": "corinna.johnston@intria.com",
+         "line": 24,
+         "rawfrom": "\t\"Johnston, Corinna\" <Corinna.Johnston@Intria.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 43,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "Corinna.Johnston@intria.com"
+      },
+      {
+         "from": "corinna.johnston@intria.com",
+         "line": 75,
+         "rawfrom": "  \"Johnston, Corinna\" <Corinna.Johnston@Intria.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 95,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "Corinna.Johnston@intria.com"
+      },
+      {
+         "from": "corinna.johnston@intria.com",
+         "line": 109,
+         "rawfrom": "  \"Johnston, Corinna\" <Corinna.Johnston@Intria.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/143.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "corinna.johnston@intria.com"
+      },
+      {
+         "from": "corinna.johnston@intria.com",
+         "line": 31,
+         "rawfrom": "\t\"Johnston, Corinna\" <Corinna.Johnston@Intria.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 48,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "Corinna.Johnston@intria.com"
+      },
+      {
+         "from": "corinna.johnston@intria.com",
+         "line": 61,
+         "rawfrom": "  \"Johnston, Corinna\" <Corinna.Johnston@Intria.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/39.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 22,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 30,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 41,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/196.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 22,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 30,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 39,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 47,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 56,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 64,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 73,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 81,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 94,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/88.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 24,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 40,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 56,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "epurtzki@deloitte.ca",
+         "line": 63,
+         "rawfrom": "Purtzki, Emily (CA - Calgary) [mailto:epurtzki@deloitte.ca]\n",
+         "source": "email",
+         "to": "'JHawker@petersco.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/146.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 22,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 30,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 44,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 53,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 64,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 76,
+         "rawfrom": "Richey, Cooper [mailto:Cooper.Richey@ENRON.com]\n",
+         "source": "email",
+         "to": "jhawker@petersco.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/193.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 25,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 33,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 42,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 52,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 61,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 69,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 78,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 86,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 95,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 103,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 112,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 121,
+         "rawfrom": "Cooper.Richey@enron.com\n",
+         "source": "valid",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 135,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/197.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 22,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 30,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 39,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 47,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 56,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 64,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 76,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/223.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 22,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "littlewing97@hotmail.com",
+         "line": 30,
+         "rawfrom": "Sarah Wells Elford [mailto:littlewing97@hotmail.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 43,
+         "rawfrom": "Jai Hawker <JHawker@petersco.com>\n",
+         "source": "email",
+         "to": "'Sarah Wells Elford' <littlewing97@hotmail.com>"
+      },
+      {
+         "from": "littlewing97@hotmail.com",
+         "line": 68,
+         "rawfrom": "Sarah Wells Elford [mailto:littlewing97@hotmail.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/241.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 22,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 31,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 41,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/19.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jilld@cnrl.com"
+      },
+      {
+         "from": "jilld@cnrl.com",
+         "line": 31,
+         "rawfrom": "\tJill Dunlop <JillD@cnrl.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 44,
+         "rawfrom": "  Cooper.Richey@enron.com [SMTP:Cooper.Richey@enron.com] \n",
+         "source": "email",
+         "to": "JillD@cnrl.com"
+      },
+      {
+         "from": "jilld@cnrl.com",
+         "line": 69,
+         "rawfrom": "  Jill Dunlop <JillD@cnrl.com>@ENRON \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/192.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 24,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 32,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 41,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 51,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 60,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 68,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 77,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 85,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 94,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 102,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 111,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 120,
+         "rawfrom": "Cooper.Richey@enron.com\n",
+         "source": "valid",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 134,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/115.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 24,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 32,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 41,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "jennifersmith@aec.ca",
+         "line": 49,
+         "rawfrom": "Smith, Jennifer [mailto:JenniferSmith@aec.ca]\n",
+         "source": "email",
+         "to": "'jhawker@petersco.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/198.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 22,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 30,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 39,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 47,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 58,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/195.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 22,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 31,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 40,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 48,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 57,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 65,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 74,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 82,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 91,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 99,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 113,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/138.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "corinna.johnston@intria.com"
+      },
+      {
+         "from": "corinna.johnston@intria.com",
+         "line": 22,
+         "rawfrom": "\t\"Johnston, Corinna\" <Corinna.Johnston@Intria.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 33,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "Corinna.Johnston@intria.com"
+      },
+      {
+         "from": "corinna.johnston@intria.com",
+         "line": 48,
+         "rawfrom": "  \"Johnston, Corinna\" <Corinna.Johnston@Intria.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 73,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "Corinna.Johnston@intria.com"
+      },
+      {
+         "from": "corinna.johnston@intria.com",
+         "line": 116,
+         "rawfrom": "  \"Johnston, Corinna\" <Corinna.Johnston@Intria.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 140,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "Corinna.Johnston@intria.com"
+      },
+      {
+         "from": "corinna.johnston@intria.com",
+         "line": 156,
+         "rawfrom": "  \"Johnston, Corinna\" <Corinna.Johnston@Intria.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/55.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 33,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 44,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 53,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 61,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 70,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "brenda_smith@hotmail.com",
+         "line": 83,
+         "rawfrom": "brenda smith [mailto:brenda_smith@hotmail.com]\n",
+         "source": "email",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jordandrobot@hotmail.com",
+         "line": 99,
+         "rawfrom": "\"Jordan Drobot\" <jordandrobot@hotmail.com>\n",
+         "source": "email",
+         "to": "brenda_smith@hotmail.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/70.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 22,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 30,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 39,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 47,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 57,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 65,
+         "rawfrom": "Richey, Cooper [mailto:Cooper.Richey@ENRON.com]\n",
+         "source": "email",
+         "to": "jhawker@petersco.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/42.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 26,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "catheryn.staveley@hugheschris.com",
+         "line": 34,
+         "rawfrom": "Staveley, Catheryn D  [mailto:catheryn.staveley@hugheschris.com] \n",
+         "source": "email",
+         "to": "Jai Hawker"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 41,
+         "rawfrom": "Jai Hawker  [mailto:JHawker@petersco.com]\n",
+         "source": "email",
+         "to": "'Staveley, Catheryn D'"
+      },
+      {
+         "from": "catheryn.staveley@hugheschris.com",
+         "line": 51,
+         "rawfrom": " Staveley, Catheryn D [mailto:catheryn.staveley@hugheschris.com]  \n",
+         "source": "email",
+         "to": "Jai  Hawker"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 57,
+         "rawfrom": "Jai Hawker  [mailto:JHawker@petersco.com]\n",
+         "source": "email",
+         "to": "'Staveley, Catheryn D'"
+      },
+      {
+         "from": "catheryn.staveley@hugheschris.com",
+         "line": 63,
+         "rawfrom": "Staveley,  Catheryn D [mailto:catheryn.staveley@hugheschris.com] \n",
+         "source": "email",
+         "to": "Jai  Hawker"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 74,
+         "rawfrom": "Jai Hawker  [mailto:JHawker@petersco.com]\n",
+         "source": "email",
+         "to": "'Staveley, Catheryn D'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/9.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jilld@cnrl.com"
+      },
+      {
+         "from": "jilld@cnrl.com",
+         "line": 36,
+         "rawfrom": "\tJill Dunlop <JillD@cnrl.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 49,
+         "rawfrom": "  Cooper.Richey@enron.com [SMTP:Cooper.Richey@enron.com] \n",
+         "source": "email",
+         "to": "JillD@cnrl.com"
+      },
+      {
+         "from": "jilld@cnrl.com",
+         "line": 74,
+         "rawfrom": "  Jill Dunlop <JillD@cnrl.com>@ENRON \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 95,
+         "rawfrom": "  Cooper.Richey@enron.com [SMTP:Cooper.Richey@enron.com] \n",
+         "source": "email",
+         "to": "JillD@cnrl.com"
+      },
+      {
+         "from": "jilld@cnrl.com",
+         "line": 126,
+         "rawfrom": "  Jill Dunlop <JillD@cnrl.com>@ENRON \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/137.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "corinna.johnston@intria.com"
+      },
+      {
+         "from": "corinna.johnston@intria.com",
+         "line": 22,
+         "rawfrom": "\t\"Johnston, Corinna\" <Corinna.Johnston@Intria.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 33,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "Corinna.Johnston@intria.com"
+      },
+      {
+         "from": "corinna.johnston@intria.com",
+         "line": 48,
+         "rawfrom": "  \"Johnston, Corinna\" <Corinna.Johnston@Intria.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 73,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "Corinna.Johnston@intria.com"
+      },
+      {
+         "from": "corinna.johnston@intria.com",
+         "line": 116,
+         "rawfrom": "  \"Johnston, Corinna\" <Corinna.Johnston@Intria.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 140,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "Corinna.Johnston@intria.com"
+      },
+      {
+         "from": "corinna.johnston@intria.com",
+         "line": 156,
+         "rawfrom": "  \"Johnston, Corinna\" <Corinna.Johnston@Intria.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/242.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 22,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 31,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 41,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/149.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 26,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 35,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 45,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 56,
+         "rawfrom": "Richey, Cooper [mailto:Cooper.Richey@ENRON.com]\n",
+         "source": "email",
+         "to": "jhawker@petersco.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/26.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 24,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 35,
+         "rawfrom": "Richey, Cooper [mailto:Cooper.Richey@ENRON.com]\n",
+         "source": "email",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jilld@cnrl.com",
+         "line": 44,
+         "rawfrom": "\tJill Dunlop <JillD@cnrl.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 66,
+         "rawfrom": "  Cooper.Richey@enron.com [SMTP:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JillD@cnrl.com"
+      },
+      {
+         "from": "jilld@cnrl.com",
+         "line": 89,
+         "rawfrom": "  Jill Dunlop <JillD@cnrl.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 107,
+         "rawfrom": "  Cooper.Richey@enron.com [SMTP:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JillD@cnrl.com"
+      },
+      {
+         "from": "jilld@cnrl.com",
+         "line": 127,
+         "rawfrom": "  Jill Dunlop <JillD@cnrl.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/199.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 22,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 30,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 41,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/29.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 22,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 30,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 39,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/sent_items/28.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 23,
+         "rawfrom": "\tJai Hawker <JHawker@petersco.com>@ENRON  \n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 31,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 40,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 48,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 57,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/_sent_mail/62.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "richey_holly@prc.com"
+      },
+      {
+         "from": "richey_holly@prc.com",
+         "line": 30,
+         "rawfrom": " Richey Holly <Richey_Holly@prc.com>                           05/17/2001 09:04 AM\t\n",
+         "source": "email",
+         "to": "\"'Cooper.Richey@enron.com'\" <Cooper.Richey@enron.com>"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 41,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "Richey_Holly@prc.com"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 81,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "Richey_Holly@prc.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/_sent_mail/89.",
+   "hops": [
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 4,
+         "rawfrom": "cooper.richey@enron.com\r\n",
+         "source": "valid",
+         "to": "richey_holly@prc.com"
+      },
+      {
+         "from": "richey_holly@prc.com",
+         "line": 30,
+         "rawfrom": " Richey Holly <Richey_Holly@prc.com>                           05/29/2001 06:55 AM\t\n",
+         "source": "email",
+         "to": "\"'Cooper.Richey@enron.com'\" <Cooper.Richey@enron.com>"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 43,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "Richey_Holly@prc.com"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 98,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "Richey_Holly@prc.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/trading_quotes/1.",
+   "hops": [
+      {
+         "from": "clinton.kripki@gfinet.com",
+         "line": 4,
+         "rawfrom": "clinton.kripki@gfinet.com\r\n",
+         "source": "valid",
+         "to": "cooper.richey@enron.com"
+      },
+      {
+         "from": "clinton.kripki@gfinet.com",
+         "line": 43,
+         "rawfrom": "Clinton Kripki <Clinton.Kripki@GFInet.com>\n",
+         "source": "email",
+         "to": ""
+      },
+      {
+         "from": "clinton.kripki@gfinet.com",
+         "line": 55,
+         "rawfrom": "Clinton Kripki <Clinton.Kripki@GFInet.com>\n",
+         "source": "email",
+         "to": ""
+      },
+      {
+         "from": "clinton.kripki@gfinet.com",
+         "line": 67,
+         "rawfrom": "Clinton Kripki <Clinton.Kripki@GFInet.com>\n",
+         "source": "email",
+         "to": ""
+      },
+      {
+         "from": "clinton.kripki@gfinet.com",
+         "line": 79,
+         "rawfrom": "Clinton Kripki <Clinton.Kripki@GFInet.com>\n",
+         "source": "email",
+         "to": ""
+      },
+      {
+         "from": "clinton.kripki@gfinet.com",
+         "line": 91,
+         "rawfrom": "Clinton Kripki <Clinton.Kripki@GFInet.com>\n",
+         "source": "email",
+         "to": ""
+      },
+      {
+         "from": "clinton.kripki@gfinet.com",
+         "line": 103,
+         "rawfrom": "Clinton Kripki <Clinton.Kripki@GFInet.com>\n",
+         "source": "email",
+         "to": ""
+      },
+      {
+         "from": "clinton.kripki@gfinet.com",
+         "line": 115,
+         "rawfrom": "Clinton Kripki <Clinton.Kripki@GFInet.com>\n",
+         "source": "email",
+         "to": ""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/personal/2.",
+   "hops": [
+      {
+         "from": "jhawker@petersco.com",
+         "line": 4,
+         "rawfrom": "jhawker@petersco.com\r\n",
+         "source": "valid",
+         "to": "cooper.richey@enron.com"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 22,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 45,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 57,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 66,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "cooper.richey@enron.com",
+         "line": 74,
+         "rawfrom": "Cooper.Richey@enron.com [mailto:Cooper.Richey@enron.com]\n",
+         "source": "email",
+         "to": "JHawker@petersco.com"
+      },
+      {
+         "from": "jhawker@petersco.com",
+         "line": 83,
+         "rawfrom": "  Jai Hawker <JHawker@petersco.com>@ENRON\n",
+         "source": "email",
+         "to": "Richey, Cooper"
+      },
+      {
+         "from": "brenda_smith@hotmail.com",
+         "line": 98,
+         "rawfrom": "brenda smith [mailto:brenda_smith@hotmail.com]\n",
+         "source": "email",
+         "to": "jhawker@petersco.com"
+      },
+      {
+         "from": "jordandrobot@hotmail.com",
+         "line": 116,
+         "rawfrom": "\"Jordan Drobot\" <jordandrobot@hotmail.com>\n",
+         "source": "email",
+         "to": "brenda_smith@hotmail.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/richey-c/marks/12.",
+   "hops": [
+      {
+         "from": "clinton.kripki@gfinet.com",
+         "line": 4,
+         "rawfrom": "clinton.kripki@gfinet.com\r\n",
+         "source": "valid",
+         "to": "john.zufferli@enron.com"
+      },
+      {
+         "from": "clinton.kripki@gfinet.com",
+         "line": 55,
+         "rawfrom": "Clinton Kripki <Clinton.Kripki@GFInet.com>\n",
+         "source": "email",
+         "to": "\"John Zufferli (E-mail)\" <john.zufferli@enron.com>"
+      },
+      {
+         "from": "clinton.kripki@gfinet.com",
+         "line": 83,
+         "rawfrom": "Clinton Kripki <Clinton.Kripki@GFInet.com>\n",
+         "source": "email",
+         "to": "\"John Zufferli (E-mail)\" <john.zufferli@enron.com>"
+      },
+      {
+         "from": "clinton.kripki@gfinet.com",
+         "line": 107,
+         "rawfrom": "Clinton Kripki <Clinton.Kripki@GFInet.com>\n",
+         "source": "email",
+         "to": "\"John Zufferli (E-mail)\" <john.zufferli@enron.com>"
+      },
+      {
+         "from": "clinton.kripki@gfinet.com",
+         "line": 133,
+         "rawfrom": "Clinton Kripki <Clinton.Kripki@GFInet.com>\n",
+         "source": "email",
+         "to": ""
+      },
+      {
+         "from": "clinton.kripki@gfinet.com",
+         "line": 145,
+         "rawfrom": "Clinton Kripki <Clinton.Kripki@GFInet.com>\n",
+         "source": "email",
+         "to": ""
+      },
+      {
+         "from": "clinton.kripki@gfinet.com",
+         "line": 157,
+         "rawfrom": "Clinton Kripki <Clinton.Kripki@GFInet.com>\n",
+         "source": "email",
+         "to": ""
+      },
+      {
+         "from": "clinton.kripki@gfinet.com",
+         "line": 169,
+         "rawfrom": "Clinton Kripki <Clinton.Kripki@GFInet.com>\n",
+         "source": "email",
+         "to": ""
+      },
+      {
+         "from": "clinton.kripki@gfinet.com",
+         "line": 181,
+         "rawfrom": "Clinton Kripki <Clinton.Kripki@GFInet.com>\n",
+         "source": "email",
+         "to": ""
+      },
+      {
+         "from": "clinton.kripki@gfinet.com",
+         "line": 193,
+         "rawfrom": "Clinton Kripki <Clinton.Kripki@GFInet.com>\n",
+         "source": "email",
+         "to": ""
+      }
+   ],
+   "skipped": 0
+}
+]
