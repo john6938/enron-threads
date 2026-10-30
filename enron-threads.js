@@ -101,6 +101,42 @@ var spliner = dc_graph.draw_spline_paths(
     .selectedStrength(5);
 diagram.child('spliner', spliner);
 
+function highlight_email_by_sender(senderKey) {
+    var key = senderKey.toLowerCase();
+    var firstMatch = null;
+    d3.select('#email-panel').selectAll('.email-message')
+        .classed('highlighted', function() {
+            var from = (d3.select(this).attr('data-from') || '').toLowerCase();
+            var match = from.indexOf(key) !== -1;
+            if(match && !firstMatch) firstMatch = this;
+            return match;
+        });
+    if(firstMatch) firstMatch.scrollIntoView({behavior: 'smooth', block: 'nearest'});
+}
+
+d3.select('#graph').on('click', function() {
+    var el = d3.event.target;
+    var current = el;
+    while(current && current !== this) {
+        if(current.classList) {
+            if(current.classList.contains('node')) {
+                var d = d3.select(current).datum();
+                if(d && d.key) { highlight_email_by_sender(d.key); return; }
+            }
+            if(current.classList.contains('edge')) {
+                var d2 = d3.select(current).datum();
+                if(d2 && d2.value) {
+                    var sender = (d2.value.forward || 0) >= (d2.value.backward || 0)
+                        ? d2.value.target : d2.value.source;
+                    highlight_email_by_sender(sender);
+                    return;
+                }
+            }
+        }
+        current = current.parentElement;
+    }
+});
+
 // email-content cache keyed by username
 var emailContentCache = {};
 
@@ -125,7 +161,8 @@ function show_email_content(thread, dataPath) {
             return;
         }
         emails.forEach(function(email) {
-            var msg = panel.append('div').attr('class', 'email-message');
+            var msg = panel.append('div').attr('class', 'email-message')
+                .attr('data-from', (email.from || '').toLowerCase());
             var hdr = msg.append('div').attr('class', 'email-header');
             if(email.date)    hdr.append('div').html('<strong>Date:</strong> ' + email.date);
             if(email.from)    hdr.append('div').html('<strong>From:</strong> ' + email.from);
