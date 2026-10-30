@@ -6,6 +6,7 @@ var defaults = {
     r: 2,
     top: 5,
     nppl: 6,
+    minhops: 3,
     user: '',
     thread: ''
 };
@@ -100,25 +101,80 @@ var spliner = dc_graph.draw_spline_paths(
     .selectedStrength(5);
 diagram.child('spliner', spliner);
 
-function read_error(filename) {
-    throw new Error("couldn't read " + options.data + filename);
+// email-content cache keyed by username
+var emailContentCache = {};
+
+function usernameFromFile(filepath) {
+    var parts = filepath.split('/');
+    var idx = parts.indexOf('maildir');
+    if(idx !== -1 && idx + 1 < parts.length)
+        return parts[idx + 1];
+    return parts.length >= 2 ? parts[parts.length - 2] : null;
+}
+
+function show_email_content(thread, dataPath) {
+    var filepath = thread.file;
+    var username = usernameFromFile(filepath);
+    var panel = d3.select('#email-panel');
+    if(!username) { panel.html('<em>Cannot determine user.</em>'); return; }
+
+    function render(emails) {
+        panel.html('');
+        if(!emails || !emails.length) {
+            panel.append('p').attr('class', 'email-unavailable').text('No content available.');
+            return;
+        }
+        emails.forEach(function(email) {
+            var msg = panel.append('div').attr('class', 'email-message');
+            var hdr = msg.append('div').attr('class', 'email-header');
+            if(email.date)    hdr.append('div').html('<strong>Date:</strong> ' + email.date);
+            if(email.from)    hdr.append('div').html('<strong>From:</strong> ' + email.from);
+            if(email.to)      hdr.append('div').html('<strong>To:</strong> ' + email.to);
+            if(email.subject) msg.append('div').attr('class', 'email-subject').text(email.subject);
+            msg.append('pre').attr('class', 'email-body').text(email.body || '(no body)');
+        });
+    }
+
+    var cached = emailContentCache[username];
+    if(cached) {
+        if(cached.data) render(cached.data[filepath]);
+        return;
+    }
+
+    emailContentCache[username] = {data: null};
+    panel.html('<em>Loading…</em>');
+
+    d3.json(dataPath + 'email-content-' + username + '.json', function(error, data) {
+        if(error) {
+            emailContentCache[username] = {data: {}};
+            panel.html('<em>Email content not available on hosted version.</em>');
+            return;
+        }
+        emailContentCache[username] = {data: data};
+        render(data[filepath]);
+    });
 }
 
 d3.text(options.data + 'users.txt', function(error, users) {
-    if(error)
-        read_error("users.txt");
+    if(error) { console.error("couldn't read users.txt"); return; }
     var emails = {}, edges = [], addresses;
-    var adjacent = {}, peopleThreads = {}, mostThreads;
+    var adjacent = {}, rawPersonThreads = {}, mostThreads;
     var followed = {}, person, proximity, selectedThreads = [];
+
+    function getPersonThreads(p) {
+        return (rawPersonThreads[p] || []).filter(function(t) {
+            return new Set(t.hops.map(h => h.from)).size >= +options.nppl &&
+                   t.hops.length >= +options.minhops;
+        });
+    }
+
     function read_threads(threads) {
         threads.forEach(function(t) {
-            var interesting = new Set(t.hops.map(h => h.from)).size >= options.nppl;
             var froms = {};
-            var file = t.file;
             t.hops.reverse(); // should reverse in data source instead
             t.hops.forEach(function(h, i) {
                 emails[h.from] = true;
-                if(i>0) {
+                if(i > 0) {
                     var from = t.hops[i-1].from, to = t.hops[i].from;
                     console.assert(from && to);
                     edges.push({source: from, target: to});
@@ -127,17 +183,19 @@ d3.text(options.data + 'users.txt', function(error, users) {
                     adjacent[to] = adjacent[to] || {};
                     adjacent[to][from] = true;
                 }
-                if(interesting && !froms[h.from]) {
+                if(!froms[h.from]) {
                     froms[h.from] = true;
-                    peopleThreads[h.from] = peopleThreads[h.from] || [];
-                    peopleThreads[h.from].push(t);
+                    rawPersonThreads[h.from] = rawPersonThreads[h.from] || [];
+                    rawPersonThreads[h.from].push(t);
                 }
             });
         });
     }
+
     function done() {
-        mostThreads = Object.keys(peopleThreads).sort(
-            (a,b) => peopleThreads[a].length - peopleThreads[b].length);
+        mostThreads = Object.keys(rawPersonThreads)
+            .filter(p => getPersonThreads(p).length > 0)
+            .sort((a, b) => getPersonThreads(a).length - getPersonThreads(b).length);
         mostThreads = mostThreads
             .slice((mostThreads.length*100 - mostThreads.length*options.top)/100);
         addresses = mostThreads.sort();
@@ -147,9 +205,20 @@ d3.text(options.data + 'users.txt', function(error, users) {
           .enter().insert('option')
             .text(k => k)
             .attr('selected', k => k === options.user ? 'selected' : null);
+
+        d3.range(2, 21).forEach(function(n) {
+            d3.select('#nppl-select').append('option').attr('value', n).text(n)
+                .property('selected', n === +options.nppl);
+        });
+        d3.range(1, 31).forEach(function(n) {
+            d3.select('#minhops-select').append('option').attr('value', n).text(n)
+                .property('selected', n === +options.minhops);
+        });
+
         if(options.user)
             select_person(options.user);
     }
+
     function update_graph_data() {
         var nodes = proximity.nodes.slice(), edges = proximity.edges.slice();
         edges.forEach(function(e) {
@@ -165,7 +234,7 @@ d3.text(options.data + 'users.txt', function(error, users) {
         selectedThreads.forEach(function(thread) {
             thread.hops.forEach(function(h, i) {
                 nodes.push(h.from);
-                if(i>0) {
+                if(i > 0) {
                     var s = thread.hops[i-1].from, t = thread.hops[i].from;
                     var e;
                     if(followed2[s] && (e = followed2[s][t])) {
@@ -174,8 +243,7 @@ d3.text(options.data + 'users.txt', function(error, users) {
                     } else if(followed2[t] && (e = followed2[t][s])) {
                         e.type = 'thread';
                         ++e.backward;
-                    }
-                    else {
+                    } else {
                         e = {source: s, target: t, type: 'thread', forward: 1, backward: 0};
                         followed2[s] = followed2[s] || {};
                         edges.push(followed2[s][t] = e);
@@ -191,16 +259,15 @@ d3.text(options.data + 'users.txt', function(error, users) {
             .nodeStrokeWidth(n => n.key === person ? 3 : 1)
             .nodeStroke(n => n.key === person ? '#E34234' : 'black');
     }
+
     var people = d3.select('#people');
     var nread = 0;
     users = users.split(/\s/).slice(0, -1);
     console.assert(users.every(u => u));
     users.forEach(function(u) {
         d3.json(options.data + u, function(error, threads) {
-            if(error)
-                read_error(u);
+            if(!error) read_threads(threads);
             ++nread;
-            read_threads(threads);
             if(nread === users.length)
                 done();
             d3.select('#progress')
@@ -208,14 +275,18 @@ d3.text(options.data + 'users.txt', function(error, users) {
                       '<br>' + (nread === users.length ? 'Showing ' + mostThreads.length + '/' : '') + Object.keys(emails).length + ' addresses');
         });
     });
+
     function select_person(p, randomThread) {
         person = p;
-        var prefixLength = peopleThreads[person][0].file.indexOf('/') + 1;
+        var allThreads = rawPersonThreads[person] || [];
+        if(!allThreads.length) return;
+        var prefixLength = allThreads[0].file.indexOf('/') + 1;
         function trim(tf) {
             return tf.slice(prefixLength);
         }
+        var filteredThreads = getPersonThreads(person);
         var thread = d3.select('#threads').selectAll('div.thread-holder')
-            .data(peopleThreads[person], t => t.file);
+            .data(filteredThreads, t => t.file);
         thread
           .enter().append('div')
             .attr('class', 'thread-holder')
@@ -223,8 +294,8 @@ d3.text(options.data + 'users.txt', function(error, users) {
             .attr('class', 'thread')
             .text(t => trim(t.file));
         thread.exit().remove();
+
         function select_thread(t, toggle) {
-            console.log('clicked thread', trim(t.file), JSON.stringify(t.hops, null, 2));
             var index = selectedThreads.indexOf(t);
             var wasIn = index !== -1;
             if(toggle) {
@@ -238,8 +309,13 @@ d3.text(options.data + 'users.txt', function(error, users) {
                 else
                     selectedThreads = [t];
             }
-            thread.selectAll('span.thread')
+            d3.select('#threads').selectAll('span.thread')
                 .classed('selected', t2 => selectedThreads.indexOf(t2) !== -1);
+
+            if(selectedThreads.length)
+                show_email_content(selectedThreads[0], options.data);
+            else
+                d3.select('#email-panel').html('');
 
             starts = selectedThreads.map(t => t.hops[0].from);
             finishes = selectedThreads.map(t => t.hops[t.hops.length-1].from);
@@ -264,11 +340,13 @@ d3.text(options.data + 'users.txt', function(error, users) {
                 }, 5000);
             } else reader.data(selectedThreads);
         }
+
         thread.select('span.thread').on('click', function(t) {
             select_thread.call(this, t, d3.event.shiftKey);
             options.thread = selectedThreads.length ? trim(selectedThreads[0].file) : '';
             replace_query_string();
         });
+
         proximity = radius(adjacent, followed = {}, person, +options.r, new Set(mostThreads));
         if(selectedThreads.length) {
             selectedThreads = [];
@@ -283,15 +361,15 @@ d3.text(options.data + 'users.txt', function(error, users) {
                 .edgeOpacity(thread_opacity(0.7))
                 .render();
             if(randomThread)
-                options.thread = trim(random_item(peopleThreads[person]).file);
+                options.thread = trim(random_item(filteredThreads).file);
             if(options.thread) {
                 // urls can get mangled by e.g. word processors
                 if(options.thread.slice(-1) !== '.')
                     options.thread += '.';
-                var selspan = thread.select('span.thread').filter(t => trim(t.file) === options.thread);
+                var selspan = d3.select('#threads').selectAll('span.thread').filter(t => trim(t.file) === options.thread);
                 if(!selspan.size() && options.thread[options.thread-1] !== '.') {
                     options.thread += '.';
-                    selspan = thread.select('span.thread').filter(t => trim(t.file) === options.thread);
+                    selspan = d3.select('#threads').selectAll('span.thread').filter(t => trim(t.file) === options.thread);
                 }
                 if(selspan.size())
                     select_thread.call(selspan.node(), selspan.datum());
@@ -303,6 +381,18 @@ d3.text(options.data + 'users.txt', function(error, users) {
             }
         }
     }
+
+    d3.select('#nppl-select').on('change', function() {
+        options.nppl = this.value;
+        if(person) select_person(person);
+        replace_query_string();
+    });
+    d3.select('#minhops-select').on('change', function() {
+        options.minhops = this.value;
+        if(person) select_person(person);
+        replace_query_string();
+    });
+
     people.on('change', function() {
         select_person(this.value);
         options.user = this.value;

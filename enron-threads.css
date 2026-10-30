@@ -15,11 +15,37 @@ body {
     flex: 1;
     display: flex;
     flex-direction: row;
+    overflow: hidden;
+}
+#left-panel {
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    flex-shrink: 0;
 }
 #threads {
-    width: 200px;
+    flex: 1;
     overflow-x: hidden;
     overflow-y: auto;
+}
+#filter-controls {
+    flex-shrink: 0;
+    padding: 6px 5px;
+    border-top: 1px solid #ccc;
+}
+.filter-row {
+    margin-bottom: 5px;
+}
+.filter-row label {
+    display: block;
+    font-size: 11px;
+    color: #555;
+    margin-bottom: 2px;
+}
+.filter-row select {
+    width: 100%;
+    font-size: 12px;
 }
 #view {
     flex: 1;
@@ -28,6 +54,51 @@ body {
 #graph {
     position: absolute;
     left: 0; top: 0; right: 0; bottom: 0;
+}
+#email-panel {
+    width: 300px;
+    flex-shrink: 0;
+    overflow-y: auto;
+    border-left: 1px solid #ccc;
+    padding: 8px;
+    font-size: 12px;
+    box-sizing: border-box;
+}
+.email-message {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 8px;
+    margin-bottom: 8px;
+}
+.email-message:last-child {
+    border-bottom: none;
+}
+.email-header {
+    font-size: 11px;
+    color: #555;
+    margin-bottom: 4px;
+    line-height: 1.5;
+}
+.email-header strong {
+    color: #333;
+}
+.email-subject {
+    font-weight: bold;
+    margin-bottom: 4px;
+    font-size: 12px;
+}
+.email-body {
+    white-space: pre-wrap;
+    word-break: break-word;
+    font-family: sans-serif;
+    font-size: 11px;
+    color: #333;
+    margin: 0;
+    max-height: 200px;
+    overflow-y: auto;
+}
+.email-unavailable {
+    color: #888;
+    font-style: italic;
 }
 
 #people {
@@ -59,10 +130,21 @@ body {
     color: green;
 }
 
+#acknowledgment {
+    position: fixed;
+    bottom: 8px;
+    right: 8px;
+    font-size: 11px;
+    color: #555;
+    background: rgba(255,255,255,0.85);
+    padding: 2px 8px;
+    border-radius: 3px;
+    z-index: 10;
+}
+
 .dc-graph text.edge-label {
     visibility: visible;
 }
 .dc-graph text.node-label {
     font: 10px sans-serif;
 }
-
