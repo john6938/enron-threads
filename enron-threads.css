@@ -138,15 +138,12 @@ body {
 }
 
 #acknowledgment {
-    position: fixed;
-    bottom: 8px;
-    right: 8px;
-    font-size: 11px;
+    flex-shrink: 0;
+    padding: 6px 5px;
+    border-top: 1px solid #ccc;
+    font-size: 10px;
     color: #555;
-    background: rgba(255,255,255,0.85);
-    padding: 2px 8px;
-    border-radius: 3px;
-    z-index: 10;
+    line-height: 1.5;
 }
 
 .dc-graph text.edge-label {
