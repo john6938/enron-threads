@@ -85,6 +85,9 @@ var diagram = dc_graph.diagram('#graph')
     .edgeSort(e => e.value.type) // alphabetic order!
 ;
 
+diagram.on('drawn', attach_graph_click_handlers);
+diagram.on('end', attach_graph_click_handlers);
+
 var highlighter = dc_graph.highlight_neighbors({edgeStroke: 'darkorange'});
 diagram.child('highlight-neighbors', highlighter);
 
@@ -114,28 +117,20 @@ function highlight_email_by_sender(senderKey) {
     if(firstMatch) firstMatch.scrollIntoView({behavior: 'smooth', block: 'nearest'});
 }
 
-d3.select('#graph').on('click', function() {
-    var el = d3.event.target;
-    var current = el;
-    while(current && current !== this) {
-        if(current.classList) {
-            if(current.classList.contains('node')) {
-                var d = d3.select(current).datum();
-                if(d && d.key) { highlight_email_by_sender(d.key); return; }
-            }
-            if(current.classList.contains('edge')) {
-                var d2 = d3.select(current).datum();
-                if(d2 && d2.value) {
-                    var sender = (d2.value.forward || 0) >= (d2.value.backward || 0)
-                        ? d2.value.target : d2.value.source;
-                    highlight_email_by_sender(sender);
-                    return;
-                }
-            }
+function attach_graph_click_handlers() {
+    d3.select('#graph').selectAll('g.node').on('click.highlight', function(d) {
+        var key = d && ((d.orig && d.orig.key) || d.cola && d.cola.dcg_nodeKey);
+        if(key) highlight_email_by_sender(key);
+    });
+    d3.select('#graph').selectAll('path.edge-hover,path.edge').on('click.highlight', function(d) {
+        var ev = d && d.orig && d.orig.value;
+        if(ev) {
+            var sender = (ev.forward || 0) >= (ev.backward || 0)
+                ? ev.target : ev.source;
+            highlight_email_by_sender(sender);
         }
-        current = current.parentElement;
-    }
-});
+    });
+}
 
 // email-content cache keyed by username
 var emailContentCache = {};
@@ -154,8 +149,11 @@ function show_email_content(thread, dataPath) {
     var panel = d3.select('#email-panel');
     if(!username) { panel.html('<em>Cannot determine user.</em>'); return; }
 
+    var threadLabel = filepath.split('/').slice(-2).join('/');
+
     function render(emails) {
         panel.html('');
+        panel.append('div').attr('class', 'email-panel-thread').text(threadLabel);
         if(!emails || !emails.length) {
             panel.append('p').attr('class', 'email-unavailable').text('No content available.');
             return;
