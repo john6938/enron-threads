@@ -55,6 +55,26 @@ body {
     position: absolute;
     left: 0; top: 0; right: 0; bottom: 0;
 }
+#graph-status {
+    position: absolute;
+    bottom: 8px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(0,0,0,0.7);
+    color: #fff;
+    font-size: 11px;
+    padding: 3px 8px;
+    border-radius: 3px;
+    pointer-events: none;
+    white-space: nowrap;
+    display: none;
+}
+#graph-status:not(:empty) {
+    display: block;
+}
+#graph-status.no-match {
+    background: rgba(180,60,40,0.85);
+}
 #email-panel {
     width: 300px;
     flex-shrink: 0;

@@ -107,27 +107,47 @@ diagram.child('spliner', spliner);
 function highlight_email_by_sender(senderKey) {
     var key = senderKey.toLowerCase();
     var firstMatch = null;
+    var count = 0;
     d3.select('#email-panel').selectAll('.email-message')
         .classed('highlighted', function() {
             var from = (d3.select(this).attr('data-from') || '').toLowerCase();
             var match = from.indexOf(key) !== -1;
-            if(match && !firstMatch) firstMatch = this;
+            if(match) { count++; if(!firstMatch) firstMatch = this; }
             return match;
         });
     if(firstMatch) firstMatch.scrollIntoView({behavior: 'smooth', block: 'nearest'});
+    return count;
+}
+
+function show_click_status(key, count) {
+    var status = d3.select('#graph-status');
+    if(status.empty()) return;
+    status
+        .classed('no-match', count === 0)
+        .text(count > 0
+            ? '✓ ' + count + ' email' + (count > 1 ? 's' : '') + ' from ' + key
+            : '∅ No emails from “' + key + '” in current thread');
 }
 
 function attach_graph_click_handlers() {
     d3.select('#graph').selectAll('g.node').on('click.highlight', function(d) {
-        var key = d && ((d.orig && d.orig.key) || d.cola && d.cola.dcg_nodeKey);
-        if(key) highlight_email_by_sender(key);
+        var key = d && ((d.orig && d.orig.key) || (d.cola && d.cola.dcg_nodeKey));
+        console.log('[node click] datum:', d, '→ key:', key);
+        if(key) {
+            var n = highlight_email_by_sender(key);
+            console.log('[node click]', key, '→', n, 'match(es)');
+            show_click_status(key, n);
+        }
     });
     d3.select('#graph').selectAll('path.edge-hover,path.edge').on('click.highlight', function(d) {
         var ev = d && d.orig && d.orig.value;
+        console.log('[edge click] datum:', d, '→ ev:', ev);
         if(ev) {
             var sender = (ev.forward || 0) >= (ev.backward || 0)
                 ? ev.target : ev.source;
-            highlight_email_by_sender(sender);
+            var n = highlight_email_by_sender(sender);
+            console.log('[edge click]', sender, '→', n, 'match(es)');
+            show_click_status(sender, n);
         }
     });
 }
