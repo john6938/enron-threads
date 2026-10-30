@@ -104,10 +104,6 @@ diagram.child('spliner', spliner);
 // email-content cache keyed by username
 var emailContentCache = {};
 
-var EMAIL_CONTENT_BASE = window.location.hostname.includes('github.io')
-    ? 'https://github.com/john6938/enron-threads/releases/download/email-data-v1/'
-    : null; // null = use options.data (local)
-
 function usernameFromFile(filepath) {
     var parts = filepath.split('/');
     var idx = parts.indexOf('maildir');
@@ -148,16 +144,23 @@ function show_email_content(thread, dataPath) {
     emailContentCache[username] = {data: null};
     panel.html('<em>Loading…</em>');
 
-    var contentUrl = (EMAIL_CONTENT_BASE || dataPath) + 'email-content-' + username + '.json';
-    d3.json(contentUrl, function(error, data) {
-        if(error) {
+    var contentUrl = dataPath + 'email-content-' + username + '.json.gz';
+    fetch(contentUrl)
+        .then(function(r) {
+            if(!r.ok) throw new Error(r.status);
+            return r.arrayBuffer();
+        })
+        .then(function(buf) {
+            return JSON.parse(pako.inflate(new Uint8Array(buf), {to: 'string'}));
+        })
+        .then(function(data) {
+            emailContentCache[username] = {data: data};
+            render(data[filepath]);
+        })
+        .catch(function() {
             emailContentCache[username] = {data: {}};
-            panel.html('<em>Email content not available on hosted version.</em>');
-            return;
-        }
-        emailContentCache[username] = {data: data};
-        render(data[filepath]);
-    });
+            panel.html('<em>Email content not available.</em>');
+        });
 }
 
 d3.text(options.data + 'users.txt', function(error, users) {

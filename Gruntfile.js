@@ -68,6 +68,7 @@ module.exports = function (grunt) {
                         nonull: true,
                         src: [
                             'enron-threads.js',
+                            'pako.min.js',
                             'node_modules/d3/d3.js',
                             'node_modules/crossfilter/crossfilter.js',
                             'node_modules/dc/dc.js',

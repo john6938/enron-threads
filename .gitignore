@@ -12,3 +12,4 @@ web/css/
 web/js/
 web/data_perl/
 web/data/email-content-*.json
+web/data/email-content-*.json.gz
