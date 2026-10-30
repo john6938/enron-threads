@@ -1,0 +1,92 @@
+[
+{
+   "file": "/home/jb/maildir/grigsby-m/deleted_items/95.",
+   "hops": [
+      {
+         "from": "john.harmon@enron.com",
+         "line": 4,
+         "rawfrom": "john.harmon@enron.com\r\n",
+         "source": "valid",
+         "to": "press.jameson@enron.com, mike.grigsby@enron.com, e-mail <.dan@enron.com>"
+      },
+      {
+         "from": "jameson.press@virgin.net",
+         "line": 23,
+         "rawfrom": "Jameson Press [mailto:jameson.press@virgin.net]\n",
+         "source": "email",
+         "to": "Harmon, John; greig, michael; dan fisher (e-mail)"
+      },
+      {
+         "from": "john.harmon@enron.com",
+         "line": 32,
+         "rawfrom": "\"Harmon, John\" <john.harmon@enron.com>\n",
+         "source": "email",
+         "to": "\"Jameson Press\" <jameson.press@virgin.net>, \"Greig, Michael\""
+      },
+      {
+         "from": "jameson.press@virgin.net",
+         "line": 49,
+         "rawfrom": "Jameson Press [mailto:jameson.press@virgin.net]\n",
+         "source": "email",
+         "to": "Greig, Michael; Harmon, John; dan fisher (e-mail)"
+      },
+      {
+         "from": "michael.greig@amlin.co.uk",
+         "line": 72,
+         "rawfrom": "\"Greig, Michael\" <Michael.Greig@amlin.co.uk>\n",
+         "source": "email",
+         "to": "\"'Harmon, John'\" <john.harmon@enron.com>, \"Dan Fisher (E-mail)\""
+      },
+      {
+         "from": "john.harmon@enron.com",
+         "line": 86,
+         "rawfrom": "Harmon, John [mailto:john.harmon@enron.com]\n",
+         "source": "email",
+         "to": "Dan Fisher (E-mail); Mike Grieg (E-mail); Brad King (E-mail)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/grigsby-m/sent_items/57.",
+   "hops": [
+      {
+         "from": "mike.grigsby@enron.com",
+         "line": 4,
+         "rawfrom": "mike.grigsby@enron.com\r\n",
+         "source": "valid",
+         "to": "'hutcheson@enron.com, curtis.hutcheson@compaq.com"
+      },
+      {
+         "from": "curtis.hutcheson@compaq.com",
+         "line": 22,
+         "rawfrom": "Hutcheson, Curtis [mailto:Curtis.Hutcheson@COMPAQ.com]\n",
+         "source": "email",
+         "to": "Grigsby, Mike"
+      },
+      {
+         "from": "mike.grigsby@enron.com",
+         "line": 34,
+         "rawfrom": "Grigsby, Mike [mailto:Mike.Grigsby@ENRON.com]\n",
+         "source": "email",
+         "to": "Hutcheson, Curtis"
+      },
+      {
+         "from": "curtis.hutcheson@compaq.com",
+         "line": 47,
+         "rawfrom": "Hutcheson, Curtis [mailto:Curtis.Hutcheson@COMPAQ.com]\n",
+         "source": "email",
+         "to": "Grigsby, Mike; Joe Knauth (E-mail)"
+      },
+      {
+         "from": "mcook1@tulane.edu",
+         "line": 68,
+         "rawfrom": "mcook1@tulane.edu [mailto:mcook1@tulane.edu]\n",
+         "source": "email",
+         "to": "Hutcheson, Curtis"
+      }
+   ],
+   "skipped": 0
+}
+]

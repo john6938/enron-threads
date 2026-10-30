@@ -1,0 +1,141 @@
+[
+{
+   "file": "/home/jb/maildir/south-s/all_documents/37.",
+   "hops": [
+      {
+         "from": "joan.quick@enron.com",
+         "line": 4,
+         "rawfrom": "joan.quick@enron.com\r\n",
+         "source": "valid",
+         "to": "hillary.mack@enron.com, stacey.brewer@enron.com, steven.south@enron.com"
+      },
+      {
+         "from": "joan.quick@enron.com",
+         "line": 38,
+         "rawfrom": "Quick, Joan [mailto:Joan.Quick@ENRON.com]\n",
+         "source": "email",
+         "to": "jjosborne@apex2000.net"
+      },
+      {
+         "from": "joan.quick@enron.com",
+         "line": 67,
+         "rawfrom": "Quick, Joan [mailto:Joan.Quick@ENRON.com]\n",
+         "source": "email",
+         "to": "kckrisa@apex2000.net; JJosborne@apex2000.net"
+      },
+      {
+         "from": "joan.quick@enron.com",
+         "line": 107,
+         "rawfrom": "Quick, Joan [mailto:Joan.Quick@ENRON.com]\n",
+         "source": "email",
+         "to": "JJosborne@apex2000.net"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/south-s/all_documents/34.",
+   "hops": [
+      {
+         "from": "joan.quick@enron.com",
+         "line": 4,
+         "rawfrom": "joan.quick@enron.com\r\n",
+         "source": "valid",
+         "to": "jjosborne@apex2000.net"
+      },
+      {
+         "from": "joan.quick@enron.com",
+         "line": 51,
+         "rawfrom": "Quick, Joan [mailto:Joan.Quick@ENRON.com]\n",
+         "source": "email",
+         "to": "jjosborne@apex2000.net"
+      },
+      {
+         "from": "joan.quick@enron.com",
+         "line": 80,
+         "rawfrom": "Quick, Joan [mailto:Joan.Quick@ENRON.com]\n",
+         "source": "email",
+         "to": "kckrisa@apex2000.net; JJosborne@apex2000.net"
+      },
+      {
+         "from": "joan.quick@enron.com",
+         "line": 120,
+         "rawfrom": "Quick, Joan [mailto:Joan.Quick@ENRON.com]\n",
+         "source": "email",
+         "to": "JJosborne@apex2000.net"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/south-s/discussion_threads/50.",
+   "hops": [
+      {
+         "from": "joan.quick@enron.com",
+         "line": 4,
+         "rawfrom": "joan.quick@enron.com\r\n",
+         "source": "valid",
+         "to": "jjosborne@apex2000.net"
+      },
+      {
+         "from": "joan.quick@enron.com",
+         "line": 51,
+         "rawfrom": "Quick, Joan [mailto:Joan.Quick@ENRON.com]\n",
+         "source": "email",
+         "to": "jjosborne@apex2000.net"
+      },
+      {
+         "from": "joan.quick@enron.com",
+         "line": 80,
+         "rawfrom": "Quick, Joan [mailto:Joan.Quick@ENRON.com]\n",
+         "source": "email",
+         "to": "kckrisa@apex2000.net; JJosborne@apex2000.net"
+      },
+      {
+         "from": "joan.quick@enron.com",
+         "line": 120,
+         "rawfrom": "Quick, Joan [mailto:Joan.Quick@ENRON.com]\n",
+         "source": "email",
+         "to": "JJosborne@apex2000.net"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/south-s/discussion_threads/47.",
+   "hops": [
+      {
+         "from": "joan.quick@enron.com",
+         "line": 4,
+         "rawfrom": "joan.quick@enron.com\r\n",
+         "source": "valid",
+         "to": "hillary.mack@enron.com, stacey.brewer@enron.com, steven.south@enron.com"
+      },
+      {
+         "from": "joan.quick@enron.com",
+         "line": 38,
+         "rawfrom": "Quick, Joan [mailto:Joan.Quick@ENRON.com]\n",
+         "source": "email",
+         "to": "jjosborne@apex2000.net"
+      },
+      {
+         "from": "joan.quick@enron.com",
+         "line": 67,
+         "rawfrom": "Quick, Joan [mailto:Joan.Quick@ENRON.com]\n",
+         "source": "email",
+         "to": "kckrisa@apex2000.net; JJosborne@apex2000.net"
+      },
+      {
+         "from": "joan.quick@enron.com",
+         "line": 107,
+         "rawfrom": "Quick, Joan [mailto:Joan.Quick@ENRON.com]\n",
+         "source": "email",
+         "to": "JJosborne@apex2000.net"
+      }
+   ],
+   "skipped": 4
+}
+]

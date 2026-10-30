@@ -1,0 +1,4509 @@
+[
+{
+   "file": "/home/jb/maildir/nemec-g/inbox/1299.",
+   "hops": [
+      {
+         "from": "shahnaz.lakho@enron.com",
+         "line": 4,
+         "rawfrom": "shahnaz.lakho@enron.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "karen.flores@elpaso.com",
+         "line": 27,
+         "rawfrom": "\t\"Flores, Karen\" <Karen.Flores@ElPaso.com>@ENRON [mailto:IMCEANOTES-+22Flores+2C+20Karen+22+20+3CKaren+2EFlores+40ElPaso+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "'slakho@enron.com'"
+      },
+      {
+         "from": "shahnaz.lakho@enron.com",
+         "line": 75,
+         "rawfrom": "Shahnaz.Lakho@enron.com [mailto:Shahnaz.Lakho@enron.com]\n",
+         "source": "email",
+         "to": "Flores, Karen; slakho@enron.com"
+      },
+      {
+         "from": "karen.flores@elpaso.com",
+         "line": 106,
+         "rawfrom": "  \"Flores, Karen\" <Karen.Flores@ElPaso.com>@ENRON\n",
+         "source": "email",
+         "to": "'slakho@enron.com'"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/inbox/1030.",
+   "hops": [
+      {
+         "from": "judy.thorne@enron.com",
+         "line": 4,
+         "rawfrom": "judy.thorne@enron.com\r\n",
+         "source": "valid",
+         "to": "debra.perlingiere@enron.com"
+      },
+      {
+         "from": "shillward@hess.com",
+         "line": 29,
+         "rawfrom": "Hill-Ward, Shari [mailto:SHillWard@hess.com]\n",
+         "source": "email",
+         "to": "Thorne, Judy"
+      },
+      {
+         "from": "judy.thorne@enron.com",
+         "line": 56,
+         "rawfrom": "Thorne, Judy [mailto:Judy.Thorne@ENRON.com]\n",
+         "source": "email",
+         "to": "SHillWard@hess.com"
+      },
+      {
+         "from": "shillward@hess.com",
+         "line": 75,
+         "rawfrom": "Hill-Ward, Shari [mailto:SHillWard@hess.com]\n",
+         "source": "email",
+         "to": "Thorne, Judy"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/inbox/920.",
+   "hops": [
+      {
+         "from": "patrick.johnson@enron.com",
+         "line": 4,
+         "rawfrom": "patrick.johnson@enron.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com, n..gray@enron.com"
+      },
+      {
+         "from": "heidiho@eatel.net",
+         "line": 72,
+         "rawfrom": "\t\"Heidi E. Broussard\" <heidiho@eatel.net>@ENRON [mailto:IMCEANOTES-+22Heidi+20E+2E+20Broussard+22+20+3Cheidiho+40eatel+2Enet+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Johnson, Patrick"
+      },
+      {
+         "from": "patrick.johnson@enron.com",
+         "line": 84,
+         "rawfrom": "\"Johnson, Patrick\" <Patrick.Johnson@enron.com>\n",
+         "source": "email",
+         "to": "\"Heidi E. Broussard\" <heidiho@eatel.net>"
+      },
+      {
+         "from": "heidiho@eatel.net",
+         "line": 106,
+         "rawfrom": "\"Heidi E. Broussard\" <heidiho@eatel.net>@ENRON\n",
+         "source": "email",
+         "to": "Johnson, Patrick"
+      },
+      {
+         "from": "patrick.johnson@enron.com",
+         "line": 119,
+         "rawfrom": "\"Johnson, Patrick\" <Patrick.Johnson@enron.com>\n",
+         "source": "email",
+         "to": "\"Heidi E. Broussard\" <heidiho@eatel.net>"
+      },
+      {
+         "from": "heidiho@eatel.net",
+         "line": 142,
+         "rawfrom": "\"Heidi E. Broussard\" <heidiho@eatel.net>@ENRON\n",
+         "source": "email",
+         "to": "Johnson, Patrick"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/inbox/1276.",
+   "hops": [
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 4,
+         "rawfrom": "gtownsend@manorisd.net\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 22,
+         "rawfrom": "Gerald.Nemec@enron.com [mailto:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 37,
+         "rawfrom": "  \"Townsend, George\" <gtownsend@manorisd.net>@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 52,
+         "rawfrom": "Gerald.Nemec@enron.com [mailto:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 69,
+         "rawfrom": "  \"Townsend, George\" <gtownsend@manorisd.net>@ENRON\n",
+         "source": "email",
+         "to": "gerald nemec (E-mail)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/inbox/1851.",
+   "hops": [
+      {
+         "from": "bbryant@katzlaw.com",
+         "line": 4,
+         "rawfrom": "bbryant@katzlaw.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 76,
+         "rawfrom": "Nemec, Gerald [mailto:Gerald.Nemec@ENRON.com]\n",
+         "source": "email",
+         "to": "bill@katzlaw.com"
+      },
+      {
+         "from": "jas@beggslane.com",
+         "line": 86,
+         "rawfrom": "\t\"Jeffrey Stone\" <jas@beggslane.com>@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 96,
+         "rawfrom": "> From:\tNemec, Gerald [SMTP:Gerald.Nemec@ENRON.com]\n",
+         "source": "email",
+         "to": "rab@beggslane.com; Howell, Marion W."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/inbox/1043.",
+   "hops": [
+      {
+         "from": "judy.thorne@enron.com",
+         "line": 4,
+         "rawfrom": "judy.thorne@enron.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "dan.h.sallee@bhpbilliton.com",
+         "line": 39,
+         "rawfrom": "\t\"Sallee, Dan DH\" <Dan.H.Sallee@BHPBilliton.com>@ENRON [mailto:IMCEANOTES-+22Sallee+2C+20Dan+20DH+22+20+3CDan+2EH+2ESallee+40BHPBilliton+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Otto, Charles H."
+      },
+      {
+         "from": "charles.h.otto@enron.com",
+         "line": 58,
+         "rawfrom": "Otto, Charles H. [mailto:Charles.H.Otto@enron.com]\n",
+         "source": "email",
+         "to": "dan.h.sallee@bhpbilliton.com"
+      },
+      {
+         "from": "postmaster@bhp.com",
+         "line": 70,
+         "rawfrom": "\tSystem Administrator <postmaster@bhp.com>@ENRON\n",
+         "source": "email",
+         "to": "Otto, Charles H."
+      },
+      {
+         "from": "charles.h.otto@enron.com",
+         "line": 94,
+         "rawfrom": "\"Otto, Charles H.\" <Charles.H.Otto@enron.com>\n",
+         "source": "email",
+         "to": "dan.h.sallee@bhp.com"
+      },
+      {
+         "from": "postmaster@bhp.com",
+         "line": 112,
+         "rawfrom": "\tSystem Administrator <postmaster@bhp.com>@ENRON\n",
+         "source": "email",
+         "to": "Otto, Charles H."
+      },
+      {
+         "from": "charles.h.otto@enron.com",
+         "line": 137,
+         "rawfrom": "\"Otto, Charles H.\" <Charles.H.Otto@enron.com>\n",
+         "source": "email",
+         "to": "dan.h.sallee@bhp.com"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/inbox/110.",
+   "hops": [
+      {
+         "from": "judy.thorne@enron.com",
+         "line": 4,
+         "rawfrom": "judy.thorne@enron.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "rbanks@mariner-energy.com",
+         "line": 29,
+         "rawfrom": "Banks, Rod [mailto:RBANKS@mariner-energy.com]\n",
+         "source": "email",
+         "to": "Thorne, Judy"
+      },
+      {
+         "from": "judy.thorne@enron.com",
+         "line": 59,
+         "rawfrom": "\t\tFrom:\tThorne, Judy [mailto:Judy.Thorne@ENRON.com]\n",
+         "source": "email",
+         "to": "Banks, Rod"
+      },
+      {
+         "from": "rbanks@mariner-energy.com",
+         "line": 82,
+         "rawfrom": "Banks, Rod [mailto:RBANKS@mariner-energy.com]\n",
+         "source": "email",
+         "to": "Thorne, Judy"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/inbox/848.",
+   "hops": [
+      {
+         "from": "patricia_cuero@dell.com",
+         "line": 4,
+         "rawfrom": "patricia_cuero@dell.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 28,
+         "rawfrom": "Gerald.Nemec@enron.com [mailto:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "IMCEANOTES-Patricia+5FCuero+40Dell+2Ecom+40ENRON@enron.com"
+      },
+      {
+         "from": "patricia_cuero@dell.com",
+         "line": 49,
+         "rawfrom": "  Patricia_Cuero@Dell.com@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 69,
+         "rawfrom": "Gerald.Nemec@enron.com [mailto:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "IMCEANOTES-Patricia+5FCuero+40Dell+2Ecom+40ENRON@enron.com"
+      },
+      {
+         "from": "patricia_cuero@dell.com",
+         "line": 87,
+         "rawfrom": "  Patricia_Cuero@Dell.com@ENRON\n",
+         "source": "email",
+         "to": "dedeutsch@duke-energy.com; Nemec, Gerald"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/inbox/132.",
+   "hops": [
+      {
+         "from": "judy.thorne@enron.com",
+         "line": 4,
+         "rawfrom": "judy.thorne@enron.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "rbanks@mariner-energy.com",
+         "line": 22,
+         "rawfrom": "Banks, Rod [mailto:RBANKS@mariner-energy.com]\n",
+         "source": "email",
+         "to": "Thorne, Judy"
+      },
+      {
+         "from": "judy.thorne@enron.com",
+         "line": 52,
+         "rawfrom": "\t\tFrom:\tThorne, Judy [mailto:Judy.Thorne@ENRON.com]\n",
+         "source": "email",
+         "to": "Banks, Rod"
+      },
+      {
+         "from": "rbanks@mariner-energy.com",
+         "line": 75,
+         "rawfrom": "Banks, Rod [mailto:RBANKS@mariner-energy.com]\n",
+         "source": "email",
+         "to": "Thorne, Judy"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/inbox/1042.",
+   "hops": [
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 4,
+         "rawfrom": "gtownsend@manorisd.net\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 29,
+         "rawfrom": "Gerald.Nemec@enron.com [mailto:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 51,
+         "rawfrom": "  \"Townsend, George\" <gtownsend@manorisd.net>@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 71,
+         "rawfrom": "Nemec, Gerald [mailto:Gerald.Nemec@ENRON.com]\n",
+         "source": "email",
+         "to": "gtownsend@manorisd.net"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/inbox/1301.",
+   "hops": [
+      {
+         "from": "jennifer.d.sanders@us.andersen.com",
+         "line": 4,
+         "rawfrom": "jennifer.d.sanders@us.andersen.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "jennifer.d.sanders@us.andersen.com",
+         "line": 39,
+         "rawfrom": "  jennifer.d.sanders@us.andersen.com@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "jennifer.d.sanders@us.andersen.com",
+         "line": 74,
+         "rawfrom": "  jennifer.d.sanders@us.andersen.com@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "jennifer.d.sanders@us.andersen.com",
+         "line": 117,
+         "rawfrom": "  jennifer.d.sanders@us.andersen.com@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "jennifer.d.sanders@us.andersen.com",
+         "line": 174,
+         "rawfrom": "  jennifer.d.sanders@us.andersen.com@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/inbox/1104.",
+   "hops": [
+      {
+         "from": "nnachawa@central.uh.edu",
+         "line": 4,
+         "rawfrom": "nnachawa@central.uh.edu\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 22,
+         "rawfrom": "Gerald.Nemec@enron.com\n",
+         "source": "valid",
+         "to": "nnachawa@Central.UH.EDU"
+      },
+      {
+         "from": "nnachawa@central.uh.edu",
+         "line": 40,
+         "rawfrom": "  \"Nachawati, Nabil, M\" <nnachawa@Central.UH.EDU>@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 55,
+         "rawfrom": "Gerald.Nemec@enron.com\n",
+         "source": "valid",
+         "to": "nnachawa@Central.UH.EDU"
+      },
+      {
+         "from": "nnachawa@central.uh.edu",
+         "line": 78,
+         "rawfrom": "  \"Nachawati, Nabil, M\" <nnachawa@Central.UH.EDU>@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/inbox/1280.",
+   "hops": [
+      {
+         "from": "ernie.j.zavaleta@fritolay.com",
+         "line": 4,
+         "rawfrom": "ernie.j.zavaleta@fritolay.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 35,
+         "rawfrom": "Gerald.Nemec@enron.com\n",
+         "source": "valid",
+         "to": "Ernie J Zavaleta/Frito-Lay/US@Frito-Lay"
+      },
+      {
+         "from": "ernie.j.zavaleta@fritolay.com",
+         "line": 57,
+         "rawfrom": "  \"Zavaleta, Ernie\" <Ernie.J.Zavaleta@fritolay.com>@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 86,
+         "rawfrom": "Gerald.Nemec@enron.com\n",
+         "source": "valid",
+         "to": "Ernie J Zavaleta/Frito-Lay/US@Frito-Lay"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 159,
+         "rawfrom": "Gerald.Nemec@enron.com\n",
+         "source": "valid",
+         "to": "Ernie J Zavaleta/Frito-Lay/US@Frito-Lay"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/inbox/1563.",
+   "hops": [
+      {
+         "from": "ernie.j.zavaleta@fritolay.com",
+         "line": 4,
+         "rawfrom": "ernie.j.zavaleta@fritolay.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 39,
+         "rawfrom": "Gerald.Nemec@enron.com\n",
+         "source": "valid",
+         "to": "Ernie J Zavaleta/Frito-Lay/US@Frito-Lay"
+      },
+      {
+         "from": "ernie.j.zavaleta@fritolay.com",
+         "line": 61,
+         "rawfrom": "  \"Zavaleta, Ernie\" <Ernie.J.Zavaleta@fritolay.com>@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 90,
+         "rawfrom": "Gerald.Nemec@enron.com\n",
+         "source": "valid",
+         "to": "Ernie J Zavaleta/Frito-Lay/US@Frito-Lay"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 163,
+         "rawfrom": "Gerald.Nemec@enron.com\n",
+         "source": "valid",
+         "to": "Ernie J Zavaleta/Frito-Lay/US@Frito-Lay"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/inbox/1107.",
+   "hops": [
+      {
+         "from": "lhand@lemle.com",
+         "line": 4,
+         "rawfrom": "lhand@lemle.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 25,
+         "rawfrom": "Gerald.Nemec@enron.com [mailto:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "Lawrence J. Hand, Jr."
+      },
+      {
+         "from": "lhand@lemle.com",
+         "line": 41,
+         "rawfrom": "  \"Lawrence J. Hand, Jr.\" <lhand@lemle.com>@ENRON\n",
+         "source": "email",
+         "to": "Robert. D. Morgan (E-mail); Gerald Nemec (E-mail); Owen,"
+      },
+      {
+         "from": "joeb@dnr.state.la.us",
+         "line": 51,
+         "rawfrom": "Joe Ball [mailto:JOEB@dnr.state.la.us]\n",
+         "source": "email",
+         "to": "Lawrence J. Hand, Jr."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/inbox/428.",
+   "hops": [
+      {
+         "from": "brudy@umich.edu",
+         "line": 4,
+         "rawfrom": "brudy@umich.edu\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 29,
+         "rawfrom": "Nemec, Gerald [mailto:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "brudy@umich.edu"
+      },
+      {
+         "from": "brudy@umich.edu",
+         "line": 64,
+         "rawfrom": "\t\"Bruce C Rudy\" <brudy@umich.edu>@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 111,
+         "rawfrom": "Nemec, Gerald [mailto:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "brudy@umich.edu"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/inbox/1202.",
+   "hops": [
+      {
+         "from": "jennifer.d.sanders@us.andersen.com",
+         "line": 4,
+         "rawfrom": "jennifer.d.sanders@us.andersen.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "jennifer.d.sanders@us.andersen.com",
+         "line": 43,
+         "rawfrom": "  jennifer.d.sanders@us.andersen.com@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "jennifer.d.sanders@us.andersen.com",
+         "line": 74,
+         "rawfrom": "  jennifer.d.sanders@us.andersen.com@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "jennifer.d.sanders@us.andersen.com",
+         "line": 147,
+         "rawfrom": "  jennifer.d.sanders@us.andersen.com@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/inbox/1139.",
+   "hops": [
+      {
+         "from": "ernie.j.zavaleta@fritolay.com",
+         "line": 4,
+         "rawfrom": "ernie.j.zavaleta@fritolay.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 32,
+         "rawfrom": "Gerald.Nemec@enron.com\n",
+         "source": "valid",
+         "to": "Ernie J Zavaleta/Frito-Lay/US@Frito-Lay"
+      },
+      {
+         "from": "ernie.j.zavaleta@fritolay.com",
+         "line": 54,
+         "rawfrom": "  \"Zavaleta, Ernie\" <Ernie.J.Zavaleta@fritolay.com>@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 86,
+         "rawfrom": "Gerald.Nemec@enron.com\n",
+         "source": "valid",
+         "to": "Ernie J Zavaleta/Frito-Lay/US@Frito-Lay"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 159,
+         "rawfrom": "Gerald.Nemec@enron.com\n",
+         "source": "valid",
+         "to": "Ernie J Zavaleta/Frito-Lay/US@Frito-Lay"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/inbox/1287.",
+   "hops": [
+      {
+         "from": "jennifer.d.sanders@us.andersen.com",
+         "line": 4,
+         "rawfrom": "jennifer.d.sanders@us.andersen.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "jennifer.d.sanders@us.andersen.com",
+         "line": 43,
+         "rawfrom": "  jennifer.d.sanders@us.andersen.com@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "jennifer.d.sanders@us.andersen.com",
+         "line": 79,
+         "rawfrom": "  jennifer.d.sanders@us.andersen.com@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "jennifer.d.sanders@us.andersen.com",
+         "line": 129,
+         "rawfrom": "  jennifer.d.sanders@us.andersen.com@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/inbox/1822.",
+   "hops": [
+      {
+         "from": "swilliams@reliant.com",
+         "line": 4,
+         "rawfrom": "swilliams@reliant.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 25,
+         "rawfrom": "Gerald.Nemec@enron.com [mailto:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "Williams, Stephen"
+      },
+      {
+         "from": "swilliams@reliant.com",
+         "line": 34,
+         "rawfrom": "  \"Williams, Stephen\" <SWilliams@reliant.com>@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 44,
+         "rawfrom": "Nemec, Gerald [mailto:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "Williams, Stephen"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/inbox/941.",
+   "hops": [
+      {
+         "from": "shahnaz.lakho@enron.com",
+         "line": 4,
+         "rawfrom": "shahnaz.lakho@enron.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "karen.flores@elpaso.com",
+         "line": 29,
+         "rawfrom": "\t\"Flores, Karen\" <Karen.Flores@ElPaso.com>@ENRON [mailto:IMCEANOTES-+22Flores+2C+20Karen+22+20+3CKaren+2EFlores+40ElPaso+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Lakho, Shahnaz"
+      },
+      {
+         "from": "shahnaz.lakho@enron.com",
+         "line": 43,
+         "rawfrom": "Shahnaz.Lakho@enron.com [mailto:Shahnaz.Lakho@enron.com]\n",
+         "source": "email",
+         "to": "Flores, Karen; slakho@enron.com"
+      },
+      {
+         "from": "karen.flores@elpaso.com",
+         "line": 74,
+         "rawfrom": "  \"Flores, Karen\" <Karen.Flores@ElPaso.com>@ENRON\n",
+         "source": "email",
+         "to": "'slakho@enron.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/1462.",
+   "hops": [
+      {
+         "from": "emmye@dracospring.com",
+         "line": 4,
+         "rawfrom": "emmye@dracospring.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 23,
+         "rawfrom": "Gerald.Nemec@enron.com [mailto:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "emmye@dracospring.com"
+      },
+      {
+         "from": "jdogg96137@aol.com",
+         "line": 51,
+         "rawfrom": "JDogg96137@aol.com [mailto:JDogg96137@aol.com]\n",
+         "source": "email",
+         "to": "JWells4378@aol.com; lkitchel@duffkitchelcpa.com;"
+      },
+      {
+         "from": "mroberts@bindview.com",
+         "line": 71,
+         "rawfrom": "\"Robertson, Misty\" <MRoberts@bindview.com>\n",
+         "source": "email",
+         "to": "\"'AL'\" <ALW@GLD-LAW.com>, \"'CLAUDIA'\" <cblackman@gseworld.com>,"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/1421.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 27,
+         "rawfrom": "\"Townsend, George\" <gtownsend@manorisd.net>\n",
+         "source": "email",
+         "to": "Gerald Nemec/HOU/ECT@ECT, \"'wayne fulton'\" <jwf@flashmail.com>"
+      },
+      {
+         "from": "dross314@hotmail.com",
+         "line": 62,
+         "rawfrom": "Deb Ross [SMTP:dross314@hotmail.com]\n",
+         "source": "email",
+         "to": "Rhonda2702@aol.com; elledger@laketravis.txed.net;"
+      },
+      {
+         "from": "mnewcomb@tsixroads.com",
+         "line": 74,
+         "rawfrom": "\"mary newcomb\" <mnewcomb@tsixroads.com>\n",
+         "source": "email",
+         "to": "\"RICK NEWCOMB\" <rnewcomb@tsixroads.com>, \"robin\""
+      },
+      {
+         "from": "croberts@tsixroads.com",
+         "line": 86,
+         "rawfrom": "Carley Roberts <croberts@tsixroads.com>\n",
+         "source": "email",
+         "to": "Janet Holley <bholley@tsixroads.com>; Daniel Mathis"
+      },
+      {
+         "from": "bholley@tsixroads.com",
+         "line": 101,
+         "rawfrom": "bobby wade holley <bholley@tsixroads.com>\n",
+         "source": "email",
+         "to": "carley roberts <croberts@tsixroads.com>"
+      },
+      {
+         "from": "rgray@avsia.com",
+         "line": 109,
+         "rawfrom": "rick gray <rgray@avsia.com>\n",
+         "source": "email",
+         "to": "BOBBY HOLLEY <bholley@tsixroads.com>; CRAIG RHODES"
+      },
+      {
+         "from": "voeller@uswest.net",
+         "line": 128,
+         "rawfrom": "\"Nathan Voeller\" <voeller@uswest.net>\n",
+         "source": "email",
+         "to": "<AHen855423@aol.com>; \"Tiffany\" <amanda.dixon.@us.zurich.com>;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/6206.",
+   "hops": [
+      {
+         "from": "nnachawa@central.uh.edu",
+         "line": 4,
+         "rawfrom": "nnachawa@central.uh.edu\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 32,
+         "rawfrom": "Gerald.Nemec@enron.com [SMTP:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "nnachawa@Central.UH.EDU"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 80,
+         "rawfrom": "  Gerald.Nemec@enron.com [SMTP:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "nnachawa@Central.UH.EDU"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 139,
+         "rawfrom": "Gerald.Nemec@enron.com\n",
+         "source": "valid",
+         "to": "nnachawa@Central.UH.EDU"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/4805.",
+   "hops": [
+      {
+         "from": "ryan.f.ruppert@exxon.sprint.com",
+         "line": 4,
+         "rawfrom": "ryan.f.ruppert@exxon.sprint.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com, eric.gillaspie@enron.com"
+      },
+      {
+         "from": "ryan.f.ruppert@exxon.sprint.com",
+         "line": 63,
+         "rawfrom": "<Ryan.F.Ruppert@EXXON.sprint.com>\n",
+         "source": "email",
+         "to": "<panacea1@swbell.net>"
+      },
+      {
+         "from": "panacea1@swbell.net",
+         "line": 127,
+         "rawfrom": "\"Kristi and Greg Foster\" <panacea1@swbell.net>\n",
+         "source": "email",
+         "to": "<Gerald.Nemec@enron.com>"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 152,
+         "rawfrom": "<Gerald.Nemec@enron.com>\n",
+         "source": "email",
+         "to": "<panacea1@swbell.net>"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/6234.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "bswaldrop@aol.com"
+      },
+      {
+         "from": "jongill78@hotmail.com",
+         "line": 76,
+         "rawfrom": "jonathan gillaspie [mailto:jongill78@hotmail.com]\n",
+         "source": "email",
+         "to": "Gillaspie, Eric"
+      },
+      {
+         "from": "egillaspie@coral-energy.com",
+         "line": 96,
+         "rawfrom": "\"Gillaspie, Eric\" <EGillaspie@coral-energy.com>\n",
+         "source": "email",
+         "to": "\"'jonathan gillaspie'\" <jongill78@hotmail.com>"
+      },
+      {
+         "from": "jongill78@hotmail.com",
+         "line": 122,
+         "rawfrom": "jonathan gillaspie [mailto:jongill78@hotmail.com]\n",
+         "source": "email",
+         "to": "Gillaspie, Eric"
+      },
+      {
+         "from": "egillaspie@coral-energy.com",
+         "line": 163,
+         "rawfrom": "\"Gillaspie, Eric\" <EGillaspie@coral-energy.com>\n",
+         "source": "email",
+         "to": "\"'jennifer-gillaspie@reliantenergy.com'\""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/2008.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "kjobrien@duke-energy.com"
+      },
+      {
+         "from": "kjobrien@duke-energy.com",
+         "line": 28,
+         "rawfrom": "kjobrien@duke-energy.com\n",
+         "source": "valid",
+         "to": "Gerald.Nemec@enron.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 52,
+         "rawfrom": "Gerald.Nemec@enron.com on 11/13/2000 06:46:32 PM\n",
+         "source": "email",
+         "to": "kjobrien@duke-energy.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 92,
+         "rawfrom": "Gerald.Nemec@enron.com on 11/13/2000 01:54:55 PM\n",
+         "source": "email",
+         "to": "kjobrien@duke-energy.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/4513.",
+   "hops": [
+      {
+         "from": "michael.bilberry@enron.com",
+         "line": 4,
+         "rawfrom": "michael.bilberry@enron.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "michael.c.bilberry@enron.com",
+         "line": 35,
+         "rawfrom": "Michael.C.Bilberry@enron.com [SMTP:Michael.C.Bilberry@enron.com]\n",
+         "source": "email",
+         "to": "william.e.nicas@exxon.com"
+      },
+      {
+         "from": "william.e.nicas@exxon.com",
+         "line": 47,
+         "rawfrom": "william.e.nicas@exxon.com",
+         "source": "valid",
+         "to": "Michael.C.Bilberry@enron.com"
+      },
+      {
+         "from": "michael.c.bilberry@enron.com",
+         "line": 69,
+         "rawfrom": "  Michael.C.Bilberry@enron.com [SMTP:Michael.C.Bilberry@enron.com]\n",
+         "source": "email",
+         "to": "mark.t.bentley@exxon.com"
+      },
+      {
+         "from": "mark.t.bentley@exxon.com",
+         "line": 83,
+         "rawfrom": "mark.t.bentley@exxon.com",
+         "source": "valid",
+         "to": "mbilber@enron.com, Jack.Simunek@enron.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/5770.",
+   "hops": [
+      {
+         "from": "paul.pfeffer@bakerbotts.com",
+         "line": 4,
+         "rawfrom": "paul.pfeffer@bakerbotts.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "testanek@midamerican.com",
+         "line": 41,
+         "rawfrom": "Stanek, Tom E [mailto:TEStanek@midamerican.com]\n",
+         "source": "email",
+         "to": "Joe Beacom (E-mail); John O'Brien (E-mail); John Olson (E-mail); Ken"
+      },
+      {
+         "from": "chboon63@hotmail.com",
+         "line": 62,
+         "rawfrom": "  Chris Boon [ mailto:chboon63@hotmail.com\n",
+         "source": "email",
+         "to": "Boon, Marsha R; Olsen, Dennis C; booner2345@aol.com;"
+      },
+      {
+         "from": "orca916@yahoo.com",
+         "line": 70,
+         "rawfrom": " Shanna Douglas <orca916@yahoo.com>\n",
+         "source": "email",
+         "to": "Janie Baird <manpa@rconnect.com>, Chris Boon <chboon63@hotmail.com>,"
+      },
+      {
+         "from": "douglas@shawgp.com",
+         "line": 98,
+         "rawfrom": "douglas@shawgp.com\n",
+         "source": "valid",
+         "to": "alyssa49@hotmail.com, richardson@shawgp.com, bigvmcd@aol.com,"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/1424.",
+   "hops": [
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 4,
+         "rawfrom": "gtownsend@manorisd.net\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 32,
+         "rawfrom": "Gerald.Nemec@enron.com [SMTP:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "Townsend, George"
+      },
+      {
+         "from": "dross314@hotmail.com",
+         "line": 98,
+         "rawfrom": "  Deb Ross [SMTP:dross314@hotmail.com]\n",
+         "source": "email",
+         "to": "Rhonda2702@aol.com; elledger@laketravis.txed.net;"
+      },
+      {
+         "from": "mnewcomb@tsixroads.com",
+         "line": 110,
+         "rawfrom": "\"mary newcomb\" <mnewcomb@tsixroads.com>\n",
+         "source": "email",
+         "to": "\"RICK NEWCOMB\" <rnewcomb@tsixroads.com>, \"robin\""
+      },
+      {
+         "from": "croberts@tsixroads.com",
+         "line": 122,
+         "rawfrom": "Carley Roberts <croberts@tsixroads.com>\n",
+         "source": "email",
+         "to": "Janet Holley <bholley@tsixroads.com>; Daniel Mathis"
+      },
+      {
+         "from": "bholley@tsixroads.com",
+         "line": 139,
+         "rawfrom": "bobby wade holley <bholley@tsixroads.com>\n",
+         "source": "email",
+         "to": "carley roberts <croberts@tsixroads.com>"
+      },
+      {
+         "from": "rgray@avsia.com",
+         "line": 147,
+         "rawfrom": "rick gray <rgray@avsia.com>\n",
+         "source": "email",
+         "to": "BOBBY HOLLEY <bholley@tsixroads.com>; CRAIG RHODES"
+      },
+      {
+         "from": "voeller@uswest.net",
+         "line": 168,
+         "rawfrom": "\"Nathan Voeller\" <voeller@uswest.net>\n",
+         "source": "email",
+         "to": "<AHen855423@aol.com>; \"Tiffany\" <amanda.dixon.@us.zurich.com>;"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/292.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 26,
+         "rawfrom": "\"Townsend, George\" <gtownsend@manorisd.net> on 11/10/99 11:42:41 AM\n",
+         "source": "email",
+         "to": "Gerald Nemec/HOU/ECT@ECT"
+      },
+      {
+         "from": "gnemec@ect.enron.com",
+         "line": 49,
+         "rawfrom": "Gerald Nemec [SMTP:gnemec@ect.enron.com]\n",
+         "source": "email",
+         "to": "Townsend, George"
+      },
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 77,
+         "rawfrom": "gtownsend@manorisd.net",
+         "source": "valid",
+         "to": "Gerald Nemec/HOU/ECT@ECT"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/417.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "ryan.f.ruppert@exxon.sprint.com"
+      },
+      {
+         "from": "ryan.f.ruppert@exxon.sprint.com",
+         "line": 29,
+         "rawfrom": "Ryan.F.Ruppert@EXXON.sprint.com on 02/24/2000 09:13:20 AM\n",
+         "source": "email",
+         "to": "Gerald.Nemec@enron.com"
+      },
+      {
+         "from": "ryan.f.ruppert@exxon.sprint.com",
+         "line": 72,
+         "rawfrom": "Ryan.F.Ruppert@EXXON.sprint.com on 02/23/2000 01:34:52 PM\n",
+         "source": "email",
+         "to": "Gerald.Nemec@enron.com"
+      },
+      {
+         "from": "ryan.f.ruppert@exxon.sprint.com",
+         "line": 137,
+         "rawfrom": "Ryan.F.Ruppert@EXXON.sprint.com on 02/23/2000 09:54:03 AM\n",
+         "source": "email",
+         "to": "Eric.Gillaspie@enron.com, Gerald.Nemec@enron.com"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/270.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 25,
+         "rawfrom": "\"Townsend, George\" <gtownsend@manorisd.net> on 10/22/99 11:17:14 AM\n",
+         "source": "email",
+         "to": "Gerald Nemec/HOU/ECT@ECT"
+      },
+      {
+         "from": "gnemec@ect.enron.com",
+         "line": 42,
+         "rawfrom": "Gerald Nemec [SMTP:gnemec@ect.enron.com]\n",
+         "source": "email",
+         "to": "Townsend, George"
+      },
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 55,
+         "rawfrom": "gtownsend@manorisd.net",
+         "source": "valid",
+         "to": "Gerald Nemec/HOU/ECT@ECT"
+      },
+      {
+         "from": "gnemec@ect.enron.com",
+         "line": 68,
+         "rawfrom": "  Gerald Nemec [SMTP:gnemec@ect.enron.com]\n",
+         "source": "email",
+         "to": "Townsend, George"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/5374.",
+   "hops": [
+      {
+         "from": "brant.reves@enron.com",
+         "line": 4,
+         "rawfrom": "brant.reves@enron.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "shelley.jones@elpaso.com",
+         "line": 40,
+         "rawfrom": " \"Jones, Shelley\" <Shelley.Jones@ElPaso.com>@ENRON \n",
+         "source": "email",
+         "to": "Reves, Brant"
+      },
+      {
+         "from": "brant.reves@enron.com",
+         "line": 64,
+         "rawfrom": "Brant.Reves@enron.com [mailto:Brant.Reves@enron.com]\n",
+         "source": "email",
+         "to": "Jones, Shelley"
+      },
+      {
+         "from": "shelley.jones@elpaso.com",
+         "line": 91,
+         "rawfrom": "  \"Jones, Shelley\" <Shelley.Jones@ElPaso.com>@ENRON\n",
+         "source": "email",
+         "to": "Reves, Brant"
+      },
+      {
+         "from": "brant.reves@enron.com",
+         "line": 108,
+         "rawfrom": "     Reves, Brant [mailto:Brant.Reves@ENRON.com]\n",
+         "source": "email",
+         "to": "Jones, Shelley"
+      },
+      {
+         "from": "jones.shelley@epenergy.com",
+         "line": 123,
+         "rawfrom": "    Jones, Shelley  [mailto:Jones.Shelley@EPEnergy.com]\n",
+         "source": "email",
+         "to": "'Brant.Reves@enron.com'"
+      },
+      {
+         "from": "brant.reves@enron.com",
+         "line": 138,
+         "rawfrom": "Brant.Reves@enron.com [mailto:Brant.Reves@enron.com]\n",
+         "source": "email",
+         "to": "Jones, Shelley"
+      },
+      {
+         "from": "jones.shelley@epenergy.com",
+         "line": 163,
+         "rawfrom": "Jones.Shelley@EPEnergy.com",
+         "source": "valid",
+         "to": "\"'Brant.Reves@enron.com'\" <Brant.Reves@enron.com>"
+      },
+      {
+         "from": "brant.reves@enron.com",
+         "line": 179,
+         "rawfrom": "Brant.Reves@enron.com [mailto:Brant.Reves@enron.com]\n",
+         "source": "email",
+         "to": "Jones, Shelley"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/1411.",
+   "hops": [
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 4,
+         "rawfrom": "gtownsend@manorisd.net\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com, jwf@flashmail.com"
+      },
+      {
+         "from": "dross314@hotmail.com",
+         "line": 46,
+         "rawfrom": "Deb Ross [SMTP:dross314@hotmail.com]\n",
+         "source": "email",
+         "to": "Rhonda2702@aol.com; elledger@laketravis.txed.net;"
+      },
+      {
+         "from": "mnewcomb@tsixroads.com",
+         "line": 58,
+         "rawfrom": "\"mary newcomb\" <mnewcomb@tsixroads.com>\n",
+         "source": "email",
+         "to": "\"RICK NEWCOMB\" <rnewcomb@tsixroads.com>, \"robin\""
+      },
+      {
+         "from": "croberts@tsixroads.com",
+         "line": 70,
+         "rawfrom": "Carley Roberts <croberts@tsixroads.com>\n",
+         "source": "email",
+         "to": "Janet Holley <bholley@tsixroads.com>; Daniel Mathis"
+      },
+      {
+         "from": "bholley@tsixroads.com",
+         "line": 85,
+         "rawfrom": "bobby wade holley <bholley@tsixroads.com>\n",
+         "source": "email",
+         "to": "carley roberts <croberts@tsixroads.com>"
+      },
+      {
+         "from": "rgray@avsia.com",
+         "line": 93,
+         "rawfrom": "rick gray <rgray@avsia.com>\n",
+         "source": "email",
+         "to": "BOBBY HOLLEY <bholley@tsixroads.com>; CRAIG RHODES"
+      },
+      {
+         "from": "voeller@uswest.net",
+         "line": 112,
+         "rawfrom": "\"Nathan Voeller\" <voeller@uswest.net>\n",
+         "source": "email",
+         "to": "<AHen855423@aol.com>; \"Tiffany\" <amanda.dixon.@us.zurich.com>;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/5214.",
+   "hops": [
+      {
+         "from": "brant.reves@enron.com",
+         "line": 4,
+         "rawfrom": "brant.reves@enron.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com, trevor.mihalik@enron.com"
+      },
+      {
+         "from": "shelley.jones@elpaso.com",
+         "line": 30,
+         "rawfrom": " \"Jones, Shelley\" <Shelley.Jones@ElPaso.com>@ENRON \n",
+         "source": "email",
+         "to": "Reves, Brant"
+      },
+      {
+         "from": "brant.reves@enron.com",
+         "line": 54,
+         "rawfrom": "Brant.Reves@enron.com [mailto:Brant.Reves@enron.com]\n",
+         "source": "email",
+         "to": "Jones, Shelley"
+      },
+      {
+         "from": "shelley.jones@elpaso.com",
+         "line": 81,
+         "rawfrom": "  \"Jones, Shelley\" <Shelley.Jones@ElPaso.com>@ENRON\n",
+         "source": "email",
+         "to": "Reves, Brant"
+      },
+      {
+         "from": "brant.reves@enron.com",
+         "line": 98,
+         "rawfrom": "     Reves, Brant [mailto:Brant.Reves@ENRON.com]\n",
+         "source": "email",
+         "to": "Jones, Shelley"
+      },
+      {
+         "from": "jones.shelley@epenergy.com",
+         "line": 113,
+         "rawfrom": "    Jones, Shelley  [mailto:Jones.Shelley@EPEnergy.com]\n",
+         "source": "email",
+         "to": "'Brant.Reves@enron.com'"
+      },
+      {
+         "from": "brant.reves@enron.com",
+         "line": 128,
+         "rawfrom": "Brant.Reves@enron.com [mailto:Brant.Reves@enron.com]\n",
+         "source": "email",
+         "to": "Jones, Shelley"
+      },
+      {
+         "from": "jones.shelley@epenergy.com",
+         "line": 153,
+         "rawfrom": "Jones.Shelley@EPEnergy.com",
+         "source": "valid",
+         "to": "\"'Brant.Reves@enron.com'\" <Brant.Reves@enron.com>"
+      },
+      {
+         "from": "brant.reves@enron.com",
+         "line": 169,
+         "rawfrom": "Brant.Reves@enron.com [mailto:Brant.Reves@enron.com]\n",
+         "source": "email",
+         "to": "Jones, Shelley"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/1039.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "eric.gillaspie@enron.com, jennifer-gillaspie@reliantenergy.com"
+      },
+      {
+         "from": "jennifer-gillaspie@reliantenergy.com",
+         "line": 52,
+         "rawfrom": "jennifer-gillaspie@reliantenergy.com\n",
+         "source": "valid",
+         "to": "Eric.Gillaspie@enron.com, matt.gillaspie@brentonbank.com,"
+      },
+      {
+         "from": "eric.gillaspie@enron.com",
+         "line": 71,
+         "rawfrom": "Eric.Gillaspie@enron.com on 07/27/2000 04:08:02 PM\n",
+         "source": "email",
+         "to": "jennifer-gillaspie@reliantenergy.com"
+      },
+      {
+         "from": "matt.gillaspie@brentonbank.com",
+         "line": 119,
+         "rawfrom": "Matt Gillaspie <matt.gillaspie@brentonbank.com> on 07/27/2000 03:44:32 PM\n",
+         "source": "email",
+         "to": "Eric Gillaspie <Eric.Gillaspie@enron.com>"
+      },
+      {
+         "from": "eric.gillaspie@enron.com",
+         "line": 134,
+         "rawfrom": "  Eric Gillaspie [SMTP:Eric.Gillaspie@enron.com]\n",
+         "source": "email",
+         "to": "matt.gillaspie@brentonbank.com"
+      },
+      {
+         "from": "eric.gillaspie@enron.com",
+         "line": 186,
+         "rawfrom": "Eric.Gillaspie@enron.com",
+         "source": "valid",
+         "to": "Matt Gillaspie <matt.gillaspie@brentonbank.com>"
+      },
+      {
+         "from": "eric.gillaspie@enron.com",
+         "line": 263,
+         "rawfrom": "  Eric.Gillaspie@enron.com [SMTP:Eric.Gillaspie@enron.com]\n",
+         "source": "email",
+         "to": "matt.gillaspie@brentonbank.com"
+      },
+      {
+         "from": "eric.gillaspie@enron.com",
+         "line": 327,
+         "rawfrom": "  Eric Gillaspie [SMTP:Eric.Gillaspie@enron.com]\n",
+         "source": "email",
+         "to": "matt.gillaspie@brentonbank.com"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/2000.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "mbeckworth@velaw.com"
+      },
+      {
+         "from": "mbeckworth@velaw.com",
+         "line": 30,
+         "rawfrom": "\"Beckworth, Melissa\" <mbeckworth@velaw.com>\n",
+         "source": "email",
+         "to": "\"'Gerald.Nemec@enron.com'\" <Gerald.Nemec@enron.com>"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 42,
+         "rawfrom": "Gerald.Nemec@enron.com [mailto:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "mbeckworth@velaw.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 110,
+         "rawfrom": "Gerald.Nemec@enron.com [mailto:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "mbeckworth@velaw.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/2003.",
+   "hops": [
+      {
+         "from": "mbeckworth@velaw.com",
+         "line": 4,
+         "rawfrom": "mbeckworth@velaw.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 29,
+         "rawfrom": "Gerald.Nemec@enron.com [mailto:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "mbeckworth@velaw.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 74,
+         "rawfrom": "Gerald.Nemec@enron.com [mailto:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "mbeckworth@velaw.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 142,
+         "rawfrom": "Gerald.Nemec@enron.com [mailto:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "mbeckworth@velaw.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/315.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 30,
+         "rawfrom": "\"Townsend, George\" <gtownsend@manorisd.net> on 11/29/99 09:25:57 AM\n",
+         "source": "email",
+         "to": "Gerald Nemec/HOU/ECT@ECT"
+      },
+      {
+         "from": "gnemec@ect.enron.com",
+         "line": 46,
+         "rawfrom": "Gerald Nemec [SMTP:gnemec@ect.enron.com]\n",
+         "source": "email",
+         "to": "Townsend, George"
+      },
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 71,
+         "rawfrom": "gtownsend@manorisd.net",
+         "source": "valid",
+         "to": "Gerald Nemec/HOU/ECT@ECT"
+      },
+      {
+         "from": "gnemec@ect.enron.com",
+         "line": 87,
+         "rawfrom": "  Gerald Nemec [SMTP:gnemec@ect.enron.com]\n",
+         "source": "email",
+         "to": "Townsend, George"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/4734.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "kjurica@syntexsolutions.com"
+      },
+      {
+         "from": "kjurica@syntexsolutions.com",
+         "line": 27,
+         "rawfrom": "Kevin Jurica <KJurica@syntexsolutions.com>\n",
+         "source": "email",
+         "to": "\"'Gerald.Nemec@enron.com'\" <Gerald.Nemec@enron.com>"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 43,
+         "rawfrom": "Gerald.Nemec@enron.com [mailto:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "KJurica@syntexsolutions.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 87,
+         "rawfrom": "    Gerald.Nemec@enron.com [mailto:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "kjurica@syntexsolutions.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/141.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 31,
+         "rawfrom": " \"Townsend, George\" <gtownsend@manorisd.net>                           \n",
+         "source": "email",
+         "to": "Gerald Nemec/HOU/ECT@ECT"
+      },
+      {
+         "from": "gnemec@ect.enron.com",
+         "line": 48,
+         "rawfrom": "Gerald Nemec [SMTP:gnemec@ect.enron.com]\n",
+         "source": "email",
+         "to": "Townsend, George"
+      },
+      {
+         "from": "gnemec@ect.enron.com",
+         "line": 98,
+         "rawfrom": "  Gerald Nemec [SMTP:gnemec@ect.enron.com]\n",
+         "source": "email",
+         "to": "gtownsend@manorisd.net"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/4517.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "eric.gillaspie@enron.com"
+      },
+      {
+         "from": "michael.c.bilberry@enron.com",
+         "line": 45,
+         "rawfrom": "Michael.C.Bilberry@enron.com [SMTP:Michael.C.Bilberry@enron.com]\n",
+         "source": "email",
+         "to": "william.e.nicas@exxon.com"
+      },
+      {
+         "from": "william.e.nicas@exxon.com",
+         "line": 57,
+         "rawfrom": "william.e.nicas@exxon.com",
+         "source": "valid",
+         "to": "Michael.C.Bilberry@enron.com"
+      },
+      {
+         "from": "michael.c.bilberry@enron.com",
+         "line": 79,
+         "rawfrom": "  Michael.C.Bilberry@enron.com [SMTP:Michael.C.Bilberry@enron.com]\n",
+         "source": "email",
+         "to": "mark.t.bentley@exxon.com"
+      },
+      {
+         "from": "mark.t.bentley@exxon.com",
+         "line": 93,
+         "rawfrom": "mark.t.bentley@exxon.com",
+         "source": "valid",
+         "to": "mbilber@enron.com, Jack.Simunek@enron.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/5775.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "eric.gillaspie@enron.com, bswaldrop@aol.com"
+      },
+      {
+         "from": "testanek@midamerican.com",
+         "line": 51,
+         "rawfrom": "Stanek, Tom E [mailto:TEStanek@midamerican.com]\n",
+         "source": "email",
+         "to": "Joe Beacom (E-mail); John O'Brien (E-mail); John Olson (E-mail); Ken"
+      },
+      {
+         "from": "chboon63@hotmail.com",
+         "line": 72,
+         "rawfrom": "  Chris Boon [ mailto:chboon63@hotmail.com\n",
+         "source": "email",
+         "to": "Boon, Marsha R; Olsen, Dennis C; booner2345@aol.com;"
+      },
+      {
+         "from": "orca916@yahoo.com",
+         "line": 80,
+         "rawfrom": " Shanna Douglas <orca916@yahoo.com>\n",
+         "source": "email",
+         "to": "Janie Baird <manpa@rconnect.com>, Chris Boon <chboon63@hotmail.com>,"
+      },
+      {
+         "from": "douglas@shawgp.com",
+         "line": 108,
+         "rawfrom": "douglas@shawgp.com\n",
+         "source": "valid",
+         "to": "alyssa49@hotmail.com, richardson@shawgp.com, bigvmcd@aol.com,"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/733.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "eric.gillaspie@enron.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 37,
+         "rawfrom": "Gerald.Nemec@enron.com [SMTP:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 87,
+         "rawfrom": "  Gerald.Nemec@enron.com [SMTP:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 155,
+         "rawfrom": "  Gerald Nemec [SMTP:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "gtownsend@manorisd.net"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/1511.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "emmye@dracospring.com"
+      },
+      {
+         "from": "emmye@dracospring.com",
+         "line": 31,
+         "rawfrom": "\"Emmye\" <emmye@dracospring.com>\n",
+         "source": "email",
+         "to": "<gerald.nemec@enron.com>"
+      },
+      {
+         "from": "bmills@concentric.net",
+         "line": 42,
+         "rawfrom": "bmills@concentric.net [mailto:bmills@concentric.net]\n",
+         "source": "email",
+         "to": "Emmye Partin"
+      },
+      {
+         "from": "bmills@concentric.net",
+         "line": 53,
+         "rawfrom": "bmills@concentric.net <bmills@concentric.net>\n",
+         "source": "email",
+         "to": "mills@hardinlaw.com <mills@hardinlaw.com>"
+      },
+      {
+         "from": "scottdannelley@hotmail.com",
+         "line": 65,
+         "rawfrom": "scott dannelley <scottdannelley@hotmail.com>\n",
+         "source": "email",
+         "to": "keithw@labs.wyeth.com <keithw@labs.wyeth.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/192.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 26,
+         "rawfrom": "\"Townsend, George\" <gtownsend@manorisd.net> on 09/13/99 02:58:41 PM\n",
+         "source": "email",
+         "to": "Gerald Nemec/HOU/ECT@ECT"
+      },
+      {
+         "from": "gnemec@ect.enron.com",
+         "line": 41,
+         "rawfrom": "Gerald Nemec [SMTP:gnemec@ect.enron.com]\n",
+         "source": "email",
+         "to": "Townsend, George"
+      },
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 59,
+         "rawfrom": "gtownsend@manorisd.net",
+         "source": "valid",
+         "to": "Gerald Nemec/HOU/ECT@ECT"
+      },
+      {
+         "from": "gnemec@ect.enron.com",
+         "line": 78,
+         "rawfrom": "  Gerald Nemec [SMTP:gnemec@ect.enron.com]\n",
+         "source": "email",
+         "to": "gtownsend@manorisd.net"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/6166.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "nabil@enron.com, nnachawa@central.uh.edu"
+      },
+      {
+         "from": "nnachawa@central.uh.edu",
+         "line": 26,
+         "rawfrom": "\"Nachawati, Nabil, M\" <nnachawa@Central.UH.EDU>\n",
+         "source": "email",
+         "to": "\"'Gerald.Nemec@enron.com'\" <Gerald.Nemec@enron.com>"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 46,
+         "rawfrom": "Gerald.Nemec@enron.com [SMTP:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "nnachawa@Central.UH.EDU"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 101,
+         "rawfrom": "Gerald.Nemec@enron.com\n",
+         "source": "valid",
+         "to": "nnachawa@Central.UH.EDU"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/712.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 32,
+         "rawfrom": "\"Townsend, George\" <gtownsend@manorisd.net>\n",
+         "source": "email",
+         "to": "\"'Gerald.Nemec@enron.com'\" <Gerald.Nemec@enron.com>"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 47,
+         "rawfrom": "Gerald.Nemec@enron.com [SMTP:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 110,
+         "rawfrom": "  Gerald Nemec [SMTP:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "gtownsend@manorisd.net"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/1458.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "emmye@dracospring.com"
+      },
+      {
+         "from": "emmye@dracospring.com",
+         "line": 26,
+         "rawfrom": "\"Emmye\" <emmye@dracospring.com>\n",
+         "source": "email",
+         "to": "<gerald.nemec@enron.com>"
+      },
+      {
+         "from": "jdogg96137@aol.com",
+         "line": 36,
+         "rawfrom": "JDogg96137@aol.com [mailto:JDogg96137@aol.com]\n",
+         "source": "email",
+         "to": "JWells4378@aol.com; lkitchel@duffkitchelcpa.com;"
+      },
+      {
+         "from": "mroberts@bindview.com",
+         "line": 56,
+         "rawfrom": "\"Robertson, Misty\" <MRoberts@bindview.com>\n",
+         "source": "email",
+         "to": "\"'AL'\" <ALW@GLD-LAW.com>, \"'CLAUDIA'\" <cblackman@gseworld.com>, \"'DWANE'\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/5567.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "bswaldrop@aol.com, paul.pfeffer@bakerbotts.com"
+      },
+      {
+         "from": "karmstrong6@hotmail.com",
+         "line": 31,
+         "rawfrom": " karmstrong6 [mailto:karmstrong6@hotmail.com] \n",
+         "source": "email",
+         "to": "brian.hendon"
+      },
+      {
+         "from": "kcarnes@houston.rr.com",
+         "line": 39,
+         "rawfrom": "\"Kristy Carnes\" <kcarnes@houston.rr.com>\n",
+         "source": "email",
+         "to": "<karmstrong6@hotmail.com>"
+      },
+      {
+         "from": "fnl1038@aol.com",
+         "line": 46,
+         "rawfrom": "Fnl1038@aol.com\n",
+         "source": "valid",
+         "to": "Wildroseto@aol.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/2010.",
+   "hops": [
+      {
+         "from": "kjobrien@duke-energy.com",
+         "line": 4,
+         "rawfrom": "kjobrien@duke-energy.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 30,
+         "rawfrom": "Gerald.Nemec@enron.com on 11/15/2000 10:03:43 AM\n",
+         "source": "email",
+         "to": "kjobrien@duke-energy.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 74,
+         "rawfrom": "Gerald.Nemec@enron.com on 11/13/2000 06:46:32 PM\n",
+         "source": "email",
+         "to": "kjobrien@duke-energy.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 114,
+         "rawfrom": "Gerald.Nemec@enron.com on 11/13/2000 01:54:55 PM\n",
+         "source": "email",
+         "to": "kjobrien@duke-energy.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/1857.",
+   "hops": [
+      {
+         "from": "ssnyder@shelton.org",
+         "line": 4,
+         "rawfrom": "ssnyder@shelton.org\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "awukasch@mail.shelton.org",
+         "line": 19,
+         "rawfrom": "awukasch@mail.shelton.org",
+         "source": "valid",
+         "to": "ssnyder@shelton.org"
+      },
+      {
+         "from": "mbeckworth@velaw.com",
+         "line": 24,
+         "rawfrom": "\"Beckworth, Melissa\" <mbeckworth@velaw.com>\n",
+         "source": "email",
+         "to": "'Ann Wukasch' <awukasch@shelton.org>"
+      },
+      {
+         "from": "awukasch@shelton.org",
+         "line": 44,
+         "rawfrom": "Ann Wukasch [mailto:awukasch@shelton.org]\n",
+         "source": "email",
+         "to": "Beckworth, Melissa"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/265.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "brian.hendon@enron.com, eric.gillaspie@enron.com,"
+      },
+      {
+         "from": "rschonhoeft@hotmail.com",
+         "line": 34,
+         "rawfrom": "ross schonhoeft [SMTP:rschonhoeft@hotmail.com]\n",
+         "source": "email",
+         "to": "Jennifer.Chapman@esc20.k12.tx.us; jharper@interconnect.net;"
+      },
+      {
+         "from": "rschonhoeft@burnet.txed.net",
+         "line": 42,
+         "rawfrom": "\"Schonhoeft, R\" <RSCHONHOEFT@burnet.txed.net>\n",
+         "source": "email",
+         "to": "rschonhoeft@hotmail.com"
+      },
+      {
+         "from": "gram85@hotmail.com",
+         "line": 60,
+         "rawfrom": "Janice Clements [mailto:gram85@hotmail.com]\n",
+         "source": "email",
+         "to": "scotton@burnet.txed.net"
+      },
+      {
+         "from": "cathy@nts-online.net",
+         "line": 72,
+         "rawfrom": "\"Cathy Moore\" <cathy@nts-online.net>\n",
+         "source": "email",
+         "to": "\"Janice Clements\" <gram85@hotmail.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/6233.",
+   "hops": [
+      {
+         "from": "egillaspie@coral-energy.com",
+         "line": 4,
+         "rawfrom": "egillaspie@coral-energy.com\r\n",
+         "source": "valid",
+         "to": "jongill78@hotmail.com"
+      },
+      {
+         "from": "jongill78@hotmail.com",
+         "line": 67,
+         "rawfrom": "jonathan gillaspie [mailto:jongill78@hotmail.com]\n",
+         "source": "email",
+         "to": "Gillaspie, Eric"
+      },
+      {
+         "from": "egillaspie@coral-energy.com",
+         "line": 87,
+         "rawfrom": "\"Gillaspie, Eric\" <EGillaspie@coral-energy.com>\n",
+         "source": "email",
+         "to": "\"'jonathan gillaspie'\" <jongill78@hotmail.com>"
+      },
+      {
+         "from": "jongill78@hotmail.com",
+         "line": 113,
+         "rawfrom": "jonathan gillaspie [mailto:jongill78@hotmail.com]\n",
+         "source": "email",
+         "to": "Gillaspie, Eric"
+      },
+      {
+         "from": "egillaspie@coral-energy.com",
+         "line": 154,
+         "rawfrom": "\"Gillaspie, Eric\" <EGillaspie@coral-energy.com>\n",
+         "source": "email",
+         "to": "\"'jennifer-gillaspie@reliantenergy.com'\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/1506.",
+   "hops": [
+      {
+         "from": "emmye@dracospring.com",
+         "line": 4,
+         "rawfrom": "emmye@dracospring.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "bmills@concentric.net",
+         "line": 23,
+         "rawfrom": "bmills@concentric.net [mailto:bmills@concentric.net]\n",
+         "source": "email",
+         "to": "Emmye Partin"
+      },
+      {
+         "from": "bmills@concentric.net",
+         "line": 34,
+         "rawfrom": "bmills@concentric.net <bmills@concentric.net>\n",
+         "source": "email",
+         "to": "mills@hardinlaw.com <mills@hardinlaw.com>"
+      },
+      {
+         "from": "scottdannelley@hotmail.com",
+         "line": 46,
+         "rawfrom": "scott dannelley <scottdannelley@hotmail.com>\n",
+         "source": "email",
+         "to": "keithw@labs.wyeth.com <keithw@labs.wyeth.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/1688.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "ryan.f.ruppert@exxon.sprint.com"
+      },
+      {
+         "from": "dhartwick@mindspring.com",
+         "line": 62,
+         "rawfrom": "DAN HARTWICK [mailto:dhartwick@mindspring.com]\n",
+         "source": "email",
+         "to": "SHAWN; Russell Perrine; RICHARD KUJAY; Ppmjgillis@aol.com;"
+      },
+      {
+         "from": "rbredfeldt@hotmail.com",
+         "line": 74,
+         "rawfrom": "Rachel Bredfeldt <rbredfeldt@hotmail.com\n",
+         "source": "email",
+         "to": "<kiersten.marino@edwardjones.com"
+      },
+      {
+         "from": "syrclej@missouri.edu",
+         "line": 88,
+         "rawfrom": "\"Syrcle, Jason A.\" <SyrcleJ@missouri.edu\n",
+         "source": "email",
+         "to": "UMC CVM Class03 <UMCCVMClass03@missouri.edu"
+      },
+      {
+         "from": "rd_13@hotmail.com",
+         "line": 133,
+         "rawfrom": "\"Renee Durst\" <rd_13@hotmail.com\n",
+         "source": "email",
+         "to": "enoch05@hotmail.com"
+      },
+      {
+         "from": "rdurst@chestnut.org",
+         "line": 155,
+         "rawfrom": "\"Renee Durst\" <rdurst@chestnut.org\n",
+         "source": "email",
+         "to": "<rd_13@hotmail.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/334.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "mconner@plainsgt.org"
+      },
+      {
+         "from": "mconner@plainsgt.org",
+         "line": 25,
+         "rawfrom": "Mark Conner <mconner@plainsgt.org> on 12/13/99 04:49:58 PM\n",
+         "source": "email",
+         "to": "Gerald Nemec/HOU/ECT@ECT"
+      },
+      {
+         "from": "gnemec@ect.enron.com",
+         "line": 44,
+         "rawfrom": "Gerald Nemec [mailto:gnemec@ect.enron.com]\n",
+         "source": "email",
+         "to": "Mark Conner"
+      },
+      {
+         "from": "mconner@plainsgt.org",
+         "line": 65,
+         "rawfrom": "Mark Conner <mconner@plainsgt.org> on 12/13/99 03:06:49 PM\n",
+         "source": "email",
+         "to": "Gerald Nemec/HOU/ECT@ECT"
+      },
+      {
+         "from": "gnemec@ect.enron.com",
+         "line": 83,
+         "rawfrom": "Gerald Nemec [mailto:gnemec@ect.enron.com]\n",
+         "source": "email",
+         "to": "mconner@plainsgt.org; jtaylor@plainsgt.org"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/all_documents/721.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 36,
+         "rawfrom": "\"Townsend, George\" <gtownsend@manorisd.net>\n",
+         "source": "email",
+         "to": "\"'Gerald.Nemec@enron.com'\" <Gerald.Nemec@enron.com>"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 50,
+         "rawfrom": "Gerald.Nemec@enron.com [SMTP:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 100,
+         "rawfrom": "  Gerald.Nemec@enron.com [SMTP:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 168,
+         "rawfrom": "  Gerald Nemec [SMTP:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "gtownsend@manorisd.net"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent/2493.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "nabil@enron.com, nnachawa@central.uh.edu"
+      },
+      {
+         "from": "nnachawa@central.uh.edu",
+         "line": 26,
+         "rawfrom": "\"Nachawati, Nabil, M\" <nnachawa@Central.UH.EDU>\n",
+         "source": "email",
+         "to": "\"'Gerald.Nemec@enron.com'\" <Gerald.Nemec@enron.com>"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 46,
+         "rawfrom": "Gerald.Nemec@enron.com [SMTP:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "nnachawa@Central.UH.EDU"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 101,
+         "rawfrom": "Gerald.Nemec@enron.com\n",
+         "source": "valid",
+         "to": "nnachawa@Central.UH.EDU"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent/2041.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "eric.gillaspie@enron.com"
+      },
+      {
+         "from": "michael.c.bilberry@enron.com",
+         "line": 45,
+         "rawfrom": "Michael.C.Bilberry@enron.com [SMTP:Michael.C.Bilberry@enron.com]\n",
+         "source": "email",
+         "to": "william.e.nicas@exxon.com"
+      },
+      {
+         "from": "william.e.nicas@exxon.com",
+         "line": 57,
+         "rawfrom": "william.e.nicas@exxon.com",
+         "source": "valid",
+         "to": "Michael.C.Bilberry@enron.com"
+      },
+      {
+         "from": "michael.c.bilberry@enron.com",
+         "line": 79,
+         "rawfrom": "  Michael.C.Bilberry@enron.com [SMTP:Michael.C.Bilberry@enron.com]\n",
+         "source": "email",
+         "to": "mark.t.bentley@exxon.com"
+      },
+      {
+         "from": "mark.t.bentley@exxon.com",
+         "line": 93,
+         "rawfrom": "mark.t.bentley@exxon.com",
+         "source": "valid",
+         "to": "mbilber@enron.com, Jack.Simunek@enron.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent/327.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "mconner@plainsgt.org"
+      },
+      {
+         "from": "mconner@plainsgt.org",
+         "line": 25,
+         "rawfrom": "Mark Conner <mconner@plainsgt.org> on 12/13/99 04:49:58 PM\n",
+         "source": "email",
+         "to": "Gerald Nemec/HOU/ECT@ECT"
+      },
+      {
+         "from": "gnemec@ect.enron.com",
+         "line": 44,
+         "rawfrom": "Gerald Nemec [mailto:gnemec@ect.enron.com]\n",
+         "source": "email",
+         "to": "Mark Conner"
+      },
+      {
+         "from": "mconner@plainsgt.org",
+         "line": 65,
+         "rawfrom": "Mark Conner <mconner@plainsgt.org> on 12/13/99 03:06:49 PM\n",
+         "source": "email",
+         "to": "Gerald Nemec/HOU/ECT@ECT"
+      },
+      {
+         "from": "gnemec@ect.enron.com",
+         "line": 83,
+         "rawfrom": "Gerald Nemec [mailto:gnemec@ect.enron.com]\n",
+         "source": "email",
+         "to": "mconner@plainsgt.org; jtaylor@plainsgt.org"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent/189.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 26,
+         "rawfrom": "\"Townsend, George\" <gtownsend@manorisd.net> on 09/13/99 02:58:41 PM\n",
+         "source": "email",
+         "to": "Gerald Nemec/HOU/ECT@ECT"
+      },
+      {
+         "from": "gnemec@ect.enron.com",
+         "line": 41,
+         "rawfrom": "Gerald Nemec [SMTP:gnemec@ect.enron.com]\n",
+         "source": "email",
+         "to": "Townsend, George"
+      },
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 59,
+         "rawfrom": "gtownsend@manorisd.net",
+         "source": "valid",
+         "to": "Gerald Nemec/HOU/ECT@ECT"
+      },
+      {
+         "from": "gnemec@ect.enron.com",
+         "line": 78,
+         "rawfrom": "  Gerald Nemec [SMTP:gnemec@ect.enron.com]\n",
+         "source": "email",
+         "to": "gtownsend@manorisd.net"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent/809.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "emmye@dracospring.com"
+      },
+      {
+         "from": "emmye@dracospring.com",
+         "line": 31,
+         "rawfrom": "\"Emmye\" <emmye@dracospring.com>\n",
+         "source": "email",
+         "to": "<gerald.nemec@enron.com>"
+      },
+      {
+         "from": "bmills@concentric.net",
+         "line": 42,
+         "rawfrom": "bmills@concentric.net [mailto:bmills@concentric.net]\n",
+         "source": "email",
+         "to": "Emmye Partin"
+      },
+      {
+         "from": "bmills@concentric.net",
+         "line": 53,
+         "rawfrom": "bmills@concentric.net <bmills@concentric.net>\n",
+         "source": "email",
+         "to": "mills@hardinlaw.com <mills@hardinlaw.com>"
+      },
+      {
+         "from": "scottdannelley@hotmail.com",
+         "line": 65,
+         "rawfrom": "scott dannelley <scottdannelley@hotmail.com>\n",
+         "source": "email",
+         "to": "keithw@labs.wyeth.com <keithw@labs.wyeth.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent/2522.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "bswaldrop@aol.com"
+      },
+      {
+         "from": "jongill78@hotmail.com",
+         "line": 76,
+         "rawfrom": "jonathan gillaspie [mailto:jongill78@hotmail.com]\n",
+         "source": "email",
+         "to": "Gillaspie, Eric"
+      },
+      {
+         "from": "egillaspie@coral-energy.com",
+         "line": 96,
+         "rawfrom": "\"Gillaspie, Eric\" <EGillaspie@coral-energy.com>\n",
+         "source": "email",
+         "to": "\"'jonathan gillaspie'\" <jongill78@hotmail.com>"
+      },
+      {
+         "from": "jongill78@hotmail.com",
+         "line": 122,
+         "rawfrom": "jonathan gillaspie [mailto:jongill78@hotmail.com]\n",
+         "source": "email",
+         "to": "Gillaspie, Eric"
+      },
+      {
+         "from": "egillaspie@coral-energy.com",
+         "line": 163,
+         "rawfrom": "\"Gillaspie, Eric\" <EGillaspie@coral-energy.com>\n",
+         "source": "email",
+         "to": "\"'jennifer-gillaspie@reliantenergy.com'\""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent/787.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 27,
+         "rawfrom": "\"Townsend, George\" <gtownsend@manorisd.net>\n",
+         "source": "email",
+         "to": "Gerald Nemec/HOU/ECT@ECT, \"'wayne fulton'\" <jwf@flashmail.com>"
+      },
+      {
+         "from": "dross314@hotmail.com",
+         "line": 62,
+         "rawfrom": "Deb Ross [SMTP:dross314@hotmail.com]\n",
+         "source": "email",
+         "to": "Rhonda2702@aol.com; elledger@laketravis.txed.net;"
+      },
+      {
+         "from": "mnewcomb@tsixroads.com",
+         "line": 74,
+         "rawfrom": "\"mary newcomb\" <mnewcomb@tsixroads.com>\n",
+         "source": "email",
+         "to": "\"RICK NEWCOMB\" <rnewcomb@tsixroads.com>, \"robin\""
+      },
+      {
+         "from": "croberts@tsixroads.com",
+         "line": 86,
+         "rawfrom": "Carley Roberts <croberts@tsixroads.com>\n",
+         "source": "email",
+         "to": "Janet Holley <bholley@tsixroads.com>; Daniel Mathis"
+      },
+      {
+         "from": "bholley@tsixroads.com",
+         "line": 101,
+         "rawfrom": "bobby wade holley <bholley@tsixroads.com>\n",
+         "source": "email",
+         "to": "carley roberts <croberts@tsixroads.com>"
+      },
+      {
+         "from": "rgray@avsia.com",
+         "line": 109,
+         "rawfrom": "rick gray <rgray@avsia.com>\n",
+         "source": "email",
+         "to": "BOBBY HOLLEY <bholley@tsixroads.com>; CRAIG RHODES"
+      },
+      {
+         "from": "voeller@uswest.net",
+         "line": 128,
+         "rawfrom": "\"Nathan Voeller\" <voeller@uswest.net>\n",
+         "source": "email",
+         "to": "<AHen855423@aol.com>; \"Tiffany\" <amanda.dixon.@us.zurich.com>;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent/795.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "emmye@dracospring.com"
+      },
+      {
+         "from": "emmye@dracospring.com",
+         "line": 26,
+         "rawfrom": "\"Emmye\" <emmye@dracospring.com>\n",
+         "source": "email",
+         "to": "<gerald.nemec@enron.com>"
+      },
+      {
+         "from": "jdogg96137@aol.com",
+         "line": 36,
+         "rawfrom": "JDogg96137@aol.com [mailto:JDogg96137@aol.com]\n",
+         "source": "email",
+         "to": "JWells4378@aol.com; lkitchel@duffkitchelcpa.com;"
+      },
+      {
+         "from": "mroberts@bindview.com",
+         "line": 56,
+         "rawfrom": "\"Robertson, Misty\" <MRoberts@bindview.com>\n",
+         "source": "email",
+         "to": "\"'AL'\" <ALW@GLD-LAW.com>, \"'CLAUDIA'\" <cblackman@gseworld.com>, \"'DWANE'\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent/617.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "eric.gillaspie@enron.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 37,
+         "rawfrom": "Gerald.Nemec@enron.com [SMTP:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 87,
+         "rawfrom": "  Gerald.Nemec@enron.com [SMTP:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 155,
+         "rawfrom": "  Gerald Nemec [SMTP:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "gtownsend@manorisd.net"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent/2378.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "eric.gillaspie@enron.com, bswaldrop@aol.com"
+      },
+      {
+         "from": "testanek@midamerican.com",
+         "line": 51,
+         "rawfrom": "Stanek, Tom E [mailto:TEStanek@midamerican.com]\n",
+         "source": "email",
+         "to": "Joe Beacom (E-mail); John O'Brien (E-mail); John Olson (E-mail); Ken"
+      },
+      {
+         "from": "chboon63@hotmail.com",
+         "line": 72,
+         "rawfrom": "  Chris Boon [ mailto:chboon63@hotmail.com\n",
+         "source": "email",
+         "to": "Boon, Marsha R; Olsen, Dennis C; booner2345@aol.com;"
+      },
+      {
+         "from": "orca916@yahoo.com",
+         "line": 80,
+         "rawfrom": " Shanna Douglas <orca916@yahoo.com>\n",
+         "source": "email",
+         "to": "Janie Baird <manpa@rconnect.com>, Chris Boon <chboon63@hotmail.com>,"
+      },
+      {
+         "from": "douglas@shawgp.com",
+         "line": 108,
+         "rawfrom": "douglas@shawgp.com\n",
+         "source": "valid",
+         "to": "alyssa49@hotmail.com, richardson@shawgp.com, bigvmcd@aol.com,"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent/704.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "eric.gillaspie@enron.com, jennifer-gillaspie@reliantenergy.com"
+      },
+      {
+         "from": "jennifer-gillaspie@reliantenergy.com",
+         "line": 52,
+         "rawfrom": "jennifer-gillaspie@reliantenergy.com\n",
+         "source": "valid",
+         "to": "Eric.Gillaspie@enron.com, matt.gillaspie@brentonbank.com,"
+      },
+      {
+         "from": "eric.gillaspie@enron.com",
+         "line": 71,
+         "rawfrom": "Eric.Gillaspie@enron.com on 07/27/2000 04:08:02 PM\n",
+         "source": "email",
+         "to": "jennifer-gillaspie@reliantenergy.com"
+      },
+      {
+         "from": "matt.gillaspie@brentonbank.com",
+         "line": 119,
+         "rawfrom": "Matt Gillaspie <matt.gillaspie@brentonbank.com> on 07/27/2000 03:44:32 PM\n",
+         "source": "email",
+         "to": "Eric Gillaspie <Eric.Gillaspie@enron.com>"
+      },
+      {
+         "from": "eric.gillaspie@enron.com",
+         "line": 134,
+         "rawfrom": "  Eric Gillaspie [SMTP:Eric.Gillaspie@enron.com]\n",
+         "source": "email",
+         "to": "matt.gillaspie@brentonbank.com"
+      },
+      {
+         "from": "eric.gillaspie@enron.com",
+         "line": 186,
+         "rawfrom": "Eric.Gillaspie@enron.com",
+         "source": "valid",
+         "to": "Matt Gillaspie <matt.gillaspie@brentonbank.com>"
+      },
+      {
+         "from": "eric.gillaspie@enron.com",
+         "line": 263,
+         "rawfrom": "  Eric.Gillaspie@enron.com [SMTP:Eric.Gillaspie@enron.com]\n",
+         "source": "email",
+         "to": "matt.gillaspie@brentonbank.com"
+      },
+      {
+         "from": "eric.gillaspie@enron.com",
+         "line": 327,
+         "rawfrom": "  Eric Gillaspie [SMTP:Eric.Gillaspie@enron.com]\n",
+         "source": "email",
+         "to": "matt.gillaspie@brentonbank.com"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent/951.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "kjobrien@duke-energy.com"
+      },
+      {
+         "from": "kjobrien@duke-energy.com",
+         "line": 28,
+         "rawfrom": "kjobrien@duke-energy.com\n",
+         "source": "valid",
+         "to": "Gerald.Nemec@enron.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 52,
+         "rawfrom": "Gerald.Nemec@enron.com on 11/13/2000 06:46:32 PM\n",
+         "source": "email",
+         "to": "kjobrien@duke-energy.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 92,
+         "rawfrom": "Gerald.Nemec@enron.com on 11/13/2000 01:54:55 PM\n",
+         "source": "email",
+         "to": "kjobrien@duke-energy.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent/404.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "ryan.f.ruppert@exxon.sprint.com"
+      },
+      {
+         "from": "ryan.f.ruppert@exxon.sprint.com",
+         "line": 29,
+         "rawfrom": "Ryan.F.Ruppert@EXXON.sprint.com on 02/24/2000 09:13:20 AM\n",
+         "source": "email",
+         "to": "Gerald.Nemec@enron.com"
+      },
+      {
+         "from": "ryan.f.ruppert@exxon.sprint.com",
+         "line": 72,
+         "rawfrom": "Ryan.F.Ruppert@EXXON.sprint.com on 02/23/2000 01:34:52 PM\n",
+         "source": "email",
+         "to": "Gerald.Nemec@enron.com"
+      },
+      {
+         "from": "ryan.f.ruppert@exxon.sprint.com",
+         "line": 137,
+         "rawfrom": "Ryan.F.Ruppert@EXXON.sprint.com on 02/23/2000 09:54:03 AM\n",
+         "source": "email",
+         "to": "Eric.Gillaspie@enron.com, Gerald.Nemec@enron.com"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent/2079.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "kjurica@syntexsolutions.com"
+      },
+      {
+         "from": "kjurica@syntexsolutions.com",
+         "line": 27,
+         "rawfrom": "Kevin Jurica <KJurica@syntexsolutions.com>\n",
+         "source": "email",
+         "to": "\"'Gerald.Nemec@enron.com'\" <Gerald.Nemec@enron.com>"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 43,
+         "rawfrom": "Gerald.Nemec@enron.com [mailto:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "KJurica@syntexsolutions.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 87,
+         "rawfrom": "    Gerald.Nemec@enron.com [mailto:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "kjurica@syntexsolutions.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent/260.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "brian.hendon@enron.com, eric.gillaspie@enron.com,"
+      },
+      {
+         "from": "rschonhoeft@hotmail.com",
+         "line": 34,
+         "rawfrom": "ross schonhoeft [SMTP:rschonhoeft@hotmail.com]\n",
+         "source": "email",
+         "to": "Jennifer.Chapman@esc20.k12.tx.us; jharper@interconnect.net;"
+      },
+      {
+         "from": "rschonhoeft@burnet.txed.net",
+         "line": 42,
+         "rawfrom": "\"Schonhoeft, R\" <RSCHONHOEFT@burnet.txed.net>\n",
+         "source": "email",
+         "to": "rschonhoeft@hotmail.com"
+      },
+      {
+         "from": "gram85@hotmail.com",
+         "line": 60,
+         "rawfrom": "Janice Clements [mailto:gram85@hotmail.com]\n",
+         "source": "email",
+         "to": "scotton@burnet.txed.net"
+      },
+      {
+         "from": "cathy@nts-online.net",
+         "line": 72,
+         "rawfrom": "\"Cathy Moore\" <cathy@nts-online.net>\n",
+         "source": "email",
+         "to": "\"Janice Clements\" <gram85@hotmail.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent/609.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 32,
+         "rawfrom": "\"Townsend, George\" <gtownsend@manorisd.net>\n",
+         "source": "email",
+         "to": "\"'Gerald.Nemec@enron.com'\" <Gerald.Nemec@enron.com>"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 47,
+         "rawfrom": "Gerald.Nemec@enron.com [SMTP:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 110,
+         "rawfrom": "  Gerald Nemec [SMTP:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "gtownsend@manorisd.net"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent/308.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 30,
+         "rawfrom": "\"Townsend, George\" <gtownsend@manorisd.net> on 11/29/99 09:25:57 AM\n",
+         "source": "email",
+         "to": "Gerald Nemec/HOU/ECT@ECT"
+      },
+      {
+         "from": "gnemec@ect.enron.com",
+         "line": 46,
+         "rawfrom": "Gerald Nemec [SMTP:gnemec@ect.enron.com]\n",
+         "source": "email",
+         "to": "Townsend, George"
+      },
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 71,
+         "rawfrom": "gtownsend@manorisd.net",
+         "source": "valid",
+         "to": "Gerald Nemec/HOU/ECT@ECT"
+      },
+      {
+         "from": "gnemec@ect.enron.com",
+         "line": 87,
+         "rawfrom": "  Gerald Nemec [SMTP:gnemec@ect.enron.com]\n",
+         "source": "email",
+         "to": "Townsend, George"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent/138.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 31,
+         "rawfrom": " \"Townsend, George\" <gtownsend@manorisd.net>                           \n",
+         "source": "email",
+         "to": "Gerald Nemec/HOU/ECT@ECT"
+      },
+      {
+         "from": "gnemec@ect.enron.com",
+         "line": 48,
+         "rawfrom": "Gerald Nemec [SMTP:gnemec@ect.enron.com]\n",
+         "source": "email",
+         "to": "Townsend, George"
+      },
+      {
+         "from": "gnemec@ect.enron.com",
+         "line": 98,
+         "rawfrom": "  Gerald Nemec [SMTP:gnemec@ect.enron.com]\n",
+         "source": "email",
+         "to": "gtownsend@manorisd.net"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent/949.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "mbeckworth@velaw.com"
+      },
+      {
+         "from": "mbeckworth@velaw.com",
+         "line": 30,
+         "rawfrom": "\"Beckworth, Melissa\" <mbeckworth@velaw.com>\n",
+         "source": "email",
+         "to": "\"'Gerald.Nemec@enron.com'\" <Gerald.Nemec@enron.com>"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 42,
+         "rawfrom": "Gerald.Nemec@enron.com [mailto:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "mbeckworth@velaw.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 110,
+         "rawfrom": "Gerald.Nemec@enron.com [mailto:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "mbeckworth@velaw.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent/265.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 25,
+         "rawfrom": "\"Townsend, George\" <gtownsend@manorisd.net> on 10/22/99 11:17:14 AM\n",
+         "source": "email",
+         "to": "Gerald Nemec/HOU/ECT@ECT"
+      },
+      {
+         "from": "gnemec@ect.enron.com",
+         "line": 42,
+         "rawfrom": "Gerald Nemec [SMTP:gnemec@ect.enron.com]\n",
+         "source": "email",
+         "to": "Townsend, George"
+      },
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 55,
+         "rawfrom": "gtownsend@manorisd.net",
+         "source": "valid",
+         "to": "Gerald Nemec/HOU/ECT@ECT"
+      },
+      {
+         "from": "gnemec@ect.enron.com",
+         "line": 68,
+         "rawfrom": "  Gerald Nemec [SMTP:gnemec@ect.enron.com]\n",
+         "source": "email",
+         "to": "Townsend, George"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent/286.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 26,
+         "rawfrom": "\"Townsend, George\" <gtownsend@manorisd.net> on 11/10/99 11:42:41 AM\n",
+         "source": "email",
+         "to": "Gerald Nemec/HOU/ECT@ECT"
+      },
+      {
+         "from": "gnemec@ect.enron.com",
+         "line": 49,
+         "rawfrom": "Gerald Nemec [SMTP:gnemec@ect.enron.com]\n",
+         "source": "email",
+         "to": "Townsend, George"
+      },
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 77,
+         "rawfrom": "gtownsend@manorisd.net",
+         "source": "valid",
+         "to": "Gerald Nemec/HOU/ECT@ECT"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent/2315.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "bswaldrop@aol.com, paul.pfeffer@bakerbotts.com"
+      },
+      {
+         "from": "karmstrong6@hotmail.com",
+         "line": 31,
+         "rawfrom": " karmstrong6 [mailto:karmstrong6@hotmail.com] \n",
+         "source": "email",
+         "to": "brian.hendon"
+      },
+      {
+         "from": "kcarnes@houston.rr.com",
+         "line": 39,
+         "rawfrom": "\"Kristy Carnes\" <kcarnes@houston.rr.com>\n",
+         "source": "email",
+         "to": "<karmstrong6@hotmail.com>"
+      },
+      {
+         "from": "fnl1038@aol.com",
+         "line": 46,
+         "rawfrom": "Fnl1038@aol.com\n",
+         "source": "valid",
+         "to": "Wildroseto@aol.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent/862.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "ryan.f.ruppert@exxon.sprint.com"
+      },
+      {
+         "from": "dhartwick@mindspring.com",
+         "line": 62,
+         "rawfrom": "DAN HARTWICK [mailto:dhartwick@mindspring.com]\n",
+         "source": "email",
+         "to": "SHAWN; Russell Perrine; RICHARD KUJAY; Ppmjgillis@aol.com;"
+      },
+      {
+         "from": "rbredfeldt@hotmail.com",
+         "line": 74,
+         "rawfrom": "Rachel Bredfeldt <rbredfeldt@hotmail.com\n",
+         "source": "email",
+         "to": "<kiersten.marino@edwardjones.com"
+      },
+      {
+         "from": "syrclej@missouri.edu",
+         "line": 88,
+         "rawfrom": "\"Syrcle, Jason A.\" <SyrcleJ@missouri.edu\n",
+         "source": "email",
+         "to": "UMC CVM Class03 <UMCCVMClass03@missouri.edu"
+      },
+      {
+         "from": "rd_13@hotmail.com",
+         "line": 133,
+         "rawfrom": "\"Renee Durst\" <rd_13@hotmail.com\n",
+         "source": "email",
+         "to": "enoch05@hotmail.com"
+      },
+      {
+         "from": "rdurst@chestnut.org",
+         "line": 155,
+         "rawfrom": "\"Renee Durst\" <rdurst@chestnut.org\n",
+         "source": "email",
+         "to": "<rd_13@hotmail.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent/613.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 36,
+         "rawfrom": "\"Townsend, George\" <gtownsend@manorisd.net>\n",
+         "source": "email",
+         "to": "\"'Gerald.Nemec@enron.com'\" <Gerald.Nemec@enron.com>"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 50,
+         "rawfrom": "Gerald.Nemec@enron.com [SMTP:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 100,
+         "rawfrom": "  Gerald.Nemec@enron.com [SMTP:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "gtownsend@manorisd.net"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 168,
+         "rawfrom": "  Gerald Nemec [SMTP:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "gtownsend@manorisd.net"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/notes_inbox/912.",
+   "hops": [
+      {
+         "from": "ssnyder@shelton.org",
+         "line": 4,
+         "rawfrom": "ssnyder@shelton.org\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "awukasch@mail.shelton.org",
+         "line": 19,
+         "rawfrom": "awukasch@mail.shelton.org",
+         "source": "valid",
+         "to": "ssnyder@shelton.org"
+      },
+      {
+         "from": "mbeckworth@velaw.com",
+         "line": 24,
+         "rawfrom": "\"Beckworth, Melissa\" <mbeckworth@velaw.com>\n",
+         "source": "email",
+         "to": "'Ann Wukasch' <awukasch@shelton.org>"
+      },
+      {
+         "from": "awukasch@shelton.org",
+         "line": 44,
+         "rawfrom": "Ann Wukasch [mailto:awukasch@shelton.org]\n",
+         "source": "email",
+         "to": "Beckworth, Melissa"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/notes_inbox/1909.",
+   "hops": [
+      {
+         "from": "brant.reves@enron.com",
+         "line": 4,
+         "rawfrom": "brant.reves@enron.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "shelley.jones@elpaso.com",
+         "line": 40,
+         "rawfrom": " \"Jones, Shelley\" <Shelley.Jones@ElPaso.com>@ENRON \n",
+         "source": "email",
+         "to": "Reves, Brant"
+      },
+      {
+         "from": "brant.reves@enron.com",
+         "line": 64,
+         "rawfrom": "Brant.Reves@enron.com [mailto:Brant.Reves@enron.com]\n",
+         "source": "email",
+         "to": "Jones, Shelley"
+      },
+      {
+         "from": "shelley.jones@elpaso.com",
+         "line": 91,
+         "rawfrom": "  \"Jones, Shelley\" <Shelley.Jones@ElPaso.com>@ENRON\n",
+         "source": "email",
+         "to": "Reves, Brant"
+      },
+      {
+         "from": "brant.reves@enron.com",
+         "line": 108,
+         "rawfrom": "     Reves, Brant [mailto:Brant.Reves@ENRON.com]\n",
+         "source": "email",
+         "to": "Jones, Shelley"
+      },
+      {
+         "from": "jones.shelley@epenergy.com",
+         "line": 123,
+         "rawfrom": "    Jones, Shelley  [mailto:Jones.Shelley@EPEnergy.com]\n",
+         "source": "email",
+         "to": "'Brant.Reves@enron.com'"
+      },
+      {
+         "from": "brant.reves@enron.com",
+         "line": 138,
+         "rawfrom": "Brant.Reves@enron.com [mailto:Brant.Reves@enron.com]\n",
+         "source": "email",
+         "to": "Jones, Shelley"
+      },
+      {
+         "from": "jones.shelley@epenergy.com",
+         "line": 163,
+         "rawfrom": "Jones.Shelley@EPEnergy.com",
+         "source": "valid",
+         "to": "\"'Brant.Reves@enron.com'\" <Brant.Reves@enron.com>"
+      },
+      {
+         "from": "brant.reves@enron.com",
+         "line": 179,
+         "rawfrom": "Brant.Reves@enron.com [mailto:Brant.Reves@enron.com]\n",
+         "source": "email",
+         "to": "Jones, Shelley"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/notes_inbox/2022.",
+   "hops": [
+      {
+         "from": "brant.reves@enron.com",
+         "line": 4,
+         "rawfrom": "brant.reves@enron.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com, trevor.mihalik@enron.com"
+      },
+      {
+         "from": "shelley.jones@elpaso.com",
+         "line": 30,
+         "rawfrom": " \"Jones, Shelley\" <Shelley.Jones@ElPaso.com>@ENRON \n",
+         "source": "email",
+         "to": "Reves, Brant"
+      },
+      {
+         "from": "brant.reves@enron.com",
+         "line": 54,
+         "rawfrom": "Brant.Reves@enron.com [mailto:Brant.Reves@enron.com]\n",
+         "source": "email",
+         "to": "Jones, Shelley"
+      },
+      {
+         "from": "shelley.jones@elpaso.com",
+         "line": 81,
+         "rawfrom": "  \"Jones, Shelley\" <Shelley.Jones@ElPaso.com>@ENRON\n",
+         "source": "email",
+         "to": "Reves, Brant"
+      },
+      {
+         "from": "brant.reves@enron.com",
+         "line": 98,
+         "rawfrom": "     Reves, Brant [mailto:Brant.Reves@ENRON.com]\n",
+         "source": "email",
+         "to": "Jones, Shelley"
+      },
+      {
+         "from": "jones.shelley@epenergy.com",
+         "line": 113,
+         "rawfrom": "    Jones, Shelley  [mailto:Jones.Shelley@EPEnergy.com]\n",
+         "source": "email",
+         "to": "'Brant.Reves@enron.com'"
+      },
+      {
+         "from": "brant.reves@enron.com",
+         "line": 128,
+         "rawfrom": "Brant.Reves@enron.com [mailto:Brant.Reves@enron.com]\n",
+         "source": "email",
+         "to": "Jones, Shelley"
+      },
+      {
+         "from": "jones.shelley@epenergy.com",
+         "line": 153,
+         "rawfrom": "Jones.Shelley@EPEnergy.com",
+         "source": "valid",
+         "to": "\"'Brant.Reves@enron.com'\" <Brant.Reves@enron.com>"
+      },
+      {
+         "from": "brant.reves@enron.com",
+         "line": 169,
+         "rawfrom": "Brant.Reves@enron.com [mailto:Brant.Reves@enron.com]\n",
+         "source": "email",
+         "to": "Jones, Shelley"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/notes_inbox/1630.",
+   "hops": [
+      {
+         "from": "paul.pfeffer@bakerbotts.com",
+         "line": 4,
+         "rawfrom": "paul.pfeffer@bakerbotts.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "testanek@midamerican.com",
+         "line": 41,
+         "rawfrom": "Stanek, Tom E [mailto:TEStanek@midamerican.com]\n",
+         "source": "email",
+         "to": "Joe Beacom (E-mail); John O'Brien (E-mail); John Olson (E-mail); Ken"
+      },
+      {
+         "from": "chboon63@hotmail.com",
+         "line": 62,
+         "rawfrom": "  Chris Boon [ mailto:chboon63@hotmail.com\n",
+         "source": "email",
+         "to": "Boon, Marsha R; Olsen, Dennis C; booner2345@aol.com;"
+      },
+      {
+         "from": "orca916@yahoo.com",
+         "line": 70,
+         "rawfrom": " Shanna Douglas <orca916@yahoo.com>\n",
+         "source": "email",
+         "to": "Janie Baird <manpa@rconnect.com>, Chris Boon <chboon63@hotmail.com>,"
+      },
+      {
+         "from": "douglas@shawgp.com",
+         "line": 98,
+         "rawfrom": "douglas@shawgp.com\n",
+         "source": "valid",
+         "to": "alyssa49@hotmail.com, richardson@shawgp.com, bigvmcd@aol.com,"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/notes_inbox/1328.",
+   "hops": [
+      {
+         "from": "nnachawa@central.uh.edu",
+         "line": 4,
+         "rawfrom": "nnachawa@central.uh.edu\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 32,
+         "rawfrom": "Gerald.Nemec@enron.com [SMTP:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "nnachawa@Central.UH.EDU"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 80,
+         "rawfrom": "  Gerald.Nemec@enron.com [SMTP:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "nnachawa@Central.UH.EDU"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 139,
+         "rawfrom": "Gerald.Nemec@enron.com\n",
+         "source": "valid",
+         "to": "nnachawa@Central.UH.EDU"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/notes_inbox/605.",
+   "hops": [
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 4,
+         "rawfrom": "gtownsend@manorisd.net\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 32,
+         "rawfrom": "Gerald.Nemec@enron.com [SMTP:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "Townsend, George"
+      },
+      {
+         "from": "dross314@hotmail.com",
+         "line": 98,
+         "rawfrom": "  Deb Ross [SMTP:dross314@hotmail.com]\n",
+         "source": "email",
+         "to": "Rhonda2702@aol.com; elledger@laketravis.txed.net;"
+      },
+      {
+         "from": "mnewcomb@tsixroads.com",
+         "line": 110,
+         "rawfrom": "\"mary newcomb\" <mnewcomb@tsixroads.com>\n",
+         "source": "email",
+         "to": "\"RICK NEWCOMB\" <rnewcomb@tsixroads.com>, \"robin\""
+      },
+      {
+         "from": "croberts@tsixroads.com",
+         "line": 122,
+         "rawfrom": "Carley Roberts <croberts@tsixroads.com>\n",
+         "source": "email",
+         "to": "Janet Holley <bholley@tsixroads.com>; Daniel Mathis"
+      },
+      {
+         "from": "bholley@tsixroads.com",
+         "line": 139,
+         "rawfrom": "bobby wade holley <bholley@tsixroads.com>\n",
+         "source": "email",
+         "to": "carley roberts <croberts@tsixroads.com>"
+      },
+      {
+         "from": "rgray@avsia.com",
+         "line": 147,
+         "rawfrom": "rick gray <rgray@avsia.com>\n",
+         "source": "email",
+         "to": "BOBBY HOLLEY <bholley@tsixroads.com>; CRAIG RHODES"
+      },
+      {
+         "from": "voeller@uswest.net",
+         "line": 168,
+         "rawfrom": "\"Nathan Voeller\" <voeller@uswest.net>\n",
+         "source": "email",
+         "to": "<AHen855423@aol.com>; \"Tiffany\" <amanda.dixon.@us.zurich.com>;"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/notes_inbox/1314.",
+   "hops": [
+      {
+         "from": "egillaspie@coral-energy.com",
+         "line": 4,
+         "rawfrom": "egillaspie@coral-energy.com\r\n",
+         "source": "valid",
+         "to": "jongill78@hotmail.com"
+      },
+      {
+         "from": "jongill78@hotmail.com",
+         "line": 67,
+         "rawfrom": "jonathan gillaspie [mailto:jongill78@hotmail.com]\n",
+         "source": "email",
+         "to": "Gillaspie, Eric"
+      },
+      {
+         "from": "egillaspie@coral-energy.com",
+         "line": 87,
+         "rawfrom": "\"Gillaspie, Eric\" <EGillaspie@coral-energy.com>\n",
+         "source": "email",
+         "to": "\"'jonathan gillaspie'\" <jongill78@hotmail.com>"
+      },
+      {
+         "from": "jongill78@hotmail.com",
+         "line": 113,
+         "rawfrom": "jonathan gillaspie [mailto:jongill78@hotmail.com]\n",
+         "source": "email",
+         "to": "Gillaspie, Eric"
+      },
+      {
+         "from": "egillaspie@coral-energy.com",
+         "line": 154,
+         "rawfrom": "\"Gillaspie, Eric\" <EGillaspie@coral-energy.com>\n",
+         "source": "email",
+         "to": "\"'jennifer-gillaspie@reliantenergy.com'\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/notes_inbox/634.",
+   "hops": [
+      {
+         "from": "emmye@dracospring.com",
+         "line": 4,
+         "rawfrom": "emmye@dracospring.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 23,
+         "rawfrom": "Gerald.Nemec@enron.com [mailto:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "emmye@dracospring.com"
+      },
+      {
+         "from": "jdogg96137@aol.com",
+         "line": 51,
+         "rawfrom": "JDogg96137@aol.com [mailto:JDogg96137@aol.com]\n",
+         "source": "email",
+         "to": "JWells4378@aol.com; lkitchel@duffkitchelcpa.com;"
+      },
+      {
+         "from": "mroberts@bindview.com",
+         "line": 71,
+         "rawfrom": "\"Robertson, Misty\" <MRoberts@bindview.com>\n",
+         "source": "email",
+         "to": "\"'AL'\" <ALW@GLD-LAW.com>, \"'CLAUDIA'\" <cblackman@gseworld.com>,"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/notes_inbox/668.",
+   "hops": [
+      {
+         "from": "emmye@dracospring.com",
+         "line": 4,
+         "rawfrom": "emmye@dracospring.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "bmills@concentric.net",
+         "line": 23,
+         "rawfrom": "bmills@concentric.net [mailto:bmills@concentric.net]\n",
+         "source": "email",
+         "to": "Emmye Partin"
+      },
+      {
+         "from": "bmills@concentric.net",
+         "line": 34,
+         "rawfrom": "bmills@concentric.net <bmills@concentric.net>\n",
+         "source": "email",
+         "to": "mills@hardinlaw.com <mills@hardinlaw.com>"
+      },
+      {
+         "from": "scottdannelley@hotmail.com",
+         "line": 46,
+         "rawfrom": "scott dannelley <scottdannelley@hotmail.com>\n",
+         "source": "email",
+         "to": "keithw@labs.wyeth.com <keithw@labs.wyeth.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/notes_inbox/1021.",
+   "hops": [
+      {
+         "from": "kjobrien@duke-energy.com",
+         "line": 4,
+         "rawfrom": "kjobrien@duke-energy.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 30,
+         "rawfrom": "Gerald.Nemec@enron.com on 11/15/2000 10:03:43 AM\n",
+         "source": "email",
+         "to": "kjobrien@duke-energy.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 74,
+         "rawfrom": "Gerald.Nemec@enron.com on 11/13/2000 06:46:32 PM\n",
+         "source": "email",
+         "to": "kjobrien@duke-energy.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 114,
+         "rawfrom": "Gerald.Nemec@enron.com on 11/13/2000 01:54:55 PM\n",
+         "source": "email",
+         "to": "kjobrien@duke-energy.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/notes_inbox/596.",
+   "hops": [
+      {
+         "from": "gtownsend@manorisd.net",
+         "line": 4,
+         "rawfrom": "gtownsend@manorisd.net\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com, jwf@flashmail.com"
+      },
+      {
+         "from": "dross314@hotmail.com",
+         "line": 46,
+         "rawfrom": "Deb Ross [SMTP:dross314@hotmail.com]\n",
+         "source": "email",
+         "to": "Rhonda2702@aol.com; elledger@laketravis.txed.net;"
+      },
+      {
+         "from": "mnewcomb@tsixroads.com",
+         "line": 58,
+         "rawfrom": "\"mary newcomb\" <mnewcomb@tsixroads.com>\n",
+         "source": "email",
+         "to": "\"RICK NEWCOMB\" <rnewcomb@tsixroads.com>, \"robin\""
+      },
+      {
+         "from": "croberts@tsixroads.com",
+         "line": 70,
+         "rawfrom": "Carley Roberts <croberts@tsixroads.com>\n",
+         "source": "email",
+         "to": "Janet Holley <bholley@tsixroads.com>; Daniel Mathis"
+      },
+      {
+         "from": "bholley@tsixroads.com",
+         "line": 85,
+         "rawfrom": "bobby wade holley <bholley@tsixroads.com>\n",
+         "source": "email",
+         "to": "carley roberts <croberts@tsixroads.com>"
+      },
+      {
+         "from": "rgray@avsia.com",
+         "line": 93,
+         "rawfrom": "rick gray <rgray@avsia.com>\n",
+         "source": "email",
+         "to": "BOBBY HOLLEY <bholley@tsixroads.com>; CRAIG RHODES"
+      },
+      {
+         "from": "voeller@uswest.net",
+         "line": 112,
+         "rawfrom": "\"Nathan Voeller\" <voeller@uswest.net>\n",
+         "source": "email",
+         "to": "<AHen855423@aol.com>; \"Tiffany\" <amanda.dixon.@us.zurich.com>;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/notes_inbox/2310.",
+   "hops": [
+      {
+         "from": "ryan.f.ruppert@exxon.sprint.com",
+         "line": 4,
+         "rawfrom": "ryan.f.ruppert@exxon.sprint.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com, eric.gillaspie@enron.com"
+      },
+      {
+         "from": "ryan.f.ruppert@exxon.sprint.com",
+         "line": 63,
+         "rawfrom": "<Ryan.F.Ruppert@EXXON.sprint.com>\n",
+         "source": "email",
+         "to": "<panacea1@swbell.net>"
+      },
+      {
+         "from": "panacea1@swbell.net",
+         "line": 127,
+         "rawfrom": "\"Kristi and Greg Foster\" <panacea1@swbell.net>\n",
+         "source": "email",
+         "to": "<Gerald.Nemec@enron.com>"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 152,
+         "rawfrom": "<Gerald.Nemec@enron.com>\n",
+         "source": "email",
+         "to": "<panacea1@swbell.net>"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/notes_inbox/2551.",
+   "hops": [
+      {
+         "from": "michael.bilberry@enron.com",
+         "line": 4,
+         "rawfrom": "michael.bilberry@enron.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "michael.c.bilberry@enron.com",
+         "line": 35,
+         "rawfrom": "Michael.C.Bilberry@enron.com [SMTP:Michael.C.Bilberry@enron.com]\n",
+         "source": "email",
+         "to": "william.e.nicas@exxon.com"
+      },
+      {
+         "from": "william.e.nicas@exxon.com",
+         "line": 47,
+         "rawfrom": "william.e.nicas@exxon.com",
+         "source": "valid",
+         "to": "Michael.C.Bilberry@enron.com"
+      },
+      {
+         "from": "michael.c.bilberry@enron.com",
+         "line": 69,
+         "rawfrom": "  Michael.C.Bilberry@enron.com [SMTP:Michael.C.Bilberry@enron.com]\n",
+         "source": "email",
+         "to": "mark.t.bentley@exxon.com"
+      },
+      {
+         "from": "mark.t.bentley@exxon.com",
+         "line": 83,
+         "rawfrom": "mark.t.bentley@exxon.com",
+         "source": "valid",
+         "to": "mbilber@enron.com, Jack.Simunek@enron.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/notes_inbox/1017.",
+   "hops": [
+      {
+         "from": "mbeckworth@velaw.com",
+         "line": 4,
+         "rawfrom": "mbeckworth@velaw.com\r\n",
+         "source": "valid",
+         "to": "gerald.nemec@enron.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 29,
+         "rawfrom": "Gerald.Nemec@enron.com [mailto:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "mbeckworth@velaw.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 74,
+         "rawfrom": "Gerald.Nemec@enron.com [mailto:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "mbeckworth@velaw.com"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 142,
+         "rawfrom": "Gerald.Nemec@enron.com [mailto:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "mbeckworth@velaw.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent_items/473.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "ernie.j.zavaleta@fritolay.com"
+      },
+      {
+         "from": "ernie.j.zavaleta@fritolay.com",
+         "line": 26,
+         "rawfrom": "\t\"Zavaleta, Ernie\" <Ernie.J.Zavaleta@fritolay.com>@ENRON [mailto:IMCEANOTES-+22Zavaleta+2C+20Ernie+22+20+3CErnie+2EJ+2EZavaleta+40fritolay+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 54,
+         "rawfrom": "Gerald.Nemec@enron.com\n",
+         "source": "valid",
+         "to": "Ernie J Zavaleta/Frito-Lay/US@Frito-Lay"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 127,
+         "rawfrom": "Gerald.Nemec@enron.com\n",
+         "source": "valid",
+         "to": "Ernie J Zavaleta/Frito-Lay/US@Frito-Lay"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent_items/722.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "ejenkins@kelleydrye.com"
+      },
+      {
+         "from": "ejenkins@kelleydrye.com",
+         "line": 26,
+         "rawfrom": "\t\"Jenkins, Eric\" <EJenkins@KelleyDrye.com>@ENRON  \n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 53,
+         "rawfrom": "Gerald.Nemec@enron.com [mailto:Gerald.Nemec@enron.com]\n",
+         "source": "email",
+         "to": "EJenkins@KelleyDrye.com"
+      },
+      {
+         "from": "ejenkins@kelleydrye.com",
+         "line": 84,
+         "rawfrom": "  \"Jenkins, Eric\" <EJenkins@KelleyDrye.com>@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent_items/542.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer.d.sanders@us.andersen.com"
+      },
+      {
+         "from": "jennifer.d.sanders@us.andersen.com",
+         "line": 48,
+         "rawfrom": "  jennifer.d.sanders@us.andersen.com@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "jennifer.d.sanders@us.andersen.com",
+         "line": 76,
+         "rawfrom": "  jennifer.d.sanders@us.andersen.com@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "jennifer.d.sanders@us.andersen.com",
+         "line": 113,
+         "rawfrom": "  jennifer.d.sanders@us.andersen.com@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "jennifer.d.sanders@us.andersen.com",
+         "line": 163,
+         "rawfrom": "  jennifer.d.sanders@us.andersen.com@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "jennifer.d.sanders@us.andersen.com",
+         "line": 230,
+         "rawfrom": "  jennifer.d.sanders@us.andersen.com@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      }
+   ],
+   "skipped": 7
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent_items/544.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer.d.sanders@us.andersen.com"
+      },
+      {
+         "from": "jennifer.d.sanders@us.andersen.com",
+         "line": 49,
+         "rawfrom": "  jennifer.d.sanders@us.andersen.com@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "jennifer.d.sanders@us.andersen.com",
+         "line": 82,
+         "rawfrom": "  jennifer.d.sanders@us.andersen.com@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "jennifer.d.sanders@us.andersen.com",
+         "line": 113,
+         "rawfrom": "  jennifer.d.sanders@us.andersen.com@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "jennifer.d.sanders@us.andersen.com",
+         "line": 155,
+         "rawfrom": "  jennifer.d.sanders@us.andersen.com@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "jennifer.d.sanders@us.andersen.com",
+         "line": 211,
+         "rawfrom": "  jennifer.d.sanders@us.andersen.com@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "jennifer.d.sanders@us.andersen.com",
+         "line": 287,
+         "rawfrom": "  jennifer.d.sanders@us.andersen.com@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      }
+   ],
+   "skipped": 8
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent_items/737.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "chris.hilgert@enron.com"
+      },
+      {
+         "from": "bbryant@katzlaw.com",
+         "line": 22,
+         "rawfrom": "\tBill Bryant <BBryant@katzlaw.com>@ENRON  \n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 83,
+         "rawfrom": "Nemec, Gerald [mailto:Gerald.Nemec@ENRON.com]\n",
+         "source": "email",
+         "to": "bill@katzlaw.com"
+      },
+      {
+         "from": "jas@beggslane.com",
+         "line": 93,
+         "rawfrom": "\t\"Jeffrey Stone\" <jas@beggslane.com>@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 103,
+         "rawfrom": "> From:\tNemec, Gerald [SMTP:Gerald.Nemec@ENRON.com]\n",
+         "source": "email",
+         "to": "rab@beggslane.com; Howell, Marion W."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent_items/487.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "debra.perlingiere@enron.com"
+      },
+      {
+         "from": "nnachawa@central.uh.edu",
+         "line": 22,
+         "rawfrom": "\t\"Nachawati, Nabil, M\" <nnachawa@Central.UH.EDU>@ENRON [mailto:IMCEANOTES-+22Nachawati+2C+20Nabil+2C+20M+22+20+3Cnnachawa+40Central+2EUH+2EEDU+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 38,
+         "rawfrom": "Gerald.Nemec@enron.com\n",
+         "source": "valid",
+         "to": "nnachawa@Central.UH.EDU"
+      },
+      {
+         "from": "nnachawa@central.uh.edu",
+         "line": 53,
+         "rawfrom": "  \"Nachawati, Nabil, M\" <nnachawa@Central.UH.EDU>@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 61,
+         "rawfrom": "Gerald.Nemec@enron.com\n",
+         "source": "valid",
+         "to": "nnachawa@Central.UH.EDU"
+      },
+      {
+         "from": "nnachawa@central.uh.edu",
+         "line": 82,
+         "rawfrom": "  \"Nachawati, Nabil, M\" <nnachawa@Central.UH.EDU>@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 99,
+         "rawfrom": "Gerald.Nemec@enron.com\n",
+         "source": "valid",
+         "to": "nnachawa@Central.UH.EDU"
+      },
+      {
+         "from": "nnachawa@central.uh.edu",
+         "line": 125,
+         "rawfrom": "  \"Nachawati, Nabil, M\" <nnachawa@Central.UH.EDU>@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent_items/525.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "nabil@enron.com, nnachawa@central.uh.edu"
+      },
+      {
+         "from": "nnachawa@central.uh.edu",
+         "line": 22,
+         "rawfrom": "\t\"Nachawati, Nabil, M\" <nnachawa@Central.UH.EDU>@ENRON [mailto:IMCEANOTES-+22Nachawati+2C+20Nabil+2C+20M+22+20+3Cnnachawa+40Central+2EUH+2EEDU+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      },
+      {
+         "from": "debra.perlingiere@enron.com",
+         "line": 39,
+         "rawfrom": "Debra.Perlingiere@enron.com\n",
+         "source": "valid",
+         "to": "nnachawa@Central.UH.EDU"
+      },
+      {
+         "from": "nnachawa@central.uh.edu",
+         "line": 55,
+         "rawfrom": "  \"Nachawati, Nabil, M\" <nnachawa@Central.UH.EDU>@ENRON\n",
+         "source": "email",
+         "to": "Perlingiere, Debra"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent_items/528.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "ernie.j.zavaleta@fritolay.com"
+      },
+      {
+         "from": "ernie.j.zavaleta@fritolay.com",
+         "line": 24,
+         "rawfrom": "\t\"Zavaleta, Ernie\" <Ernie.J.Zavaleta@fritolay.com>@ENRON [mailto:IMCEANOTES-+22Zavaleta+2C+20Ernie+22+20+3CErnie+2EJ+2EZavaleta+40fritolay+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 49,
+         "rawfrom": "Gerald.Nemec@enron.com\n",
+         "source": "valid",
+         "to": "Ernie J Zavaleta/Frito-Lay/US@Frito-Lay"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 122,
+         "rawfrom": "Gerald.Nemec@enron.com\n",
+         "source": "valid",
+         "to": "Ernie J Zavaleta/Frito-Lay/US@Frito-Lay"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent_items/539.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "shahnaz.lakho@enron.com"
+      },
+      {
+         "from": "karen.flores@elpaso.com",
+         "line": 36,
+         "rawfrom": "\t\"Flores, Karen\" <Karen.Flores@ElPaso.com>@ENRON [mailto:IMCEANOTES-+22Flores+2C+20Karen+22+20+3CKaren+2EFlores+40ElPaso+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "'slakho@enron.com'"
+      },
+      {
+         "from": "shahnaz.lakho@enron.com",
+         "line": 84,
+         "rawfrom": "Shahnaz.Lakho@enron.com [mailto:Shahnaz.Lakho@enron.com]\n",
+         "source": "email",
+         "to": "Flores, Karen; slakho@enron.com"
+      },
+      {
+         "from": "karen.flores@elpaso.com",
+         "line": 115,
+         "rawfrom": "  \"Flores, Karen\" <Karen.Flores@ElPaso.com>@ENRON\n",
+         "source": "email",
+         "to": "'slakho@enron.com'"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent_items/671.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer-gillaspie@reliantenergy.com"
+      },
+      {
+         "from": "jennifer-gillaspie@reliantenergy.com",
+         "line": 22,
+         "rawfrom": "\tjennifer-gillaspie@reliantenergy.com@ENRON  \n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "jennifer-gillaspie@reliantenergy.com",
+         "line": 74,
+         "rawfrom": "  jennifer-gillaspie@reliantenergy.com@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "jennifer-gillaspie@reliantenergy.com",
+         "line": 112,
+         "rawfrom": "  jennifer-gillaspie@reliantenergy.com@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/nemec-g/sent_items/664.",
+   "hops": [
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 4,
+         "rawfrom": "gerald.nemec@enron.com\r\n",
+         "source": "valid",
+         "to": "ernie.j.zavaleta@fritolay.com"
+      },
+      {
+         "from": "ernie.j.zavaleta@fritolay.com",
+         "line": 26,
+         "rawfrom": "\tErnie.J.Zavaleta@fritolay.com@ENRON  \n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 51,
+         "rawfrom": "Gerald.Nemec@enron.com\n",
+         "source": "valid",
+         "to": "Ernie J Zavaleta/Frito-Lay/US@Frito-Lay"
+      },
+      {
+         "from": "ernie.j.zavaleta@fritolay.com",
+         "line": 73,
+         "rawfrom": "  \"Zavaleta, Ernie\" <Ernie.J.Zavaleta@fritolay.com>@ENRON\n",
+         "source": "email",
+         "to": "Nemec, Gerald"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 102,
+         "rawfrom": "Gerald.Nemec@enron.com\n",
+         "source": "valid",
+         "to": "Ernie J Zavaleta/Frito-Lay/US@Frito-Lay"
+      },
+      {
+         "from": "gerald.nemec@enron.com",
+         "line": 175,
+         "rawfrom": "Gerald.Nemec@enron.com\n",
+         "source": "valid",
+         "to": "Ernie J Zavaleta/Frito-Lay/US@Frito-Lay"
+      }
+   ],
+   "skipped": 3
+}
+]

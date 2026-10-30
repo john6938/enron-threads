@@ -1,0 +1,2150 @@
+[
+{
+   "file": "/home/jb/maildir/sanders-r/all_documents/1178.",
+   "hops": [
+      {
+         "from": "richard.sanders@enron.com",
+         "line": 4,
+         "rawfrom": "richard.sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "ctetrault@velaw.com"
+      },
+      {
+         "from": "ctetrault@velaw.com",
+         "line": 26,
+         "rawfrom": "\"Tetrault, Charles D.\" <ctetrault@velaw.com>\n",
+         "source": "email",
+         "to": "\"Richard B. Sanders (E-mail)\" <Richard.B.Sanders@enron.com>"
+      },
+      {
+         "from": "carol_alexander@anadarko.com",
+         "line": 49,
+         "rawfrom": "Carol Alexander [mailto:carol_alexander@anadarko.COM]\n",
+         "source": "email",
+         "to": "'Tetrault, Charles D.'; Rothschild, George (Marathon)"
+      },
+      {
+         "from": "ctetrault@velaw.com",
+         "line": 84,
+         "rawfrom": "Tetrault, Charles D. [SMTP:ctetrault@velaw.com]\n",
+         "source": "email",
+         "to": "Rothschild, George (Marathon)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/all_documents/496.",
+   "hops": [
+      {
+         "from": "richard.sanders@enron.com",
+         "line": 4,
+         "rawfrom": "richard.sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "britt.davis@enron.com"
+      },
+      {
+         "from": "martin.stanley@mgmcc.co.uk",
+         "line": 866,
+         "rawfrom": "martin.stanley@mgmcc.co.uk [mailto:martin.stanley@mgmcc.co.uk]\r\n",
+         "source": "email",
+         "to": "elenag@rual.ru; sergybu@rual.ru"
+      },
+      {
+         "from": "martin.stanley@mgmcc.co.uk",
+         "line": 2582,
+         "rawfrom": "martin.stanley@mgmcc.co.uk [mailto:martin.stanley@mgmcc.co.uk]\r\n",
+         "source": "email",
+         "to": "The Aluminium Group"
+      },
+      {
+         "from": "bruce.markowitz@com-box.com",
+         "line": 2666,
+         "rawfrom": "\"Markowitz, Bruce\" <Bruce.Markowitz@com-box.com> on 07/10/2000 07:03:18 PM\r\n",
+         "source": "email",
+         "to": "Martin Stanley/The Metal & Commodity Co Ltd/MGLTD@MGLTD"
+      },
+      {
+         "from": "martin.stanley@mgmcc.co.uk",
+         "line": 2771,
+         "rawfrom": "martin.stanley@mgmcc.co.uk [mailto:martin.stanley@mgmcc.co.uk]\r\n",
+         "source": "email",
+         "to": "The Aluminium Group"
+      },
+      {
+         "from": "mgately@milesstockbridge.com",
+         "line": 2892,
+         "rawfrom": "\"Gately, Mark D.\" <MGATELY@MilesStockbridge.com> on 07/10/2000 10:24:24 PM\r\n",
+         "source": "email",
+         "to": "Martin Stanley/The Metal & Commodity Co Ltd/MGLTD@MGLTD"
+      },
+      {
+         "from": "martin.stanley@mgmcc.co.uk",
+         "line": 2940,
+         "rawfrom": "martin.stanley@mgmcc.co.uk [mailto:martin.stanley@mgmcc.co.uk]\r\n",
+         "source": "email",
+         "to": "The Aluminium Group"
+      },
+      {
+         "from": "mgately@milesstockbridge.com",
+         "line": 3080,
+         "rawfrom": "\"Gately, Mark D.\" <MGATELY@MilesStockbridge.com> on 07/11/2000 10:38:52 PM\r\n",
+         "source": "email",
+         "to": "Martin Stanley/The Metal & Commodity Co Ltd/MGLTD@MGLTD,"
+      },
+      {
+         "from": "martin.stanley@mgmcc.co.uk",
+         "line": 3179,
+         "rawfrom": "martin.stanley@mgmcc.co.uk [mailto:martin.stanley@mgmcc.co.uk]\r\n",
+         "source": "email",
+         "to": "Gately, Mark D."
+      },
+      {
+         "from": "mgately@milesstockbridge.com",
+         "line": 3201,
+         "rawfrom": "\"Gately, Mark D.\" <MGATELY@MilesStockbridge.com> on 07/11/2000 10:38:52 PM\r\n",
+         "source": "email",
+         "to": "Martin Stanley/The Metal & Commodity Co Ltd/MGLTD@MGLTD,"
+      },
+      {
+         "from": "mgately@milesstockbridge.com",
+         "line": 3501,
+         "rawfrom": "\"Gately, Mark D.\" <MGATELY@MilesStockbridge.com> on 07/13/2000 03:18:58 AM\r\n",
+         "source": "email",
+         "to": "\"'arthur.taylor@mgnah.com'\" <arthur.taylor@mgnah.com>, Martin=20"
+      },
+      {
+         "from": "martin.stanley@mgmcc.co.uk",
+         "line": 3755,
+         "rawfrom": "martin.stanley@mgmcc.co.uk [mailto:martin.stanley@mgmcc.co.uk]\r\n",
+         "source": "email",
+         "to": "Gately, Mark D."
+      },
+      {
+         "from": "mgately@milesstockbridge.com",
+         "line": 3989,
+         "rawfrom": "\"Gately, Mark D.\" <MGATELY@MilesStockbridge.com> on 07/15/2000 06:33:27 PM\r\n",
+         "source": "email",
+         "to": "\"'arthur.taylor@mgnah.com'\" <arthur.taylor@mgnah.com>, Martin=20"
+      }
+   ],
+   "skipped": 76
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/all_documents/784.",
+   "hops": [
+      {
+         "from": "mday@gmssr.com",
+         "line": 4,
+         "rawfrom": "mday@gmssr.com\r\n",
+         "source": "valid",
+         "to": "gfergus@brobeck.com, richard.b.sanders@enron.com, mday@gmssr.com"
+      },
+      {
+         "from": "gfergus@brobeck.com",
+         "line": 44,
+         "rawfrom": "Fergus, Gary S. [mailto:GFergus@brobeck.com]\n",
+         "source": "email",
+         "to": "Richard B. Sanders Esq. (E-mail); Michael Day (E-mail)"
+      },
+      {
+         "from": "hym@cpuc.ca.gov",
+         "line": 60,
+         "rawfrom": "Morris, Harvey Y. [mailto:hym@cpuc.ca.gov]\n",
+         "source": "email",
+         "to": "'Fergus, Gary S.'; Morris, Harvey Y."
+      },
+      {
+         "from": "gfergus@brobeck.com",
+         "line": 89,
+         "rawfrom": "Fergus, Gary S. [ mailto:GFergus@brobeck.com\n",
+         "source": "email",
+         "to": "'hym@cpuc.ca.gov'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/all_documents/1036.",
+   "hops": [
+      {
+         "from": "richard.sanders@enron.com",
+         "line": 4,
+         "rawfrom": "richard.sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "nmanne@susmangodfrey.com"
+      },
+      {
+         "from": "nmanne@susmangodfrey.com",
+         "line": 24,
+         "rawfrom": "\"Neal S. Manne\" <NMANNE@SusmanGodfrey.com>\n",
+         "source": "email",
+         "to": "Richard.B.Sanders@enron.com"
+      },
+      {
+         "from": "richard.b.sanders@enron.com",
+         "line": 35,
+         "rawfrom": "Richard.B.Sanders@enron.com [mailto:Richard.B.Sanders@enron.com]\n",
+         "source": "email",
+         "to": "Neal S. Manne"
+      },
+      {
+         "from": "brian.redmond@enron.com",
+         "line": 101,
+         "rawfrom": "Brian.Redmond@enron.com [mailto:Brian.Redmond@enron.com]\n",
+         "source": "email",
+         "to": "Richard.B.Sanders@enron.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/all_documents/275.",
+   "hops": [
+      {
+         "from": "richard.sanders@enron.com",
+         "line": 4,
+         "rawfrom": "richard.sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "joel.ephross@enron.com"
+      },
+      {
+         "from": "joel.ephross@enron.com",
+         "line": 80,
+         "rawfrom": "Joel.Ephross [SMTP:Joel.Ephross@enron.com]\n",
+         "source": "email",
+         "to": "D'Angelo, Dean"
+      },
+      {
+         "from": "dean.dangelo@bankofamerica.com",
+         "line": 91,
+         "rawfrom": "dean.dangelo@bankofamerica.com",
+         "source": "valid",
+         "to": "\"Joel.Ephross\" <Joel.Ephross@enron.com>"
+      },
+      {
+         "from": "joel.ephross@enron.com",
+         "line": 104,
+         "rawfrom": "  Joel.Ephross [SMTP:Joel.Ephross@enron.com]\n",
+         "source": "email",
+         "to": "D'Angelo, Dean"
+      },
+      {
+         "from": "dean.dangelo@bankofamerica.com",
+         "line": 117,
+         "rawfrom": "dean.dangelo@bankofamerica.com",
+         "source": "valid",
+         "to": "\"Joel.Ephross\" <Joel.Ephross@enron.com>"
+      },
+      {
+         "from": "joel.ephross@enron.com",
+         "line": 130,
+         "rawfrom": "  Joel.Ephross [SMTP:Joel.Ephross@enron.com]\n",
+         "source": "email",
+         "to": "D'Angelo, Dean"
+      },
+      {
+         "from": "dean.dangelo@bankofamerica.com",
+         "line": 143,
+         "rawfrom": "dean.dangelo@bankofamerica.com",
+         "source": "valid",
+         "to": "\"Joel.Ephross\" <Joel.Ephross@enron.com>"
+      },
+      {
+         "from": "joel.ephross@enron.com",
+         "line": 161,
+         "rawfrom": "  Joel.Ephross [SMTP:Joel.Ephross@enron.com]\n",
+         "source": "email",
+         "to": "Lisa.Mellencamp; thodges; wguisti; Christine.Lee;"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/all_documents/124.",
+   "hops": [
+      {
+         "from": "richard.sanders@enron.com",
+         "line": 4,
+         "rawfrom": "richard.sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "radack@dca.co.harris.tx.us"
+      },
+      {
+         "from": "radack@dca.co.harris.tx.us",
+         "line": 26,
+         "rawfrom": "\"Radack, Judge Sherry (DCA)\" <Radack@DCA.CO.HARRIS.TX.US>\n",
+         "source": "email",
+         "to": "\"'Richard.B.Sanders@enron.com'\" <Richard.B.Sanders@enron.com>"
+      },
+      {
+         "from": "richard.b.sanders@enron.com",
+         "line": 36,
+         "rawfrom": "Richard.B.Sanders@enron.com [mailto:Richard.B.Sanders@enron.com]\n",
+         "source": "email",
+         "to": "Radack@DCA.CO.HARRIS.TX.US"
+      },
+      {
+         "from": "richard.b.sanders@enron.com",
+         "line": 79,
+         "rawfrom": "Richard.B.Sanders@enron.com [mailto:Richard.B.Sanders@enron.com]\n",
+         "source": "email",
+         "to": "Radack@DCA.CO.HARRIS.TX.US"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/all_documents/994.",
+   "hops": [
+      {
+         "from": "showard@milbank.com",
+         "line": 4,
+         "rawfrom": "showard@milbank.com\r\n",
+         "source": "valid",
+         "to": "rittichai.ngodngam@linklaters.com"
+      },
+      {
+         "from": "rittichai.ngodngam@linklaters.com",
+         "line": 22,
+         "rawfrom": "Ngodngam, Rittichai [mailto:rittichai.ngodngam@linklaters.com] \n",
+         "source": "email",
+         "to": "'SHoward@milbank.com'"
+      },
+      {
+         "from": "showard@milbank.com",
+         "line": 73,
+         "rawfrom": "SHoward@milbank.com [mailto:SHoward@milbank.com] \n",
+         "source": "email",
+         "to": "rittichai.ngodngam@linklaters.com"
+      },
+      {
+         "from": "rittichai.ngodngam@linklaters.com",
+         "line": 112,
+         "rawfrom": "From:?? Ngodngam, Rittichai [SMTP:rittichai.ngodngam@linklaters.com] \n",
+         "source": "email",
+         "to": "???? 'pboonklum@whitecase.com'; 'sakunka@bangkok.whitecase.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/all_documents/1027.",
+   "hops": [
+      {
+         "from": "richard.sanders@enron.com",
+         "line": 4,
+         "rawfrom": "richard.sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "charles.cheek@enron.com, britt.davis@enron.com, eileen.kisluk@enron.com,"
+      },
+      {
+         "from": "justin.williams@linklaters.com",
+         "line": 45,
+         "rawfrom": "justin.williams@linklaters.com",
+         "source": "valid",
+         "to": "\"'Michelle.Blaine@enron.com'\" <Michelle.Blaine@enron.com>"
+      },
+      {
+         "from": "michelle.blaine@enron.com",
+         "line": 65,
+         "rawfrom": "Michelle.Blaine@enron.com [mailto:Michelle.Blaine@enron.com]\n",
+         "source": "email",
+         "to": "justin.williams@linklaters.com"
+      },
+      {
+         "from": "justin.williams@linklaters.com",
+         "line": 79,
+         "rawfrom": "justin.williams@linklaters.com",
+         "source": "valid",
+         "to": "\"'Michelle.Blaine@enron.com'\" <Michelle.Blaine@enron.com>,"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/all_documents/662.",
+   "hops": [
+      {
+         "from": "mike.smith@enron.com",
+         "line": 4,
+         "rawfrom": "mike.smith@enron.com\r\n",
+         "source": "valid",
+         "to": "mday@gmssr.com"
+      },
+      {
+         "from": "mday@gmssr.com",
+         "line": 30,
+         "rawfrom": "MBD <MDay@GMSSR.com> on 10/05/2000 03:21:47 PM\n",
+         "source": "email",
+         "to": "\"'msmith1@enron.com'\" <msmith1@enron.com>, \"'Gary Fergus, Brobeck'\""
+      },
+      {
+         "from": "msmith1@enron.com",
+         "line": 64,
+         "rawfrom": "msmith1@enron.com [mailto:msmith1@enron.com]\n",
+         "source": "email",
+         "to": "MDay@GMSSR.com"
+      },
+      {
+         "from": "mday@gmssr.com",
+         "line": 78,
+         "rawfrom": "MBD <MDay@GMSSR.com> on 10/05/2000 10:55:44 AM\n",
+         "source": "email",
+         "to": "\"'Mike D Smith'\" <msmith1@enron.com>, MBD <MDay@GMSSR.com>, Richard B"
+      },
+      {
+         "from": "msmith1@enron.com",
+         "line": 97,
+         "rawfrom": "Mike D Smith [mailto:msmith1@enron.com]\n",
+         "source": "email",
+         "to": "mday@gmssr.com; Richard B Sanders; Mary Hain"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/all_documents/2014.",
+   "hops": [
+      {
+         "from": "richard.sanders@enron.com",
+         "line": 4,
+         "rawfrom": "richard.sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "pgurfein@akingump.com"
+      },
+      {
+         "from": "pgurfein@akingump.com",
+         "line": 45,
+         "rawfrom": "\"Gurfein, Peter\" <pgurfein@AkinGump.com>\n",
+         "source": "email",
+         "to": "\"'Jeffrey A. Krieger'\" <jkrieger@ggfcmk.com>, \"Gurfein, Peter\""
+      },
+      {
+         "from": "jkrieger@ggfcmk.com",
+         "line": 80,
+         "rawfrom": "Jeffrey A. Krieger [mailto:jkrieger@ggfcmk.com]\n",
+         "source": "email",
+         "to": "pgurfein@akingump.com; jcrossen@apx.com; rberry@apx.com;"
+      },
+      {
+         "from": "pjazayeri@stroock.com",
+         "line": 94,
+         "rawfrom": "pjazayeri@stroock.com",
+         "source": "valid",
+         "to": "CalPX Participants' Committee"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/all_documents/2128.",
+   "hops": [
+      {
+         "from": "mlk@pkns.com",
+         "line": 4,
+         "rawfrom": "mlk@pkns.com\r\n",
+         "source": "valid",
+         "to": "richard.b.sanders@enron.com"
+      },
+      {
+         "from": "sgovenar@govadv.com",
+         "line": 39,
+         "rawfrom": "Scott Govenar <sgovenar@govadv.com>\n",
+         "source": "email",
+         "to": "mlk@pkns.com"
+      },
+      {
+         "from": "sgovenar@govadv.com",
+         "line": 54,
+         "rawfrom": "Scott Govenar <sgovenar@govadv.com>\n",
+         "source": "email",
+         "to": "mlk@pknf.com"
+      },
+      {
+         "from": "sgovenar@govadv.com",
+         "line": 70,
+         "rawfrom": "Scott Govenar <sgovenar@govadv.com>\n",
+         "source": "email",
+         "to": "Hedy Govenar <hgovenar@govadv.com>, Mike Day <MDay@GMSSR.com>,  Bev"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/all_documents/1547.",
+   "hops": [
+      {
+         "from": "richard.sanders@enron.com",
+         "line": 4,
+         "rawfrom": "richard.sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "radack@dca.co.harris.tx.us"
+      },
+      {
+         "from": "radack@dca.co.harris.tx.us",
+         "line": 26,
+         "rawfrom": "\"Radack, Judge Sherry (DCA)\" <Radack@DCA.CO.HARRIS.TX.US>\n",
+         "source": "email",
+         "to": "\"'Richard.B.Sanders@enron.com'\" <Richard.B.Sanders@enron.com>, \"Radack,"
+      },
+      {
+         "from": "richard.b.sanders@enron.com",
+         "line": 38,
+         "rawfrom": "Richard.B.Sanders@enron.com [mailto:Richard.B.Sanders@enron.com]\n",
+         "source": "email",
+         "to": "Radack@DCA.CO.HARRIS.TX.US"
+      },
+      {
+         "from": "boakley@bracepatt.com",
+         "line": 77,
+         "rawfrom": "Bruce Oakley [mailto:boakley@bracepatt.com]\n",
+         "source": "email",
+         "to": "Radack@DCA.CO.HARRIS.TX.US; Richard.B.Sanders@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/all_documents/1608.",
+   "hops": [
+      {
+         "from": "richard.sanders@enron.com",
+         "line": 4,
+         "rawfrom": "richard.sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "radack@justex.net"
+      },
+      {
+         "from": "radack@justex.net",
+         "line": 26,
+         "rawfrom": "\"Radack, Judge Sherry (DCA)\" <radack@JusTex.net>\n",
+         "source": "email",
+         "to": "\"'Bruce Oakley'\" <boakley@bracepatt.com>, Richard.B.Sanders@enron.com,"
+      },
+      {
+         "from": "boakley@bracepatt.com",
+         "line": 37,
+         "rawfrom": "Bruce Oakley [mailto:boakley@bracepatt.com]\n",
+         "source": "email",
+         "to": "Richard.B.Sanders@enron.com; radack@JusTex.net"
+      },
+      {
+         "from": "richard.b.sanders@enron.com",
+         "line": 50,
+         "rawfrom": "Richard.B.Sanders@enron.com [mailto:Richard.B.Sanders@enron.com]\n",
+         "source": "email",
+         "to": "Radack, Judge Sherry (DCA); boakley@bracepatt.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/all_documents/1185.",
+   "hops": [
+      {
+         "from": "richard.sanders@enron.com",
+         "line": 4,
+         "rawfrom": "richard.sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "andrew.edison@enron.com"
+      },
+      {
+         "from": "carol_alexander@anadarko.com",
+         "line": 43,
+         "rawfrom": "Carol Alexander [mailto:carol_alexander@anadarko.COM]\n",
+         "source": "email",
+         "to": "'Tetrault, Charles D.'"
+      },
+      {
+         "from": "ctetrault@velaw.com",
+         "line": 84,
+         "rawfrom": "Tetrault, Charles D. [SMTP:ctetrault@velaw.com]\n",
+         "source": "email",
+         "to": "'Carol Alexander'; Rothschild, George (Marathon)"
+      },
+      {
+         "from": "carol_alexander@anadarko.com",
+         "line": 115,
+         "rawfrom": "Carol Alexander [mailto:carol_alexander@anadarko.COM]\n",
+         "source": "email",
+         "to": "'Tetrault, Charles D.'; Rothschild, George (Marathon)"
+      },
+      {
+         "from": "ctetrault@velaw.com",
+         "line": 152,
+         "rawfrom": "Tetrault, Charles D. [SMTP:ctetrault@velaw.com]\n",
+         "source": "email",
+         "to": "Rothschild, George (Marathon)"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/all_documents/198.",
+   "hops": [
+      {
+         "from": "richard.sanders@enron.com",
+         "line": 4,
+         "rawfrom": "richard.sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "bogden@ogwb.com"
+      },
+      {
+         "from": "bogden@ogwb.com",
+         "line": 26,
+         "rawfrom": "bogden@ogwb.com",
+         "source": "valid",
+         "to": "\"Richard Sanders\" <richard.b.sanders@enron.com>"
+      },
+      {
+         "from": "bogden@ogwb.com",
+         "line": 36,
+         "rawfrom": "Bill W. Ogden [mailto:bogden@ogwb.com]\n",
+         "source": "email",
+         "to": "robert.p.virgo@enron.com"
+      },
+      {
+         "from": "bogden@ogwb.com",
+         "line": 46,
+         "rawfrom": "Bill W. Ogden [mailto:bogden@ogwb.com]\n",
+         "source": "email",
+         "to": "Richard Sanders"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/all_documents/321.",
+   "hops": [
+      {
+         "from": "richard.sanders@enron.com",
+         "line": 4,
+         "rawfrom": "richard.sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "sherry@radack.com"
+      },
+      {
+         "from": "sherry@radack.com",
+         "line": 25,
+         "rawfrom": "\"Sherry Radack\" <sherry@radack.com>\n",
+         "source": "email",
+         "to": "<Richard.B.Sanders@enron.com>"
+      },
+      {
+         "from": "richard.b.sanders@enron.com",
+         "line": 36,
+         "rawfrom": "Richard.B.Sanders@enron.com [mailto:Richard.B.Sanders@enron.com]\n",
+         "source": "email",
+         "to": "sherry@radack.com"
+      },
+      {
+         "from": "richard.b.sanders@enron.com",
+         "line": 65,
+         "rawfrom": "Richard.B.Sanders@enron.com [mailto:Richard.B.Sanders@enron.com]\n",
+         "source": "email",
+         "to": "Sherry@Radack.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/all_documents/993.",
+   "hops": [
+      {
+         "from": "showard@milbank.com",
+         "line": 4,
+         "rawfrom": "showard@milbank.com\r\n",
+         "source": "valid",
+         "to": "richard.b.sanders@enron.com, lmellen@ect.enron.com"
+      },
+      {
+         "from": "rittichai.ngodngam@linklaters.com",
+         "line": 22,
+         "rawfrom": "Ngodngam, Rittichai [mailto:rittichai.ngodngam@linklaters.com] \n",
+         "source": "email",
+         "to": "'SHoward@milbank.com'"
+      },
+      {
+         "from": "showard@milbank.com",
+         "line": 73,
+         "rawfrom": "SHoward@milbank.com [mailto:SHoward@milbank.com] \n",
+         "source": "email",
+         "to": "rittichai.ngodngam@linklaters.com"
+      },
+      {
+         "from": "rittichai.ngodngam@linklaters.com",
+         "line": 112,
+         "rawfrom": "From:?? Ngodngam, Rittichai [SMTP:rittichai.ngodngam@linklaters.com] \n",
+         "source": "email",
+         "to": "???? 'pboonklum@whitecase.com'; 'sakunka@bangkok.whitecase.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/all_documents/1392.",
+   "hops": [
+      {
+         "from": "michelle.blaine@enron.com",
+         "line": 4,
+         "rawfrom": "michelle.blaine@enron.com\r\n",
+         "source": "valid",
+         "to": "justin.williams@linklaters.com"
+      },
+      {
+         "from": "justin.williams@linklaters.com",
+         "line": 97,
+         "rawfrom": "justin.williams@Linklaters.com",
+         "source": "valid",
+         "to": "\"'Michelle.Blaine@enron.com'\" <Michelle.Blaine@enron.com>"
+      },
+      {
+         "from": "michelle.blaine@enron.com",
+         "line": 125,
+         "rawfrom": "Michelle.Blaine@enron.com [mailto:Michelle.Blaine@enron.com]\n",
+         "source": "email",
+         "to": "justin.williams@linklaters.com"
+      },
+      {
+         "from": "justin.williams@linklaters.com",
+         "line": 141,
+         "rawfrom": "justin.williams@Linklaters.com",
+         "source": "valid",
+         "to": "\"'Michelle.Blaine@enron.com'\" <Michelle.Blaine@enron.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/all_documents/692.",
+   "hops": [
+      {
+         "from": "richard.sanders@enron.com",
+         "line": 4,
+         "rawfrom": "richard.sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "radack@dca.co.harris.tx.us"
+      },
+      {
+         "from": "radack@dca.co.harris.tx.us",
+         "line": 24,
+         "rawfrom": "\"Radack, Judge Sherry (DCA)\" <Radack@DCA.CO.HARRIS.TX.US>\n",
+         "source": "email",
+         "to": "\"'Richard.B.Sanders@enron.com'\" <Richard.B.Sanders@enron.com>"
+      },
+      {
+         "from": "richard.b.sanders@enron.com",
+         "line": 36,
+         "rawfrom": "Richard.B.Sanders@enron.com [mailto:Richard.B.Sanders@enron.com]\n",
+         "source": "email",
+         "to": "Radack@DCA.CO.HARRIS.TX.US"
+      },
+      {
+         "from": "richard.b.sanders@enron.com",
+         "line": 77,
+         "rawfrom": "Richard.B.Sanders@enron.com [mailto:Richard.B.Sanders@enron.com]\n",
+         "source": "email",
+         "to": "Radack@DCA.CO.HARRIS.TX.US"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/all_documents/660.",
+   "hops": [
+      {
+         "from": "mday@gmssr.com",
+         "line": 4,
+         "rawfrom": "mday@gmssr.com\r\n",
+         "source": "valid",
+         "to": "msmith1@enron.com, gfergus@brobeck.com, richard.b.sanders@enron.com"
+      },
+      {
+         "from": "msmith1@enron.com",
+         "line": 44,
+         "rawfrom": "msmith1@enron.com [mailto:msmith1@enron.com]\n",
+         "source": "email",
+         "to": "MDay@GMSSR.com"
+      },
+      {
+         "from": "mday@gmssr.com",
+         "line": 58,
+         "rawfrom": "MBD <MDay@GMSSR.com> on 10/05/2000 10:55:44 AM\n",
+         "source": "email",
+         "to": "\"'Mike D Smith'\" <msmith1@enron.com>, MBD <MDay@GMSSR.com>, Richard B"
+      },
+      {
+         "from": "msmith1@enron.com",
+         "line": 77,
+         "rawfrom": "Mike D Smith [mailto:msmith1@enron.com]\n",
+         "source": "email",
+         "to": "mday@gmssr.com; Richard B Sanders; Mary Hain"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/all_documents/576.",
+   "hops": [
+      {
+         "from": "jgaribaldi@hanoverco.com",
+         "line": 4,
+         "rawfrom": "jgaribaldi@hanoverco.com\r\n",
+         "source": "valid",
+         "to": "richard.b.sanders@enron.com"
+      },
+      {
+         "from": "kvalach@tcresidential.com",
+         "line": 23,
+         "rawfrom": "Ken Valach [mailto:kvalach@tcresidential.com]\n",
+         "source": "email",
+         "to": "Max Gardner; Bob Talbott; Jeff Jelniker; John Garibaldi; Mcollins"
+      },
+      {
+         "from": "swise@tcresidential.com",
+         "line": 30,
+         "rawfrom": "\"Scott Wise\" <swise@tcresidential.com>\n",
+         "source": "email",
+         "to": "\"John M. Wise\" <jonmac@mo-net.com>; \"Bergmann, Chris\""
+      },
+      {
+         "from": "andiz@texas.net",
+         "line": 41,
+         "rawfrom": "\"andiz\" <andiz@texas.net>\n",
+         "source": "email",
+         "to": "\"Morgan Parker\" <twinboys9199@hotmail.com>; \"SAMINA MAHMOOD\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/all_documents/664.",
+   "hops": [
+      {
+         "from": "mday@gmssr.com",
+         "line": 4,
+         "rawfrom": "mday@gmssr.com\r\n",
+         "source": "valid",
+         "to": "msmith1@enron.com, mday@gmssr.com"
+      },
+      {
+         "from": "msmith1@enron.com",
+         "line": 49,
+         "rawfrom": "msmith1@enron.com [mailto:msmith1@enron.com]\n",
+         "source": "email",
+         "to": "MDay@GMSSR.com"
+      },
+      {
+         "from": "mday@gmssr.com",
+         "line": 68,
+         "rawfrom": "MBD <MDay@GMSSR.com> on 10/05/2000 03:21:47 PM\n",
+         "source": "email",
+         "to": "\"'msmith1@enron.com'\" <msmith1@enron.com>, \"'Gary Fergus, Brobeck'\""
+      },
+      {
+         "from": "msmith1@enron.com",
+         "line": 105,
+         "rawfrom": "msmith1@enron.com [mailto:msmith1@enron.com]\n",
+         "source": "email",
+         "to": "MDay@GMSSR.com"
+      },
+      {
+         "from": "mday@gmssr.com",
+         "line": 119,
+         "rawfrom": "MBD <MDay@GMSSR.com> on 10/05/2000 10:55:44 AM\n",
+         "source": "email",
+         "to": "\"'Mike D Smith'\" <msmith1@enron.com>, MBD <MDay@GMSSR.com>, Richard B"
+      },
+      {
+         "from": "msmith1@enron.com",
+         "line": 138,
+         "rawfrom": "Mike D Smith [mailto:msmith1@enron.com]\n",
+         "source": "email",
+         "to": "mday@gmssr.com; Richard B Sanders; Mary Hain"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/sent/205.",
+   "hops": [
+      {
+         "from": "richard.sanders@enron.com",
+         "line": 4,
+         "rawfrom": "richard.sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "sherry@radack.com"
+      },
+      {
+         "from": "sherry@radack.com",
+         "line": 25,
+         "rawfrom": "\"Sherry Radack\" <sherry@radack.com>\n",
+         "source": "email",
+         "to": "<Richard.B.Sanders@enron.com>"
+      },
+      {
+         "from": "richard.b.sanders@enron.com",
+         "line": 36,
+         "rawfrom": "Richard.B.Sanders@enron.com [mailto:Richard.B.Sanders@enron.com]\n",
+         "source": "email",
+         "to": "sherry@radack.com"
+      },
+      {
+         "from": "richard.b.sanders@enron.com",
+         "line": 65,
+         "rawfrom": "Richard.B.Sanders@enron.com [mailto:Richard.B.Sanders@enron.com]\n",
+         "source": "email",
+         "to": "Sherry@Radack.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/sent/639.",
+   "hops": [
+      {
+         "from": "richard.sanders@enron.com",
+         "line": 4,
+         "rawfrom": "richard.sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "andrew.edison@enron.com"
+      },
+      {
+         "from": "carol_alexander@anadarko.com",
+         "line": 43,
+         "rawfrom": "Carol Alexander [mailto:carol_alexander@anadarko.COM]\n",
+         "source": "email",
+         "to": "'Tetrault, Charles D.'"
+      },
+      {
+         "from": "ctetrault@velaw.com",
+         "line": 84,
+         "rawfrom": "Tetrault, Charles D. [SMTP:ctetrault@velaw.com]\n",
+         "source": "email",
+         "to": "'Carol Alexander'; Rothschild, George (Marathon)"
+      },
+      {
+         "from": "carol_alexander@anadarko.com",
+         "line": 115,
+         "rawfrom": "Carol Alexander [mailto:carol_alexander@anadarko.COM]\n",
+         "source": "email",
+         "to": "'Tetrault, Charles D.'; Rothschild, George (Marathon)"
+      },
+      {
+         "from": "ctetrault@velaw.com",
+         "line": 152,
+         "rawfrom": "Tetrault, Charles D. [SMTP:ctetrault@velaw.com]\n",
+         "source": "email",
+         "to": "Rothschild, George (Marathon)"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/sent/179.",
+   "hops": [
+      {
+         "from": "richard.sanders@enron.com",
+         "line": 4,
+         "rawfrom": "richard.sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "joel.ephross@enron.com"
+      },
+      {
+         "from": "joel.ephross@enron.com",
+         "line": 80,
+         "rawfrom": "Joel.Ephross [SMTP:Joel.Ephross@enron.com]\n",
+         "source": "email",
+         "to": "D'Angelo, Dean"
+      },
+      {
+         "from": "dean.dangelo@bankofamerica.com",
+         "line": 91,
+         "rawfrom": "dean.dangelo@bankofamerica.com",
+         "source": "valid",
+         "to": "\"Joel.Ephross\" <Joel.Ephross@enron.com>"
+      },
+      {
+         "from": "joel.ephross@enron.com",
+         "line": 104,
+         "rawfrom": "  Joel.Ephross [SMTP:Joel.Ephross@enron.com]\n",
+         "source": "email",
+         "to": "D'Angelo, Dean"
+      },
+      {
+         "from": "dean.dangelo@bankofamerica.com",
+         "line": 117,
+         "rawfrom": "dean.dangelo@bankofamerica.com",
+         "source": "valid",
+         "to": "\"Joel.Ephross\" <Joel.Ephross@enron.com>"
+      },
+      {
+         "from": "joel.ephross@enron.com",
+         "line": 130,
+         "rawfrom": "  Joel.Ephross [SMTP:Joel.Ephross@enron.com]\n",
+         "source": "email",
+         "to": "D'Angelo, Dean"
+      },
+      {
+         "from": "dean.dangelo@bankofamerica.com",
+         "line": 143,
+         "rawfrom": "dean.dangelo@bankofamerica.com",
+         "source": "valid",
+         "to": "\"Joel.Ephross\" <Joel.Ephross@enron.com>"
+      },
+      {
+         "from": "joel.ephross@enron.com",
+         "line": 161,
+         "rawfrom": "  Joel.Ephross [SMTP:Joel.Ephross@enron.com]\n",
+         "source": "email",
+         "to": "Lisa.Mellencamp; thodges; wguisti; Christine.Lee;"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/sent/88.",
+   "hops": [
+      {
+         "from": "richard.sanders@enron.com",
+         "line": 4,
+         "rawfrom": "richard.sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "radack@dca.co.harris.tx.us"
+      },
+      {
+         "from": "radack@dca.co.harris.tx.us",
+         "line": 26,
+         "rawfrom": "\"Radack, Judge Sherry (DCA)\" <Radack@DCA.CO.HARRIS.TX.US>\n",
+         "source": "email",
+         "to": "\"'Richard.B.Sanders@enron.com'\" <Richard.B.Sanders@enron.com>"
+      },
+      {
+         "from": "richard.b.sanders@enron.com",
+         "line": 36,
+         "rawfrom": "Richard.B.Sanders@enron.com [mailto:Richard.B.Sanders@enron.com]\n",
+         "source": "email",
+         "to": "Radack@DCA.CO.HARRIS.TX.US"
+      },
+      {
+         "from": "richard.b.sanders@enron.com",
+         "line": 79,
+         "rawfrom": "Richard.B.Sanders@enron.com [mailto:Richard.B.Sanders@enron.com]\n",
+         "source": "email",
+         "to": "Radack@DCA.CO.HARRIS.TX.US"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/sent/873.",
+   "hops": [
+      {
+         "from": "richard.sanders@enron.com",
+         "line": 4,
+         "rawfrom": "richard.sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "radack@justex.net"
+      },
+      {
+         "from": "radack@justex.net",
+         "line": 26,
+         "rawfrom": "\"Radack, Judge Sherry (DCA)\" <radack@JusTex.net>\n",
+         "source": "email",
+         "to": "\"'Bruce Oakley'\" <boakley@bracepatt.com>, Richard.B.Sanders@enron.com,"
+      },
+      {
+         "from": "boakley@bracepatt.com",
+         "line": 37,
+         "rawfrom": "Bruce Oakley [mailto:boakley@bracepatt.com]\n",
+         "source": "email",
+         "to": "Richard.B.Sanders@enron.com; radack@JusTex.net"
+      },
+      {
+         "from": "richard.b.sanders@enron.com",
+         "line": 50,
+         "rawfrom": "Richard.B.Sanders@enron.com [mailto:Richard.B.Sanders@enron.com]\n",
+         "source": "email",
+         "to": "Radack, Judge Sherry (DCA); boakley@bracepatt.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/sent/545.",
+   "hops": [
+      {
+         "from": "richard.sanders@enron.com",
+         "line": 4,
+         "rawfrom": "richard.sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "charles.cheek@enron.com, britt.davis@enron.com, eileen.kisluk@enron.com,"
+      },
+      {
+         "from": "justin.williams@linklaters.com",
+         "line": 45,
+         "rawfrom": "justin.williams@linklaters.com",
+         "source": "valid",
+         "to": "\"'Michelle.Blaine@enron.com'\" <Michelle.Blaine@enron.com>"
+      },
+      {
+         "from": "michelle.blaine@enron.com",
+         "line": 65,
+         "rawfrom": "Michelle.Blaine@enron.com [mailto:Michelle.Blaine@enron.com]\n",
+         "source": "email",
+         "to": "justin.williams@linklaters.com"
+      },
+      {
+         "from": "justin.williams@linklaters.com",
+         "line": 79,
+         "rawfrom": "justin.williams@linklaters.com",
+         "source": "valid",
+         "to": "\"'Michelle.Blaine@enron.com'\" <Michelle.Blaine@enron.com>,"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/sent/635.",
+   "hops": [
+      {
+         "from": "richard.sanders@enron.com",
+         "line": 4,
+         "rawfrom": "richard.sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "ctetrault@velaw.com"
+      },
+      {
+         "from": "ctetrault@velaw.com",
+         "line": 26,
+         "rawfrom": "\"Tetrault, Charles D.\" <ctetrault@velaw.com>\n",
+         "source": "email",
+         "to": "\"Richard B. Sanders (E-mail)\" <Richard.B.Sanders@enron.com>"
+      },
+      {
+         "from": "carol_alexander@anadarko.com",
+         "line": 49,
+         "rawfrom": "Carol Alexander [mailto:carol_alexander@anadarko.COM]\n",
+         "source": "email",
+         "to": "'Tetrault, Charles D.'; Rothschild, George (Marathon)"
+      },
+      {
+         "from": "ctetrault@velaw.com",
+         "line": 84,
+         "rawfrom": "Tetrault, Charles D. [SMTP:ctetrault@velaw.com]\n",
+         "source": "email",
+         "to": "Rothschild, George (Marathon)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/sent/390.",
+   "hops": [
+      {
+         "from": "richard.sanders@enron.com",
+         "line": 4,
+         "rawfrom": "richard.sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "radack@dca.co.harris.tx.us"
+      },
+      {
+         "from": "radack@dca.co.harris.tx.us",
+         "line": 24,
+         "rawfrom": "\"Radack, Judge Sherry (DCA)\" <Radack@DCA.CO.HARRIS.TX.US>\n",
+         "source": "email",
+         "to": "\"'Richard.B.Sanders@enron.com'\" <Richard.B.Sanders@enron.com>"
+      },
+      {
+         "from": "richard.b.sanders@enron.com",
+         "line": 36,
+         "rawfrom": "Richard.B.Sanders@enron.com [mailto:Richard.B.Sanders@enron.com]\n",
+         "source": "email",
+         "to": "Radack@DCA.CO.HARRIS.TX.US"
+      },
+      {
+         "from": "richard.b.sanders@enron.com",
+         "line": 77,
+         "rawfrom": "Richard.B.Sanders@enron.com [mailto:Richard.B.Sanders@enron.com]\n",
+         "source": "email",
+         "to": "Radack@DCA.CO.HARRIS.TX.US"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/sent/829.",
+   "hops": [
+      {
+         "from": "richard.sanders@enron.com",
+         "line": 4,
+         "rawfrom": "richard.sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "radack@dca.co.harris.tx.us"
+      },
+      {
+         "from": "radack@dca.co.harris.tx.us",
+         "line": 26,
+         "rawfrom": "\"Radack, Judge Sherry (DCA)\" <Radack@DCA.CO.HARRIS.TX.US>\n",
+         "source": "email",
+         "to": "\"'Richard.B.Sanders@enron.com'\" <Richard.B.Sanders@enron.com>, \"Radack,"
+      },
+      {
+         "from": "richard.b.sanders@enron.com",
+         "line": 38,
+         "rawfrom": "Richard.B.Sanders@enron.com [mailto:Richard.B.Sanders@enron.com]\n",
+         "source": "email",
+         "to": "Radack@DCA.CO.HARRIS.TX.US"
+      },
+      {
+         "from": "boakley@bracepatt.com",
+         "line": 77,
+         "rawfrom": "Bruce Oakley [mailto:boakley@bracepatt.com]\n",
+         "source": "email",
+         "to": "Radack@DCA.CO.HARRIS.TX.US; Richard.B.Sanders@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/sent/286.",
+   "hops": [
+      {
+         "from": "richard.sanders@enron.com",
+         "line": 4,
+         "rawfrom": "richard.sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "britt.davis@enron.com"
+      },
+      {
+         "from": "martin.stanley@mgmcc.co.uk",
+         "line": 866,
+         "rawfrom": "martin.stanley@mgmcc.co.uk [mailto:martin.stanley@mgmcc.co.uk]\r\n",
+         "source": "email",
+         "to": "elenag@rual.ru; sergybu@rual.ru"
+      },
+      {
+         "from": "martin.stanley@mgmcc.co.uk",
+         "line": 2582,
+         "rawfrom": "martin.stanley@mgmcc.co.uk [mailto:martin.stanley@mgmcc.co.uk]\r\n",
+         "source": "email",
+         "to": "The Aluminium Group"
+      },
+      {
+         "from": "bruce.markowitz@com-box.com",
+         "line": 2666,
+         "rawfrom": "\"Markowitz, Bruce\" <Bruce.Markowitz@com-box.com> on 07/10/2000 07:03:18 PM\r\n",
+         "source": "email",
+         "to": "Martin Stanley/The Metal & Commodity Co Ltd/MGLTD@MGLTD"
+      },
+      {
+         "from": "martin.stanley@mgmcc.co.uk",
+         "line": 2771,
+         "rawfrom": "martin.stanley@mgmcc.co.uk [mailto:martin.stanley@mgmcc.co.uk]\r\n",
+         "source": "email",
+         "to": "The Aluminium Group"
+      },
+      {
+         "from": "mgately@milesstockbridge.com",
+         "line": 2892,
+         "rawfrom": "\"Gately, Mark D.\" <MGATELY@MilesStockbridge.com> on 07/10/2000 10:24:24 PM\r\n",
+         "source": "email",
+         "to": "Martin Stanley/The Metal & Commodity Co Ltd/MGLTD@MGLTD"
+      },
+      {
+         "from": "martin.stanley@mgmcc.co.uk",
+         "line": 2940,
+         "rawfrom": "martin.stanley@mgmcc.co.uk [mailto:martin.stanley@mgmcc.co.uk]\r\n",
+         "source": "email",
+         "to": "The Aluminium Group"
+      },
+      {
+         "from": "mgately@milesstockbridge.com",
+         "line": 3080,
+         "rawfrom": "\"Gately, Mark D.\" <MGATELY@MilesStockbridge.com> on 07/11/2000 10:38:52 PM\r\n",
+         "source": "email",
+         "to": "Martin Stanley/The Metal & Commodity Co Ltd/MGLTD@MGLTD,"
+      },
+      {
+         "from": "martin.stanley@mgmcc.co.uk",
+         "line": 3179,
+         "rawfrom": "martin.stanley@mgmcc.co.uk [mailto:martin.stanley@mgmcc.co.uk]\r\n",
+         "source": "email",
+         "to": "Gately, Mark D."
+      },
+      {
+         "from": "mgately@milesstockbridge.com",
+         "line": 3201,
+         "rawfrom": "\"Gately, Mark D.\" <MGATELY@MilesStockbridge.com> on 07/11/2000 10:38:52 PM\r\n",
+         "source": "email",
+         "to": "Martin Stanley/The Metal & Commodity Co Ltd/MGLTD@MGLTD,"
+      },
+      {
+         "from": "mgately@milesstockbridge.com",
+         "line": 3501,
+         "rawfrom": "\"Gately, Mark D.\" <MGATELY@MilesStockbridge.com> on 07/13/2000 03:18:58 AM\r\n",
+         "source": "email",
+         "to": "\"'arthur.taylor@mgnah.com'\" <arthur.taylor@mgnah.com>, Martin=20"
+      },
+      {
+         "from": "martin.stanley@mgmcc.co.uk",
+         "line": 3755,
+         "rawfrom": "martin.stanley@mgmcc.co.uk [mailto:martin.stanley@mgmcc.co.uk]\r\n",
+         "source": "email",
+         "to": "Gately, Mark D."
+      },
+      {
+         "from": "mgately@milesstockbridge.com",
+         "line": 3989,
+         "rawfrom": "\"Gately, Mark D.\" <MGATELY@MilesStockbridge.com> on 07/15/2000 06:33:27 PM\r\n",
+         "source": "email",
+         "to": "\"'arthur.taylor@mgnah.com'\" <arthur.taylor@mgnah.com>, Martin=20"
+      }
+   ],
+   "skipped": 76
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/sent/135.",
+   "hops": [
+      {
+         "from": "richard.sanders@enron.com",
+         "line": 4,
+         "rawfrom": "richard.sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "bogden@ogwb.com"
+      },
+      {
+         "from": "bogden@ogwb.com",
+         "line": 26,
+         "rawfrom": "bogden@ogwb.com",
+         "source": "valid",
+         "to": "\"Richard Sanders\" <richard.b.sanders@enron.com>"
+      },
+      {
+         "from": "bogden@ogwb.com",
+         "line": 36,
+         "rawfrom": "Bill W. Ogden [mailto:bogden@ogwb.com]\n",
+         "source": "email",
+         "to": "robert.p.virgo@enron.com"
+      },
+      {
+         "from": "bogden@ogwb.com",
+         "line": 46,
+         "rawfrom": "Bill W. Ogden [mailto:bogden@ogwb.com]\n",
+         "source": "email",
+         "to": "Richard Sanders"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/sent/1111.",
+   "hops": [
+      {
+         "from": "richard.sanders@enron.com",
+         "line": 4,
+         "rawfrom": "richard.sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "pgurfein@akingump.com"
+      },
+      {
+         "from": "pgurfein@akingump.com",
+         "line": 45,
+         "rawfrom": "\"Gurfein, Peter\" <pgurfein@AkinGump.com>\n",
+         "source": "email",
+         "to": "\"'Jeffrey A. Krieger'\" <jkrieger@ggfcmk.com>, \"Gurfein, Peter\""
+      },
+      {
+         "from": "jkrieger@ggfcmk.com",
+         "line": 80,
+         "rawfrom": "Jeffrey A. Krieger [mailto:jkrieger@ggfcmk.com]\n",
+         "source": "email",
+         "to": "pgurfein@akingump.com; jcrossen@apx.com; rberry@apx.com;"
+      },
+      {
+         "from": "pjazayeri@stroock.com",
+         "line": 94,
+         "rawfrom": "pjazayeri@stroock.com",
+         "source": "valid",
+         "to": "CalPX Participants' Committee"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/sent/553.",
+   "hops": [
+      {
+         "from": "richard.sanders@enron.com",
+         "line": 4,
+         "rawfrom": "richard.sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "nmanne@susmangodfrey.com"
+      },
+      {
+         "from": "nmanne@susmangodfrey.com",
+         "line": 24,
+         "rawfrom": "\"Neal S. Manne\" <NMANNE@SusmanGodfrey.com>\n",
+         "source": "email",
+         "to": "Richard.B.Sanders@enron.com"
+      },
+      {
+         "from": "richard.b.sanders@enron.com",
+         "line": 35,
+         "rawfrom": "Richard.B.Sanders@enron.com [mailto:Richard.B.Sanders@enron.com]\n",
+         "source": "email",
+         "to": "Neal S. Manne"
+      },
+      {
+         "from": "brian.redmond@enron.com",
+         "line": 101,
+         "rawfrom": "Brian.Redmond@enron.com [mailto:Brian.Redmond@enron.com]\n",
+         "source": "email",
+         "to": "Richard.B.Sanders@enron.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/radack/10.",
+   "hops": [
+      {
+         "from": "jgaribaldi@hanoverco.com",
+         "line": 4,
+         "rawfrom": "jgaribaldi@hanoverco.com\r\n",
+         "source": "valid",
+         "to": "richard.b.sanders@enron.com"
+      },
+      {
+         "from": "kvalach@tcresidential.com",
+         "line": 23,
+         "rawfrom": "Ken Valach [mailto:kvalach@tcresidential.com]\n",
+         "source": "email",
+         "to": "Max Gardner; Bob Talbott; Jeff Jelniker; John Garibaldi; Mcollins"
+      },
+      {
+         "from": "swise@tcresidential.com",
+         "line": 30,
+         "rawfrom": "\"Scott Wise\" <swise@tcresidential.com>\n",
+         "source": "email",
+         "to": "\"John M. Wise\" <jonmac@mo-net.com>; \"Bergmann, Chris\""
+      },
+      {
+         "from": "andiz@texas.net",
+         "line": 41,
+         "rawfrom": "\"andiz\" <andiz@texas.net>\n",
+         "source": "email",
+         "to": "\"Morgan Parker\" <twinboys9199@hotmail.com>; \"SAMINA MAHMOOD\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/deleted_items/sempra/11.",
+   "hops": [
+      {
+         "from": "gail.brownfeld@enron.com",
+         "line": 4,
+         "rawfrom": "gail.brownfeld@enron.com\r\n",
+         "source": "valid",
+         "to": "a..shankman@enron.com, george.mcclellan@enron.com"
+      },
+      {
+         "from": "cpjohnson@brobeck.com",
+         "line": 25,
+         "rawfrom": "Johnson, Christopher P. [mailto:CPJohnson@brobeck.com]\n",
+         "source": "email",
+         "to": "Brownfeld, Gail"
+      },
+      {
+         "from": "kmartin@chadbourne.com",
+         "line": 55,
+         "rawfrom": "Martin, Keith [mailto:kmartin@chadbourne.com] \n",
+         "source": "email",
+         "to": "'Johnson, Christopher P.'"
+      },
+      {
+         "from": "cpjohnson@brobeck.com",
+         "line": 80,
+         "rawfrom": "Johnson, Christopher P. [mailto:CPJohnson@brobeck.com]\n",
+         "source": "email",
+         "to": "'Martin, Keith'"
+      },
+      {
+         "from": "kmartin@chadbourne.com",
+         "line": 112,
+         "rawfrom": "Martin, Keith [mailto:kmartin@chadbourne.com]\n",
+         "source": "email",
+         "to": "'gmarkel@brobeck.com'; 'cpjohnson@brobeck.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/sent_items/38.",
+   "hops": [
+      {
+         "from": "b..sanders@enron.com",
+         "line": 4,
+         "rawfrom": "b..sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "mlk@pkns.com"
+      },
+      {
+         "from": "mlk@pkns.com",
+         "line": 22,
+         "rawfrom": "\t\"Michael Kirby\" <mlk@pkns.com>@ENRON [mailto:IMCEANOTES-+22Michael+20Kirby+22+20+3Cmlk+40pkns+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Sanders, Richard B."
+      },
+      {
+         "from": "mlk@pkns.com",
+         "line": 37,
+         "rawfrom": "  \"Michael Kirby\" <mlk@pkns.com>@ENRON\n",
+         "source": "email",
+         "to": "PMeringolo@brobeck.com"
+      },
+      {
+         "from": "richard.b.sanders@enron.com",
+         "line": 60,
+         "rawfrom": "Richard.B.Sanders@enron.com [mailto:Richard.B.Sanders@enron.com]\n",
+         "source": "email",
+         "to": "PMeringolo@brobeck.com; mlk@pkns.com"
+      },
+      {
+         "from": "pmeringolo@brobeck.com",
+         "line": 77,
+         "rawfrom": "  \"Meringolo, Peter\" <PMeringolo@brobeck.com>@ENRON\n",
+         "source": "email",
+         "to": "Michael L. Kirby (E-mail)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/sent_items/46.",
+   "hops": [
+      {
+         "from": "b..sanders@enron.com",
+         "line": 4,
+         "rawfrom": "b..sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "paul.simons@enron.com"
+      },
+      {
+         "from": "cwoods@mayerbrown.com",
+         "line": 49,
+         "rawfrom": "Woods, Craig A. [mailto:cwoods@mayerbrown.com]\n",
+         "source": "email",
+         "to": "Sanders, Richard B.; Champion, John; Evans, Mark (London Legal)"
+      },
+      {
+         "from": "richard.b.sanders@enron.com",
+         "line": 75,
+         "rawfrom": "Sanders, Richard B. [mailto:Richard.B.Sanders@enron.com]\n",
+         "source": "email",
+         "to": "Champion, John; Evans, Mark (London Legal)"
+      },
+      {
+         "from": "cwoods@mayerbrown.com",
+         "line": 137,
+         "rawfrom": "Woods, Craig A. [mailto:cwoods@mayerbrown.com]\n",
+         "source": "email",
+         "to": "Groves, Robert; Heffron, Kevin; T Paul Johnson (Legal); McKey, Christopher; Michaud, Jean; Nissan, Limor"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/sent_items/36.",
+   "hops": [
+      {
+         "from": "b..sanders@enron.com",
+         "line": 4,
+         "rawfrom": "b..sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "mlk@pkns.com"
+      },
+      {
+         "from": "mlk@pkns.com",
+         "line": 22,
+         "rawfrom": "\t\"Michael Kirby\" <mlk@pkns.com>@ENRON [mailto:IMCEANOTES-+22Michael+20Kirby+22+20+3Cmlk+40pkns+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "PMeringolo@brobeck.com"
+      },
+      {
+         "from": "richard.b.sanders@enron.com",
+         "line": 41,
+         "rawfrom": "Richard.B.Sanders@enron.com [mailto:Richard.B.Sanders@enron.com]\n",
+         "source": "email",
+         "to": "PMeringolo@brobeck.com; mlk@pkns.com"
+      },
+      {
+         "from": "pmeringolo@brobeck.com",
+         "line": 57,
+         "rawfrom": "  \"Meringolo, Peter\" <PMeringolo@brobeck.com>@ENRON\n",
+         "source": "email",
+         "to": "Michael L. Kirby (E-mail)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/sent_items/72.",
+   "hops": [
+      {
+         "from": "b..sanders@enron.com",
+         "line": 4,
+         "rawfrom": "b..sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "lisa.mellencamp@enron.com"
+      },
+      {
+         "from": "pwarden@pillsburywinthrop.com",
+         "line": 30,
+         "rawfrom": "\t\"Warden, Philip S.\" <pwarden@PillsburyWinthrop.com>@ENRON  \n",
+         "source": "email",
+         "to": "Mellencamp, Lisa"
+      },
+      {
+         "from": "lisa.mellencamp@enron.com",
+         "line": 41,
+         "rawfrom": "Lisa.Mellencamp@enron.com [mailto:Lisa.Mellencamp@enron.com]\n",
+         "source": "email",
+         "to": "pwarden@PillsburyWinthrop.com"
+      },
+      {
+         "from": "pwarden@pillsburywinthrop.com",
+         "line": 51,
+         "rawfrom": "  \"Warden, Philip S.\" <pwarden@PillsburyWinthrop.com>@ENRON\n",
+         "source": "email",
+         "to": "Bates III, William (McCutchen, Doyle, Brown & Enersen, LLP)"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/sent_items/41.",
+   "hops": [
+      {
+         "from": "b..sanders@enron.com",
+         "line": 4,
+         "rawfrom": "b..sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "zack.starbird@mirant.com, sheryl_gussett@reliantenergy.com"
+      },
+      {
+         "from": "zack.starbird@mirant.com",
+         "line": 24,
+         "rawfrom": "\t\"Starbird, Zack\" <zack.starbird@mirant.com>@ENRON [mailto:IMCEANOTES-+22Starbird+2C+20Zack+22+20+3Czack+2Estarbird+40mirant+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Sanders, Richard B.; sheryl_gussett@reliantenergy.com@ENRON"
+      },
+      {
+         "from": "richard.b.sanders@enron.com",
+         "line": 39,
+         "rawfrom": "Sanders, Richard B. [mailto:Richard.B.Sanders@enron.com]\n",
+         "source": "email",
+         "to": "sheryl_gussett@reliantenergy.com@ENRON"
+      },
+      {
+         "from": "sheryl_gussett@reliantenergy.com",
+         "line": 56,
+         "rawfrom": "\tsheryl_gussett@reliantenergy.com@ENRON\n",
+         "source": "email",
+         "to": "Sanders, Richard B."
+      },
+      {
+         "from": "rcamps@miami.whitecase.com",
+         "line": 116,
+         "rawfrom": "        \"Raquel Camps\" <RCamps@miami.whitecase.com>@ENRON\n",
+         "source": "email",
+         "to": "Sanders, Richard B.; rmichelson@mdbe.com;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/sent_items/130.",
+   "hops": [
+      {
+         "from": "b..sanders@enron.com",
+         "line": 4,
+         "rawfrom": "b..sanders@enron.com\r\n",
+         "source": "valid",
+         "to": "fme@egglestonbriscoe.com, gage@bkollp.com"
+      },
+      {
+         "from": "fme@egglestonbriscoe.com",
+         "line": 24,
+         "rawfrom": "\t\"Max\" <fme@egglestonbriscoe.com>@ENRON  \n",
+         "source": "email",
+         "to": "Bill Gage; Sanders, Richard B."
+      },
+      {
+         "from": "gage@bkollp.com",
+         "line": 31,
+         "rawfrom": "Bill Gage <gage@bkollp.com>\n",
+         "source": "email",
+         "to": "Max <fme@egglestonbriscoe.com>; Richard Sanders"
+      },
+      {
+         "from": "fme@egglestonbriscoe.com",
+         "line": 44,
+         "rawfrom": "Max <fme@egglestonbriscoe.com>\n",
+         "source": "email",
+         "to": "Richard Sanders <Richard.B.Sanders@enron.com>; Bill Gage"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/senator_dunn_inv_/16.",
+   "hops": [
+      {
+         "from": "mlk@pkns.com",
+         "line": 4,
+         "rawfrom": "mlk@pkns.com\r\n",
+         "source": "valid",
+         "to": "richard.b.sanders@enron.com"
+      },
+      {
+         "from": "sgovenar@govadv.com",
+         "line": 39,
+         "rawfrom": "Scott Govenar <sgovenar@govadv.com>\n",
+         "source": "email",
+         "to": "mlk@pkns.com"
+      },
+      {
+         "from": "sgovenar@govadv.com",
+         "line": 54,
+         "rawfrom": "Scott Govenar <sgovenar@govadv.com>\n",
+         "source": "email",
+         "to": "mlk@pknf.com"
+      },
+      {
+         "from": "sgovenar@govadv.com",
+         "line": 70,
+         "rawfrom": "Scott Govenar <sgovenar@govadv.com>\n",
+         "source": "email",
+         "to": "Hedy Govenar <hgovenar@govadv.com>, Mike Day <MDay@GMSSR.com>,  Bev"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/senator_dunn_inv_/41.",
+   "hops": [
+      {
+         "from": "mlk@pkns.com",
+         "line": 4,
+         "rawfrom": "mlk@pkns.com\r\n",
+         "source": "valid",
+         "to": "richard.b.sanders@enron.com"
+      },
+      {
+         "from": "sgovenar@govadv.com",
+         "line": 32,
+         "rawfrom": "Scott Govenar <sgovenar@govadv.com>\n",
+         "source": "email",
+         "to": "mlk@pkns.com"
+      },
+      {
+         "from": "sgovenar@govadv.com",
+         "line": 46,
+         "rawfrom": "Scott Govenar <sgovenar@govadv.com>\n",
+         "source": "email",
+         "to": "mlk@pknf.com"
+      },
+      {
+         "from": "sgovenar@govadv.com",
+         "line": 61,
+         "rawfrom": "Scott Govenar <sgovenar@govadv.com>\n",
+         "source": "email",
+         "to": "Hedy Govenar <hgovenar@govadv.com>, Mike Day <MDay@GMSSR.com>, \tBev Hansen <bhansen@lhom.com>, Jeff Dasovich <jdasovic@enron.com>, \tSusan J Mara <smara@enron.com>, \tPaul Kaufman <paul.kaufman@enron.com>, \tMichael McDonald <Michael.McDonald@enron.com>, \tSandra McCubbin <Sandra.McCubbin@enron.com>, \tRick Shapiro <rshapiro@enron.com>, \tJim Steffes <james.d.steffes@enron.com>, \tAlan Comnes <acomnes@enron.com>, \tSteven Kean <Steven.J.Kean@enron.com>, \tKaren Denne <kdenne@enron.com>, \t\"Harry.Kingerski@enron.com\" <Harry.Kingerski@enron.com>, \tLeslie Lawner <Leslie.Lawner@enron.com>, \tRobert Frank <rfrank@enron.com>, \tKen Smith <ken@kdscommunications.com>, \tJanel Guerrero <Janel.Guerrero@enron.com>, \tMiyung Buster <Miyung.Buster@enron.com>, \tJennifer Thome <Jennifer.Thome@enron.com>, \tEric Letke <eletke@enron.com>, Mary Schoen <Mary.Schoen@enron.com>, \tDavid Leboe <David.Leboe@ENRON.com>, \tBan Sharma <ban.sharma@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/nsm/66.",
+   "hops": [
+      {
+         "from": "showard@milbank.com",
+         "line": 4,
+         "rawfrom": "showard@milbank.com\r\n",
+         "source": "valid",
+         "to": "rittichai.ngodngam@linklaters.com"
+      },
+      {
+         "from": "rittichai.ngodngam@linklaters.com",
+         "line": 22,
+         "rawfrom": "Ngodngam, Rittichai [mailto:rittichai.ngodngam@linklaters.com] \n",
+         "source": "email",
+         "to": "'SHoward@milbank.com'"
+      },
+      {
+         "from": "showard@milbank.com",
+         "line": 73,
+         "rawfrom": "SHoward@milbank.com [mailto:SHoward@milbank.com] \n",
+         "source": "email",
+         "to": "rittichai.ngodngam@linklaters.com"
+      },
+      {
+         "from": "rittichai.ngodngam@linklaters.com",
+         "line": 112,
+         "rawfrom": "From:?? Ngodngam, Rittichai [SMTP:rittichai.ngodngam@linklaters.com] \n",
+         "source": "email",
+         "to": "???? 'pboonklum@whitecase.com'; 'sakunka@bangkok.whitecase.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/nsm/65.",
+   "hops": [
+      {
+         "from": "showard@milbank.com",
+         "line": 4,
+         "rawfrom": "showard@milbank.com\r\n",
+         "source": "valid",
+         "to": "richard.b.sanders@enron.com, lmellen@ect.enron.com"
+      },
+      {
+         "from": "rittichai.ngodngam@linklaters.com",
+         "line": 22,
+         "rawfrom": "Ngodngam, Rittichai [mailto:rittichai.ngodngam@linklaters.com] \n",
+         "source": "email",
+         "to": "'SHoward@milbank.com'"
+      },
+      {
+         "from": "showard@milbank.com",
+         "line": 73,
+         "rawfrom": "SHoward@milbank.com [mailto:SHoward@milbank.com] \n",
+         "source": "email",
+         "to": "rittichai.ngodngam@linklaters.com"
+      },
+      {
+         "from": "rittichai.ngodngam@linklaters.com",
+         "line": 112,
+         "rawfrom": "From:?? Ngodngam, Rittichai [SMTP:rittichai.ngodngam@linklaters.com] \n",
+         "source": "email",
+         "to": "???? 'pboonklum@whitecase.com'; 'sakunka@bangkok.whitecase.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/px/33.",
+   "hops": [
+      {
+         "from": "lisa.mellencamp@enron.com",
+         "line": 4,
+         "rawfrom": "lisa.mellencamp@enron.com\r\n",
+         "source": "valid",
+         "to": "sheryl_gussett@reliantenergy.com, zack.starbird@mirant.com"
+      },
+      {
+         "from": "sheryl_gussett@reliantenergy.com",
+         "line": 24,
+         "rawfrom": "\tsheryl_gussett@reliantenergy.com@ENRON  \n",
+         "source": "email",
+         "to": "Mellencamp, Lisa; zack.starbird@mirant.com"
+      },
+      {
+         "from": "hweg@pgwlaw.com",
+         "line": 83,
+         "rawfrom": "Howard J.Weg [mailto:hweg@pgwlaw.com]\n",
+         "source": "email",
+         "to": "'Lubic, Michael'"
+      },
+      {
+         "from": "mlubic@mdbe.com",
+         "line": 104,
+         "rawfrom": "Lubic, Michael [mailto:MLubic@mdbe.com]\n",
+         "source": "email",
+         "to": "Weg, Howard J.; Cohen, Marc S. Esq."
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/india/2.",
+   "hops": [
+      {
+         "from": "michelle.blaine@enron.com",
+         "line": 4,
+         "rawfrom": "michelle.blaine@enron.com\r\n",
+         "source": "valid",
+         "to": "justin.williams@linklaters.com"
+      },
+      {
+         "from": "justin.williams@linklaters.com",
+         "line": 97,
+         "rawfrom": "justin.williams@Linklaters.com",
+         "source": "valid",
+         "to": "\"'Michelle.Blaine@enron.com'\" <Michelle.Blaine@enron.com>"
+      },
+      {
+         "from": "michelle.blaine@enron.com",
+         "line": 125,
+         "rawfrom": "Michelle.Blaine@enron.com [mailto:Michelle.Blaine@enron.com]\n",
+         "source": "email",
+         "to": "justin.williams@linklaters.com"
+      },
+      {
+         "from": "justin.williams@linklaters.com",
+         "line": 141,
+         "rawfrom": "justin.williams@Linklaters.com",
+         "source": "valid",
+         "to": "\"'Michelle.Blaine@enron.com'\" <Michelle.Blaine@enron.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/iso__pricecaps/27.",
+   "hops": [
+      {
+         "from": "mday@gmssr.com",
+         "line": 4,
+         "rawfrom": "mday@gmssr.com\r\n",
+         "source": "valid",
+         "to": "msmith1@enron.com, mday@gmssr.com"
+      },
+      {
+         "from": "msmith1@enron.com",
+         "line": 49,
+         "rawfrom": "msmith1@enron.com [mailto:msmith1@enron.com]\n",
+         "source": "email",
+         "to": "MDay@GMSSR.com"
+      },
+      {
+         "from": "mday@gmssr.com",
+         "line": 68,
+         "rawfrom": "MBD <MDay@GMSSR.com> on 10/05/2000 03:21:47 PM\n",
+         "source": "email",
+         "to": "\"'msmith1@enron.com'\" <msmith1@enron.com>, \"'Gary Fergus, Brobeck'\""
+      },
+      {
+         "from": "msmith1@enron.com",
+         "line": 105,
+         "rawfrom": "msmith1@enron.com [mailto:msmith1@enron.com]\n",
+         "source": "email",
+         "to": "MDay@GMSSR.com"
+      },
+      {
+         "from": "mday@gmssr.com",
+         "line": 119,
+         "rawfrom": "MBD <MDay@GMSSR.com> on 10/05/2000 10:55:44 AM\n",
+         "source": "email",
+         "to": "\"'Mike D Smith'\" <msmith1@enron.com>, MBD <MDay@GMSSR.com>, Richard B"
+      },
+      {
+         "from": "msmith1@enron.com",
+         "line": 138,
+         "rawfrom": "Mike D Smith [mailto:msmith1@enron.com]\n",
+         "source": "email",
+         "to": "mday@gmssr.com; Richard B Sanders; Mary Hain"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/iso__pricecaps/64.",
+   "hops": [
+      {
+         "from": "mday@gmssr.com",
+         "line": 4,
+         "rawfrom": "mday@gmssr.com\r\n",
+         "source": "valid",
+         "to": "gfergus@brobeck.com, richard.b.sanders@enron.com, mday@gmssr.com"
+      },
+      {
+         "from": "gfergus@brobeck.com",
+         "line": 44,
+         "rawfrom": "Fergus, Gary S. [mailto:GFergus@brobeck.com]\n",
+         "source": "email",
+         "to": "Richard B. Sanders Esq. (E-mail); Michael Day (E-mail)"
+      },
+      {
+         "from": "hym@cpuc.ca.gov",
+         "line": 60,
+         "rawfrom": "Morris, Harvey Y. [mailto:hym@cpuc.ca.gov]\n",
+         "source": "email",
+         "to": "'Fergus, Gary S.'; Morris, Harvey Y."
+      },
+      {
+         "from": "gfergus@brobeck.com",
+         "line": 89,
+         "rawfrom": "Fergus, Gary S. [ mailto:GFergus@brobeck.com\n",
+         "source": "email",
+         "to": "'hym@cpuc.ca.gov'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/iso__pricecaps/24.",
+   "hops": [
+      {
+         "from": "mday@gmssr.com",
+         "line": 4,
+         "rawfrom": "mday@gmssr.com\r\n",
+         "source": "valid",
+         "to": "msmith1@enron.com, gfergus@brobeck.com, richard.b.sanders@enron.com"
+      },
+      {
+         "from": "msmith1@enron.com",
+         "line": 44,
+         "rawfrom": "msmith1@enron.com [mailto:msmith1@enron.com]\n",
+         "source": "email",
+         "to": "MDay@GMSSR.com"
+      },
+      {
+         "from": "mday@gmssr.com",
+         "line": 58,
+         "rawfrom": "MBD <MDay@GMSSR.com> on 10/05/2000 10:55:44 AM\n",
+         "source": "email",
+         "to": "\"'Mike D Smith'\" <msmith1@enron.com>, MBD <MDay@GMSSR.com>, Richard B"
+      },
+      {
+         "from": "msmith1@enron.com",
+         "line": 77,
+         "rawfrom": "Mike D Smith [mailto:msmith1@enron.com]\n",
+         "source": "email",
+         "to": "mday@gmssr.com; Richard B Sanders; Mary Hain"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/iso__pricecaps/486.",
+   "hops": [
+      {
+         "from": "chealey@luce.com",
+         "line": 4,
+         "rawfrom": "chealey@luce.com\r\n",
+         "source": "valid",
+         "to": "jeff.alexander@enron.com, gretchen.allen@enron.com, brent.bailey@enron.com,"
+      },
+      {
+         "from": "alex.goldberg@williams.com",
+         "line": 92,
+         "rawfrom": "Goldberg, Alex [mailto:Alex.Goldberg@williams.com]\n",
+         "source": "email",
+         "to": "'chealey@LUCE.com'"
+      },
+      {
+         "from": "chealey@luce.com",
+         "line": 108,
+         "rawfrom": "Healey, Chris [mailto:chealey@LUCE.com]\n",
+         "source": "email",
+         "to": "Alexander, Jeff; Allen, Gretchen; Bailey, Brent; Beh, James;"
+      },
+      {
+         "from": "ttaylor@smrh.com",
+         "line": 165,
+         "rawfrom": "Tim Taylor [mailto:ttaylor@smrh.com]\n",
+         "source": "email",
+         "to": "'chealey@luce.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sanders-r/sempra/28.",
+   "hops": [
+      {
+         "from": "gail.brownfeld@enron.com",
+         "line": 4,
+         "rawfrom": "gail.brownfeld@enron.com\r\n",
+         "source": "valid",
+         "to": "a..shankman@enron.com, george.mcclellan@enron.com"
+      },
+      {
+         "from": "cpjohnson@brobeck.com",
+         "line": 25,
+         "rawfrom": "Johnson, Christopher P. [mailto:CPJohnson@brobeck.com]\n",
+         "source": "email",
+         "to": "Brownfeld, Gail"
+      },
+      {
+         "from": "kmartin@chadbourne.com",
+         "line": 55,
+         "rawfrom": "Martin, Keith [mailto:kmartin@chadbourne.com] \n",
+         "source": "email",
+         "to": "'Johnson, Christopher P.'"
+      },
+      {
+         "from": "cpjohnson@brobeck.com",
+         "line": 80,
+         "rawfrom": "Johnson, Christopher P. [mailto:CPJohnson@brobeck.com]\n",
+         "source": "email",
+         "to": "'Martin, Keith'"
+      },
+      {
+         "from": "kmartin@chadbourne.com",
+         "line": 112,
+         "rawfrom": "Martin, Keith [mailto:kmartin@chadbourne.com]\n",
+         "source": "email",
+         "to": "'gmarkel@brobeck.com'; 'cpjohnson@brobeck.com'"
+      }
+   ],
+   "skipped": 0
+}
+]

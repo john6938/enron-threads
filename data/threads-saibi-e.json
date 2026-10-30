@@ -1,0 +1,225 @@
+[
+{
+   "file": "/home/jb/maildir/saibi-e/inbox/1162.",
+   "hops": [
+      {
+         "from": "mmorales@arnel.com",
+         "line": 4,
+         "rawfrom": "mmorales@arnel.com\r\n",
+         "source": "valid",
+         "to": "eric.saibi@enron.com"
+      },
+      {
+         "from": "eric.saibi@enron.com",
+         "line": 24,
+         "rawfrom": "Eric.Saibi@enron.com [mailto:Eric.Saibi@enron.com]\n",
+         "source": "email",
+         "to": "mmorales@arnel.com"
+      },
+      {
+         "from": "mmorales@arnel.com",
+         "line": 33,
+         "rawfrom": "  \"Maylynn Morales\" <mmorales@arnel.com>@ENRON\n",
+         "source": "email",
+         "to": "Saibi, Eric"
+      },
+      {
+         "from": "eric.saibi@enron.com",
+         "line": 41,
+         "rawfrom": "Eric.Saibi@enron.com [mailto:Eric.Saibi@enron.com]\n",
+         "source": "email",
+         "to": "mmorales@arnel.com"
+      },
+      {
+         "from": "mmorales@arnel.com",
+         "line": 52,
+         "rawfrom": "  \"Maylynn Morales\" <mmorales@arnel.com>@ENRON\n",
+         "source": "email",
+         "to": "Saibi, Eric"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/saibi-e/inbox/253.",
+   "hops": [
+      {
+         "from": "doug.gilbert-smith@enron.com",
+         "line": 4,
+         "rawfrom": "doug.gilbert-smith@enron.com\r\n",
+         "source": "valid",
+         "to": "eric.saibi@enron.com"
+      },
+      {
+         "from": "gilsmith@houston.rr.com",
+         "line": 22,
+         "rawfrom": "\t\"Doug & Killian Gilbert-Smith\" <gilsmith@houston.rr.com>@ENRON  \n",
+         "source": "email",
+         "to": "Gilbert-smith, Doug"
+      },
+      {
+         "from": "doug.gilbert-smith@enron.com",
+         "line": 30,
+         "rawfrom": "Gilbert-smith, Doug [mailto:Doug.Gilbert-Smith@enron.com]\n",
+         "source": "email",
+         "to": "gilsmith@houston.rr.com"
+      },
+      {
+         "from": "no-reply@mail.southwest.com",
+         "line": 39,
+         "rawfrom": "\t\"Southwest Airlines\" <no-reply@mail.southwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Gilbert-smith, Doug"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/saibi-e/inbox/252.",
+   "hops": [
+      {
+         "from": "doug.gilbert-smith@enron.com",
+         "line": 4,
+         "rawfrom": "doug.gilbert-smith@enron.com\r\n",
+         "source": "valid",
+         "to": "eric.saibi@enron.com"
+      },
+      {
+         "from": "gilsmith@houston.rr.com",
+         "line": 22,
+         "rawfrom": "\t\"Doug & Killian Gilbert-Smith\" <gilsmith@houston.rr.com>@ENRON  \n",
+         "source": "email",
+         "to": "Gilbert-smith, Doug"
+      },
+      {
+         "from": "doug.gilbert-smith@enron.com",
+         "line": 30,
+         "rawfrom": "Gilbert-smith, Doug [mailto:Doug.Gilbert-Smith@enron.com]\n",
+         "source": "email",
+         "to": "gilsmith@houston.rr.com"
+      },
+      {
+         "from": "gilsmith@houston.rr.com",
+         "line": 39,
+         "rawfrom": "\t\"Doug & Killian Gilbert-Smith\" <gilsmith@houston.rr.com>@ENRON\n",
+         "source": "email",
+         "to": "Gilbert-smith, Doug"
+      },
+      {
+         "from": "register@friendsreunited.co.uk",
+         "line": 48,
+         "rawfrom": "register@friendsreunited.co.uk\n",
+         "source": "valid",
+         "to": "gilsmith@houston.rr.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/saibi-e/inbox/137.",
+   "hops": [
+      {
+         "from": "mebarham@duke-energy.com",
+         "line": 4,
+         "rawfrom": "mebarham@duke-energy.com\r\n",
+         "source": "valid",
+         "to": "eric.saibi@enron.com"
+      },
+      {
+         "from": "esaibi@houston.rr.com",
+         "line": 55,
+         "rawfrom": "        \"Eric Saibi\" <esaibi@houston.rr.com>@ENRON\n",
+         "source": "email",
+         "to": "Saibi, Eric"
+      },
+      {
+         "from": "mebarham@duke-energy.com",
+         "line": 61,
+         "rawfrom": "\"Michael Barham\" <MEBarham@duke-energy.com>\n",
+         "source": "email",
+         "to": "<esaibi@houston.rr.com>"
+      },
+      {
+         "from": "mebarham@duke-energy.com",
+         "line": 102,
+         "rawfrom": "<mebarham@duke-energy.com>\n",
+         "source": "email",
+         "to": "<esaibi@houston.rr.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/saibi-e/sent_items/40.",
+   "hops": [
+      {
+         "from": "eric.saibi@enron.com",
+         "line": 4,
+         "rawfrom": "eric.saibi@enron.com\r\n",
+         "source": "valid",
+         "to": "mmorales@arnel.com"
+      },
+      {
+         "from": "mmorales@arnel.com",
+         "line": 23,
+         "rawfrom": "\t\"Maylynn Morales\" <mmorales@arnel.com>@ENRON  \n",
+         "source": "email",
+         "to": "Saibi, Eric"
+      },
+      {
+         "from": "eric.saibi@enron.com",
+         "line": 31,
+         "rawfrom": "Eric.Saibi@enron.com [mailto:Eric.Saibi@enron.com]\n",
+         "source": "email",
+         "to": "mmorales@arnel.com"
+      },
+      {
+         "from": "mmorales@arnel.com",
+         "line": 42,
+         "rawfrom": "  \"Maylynn Morales\" <mmorales@arnel.com>@ENRON\n",
+         "source": "email",
+         "to": "Saibi, Eric"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/saibi-e/sent_items/9.",
+   "hops": [
+      {
+         "from": "eric.saibi@enron.com",
+         "line": 4,
+         "rawfrom": "eric.saibi@enron.com\r\n",
+         "source": "valid",
+         "to": "mebarham@duke-energy.com"
+      },
+      {
+         "from": "esaibi@houston.rr.com",
+         "line": 23,
+         "rawfrom": "\t\"Eric Saibi\" <esaibi@houston.rr.com>@ENRON  \n",
+         "source": "email",
+         "to": "Saibi, Eric"
+      },
+      {
+         "from": "mebarham@duke-energy.com",
+         "line": 29,
+         "rawfrom": "\"Michael Barham\" <MEBarham@duke-energy.com>\n",
+         "source": "email",
+         "to": "<esaibi@houston.rr.com>"
+      },
+      {
+         "from": "mebarham@duke-energy.com",
+         "line": 69,
+         "rawfrom": "<mebarham@duke-energy.com>\n",
+         "source": "email",
+         "to": "<esaibi@houston.rr.com>"
+      }
+   ],
+   "skipped": 1
+}
+]

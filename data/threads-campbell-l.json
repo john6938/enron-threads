@@ -1,0 +1,2864 @@
+[
+{
+   "file": "/home/jb/maildir/campbell-l/redrock_mainline_expansion/32.",
+   "hops": [
+      {
+         "from": "spatti@ensr.com",
+         "line": 4,
+         "rawfrom": "spatti@ensr.com\r\n",
+         "source": "valid",
+         "to": "larry.campbell@enron.com"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 43,
+         "rawfrom": "Larry.Campbell@enron.com [mailto:Larry.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "Patti, Scott"
+      },
+      {
+         "from": "spatti@ensr.com",
+         "line": 59,
+         "rawfrom": "\"Patti, Scott\" <SPatti@ensr.com> on 08/31/2001 02:11:17 PM\n",
+         "source": "email",
+         "to": "\"'Larry.Campbell@enron.com'\" <Larry.Campbell@enron.com>,"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 92,
+         "rawfrom": "Larry.Campbell@enron.com [mailto:Larry.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "John.Shafer@enron.com"
+      },
+      {
+         "from": "thackett@ensr.com",
+         "line": 163,
+         "rawfrom": "THackett@ENSR.com",
+         "source": "valid",
+         "to": "\"Larry Campbell (E-mail)\" <Larry.Campbell@ENRON.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/redrock_mainline_expansion/69.",
+   "hops": [
+      {
+         "from": "byron.rance@enron.com",
+         "line": 4,
+         "rawfrom": "byron.rance@enron.com\r\n",
+         "source": "valid",
+         "to": "larry.campbell@enron.com"
+      },
+      {
+         "from": "rmcdowell@altorfer.com",
+         "line": 22,
+         "rawfrom": " Ralph McDowell <RMcdowell@Altorfer.com>@ENRON  \n",
+         "source": "email",
+         "to": "Rance, Byron"
+      },
+      {
+         "from": "byron.rance@enron.com",
+         "line": 34,
+         "rawfrom": "Byron.Rance@enron.com [mailto:Byron.Rance@enron.com]\n",
+         "source": "email",
+         "to": "RMcdowell@Altorfer.com"
+      },
+      {
+         "from": "rmcdowell@altorfer.com",
+         "line": 46,
+         "rawfrom": "  Ralph McDowell <RMcdowell@Altorfer.com>@ENRON\n",
+         "source": "email",
+         "to": "Rance, Byron"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/redrock_mainline_expansion/42.",
+   "hops": [
+      {
+         "from": "spatti@ensr.com",
+         "line": 4,
+         "rawfrom": "spatti@ensr.com\r\n",
+         "source": "valid",
+         "to": "larry.campbell@enron.com"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 72,
+         "rawfrom": "Larry.Campbell@enron.com [mailto:Larry.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "Patti, Scott"
+      },
+      {
+         "from": "spatti@ensr.com",
+         "line": 88,
+         "rawfrom": "\"Patti, Scott\" <SPatti@ensr.com> on 08/31/2001 02:11:17 PM\n",
+         "source": "email",
+         "to": "\"'Larry.Campbell@enron.com'\" <Larry.Campbell@enron.com>,"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 121,
+         "rawfrom": "Larry.Campbell@enron.com [mailto:Larry.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "John.Shafer@enron.com"
+      },
+      {
+         "from": "thackett@ensr.com",
+         "line": 192,
+         "rawfrom": "THackett@ENSR.com",
+         "source": "valid",
+         "to": "\"Larry Campbell (E-mail)\" <Larry.Campbell@ENRON.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/redrock_mainline_expansion/47.",
+   "hops": [
+      {
+         "from": "spatti@ensr.com",
+         "line": 4,
+         "rawfrom": "spatti@ensr.com\r\n",
+         "source": "valid",
+         "to": "larry.campbell@enron.com"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 38,
+         "rawfrom": "Larry.Campbell@enron.com [mailto:Larry.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "Patti, Scott"
+      },
+      {
+         "from": "spatti@ensr.com",
+         "line": 54,
+         "rawfrom": "\"Patti, Scott\" <SPatti@ensr.com> on 09/26/2001 08:31:04 AM\n",
+         "source": "email",
+         "to": "\"'Larry.Campbell@enron.com'\" <Larry.Campbell@enron.com>"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 76,
+         "rawfrom": "Larry.Campbell@enron.com [mailto:Larry.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "Patti, Scott"
+      },
+      {
+         "from": "spatti@ensr.com",
+         "line": 91,
+         "rawfrom": "\"Patti, Scott\" <SPatti@ensr.com> on 09/25/2001 08:35:35 PM\n",
+         "source": "email",
+         "to": "\"'Shafer, John'\" <John.Shafer@ENRON.com>, \"'Cebryk, Doug'\""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/inbox/548.",
+   "hops": [
+      {
+         "from": "an1229@hotmail.com",
+         "line": 4,
+         "rawfrom": "an1229@hotmail.com\r\n",
+         "source": "valid",
+         "to": "alicethuvan@hotmail.com, amy_yueh@valic.com, ayueh@hotmail.com,"
+      },
+      {
+         "from": "ala@hargerhowe.com",
+         "line": 25,
+         "rawfrom": "An La <ala@hargerhowe.com>\n",
+         "source": "email",
+         "to": "an1229@hotmail.com"
+      },
+      {
+         "from": "nicole_la@enron.net",
+         "line": 34,
+         "rawfrom": "\"La, Nicole\" <Nicole_La@ENRON.net>\n",
+         "source": "email",
+         "to": "<ala@hargerhowe.com>, \"Quoc La (E-mail)\" <cla@houston.rr.com>"
+      },
+      {
+         "from": "actran@aol.com",
+         "line": 44,
+         "rawfrom": "ACTRAN@aol.com [mailto:ACTRAN@aol.com]\n",
+         "source": "email",
+         "to": "tootxie@aol.com; La, Nicole; tania_la@hotmail.com; dlamrdh@ev1.net;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/inbox/820.",
+   "hops": [
+      {
+         "from": "chi325@hotmail.com",
+         "line": 4,
+         "rawfrom": "chi325@hotmail.com\r\n",
+         "source": "valid",
+         "to": "bobaymon@aol.com, julsvu@hotmail.com, kimv@palacios.k12.tx.us,"
+      },
+      {
+         "from": "thai1973@yahoo.com",
+         "line": 38,
+         "rawfrom": "Ryan Thai <thai1973@yahoo.com>\n",
+         "source": "email",
+         "to": "Ronica Ellini <ronica_ellini@hotmail.com>,        Fred Ermac <fredermac@hotmail.com>,        Anabel Gonzales <anabelgh79@hotmail.com>,        Mile High <hoamai75@hotmail.com>, Son Hoang <lastfandango@hotmail.com>,        Trang Le <trang@mylinuxisp.com>, Danielle Lu <danielle.lu@dynegy.com>,        Shane Manning <everaldmanning@netscape.net>,        Dzung Nguyen <thuy_dzung@hotmail.com>,        Linh Nguyen <ltnguyen2000@hotmail.com>,        Mai Nguyen <mtn9595@medicine.tamu.edu>,        Jennifer Palmer <remlapjl@hotmail.com>,        Amish M Patel <amishmpatel@hotmail.com>, Tommy Pham <vusta@aol.com>,        Archna Vajpayee <archnavajpayee@hotmail.com>"
+      },
+      {
+         "from": "vershayadav@hotmail.com",
+         "line": 58,
+         "rawfrom": "\"Versha Yadav\" <vershayadav@hotmail.com>\n",
+         "source": "email",
+         "to": "ami_parikh@hotmail.com, nishapherwani@hotmail.com, brinamathew@hotmail.com, cherylgf@hotmail.com, nisha77@hotmail.com, lhuynhle@hotmail.com, anu@pdq.net, badalvyas@hotmail.com, sebyuk@hotmail.com, jcm24@drexel.edu, kimrkam@hotmail.com, MYadav@sph.uth.tmc.edu, micki_nguyen@hotmail.com, monicabajaj@hotmail.com, pperales@Bayou.UH.EDU, reena.shah@chase.com, rosemarynguyen@hotmail.com, roshini72@hotmail.com, thai1973@yahoo.com, sashah@utmb.edu, suemyster@hotmail.com, tmle@bayou.uh.edu"
+      },
+      {
+         "from": "ryadav@mail.mdanderson.org",
+         "line": 71,
+         "rawfrom": "ryadav@mail.mdanderson.org\n",
+         "source": "valid",
+         "to": "fsiddi@lsuhsc.edu, jimmy@mohsin.com, msraju@aol.com,"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/inbox/1234.",
+   "hops": [
+      {
+         "from": "casamcminnstfe@email.msn.com",
+         "line": 4,
+         "rawfrom": "casamcminnstfe@email.msn.com\r\n",
+         "source": "valid",
+         "to": "mcminn.t.l.@enron.com, pooley.kim@enron.com, heil.gary@enron.com,"
+      },
+      {
+         "from": "fred.buchanan@netxv.net",
+         "line": 56,
+         "rawfrom": "Fred Buchanan [mailto:fred.buchanan@netxv.net]\n",
+         "source": "email",
+         "to": "Russell; REX; Neal; Mom; mob; Me; Mandy; Karl; Gilbert; Eddie; Earl; Drew; David; DAD; Brandon Gilliland; Bawcom"
+      },
+      {
+         "from": "amy.davenport@netxv.net",
+         "line": 64,
+         "rawfrom": "Amy Davenport [ma ilto:amy.davenport@netxv.net]\n",
+         "source": "email",
+         "to": "Jay Dukes; Sharon Creek; Sarah Wade; Nancy Jimenez; Nancy Brockman; Mary Perez; Martha Perez; Kathy Jones; Jimalee Dutton; Ginger Everett; Darlette Bloodworth; Cindy Fields; Cathy Parks; Catherine Healy; Brenda Kearney; Becky York; Kim Cole; Tressa Esparza; Tracey Myers; Toni Haydon; Thomas Hanson; Thomas Bedwell; Tecka Mobley; Shane Mobley; Sandra Gonzalez; Sandi Espinosa; Ron Nicholas; Rita Hale; Pegg y Harlan; Palmira Sanchez; Nelwyn Churchill; Molly Morriss; Michael Kissire; Matthew Young; Marilyn Wood; Mari Sanchez; Kristin Keel; Kathy Marshall; Kathy Lewellen; John Creek; Jerrilyn Ward; Jason Herring; Jackie Polocek; Fred Buchanan; Eddie Favila; Drew Cox; Doug Bawcom; Donna Benson; Diann Keller; Cody Eoff; Christy Bell; Cheryl Lock; Chad Russell; Ada Castilleja"
+      },
+      {
+         "from": "jay.dukes@netxv.net",
+         "line": 72,
+         "rawfrom": "Jay Dukes [mailto:jay.dukes@netxv.net]\n",
+         "source": "email",
+         "to": "Sharon Creek; Sarah Wade; Nancy Jimenez; Nancy Brockman; Mary Perez; Martha Perez; Kathy Jones; Jimalee Dutton; Ginger Everett; Darlette Bloodworth; Cindy Fields; Cathy Parks; Catherine Healy; Brenda Kearney; Becky York; Kim Cole; Tressa Esparza; Tracey Myers; Toni Haydo n; Thomas Hanson; Thomas Bedwell; Tecka Mobley; Shane Mobley; Sandra Gonzalez; Sandi Espinosa; Ron Nicholas; Rita Hale; Peggy Harlan; Palmira Sanchez; Nelwyn Churchill; Molly Morriss; Michael Kissire; Matthew Young; Marilyn Wood; Mari Sanchez; Kristin Keel; Kathy Marshall; Kathy Lewellen; John Creek; Jerrilyn Ward; Jason Herring; Jackie Polocek; Fred Buchanan; Eddie Favila; Drew Cox; Doug Bawcom; Donna Benson; Diann Keller; Cody Eoff; Christy Bell; Cheryl Lock; Chad Russell; Amy Davenport; Ada Castilleja"
+      },
+      {
+         "from": "ronald.nicholas@netxv.net",
+         "line": 80,
+         "rawfrom": "Ronald Nicholas [mailto:ronald.nicholas@netxv.net]\n",
+         "source": "email",
+         "to": "Ada Castilleja; Amy Davenport; Brant Myers; Chad Russell; Cherrie Metzner; Cheryl Lock; Christy Bell; Clyde Dukes; Cody Eoff; Craig Hudson; D anny Hardin; Diane Jacoby; Diann Keller; Don Thompson; Donna Benson; Doug Bawcom"
+      },
+      {
+         "from": "ben.solis@netxv.net",
+         "line": 88,
+         "rawfrom": "Ben Solis [mailto:ben.solis@netxv.net]\n",
+         "source": "email",
+         "to": "Simon Franco; Sharon Creek; Sandi Espinosa; Sandi Ainsworth; Ron Nicholas; Pablo Ramos; Nelwyn Churchill; Monica Samaniego; Matthew Young; Marilyn Wood; Mari Sanchez; Lucinda Morales; Leezawish@aol. com; Kimberly Gonzales; Kay Friess; June Williams; Julie Martin; Jos? Flores; Irene Casillas; Igsolis@Socorro. K12. Tx. Us; Elias Solis; Eesparza@Socorro. K12. Tx. Us; Delia Samaniego; CANDY DAVIS; Betty Stephen; Christy Rodriguez; Lori Soli s; Freddy Solis; Elfida Esparza; Joe Solis"
+      },
+      {
+         "from": "candy.davis@netxv.net",
+         "line": 96,
+         "rawfrom": "Candy Davis [mailto:candy.davis@netxv.net]\n",
+         "source": "email",
+         "to": "Ben Solis; Carla Cooley; Joetta Friess; Loyce Gamel"
+      },
+      {
+         "from": "denice.arispe@netxv.net",
+         "line": 104,
+         "rawfrom": "Denice Arispe [mailto:denice.arispe@netxv.net]\n",
+         "source": "email",
+         "to": "Trevina; Sandi Ainsworth; Rachel Aguero; Norma Vasquez; Mindy Silva; Melinda Valkonen; Marlyn Young; Maria Mendez; Kay Friess; Kate Jennings; Julie Martin; Julie Gamel; Joanne Dalton; Joetta Friess; Jeannette Thompson; Janvarga@Gosanantonio.Com; Glyn ndell Glasscock; Garza, Sandy; Ene Perez; Elsa Jimenez; Drew Cox; Delia Samaniego; Christine Gaytan; Chasey Duncan; Carol Love; Candy Davis; Brandon Duncan; Annie Haynes; ana"
+      },
+      {
+         "from": "derese.adams@netxv.net",
+         "line": 116,
+         "rawfrom": "Derese Adams [mailto:derese.adams@netxv.net]\n",
+         "source": "email",
+         "to": "rocksprings-all@netxv.net"
+      },
+      {
+         "from": "jhaustein@cacmustangs.org",
+         "line": 132,
+         "rawfrom": "JoAnn Haustein [mailto:jhaustein@cacmustangs.org]\n",
+         "source": "email",
+         "to": "Jenny Moses; Jeff Daniel; Jeanette Palmer; Jason Gates; Jan Penrod; James Ortiz; Hal Gates; Ellen Samples; Egena Sewell; Eddie Koehler; Eddie Carson; Drew Spickes; Donna Armstrong; Debbie Kelly; Cindy Sitler; Carolyn Josephson; Ann Ingram; Andrew Brady; Amy Parks; Amy Zini; Alan Nesbitt"
+      },
+      {
+         "from": "heidi.hoggatt@acxiom.com",
+         "line": 140,
+         "rawfrom": "Hoggatt Heidi - hhogga [mailto:Heidi.Hoggatt@acxiom.com]\n",
+         "source": "email",
+         "to": "Payton Sandy - spayto; Jones Carolyn - cjones; JoAnn Haustein (E-mail); Parkinson Betsy - bparki; Don and Mindy Barranco (E-mail); JoAnn Haustein (E-mail 2); Joey and Becky Payne (E-mail); Lance and Lori Gaither (E-mail)"
+      },
+      {
+         "from": "michellemagee@arkansastrucking.com",
+         "line": 148,
+         "rawfrom": "michellemagee@arkansastrucking.com [mailto:michellemagee@arkansastrucking.com]\n",
+         "source": "email",
+         "to": "Hoggatt Heidi - hhogga"
+      },
+      {
+         "from": "lindaj@standardbusiness.com",
+         "line": 167,
+         "rawfrom": "LINDA JENKINS [mailto:LINDAJ@STANDARDBUSINESS.COM]\n",
+         "source": "email",
+         "to": "Steve; Sherri; Sheila; Richard Gulley; Mark R; LINDA; Kelly; Karen; John S; John G; EMILY; David Gulley; CHRIS; Bryan; BETTY; Betty"
+      },
+      {
+         "from": "sherrib@standardbusiness.com",
+         "line": 177,
+         "rawfrom": "Sherrib [mailto:SHERRIB@STANDARDBUSINESS.COM]\n",
+         "source": "email",
+         "to": "STEVE MILAM; SHEILA SMART; SHEILA HUCKABY; NELLY; LORI KEYWORTH; LINDA JENKINS; KELLY; JOHN GARRISON; JACK DAILEY; HOLLY; DANNY BRIGGS JR.; DANNY BRIGGS; CHRIS SIMMONS; CELINE LOVELL; BRYAN SMART; BERNIE HENDERSON; ANGELA TROTTER"
+      },
+      {
+         "from": "sheilah@standardbusiness.com",
+         "line": 185,
+         "rawfrom": "Sheila Huckaby [mailto:sheilah@standardbusiness.com]\n",
+         "source": "email",
+         "to": "Emily Flaxman (E-mail); John Garrison (E-mail); LINDA JENKINS (E-mail); Molly Williams (E-mail); Robin J. Miller (E-mail); Shelley Youngblood (E-mai l); Steve Milam (E-mail); dickinsonshawnm@uams.edu; kim.seelinger@tenethealth.com; kellyz@standardbusiness.com; tenglish@bryant.k12.ar.us; chriss@standardbusiness.com; sherrib@standardbusiness.com; marksbs@hotmail.com; sheilasbs@hotmail.com"
+      },
+      {
+         "from": "dlc@garlandcounty.org",
+         "line": 193,
+         "rawfrom": "Debbie Cozart [mailto:dlc@garlandcounty.org]\n",
+         "source": "email",
+         "to": "Undisclosed-Recipient:;"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/inbox/226.",
+   "hops": [
+      {
+         "from": "chi325@hotmail.com",
+         "line": 4,
+         "rawfrom": "chi325@hotmail.com\r\n",
+         "source": "valid",
+         "to": "bobaymon@aol.com, jtsandy@hotmail.com, julsvu@hotmail.com, lomani26@cs.com,"
+      },
+      {
+         "from": "vusta@aol.com",
+         "line": 30,
+         "rawfrom": "Vusta@aol.com\n",
+         "source": "valid",
+         "to": "hoangbq@yahoo.com, tang595752@aol.com, rorordh1@yahoo.com,"
+      },
+      {
+         "from": "yannee@msn.com",
+         "line": 53,
+         "rawfrom": "\"phung tran\" <yannee@msn.com>\n",
+         "source": "email",
+         "to": "\"Crystal\" <CrystalNMuse@aol.com>,        \"jessica Williams\" <jessicaonfiyah@aol.com>,        \"nhung pham\" <KaliBRCW@aol.com>,        \"lieu nguyen\" <nguyen_lieu@hotmail.com>,        \"minh le\" <minniele@yahoo.com>, \"Anh Vu\" <Vusta@aol.com>"
+      },
+      {
+         "from": "ttran@subqinc.com",
+         "line": 81,
+         "rawfrom": "Tin Tran [mailto:ttran@subqinc.com]  \n",
+         "source": "email",
+         "to": "StevenCEM Cates; Pat Brady; Nha Trang Nguyen; Mike Murphy; Megan"
+      },
+      {
+         "from": "lan.nguyen@uspto.gov",
+         "line": 91,
+         "rawfrom": "Lan.Nguyen@USPTO.GOV [mailto:Lan.Nguyen@USPTO.GOV]  \n",
+         "source": "email",
+         "to": "Ailien_Tran@capgroup.com; ttran@subqinc.com; Xuanthinh@aol.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/inbox/113.",
+   "hops": [
+      {
+         "from": "royjshanker@worldnet.att.net",
+         "line": 4,
+         "rawfrom": "royjshanker@worldnet.att.net\r\n",
+         "source": "valid",
+         "to": "market_relations@nyiso.com, tech.list@enron.com,"
+      },
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 32,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\n",
+         "source": "valid",
+         "to": "Tech Team EMail List,"
+      },
+      {
+         "from": "mdy@slater-consulting.com",
+         "line": 41,
+         "rawfrom": "  Mark Younger [mailto:mdy@slater-consulting.com]\n",
+         "source": "email",
+         "to": "dave_clarke@NavigantConsulting.com; BKranz@nyiso.com"
+      },
+      {
+         "from": "dave_clarke@navigantconsulting.com",
+         "line": 61,
+         "rawfrom": "  dave_clarke@NavigantConsulting.com\n",
+         "source": "valid",
+         "to": "BKranz@nyiso.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/inbox/112.",
+   "hops": [
+      {
+         "from": "royjshanker@worldnet.att.net",
+         "line": 4,
+         "rawfrom": "royjshanker@worldnet.att.net\r\n",
+         "source": "valid",
+         "to": "market_relations@nyiso.com, tech.list@enron.com,"
+      },
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 33,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\n",
+         "source": "valid",
+         "to": "Tech Team EMail List,"
+      },
+      {
+         "from": "michael.jacobs@attglobal.net",
+         "line": 42,
+         "rawfrom": "  Michael Jacobs [mailto:michael.jacobs@attglobal.net]\n",
+         "source": "email",
+         "to": "dave_clarke@NavigantConsulting.com; BKranz@nyiso.com"
+      },
+      {
+         "from": "dave_clarke@navigantconsulting.com",
+         "line": 66,
+         "rawfrom": "  dave_clarke@NavigantConsulting.com\n",
+         "source": "valid",
+         "to": "BKranz@nyiso.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/all_documents/1515.",
+   "hops": [
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 4,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\r\n",
+         "source": "valid",
+         "to": "market_relations@nyiso.com, nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "william.palazzo@nypa.gov",
+         "line": 34,
+         "rawfrom": "Palazzo, William [mailto:William.Palazzo@nypa.gov]\n",
+         "source": "email",
+         "to": "'market_relations@nyiso.com'; nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "royjshanker@worldnet.att.net",
+         "line": 50,
+         "rawfrom": "Roy J. Shanker [mailto:royjshanker@worldnet.att.net]\n",
+         "source": "email",
+         "to": "market_relations@nyiso.com; nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 90,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\n",
+         "source": "valid",
+         "to": "'nyiso_tech_exchange@global2000.net'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/all_documents/313.",
+   "hops": [
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 4,
+         "rawfrom": "larry.campbell@enron.com\r\n",
+         "source": "valid",
+         "to": "dstewart@tnrcc.state.tx.us"
+      },
+      {
+         "from": "dstewart@tnrcc.state.tx.us",
+         "line": 39,
+         "rawfrom": "Duncan Stewart [SMTP:DSTEWART@tnrcc.state.tx.us]\n",
+         "source": "email",
+         "to": "jfields@argentinc.com"
+      },
+      {
+         "from": "dstewart@tnrcc.state.tx.us",
+         "line": 60,
+         "rawfrom": "Duncan Stewart [SMTP:DSTEWART@tnrcc.state.tx.us]\n",
+         "source": "email",
+         "to": "jfields@argentinc.com"
+      },
+      {
+         "from": "dstewart@tnrcc.state.tx.us",
+         "line": 76,
+         "rawfrom": "Duncan Stewart [SMTP:DSTEWART@tnrcc.state.tx.us]\n",
+         "source": "email",
+         "to": "jfields@argentinc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/all_documents/567.",
+   "hops": [
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 4,
+         "rawfrom": "larry.campbell@enron.com\r\n",
+         "source": "valid",
+         "to": "rking@hess.com"
+      },
+      {
+         "from": "rking@hess.com",
+         "line": 18,
+         "rawfrom": "RKing@Hess.com",
+         "source": "valid",
+         "to": "\"'Larry.Campbell@enron.com'\" <Larry.Campbell@enron.com>"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 40,
+         "rawfrom": "Larry.Campbell@enron.com [SMTP:Larry.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "RKing@Hess.com"
+      },
+      {
+         "from": "bobbymwilson@hotmail.com",
+         "line": 77,
+         "rawfrom": "bobby wilson [mailto:bobbymwilson@hotmail.com]\n",
+         "source": "email",
+         "to": "rmbyrd@plateautel.net; sfrank@mhc.unm.edu; SLocklin@mhc.unm.edu;"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/all_documents/809.",
+   "hops": [
+      {
+         "from": "richard.hrabal@enron.com",
+         "line": 4,
+         "rawfrom": "richard.hrabal@enron.com\r\n",
+         "source": "valid",
+         "to": "larry.campbell@enron.com"
+      },
+      {
+         "from": "rlindro@entergy.com",
+         "line": 42,
+         "rawfrom": "\"Lindroos, Rob\" <RLindro@entergy.com>\n",
+         "source": "email",
+         "to": "\"'barnes@mailstart.com'\" <barnes@mailstart.com>,"
+      },
+      {
+         "from": "chamroeunk@acespower.com",
+         "line": 75,
+         "rawfrom": "Chamroeun Kong [mailto:ChamroeunK@acespower.com]\n",
+         "source": "email",
+         "to": "Black Cambodian (E-mail); Cracker Ass Cracka (E-mail); Josh Licht"
+      },
+      {
+         "from": "lgrozovsky@intermedia.com",
+         "line": 85,
+         "rawfrom": "Grozovsky, Lilia [mailto:LGrozovsky@intermedia.com]\n",
+         "source": "email",
+         "to": "Hannah, Chad M.; Sharpe, Ryan C.; Paige, Amy M.;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/all_documents/427.",
+   "hops": [
+      {
+         "from": "michael@pnge.psu.edu",
+         "line": 4,
+         "rawfrom": "michael@pnge.psu.edu\r\n",
+         "source": "valid",
+         "to": "larry.campbell@enron.com"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 63,
+         "rawfrom": "Larry.Campbell@enron.com [mailto:Larry.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "Michael Adewumi"
+      },
+      {
+         "from": "michael@pnge.psu.edu",
+         "line": 84,
+         "rawfrom": "Michael Adewumi <michael@pnge.psu.edu> on 05/24/2001 06:10:20 AM\n",
+         "source": "email",
+         "to": "\"'Larry.Campbell@enron.com'\" <Larry.Campbell@enron.com>"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 116,
+         "rawfrom": "Larry.Campbell@enron.com [mailto:Larry.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "Michael Adewumi"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/all_documents/559.",
+   "hops": [
+      {
+         "from": "spatti@ensr.com",
+         "line": 4,
+         "rawfrom": "spatti@ensr.com\r\n",
+         "source": "valid",
+         "to": "larry.campbell@enron.com"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 38,
+         "rawfrom": "Larry.Campbell@enron.com [mailto:Larry.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "Patti, Scott"
+      },
+      {
+         "from": "spatti@ensr.com",
+         "line": 54,
+         "rawfrom": "\"Patti, Scott\" <SPatti@ensr.com> on 09/26/2001 08:31:04 AM\n",
+         "source": "email",
+         "to": "\"'Larry.Campbell@enron.com'\" <Larry.Campbell@enron.com>"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 76,
+         "rawfrom": "Larry.Campbell@enron.com [mailto:Larry.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "Patti, Scott"
+      },
+      {
+         "from": "spatti@ensr.com",
+         "line": 91,
+         "rawfrom": "\"Patti, Scott\" <SPatti@ensr.com> on 09/25/2001 08:35:35 PM\n",
+         "source": "email",
+         "to": "\"'Shafer, John'\" <John.Shafer@ENRON.com>, \"'Cebryk, Doug'\""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/all_documents/1416.",
+   "hops": [
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 4,
+         "rawfrom": "larry.campbell@enron.com\r\n",
+         "source": "valid",
+         "to": "j.kinser@enron.com"
+      },
+      {
+         "from": "russballato@hotmail.com",
+         "line": 46,
+         "rawfrom": "\"Russell Ballato\" <russballato@hotmail.com>\n",
+         "source": "email",
+         "to": "dbaughm@yahoo.com, mchedid@wpo.it.luc.edu, rrcs_98@yahoo.com,"
+      },
+      {
+         "from": "true2@hotmail.com",
+         "line": 61,
+         "rawfrom": "\"john true\" <true2@hotmail.com>\n",
+         "source": "email",
+         "to": "Brett_Condron@putnaminv.com, bbrown@fordham.edu,"
+      },
+      {
+         "from": "jbushnell@fastdial.net",
+         "line": 77,
+         "rawfrom": "jbushnell@fastdial.net\n",
+         "source": "valid",
+         "to": "\"'AJCot1@aol.com'\" <AJCot1@aol.com>,       \"'degan@iptransit.net'\""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/all_documents/1521.",
+   "hops": [
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 4,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\r\n",
+         "source": "valid",
+         "to": "market_relations@nyiso.com, nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 40,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\n",
+         "source": "valid",
+         "to": "'market_relations@nyiso.com'; nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "royjshanker@worldnet.att.net",
+         "line": 55,
+         "rawfrom": "Roy J. Shanker [mailto:royjshanker@worldnet.att.net]\n",
+         "source": "email",
+         "to": "market_relations@nyiso.com; nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 95,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\n",
+         "source": "valid",
+         "to": "'nyiso_tech_exchange@global2000.net'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/all_documents/1740.",
+   "hops": [
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 4,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\r\n",
+         "source": "valid",
+         "to": "market_relations@nyiso.com, nyiso_dltf@lists.nyiso.com, dewitt@nycap.rr.com,"
+      },
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 37,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\n",
+         "source": "valid",
+         "to": "PRLWG; 'Larry DeWitt: PACE'; jdprunkl"
+      },
+      {
+         "from": "owner-nyiso_dltf@lists.nyiso.com",
+         "line": 55,
+         "rawfrom": "  owner-nyiso_dltf@lists.nyiso.com\n",
+         "source": "valid",
+         "to": "'Larry DeWitt: PACE'; PRLWG"
+      },
+      {
+         "from": "dewitt@nycap.rr.com",
+         "line": 106,
+         "rawfrom": "  Larry DeWitt: PACE [SMTP:dewitt@nycap.rr.com]\n",
+         "source": "email",
+         "to": "PRLWG"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/all_documents/1702.",
+   "hops": [
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 4,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\r\n",
+         "source": "valid",
+         "to": "market_relations@nyiso.com, nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 44,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\n",
+         "source": "valid",
+         "to": "market_relations@nyiso.com; Tech Team EMail List,"
+      },
+      {
+         "from": "mdy@slater-consulting.com",
+         "line": 117,
+         "rawfrom": "\"Mark Younger\" <mdy@slater-consulting.com>\n",
+         "source": "email",
+         "to": "\"Tech Team EMail List,\" <nyiso_tech_exchange@global2000.net>"
+      },
+      {
+         "from": "kkranz@nyiso.com",
+         "line": 288,
+         "rawfrom": "kkranz@nyiso.com [mailto:kkranz@nyiso.com]\n",
+         "source": "email",
+         "to": "marketrelations@nyiso.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/all_documents/586.",
+   "hops": [
+      {
+         "from": "byron.rance@enron.com",
+         "line": 4,
+         "rawfrom": "byron.rance@enron.com\r\n",
+         "source": "valid",
+         "to": "larry.campbell@enron.com"
+      },
+      {
+         "from": "rmcdowell@altorfer.com",
+         "line": 22,
+         "rawfrom": " Ralph McDowell <RMcdowell@Altorfer.com>@ENRON  \n",
+         "source": "email",
+         "to": "Rance, Byron"
+      },
+      {
+         "from": "byron.rance@enron.com",
+         "line": 34,
+         "rawfrom": "Byron.Rance@enron.com [mailto:Byron.Rance@enron.com]\n",
+         "source": "email",
+         "to": "RMcdowell@Altorfer.com"
+      },
+      {
+         "from": "rmcdowell@altorfer.com",
+         "line": 46,
+         "rawfrom": "  Ralph McDowell <RMcdowell@Altorfer.com>@ENRON\n",
+         "source": "email",
+         "to": "Rance, Byron"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/all_documents/946.",
+   "hops": [
+      {
+         "from": "chi325@hotmail.com",
+         "line": 4,
+         "rawfrom": "chi325@hotmail.com\r\n",
+         "source": "valid",
+         "to": "ansalon@houston.rr.com, bryan.tran@alcoa.com, dudley@ceimail.com,"
+      },
+      {
+         "from": "mluu219@hotmail.com",
+         "line": 25,
+         "rawfrom": "\"michelle luu nguyen\" <mluu219@hotmail.com>\n",
+         "source": "email",
+         "to": "brittanyhoang_2000@yahoo.com, bsmith219@yahoo.com,"
+      },
+      {
+         "from": "cik18@hotmail.com",
+         "line": 39,
+         "rawfrom": "\"Carolyn\" <cik18@hotmail.com>\n",
+         "source": "email",
+         "to": "\"Warren Cabanos\" <war521@hotmail.com>, \"Thuy Nguyen\""
+      },
+      {
+         "from": "jilygrace.vargas@abnamro.com",
+         "line": 50,
+         "rawfrom": "<jilygrace.vargas@abnamro.com>\n",
+         "source": "email",
+         "to": "<flipchic@tamu.edu>; <frc521@pdq.net>;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/all_documents/707.",
+   "hops": [
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 4,
+         "rawfrom": "larry.campbell@enron.com\r\n",
+         "source": "valid",
+         "to": "tim.carter@enron.com, kayne.coulter@enron.com, matthew.fleming@enron.com,"
+      },
+      {
+         "from": "thunguyen2@hotmail.com",
+         "line": 39,
+         "rawfrom": "\"thu nguyen\" <thunguyen2@hotmail.com>\n",
+         "source": "email",
+         "to": "an1229@hotmail.com, rickdrina@aol.com, lt76@altavista.com,"
+      },
+      {
+         "from": "mindy515@hotmail.com",
+         "line": 50,
+         "rawfrom": "\"Mindy Nguyen\" <mindy515@hotmail.com>\n",
+         "source": "email",
+         "to": "bigheadanthony@hotmail.com, Debra_Lee@Manulife-Venture.com,"
+      },
+      {
+         "from": "d12eamgrl@aol.com",
+         "line": 60,
+         "rawfrom": "D12eamGRL@aol.com\n",
+         "source": "valid",
+         "to": "bighead-antoine@communityconnect.com, xjkim@hotmail.com,"
+      },
+      {
+         "from": "cmn123@cs.com",
+         "line": 77,
+         "rawfrom": "CMN123@cs.com\n",
+         "source": "valid",
+         "to": "juanaguinaga@hotmail.com, DNA7037@gateway.net, comptont@slu.edu,"
+      },
+      {
+         "from": "baylor@texas.net",
+         "line": 99,
+         "rawfrom": "\"J. Devin Stewart\" <baylor@texas.net>\n",
+         "source": "email",
+         "to": "\"Chau Nguyen\" <CMN123@cs.com>, \"Carlos Verver\" <CRverver@aol.com>,"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/all_documents/1417.",
+   "hops": [
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 4,
+         "rawfrom": "larry.campbell@enron.com\r\n",
+         "source": "valid",
+         "to": "robertmun@hotmail.com"
+      },
+      {
+         "from": "russballato@hotmail.com",
+         "line": 46,
+         "rawfrom": "\"Russell Ballato\" <russballato@hotmail.com>\n",
+         "source": "email",
+         "to": "dbaughm@yahoo.com, mchedid@wpo.it.luc.edu, rrcs_98@yahoo.com,"
+      },
+      {
+         "from": "true2@hotmail.com",
+         "line": 61,
+         "rawfrom": "\"john true\" <true2@hotmail.com>\n",
+         "source": "email",
+         "to": "Brett_Condron@putnaminv.com, bbrown@fordham.edu,"
+      },
+      {
+         "from": "jbushnell@fastdial.net",
+         "line": 77,
+         "rawfrom": "jbushnell@fastdial.net\n",
+         "source": "valid",
+         "to": "\"'AJCot1@aol.com'\" <AJCot1@aol.com>,       \"'degan@iptransit.net'\""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/all_documents/314.",
+   "hops": [
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 4,
+         "rawfrom": "larry.campbell@enron.com\r\n",
+         "source": "valid",
+         "to": "dstewart@tnrcc.state.tx.us"
+      },
+      {
+         "from": "dstewart@tnrcc.state.tx.us",
+         "line": 39,
+         "rawfrom": "Duncan Stewart [SMTP:DSTEWART@tnrcc.state.tx.us]\n",
+         "source": "email",
+         "to": "jfields@argentinc.com"
+      },
+      {
+         "from": "dstewart@tnrcc.state.tx.us",
+         "line": 66,
+         "rawfrom": "Duncan Stewart [SMTP:DSTEWART@tnrcc.state.tx.us]\n",
+         "source": "email",
+         "to": "jfields@argentinc.com"
+      },
+      {
+         "from": "dstewart@tnrcc.state.tx.us",
+         "line": 87,
+         "rawfrom": "Duncan Stewart [SMTP:DSTEWART@tnrcc.state.tx.us]\n",
+         "source": "email",
+         "to": "jfields@argentinc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/all_documents/1542.",
+   "hops": [
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 4,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\r\n",
+         "source": "valid",
+         "to": "market_relations@nyiso.com, nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "tom.may@enron.com",
+         "line": 28,
+         "rawfrom": "<Tom.May@enron.com>\n",
+         "source": "email",
+         "to": "<nyiso_tech_exchange@global2000.net>"
+      },
+      {
+         "from": "market_relations@nyiso.com",
+         "line": 65,
+         "rawfrom": "market_relations@nyiso.com",
+         "source": "valid",
+         "to": "\"'market_relations@nyiso.com'\" <market_relations@nyiso.com>,"
+      },
+      {
+         "from": "william.palazzo@nypa.gov",
+         "line": 89,
+         "rawfrom": "Palazzo, William [mailto:William.Palazzo@nypa.gov]\n",
+         "source": "email",
+         "to": "'market_relations@nyiso.com'; nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "royjshanker@worldnet.att.net",
+         "line": 106,
+         "rawfrom": "Roy J. Shanker [mailto:royjshanker@worldnet.att.net]\n",
+         "source": "email",
+         "to": "market_relations@nyiso.com; nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 152,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\n",
+         "source": "valid",
+         "to": "'nyiso_tech_exchange@global2000.net'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/all_documents/1273.",
+   "hops": [
+      {
+         "from": "chi325@hotmail.com",
+         "line": 4,
+         "rawfrom": "chi325@hotmail.com\r\n",
+         "source": "valid",
+         "to": "ansalon@houston.rr.com, dudley@ceimail.com, s_trevino25@hotmail.com,"
+      },
+      {
+         "from": "mqdo@yahoo.com",
+         "line": 22,
+         "rawfrom": "michael do <mqdo@yahoo.com>\n",
+         "source": "email",
+         "to": "Amie Phillips <amiephillips@prodigy.net>,  Mark Schuck"
+      },
+      {
+         "from": "an1229@hotmail.com",
+         "line": 57,
+         "rawfrom": "\"An La\" <an1229@hotmail.com>\n",
+         "source": "email",
+         "to": "Amy_Yueh@valic.com, annamarie.la@marquette.edu, c_lam902@hotmail.com,"
+      },
+      {
+         "from": "catherinecao@cs.com",
+         "line": 75,
+         "rawfrom": "Catherinecao@cs.com\n",
+         "source": "valid",
+         "to": "Ckcao@aol.com, nkhong@ikon.com, an1229@hotmail.com,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/all_documents/528.",
+   "hops": [
+      {
+         "from": "spatti@ensr.com",
+         "line": 4,
+         "rawfrom": "spatti@ensr.com\r\n",
+         "source": "valid",
+         "to": "larry.campbell@enron.com"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 43,
+         "rawfrom": "Larry.Campbell@enron.com [mailto:Larry.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "Patti, Scott"
+      },
+      {
+         "from": "spatti@ensr.com",
+         "line": 59,
+         "rawfrom": "\"Patti, Scott\" <SPatti@ensr.com> on 08/31/2001 02:11:17 PM\n",
+         "source": "email",
+         "to": "\"'Larry.Campbell@enron.com'\" <Larry.Campbell@enron.com>,"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 92,
+         "rawfrom": "Larry.Campbell@enron.com [mailto:Larry.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "John.Shafer@enron.com"
+      },
+      {
+         "from": "thackett@ensr.com",
+         "line": 163,
+         "rawfrom": "THackett@ENSR.com",
+         "source": "valid",
+         "to": "\"Larry Campbell (E-mail)\" <Larry.Campbell@ENRON.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/all_documents/1522.",
+   "hops": [
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 4,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\r\n",
+         "source": "valid",
+         "to": "nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "william.palazzo@nypa.gov",
+         "line": 69,
+         "rawfrom": "Palazzo, William [mailto:William.Palazzo@nypa.gov]\n",
+         "source": "email",
+         "to": "'market_relations@nyiso.com'; nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "royjshanker@worldnet.att.net",
+         "line": 86,
+         "rawfrom": "Roy J. Shanker [mailto:royjshanker@worldnet.att.net]\n",
+         "source": "email",
+         "to": "market_relations@nyiso.com; nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 129,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\n",
+         "source": "valid",
+         "to": "'nyiso_tech_exchange@global2000.net'"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/all_documents/390.",
+   "hops": [
+      {
+         "from": "marc.phillips@enron.com",
+         "line": 4,
+         "rawfrom": "marc.phillips@enron.com\r\n",
+         "source": "valid",
+         "to": "ruth.jensen@enron.com, rick.loveless@enron.com, kyle.purvis@enron.com,"
+      },
+      {
+         "from": "cr1@ctw.com",
+         "line": 371,
+         "rawfrom": "Celina Romero [cr1@ctw.com]\n",
+         "source": "email",
+         "to": "kgolemon@bmoh.com; rjohnson@bmoh.com; khalid.muslih@coastalcorp.com;"
+      },
+      {
+         "from": "jlinvill@tnrcc.state.tx.us",
+         "line": 429,
+         "rawfrom": "Jim Linville [mailto:JLINVILL@tnrcc.state.tx.us]\n",
+         "source": "email",
+         "to": "cr1@ctw.com; james.cantrell@gt.pge.com"
+      },
+      {
+         "from": "cr1@ctw.com",
+         "line": 456,
+         "rawfrom": "Celina Romero [SMTP:cr1@ctw.com]\n",
+         "source": "email",
+         "to": "kgolemon@bmoh.com; khalid.muslih@coastalcorp.com; mphilli@enron.com;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/all_documents/504.",
+   "hops": [
+      {
+         "from": "billglushko@hotmail.com",
+         "line": 4,
+         "rawfrom": "billglushko@hotmail.com\r\n",
+         "source": "valid",
+         "to": "larry.campbell@enron.com"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 27,
+         "rawfrom": "Larry.Campbell@enron.com\n",
+         "source": "valid",
+         "to": "\"Bill Glushko\" <billglushko@hotmail.com>"
+      },
+      {
+         "from": "billglushko@hotmail.com",
+         "line": 40,
+         "rawfrom": "billglushko@hotmail.com",
+         "source": "valid",
+         "to": "Larry.Campbell@enron.com"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 56,
+         "rawfrom": "Larry.Campbell@enron.com\n",
+         "source": "valid",
+         "to": "billglushko@hotmail.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/all_documents/547.",
+   "hops": [
+      {
+         "from": "spatti@ensr.com",
+         "line": 4,
+         "rawfrom": "spatti@ensr.com\r\n",
+         "source": "valid",
+         "to": "larry.campbell@enron.com"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 72,
+         "rawfrom": "Larry.Campbell@enron.com [mailto:Larry.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "Patti, Scott"
+      },
+      {
+         "from": "spatti@ensr.com",
+         "line": 88,
+         "rawfrom": "\"Patti, Scott\" <SPatti@ensr.com> on 08/31/2001 02:11:17 PM\n",
+         "source": "email",
+         "to": "\"'Larry.Campbell@enron.com'\" <Larry.Campbell@enron.com>,"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 121,
+         "rawfrom": "Larry.Campbell@enron.com [mailto:Larry.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "John.Shafer@enron.com"
+      },
+      {
+         "from": "thackett@ensr.com",
+         "line": 192,
+         "rawfrom": "THackett@ENSR.com",
+         "source": "valid",
+         "to": "\"Larry Campbell (E-mail)\" <Larry.Campbell@ENRON.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/eott_midland/33.",
+   "hops": [
+      {
+         "from": "billglushko@hotmail.com",
+         "line": 4,
+         "rawfrom": "billglushko@hotmail.com\r\n",
+         "source": "valid",
+         "to": "larry.campbell@enron.com"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 27,
+         "rawfrom": "Larry.Campbell@enron.com\n",
+         "source": "valid",
+         "to": "\"Bill Glushko\" <billglushko@hotmail.com>"
+      },
+      {
+         "from": "billglushko@hotmail.com",
+         "line": 40,
+         "rawfrom": "billglushko@hotmail.com",
+         "source": "valid",
+         "to": "Larry.Campbell@enron.com"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 56,
+         "rawfrom": "Larry.Campbell@enron.com\n",
+         "source": "valid",
+         "to": "billglushko@hotmail.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/sent/96.",
+   "hops": [
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 4,
+         "rawfrom": "larry.campbell@enron.com\r\n",
+         "source": "valid",
+         "to": "dstewart@tnrcc.state.tx.us"
+      },
+      {
+         "from": "dstewart@tnrcc.state.tx.us",
+         "line": 39,
+         "rawfrom": "Duncan Stewart [SMTP:DSTEWART@tnrcc.state.tx.us]\n",
+         "source": "email",
+         "to": "jfields@argentinc.com"
+      },
+      {
+         "from": "dstewart@tnrcc.state.tx.us",
+         "line": 66,
+         "rawfrom": "Duncan Stewart [SMTP:DSTEWART@tnrcc.state.tx.us]\n",
+         "source": "email",
+         "to": "jfields@argentinc.com"
+      },
+      {
+         "from": "dstewart@tnrcc.state.tx.us",
+         "line": 87,
+         "rawfrom": "Duncan Stewart [SMTP:DSTEWART@tnrcc.state.tx.us]\n",
+         "source": "email",
+         "to": "jfields@argentinc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/sent/461.",
+   "hops": [
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 4,
+         "rawfrom": "larry.campbell@enron.com\r\n",
+         "source": "valid",
+         "to": "robertmun@hotmail.com"
+      },
+      {
+         "from": "russballato@hotmail.com",
+         "line": 46,
+         "rawfrom": "\"Russell Ballato\" <russballato@hotmail.com>\n",
+         "source": "email",
+         "to": "dbaughm@yahoo.com, mchedid@wpo.it.luc.edu, rrcs_98@yahoo.com,"
+      },
+      {
+         "from": "true2@hotmail.com",
+         "line": 61,
+         "rawfrom": "\"john true\" <true2@hotmail.com>\n",
+         "source": "email",
+         "to": "Brett_Condron@putnaminv.com, bbrown@fordham.edu,"
+      },
+      {
+         "from": "jbushnell@fastdial.net",
+         "line": 77,
+         "rawfrom": "jbushnell@fastdial.net\n",
+         "source": "valid",
+         "to": "\"'AJCot1@aol.com'\" <AJCot1@aol.com>,       \"'degan@iptransit.net'\""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/sent/193.",
+   "hops": [
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 4,
+         "rawfrom": "larry.campbell@enron.com\r\n",
+         "source": "valid",
+         "to": "rking@hess.com"
+      },
+      {
+         "from": "rking@hess.com",
+         "line": 18,
+         "rawfrom": "RKing@Hess.com",
+         "source": "valid",
+         "to": "\"'Larry.Campbell@enron.com'\" <Larry.Campbell@enron.com>"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 40,
+         "rawfrom": "Larry.Campbell@enron.com [SMTP:Larry.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "RKing@Hess.com"
+      },
+      {
+         "from": "bobbymwilson@hotmail.com",
+         "line": 77,
+         "rawfrom": "bobby wilson [mailto:bobbymwilson@hotmail.com]\n",
+         "source": "email",
+         "to": "rmbyrd@plateautel.net; sfrank@mhc.unm.edu; SLocklin@mhc.unm.edu;"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/sent/254.",
+   "hops": [
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 4,
+         "rawfrom": "larry.campbell@enron.com\r\n",
+         "source": "valid",
+         "to": "tim.carter@enron.com, kayne.coulter@enron.com, matthew.fleming@enron.com,"
+      },
+      {
+         "from": "thunguyen2@hotmail.com",
+         "line": 39,
+         "rawfrom": "\"thu nguyen\" <thunguyen2@hotmail.com>\n",
+         "source": "email",
+         "to": "an1229@hotmail.com, rickdrina@aol.com, lt76@altavista.com,"
+      },
+      {
+         "from": "mindy515@hotmail.com",
+         "line": 50,
+         "rawfrom": "\"Mindy Nguyen\" <mindy515@hotmail.com>\n",
+         "source": "email",
+         "to": "bigheadanthony@hotmail.com, Debra_Lee@Manulife-Venture.com,"
+      },
+      {
+         "from": "d12eamgrl@aol.com",
+         "line": 60,
+         "rawfrom": "D12eamGRL@aol.com\n",
+         "source": "valid",
+         "to": "bighead-antoine@communityconnect.com, xjkim@hotmail.com,"
+      },
+      {
+         "from": "cmn123@cs.com",
+         "line": 77,
+         "rawfrom": "CMN123@cs.com\n",
+         "source": "valid",
+         "to": "juanaguinaga@hotmail.com, DNA7037@gateway.net, comptont@slu.edu,"
+      },
+      {
+         "from": "baylor@texas.net",
+         "line": 99,
+         "rawfrom": "\"J. Devin Stewart\" <baylor@texas.net>\n",
+         "source": "email",
+         "to": "\"Chau Nguyen\" <CMN123@cs.com>, \"Carlos Verver\" <CRverver@aol.com>,"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/sent/95.",
+   "hops": [
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 4,
+         "rawfrom": "larry.campbell@enron.com\r\n",
+         "source": "valid",
+         "to": "dstewart@tnrcc.state.tx.us"
+      },
+      {
+         "from": "dstewart@tnrcc.state.tx.us",
+         "line": 39,
+         "rawfrom": "Duncan Stewart [SMTP:DSTEWART@tnrcc.state.tx.us]\n",
+         "source": "email",
+         "to": "jfields@argentinc.com"
+      },
+      {
+         "from": "dstewart@tnrcc.state.tx.us",
+         "line": 60,
+         "rawfrom": "Duncan Stewart [SMTP:DSTEWART@tnrcc.state.tx.us]\n",
+         "source": "email",
+         "to": "jfields@argentinc.com"
+      },
+      {
+         "from": "dstewart@tnrcc.state.tx.us",
+         "line": 76,
+         "rawfrom": "Duncan Stewart [SMTP:DSTEWART@tnrcc.state.tx.us]\n",
+         "source": "email",
+         "to": "jfields@argentinc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/sent/460.",
+   "hops": [
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 4,
+         "rawfrom": "larry.campbell@enron.com\r\n",
+         "source": "valid",
+         "to": "j.kinser@enron.com"
+      },
+      {
+         "from": "russballato@hotmail.com",
+         "line": 46,
+         "rawfrom": "\"Russell Ballato\" <russballato@hotmail.com>\n",
+         "source": "email",
+         "to": "dbaughm@yahoo.com, mchedid@wpo.it.luc.edu, rrcs_98@yahoo.com,"
+      },
+      {
+         "from": "true2@hotmail.com",
+         "line": 61,
+         "rawfrom": "\"john true\" <true2@hotmail.com>\n",
+         "source": "email",
+         "to": "Brett_Condron@putnaminv.com, bbrown@fordham.edu,"
+      },
+      {
+         "from": "jbushnell@fastdial.net",
+         "line": 77,
+         "rawfrom": "jbushnell@fastdial.net\n",
+         "source": "valid",
+         "to": "\"'AJCot1@aol.com'\" <AJCot1@aol.com>,       \"'degan@iptransit.net'\""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/pcb_modeling_study/8.",
+   "hops": [
+      {
+         "from": "michael@pnge.psu.edu",
+         "line": 4,
+         "rawfrom": "michael@pnge.psu.edu\r\n",
+         "source": "valid",
+         "to": "larry.campbell@enron.com"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 63,
+         "rawfrom": "Larry.Campbell@enron.com [mailto:Larry.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "Michael Adewumi"
+      },
+      {
+         "from": "michael@pnge.psu.edu",
+         "line": 84,
+         "rawfrom": "Michael Adewumi <michael@pnge.psu.edu> on 05/24/2001 06:10:20 AM\n",
+         "source": "email",
+         "to": "\"'Larry.Campbell@enron.com'\" <Larry.Campbell@enron.com>"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 116,
+         "rawfrom": "Larry.Campbell@enron.com [mailto:Larry.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "Michael Adewumi"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/notes_inbox/768.",
+   "hops": [
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 4,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\r\n",
+         "source": "valid",
+         "to": "market_relations@nyiso.com, nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 40,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\n",
+         "source": "valid",
+         "to": "'market_relations@nyiso.com'; nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "royjshanker@worldnet.att.net",
+         "line": 55,
+         "rawfrom": "Roy J. Shanker [mailto:royjshanker@worldnet.att.net]\n",
+         "source": "email",
+         "to": "market_relations@nyiso.com; nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 95,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\n",
+         "source": "valid",
+         "to": "'nyiso_tech_exchange@global2000.net'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/notes_inbox/30.",
+   "hops": [
+      {
+         "from": "chi325@hotmail.com",
+         "line": 4,
+         "rawfrom": "chi325@hotmail.com\r\n",
+         "source": "valid",
+         "to": "ansalon@houston.rr.com, dudley@ceimail.com, s_trevino25@hotmail.com,"
+      },
+      {
+         "from": "mqdo@yahoo.com",
+         "line": 22,
+         "rawfrom": "michael do <mqdo@yahoo.com>\n",
+         "source": "email",
+         "to": "Amie Phillips <amiephillips@prodigy.net>,  Mark Schuck"
+      },
+      {
+         "from": "an1229@hotmail.com",
+         "line": 57,
+         "rawfrom": "\"An La\" <an1229@hotmail.com>\n",
+         "source": "email",
+         "to": "Amy_Yueh@valic.com, annamarie.la@marquette.edu, c_lam902@hotmail.com,"
+      },
+      {
+         "from": "catherinecao@cs.com",
+         "line": 75,
+         "rawfrom": "Catherinecao@cs.com\n",
+         "source": "valid",
+         "to": "Ckcao@aol.com, nkhong@ikon.com, an1229@hotmail.com,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/notes_inbox/646.",
+   "hops": [
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 4,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\r\n",
+         "source": "valid",
+         "to": "market_relations@nyiso.com, nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 44,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\n",
+         "source": "valid",
+         "to": "market_relations@nyiso.com; Tech Team EMail List,"
+      },
+      {
+         "from": "mdy@slater-consulting.com",
+         "line": 117,
+         "rawfrom": "\"Mark Younger\" <mdy@slater-consulting.com>\n",
+         "source": "email",
+         "to": "\"Tech Team EMail List,\" <nyiso_tech_exchange@global2000.net>"
+      },
+      {
+         "from": "kkranz@nyiso.com",
+         "line": 288,
+         "rawfrom": "kkranz@nyiso.com [mailto:kkranz@nyiso.com]\n",
+         "source": "email",
+         "to": "marketrelations@nyiso.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/notes_inbox/464.",
+   "hops": [
+      {
+         "from": "richard.hrabal@enron.com",
+         "line": 4,
+         "rawfrom": "richard.hrabal@enron.com\r\n",
+         "source": "valid",
+         "to": "larry.campbell@enron.com"
+      },
+      {
+         "from": "rlindro@entergy.com",
+         "line": 42,
+         "rawfrom": "\"Lindroos, Rob\" <RLindro@entergy.com>\n",
+         "source": "email",
+         "to": "\"'barnes@mailstart.com'\" <barnes@mailstart.com>,"
+      },
+      {
+         "from": "chamroeunk@acespower.com",
+         "line": 75,
+         "rawfrom": "Chamroeun Kong [mailto:ChamroeunK@acespower.com]\n",
+         "source": "email",
+         "to": "Black Cambodian (E-mail); Cracker Ass Cracka (E-mail); Josh Licht"
+      },
+      {
+         "from": "lgrozovsky@intermedia.com",
+         "line": 85,
+         "rawfrom": "Grozovsky, Lilia [mailto:LGrozovsky@intermedia.com]\n",
+         "source": "email",
+         "to": "Hannah, Chad M.; Sharpe, Ryan C.; Paige, Amy M.;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/notes_inbox/609.",
+   "hops": [
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 4,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\r\n",
+         "source": "valid",
+         "to": "market_relations@nyiso.com, nyiso_dltf@lists.nyiso.com, dewitt@nycap.rr.com,"
+      },
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 37,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\n",
+         "source": "valid",
+         "to": "PRLWG; 'Larry DeWitt: PACE'; jdprunkl"
+      },
+      {
+         "from": "owner-nyiso_dltf@lists.nyiso.com",
+         "line": 55,
+         "rawfrom": "  owner-nyiso_dltf@lists.nyiso.com\n",
+         "source": "valid",
+         "to": "'Larry DeWitt: PACE'; PRLWG"
+      },
+      {
+         "from": "dewitt@nycap.rr.com",
+         "line": 106,
+         "rawfrom": "  Larry DeWitt: PACE [SMTP:dewitt@nycap.rr.com]\n",
+         "source": "email",
+         "to": "PRLWG"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/notes_inbox/349.",
+   "hops": [
+      {
+         "from": "chi325@hotmail.com",
+         "line": 4,
+         "rawfrom": "chi325@hotmail.com\r\n",
+         "source": "valid",
+         "to": "ansalon@houston.rr.com, bryan.tran@alcoa.com, dudley@ceimail.com,"
+      },
+      {
+         "from": "mluu219@hotmail.com",
+         "line": 25,
+         "rawfrom": "\"michelle luu nguyen\" <mluu219@hotmail.com>\n",
+         "source": "email",
+         "to": "brittanyhoang_2000@yahoo.com, bsmith219@yahoo.com,"
+      },
+      {
+         "from": "cik18@hotmail.com",
+         "line": 39,
+         "rawfrom": "\"Carolyn\" <cik18@hotmail.com>\n",
+         "source": "email",
+         "to": "\"Warren Cabanos\" <war521@hotmail.com>, \"Thuy Nguyen\""
+      },
+      {
+         "from": "jilygrace.vargas@abnamro.com",
+         "line": 50,
+         "rawfrom": "<jilygrace.vargas@abnamro.com>\n",
+         "source": "email",
+         "to": "<flipchic@tamu.edu>; <frc521@pdq.net>;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/sent_items/22.",
+   "hops": [
+      {
+         "from": "f..campbell@enron.com",
+         "line": 4,
+         "rawfrom": "f..campbell@enron.com\r\n",
+         "source": "valid",
+         "to": "julie_vu@aimfunds.com"
+      },
+      {
+         "from": "julie_vu@aimfunds.com",
+         "line": 22,
+         "rawfrom": "\t\"Vu, Julie H\" <Julie_Vu@AIMFUNDS.COM>@ENRON  \n",
+         "source": "email",
+         "to": "Campbell, Larry F."
+      },
+      {
+         "from": "larry.f.campbell@enron.com",
+         "line": 34,
+         "rawfrom": "Larry.F.Campbell@enron.com [mailto:Larry.F.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "Julie_Vu@AIMFUNDS.COM"
+      },
+      {
+         "from": "julie_vu@aimfunds.com",
+         "line": 43,
+         "rawfrom": "  \"Vu, Julie H\" <Julie_Vu@AIMFUNDS.COM>@ENRON\n",
+         "source": "email",
+         "to": "'chi nguyen'; bobaymon@aol.com; kimv@palacios.k12.tx.us;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/sent_items/23.",
+   "hops": [
+      {
+         "from": "f..campbell@enron.com",
+         "line": 4,
+         "rawfrom": "f..campbell@enron.com\r\n",
+         "source": "valid",
+         "to": "larry.valderrama@enron.com"
+      },
+      {
+         "from": "julie_vu@aimfunds.com",
+         "line": 22,
+         "rawfrom": "\t\"Vu, Julie H\" <Julie_Vu@AIMFUNDS.COM>@ENRON  \n",
+         "source": "email",
+         "to": "Campbell, Larry F."
+      },
+      {
+         "from": "larry.f.campbell@enron.com",
+         "line": 34,
+         "rawfrom": "Larry.F.Campbell@enron.com [mailto:Larry.F.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "Julie_Vu@AIMFUNDS.COM"
+      },
+      {
+         "from": "julie_vu@aimfunds.com",
+         "line": 43,
+         "rawfrom": "  \"Vu, Julie H\" <Julie_Vu@AIMFUNDS.COM>@ENRON\n",
+         "source": "email",
+         "to": "'chi nguyen'; bobaymon@aol.com; kimv@palacios.k12.tx.us;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/sent_items/61.",
+   "hops": [
+      {
+         "from": "f..campbell@enron.com",
+         "line": 4,
+         "rawfrom": "f..campbell@enron.com\r\n",
+         "source": "valid",
+         "to": "bobaymon@aol.com"
+      },
+      {
+         "from": "topt@chevron.com",
+         "line": 34,
+         "rawfrom": "\"Tran, Tommy P. (topt)\" <topt@chevron.com>\n",
+         "source": "email",
+         "to": "\"'Nguyen, Steve'\" <snguyen@totalsafetyinc.com>,        \"'Huan Bui'\" <hbui@altra.com>,        \"'Tran, Hung (Prod Eng)'\" <HuTran@COMPAQ.com>,        \"Tran, Tommy P. (topt)\" <topt@chevron.com>,        \"'Rick Pham'\" <rpham@houston.rr.com>,        \"Frank Nguyen\" <FTNguyen@equilon.com>, \"Giao Le\" <g-le@ti.com>,        \"Nguyen, Vinh\" <vpn_nguyen@yahoo.com>,        \"Quang Nguyen\" <qnguyen_427@yahoo.com>"
+      },
+      {
+         "from": "snguyen@totalsafetyinc.com",
+         "line": 54,
+         "rawfrom": "Nguyen, Steve [SMTP:snguyen@totalsafetyinc.com]\n",
+         "source": "email",
+         "to": "'Huan Bui'; 'Tran, Hung (Prod Eng)'; 'Tran, Tommy P. (topt)'; 'Rick Pham'; Frank Nguyen; Giao Le; Nguyen, Steve; Nguyen, Vinh; Quang Nguyen"
+      },
+      {
+         "from": "hbui@altra.com",
+         "line": 105,
+         "rawfrom": "Huan Bui [SMTP:hbui@altra.com]\n",
+         "source": "email",
+         "to": "'Tran, Hung (Prod Eng)'; 'Rick Pham'; Frank Nguyen; Giao Le; Nguyen,"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/discussion_threads/499.",
+   "hops": [
+      {
+         "from": "byron.rance@enron.com",
+         "line": 4,
+         "rawfrom": "byron.rance@enron.com\r\n",
+         "source": "valid",
+         "to": "larry.campbell@enron.com"
+      },
+      {
+         "from": "rmcdowell@altorfer.com",
+         "line": 22,
+         "rawfrom": " Ralph McDowell <RMcdowell@Altorfer.com>@ENRON  \n",
+         "source": "email",
+         "to": "Rance, Byron"
+      },
+      {
+         "from": "byron.rance@enron.com",
+         "line": 34,
+         "rawfrom": "Byron.Rance@enron.com [mailto:Byron.Rance@enron.com]\n",
+         "source": "email",
+         "to": "RMcdowell@Altorfer.com"
+      },
+      {
+         "from": "rmcdowell@altorfer.com",
+         "line": 46,
+         "rawfrom": "  Ralph McDowell <RMcdowell@Altorfer.com>@ENRON\n",
+         "source": "email",
+         "to": "Rance, Byron"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/discussion_threads/462.",
+   "hops": [
+      {
+         "from": "spatti@ensr.com",
+         "line": 4,
+         "rawfrom": "spatti@ensr.com\r\n",
+         "source": "valid",
+         "to": "larry.campbell@enron.com"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 72,
+         "rawfrom": "Larry.Campbell@enron.com [mailto:Larry.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "Patti, Scott"
+      },
+      {
+         "from": "spatti@ensr.com",
+         "line": 88,
+         "rawfrom": "\"Patti, Scott\" <SPatti@ensr.com> on 08/31/2001 02:11:17 PM\n",
+         "source": "email",
+         "to": "\"'Larry.Campbell@enron.com'\" <Larry.Campbell@enron.com>,"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 121,
+         "rawfrom": "Larry.Campbell@enron.com [mailto:Larry.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "John.Shafer@enron.com"
+      },
+      {
+         "from": "thackett@ensr.com",
+         "line": 192,
+         "rawfrom": "THackett@ENSR.com",
+         "source": "valid",
+         "to": "\"Larry Campbell (E-mail)\" <Larry.Campbell@ENRON.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/discussion_threads/686.",
+   "hops": [
+      {
+         "from": "richard.hrabal@enron.com",
+         "line": 4,
+         "rawfrom": "richard.hrabal@enron.com\r\n",
+         "source": "valid",
+         "to": "larry.campbell@enron.com"
+      },
+      {
+         "from": "rlindro@entergy.com",
+         "line": 42,
+         "rawfrom": "\"Lindroos, Rob\" <RLindro@entergy.com>\n",
+         "source": "email",
+         "to": "\"'barnes@mailstart.com'\" <barnes@mailstart.com>,"
+      },
+      {
+         "from": "chamroeunk@acespower.com",
+         "line": 75,
+         "rawfrom": "Chamroeun Kong [mailto:ChamroeunK@acespower.com]\n",
+         "source": "email",
+         "to": "Black Cambodian (E-mail); Cracker Ass Cracka (E-mail); Josh Licht"
+      },
+      {
+         "from": "lgrozovsky@intermedia.com",
+         "line": 85,
+         "rawfrom": "Grozovsky, Lilia [mailto:LGrozovsky@intermedia.com]\n",
+         "source": "email",
+         "to": "Hannah, Chad M.; Sharpe, Ryan C.; Paige, Amy M.;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/discussion_threads/1571.",
+   "hops": [
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 4,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\r\n",
+         "source": "valid",
+         "to": "market_relations@nyiso.com, nyiso_dltf@lists.nyiso.com, dewitt@nycap.rr.com,"
+      },
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 37,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\n",
+         "source": "valid",
+         "to": "PRLWG; 'Larry DeWitt: PACE'; jdprunkl"
+      },
+      {
+         "from": "owner-nyiso_dltf@lists.nyiso.com",
+         "line": 55,
+         "rawfrom": "  owner-nyiso_dltf@lists.nyiso.com\n",
+         "source": "valid",
+         "to": "'Larry DeWitt: PACE'; PRLWG"
+      },
+      {
+         "from": "dewitt@nycap.rr.com",
+         "line": 106,
+         "rawfrom": "  Larry DeWitt: PACE [SMTP:dewitt@nycap.rr.com]\n",
+         "source": "email",
+         "to": "PRLWG"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/discussion_threads/255.",
+   "hops": [
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 4,
+         "rawfrom": "larry.campbell@enron.com\r\n",
+         "source": "valid",
+         "to": "dstewart@tnrcc.state.tx.us"
+      },
+      {
+         "from": "dstewart@tnrcc.state.tx.us",
+         "line": 39,
+         "rawfrom": "Duncan Stewart [SMTP:DSTEWART@tnrcc.state.tx.us]\n",
+         "source": "email",
+         "to": "jfields@argentinc.com"
+      },
+      {
+         "from": "dstewart@tnrcc.state.tx.us",
+         "line": 66,
+         "rawfrom": "Duncan Stewart [SMTP:DSTEWART@tnrcc.state.tx.us]\n",
+         "source": "email",
+         "to": "jfields@argentinc.com"
+      },
+      {
+         "from": "dstewart@tnrcc.state.tx.us",
+         "line": 87,
+         "rawfrom": "Duncan Stewart [SMTP:DSTEWART@tnrcc.state.tx.us]\n",
+         "source": "email",
+         "to": "jfields@argentinc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/discussion_threads/601.",
+   "hops": [
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 4,
+         "rawfrom": "larry.campbell@enron.com\r\n",
+         "source": "valid",
+         "to": "tim.carter@enron.com, kayne.coulter@enron.com, matthew.fleming@enron.com,"
+      },
+      {
+         "from": "thunguyen2@hotmail.com",
+         "line": 39,
+         "rawfrom": "\"thu nguyen\" <thunguyen2@hotmail.com>\n",
+         "source": "email",
+         "to": "an1229@hotmail.com, rickdrina@aol.com, lt76@altavista.com,"
+      },
+      {
+         "from": "mindy515@hotmail.com",
+         "line": 50,
+         "rawfrom": "\"Mindy Nguyen\" <mindy515@hotmail.com>\n",
+         "source": "email",
+         "to": "bigheadanthony@hotmail.com, Debra_Lee@Manulife-Venture.com,"
+      },
+      {
+         "from": "d12eamgrl@aol.com",
+         "line": 60,
+         "rawfrom": "D12eamGRL@aol.com\n",
+         "source": "valid",
+         "to": "bighead-antoine@communityconnect.com, xjkim@hotmail.com,"
+      },
+      {
+         "from": "cmn123@cs.com",
+         "line": 77,
+         "rawfrom": "CMN123@cs.com\n",
+         "source": "valid",
+         "to": "juanaguinaga@hotmail.com, DNA7037@gateway.net, comptont@slu.edu,"
+      },
+      {
+         "from": "baylor@texas.net",
+         "line": 99,
+         "rawfrom": "\"J. Devin Stewart\" <baylor@texas.net>\n",
+         "source": "email",
+         "to": "\"Chau Nguyen\" <CMN123@cs.com>, \"Carlos Verver\" <CRverver@aol.com>,"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/discussion_threads/322.",
+   "hops": [
+      {
+         "from": "marc.phillips@enron.com",
+         "line": 4,
+         "rawfrom": "marc.phillips@enron.com\r\n",
+         "source": "valid",
+         "to": "ruth.jensen@enron.com, rick.loveless@enron.com, kyle.purvis@enron.com,"
+      },
+      {
+         "from": "cr1@ctw.com",
+         "line": 371,
+         "rawfrom": "Celina Romero [cr1@ctw.com]\n",
+         "source": "email",
+         "to": "kgolemon@bmoh.com; rjohnson@bmoh.com; khalid.muslih@coastalcorp.com;"
+      },
+      {
+         "from": "jlinvill@tnrcc.state.tx.us",
+         "line": 429,
+         "rawfrom": "Jim Linville [mailto:JLINVILL@tnrcc.state.tx.us]\n",
+         "source": "email",
+         "to": "cr1@ctw.com; james.cantrell@gt.pge.com"
+      },
+      {
+         "from": "cr1@ctw.com",
+         "line": 456,
+         "rawfrom": "Celina Romero [SMTP:cr1@ctw.com]\n",
+         "source": "email",
+         "to": "kgolemon@bmoh.com; khalid.muslih@coastalcorp.com; mphilli@enron.com;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/discussion_threads/1353.",
+   "hops": [
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 4,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\r\n",
+         "source": "valid",
+         "to": "nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "william.palazzo@nypa.gov",
+         "line": 69,
+         "rawfrom": "Palazzo, William [mailto:William.Palazzo@nypa.gov]\n",
+         "source": "email",
+         "to": "'market_relations@nyiso.com'; nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "royjshanker@worldnet.att.net",
+         "line": 86,
+         "rawfrom": "Roy J. Shanker [mailto:royjshanker@worldnet.att.net]\n",
+         "source": "email",
+         "to": "market_relations@nyiso.com; nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 129,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\n",
+         "source": "valid",
+         "to": "'nyiso_tech_exchange@global2000.net'"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/discussion_threads/1251.",
+   "hops": [
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 4,
+         "rawfrom": "larry.campbell@enron.com\r\n",
+         "source": "valid",
+         "to": "robertmun@hotmail.com"
+      },
+      {
+         "from": "russballato@hotmail.com",
+         "line": 46,
+         "rawfrom": "\"Russell Ballato\" <russballato@hotmail.com>\n",
+         "source": "email",
+         "to": "dbaughm@yahoo.com, mchedid@wpo.it.luc.edu, rrcs_98@yahoo.com,"
+      },
+      {
+         "from": "true2@hotmail.com",
+         "line": 61,
+         "rawfrom": "\"john true\" <true2@hotmail.com>\n",
+         "source": "email",
+         "to": "Brett_Condron@putnaminv.com, bbrown@fordham.edu,"
+      },
+      {
+         "from": "jbushnell@fastdial.net",
+         "line": 77,
+         "rawfrom": "jbushnell@fastdial.net\n",
+         "source": "valid",
+         "to": "\"'AJCot1@aol.com'\" <AJCot1@aol.com>,       \"'degan@iptransit.net'\""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/discussion_threads/422.",
+   "hops": [
+      {
+         "from": "billglushko@hotmail.com",
+         "line": 4,
+         "rawfrom": "billglushko@hotmail.com\r\n",
+         "source": "valid",
+         "to": "larry.campbell@enron.com"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 27,
+         "rawfrom": "Larry.Campbell@enron.com\n",
+         "source": "valid",
+         "to": "\"Bill Glushko\" <billglushko@hotmail.com>"
+      },
+      {
+         "from": "billglushko@hotmail.com",
+         "line": 40,
+         "rawfrom": "billglushko@hotmail.com",
+         "source": "valid",
+         "to": "Larry.Campbell@enron.com"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 56,
+         "rawfrom": "Larry.Campbell@enron.com\n",
+         "source": "valid",
+         "to": "billglushko@hotmail.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/discussion_threads/444.",
+   "hops": [
+      {
+         "from": "spatti@ensr.com",
+         "line": 4,
+         "rawfrom": "spatti@ensr.com\r\n",
+         "source": "valid",
+         "to": "larry.campbell@enron.com"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 43,
+         "rawfrom": "Larry.Campbell@enron.com [mailto:Larry.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "Patti, Scott"
+      },
+      {
+         "from": "spatti@ensr.com",
+         "line": 59,
+         "rawfrom": "\"Patti, Scott\" <SPatti@ensr.com> on 08/31/2001 02:11:17 PM\n",
+         "source": "email",
+         "to": "\"'Larry.Campbell@enron.com'\" <Larry.Campbell@enron.com>,"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 92,
+         "rawfrom": "Larry.Campbell@enron.com [mailto:Larry.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "John.Shafer@enron.com"
+      },
+      {
+         "from": "thackett@ensr.com",
+         "line": 163,
+         "rawfrom": "THackett@ENSR.com",
+         "source": "valid",
+         "to": "\"Larry Campbell (E-mail)\" <Larry.Campbell@ENRON.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/discussion_threads/1250.",
+   "hops": [
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 4,
+         "rawfrom": "larry.campbell@enron.com\r\n",
+         "source": "valid",
+         "to": "j.kinser@enron.com"
+      },
+      {
+         "from": "russballato@hotmail.com",
+         "line": 46,
+         "rawfrom": "\"Russell Ballato\" <russballato@hotmail.com>\n",
+         "source": "email",
+         "to": "dbaughm@yahoo.com, mchedid@wpo.it.luc.edu, rrcs_98@yahoo.com,"
+      },
+      {
+         "from": "true2@hotmail.com",
+         "line": 61,
+         "rawfrom": "\"john true\" <true2@hotmail.com>\n",
+         "source": "email",
+         "to": "Brett_Condron@putnaminv.com, bbrown@fordham.edu,"
+      },
+      {
+         "from": "jbushnell@fastdial.net",
+         "line": 77,
+         "rawfrom": "jbushnell@fastdial.net\n",
+         "source": "valid",
+         "to": "\"'AJCot1@aol.com'\" <AJCot1@aol.com>,       \"'degan@iptransit.net'\""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/discussion_threads/1346.",
+   "hops": [
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 4,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\r\n",
+         "source": "valid",
+         "to": "market_relations@nyiso.com, nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "william.palazzo@nypa.gov",
+         "line": 34,
+         "rawfrom": "Palazzo, William [mailto:William.Palazzo@nypa.gov]\n",
+         "source": "email",
+         "to": "'market_relations@nyiso.com'; nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "royjshanker@worldnet.att.net",
+         "line": 50,
+         "rawfrom": "Roy J. Shanker [mailto:royjshanker@worldnet.att.net]\n",
+         "source": "email",
+         "to": "market_relations@nyiso.com; nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 90,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\n",
+         "source": "valid",
+         "to": "'nyiso_tech_exchange@global2000.net'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/discussion_threads/1373.",
+   "hops": [
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 4,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\r\n",
+         "source": "valid",
+         "to": "market_relations@nyiso.com, nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "tom.may@enron.com",
+         "line": 28,
+         "rawfrom": "<Tom.May@enron.com>\n",
+         "source": "email",
+         "to": "<nyiso_tech_exchange@global2000.net>"
+      },
+      {
+         "from": "market_relations@nyiso.com",
+         "line": 65,
+         "rawfrom": "market_relations@nyiso.com",
+         "source": "valid",
+         "to": "\"'market_relations@nyiso.com'\" <market_relations@nyiso.com>,"
+      },
+      {
+         "from": "william.palazzo@nypa.gov",
+         "line": 89,
+         "rawfrom": "Palazzo, William [mailto:William.Palazzo@nypa.gov]\n",
+         "source": "email",
+         "to": "'market_relations@nyiso.com'; nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "royjshanker@worldnet.att.net",
+         "line": 106,
+         "rawfrom": "Roy J. Shanker [mailto:royjshanker@worldnet.att.net]\n",
+         "source": "email",
+         "to": "market_relations@nyiso.com; nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 152,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\n",
+         "source": "valid",
+         "to": "'nyiso_tech_exchange@global2000.net'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/discussion_threads/254.",
+   "hops": [
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 4,
+         "rawfrom": "larry.campbell@enron.com\r\n",
+         "source": "valid",
+         "to": "dstewart@tnrcc.state.tx.us"
+      },
+      {
+         "from": "dstewart@tnrcc.state.tx.us",
+         "line": 39,
+         "rawfrom": "Duncan Stewart [SMTP:DSTEWART@tnrcc.state.tx.us]\n",
+         "source": "email",
+         "to": "jfields@argentinc.com"
+      },
+      {
+         "from": "dstewart@tnrcc.state.tx.us",
+         "line": 60,
+         "rawfrom": "Duncan Stewart [SMTP:DSTEWART@tnrcc.state.tx.us]\n",
+         "source": "email",
+         "to": "jfields@argentinc.com"
+      },
+      {
+         "from": "dstewart@tnrcc.state.tx.us",
+         "line": 76,
+         "rawfrom": "Duncan Stewart [SMTP:DSTEWART@tnrcc.state.tx.us]\n",
+         "source": "email",
+         "to": "jfields@argentinc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/discussion_threads/1352.",
+   "hops": [
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 4,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\r\n",
+         "source": "valid",
+         "to": "market_relations@nyiso.com, nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 40,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\n",
+         "source": "valid",
+         "to": "'market_relations@nyiso.com'; nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "royjshanker@worldnet.att.net",
+         "line": 55,
+         "rawfrom": "Roy J. Shanker [mailto:royjshanker@worldnet.att.net]\n",
+         "source": "email",
+         "to": "market_relations@nyiso.com; nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 95,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\n",
+         "source": "valid",
+         "to": "'nyiso_tech_exchange@global2000.net'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/discussion_threads/824.",
+   "hops": [
+      {
+         "from": "chi325@hotmail.com",
+         "line": 4,
+         "rawfrom": "chi325@hotmail.com\r\n",
+         "source": "valid",
+         "to": "ansalon@houston.rr.com, bryan.tran@alcoa.com, dudley@ceimail.com,"
+      },
+      {
+         "from": "mluu219@hotmail.com",
+         "line": 25,
+         "rawfrom": "\"michelle luu nguyen\" <mluu219@hotmail.com>\n",
+         "source": "email",
+         "to": "brittanyhoang_2000@yahoo.com, bsmith219@yahoo.com,"
+      },
+      {
+         "from": "cik18@hotmail.com",
+         "line": 39,
+         "rawfrom": "\"Carolyn\" <cik18@hotmail.com>\n",
+         "source": "email",
+         "to": "\"Warren Cabanos\" <war521@hotmail.com>, \"Thuy Nguyen\""
+      },
+      {
+         "from": "jilygrace.vargas@abnamro.com",
+         "line": 50,
+         "rawfrom": "<jilygrace.vargas@abnamro.com>\n",
+         "source": "email",
+         "to": "<flipchic@tamu.edu>; <frc521@pdq.net>;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/discussion_threads/1148.",
+   "hops": [
+      {
+         "from": "chi325@hotmail.com",
+         "line": 4,
+         "rawfrom": "chi325@hotmail.com\r\n",
+         "source": "valid",
+         "to": "ansalon@houston.rr.com, dudley@ceimail.com, s_trevino25@hotmail.com,"
+      },
+      {
+         "from": "mqdo@yahoo.com",
+         "line": 22,
+         "rawfrom": "michael do <mqdo@yahoo.com>\n",
+         "source": "email",
+         "to": "Amie Phillips <amiephillips@prodigy.net>,  Mark Schuck"
+      },
+      {
+         "from": "an1229@hotmail.com",
+         "line": 57,
+         "rawfrom": "\"An La\" <an1229@hotmail.com>\n",
+         "source": "email",
+         "to": "Amy_Yueh@valic.com, annamarie.la@marquette.edu, c_lam902@hotmail.com,"
+      },
+      {
+         "from": "catherinecao@cs.com",
+         "line": 75,
+         "rawfrom": "Catherinecao@cs.com\n",
+         "source": "valid",
+         "to": "Ckcao@aol.com, nkhong@ikon.com, an1229@hotmail.com,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/discussion_threads/353.",
+   "hops": [
+      {
+         "from": "michael@pnge.psu.edu",
+         "line": 4,
+         "rawfrom": "michael@pnge.psu.edu\r\n",
+         "source": "valid",
+         "to": "larry.campbell@enron.com"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 63,
+         "rawfrom": "Larry.Campbell@enron.com [mailto:Larry.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "Michael Adewumi"
+      },
+      {
+         "from": "michael@pnge.psu.edu",
+         "line": 84,
+         "rawfrom": "Michael Adewumi <michael@pnge.psu.edu> on 05/24/2001 06:10:20 AM\n",
+         "source": "email",
+         "to": "\"'Larry.Campbell@enron.com'\" <Larry.Campbell@enron.com>"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 116,
+         "rawfrom": "Larry.Campbell@enron.com [mailto:Larry.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "Michael Adewumi"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/discussion_threads/1533.",
+   "hops": [
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 4,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\r\n",
+         "source": "valid",
+         "to": "market_relations@nyiso.com, nyiso_tech_exchange@global2000.net"
+      },
+      {
+         "from": "owner-nyiso_tech_exchange@lists.thebiz.net",
+         "line": 44,
+         "rawfrom": "owner-nyiso_tech_exchange@lists.thebiz.net\n",
+         "source": "valid",
+         "to": "market_relations@nyiso.com; Tech Team EMail List,"
+      },
+      {
+         "from": "mdy@slater-consulting.com",
+         "line": 117,
+         "rawfrom": "\"Mark Younger\" <mdy@slater-consulting.com>\n",
+         "source": "email",
+         "to": "\"Tech Team EMail List,\" <nyiso_tech_exchange@global2000.net>"
+      },
+      {
+         "from": "kkranz@nyiso.com",
+         "line": 288,
+         "rawfrom": "kkranz@nyiso.com [mailto:kkranz@nyiso.com]\n",
+         "source": "email",
+         "to": "marketrelations@nyiso.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/discussion_threads/474.",
+   "hops": [
+      {
+         "from": "spatti@ensr.com",
+         "line": 4,
+         "rawfrom": "spatti@ensr.com\r\n",
+         "source": "valid",
+         "to": "larry.campbell@enron.com"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 38,
+         "rawfrom": "Larry.Campbell@enron.com [mailto:Larry.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "Patti, Scott"
+      },
+      {
+         "from": "spatti@ensr.com",
+         "line": 54,
+         "rawfrom": "\"Patti, Scott\" <SPatti@ensr.com> on 09/26/2001 08:31:04 AM\n",
+         "source": "email",
+         "to": "\"'Larry.Campbell@enron.com'\" <Larry.Campbell@enron.com>"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 76,
+         "rawfrom": "Larry.Campbell@enron.com [mailto:Larry.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "Patti, Scott"
+      },
+      {
+         "from": "spatti@ensr.com",
+         "line": 91,
+         "rawfrom": "\"Patti, Scott\" <SPatti@ensr.com> on 09/25/2001 08:35:35 PM\n",
+         "source": "email",
+         "to": "\"'Shafer, John'\" <John.Shafer@ENRON.com>, \"'Cebryk, Doug'\""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/_sent_mail/189.",
+   "hops": [
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 4,
+         "rawfrom": "larry.campbell@enron.com\r\n",
+         "source": "valid",
+         "to": "robertmun@hotmail.com"
+      },
+      {
+         "from": "russballato@hotmail.com",
+         "line": 46,
+         "rawfrom": "\"Russell Ballato\" <russballato@hotmail.com>\n",
+         "source": "email",
+         "to": "dbaughm@yahoo.com, mchedid@wpo.it.luc.edu, rrcs_98@yahoo.com,"
+      },
+      {
+         "from": "true2@hotmail.com",
+         "line": 61,
+         "rawfrom": "\"john true\" <true2@hotmail.com>\n",
+         "source": "email",
+         "to": "Brett_Condron@putnaminv.com, bbrown@fordham.edu,"
+      },
+      {
+         "from": "jbushnell@fastdial.net",
+         "line": 77,
+         "rawfrom": "jbushnell@fastdial.net\n",
+         "source": "valid",
+         "to": "\"'AJCot1@aol.com'\" <AJCot1@aol.com>,       \"'degan@iptransit.net'\""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/_sent_mail/13.",
+   "hops": [
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 4,
+         "rawfrom": "larry.campbell@enron.com\r\n",
+         "source": "valid",
+         "to": "rking@hess.com"
+      },
+      {
+         "from": "rking@hess.com",
+         "line": 18,
+         "rawfrom": "RKing@Hess.com",
+         "source": "valid",
+         "to": "\"'Larry.Campbell@enron.com'\" <Larry.Campbell@enron.com>"
+      },
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 40,
+         "rawfrom": "Larry.Campbell@enron.com [SMTP:Larry.Campbell@enron.com]\n",
+         "source": "email",
+         "to": "RKing@Hess.com"
+      },
+      {
+         "from": "bobbymwilson@hotmail.com",
+         "line": 77,
+         "rawfrom": "bobby wilson [mailto:bobbymwilson@hotmail.com]\n",
+         "source": "email",
+         "to": "rmbyrd@plateautel.net; sfrank@mhc.unm.edu; SLocklin@mhc.unm.edu;"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/_sent_mail/190.",
+   "hops": [
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 4,
+         "rawfrom": "larry.campbell@enron.com\r\n",
+         "source": "valid",
+         "to": "j.kinser@enron.com"
+      },
+      {
+         "from": "russballato@hotmail.com",
+         "line": 46,
+         "rawfrom": "\"Russell Ballato\" <russballato@hotmail.com>\n",
+         "source": "email",
+         "to": "dbaughm@yahoo.com, mchedid@wpo.it.luc.edu, rrcs_98@yahoo.com,"
+      },
+      {
+         "from": "true2@hotmail.com",
+         "line": 61,
+         "rawfrom": "\"john true\" <true2@hotmail.com>\n",
+         "source": "email",
+         "to": "Brett_Condron@putnaminv.com, bbrown@fordham.edu,"
+      },
+      {
+         "from": "jbushnell@fastdial.net",
+         "line": 77,
+         "rawfrom": "jbushnell@fastdial.net\n",
+         "source": "valid",
+         "to": "\"'AJCot1@aol.com'\" <AJCot1@aol.com>,       \"'degan@iptransit.net'\""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/_sent_mail/126.",
+   "hops": [
+      {
+         "from": "larry.campbell@enron.com",
+         "line": 4,
+         "rawfrom": "larry.campbell@enron.com\r\n",
+         "source": "valid",
+         "to": "tim.carter@enron.com, kayne.coulter@enron.com, matthew.fleming@enron.com,"
+      },
+      {
+         "from": "thunguyen2@hotmail.com",
+         "line": 39,
+         "rawfrom": "\"thu nguyen\" <thunguyen2@hotmail.com>\n",
+         "source": "email",
+         "to": "an1229@hotmail.com, rickdrina@aol.com, lt76@altavista.com,"
+      },
+      {
+         "from": "mindy515@hotmail.com",
+         "line": 50,
+         "rawfrom": "\"Mindy Nguyen\" <mindy515@hotmail.com>\n",
+         "source": "email",
+         "to": "bigheadanthony@hotmail.com, Debra_Lee@Manulife-Venture.com,"
+      },
+      {
+         "from": "d12eamgrl@aol.com",
+         "line": 60,
+         "rawfrom": "D12eamGRL@aol.com\n",
+         "source": "valid",
+         "to": "bighead-antoine@communityconnect.com, xjkim@hotmail.com,"
+      },
+      {
+         "from": "cmn123@cs.com",
+         "line": 77,
+         "rawfrom": "CMN123@cs.com\n",
+         "source": "valid",
+         "to": "juanaguinaga@hotmail.com, DNA7037@gateway.net, comptont@slu.edu,"
+      },
+      {
+         "from": "baylor@texas.net",
+         "line": 99,
+         "rawfrom": "\"J. Devin Stewart\" <baylor@texas.net>\n",
+         "source": "email",
+         "to": "\"Chau Nguyen\" <CMN123@cs.com>, \"Carlos Verver\" <CRverver@aol.com>,"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/campbell-l/marc_phillips/15.",
+   "hops": [
+      {
+         "from": "marc.phillips@enron.com",
+         "line": 4,
+         "rawfrom": "marc.phillips@enron.com\r\n",
+         "source": "valid",
+         "to": "ruth.jensen@enron.com, rick.loveless@enron.com, kyle.purvis@enron.com,"
+      },
+      {
+         "from": "cr1@ctw.com",
+         "line": 371,
+         "rawfrom": "Celina Romero [cr1@ctw.com]\n",
+         "source": "email",
+         "to": "kgolemon@bmoh.com; rjohnson@bmoh.com; khalid.muslih@coastalcorp.com;"
+      },
+      {
+         "from": "jlinvill@tnrcc.state.tx.us",
+         "line": 429,
+         "rawfrom": "Jim Linville [mailto:JLINVILL@tnrcc.state.tx.us]\n",
+         "source": "email",
+         "to": "cr1@ctw.com; james.cantrell@gt.pge.com"
+      },
+      {
+         "from": "cr1@ctw.com",
+         "line": 456,
+         "rawfrom": "Celina Romero [SMTP:cr1@ctw.com]\n",
+         "source": "email",
+         "to": "kgolemon@bmoh.com; khalid.muslih@coastalcorp.com; mphilli@enron.com;"
+      }
+   ],
+   "skipped": 1
+}
+]

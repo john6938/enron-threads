@@ -1,0 +1,841 @@
+[
+{
+   "file": "/home/jb/maildir/farmer-d/all_documents/2170.",
+   "hops": [
+      {
+         "from": "rglover@halff.com",
+         "line": 4,
+         "rawfrom": "rglover@halff.com\r\n",
+         "source": "valid",
+         "to": "jm.glover@meritenergy.com, kevin_cameron@sealand.com, glover@neto.com,"
+      },
+      {
+         "from": "bruin@bayou.com",
+         "line": 48,
+         "rawfrom": "Donnie VandeVen & Kristen Sutton [mailto:bruin@bayou.com]\n",
+         "source": "email",
+         "to": "VandeVen, Patty; Sutton, Charlie; Sutton, Brenda; Sutton, Billy;"
+      },
+      {
+         "from": "creativeimages@erols.com",
+         "line": 72,
+         "rawfrom": "creative Images < creativeimages@erols.com\n",
+         "source": "email",
+         "to": "CornfkGirl55@aol.com <mailto:CornfkGirl55@aol.com>  <"
+      },
+      {
+         "from": "d_lenchak@hotmail.com",
+         "line": 111,
+         "rawfrom": "Deanna Lenchak [ mailto:d_lenchak@hotmail.com\n",
+         "source": "email",
+         "to": "LSGOODRICH@aol.com <mailto:LSGOODRICH@aol.com> ; dgoldstein@alloy.com"
+      },
+      {
+         "from": "toro94@excite.com",
+         "line": 263,
+         "rawfrom": "Angel L. Vale Jr. [ mailto:Toro94@excite.com\n",
+         "source": "email",
+         "to": "anthony aldano; Jimenez57@aol.com <mailto:Jimenez57@aol.com> ;"
+      }
+   ],
+   "skipped": 7
+}
+,
+{
+   "file": "/home/jb/maildir/farmer-d/all_documents/2681.",
+   "hops": [
+      {
+         "from": "rglover@halff.com",
+         "line": 4,
+         "rawfrom": "rglover@halff.com\r\n",
+         "source": "valid",
+         "to": "glover@neto.com, ckhalla@swbell.net, aggieengineer@email.msn.com,"
+      },
+      {
+         "from": "jnmartin97@hotmail.com",
+         "line": 34,
+         "rawfrom": "Jennifer Martin [mailto:jnmartin97@hotmail.com]\n",
+         "source": "email",
+         "to": "emartin@mail.esc4.com; Abbott, Todd; abraun97@hotmail.com;"
+      },
+      {
+         "from": "kcallan@hotmail.com",
+         "line": 43,
+         "rawfrom": "\"K.C. Allan\" <kcallan@hotmail.com>\n",
+         "source": "email",
+         "to": "Jbt@tca.net, joshbuis@swbell.net, Aggie97ljt@aol.com,"
+      },
+      {
+         "from": "chuck@ellisonlaw.com",
+         "line": 69,
+         "rawfrom": "Chuck Ellison <chuck@ellisonlaw.com>\n",
+         "source": "email",
+         "to": "\"Denise Werst (E-mail)\" <dswerst@wcc.net>, \"Bill Helwig (E-mail)\""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/farmer-d/all_documents/2678.",
+   "hops": [
+      {
+         "from": "daren.farmer@enron.com",
+         "line": 4,
+         "rawfrom": "daren.farmer@enron.com\r\n",
+         "source": "valid",
+         "to": "randall.gay@enron.com"
+      },
+      {
+         "from": "jnmartin97@hotmail.com",
+         "line": 50,
+         "rawfrom": "Jennifer Martin [mailto:jnmartin97@hotmail.com]\n",
+         "source": "email",
+         "to": "emartin@mail.esc4.com; Abbott, Todd; abraun97@hotmail.com;"
+      },
+      {
+         "from": "kcallan@hotmail.com",
+         "line": 59,
+         "rawfrom": "\"K.C. Allan\" <kcallan@hotmail.com>\n",
+         "source": "email",
+         "to": "Jbt@tca.net, joshbuis@swbell.net, Aggie97ljt@aol.com,"
+      },
+      {
+         "from": "chuck@ellisonlaw.com",
+         "line": 85,
+         "rawfrom": "Chuck Ellison <chuck@ellisonlaw.com>\n",
+         "source": "email",
+         "to": "\"Denise Werst (E-mail)\" <dswerst@wcc.net>, \"Bill Helwig (E-mail)\""
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/farmer-d/all_documents/3390.",
+   "hops": [
+      {
+         "from": "daren.farmer@enron.com",
+         "line": 4,
+         "rawfrom": "daren.farmer@enron.com\r\n",
+         "source": "valid",
+         "to": "cfp@enron.com, clu@enron.com, byronellis@usa.net"
+      },
+      {
+         "from": "byronellis@usa.net",
+         "line": 26,
+         "rawfrom": "byronellis@usa.net",
+         "source": "valid",
+         "to": "<Daren.J.Farmer@enron.com>"
+      },
+      {
+         "from": "daren.j.farmer@enron.com",
+         "line": 55,
+         "rawfrom": " Daren.J.Farmer@enron.com [mailto:Daren.J.Farmer@enron.com]\n",
+         "source": "email",
+         "to": "byronellis@usa.net"
+      },
+      {
+         "from": "byronellis@usa.net",
+         "line": 72,
+         "rawfrom": "byronellis@usa.net",
+         "source": "valid",
+         "to": "\"Byron W. Ellis CFP CLU ChFC\" <byronellis@usa.net>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/farmer-d/all_documents/1174.",
+   "hops": [
+      {
+         "from": "rglover@halff.com",
+         "line": 4,
+         "rawfrom": "rglover@halff.com\r\n",
+         "source": "valid",
+         "to": "jm.glover@meritenergy.com, tcash@aimtech.net, doodoc@hotmail.com,"
+      },
+      {
+         "from": "sethgraham@tcainternet.com",
+         "line": 34,
+         "rawfrom": "Seth Graham [mailto:sethgraham@tcainternet.com] \n",
+         "source": "email",
+         "to": "Tyler Shambro; Troy Combs; Tommy Mount; Tommy Boyce (E-mail); Tim"
+      },
+      {
+         "from": "flutch11@hotmail.com",
+         "line": 52,
+         "rawfrom": "Gregory Fulcher <flutch11@hotmail.com> \n",
+         "source": "email",
+         "to": "<alxwilliams@hotmail.com>; <btoups@lwcc.com>; <bpb@pds.btr.com>;"
+      },
+      {
+         "from": "504boy1@excite.com",
+         "line": 63,
+         "rawfrom": "504BOY1@excite.com \n",
+         "source": "valid",
+         "to": "Richdog75@yahoo.com, just@mobiletel.com, alxwilliams@hotmail.com,"
+      },
+      {
+         "from": "copperdawn@excite.com",
+         "line": 84,
+         "rawfrom": "Dawn Marie <copperdawn@excite.com> \n",
+         "source": "email",
+         "to": "504BOY1@excite.com, tsavager@aol.com, dede6310@aol.com,"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/farmer-d/sent/605.",
+   "hops": [
+      {
+         "from": "daren.farmer@enron.com",
+         "line": 4,
+         "rawfrom": "daren.farmer@enron.com\r\n",
+         "source": "valid",
+         "to": "cfp@enron.com, clu@enron.com, byronellis@usa.net"
+      },
+      {
+         "from": "byronellis@usa.net",
+         "line": 26,
+         "rawfrom": "byronellis@usa.net",
+         "source": "valid",
+         "to": "<Daren.J.Farmer@enron.com>"
+      },
+      {
+         "from": "daren.j.farmer@enron.com",
+         "line": 55,
+         "rawfrom": " Daren.J.Farmer@enron.com [mailto:Daren.J.Farmer@enron.com]\n",
+         "source": "email",
+         "to": "byronellis@usa.net"
+      },
+      {
+         "from": "byronellis@usa.net",
+         "line": 72,
+         "rawfrom": "byronellis@usa.net",
+         "source": "valid",
+         "to": "\"Byron W. Ellis CFP CLU ChFC\" <byronellis@usa.net>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/farmer-d/sent/459.",
+   "hops": [
+      {
+         "from": "daren.farmer@enron.com",
+         "line": 4,
+         "rawfrom": "daren.farmer@enron.com\r\n",
+         "source": "valid",
+         "to": "randall.gay@enron.com"
+      },
+      {
+         "from": "jnmartin97@hotmail.com",
+         "line": 50,
+         "rawfrom": "Jennifer Martin [mailto:jnmartin97@hotmail.com]\n",
+         "source": "email",
+         "to": "emartin@mail.esc4.com; Abbott, Todd; abraun97@hotmail.com;"
+      },
+      {
+         "from": "kcallan@hotmail.com",
+         "line": 59,
+         "rawfrom": "\"K.C. Allan\" <kcallan@hotmail.com>\n",
+         "source": "email",
+         "to": "Jbt@tca.net, joshbuis@swbell.net, Aggie97ljt@aol.com,"
+      },
+      {
+         "from": "chuck@ellisonlaw.com",
+         "line": 85,
+         "rawfrom": "Chuck Ellison <chuck@ellisonlaw.com>\n",
+         "source": "email",
+         "to": "\"Denise Werst (E-mail)\" <dswerst@wcc.net>, \"Bill Helwig (E-mail)\""
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/farmer-d/deleted_items/personal/27.",
+   "hops": [
+      {
+         "from": "mike_mccalister@aimfunds.com",
+         "line": 4,
+         "rawfrom": "mike_mccalister@aimfunds.com\r\n",
+         "source": "valid",
+         "to": "jnewton@ghg.net, monanmac@netzero.net, vennemania@juno.com,"
+      },
+      {
+         "from": "wsheppard@houston.rr.com",
+         "line": 38,
+         "rawfrom": "\tWayne Sheppard [mailto:wsheppard@houston.rr.com]\n",
+         "source": "email",
+         "to": "Chris Koscinski; Louis Booth; David Schraudt; Catherine Frank; Diane"
+      },
+      {
+         "from": "cleere@cooke.net",
+         "line": 53,
+         "rawfrom": "From:\tGnGHerr <cleere@cooke.net>\n",
+         "source": "email",
+         "to": "Ray&Becky Rumley <ray76245@gte.net>; Rose Schmidlkoffer"
+      },
+      {
+         "from": "tj_aggies@hotmail.com",
+         "line": 74,
+         "rawfrom": "From:\tTara Webster <tj_aggies@hotmail.com>\n",
+         "source": "email",
+         "to": "webster@flash.net <webster@flash.net>; cleere@cooke.net"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/farmer-d/sent_items/415.",
+   "hops": [
+      {
+         "from": "j..farmer@enron.com",
+         "line": 4,
+         "rawfrom": "j..farmer@enron.com\r\n",
+         "source": "valid",
+         "to": "buylow@houston.rr.com"
+      },
+      {
+         "from": "buylow@houston.rr.com",
+         "line": 24,
+         "rawfrom": "\t\"buylow\" <buylow@houston.rr.com>@ENRON  \n",
+         "source": "email",
+         "to": "Farmer, Daren J."
+      },
+      {
+         "from": "daren.j.farmer@enron.com",
+         "line": 44,
+         "rawfrom": "<Daren.J.Farmer@enron.com>\n",
+         "source": "email",
+         "to": "<buylow@houston.rr.com>"
+      },
+      {
+         "from": "buylow@houston.rr.com",
+         "line": 58,
+         "rawfrom": "  \"buylow\" <buylow@houston.rr.com>@ENRON\n",
+         "source": "email",
+         "to": "Farmer, Daren J."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/farmer-d/discussion_threads/366.",
+   "hops": [
+      {
+         "from": "daren.farmer@enron.com",
+         "line": 4,
+         "rawfrom": "daren.farmer@enron.com\r\n",
+         "source": "valid",
+         "to": "randall.gay@enron.com"
+      },
+      {
+         "from": "jnmartin97@hotmail.com",
+         "line": 50,
+         "rawfrom": "Jennifer Martin [mailto:jnmartin97@hotmail.com]\n",
+         "source": "email",
+         "to": "emartin@mail.esc4.com; Abbott, Todd; abraun97@hotmail.com;"
+      },
+      {
+         "from": "kcallan@hotmail.com",
+         "line": 59,
+         "rawfrom": "\"K.C. Allan\" <kcallan@hotmail.com>\n",
+         "source": "email",
+         "to": "Jbt@tca.net, joshbuis@swbell.net, Aggie97ljt@aol.com,"
+      },
+      {
+         "from": "chuck@ellisonlaw.com",
+         "line": 85,
+         "rawfrom": "Chuck Ellison <chuck@ellisonlaw.com>\n",
+         "source": "email",
+         "to": "\"Denise Werst (E-mail)\" <dswerst@wcc.net>, \"Bill Helwig (E-mail)\""
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/farmer-d/discussion_threads/1788.",
+   "hops": [
+      {
+         "from": "rglover@halff.com",
+         "line": 4,
+         "rawfrom": "rglover@halff.com\r\n",
+         "source": "valid",
+         "to": "jm.glover@meritenergy.com, tcash@aimtech.net, doodoc@hotmail.com,"
+      },
+      {
+         "from": "sethgraham@tcainternet.com",
+         "line": 34,
+         "rawfrom": "Seth Graham [mailto:sethgraham@tcainternet.com] \n",
+         "source": "email",
+         "to": "Tyler Shambro; Troy Combs; Tommy Mount; Tommy Boyce (E-mail); Tim"
+      },
+      {
+         "from": "flutch11@hotmail.com",
+         "line": 52,
+         "rawfrom": "Gregory Fulcher <flutch11@hotmail.com> \n",
+         "source": "email",
+         "to": "<alxwilliams@hotmail.com>; <btoups@lwcc.com>; <bpb@pds.btr.com>;"
+      },
+      {
+         "from": "504boy1@excite.com",
+         "line": 63,
+         "rawfrom": "504BOY1@excite.com \n",
+         "source": "valid",
+         "to": "Richdog75@yahoo.com, just@mobiletel.com, alxwilliams@hotmail.com,"
+      },
+      {
+         "from": "copperdawn@excite.com",
+         "line": 84,
+         "rawfrom": "Dawn Marie <copperdawn@excite.com> \n",
+         "source": "email",
+         "to": "504BOY1@excite.com, tsavager@aol.com, dede6310@aol.com,"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/farmer-d/discussion_threads/860.",
+   "hops": [
+      {
+         "from": "rglover@halff.com",
+         "line": 4,
+         "rawfrom": "rglover@halff.com\r\n",
+         "source": "valid",
+         "to": "jm.glover@meritenergy.com, kevin_cameron@sealand.com, glover@neto.com,"
+      },
+      {
+         "from": "bruin@bayou.com",
+         "line": 48,
+         "rawfrom": "Donnie VandeVen & Kristen Sutton [mailto:bruin@bayou.com]\n",
+         "source": "email",
+         "to": "VandeVen, Patty; Sutton, Charlie; Sutton, Brenda; Sutton, Billy;"
+      },
+      {
+         "from": "creativeimages@erols.com",
+         "line": 72,
+         "rawfrom": "creative Images < creativeimages@erols.com\n",
+         "source": "email",
+         "to": "CornfkGirl55@aol.com <mailto:CornfkGirl55@aol.com>  <"
+      },
+      {
+         "from": "d_lenchak@hotmail.com",
+         "line": 111,
+         "rawfrom": "Deanna Lenchak [ mailto:d_lenchak@hotmail.com\n",
+         "source": "email",
+         "to": "LSGOODRICH@aol.com <mailto:LSGOODRICH@aol.com> ; dgoldstein@alloy.com"
+      },
+      {
+         "from": "toro94@excite.com",
+         "line": 263,
+         "rawfrom": "Angel L. Vale Jr. [ mailto:Toro94@excite.com\n",
+         "source": "email",
+         "to": "anthony aldano; Jimenez57@aol.com <mailto:Jimenez57@aol.com> ;"
+      }
+   ],
+   "skipped": 7
+}
+,
+{
+   "file": "/home/jb/maildir/farmer-d/discussion_threads/365.",
+   "hops": [
+      {
+         "from": "rglover@halff.com",
+         "line": 4,
+         "rawfrom": "rglover@halff.com\r\n",
+         "source": "valid",
+         "to": "glover@neto.com, ckhalla@swbell.net, aggieengineer@email.msn.com,"
+      },
+      {
+         "from": "jnmartin97@hotmail.com",
+         "line": 34,
+         "rawfrom": "Jennifer Martin [mailto:jnmartin97@hotmail.com]\n",
+         "source": "email",
+         "to": "emartin@mail.esc4.com; Abbott, Todd; abraun97@hotmail.com;"
+      },
+      {
+         "from": "kcallan@hotmail.com",
+         "line": 43,
+         "rawfrom": "\"K.C. Allan\" <kcallan@hotmail.com>\n",
+         "source": "email",
+         "to": "Jbt@tca.net, joshbuis@swbell.net, Aggie97ljt@aol.com,"
+      },
+      {
+         "from": "chuck@ellisonlaw.com",
+         "line": 69,
+         "rawfrom": "Chuck Ellison <chuck@ellisonlaw.com>\n",
+         "source": "email",
+         "to": "\"Denise Werst (E-mail)\" <dswerst@wcc.net>, \"Bill Helwig (E-mail)\""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/farmer-d/_sent_mail/767.",
+   "hops": [
+      {
+         "from": "daren.farmer@enron.com",
+         "line": 4,
+         "rawfrom": "daren.farmer@enron.com\r\n",
+         "source": "valid",
+         "to": "cfp@enron.com, clu@enron.com, byronellis@usa.net"
+      },
+      {
+         "from": "byronellis@usa.net",
+         "line": 26,
+         "rawfrom": "byronellis@usa.net",
+         "source": "valid",
+         "to": "<Daren.J.Farmer@enron.com>"
+      },
+      {
+         "from": "daren.j.farmer@enron.com",
+         "line": 55,
+         "rawfrom": " Daren.J.Farmer@enron.com [mailto:Daren.J.Farmer@enron.com]\n",
+         "source": "email",
+         "to": "byronellis@usa.net"
+      },
+      {
+         "from": "byronellis@usa.net",
+         "line": 72,
+         "rawfrom": "byronellis@usa.net",
+         "source": "valid",
+         "to": "\"Byron W. Ellis CFP CLU ChFC\" <byronellis@usa.net>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/farmer-d/_sent_mail/621.",
+   "hops": [
+      {
+         "from": "daren.farmer@enron.com",
+         "line": 4,
+         "rawfrom": "daren.farmer@enron.com\r\n",
+         "source": "valid",
+         "to": "randall.gay@enron.com"
+      },
+      {
+         "from": "jnmartin97@hotmail.com",
+         "line": 50,
+         "rawfrom": "Jennifer Martin [mailto:jnmartin97@hotmail.com]\n",
+         "source": "email",
+         "to": "emartin@mail.esc4.com; Abbott, Todd; abraun97@hotmail.com;"
+      },
+      {
+         "from": "kcallan@hotmail.com",
+         "line": 59,
+         "rawfrom": "\"K.C. Allan\" <kcallan@hotmail.com>\n",
+         "source": "email",
+         "to": "Jbt@tca.net, joshbuis@swbell.net, Aggie97ljt@aol.com,"
+      },
+      {
+         "from": "chuck@ellisonlaw.com",
+         "line": 85,
+         "rawfrom": "Chuck Ellison <chuck@ellisonlaw.com>\n",
+         "source": "email",
+         "to": "\"Denise Werst (E-mail)\" <dswerst@wcc.net>, \"Bill Helwig (E-mail)\""
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/farmer-d/bankruptcy/23.",
+   "hops": [
+      {
+         "from": "laura.vuittonet@enron.com",
+         "line": 4,
+         "rawfrom": "laura.vuittonet@enron.com\r\n",
+         "source": "valid",
+         "to": "a..martin@enron.com, jim.schwieger@enron.com, brian'.'hull@enron.com,"
+      },
+      {
+         "from": "alysia.autry@cingular.com",
+         "line": 28,
+         "rawfrom": "alysia.autry@cingular.com [mailto:alysia.autry@cingular.com]\n",
+         "source": "email",
+         "to": "Vuittonet, Laura"
+      },
+      {
+         "from": "laura.vuittonet@enron.com",
+         "line": 53,
+         "rawfrom": "Vuittonet, Laura [mailto:Laura.Vuittonet@enron.com]\n",
+         "source": "email",
+         "to": "Autry, Alysia"
+      },
+      {
+         "from": "alysia.autry@cingular.com",
+         "line": 66,
+         "rawfrom": "alysia.autry@cingular.com [mailto:alysia.autry@cingular.com]\n",
+         "source": "email",
+         "to": "Vuittonet, Laura"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/farmer-d/logistics/124.",
+   "hops": [
+      {
+         "from": "tess.ray@enron.com",
+         "line": 4,
+         "rawfrom": "tess.ray@enron.com\r\n",
+         "source": "valid",
+         "to": "mltrochta@dow.com"
+      },
+      {
+         "from": "mltrochta@dow.com",
+         "line": 32,
+         "rawfrom": "\t\"Trochta, Mary (ML)\" <MLTrochta@dow.com>@ENRON [mailto:IMCEANOTES-+22Trochta+2C+20Mary+20+28ML+29+22+20+3CMLTrochta+40dow+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Ray, Tess"
+      },
+      {
+         "from": "tess.ray@enron.com",
+         "line": 41,
+         "rawfrom": "Tess.Ray@enron.com [mailto:Tess.Ray@enron.com]\n",
+         "source": "email",
+         "to": "MLTrochta@dow.com"
+      },
+      {
+         "from": "mltrochta@dow.com",
+         "line": 57,
+         "rawfrom": "  \"Trochta, Mary (ML)\" <MLTrochta@dow.com>@ENRON\n",
+         "source": "email",
+         "to": "Ray, Tess"
+      },
+      {
+         "from": "tess.ray@enron.com",
+         "line": 73,
+         "rawfrom": "Tess.Ray@enron.com [mailto:Tess.Ray@enron.com]\n",
+         "source": "email",
+         "to": "MLTrochta@dow.com"
+      },
+      {
+         "from": "mltrochta@dow.com",
+         "line": 93,
+         "rawfrom": "  \"Trochta, Mary (ML)\" <MLTrochta@dow.com>@ENRON\n",
+         "source": "email",
+         "to": "Ray, Tess"
+      },
+      {
+         "from": "tess.ray@enron.com",
+         "line": 106,
+         "rawfrom": "Ray, Tess [mailto:tess.ray@ENRON.com]\n",
+         "source": "email",
+         "to": "mltrochta@dow.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/farmer-d/logistics/123.",
+   "hops": [
+      {
+         "from": "tess.ray@enron.com",
+         "line": 4,
+         "rawfrom": "tess.ray@enron.com\r\n",
+         "source": "valid",
+         "to": "j..farmer@enron.com"
+      },
+      {
+         "from": "swehner@dow.com",
+         "line": 24,
+         "rawfrom": "\t\"Wehner, Sandra (SL)\" <swehner@dow.com>@ENRON [mailto:IMCEANOTES-+22Wehner+2C+20Sandra+20+28SL+29+22+20+3Cswehner+40dow+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Ray, Tess"
+      },
+      {
+         "from": "tess.ray@enron.com",
+         "line": 59,
+         "rawfrom": "Tess.Ray@enron.com [mailto:Tess.Ray@enron.com]\n",
+         "source": "email",
+         "to": "MLTrochta@dow.com"
+      },
+      {
+         "from": "mltrochta@dow.com",
+         "line": 78,
+         "rawfrom": "  \"Trochta, Mary (ML)\" <MLTrochta@dow.com>@ENRON\n",
+         "source": "email",
+         "to": "Ray, Tess"
+      },
+      {
+         "from": "tess.ray@enron.com",
+         "line": 91,
+         "rawfrom": "Ray, Tess [mailto:tess.ray@ENRON.com]\n",
+         "source": "email",
+         "to": "mltrochta@dow.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/farmer-d/personal/27.",
+   "hops": [
+      {
+         "from": "mike_mccalister@aimfunds.com",
+         "line": 4,
+         "rawfrom": "mike_mccalister@aimfunds.com\r\n",
+         "source": "valid",
+         "to": "jnewton@ghg.net, monanmac@netzero.net, vennemania@juno.com,"
+      },
+      {
+         "from": "wsheppard@houston.rr.com",
+         "line": 38,
+         "rawfrom": "\tWayne Sheppard [mailto:wsheppard@houston.rr.com]\n",
+         "source": "email",
+         "to": "Chris Koscinski; Louis Booth; David Schraudt; Catherine Frank; Diane"
+      },
+      {
+         "from": "cleere@cooke.net",
+         "line": 53,
+         "rawfrom": "From:\tGnGHerr <cleere@cooke.net>\n",
+         "source": "email",
+         "to": "Ray&Becky Rumley <ray76245@gte.net>; Rose Schmidlkoffer"
+      },
+      {
+         "from": "tj_aggies@hotmail.com",
+         "line": 74,
+         "rawfrom": "From:\tTara Webster <tj_aggies@hotmail.com>\n",
+         "source": "email",
+         "to": "webster@flash.net <webster@flash.net>; cleere@cooke.net"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/farmer-d/personal/182.",
+   "hops": [
+      {
+         "from": "rglover@halff.com",
+         "line": 4,
+         "rawfrom": "rglover@halff.com\r\n",
+         "source": "valid",
+         "to": "glover@neto.com, ckhalla@swbell.net, aggieengineer@email.msn.com,"
+      },
+      {
+         "from": "jnmartin97@hotmail.com",
+         "line": 34,
+         "rawfrom": "Jennifer Martin [mailto:jnmartin97@hotmail.com]\n",
+         "source": "email",
+         "to": "emartin@mail.esc4.com; Abbott, Todd; abraun97@hotmail.com;"
+      },
+      {
+         "from": "kcallan@hotmail.com",
+         "line": 43,
+         "rawfrom": "\"K.C. Allan\" <kcallan@hotmail.com>\n",
+         "source": "email",
+         "to": "Jbt@tca.net, joshbuis@swbell.net, Aggie97ljt@aol.com,"
+      },
+      {
+         "from": "chuck@ellisonlaw.com",
+         "line": 69,
+         "rawfrom": "Chuck Ellison <chuck@ellisonlaw.com>\n",
+         "source": "email",
+         "to": "\"Denise Werst (E-mail)\" <dswerst@wcc.net>, \"Bill Helwig (E-mail)\""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/farmer-d/personal/219.",
+   "hops": [
+      {
+         "from": "rglover@halff.com",
+         "line": 4,
+         "rawfrom": "rglover@halff.com\r\n",
+         "source": "valid",
+         "to": "jm.glover@meritenergy.com, kevin_cameron@sealand.com, glover@neto.com,"
+      },
+      {
+         "from": "bruin@bayou.com",
+         "line": 48,
+         "rawfrom": "Donnie VandeVen & Kristen Sutton [mailto:bruin@bayou.com]\n",
+         "source": "email",
+         "to": "VandeVen, Patty; Sutton, Charlie; Sutton, Brenda; Sutton, Billy;"
+      },
+      {
+         "from": "creativeimages@erols.com",
+         "line": 72,
+         "rawfrom": "creative Images < creativeimages@erols.com\n",
+         "source": "email",
+         "to": "CornfkGirl55@aol.com <mailto:CornfkGirl55@aol.com>  <"
+      },
+      {
+         "from": "d_lenchak@hotmail.com",
+         "line": 111,
+         "rawfrom": "Deanna Lenchak [ mailto:d_lenchak@hotmail.com\n",
+         "source": "email",
+         "to": "LSGOODRICH@aol.com <mailto:LSGOODRICH@aol.com> ; dgoldstein@alloy.com"
+      },
+      {
+         "from": "toro94@excite.com",
+         "line": 263,
+         "rawfrom": "Angel L. Vale Jr. [ mailto:Toro94@excite.com\n",
+         "source": "email",
+         "to": "anthony aldano; Jimenez57@aol.com <mailto:Jimenez57@aol.com> ;"
+      }
+   ],
+   "skipped": 7
+}
+,
+{
+   "file": "/home/jb/maildir/farmer-d/personal/264.",
+   "hops": [
+      {
+         "from": "rglover@halff.com",
+         "line": 4,
+         "rawfrom": "rglover@halff.com\r\n",
+         "source": "valid",
+         "to": "jm.glover@meritenergy.com, tcash@aimtech.net, doodoc@hotmail.com,"
+      },
+      {
+         "from": "sethgraham@tcainternet.com",
+         "line": 34,
+         "rawfrom": "Seth Graham [mailto:sethgraham@tcainternet.com] \n",
+         "source": "email",
+         "to": "Tyler Shambro; Troy Combs; Tommy Mount; Tommy Boyce (E-mail); Tim"
+      },
+      {
+         "from": "flutch11@hotmail.com",
+         "line": 52,
+         "rawfrom": "Gregory Fulcher <flutch11@hotmail.com> \n",
+         "source": "email",
+         "to": "<alxwilliams@hotmail.com>; <btoups@lwcc.com>; <bpb@pds.btr.com>;"
+      },
+      {
+         "from": "504boy1@excite.com",
+         "line": 63,
+         "rawfrom": "504BOY1@excite.com \n",
+         "source": "valid",
+         "to": "Richdog75@yahoo.com, just@mobiletel.com, alxwilliams@hotmail.com,"
+      },
+      {
+         "from": "copperdawn@excite.com",
+         "line": 84,
+         "rawfrom": "Dawn Marie <copperdawn@excite.com> \n",
+         "source": "email",
+         "to": "504BOY1@excite.com, tsavager@aol.com, dede6310@aol.com,"
+      }
+   ],
+   "skipped": 2
+}
+]

@@ -1,0 +1,162 @@
+[
+{
+   "file": "/home/jb/maildir/mckay-b/inbox/131.",
+   "hops": [
+      {
+         "from": "mnl@ranches.org",
+         "line": 4,
+         "rawfrom": "mnl@ranches.org\r\n",
+         "source": "valid",
+         "to": "bmckay@houston.rr.com, rex@arn.net, chompers@flash.net, bmckay@enron.com"
+      },
+      {
+         "from": "gparkey@arn.net",
+         "line": 23,
+         "rawfrom": "Glen Parkey [mailto:gparkey@arn.net]\n",
+         "source": "email",
+         "to": "Patty Schneider; nancy Roberts; Sammye Romine; Yphon LaRoche; Mary Nell"
+      },
+      {
+         "from": "phylene@attglobal.net",
+         "line": 42,
+         "rawfrom": "phylene@attglobal.net [SMTP:phylene@attglobal.net]\n",
+         "source": "email",
+         "to": "Bette Branson; Barbara Reynolds; Lisa Ryan; Lorraine Welch; Lori"
+      },
+      {
+         "from": "hooley.odonnell@pdq.net",
+         "line": 50,
+         "rawfrom": "\" Stan Hooley and Joan O'Donnell\" <hooley.odonnell@pdq.net>\n",
+         "source": "email",
+         "to": "\"Rovins, Betty and Bart\" <bbmj@coastalnet.com>; \"Rinkoff, Feiga\""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/mckay-b/deleted_items/205.",
+   "hops": [
+      {
+         "from": "bneilson@tricresources.com",
+         "line": 4,
+         "rawfrom": "bneilson@tricresources.com\r\n",
+         "source": "valid",
+         "to": "brad.mckay@enron.com"
+      },
+      {
+         "from": "brad.mckay@enron.com",
+         "line": 22,
+         "rawfrom": "Mckay, Brad [mailto:Brad.McKay@ENRON.com]\n",
+         "source": "email",
+         "to": "bneilson@tricresources.com"
+      },
+      {
+         "from": "bneilson@tricresources.com",
+         "line": 34,
+         "rawfrom": "\t\"BNEILSON\" <bneilson@tricresources.com>@ENRON\n",
+         "source": "email",
+         "to": "Mckay, Brad"
+      },
+      {
+         "from": "brad.mckay@enron.com",
+         "line": 42,
+         "rawfrom": "Mckay, Brad [mailto:Brad.McKay@ENRON.com]\n",
+         "source": "email",
+         "to": "bneilson@tricresources.com"
+      },
+      {
+         "from": "bneilson@tricresources.com",
+         "line": 55,
+         "rawfrom": "\t\"BNEILSON\" <bneilson@tricresources.com>@ENRON\n",
+         "source": "email",
+         "to": "Mckay, Brad"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mckay-b/sent_items/71.",
+   "hops": [
+      {
+         "from": "brad.mckay@enron.com",
+         "line": 4,
+         "rawfrom": "brad.mckay@enron.com\r\n",
+         "source": "valid",
+         "to": "dmburkett@houston.rr.com"
+      },
+      {
+         "from": "dmburkett@houston.rr.com",
+         "line": 22,
+         "rawfrom": "\t\"Danna Burkett\" <dmburkett@houston.rr.com>@ENRON  \n",
+         "source": "email",
+         "to": "Mckay, Brad"
+      },
+      {
+         "from": "brad.mckay@enron.com",
+         "line": 29,
+         "rawfrom": "<Brad.Mckay@enron.com>\n",
+         "source": "email",
+         "to": "<dmburkett@houston.rr.com>"
+      },
+      {
+         "from": "dmburkett@houston.rr.com",
+         "line": 40,
+         "rawfrom": "  \"Danna Burkett\" <dmburkett@houston.rr.com>@ENRON\n",
+         "source": "email",
+         "to": "Mckay, Brad"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mckay-b/sent_items/72.",
+   "hops": [
+      {
+         "from": "brad.mckay@enron.com",
+         "line": 4,
+         "rawfrom": "brad.mckay@enron.com\r\n",
+         "source": "valid",
+         "to": "dmburkett@houston.rr.com"
+      },
+      {
+         "from": "dmburkett@houston.rr.com",
+         "line": 22,
+         "rawfrom": "\t\"Danna Burkett\" <dmburkett@houston.rr.com>@ENRON  \n",
+         "source": "email",
+         "to": "Mckay, Brad"
+      },
+      {
+         "from": "brad.mckay@enron.com",
+         "line": 32,
+         "rawfrom": "<Brad.Mckay@enron.com>\n",
+         "source": "email",
+         "to": "<dmburkett@houston.rr.com>"
+      },
+      {
+         "from": "dmburkett@houston.rr.com",
+         "line": 47,
+         "rawfrom": "  \"Danna Burkett\" <dmburkett@houston.rr.com>@ENRON\n",
+         "source": "email",
+         "to": "Mckay, Brad"
+      },
+      {
+         "from": "brad.mckay@enron.com",
+         "line": 55,
+         "rawfrom": "<Brad.Mckay@enron.com>\n",
+         "source": "email",
+         "to": "<dmburkett@houston.rr.com>"
+      },
+      {
+         "from": "dmburkett@houston.rr.com",
+         "line": 67,
+         "rawfrom": "  \"Danna Burkett\" <dmburkett@houston.rr.com>@ENRON\n",
+         "source": "email",
+         "to": "Mckay, Brad"
+      }
+   ],
+   "skipped": 0
+}
+]

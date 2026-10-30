@@ -1,0 +1,1401 @@
+[
+{
+   "file": "/home/jb/maildir/beck-s/all_documents/1700.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 43,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 08/11/2000 12:02:42 PM\n",
+         "source": "email",
+         "to": "<Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 88,
+         "rawfrom": "Sally.Beck@enron.com [mailto:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 117,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 08/09/2000 11:35:19 AM\n",
+         "source": "email",
+         "to": "\"Sally\" <sally.beck@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/all_documents/3588.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "cwhite@texas.usta.com"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 25,
+         "rawfrom": "\"White, Cara\" <CWhite@texas.usta.com> on 01/10/2001 05:46:04 PM\n",
+         "source": "email",
+         "to": "\"'Sally.Beck@enron.com'\" <Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 36,
+         "rawfrom": "Sally.Beck@enron.com [SMTP:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "White, Cara"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 56,
+         "rawfrom": "CWhite@texas.usta.com",
+         "source": "valid",
+         "to": "\"'sally.beck@enron.com'\" <sally.beck@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/all_documents/968.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 31,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 11/14/2000 03:36:44 PM\n",
+         "source": "email",
+         "to": "<Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 51,
+         "rawfrom": "Sally.Beck@enron.com [mailto:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 73,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 11/14/2000 11:10:32 AM\n",
+         "source": "email",
+         "to": "\"Sally\" <sally.beck@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/all_documents/303.",
+   "hops": [
+      {
+         "from": "cwhite@viviance.com",
+         "line": 4,
+         "rawfrom": "cwhite@viviance.com\r\n",
+         "source": "valid",
+         "to": "cwhite@texas.usta.com"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 27,
+         "rawfrom": "White, Cara [mailto:CWhite@texas.usta.com]\n",
+         "source": "email",
+         "to": "'Cindy White'"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 44,
+         "rawfrom": "Cindy White [SMTP:cwhite@viviance.com]\n",
+         "source": "email",
+         "to": "White, Cara"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 67,
+         "rawfrom": "White, Cara [mailto:CWhite@texas.usta.com]\n",
+         "source": "email",
+         "to": "'cwhite@viviance.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/all_documents/679.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 23,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 12/11/2000 01:31:17 PM\n",
+         "source": "email",
+         "to": "<Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 34,
+         "rawfrom": "Sally.Beck@enron.com [mailto:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 51,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 12/11/2000 11:19:35 AM\n",
+         "source": "email",
+         "to": "\"Sally\" <sally.beck@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/all_documents/2952.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 31,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 04/03/2001 09:28:33 AM\n",
+         "source": "email",
+         "to": "<Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 42,
+         "rawfrom": "Sally.Beck@enron.com [mailto:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 56,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 04/03/2001 09:14:22 AM\n",
+         "source": "email",
+         "to": "\"Sister Sally\" <sally.beck@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/all_documents/1402.",
+   "hops": [
+      {
+         "from": "tjacobs@ou.edu",
+         "line": 4,
+         "rawfrom": "tjacobs@ou.edu\r\n",
+         "source": "valid",
+         "to": "sally.beck@enron.com"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 62,
+         "rawfrom": "Sally.Beck@enron.com [mailto:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "Jacobs, Ted K"
+      },
+      {
+         "from": "tjacobs@ou.edu",
+         "line": 92,
+         "rawfrom": "\"Jacobs, Ted K\" <tjacobs@ou.edu> on 09/23/2000 03:07:11 PM\n",
+         "source": "email",
+         "to": "\"'Sally.Beck@enron.com'\" <Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 130,
+         "rawfrom": "Sally.Beck@enron.com [mailto:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "Jacobs, Ted K"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/all_documents/1371.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 29,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 09/27/2000 03:12:05 PM\n",
+         "source": "email",
+         "to": "<Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 50,
+         "rawfrom": "Sally.Beck@enron.com [mailto:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 70,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 09/26/2000 09:46:52 AM\n",
+         "source": "email",
+         "to": "\"Sally\" <sally.beck@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/all_documents/3177.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "cwhite@texas.usta.com"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 23,
+         "rawfrom": "\"White, Cara\" <CWhite@texas.usta.com> on 02/15/2001 10:36:29 AM\n",
+         "source": "email",
+         "to": "\"'Sally.Beck@enron.com'\" <Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 46,
+         "rawfrom": "Sally.Beck@enron.com [SMTP:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "cwhite@viviance.com; CWhite@texas.usta.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 68,
+         "rawfrom": "cwhite@viviance.com",
+         "source": "valid",
+         "to": "\"Sister\" <sally.beck@enron.com>, \"White, Cara\""
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 88,
+         "rawfrom": "White, Cara [mailto:CWhite@texas.usta.com]\n",
+         "source": "email",
+         "to": "'cwhite@viviance.com'; 'sally.beck@enron.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/all_documents/302.",
+   "hops": [
+      {
+         "from": "mailer-daemon@postmaster.enron.com",
+         "line": 4,
+         "rawfrom": "mailer-daemon@postmaster.enron.com\r\n",
+         "source": "valid",
+         "to": "sally.beck@enron.com"
+      },
+      {
+         "from": "cwhite@vivance.com",
+         "line": 25,
+         "rawfrom": "cwhite@vivance.com",
+         "source": "valid",
+         "to": "<cwhite@vivance.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 42,
+         "rawfrom": "Sally.Beck@enron.com\n",
+         "source": "valid",
+         "to": "CWhite@texas.usta.com, cwhite@vivance.com"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 71,
+         "rawfrom": "\"White, Cara\" <CWhite@texas.usta.com> on 01/30/2001 10:22:36 AM\n",
+         "source": "email",
+         "to": "\"'cwhite@viviance.com'\" <cwhite@viviance.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/all_documents/2256.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "cwhite@texas.usta.com"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 26,
+         "rawfrom": "\"White, Cara\" <CWhite@texas.usta.com> on 05/02/2000 10:47:42 AM\n",
+         "source": "email",
+         "to": "\"'Sally.Beck@enron.com'\" <Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 39,
+         "rawfrom": "Sally.Beck@enron.com [SMTP:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "CWhite@texas.usta.com"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 57,
+         "rawfrom": "CWhite@texas.usta.com",
+         "source": "valid",
+         "to": "\"'sally.beck@enron.com'\" <sally.beck@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/all_documents/2222.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "cwhite@texas.usta.com"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 34,
+         "rawfrom": "\"White, Cara\" <CWhite@texas.usta.com> on 05/08/2000 11:53:48 AM\n",
+         "source": "email",
+         "to": "\"'Sally.Beck@enron.com'\" <Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 50,
+         "rawfrom": "Sally.Beck@enron.com [SMTP:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "CWhite@texas.usta.com"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 79,
+         "rawfrom": "CWhite@texas.usta.com",
+         "source": "valid",
+         "to": "\"'sally.beck@enron.com'\" <sally.beck@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/sent/1011.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "cwhite@texas.usta.com"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 25,
+         "rawfrom": "\"White, Cara\" <CWhite@texas.usta.com> on 01/10/2001 05:46:04 PM\n",
+         "source": "email",
+         "to": "\"'Sally.Beck@enron.com'\" <Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 36,
+         "rawfrom": "Sally.Beck@enron.com [SMTP:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "White, Cara"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 56,
+         "rawfrom": "CWhite@texas.usta.com",
+         "source": "valid",
+         "to": "\"'sally.beck@enron.com'\" <sally.beck@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/sent/764.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 31,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 04/03/2001 09:28:33 AM\n",
+         "source": "email",
+         "to": "<Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 42,
+         "rawfrom": "Sally.Beck@enron.com [mailto:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 56,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 04/03/2001 09:14:22 AM\n",
+         "source": "email",
+         "to": "\"Sister Sally\" <sally.beck@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/sent/74.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 31,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 11/14/2000 03:36:44 PM\n",
+         "source": "email",
+         "to": "<Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 51,
+         "rawfrom": "Sally.Beck@enron.com [mailto:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 73,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 11/14/2000 11:10:32 AM\n",
+         "source": "email",
+         "to": "\"Sally\" <sally.beck@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/sent/320.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 43,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 08/11/2000 12:02:42 PM\n",
+         "source": "email",
+         "to": "<Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 88,
+         "rawfrom": "Sally.Beck@enron.com [mailto:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 117,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 08/09/2000 11:35:19 AM\n",
+         "source": "email",
+         "to": "\"Sally\" <sally.beck@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/sent/859.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "cwhite@texas.usta.com"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 23,
+         "rawfrom": "\"White, Cara\" <CWhite@texas.usta.com> on 02/15/2001 10:36:29 AM\n",
+         "source": "email",
+         "to": "\"'Sally.Beck@enron.com'\" <Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 46,
+         "rawfrom": "Sally.Beck@enron.com [SMTP:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "cwhite@viviance.com; CWhite@texas.usta.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 68,
+         "rawfrom": "cwhite@viviance.com",
+         "source": "valid",
+         "to": "\"Sister\" <sally.beck@enron.com>, \"White, Cara\""
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 88,
+         "rawfrom": "White, Cara [mailto:CWhite@texas.usta.com]\n",
+         "source": "email",
+         "to": "'cwhite@viviance.com'; 'sally.beck@enron.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/sent/194.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 29,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 09/27/2000 03:12:05 PM\n",
+         "source": "email",
+         "to": "<Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 50,
+         "rawfrom": "Sally.Beck@enron.com [mailto:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 70,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 09/26/2000 09:46:52 AM\n",
+         "source": "email",
+         "to": "\"Sally\" <sally.beck@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/sent/480.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "cwhite@texas.usta.com"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 34,
+         "rawfrom": "\"White, Cara\" <CWhite@texas.usta.com> on 05/08/2000 11:53:48 AM\n",
+         "source": "email",
+         "to": "\"'Sally.Beck@enron.com'\" <Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 50,
+         "rawfrom": "Sally.Beck@enron.com [SMTP:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "CWhite@texas.usta.com"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 79,
+         "rawfrom": "CWhite@texas.usta.com",
+         "source": "valid",
+         "to": "\"'sally.beck@enron.com'\" <sally.beck@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/sent/9.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 23,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 12/11/2000 01:31:17 PM\n",
+         "source": "email",
+         "to": "<Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 34,
+         "rawfrom": "Sally.Beck@enron.com [mailto:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 51,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 12/11/2000 11:19:35 AM\n",
+         "source": "email",
+         "to": "\"Sally\" <sally.beck@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/sent/490.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "cwhite@texas.usta.com"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 26,
+         "rawfrom": "\"White, Cara\" <CWhite@texas.usta.com> on 05/02/2000 10:47:42 AM\n",
+         "source": "email",
+         "to": "\"'Sally.Beck@enron.com'\" <Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 39,
+         "rawfrom": "Sally.Beck@enron.com [SMTP:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "CWhite@texas.usta.com"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 57,
+         "rawfrom": "CWhite@texas.usta.com",
+         "source": "valid",
+         "to": "\"'sally.beck@enron.com'\" <sally.beck@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/deleted_items/128.",
+   "hops": [
+      {
+         "from": "greg.piper@enron.com",
+         "line": 4,
+         "rawfrom": "greg.piper@enron.com\r\n",
+         "source": "valid",
+         "to": "sally.beck@enron.com"
+      },
+      {
+         "from": "paulp@calpine.com",
+         "line": 50,
+         "rawfrom": "\tPaul Posoli <paulp@calpine.com>@ENRON [mailto:IMCEANOTES-Paul+20Posoli+20+3Cpaulp+40calpine+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Piper, Greg"
+      },
+      {
+         "from": "greg.piper@enron.com",
+         "line": 60,
+         "rawfrom": "Greg.Piper@enron.com [mailto:Greg.Piper@enron.com]\n",
+         "source": "email",
+         "to": "paulp@calpine.com"
+      },
+      {
+         "from": "paulp@calpine.com",
+         "line": 76,
+         "rawfrom": "  Paul Posoli <paulp@calpine.com>@ENRON\n",
+         "source": "email",
+         "to": "Piper, Greg"
+      },
+      {
+         "from": "greg.piper@enron.com",
+         "line": 92,
+         "rawfrom": "Piper, Greg [mailto:Greg.Piper@ENRON.com]\n",
+         "source": "email",
+         "to": "paulp@calpine.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/sent_items/213.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "jmartino@viviance.com"
+      },
+      {
+         "from": "jmartino@viviance.com",
+         "line": 22,
+         "rawfrom": "\t\"Jim Martino\" <jmartino@viviance.com>@ENRON [mailto:IMCEANOTES-+22Jim+20Martino+22+20+3Cjmartino+40viviance+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Wilbeck, Tom"
+      },
+      {
+         "from": "jmartino@viviance.com",
+         "line": 56,
+         "rawfrom": "Jim Martino [mailto:jmartino@viviance.com]\n",
+         "source": "email",
+         "to": "Tom.Wilbeck@ENRON.com"
+      },
+      {
+         "from": "tom.wilbeck@enron.com",
+         "line": 92,
+         "rawfrom": "Wilbeck, Tom [mailto:Tom.Wilbeck@ENRON.com]\n",
+         "source": "email",
+         "to": "jpoger@viviance.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/sent_items/242.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "greg.piper@enron.com"
+      },
+      {
+         "from": "paulp@calpine.com",
+         "line": 36,
+         "rawfrom": "\tPaul Posoli <paulp@calpine.com>@ENRON [mailto:IMCEANOTES-Paul+20Posoli+20+3Cpaulp+40calpine+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Piper, Greg"
+      },
+      {
+         "from": "greg.piper@enron.com",
+         "line": 46,
+         "rawfrom": "Greg.Piper@enron.com [mailto:Greg.Piper@enron.com]\n",
+         "source": "email",
+         "to": "paulp@calpine.com"
+      },
+      {
+         "from": "paulp@calpine.com",
+         "line": 62,
+         "rawfrom": "  Paul Posoli <paulp@calpine.com>@ENRON\n",
+         "source": "email",
+         "to": "Piper, Greg"
+      },
+      {
+         "from": "greg.piper@enron.com",
+         "line": 78,
+         "rawfrom": "Piper, Greg [mailto:Greg.Piper@ENRON.com]\n",
+         "source": "email",
+         "to": "paulp@calpine.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/sent_items/157.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 23,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 04/03/2001 09:28:33 AM\n",
+         "source": "email",
+         "to": "<Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 34,
+         "rawfrom": "Sally.Beck@enron.com [mailto:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 48,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 04/03/2001 09:14:22 AM\n",
+         "source": "email",
+         "to": "\"Sister Sally\" <sally.beck@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/recruiting/75.",
+   "hops": [
+      {
+         "from": "tjacobs@ou.edu",
+         "line": 4,
+         "rawfrom": "tjacobs@ou.edu\r\n",
+         "source": "valid",
+         "to": "sally.beck@enron.com"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 62,
+         "rawfrom": "Sally.Beck@enron.com [mailto:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "Jacobs, Ted K"
+      },
+      {
+         "from": "tjacobs@ou.edu",
+         "line": 92,
+         "rawfrom": "\"Jacobs, Ted K\" <tjacobs@ou.edu> on 09/23/2000 03:07:11 PM\n",
+         "source": "email",
+         "to": "\"'Sally.Beck@enron.com'\" <Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 130,
+         "rawfrom": "Sally.Beck@enron.com [mailto:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "Jacobs, Ted K"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/discussion_threads/270.",
+   "hops": [
+      {
+         "from": "cwhite@viviance.com",
+         "line": 4,
+         "rawfrom": "cwhite@viviance.com\r\n",
+         "source": "valid",
+         "to": "cwhite@texas.usta.com"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 27,
+         "rawfrom": "White, Cara [mailto:CWhite@texas.usta.com]\n",
+         "source": "email",
+         "to": "'Cindy White'"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 44,
+         "rawfrom": "Cindy White [SMTP:cwhite@viviance.com]\n",
+         "source": "email",
+         "to": "White, Cara"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 67,
+         "rawfrom": "White, Cara [mailto:CWhite@texas.usta.com]\n",
+         "source": "email",
+         "to": "'cwhite@viviance.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/discussion_threads/269.",
+   "hops": [
+      {
+         "from": "mailer-daemon@postmaster.enron.com",
+         "line": 4,
+         "rawfrom": "mailer-daemon@postmaster.enron.com\r\n",
+         "source": "valid",
+         "to": "sally.beck@enron.com"
+      },
+      {
+         "from": "cwhite@vivance.com",
+         "line": 25,
+         "rawfrom": "cwhite@vivance.com",
+         "source": "valid",
+         "to": "<cwhite@vivance.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 42,
+         "rawfrom": "Sally.Beck@enron.com\n",
+         "source": "valid",
+         "to": "CWhite@texas.usta.com, cwhite@vivance.com"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 71,
+         "rawfrom": "\"White, Cara\" <CWhite@texas.usta.com> on 01/30/2001 10:22:36 AM\n",
+         "source": "email",
+         "to": "\"'cwhite@viviance.com'\" <cwhite@viviance.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/discussion_threads/1706.",
+   "hops": [
+      {
+         "from": "tjacobs@ou.edu",
+         "line": 4,
+         "rawfrom": "tjacobs@ou.edu\r\n",
+         "source": "valid",
+         "to": "sally.beck@enron.com"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 62,
+         "rawfrom": "Sally.Beck@enron.com [mailto:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "Jacobs, Ted K"
+      },
+      {
+         "from": "tjacobs@ou.edu",
+         "line": 92,
+         "rawfrom": "\"Jacobs, Ted K\" <tjacobs@ou.edu> on 09/23/2000 03:07:11 PM\n",
+         "source": "email",
+         "to": "\"'Sally.Beck@enron.com'\" <Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 130,
+         "rawfrom": "Sally.Beck@enron.com [mailto:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "Jacobs, Ted K"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/_sent_mail/473.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "cwhite@texas.usta.com"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 34,
+         "rawfrom": "\"White, Cara\" <CWhite@texas.usta.com> on 05/08/2000 11:53:48 AM\n",
+         "source": "email",
+         "to": "\"'Sally.Beck@enron.com'\" <Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 50,
+         "rawfrom": "Sally.Beck@enron.com [SMTP:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "CWhite@texas.usta.com"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 79,
+         "rawfrom": "CWhite@texas.usta.com",
+         "source": "valid",
+         "to": "\"'sally.beck@enron.com'\" <sally.beck@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/_sent_mail/757.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 31,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 04/03/2001 09:28:33 AM\n",
+         "source": "email",
+         "to": "<Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 42,
+         "rawfrom": "Sally.Beck@enron.com [mailto:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 56,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 04/03/2001 09:14:22 AM\n",
+         "source": "email",
+         "to": "\"Sister Sally\" <sally.beck@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/_sent_mail/74.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 31,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 11/14/2000 03:36:44 PM\n",
+         "source": "email",
+         "to": "<Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 51,
+         "rawfrom": "Sally.Beck@enron.com [mailto:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 73,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 11/14/2000 11:10:32 AM\n",
+         "source": "email",
+         "to": "\"Sally\" <sally.beck@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/_sent_mail/1004.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "cwhite@texas.usta.com"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 25,
+         "rawfrom": "\"White, Cara\" <CWhite@texas.usta.com> on 01/10/2001 05:46:04 PM\n",
+         "source": "email",
+         "to": "\"'Sally.Beck@enron.com'\" <Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 36,
+         "rawfrom": "Sally.Beck@enron.com [SMTP:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "White, Cara"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 56,
+         "rawfrom": "CWhite@texas.usta.com",
+         "source": "valid",
+         "to": "\"'sally.beck@enron.com'\" <sally.beck@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/_sent_mail/312.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 43,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 08/11/2000 12:02:42 PM\n",
+         "source": "email",
+         "to": "<Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 88,
+         "rawfrom": "Sally.Beck@enron.com [mailto:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 117,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 08/09/2000 11:35:19 AM\n",
+         "source": "email",
+         "to": "\"Sally\" <sally.beck@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/_sent_mail/186.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 29,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 09/27/2000 03:12:05 PM\n",
+         "source": "email",
+         "to": "<Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 50,
+         "rawfrom": "Sally.Beck@enron.com [mailto:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 70,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 09/26/2000 09:46:52 AM\n",
+         "source": "email",
+         "to": "\"Sally\" <sally.beck@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/_sent_mail/852.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "cwhite@texas.usta.com"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 23,
+         "rawfrom": "\"White, Cara\" <CWhite@texas.usta.com> on 02/15/2001 10:36:29 AM\n",
+         "source": "email",
+         "to": "\"'Sally.Beck@enron.com'\" <Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 46,
+         "rawfrom": "Sally.Beck@enron.com [SMTP:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "cwhite@viviance.com; CWhite@texas.usta.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 68,
+         "rawfrom": "cwhite@viviance.com",
+         "source": "valid",
+         "to": "\"Sister\" <sally.beck@enron.com>, \"White, Cara\""
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 88,
+         "rawfrom": "White, Cara [mailto:CWhite@texas.usta.com]\n",
+         "source": "email",
+         "to": "'cwhite@viviance.com'; 'sally.beck@enron.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/_sent_mail/483.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "cwhite@texas.usta.com"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 26,
+         "rawfrom": "\"White, Cara\" <CWhite@texas.usta.com> on 05/02/2000 10:47:42 AM\n",
+         "source": "email",
+         "to": "\"'Sally.Beck@enron.com'\" <Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 39,
+         "rawfrom": "Sally.Beck@enron.com [SMTP:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "CWhite@texas.usta.com"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 57,
+         "rawfrom": "CWhite@texas.usta.com",
+         "source": "valid",
+         "to": "\"'sally.beck@enron.com'\" <sally.beck@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/_sent_mail/9.",
+   "hops": [
+      {
+         "from": "sally.beck@enron.com",
+         "line": 4,
+         "rawfrom": "sally.beck@enron.com\r\n",
+         "source": "valid",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 23,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 12/11/2000 01:31:17 PM\n",
+         "source": "email",
+         "to": "<Sally.Beck@enron.com>"
+      },
+      {
+         "from": "sally.beck@enron.com",
+         "line": 34,
+         "rawfrom": "Sally.Beck@enron.com [mailto:Sally.Beck@enron.com]\n",
+         "source": "email",
+         "to": "cwhite@viviance.com"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 51,
+         "rawfrom": "\"Cindy White\" <cwhite@viviance.com> on 12/11/2000 11:19:35 AM\n",
+         "source": "email",
+         "to": "\"Sally\" <sally.beck@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/beck-s/personal/19.",
+   "hops": [
+      {
+         "from": "cwhite@viviance.com",
+         "line": 4,
+         "rawfrom": "cwhite@viviance.com\r\n",
+         "source": "valid",
+         "to": "cwhite@texas.usta.com"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 27,
+         "rawfrom": "White, Cara [mailto:CWhite@texas.usta.com]\n",
+         "source": "email",
+         "to": "'Cindy White'"
+      },
+      {
+         "from": "cwhite@viviance.com",
+         "line": 44,
+         "rawfrom": "Cindy White [SMTP:cwhite@viviance.com]\n",
+         "source": "email",
+         "to": "White, Cara"
+      },
+      {
+         "from": "cwhite@texas.usta.com",
+         "line": 67,
+         "rawfrom": "White, Cara [mailto:CWhite@texas.usta.com]\n",
+         "source": "email",
+         "to": "'cwhite@viviance.com'"
+      }
+   ],
+   "skipped": 0
+}
+]

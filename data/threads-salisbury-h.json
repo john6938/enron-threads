@@ -1,0 +1,288 @@
+[
+{
+   "file": "/home/jb/maildir/salisbury-h/inbox/127.",
+   "hops": [
+      {
+         "from": "chris.lackey@enron.com",
+         "line": 4,
+         "rawfrom": "chris.lackey@enron.com\r\n",
+         "source": "valid",
+         "to": "holden.salisbury@enron.com"
+      },
+      {
+         "from": "jbutler@pnm.com",
+         "line": 23,
+         "rawfrom": "Butler, Jim [mailto:JBUTLER@pnm.com]\n",
+         "source": "email",
+         "to": "Lackey, Chris"
+      },
+      {
+         "from": "chris.lackey@enron.com",
+         "line": 34,
+         "rawfrom": "Lackey, Chris [mailto:Chris.Lackey@ENRON.com]\n",
+         "source": "email",
+         "to": "Butler, Jim"
+      },
+      {
+         "from": "jbutler@pnm.com",
+         "line": 46,
+         "rawfrom": "Butler, Jim [mailto:JBUTLER@pnm.com]\n",
+         "source": "email",
+         "to": "Lackey, Chris"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/salisbury-h/inbox/425.",
+   "hops": [
+      {
+         "from": "stacy.runswick@enron.com",
+         "line": 4,
+         "rawfrom": "stacy.runswick@enron.com\r\n",
+         "source": "valid",
+         "to": "cara.semperger@enron.com, diana.scholtes@enron.com,"
+      },
+      {
+         "from": "srunswick@aol.com",
+         "line": 24,
+         "rawfrom": "Srunswick@aol.com [mailto:Srunswick@aol.com]\n",
+         "source": "email",
+         "to": "Runswick, Stacy"
+      },
+      {
+         "from": "mlrosales@netzero.net",
+         "line": 33,
+         "rawfrom": " <mlrosales@netzero.net>\n",
+         "source": "email",
+         "to": "mlrosales@netzero.net"
+      },
+      {
+         "from": "twink@fuse.net",
+         "line": 42,
+         "rawfrom": " <twink@fuse.net>\n",
+         "source": "email",
+         "to": "~Twink~ <twink@fuse.net>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/salisbury-h/inbox/99.",
+   "hops": [
+      {
+         "from": "s.thome@alum.mit.edu",
+         "line": 4,
+         "rawfrom": "s.thome@alum.mit.edu\r\n",
+         "source": "valid",
+         "to": "holden.salisbury@enron.com"
+      },
+      {
+         "from": "holden.salisbury@enron.com",
+         "line": 29,
+         "rawfrom": "\"Salisbury, Holden\" <Holden.Salisbury@enron.com>\n",
+         "source": "email",
+         "to": "\"Stephen Thome\" <s.thome@alum.mit.edu>"
+      },
+      {
+         "from": "s.thome@alum.mit.edu",
+         "line": 44,
+         "rawfrom": "Stephen Thome [mailto:s.thome@alum.mit.edu]\n",
+         "source": "email",
+         "to": "Salisbury, Holden"
+      },
+      {
+         "from": "holden.salisbury@enron.com",
+         "line": 54,
+         "rawfrom": "\"Salisbury, Holden\" <Holden.Salisbury@enron.com>\n",
+         "source": "email",
+         "to": "<s.thome@alum.mit.edu>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/salisbury-h/inbox/522.",
+   "hops": [
+      {
+         "from": "anna.mehrer@enron.com",
+         "line": 4,
+         "rawfrom": "anna.mehrer@enron.com\r\n",
+         "source": "valid",
+         "to": "holden.salisbury@enron.com"
+      },
+      {
+         "from": "cynthia.biggs@travelpark.com",
+         "line": 22,
+         "rawfrom": "Cynthia Biggs [mailto:cynthia.biggs@travelpark.com]\n",
+         "source": "email",
+         "to": "Mehrer, Anna"
+      },
+      {
+         "from": "anna.mehrer@enron.com",
+         "line": 36,
+         "rawfrom": "\tMehrer, Anna[SMTP:Anna.Mehrer@ENRON.com]\n",
+         "source": "email",
+         "to": "Salisbury, Holden"
+      },
+      {
+         "from": "cynthia.biggs@travelpark.com",
+         "line": 76,
+         "rawfrom": "Cynthia Biggs [mailto:cynthia.biggs@travelpark.com]\n",
+         "source": "email",
+         "to": "Mehrer, Anna"
+      },
+      {
+         "from": "anna.mehrer@enron.com",
+         "line": 88,
+         "rawfrom": "\tMehrer, Anna[SMTP:Anna.Mehrer@ENRON.com]\n",
+         "source": "email",
+         "to": "Cynthia (E-mail)"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/salisbury-h/sent_items/17.",
+   "hops": [
+      {
+         "from": "holden.salisbury@enron.com",
+         "line": 4,
+         "rawfrom": "holden.salisbury@enron.com\r\n",
+         "source": "valid",
+         "to": "chris.lackey@enron.com"
+      },
+      {
+         "from": "jbutler@pnm.com",
+         "line": 36,
+         "rawfrom": "Butler, Jim [mailto:JBUTLER@pnm.com]\n",
+         "source": "email",
+         "to": "Lackey, Chris"
+      },
+      {
+         "from": "chris.lackey@enron.com",
+         "line": 47,
+         "rawfrom": "Lackey, Chris [mailto:Chris.Lackey@ENRON.com]\n",
+         "source": "email",
+         "to": "Butler, Jim"
+      },
+      {
+         "from": "jbutler@pnm.com",
+         "line": 59,
+         "rawfrom": "Butler, Jim [mailto:JBUTLER@pnm.com]\n",
+         "source": "email",
+         "to": "Lackey, Chris"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/salisbury-h/sent_items/92.",
+   "hops": [
+      {
+         "from": "holden.salisbury@enron.com",
+         "line": 4,
+         "rawfrom": "holden.salisbury@enron.com\r\n",
+         "source": "valid",
+         "to": "salisbury@spiretech.com"
+      },
+      {
+         "from": "lcrane@prebon.com",
+         "line": 30,
+         "rawfrom": "\tLex Crane <LCrane@prebon.com>@ENRON [mailto:IMCEANOTES-Lex+20Crane+20+3CLCrane+40prebon+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Alonso, Tom"
+      },
+      {
+         "from": "rita.nagle@gs.com",
+         "line": 55,
+         "rawfrom": "\tNagle, Rita[SMTP:rita.nagle@gs.com]\n",
+         "source": "email",
+         "to": "Donald Tencellent Jr."
+      },
+      {
+         "from": "expedition@everestbasecamp.com",
+         "line": 64,
+         "rawfrom": "himex [mailto:expedition@everestbasecamp.com]\n",
+         "source": "email",
+         "to": "patrickw@Youthstream.com; <mailto:patrickw@Youthstream.com;>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/salisbury-h/read/147.",
+   "hops": [
+      {
+         "from": "johng@pira.com",
+         "line": 4,
+         "rawfrom": "johng@pira.com\r\n",
+         "source": "valid",
+         "to": "holden.salisbury@enron.com"
+      },
+      {
+         "from": "holden.salisbury@enron.com",
+         "line": 41,
+         "rawfrom": "Holden.Salisbury@enron.com [mailto:Holden.Salisbury@enron.com]\n",
+         "source": "email",
+         "to": "johng@pira.com"
+      },
+      {
+         "from": "johng@pira.com",
+         "line": 69,
+         "rawfrom": "johng@pira.com",
+         "source": "valid",
+         "to": "<Holden.Salisbury@enron.com>"
+      },
+      {
+         "from": "holden.salisbury@enron.com",
+         "line": 104,
+         "rawfrom": "Holden.Salisbury@enron.com [mailto:Holden.Salisbury@enron.com]\n",
+         "source": "email",
+         "to": "support@pira.com; alex@pira.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/salisbury-h/holden_s/4.",
+   "hops": [
+      {
+         "from": "tom.alonso@enron.com",
+         "line": 4,
+         "rawfrom": "tom.alonso@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.fischer@enron.com, holden.salisbury@enron.com"
+      },
+      {
+         "from": "lcrane@prebon.com",
+         "line": 22,
+         "rawfrom": "\tLex Crane <LCrane@prebon.com>@ENRON [mailto:IMCEANOTES-Lex+20Crane+20+3CLCrane+40prebon+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Alonso, Tom"
+      },
+      {
+         "from": "rita.nagle@gs.com",
+         "line": 47,
+         "rawfrom": "\tNagle, Rita[SMTP:rita.nagle@gs.com]\n",
+         "source": "email",
+         "to": "Donald Tencellent Jr."
+      },
+      {
+         "from": "expedition@everestbasecamp.com",
+         "line": 56,
+         "rawfrom": "himex [mailto:expedition@everestbasecamp.com]\n",
+         "source": "email",
+         "to": "patrickw@Youthstream.com; <mailto:patrickw@Youthstream.com;>"
+      }
+   ],
+   "skipped": 2
+}
+]

@@ -1,0 +1,78 @@
+[
+{
+   "file": "/home/jb/maildir/holst-k/deleted_items/134.",
+   "hops": [
+      {
+         "from": "tbrassard@hhsi.com",
+         "line": 4,
+         "rawfrom": "tbrassard@hhsi.com\r\n",
+         "source": "valid",
+         "to": "kholst@enron.com"
+      },
+      {
+         "from": "eopper@opperfinancial.com",
+         "line": 57,
+         "rawfrom": "Elaine Opper home [mailto:eopper@opperfinancial.com]\n",
+         "source": "email",
+         "to": "HHSTM - Brassard, Tracy"
+      },
+      {
+         "from": "tbrassard@hhsi.com",
+         "line": 129,
+         "rawfrom": "\tHHSTM - Brassard, Tracy [mailto:TBrassard@hhsi.com]\n",
+         "source": "email",
+         "to": "eopper@opperfinancial.com"
+      },
+      {
+         "from": "eopper@opperfinancial.com",
+         "line": 150,
+         "rawfrom": "Elaine Opper home [mailto:eopper@opperfinancial.com]\n",
+         "source": "email",
+         "to": "HHSTM - Brassard, Tracy"
+      },
+      {
+         "from": "tbrassard@hhsi.com",
+         "line": 178,
+         "rawfrom": "\tHHSTM - Brassard, Tracy [mailto:TBrassard@hhsi.com]\n",
+         "source": "email",
+         "to": "'Elaine Opper'"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/holst-k/deleted_items/135.",
+   "hops": [
+      {
+         "from": "tbrassard@hhsi.com",
+         "line": 4,
+         "rawfrom": "tbrassard@hhsi.com\r\n",
+         "source": "valid",
+         "to": "duntex@aol.com, aharris@sarofim.com, taylorr@ctt.com, mmgshell@aol.com,"
+      },
+      {
+         "from": "rgbdc1@aol.com",
+         "line": 23,
+         "rawfrom": "RGBDC1@aol.com [mailto:RGBDC1@aol.com] \n",
+         "source": "email",
+         "to": "CarolSB@aol.com; TRACETX1@aol.com; DGBDC@ih2000.net;"
+      },
+      {
+         "from": "drjew@ijntb.net",
+         "line": 36,
+         "rawfrom": "\"James Welch Jr.\" <drjew@ijntb.net>\n",
+         "source": "email",
+         "to": "Billie & Bob Veale <Billy1960@email.msn.com>, Cheri' Griffith"
+      },
+      {
+         "from": "jwelch@ijntb.net",
+         "line": 53,
+         "rawfrom": "Jimmy Welch <jwelch@ijntb.net>\n",
+         "source": "email",
+         "to": "\"Dr. James Welch, Jr.\" <drjew@ijntb.net>, Jack Threadgill"
+      }
+   ],
+   "skipped": 0
+}
+]

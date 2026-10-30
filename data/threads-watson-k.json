@@ -1,0 +1,1184 @@
+[
+{
+   "file": "/home/jb/maildir/watson-k/paris/16.",
+   "hops": [
+      {
+         "from": "jane.blizzard@travelpark.com",
+         "line": 4,
+         "rawfrom": "jane.blizzard@travelpark.com\r\n",
+         "source": "valid",
+         "to": "kimberly.watson@enron.com"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 31,
+         "rawfrom": "\tKimberly.Watson@enron.com[SMTP:Kimberly.Watson@enron.com]\n",
+         "source": "email",
+         "to": "Jane Blizzard"
+      },
+      {
+         "from": "jane.blizzard@travelpark.com",
+         "line": 110,
+         "rawfrom": "jane.blizzard@travelpark.com",
+         "source": "valid",
+         "to": "\"'Kimberly.Watson@enron.com'\" <Kimberly.Watson@enron.com>"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 151,
+         "rawfrom": "  Kimberly.Watson@enron.com[SMTP:Kimberly.Watson@enron.com]\n",
+         "source": "email",
+         "to": "Jane Blizzard"
+      },
+      {
+         "from": "jane.blizzard@travelpark.com",
+         "line": 174,
+         "rawfrom": "jane.blizzard@travelpark.com",
+         "source": "valid",
+         "to": "\"'Kimberly.Watson@enron.com'\" <Kimberly.Watson@enron.com>"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 192,
+         "rawfrom": "  Kimberly.Watson@enron.com[SMTP:Kimberly.Watson@enron.com]\n",
+         "source": "email",
+         "to": "Jane Blizzard"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/big_sandy___caithness/10.",
+   "hops": [
+      {
+         "from": "igi@nctimes.net",
+         "line": 4,
+         "rawfrom": "igi@nctimes.net\r\n",
+         "source": "valid",
+         "to": "kimberly.watson@enron.com"
+      },
+      {
+         "from": "igi@nctimes.net",
+         "line": 35,
+         "rawfrom": "Kirk Ketcherside [mailto:igi@nctimes.net]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "igi@nctimes.net",
+         "line": 68,
+         "rawfrom": "Kirk Ketcherside [mailto:igi@nctimes.net]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 87,
+         "rawfrom": "Watson, Kimberly [mailto:Kimberly.Watson@enron.com]\n",
+         "source": "email",
+         "to": "KetcheKL@bp.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/big_sandy___caithness/3.",
+   "hops": [
+      {
+         "from": "ketchekl@bp.com",
+         "line": 4,
+         "rawfrom": "ketchekl@bp.com\r\n",
+         "source": "valid",
+         "to": "kimberly.watson@enron.com"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 28,
+         "rawfrom": "Watson, Kimberly [mailto:Kimberly.Watson@enron.com]\n",
+         "source": "email",
+         "to": "Ketcherside, Kirk L (IGI Resources)"
+      },
+      {
+         "from": "ketchekl@bp.com",
+         "line": 47,
+         "rawfrom": "Ketcherside, Kirk L (IGI Resources) [mailto:KetcheKL@bp.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 66,
+         "rawfrom": "Watson, Kimberly [mailto:Kimberly.Watson@enron.com]\n",
+         "source": "email",
+         "to": "Ketcherside, Kirk L (IGI Resources)"
+      },
+      {
+         "from": "ketchekl@bp.com",
+         "line": 83,
+         "rawfrom": "Ketcherside, Kirk L (IGI Resources) [mailto:KetcheKL@bp.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/inbox/472.",
+   "hops": [
+      {
+         "from": "jwatson@nwdiagnostic.com",
+         "line": 4,
+         "rawfrom": "jwatson@nwdiagnostic.com\r\n",
+         "source": "valid",
+         "to": "kimberly.watson@enron.com"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 37,
+         "rawfrom": "Watson, Kimberly [mailto:Kimberly.Watson@enron.com]\n",
+         "source": "email",
+         "to": "jwatson@nwdiagnostic.com"
+      },
+      {
+         "from": "jwatson@nwdiagnostic.com",
+         "line": 46,
+         "rawfrom": "John Watson [mailto:jwatson@nwdiagnostic.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 60,
+         "rawfrom": "Watson, Kimberly [mailto:Kimberly.Watson@enron.com]\n",
+         "source": "email",
+         "to": "jwatson@nwdiagnostic.com"
+      },
+      {
+         "from": "jwatson@nwdiagnostic.com",
+         "line": 71,
+         "rawfrom": "John Watson [mailto:jwatson@nwdiagnostic.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/inbox/270.",
+   "hops": [
+      {
+         "from": "ketchekl@bp.com",
+         "line": 4,
+         "rawfrom": "ketchekl@bp.com\r\n",
+         "source": "valid",
+         "to": "kimberly.watson@enron.com"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 30,
+         "rawfrom": "Watson, Kimberly [mailto:Kimberly.Watson@enron.com]\n",
+         "source": "email",
+         "to": "Ketcherside, Kirk L (IGI Resources)"
+      },
+      {
+         "from": "ketchekl@bp.com",
+         "line": 47,
+         "rawfrom": "Ketcherside, Kirk L (IGI Resources) [mailto:KetcheKL@bp.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 72,
+         "rawfrom": "Watson, Kimberly [mailto:Kimberly.Watson@enron.com]\n",
+         "source": "email",
+         "to": "ketchekl@bp.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/inbox/175.",
+   "hops": [
+      {
+         "from": "blair.lichtenwalter@enron.com",
+         "line": 4,
+         "rawfrom": "blair.lichtenwalter@enron.com\r\n",
+         "source": "valid",
+         "to": "steven.harris@enron.com, kimberly.watson@enron.com,"
+      },
+      {
+         "from": "douglass@energyattorney.com",
+         "line": 48,
+         "rawfrom": "\t\"Dan Douglass\" <douglass@energyattorney.com>@ENRON [mailto:IMCEANOTES-+22Dan+20Douglass+22+20+3Cdouglass+40energyattorney+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Hass, Glen"
+      },
+      {
+         "from": "douglass@energyattorney.com",
+         "line": 82,
+         "rawfrom": "\t\"Dan Douglass\" <douglass@energyattorney.com>@ENRON [mailto:IMCEANOTES-+22Dan+20Douglass+22+20+3Cdouglass+40energyattorney+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Hass, Glen"
+      },
+      {
+         "from": "douglass@energyattorney.com",
+         "line": 119,
+         "rawfrom": "\t\"Dan Douglass\" <douglass@energyattorney.com>@ENRON [mailto:IMCEANOTES-+22Dan+20Douglass+22+20+3Cdouglass+40energyattorney+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Hass, Glen"
+      },
+      {
+         "from": "douglass@energyattorney.com",
+         "line": 154,
+         "rawfrom": "\t\"Dan Douglass\" <douglass@energyattorney.com>@ENRON [mailto:IMCEANOTES-+22Dan+20Douglass+22+20+3Cdouglass+40energyattorney+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Hass, Glen"
+      }
+   ],
+   "skipped": 10
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/deleted_items/434.",
+   "hops": [
+      {
+         "from": "ketchekl@bp.com",
+         "line": 4,
+         "rawfrom": "ketchekl@bp.com\r\n",
+         "source": "valid",
+         "to": "kimberly.watson@enron.com"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 26,
+         "rawfrom": "Watson, Kimberly [mailto:Kimberly.Watson@enron.com]\n",
+         "source": "email",
+         "to": "Ketcherside, Kirk L (IGI Resources)"
+      },
+      {
+         "from": "ketchekl@bp.com",
+         "line": 48,
+         "rawfrom": "Ketcherside, Kirk L (IGI Resources) [mailto:KetcheKL@bp.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 74,
+         "rawfrom": "Watson, Kimberly [mailto:Kimberly.Watson@ENRON.com]\n",
+         "source": "email",
+         "to": "Ketcherside, Kirk L (IGI Resources)"
+      },
+      {
+         "from": "ketchekl@bp.com",
+         "line": 90,
+         "rawfrom": "Ketcherside, Kirk L (IGI Resources) [mailto:KetcheKL@bp.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/deleted_items/69.",
+   "hops": [
+      {
+         "from": "steven.harris@enron.com",
+         "line": 4,
+         "rawfrom": "steven.harris@enron.com\r\n",
+         "source": "valid",
+         "to": "glen.hass@enron.com, <douglass\".'\"dan@enron.com>, tony.pryor@enron.com,"
+      },
+      {
+         "from": "douglass@energyattorney.com",
+         "line": 40,
+         "rawfrom": "\t\"Dan Douglass\" <douglass@energyattorney.com>@ENRON [mailto:IMCEANOTES-+22Dan+20Douglass+22+20+3Cdouglass+40energyattorney+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Harris, Steven; Pryor, Tony; Hass, Glen; Fossum, Drew"
+      },
+      {
+         "from": "steven.harris@enron.com",
+         "line": 58,
+         "rawfrom": "\"Harris, Steven\" <Steven.Harris@enron.com>\n",
+         "source": "email",
+         "to": "\"Pryor, Tony\" <Tony.Pryor@enron.com>; \"Hass, Glen\""
+      },
+      {
+         "from": "douglass@energyattorney.com",
+         "line": 85,
+         "rawfrom": "\"Dan Douglass\" <douglass@energyattorney.com>@ENRON\n",
+         "source": "email",
+         "to": "Pryor, Tony"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/sent_items/90.",
+   "hops": [
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 4,
+         "rawfrom": "kimberly.watson@enron.com\r\n",
+         "source": "valid",
+         "to": "igi@nctimes.net"
+      },
+      {
+         "from": "igi@nctimes.net",
+         "line": 22,
+         "rawfrom": "Kirk Ketcherside [mailto:igi@nctimes.net]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "igi@nctimes.net",
+         "line": 44,
+         "rawfrom": "Kirk Ketcherside [mailto:igi@nctimes.net]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "igi@nctimes.net",
+         "line": 77,
+         "rawfrom": "Kirk Ketcherside [mailto:igi@nctimes.net]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 96,
+         "rawfrom": "Watson, Kimberly [mailto:Kimberly.Watson@enron.com]\n",
+         "source": "email",
+         "to": "KetcheKL@bp.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/sent_items/415.",
+   "hops": [
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 4,
+         "rawfrom": "kimberly.watson@enron.com\r\n",
+         "source": "valid",
+         "to": "'ketcherside@enron.com, ketchekl@bp.com"
+      },
+      {
+         "from": "ketchekl@bp.com",
+         "line": 28,
+         "rawfrom": "Ketcherside, Kirk L (IGI Resources) [mailto:KetcheKL@bp.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 46,
+         "rawfrom": "Watson, Kimberly [mailto:Kimberly.Watson@enron.com]\n",
+         "source": "email",
+         "to": "Ketcherside, Kirk L (IGI Resources)"
+      },
+      {
+         "from": "ketchekl@bp.com",
+         "line": 63,
+         "rawfrom": "Ketcherside, Kirk L (IGI Resources) [mailto:KetcheKL@bp.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/sent_items/327.",
+   "hops": [
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 4,
+         "rawfrom": "kimberly.watson@enron.com\r\n",
+         "source": "valid",
+         "to": "jwatson@nwdiagnostic.com"
+      },
+      {
+         "from": "john.watson@pdq.net",
+         "line": 22,
+         "rawfrom": "John Watson [mailto:john.watson@pdq.net]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 31,
+         "rawfrom": "Watson, Kimberly [mailto:Kimberly.Watson@enron.com]\n",
+         "source": "email",
+         "to": "jwatson@nwdiagnostic.com"
+      },
+      {
+         "from": "john.watson@pdq.net",
+         "line": 41,
+         "rawfrom": "John Watson [mailto:john.watson@pdq.net]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "john.watson@pdq.net",
+         "line": 55,
+         "rawfrom": "Kim & John Watson [mailto:john.watson@pdq.net]\n",
+         "source": "email",
+         "to": "John Watson"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/sent_items/419.",
+   "hops": [
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 4,
+         "rawfrom": "kimberly.watson@enron.com\r\n",
+         "source": "valid",
+         "to": "'ketcherside@enron.com, ketchekl@bp.com"
+      },
+      {
+         "from": "ketchekl@bp.com",
+         "line": 26,
+         "rawfrom": "Ketcherside, Kirk L (IGI Resources) [mailto:KetcheKL@bp.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 41,
+         "rawfrom": "Watson, Kimberly [mailto:Kimberly.Watson@enron.com]\n",
+         "source": "email",
+         "to": "Ketcherside, Kirk L (IGI Resources)"
+      },
+      {
+         "from": "ketchekl@bp.com",
+         "line": 60,
+         "rawfrom": "Ketcherside, Kirk L (IGI Resources) [mailto:KetcheKL@bp.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 79,
+         "rawfrom": "Watson, Kimberly [mailto:Kimberly.Watson@enron.com]\n",
+         "source": "email",
+         "to": "Ketcherside, Kirk L (IGI Resources)"
+      },
+      {
+         "from": "ketchekl@bp.com",
+         "line": 96,
+         "rawfrom": "Ketcherside, Kirk L (IGI Resources) [mailto:KetcheKL@bp.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/sent_items/305.",
+   "hops": [
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 4,
+         "rawfrom": "kimberly.watson@enron.com\r\n",
+         "source": "valid",
+         "to": "jwatson@nwdiagnostic.com"
+      },
+      {
+         "from": "john.watson@pdq.net",
+         "line": 24,
+         "rawfrom": "John Watson [mailto:john.watson@pdq.net]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "john.watson@pdq.net",
+         "line": 35,
+         "rawfrom": "John Watson [mailto:john.watson@pdq.net]\n",
+         "source": "email",
+         "to": "Hill, Jane"
+      },
+      {
+         "from": "jhill@tmh.tmc.edu",
+         "line": 49,
+         "rawfrom": "Hill, Jane [mailto:JHill@tmh.tmc.edu]\n",
+         "source": "email",
+         "to": "John Watson (E-mail)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/sent_items/306.",
+   "hops": [
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 4,
+         "rawfrom": "kimberly.watson@enron.com\r\n",
+         "source": "valid",
+         "to": "jwatson@nwdiagnostic.com"
+      },
+      {
+         "from": "john.watson@pdq.net",
+         "line": 22,
+         "rawfrom": "John Watson [mailto:john.watson@pdq.net]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 33,
+         "rawfrom": "Watson, Kimberly [mailto:Kimberly.Watson@enron.com]\n",
+         "source": "email",
+         "to": "jwatson@nwdiagnostic.com"
+      },
+      {
+         "from": "john.watson@pdq.net",
+         "line": 47,
+         "rawfrom": "John Watson [mailto:john.watson@pdq.net]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "john.watson@pdq.net",
+         "line": 60,
+         "rawfrom": "John Watson [mailto:john.watson@pdq.net]\n",
+         "source": "email",
+         "to": "Hill, Jane"
+      },
+      {
+         "from": "jhill@tmh.tmc.edu",
+         "line": 74,
+         "rawfrom": "Hill, Jane [mailto:JHill@tmh.tmc.edu]\n",
+         "source": "email",
+         "to": "John Watson (E-mail)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/sent_items/963.",
+   "hops": [
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 4,
+         "rawfrom": "kimberly.watson@enron.com\r\n",
+         "source": "valid",
+         "to": "jwatson@nwdiagnostic.com"
+      },
+      {
+         "from": "jwatson@nwdiagnostic.com",
+         "line": 22,
+         "rawfrom": "John Watson [mailto:jwatson@nwdiagnostic.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 35,
+         "rawfrom": "Watson, Kimberly [mailto:Kimberly.Watson@enron.com]\n",
+         "source": "email",
+         "to": "jwatson@nwdiagnostic.com"
+      },
+      {
+         "from": "jwatson@nwdiagnostic.com",
+         "line": 46,
+         "rawfrom": "John Watson [mailto:jwatson@nwdiagnostic.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/sent_items/433.",
+   "hops": [
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 4,
+         "rawfrom": "kimberly.watson@enron.com\r\n",
+         "source": "valid",
+         "to": "jwatson@nwdiagnostic.com"
+      },
+      {
+         "from": "jwatson@nwdiagnostic.com",
+         "line": 24,
+         "rawfrom": "John Watson [mailto:jwatson@nwdiagnostic.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 42,
+         "rawfrom": "Watson, Kimberly [mailto:Kimberly.Watson@enron.com]\n",
+         "source": "email",
+         "to": "jwatson@nwdiagnostic.com"
+      },
+      {
+         "from": "jwatson@nwdiagnostic.com",
+         "line": 56,
+         "rawfrom": "John Watson [mailto:jwatson@nwdiagnostic.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/sent_items/1016.",
+   "hops": [
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 4,
+         "rawfrom": "kimberly.watson@enron.com\r\n",
+         "source": "valid",
+         "to": "ron.matthews@enron.com"
+      },
+      {
+         "from": "ketchekl@bp.com",
+         "line": 23,
+         "rawfrom": "Ketcherside, Kirk L (IGI Resources) [mailto:KetcheKL@bp.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 47,
+         "rawfrom": "Watson, Kimberly [mailto:Kimberly.Watson@ENRON.com]\n",
+         "source": "email",
+         "to": "Ketcherside, Kirk L (IGI Resources)"
+      },
+      {
+         "from": "ketchekl@bp.com",
+         "line": 63,
+         "rawfrom": "Ketcherside, Kirk L (IGI Resources) [mailto:KetcheKL@bp.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/sent_items/212.",
+   "hops": [
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 4,
+         "rawfrom": "kimberly.watson@enron.com\r\n",
+         "source": "valid",
+         "to": "jwatson@nwdiagnostic.com"
+      },
+      {
+         "from": "john.watson@pdq.net",
+         "line": 28,
+         "rawfrom": "John Watson [mailto:john.watson@pdq.net]\n",
+         "source": "email",
+         "to": "Watson, Kimberly; janell_dye@hotmail.com; dennis_dye@hotmail.com;"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 53,
+         "rawfrom": "Watson, Kimberly [mailto:Kimberly.Watson@ENRON.com]\n",
+         "source": "email",
+         "to": "janell_dye@hotmail.com; dennis_dye@hotmail.com;"
+      },
+      {
+         "from": "dee.espinoza@travelpark.com",
+         "line": 92,
+         "rawfrom": "Dee Espinoza [mailto:dee.espinoza@travelpark.com]\n",
+         "source": "email",
+         "to": "'kim.watson@enron.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/sent_items/77.",
+   "hops": [
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 4,
+         "rawfrom": "kimberly.watson@enron.com\r\n",
+         "source": "valid",
+         "to": "igi@nctimes.net"
+      },
+      {
+         "from": "igi@nctimes.net",
+         "line": 26,
+         "rawfrom": "Kirk Ketcherside [mailto:igi@nctimes.net]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "igi@nctimes.net",
+         "line": 58,
+         "rawfrom": "Kirk Ketcherside [mailto:igi@nctimes.net]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 76,
+         "rawfrom": "Watson, Kimberly [mailto:Kimberly.Watson@enron.com]\n",
+         "source": "email",
+         "to": "KetcheKL@bp.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/sent_items/438.",
+   "hops": [
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 4,
+         "rawfrom": "kimberly.watson@enron.com\r\n",
+         "source": "valid",
+         "to": "jwatson@nwdiagnostic.com"
+      },
+      {
+         "from": "jwatson@nwdiagnostic.com",
+         "line": 22,
+         "rawfrom": "John Watson [mailto:jwatson@nwdiagnostic.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 32,
+         "rawfrom": "Watson, Kimberly [mailto:Kimberly.Watson@enron.com]\n",
+         "source": "email",
+         "to": "jwatson@nwdiagnostic.com"
+      },
+      {
+         "from": "jwatson@nwdiagnostic.com",
+         "line": 41,
+         "rawfrom": "John Watson [mailto:jwatson@nwdiagnostic.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/sent_items/1014.",
+   "hops": [
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 4,
+         "rawfrom": "kimberly.watson@enron.com\r\n",
+         "source": "valid",
+         "to": "steven.harris@enron.com"
+      },
+      {
+         "from": "ketchekl@bp.com",
+         "line": 27,
+         "rawfrom": "Ketcherside, Kirk L (IGI Resources) [mailto:KetcheKL@bp.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 51,
+         "rawfrom": "Watson, Kimberly [mailto:Kimberly.Watson@ENRON.com]\n",
+         "source": "email",
+         "to": "Ketcherside, Kirk L (IGI Resources)"
+      },
+      {
+         "from": "ketchekl@bp.com",
+         "line": 67,
+         "rawfrom": "Ketcherside, Kirk L (IGI Resources) [mailto:KetcheKL@bp.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/sent_items/850.",
+   "hops": [
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 4,
+         "rawfrom": "kimberly.watson@enron.com\r\n",
+         "source": "valid",
+         "to": "jwatson@nwdiagnostic.com"
+      },
+      {
+         "from": "jwatson@nwdiagnostic.com",
+         "line": 24,
+         "rawfrom": "John Watson [mailto:jwatson@nwdiagnostic.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "jwatson@nwdiagnostic.com",
+         "line": 33,
+         "rawfrom": "John Watson [mailto:jwatson@nwdiagnostic.com]\n",
+         "source": "email",
+         "to": "Corrigan, Robert"
+      },
+      {
+         "from": "rcorrigan@fulbright.com",
+         "line": 48,
+         "rawfrom": "Corrigan, Robert [mailto:rcorrigan@fulbright.com]\n",
+         "source": "email",
+         "to": "'jwatson@nwdiagnostic.com'"
+      },
+      {
+         "from": "jwatson@nwdiagnostic.com",
+         "line": 59,
+         "rawfrom": "John Watson [mailto:jwatson@nwdiagnostic.com]\n",
+         "source": "email",
+         "to": "John Watson"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/sent_items/435.",
+   "hops": [
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 4,
+         "rawfrom": "kimberly.watson@enron.com\r\n",
+         "source": "valid",
+         "to": "jwatson@nwdiagnostic.com"
+      },
+      {
+         "from": "jwatson@nwdiagnostic.com",
+         "line": 22,
+         "rawfrom": "John Watson [mailto:jwatson@nwdiagnostic.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 32,
+         "rawfrom": "Watson, Kimberly [mailto:Kimberly.Watson@enron.com]\n",
+         "source": "email",
+         "to": "jwatson@nwdiagnostic.com"
+      },
+      {
+         "from": "jwatson@nwdiagnostic.com",
+         "line": 44,
+         "rawfrom": "John Watson [mailto:jwatson@nwdiagnostic.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 66,
+         "rawfrom": "Watson, Kimberly [mailto:Kimberly.Watson@enron.com]\n",
+         "source": "email",
+         "to": "jwatson@nwdiagnostic.com"
+      },
+      {
+         "from": "jwatson@nwdiagnostic.com",
+         "line": 80,
+         "rawfrom": "John Watson [mailto:jwatson@nwdiagnostic.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/sent_items/966.",
+   "hops": [
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 4,
+         "rawfrom": "kimberly.watson@enron.com\r\n",
+         "source": "valid",
+         "to": "jwatson@nwdiagnostic.com"
+      },
+      {
+         "from": "jwatson@nwdiagnostic.com",
+         "line": 22,
+         "rawfrom": "John Watson [mailto:jwatson@nwdiagnostic.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 32,
+         "rawfrom": "Watson, Kimberly [mailto:Kimberly.Watson@enron.com]\n",
+         "source": "email",
+         "to": "jwatson@nwdiagnostic.com"
+      },
+      {
+         "from": "jwatson@nwdiagnostic.com",
+         "line": 42,
+         "rawfrom": "John Watson [mailto:jwatson@nwdiagnostic.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/sent_items/1015.",
+   "hops": [
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 4,
+         "rawfrom": "kimberly.watson@enron.com\r\n",
+         "source": "valid",
+         "to": "'ketcherside@enron.com, ketchekl@bp.com"
+      },
+      {
+         "from": "ketchekl@bp.com",
+         "line": 30,
+         "rawfrom": "Ketcherside, Kirk L (IGI Resources) [mailto:KetcheKL@bp.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 54,
+         "rawfrom": "Watson, Kimberly [mailto:Kimberly.Watson@ENRON.com]\n",
+         "source": "email",
+         "to": "Ketcherside, Kirk L (IGI Resources)"
+      },
+      {
+         "from": "ketchekl@bp.com",
+         "line": 70,
+         "rawfrom": "Ketcherside, Kirk L (IGI Resources) [mailto:KetcheKL@bp.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/e_mail_bin/168.",
+   "hops": [
+      {
+         "from": "mark.ferguson@enron.com",
+         "line": 4,
+         "rawfrom": "mark.ferguson@enron.com\r\n",
+         "source": "valid",
+         "to": "karon.o'gorman@enron.com"
+      },
+      {
+         "from": "mark.gigliotti@enron.com",
+         "line": 93,
+         "rawfrom": "Gigliotti, Mark <Mark.Gigliotti@ENRON.com> \n",
+         "source": "email",
+         "to": "Hotte, Steve <Steve.Hotte@ENRON.com>"
+      },
+      {
+         "from": "mark.ferguson@enron.com",
+         "line": 106,
+         "rawfrom": "Ferguson, Mark <Mark.Ferguson@ENRON.com> \n",
+         "source": "email",
+         "to": "Gigliotti, Mark <Mark.Gigliotti@ENRON.com>"
+      },
+      {
+         "from": "mark.gigliotti@enron.com",
+         "line": 118,
+         "rawfrom": "Gigliotti, Mark <Mark.Gigliotti@ENRON.com> \n",
+         "source": "email",
+         "to": "Ferguson, Mark <Mark.Ferguson@ENRON.com>"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 129,
+         "rawfrom": "Watson, Kimberly <Kimberly.Watson@ENRON.com> \n",
+         "source": "email",
+         "to": "Ferguson, Mark <Mark.Ferguson@ENRON.com>; Gigliotti, Mark <Mark.Gigliotti@ENRON.com>"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/e_mail_bin/340.",
+   "hops": [
+      {
+         "from": "john.watson@pdq.net",
+         "line": 4,
+         "rawfrom": "john.watson@pdq.net\r\n",
+         "source": "valid",
+         "to": "kimberly.watson@enron.com"
+      },
+      {
+         "from": "paul.donnelly@bakeratlas.com",
+         "line": 22,
+         "rawfrom": "Donnelly, Paul [mailto:Paul.Donnelly@bakeratlas.com]\n",
+         "source": "email",
+         "to": "'John Watson '; Donnelly, Paul"
+      },
+      {
+         "from": "paul.donnelly@bakeratlas.com",
+         "line": 42,
+         "rawfrom": "Donnelly, Paul [mailto:Paul.Donnelly@bakeratlas.com]\n",
+         "source": "email",
+         "to": "'John Watson'"
+      },
+      {
+         "from": "john.watson@pdq.net",
+         "line": 56,
+         "rawfrom": "John Watson [mailto:john.watson@pdq.net]\n",
+         "source": "email",
+         "to": "Donnelly, Paul"
+      },
+      {
+         "from": "paul.donnelly@bakeratlas.com",
+         "line": 74,
+         "rawfrom": "Donnelly, Paul [mailto:Paul.Donnelly@bakeratlas.com]\n",
+         "source": "email",
+         "to": "'jwatson@bigfoot.com'"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/e_mail_bin/157.",
+   "hops": [
+      {
+         "from": "mark.ferguson@enron.com",
+         "line": 4,
+         "rawfrom": "mark.ferguson@enron.com\r\n",
+         "source": "valid",
+         "to": "kimberly.watson@enron.com"
+      },
+      {
+         "from": "mark.gigliotti@enron.com",
+         "line": 65,
+         "rawfrom": "Gigliotti, Mark <Mark.Gigliotti@ENRON.com> \n",
+         "source": "email",
+         "to": "Hotte, Steve <Steve.Hotte@ENRON.com>"
+      },
+      {
+         "from": "mark.ferguson@enron.com",
+         "line": 78,
+         "rawfrom": "Ferguson, Mark <Mark.Ferguson@ENRON.com> \n",
+         "source": "email",
+         "to": "Gigliotti, Mark <Mark.Gigliotti@ENRON.com>"
+      },
+      {
+         "from": "mark.gigliotti@enron.com",
+         "line": 90,
+         "rawfrom": "Gigliotti, Mark <Mark.Gigliotti@ENRON.com> \n",
+         "source": "email",
+         "to": "Ferguson, Mark <Mark.Ferguson@ENRON.com>"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 101,
+         "rawfrom": "Watson, Kimberly <Kimberly.Watson@ENRON.com> \n",
+         "source": "email",
+         "to": "Ferguson, Mark <Mark.Ferguson@ENRON.com>; Gigliotti, Mark <Mark.Gigliotti@ENRON.com>"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/e_mail_bin/610.",
+   "hops": [
+      {
+         "from": "john.watson@pdq.net",
+         "line": 4,
+         "rawfrom": "john.watson@pdq.net\r\n",
+         "source": "valid",
+         "to": "kimberly.watson@enron.com"
+      },
+      {
+         "from": "john.watson@pdq.net",
+         "line": 27,
+         "rawfrom": "\"John Watson\" <john.watson@pdq.net>\n",
+         "source": "email",
+         "to": "\"Jennifer Harvey\" <jharvey3@flash.net>"
+      },
+      {
+         "from": "jharvey3@flash.net",
+         "line": 48,
+         "rawfrom": "Jennifer Harvey [mailto:jharvey3@flash.net]\n",
+         "source": "email",
+         "to": "John Watson"
+      },
+      {
+         "from": "john.watson@pdq.net",
+         "line": 61,
+         "rawfrom": "\"John Watson\" <john.watson@pdq.net>\n",
+         "source": "email",
+         "to": "\"Jerilynn & Tom Daugherty\" <tom-jerilynn@worldnet.att.net>; \"Jerilynn"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/watson-k/e_mail_bin/158.",
+   "hops": [
+      {
+         "from": "mark.ferguson@enron.com",
+         "line": 4,
+         "rawfrom": "mark.ferguson@enron.com\r\n",
+         "source": "valid",
+         "to": "kimberly.watson@enron.com"
+      },
+      {
+         "from": "mark.gigliotti@enron.com",
+         "line": 43,
+         "rawfrom": "Gigliotti, Mark <Mark.Gigliotti@ENRON.com>\n",
+         "source": "email",
+         "to": "Hotte, Steve <Steve.Hotte@ENRON.com>"
+      },
+      {
+         "from": "mark.ferguson@enron.com",
+         "line": 56,
+         "rawfrom": "Ferguson, Mark <Mark.Ferguson@ENRON.com>\n",
+         "source": "email",
+         "to": "Gigliotti, Mark <Mark.Gigliotti@ENRON.com>"
+      },
+      {
+         "from": "mark.gigliotti@enron.com",
+         "line": 68,
+         "rawfrom": "Gigliotti, Mark <Mark.Gigliotti@ENRON.com>\n",
+         "source": "email",
+         "to": "Ferguson, Mark <Mark.Ferguson@ENRON.com>"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 79,
+         "rawfrom": "Watson, Kimberly <Kimberly.Watson@ENRON.com>\n",
+         "source": "email",
+         "to": "Ferguson, Mark <Mark.Ferguson@ENRON.com>; Gigliotti, Mark <Mark.Gigliotti@ENRON.com>"
+      }
+   ],
+   "skipped": 3
+}
+]

@@ -1,0 +1,491 @@
+[
+{
+   "file": "/home/jb/maildir/cuilla-m/all_documents/41.",
+   "hops": [
+      {
+         "from": "mcontant@cypressasset.com",
+         "line": 4,
+         "rawfrom": "mcontant@cypressasset.com\r\n",
+         "source": "valid",
+         "to": "martin.cuilla@enron.com"
+      },
+      {
+         "from": "mcontant@cypressasset.com",
+         "line": 29,
+         "rawfrom": "mcontant@cypressasset.com",
+         "source": "valid",
+         "to": "Martin.Cuilla@enron.com"
+      },
+      {
+         "from": "mcontant@cypressasset.com",
+         "line": 44,
+         "rawfrom": "mcontant@cypressasset.com",
+         "source": "valid",
+         "to": "Martin Cuilla <Martin.Cuilla@enron.com>"
+      },
+      {
+         "from": "mcontant@cypressasset.com",
+         "line": 73,
+         "rawfrom": "Michael D Contant [mailto:mcontant@cypressasset.com]\n",
+         "source": "email",
+         "to": "Mahedy, John P."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/cuilla-m/all_documents/48.",
+   "hops": [
+      {
+         "from": "mcontant@cypressasset.com",
+         "line": 4,
+         "rawfrom": "mcontant@cypressasset.com\r\n",
+         "source": "valid",
+         "to": "martin.cuilla@enron.com"
+      },
+      {
+         "from": "mcontant@cypressasset.com",
+         "line": 39,
+         "rawfrom": "mcontant@cypressasset.com",
+         "source": "valid",
+         "to": "Martin.Cuilla@enron.com"
+      },
+      {
+         "from": "mcontant@cypressasset.com",
+         "line": 63,
+         "rawfrom": "mcontant@cypressasset.com",
+         "source": "valid",
+         "to": "Martin Cuilla <Martin.Cuilla@enron.com>"
+      },
+      {
+         "from": "mcontant@cypressasset.com",
+         "line": 87,
+         "rawfrom": "Michael D Contant [mailto:mcontant@cypressasset.com]\n",
+         "source": "email",
+         "to": "Mahedy, John P."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/cuilla-m/notes_inbox/13.",
+   "hops": [
+      {
+         "from": "mcontant@cypressasset.com",
+         "line": 4,
+         "rawfrom": "mcontant@cypressasset.com\r\n",
+         "source": "valid",
+         "to": "martin.cuilla@enron.com"
+      },
+      {
+         "from": "mcontant@cypressasset.com",
+         "line": 29,
+         "rawfrom": "mcontant@cypressasset.com",
+         "source": "valid",
+         "to": "Martin.Cuilla@enron.com"
+      },
+      {
+         "from": "mcontant@cypressasset.com",
+         "line": 44,
+         "rawfrom": "mcontant@cypressasset.com",
+         "source": "valid",
+         "to": "Martin Cuilla <Martin.Cuilla@enron.com>"
+      },
+      {
+         "from": "mcontant@cypressasset.com",
+         "line": 73,
+         "rawfrom": "Michael D Contant [mailto:mcontant@cypressasset.com]\n",
+         "source": "email",
+         "to": "Mahedy, John P."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/cuilla-m/notes_inbox/20.",
+   "hops": [
+      {
+         "from": "mcontant@cypressasset.com",
+         "line": 4,
+         "rawfrom": "mcontant@cypressasset.com\r\n",
+         "source": "valid",
+         "to": "martin.cuilla@enron.com"
+      },
+      {
+         "from": "mcontant@cypressasset.com",
+         "line": 39,
+         "rawfrom": "mcontant@cypressasset.com",
+         "source": "valid",
+         "to": "Martin.Cuilla@enron.com"
+      },
+      {
+         "from": "mcontant@cypressasset.com",
+         "line": 63,
+         "rawfrom": "mcontant@cypressasset.com",
+         "source": "valid",
+         "to": "Martin Cuilla <Martin.Cuilla@enron.com>"
+      },
+      {
+         "from": "mcontant@cypressasset.com",
+         "line": 87,
+         "rawfrom": "Michael D Contant [mailto:mcontant@cypressasset.com]\n",
+         "source": "email",
+         "to": "Mahedy, John P."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/cuilla-m/sent_items/44.",
+   "hops": [
+      {
+         "from": "martin.cuilla@enron.com",
+         "line": 4,
+         "rawfrom": "martin.cuilla@enron.com\r\n",
+         "source": "valid",
+         "to": "dax@cypressmail.com"
+      },
+      {
+         "from": "dax@cypressmail.com",
+         "line": 22,
+         "rawfrom": "Dax Philbin [mailto:dax@cypressmail.com]\n",
+         "source": "email",
+         "to": "Cuilla, Martin"
+      },
+      {
+         "from": "martin.cuilla@enron.com",
+         "line": 31,
+         "rawfrom": "Cuilla, Martin [mailto:Martin.Cuilla@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank, Laura; Michael Wilkes; Christine Finch;"
+      },
+      {
+         "from": "lfrank@vignette.com",
+         "line": 111,
+         "rawfrom": "Frank, Laura [mailto:lfrank@vignette.com]\n",
+         "source": "email",
+         "to": "'Michael Wilkes'; 'Christine Finch'; astephens@crushinteractive.com;"
+      },
+      {
+         "from": "michael.wilkes@neonsys.com",
+         "line": 133,
+         "rawfrom": "Michael Wilkes [mailto:Michael.Wilkes@neonsys.com]\n",
+         "source": "email",
+         "to": "'Christine Finch'; astephens@crushinteractive.com;"
+      },
+      {
+         "from": "christine_v_finch@hotmail.com",
+         "line": 151,
+         "rawfrom": "Christine Finch [mailto:christine_v_finch@hotmail.com]\n",
+         "source": "email",
+         "to": "astephens@crushinteractive.com; dax@cypressmail.com;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/cuilla-m/sent_items/50.",
+   "hops": [
+      {
+         "from": "martin.cuilla@enron.com",
+         "line": 4,
+         "rawfrom": "martin.cuilla@enron.com\r\n",
+         "source": "valid",
+         "to": "rob@ramind.com"
+      },
+      {
+         "from": "rob@ramind.com",
+         "line": 22,
+         "rawfrom": "Rob Miller [mailto:rob@ramind.com]\n",
+         "source": "email",
+         "to": "Cuilla, Martin"
+      },
+      {
+         "from": "martin.cuilla@enron.com",
+         "line": 31,
+         "rawfrom": "\"Cuilla, Martin\" <Martin.Cuilla@ENRON.com>\n",
+         "source": "email",
+         "to": "\"Rob Miller\" <rob@ramind.com>"
+      },
+      {
+         "from": "rob@ramind.com",
+         "line": 43,
+         "rawfrom": "Rob Miller [mailto:rob@ramind.com]\n",
+         "source": "email",
+         "to": "Cuilla, Martin"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/cuilla-m/sent_items/45.",
+   "hops": [
+      {
+         "from": "martin.cuilla@enron.com",
+         "line": 4,
+         "rawfrom": "martin.cuilla@enron.com\r\n",
+         "source": "valid",
+         "to": "dax@cypressmail.com"
+      },
+      {
+         "from": "dax@cypressmail.com",
+         "line": 22,
+         "rawfrom": "Dax Philbin [mailto:dax@cypressmail.com]\n",
+         "source": "email",
+         "to": "Cuilla, Martin"
+      },
+      {
+         "from": "martin.cuilla@enron.com",
+         "line": 31,
+         "rawfrom": "Cuilla, Martin [mailto:Martin.Cuilla@ENRON.com]\n",
+         "source": "email",
+         "to": "Dax Philbin"
+      },
+      {
+         "from": "dax@cypressmail.com",
+         "line": 40,
+         "rawfrom": "Dax Philbin [mailto:dax@cypressmail.com]\n",
+         "source": "email",
+         "to": "Cuilla, Martin"
+      },
+      {
+         "from": "martin.cuilla@enron.com",
+         "line": 49,
+         "rawfrom": "Cuilla, Martin [mailto:Martin.Cuilla@ENRON.com]\n",
+         "source": "email",
+         "to": "Frank, Laura; Michael Wilkes; Christine Finch;"
+      },
+      {
+         "from": "lfrank@vignette.com",
+         "line": 129,
+         "rawfrom": "Frank, Laura [mailto:lfrank@vignette.com]\n",
+         "source": "email",
+         "to": "'Michael Wilkes'; 'Christine Finch'; astephens@crushinteractive.com;"
+      },
+      {
+         "from": "michael.wilkes@neonsys.com",
+         "line": 151,
+         "rawfrom": "Michael Wilkes [mailto:Michael.Wilkes@neonsys.com]\n",
+         "source": "email",
+         "to": "'Christine Finch'; astephens@crushinteractive.com;"
+      },
+      {
+         "from": "christine_v_finch@hotmail.com",
+         "line": 169,
+         "rawfrom": "Christine Finch [mailto:christine_v_finch@hotmail.com]\n",
+         "source": "email",
+         "to": "astephens@crushinteractive.com; dax@cypressmail.com;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/cuilla-m/sent_items/64.",
+   "hops": [
+      {
+         "from": "martin.cuilla@enron.com",
+         "line": 4,
+         "rawfrom": "martin.cuilla@enron.com\r\n",
+         "source": "valid",
+         "to": "zwharton@dawray.com"
+      },
+      {
+         "from": "zwharton@dawray.com",
+         "line": 22,
+         "rawfrom": "ZOOEY WHARTON [mailto:ZWHARTON@dawray.com]\n",
+         "source": "email",
+         "to": "Husband (E-mail)"
+      },
+      {
+         "from": "nicolelee69@hotmail.com",
+         "line": 31,
+         "rawfrom": "Nicole Lee [mailto:nicolelee69@hotmail.com]\n",
+         "source": "email",
+         "to": "Nicolem00@earthlink.net; zwharton@dawray.com; wwells@broadjump.com"
+      },
+      {
+         "from": "th3450@airmail.net",
+         "line": 39,
+         "rawfrom": "\"Todd Haness\" <th3450@airmail.net>\n",
+         "source": "email",
+         "to": "\"'Nicole Lee'\" <nicolelee69@hotmail.com>"
+      },
+      {
+         "from": "nicolelee69@hotmail.com",
+         "line": 52,
+         "rawfrom": "Nicole Lee [mailto:nicolelee69@hotmail.com]\n",
+         "source": "email",
+         "to": "eric@northwestinsuranceagency.com; jbaker@gamd.com;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/cuilla-m/sent_items/65.",
+   "hops": [
+      {
+         "from": "martin.cuilla@enron.com",
+         "line": 4,
+         "rawfrom": "martin.cuilla@enron.com\r\n",
+         "source": "valid",
+         "to": "zwharton@dawray.com"
+      },
+      {
+         "from": "zwharton@dawray.com",
+         "line": 22,
+         "rawfrom": "ZOOEY WHARTON [mailto:ZWHARTON@dawray.com]\n",
+         "source": "email",
+         "to": "Cuilla, Martin"
+      },
+      {
+         "from": "martin.cuilla@enron.com",
+         "line": 34,
+         "rawfrom": "Cuilla, Martin [mailto:Martin.Cuilla@ENRON.com]\n",
+         "source": "email",
+         "to": "ZOOEY WHARTON"
+      },
+      {
+         "from": "zwharton@dawray.com",
+         "line": 44,
+         "rawfrom": "ZOOEY WHARTON [mailto:ZWHARTON@dawray.com]\n",
+         "source": "email",
+         "to": "Husband (E-mail)"
+      },
+      {
+         "from": "nicolelee69@hotmail.com",
+         "line": 53,
+         "rawfrom": "Nicole Lee [mailto:nicolelee69@hotmail.com]\n",
+         "source": "email",
+         "to": "Nicolem00@earthlink.net; zwharton@dawray.com; wwells@broadjump.com"
+      },
+      {
+         "from": "th3450@airmail.net",
+         "line": 61,
+         "rawfrom": "\"Todd Haness\" <th3450@airmail.net>\n",
+         "source": "email",
+         "to": "\"'Nicole Lee'\" <nicolelee69@hotmail.com>"
+      },
+      {
+         "from": "nicolelee69@hotmail.com",
+         "line": 74,
+         "rawfrom": "Nicole Lee [mailto:nicolelee69@hotmail.com]\n",
+         "source": "email",
+         "to": "eric@northwestinsuranceagency.com; jbaker@gamd.com;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/cuilla-m/sent_items/42.",
+   "hops": [
+      {
+         "from": "martin.cuilla@enron.com",
+         "line": 4,
+         "rawfrom": "martin.cuilla@enron.com\r\n",
+         "source": "valid",
+         "to": "'frank@enron.com, lfrank@vignette.com, michael.wilkes@neonsys.com,"
+      },
+      {
+         "from": "lfrank@vignette.com",
+         "line": 56,
+         "rawfrom": "Frank, Laura [mailto:lfrank@vignette.com]\n",
+         "source": "email",
+         "to": "'Michael Wilkes'; 'Christine Finch'; astephens@crushinteractive.com;"
+      },
+      {
+         "from": "michael.wilkes@neonsys.com",
+         "line": 77,
+         "rawfrom": "Michael Wilkes [mailto:Michael.Wilkes@neonsys.com]\n",
+         "source": "email",
+         "to": "'Christine Finch'; astephens@crushinteractive.com;"
+      },
+      {
+         "from": "christine_v_finch@hotmail.com",
+         "line": 95,
+         "rawfrom": "Christine Finch [mailto:christine_v_finch@hotmail.com]\n",
+         "source": "email",
+         "to": "astephens@crushinteractive.com; dax@cypressmail.com;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/cuilla-m/discussion_threads/136.",
+   "hops": [
+      {
+         "from": "mcontant@cypressasset.com",
+         "line": 4,
+         "rawfrom": "mcontant@cypressasset.com\r\n",
+         "source": "valid",
+         "to": "martin.cuilla@enron.com"
+      },
+      {
+         "from": "mcontant@cypressasset.com",
+         "line": 29,
+         "rawfrom": "mcontant@cypressasset.com",
+         "source": "valid",
+         "to": "Martin.Cuilla@enron.com"
+      },
+      {
+         "from": "mcontant@cypressasset.com",
+         "line": 44,
+         "rawfrom": "mcontant@cypressasset.com",
+         "source": "valid",
+         "to": "Martin Cuilla <Martin.Cuilla@enron.com>"
+      },
+      {
+         "from": "mcontant@cypressasset.com",
+         "line": 73,
+         "rawfrom": "Michael D Contant [mailto:mcontant@cypressasset.com]\n",
+         "source": "email",
+         "to": "Mahedy, John P."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/cuilla-m/discussion_threads/129.",
+   "hops": [
+      {
+         "from": "mcontant@cypressasset.com",
+         "line": 4,
+         "rawfrom": "mcontant@cypressasset.com\r\n",
+         "source": "valid",
+         "to": "martin.cuilla@enron.com"
+      },
+      {
+         "from": "mcontant@cypressasset.com",
+         "line": 39,
+         "rawfrom": "mcontant@cypressasset.com",
+         "source": "valid",
+         "to": "Martin.Cuilla@enron.com"
+      },
+      {
+         "from": "mcontant@cypressasset.com",
+         "line": 63,
+         "rawfrom": "mcontant@cypressasset.com",
+         "source": "valid",
+         "to": "Martin Cuilla <Martin.Cuilla@enron.com>"
+      },
+      {
+         "from": "mcontant@cypressasset.com",
+         "line": 87,
+         "rawfrom": "Michael D Contant [mailto:mcontant@cypressasset.com]\n",
+         "source": "email",
+         "to": "Mahedy, John P."
+      }
+   ],
+   "skipped": 0
+}
+]

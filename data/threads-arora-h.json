@@ -1,0 +1,43 @@
+[
+{
+   "file": "/home/jb/maildir/arora-h/inbox/saved_mail/35.",
+   "hops": [
+      {
+         "from": "gurmeet.x.singh@accenture.com",
+         "line": 4,
+         "rawfrom": "gurmeet.x.singh@accenture.com\r\n",
+         "source": "valid",
+         "to": "harry.arora@enron.com"
+      },
+      {
+         "from": "harry.arora@enron.com",
+         "line": 43,
+         "rawfrom": "<Harry.Arora@enron.com>)\n",
+         "source": "email",
+         "to": "Gurmeet X. Singh@Accenture"
+      },
+      {
+         "from": "gurmeet.x.singh@accenture.com",
+         "line": 59,
+         "rawfrom": "gurmeet.x.singh@accenture.com\n",
+         "source": "valid",
+         "to": "Arora, Harry"
+      },
+      {
+         "from": "harry.arora@enron.com",
+         "line": 106,
+         "rawfrom": "<Harry.Arora@enron.com>)\n",
+         "source": "email",
+         "to": "Gurmeet X. Singh@Accenture"
+      },
+      {
+         "from": "gurmeet.x.singh@accenture.com",
+         "line": 129,
+         "rawfrom": "gurmeet.x.singh@accenture.com\n",
+         "source": "valid",
+         "to": "Arora, Harry"
+      }
+   ],
+   "skipped": 1
+}
+]

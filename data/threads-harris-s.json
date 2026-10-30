@@ -1,0 +1,71 @@
+[
+{
+   "file": "/home/jb/maildir/harris-s/deleted_items/523.",
+   "hops": [
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 4,
+         "rawfrom": "kimberly.watson@enron.com\r\n",
+         "source": "valid",
+         "to": "steven.harris@enron.com"
+      },
+      {
+         "from": "ketchekl@bp.com",
+         "line": 27,
+         "rawfrom": "Ketcherside, Kirk L (IGI Resources) [mailto:KetcheKL@bp.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      },
+      {
+         "from": "kimberly.watson@enron.com",
+         "line": 51,
+         "rawfrom": "Watson, Kimberly [mailto:Kimberly.Watson@ENRON.com]\n",
+         "source": "email",
+         "to": "Ketcherside, Kirk L (IGI Resources)"
+      },
+      {
+         "from": "ketchekl@bp.com",
+         "line": 67,
+         "rawfrom": "Ketcherside, Kirk L (IGI Resources) [mailto:KetcheKL@bp.com]\n",
+         "source": "email",
+         "to": "Watson, Kimberly"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/harris-s/deleted_items/447.",
+   "hops": [
+      {
+         "from": "jhairsmd@aol.com",
+         "line": 4,
+         "rawfrom": "jhairsmd@aol.com\r\n",
+         "source": "valid",
+         "to": "sharris1@enron.com, jeanie726@hotmail.com, rstoraa@uswest.com,"
+      },
+      {
+         "from": "tgeissler@avaya.com",
+         "line": 39,
+         "rawfrom": "\"Geissler, Thomas W (Tom)\" <tgeissler@avaya.com>\n",
+         "source": "email",
+         "to": "\"Frank Geissler - work\" <frankgeissler@testandcontrol.com>,        \"Jim Harris\" <JHairSMD@aol.com>, \"John Reid\" <jlreid@advo.com>,        \"Karen Chow\" <karimac@netvigator.com>,        \"Keith Tucker\" <tuxxcnd@hotmail.com>,        \"Lee Johnson\" <ljohnson@ecentral.com>,        \"Lisa Geissler\" <lisag@keiler.com>,        \"Lisa J. Geissler\" <lgeissler@mail.ccsd.k12.co.us>,        \"Mark Chase\" <mchase2@uswest.net>,        \"Mike Geissler\" <luxury@euro-coach.com>,        \"Mikey C - Home email\" <mjcunning1@aol.com>,        \"Mooner\" <damooner@aol.com>, \"Paul Moore\" <paul.moore@floridatile.com>,        \"Rick Kay\" <rick.kay@gateway.net>, \"Rob Eber\" <iliana1@gateway.net>,        \"Shea, Michael K.\" <sheamk@pweh.com>,        \"Sheltie\" <sheltie@tampabay.rr.com>,        \"Tom Reiter\" <tomreiter@centura.org>"
+      },
+      {
+         "from": "kdaly@dalybrokerage.com",
+         "line": 61,
+         "rawfrom": "Daly, Kelly [mailto:KDaly@dalybrokerage.com]\n",
+         "source": "email",
+         "to": "Cirone, Judy; Colon, Luz; Crane, Hilary; Crowley, Patricia;"
+      },
+      {
+         "from": "pamelare@wardfinancialgroup.com",
+         "line": 80,
+         "rawfrom": "Re, Pamela [mailto:pamelare@wardfinancialgroup.com]\n",
+         "source": "email",
+         "to": "'Ashley Sferro'; 'Christy Schwarz'; 'Gary Eisenman'; 'Illena Re';"
+      }
+   ],
+   "skipped": 1
+}
+]

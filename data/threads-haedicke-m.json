@@ -1,0 +1,1072 @@
+[
+{
+   "file": "/home/jb/maildir/haedicke-m/inbox/128.",
+   "hops": [
+      {
+         "from": "george.james@morganstanley.com",
+         "line": 4,
+         "rawfrom": "george.james@morganstanley.com\r\n",
+         "source": "valid",
+         "to": "bruttel@enron.com, henning.bruttel@drkw.com"
+      },
+      {
+         "from": "steve_targett@national.com.au",
+         "line": 41,
+         "rawfrom": "Steve_Targett@national.com.au [SMTP:Steve_Targett@national.com.au]\n",
+         "source": "email",
+         "to": "frederic.janbon@bnpparibas.com"
+      },
+      {
+         "from": "frederic.janbon@bnpparibas.com",
+         "line": 57,
+         "rawfrom": "frederic.janbon@bnpparibas.com",
+         "source": "valid",
+         "to": "Jerry.delmissier@barclayscapital.com"
+      },
+      {
+         "from": "jerry.delmissier@barclayscapital.com",
+         "line": 73,
+         "rawfrom": "Jerry.delmissier@barclayscapital.com",
+         "source": "valid",
+         "to": "RPICKEL, BOARD"
+      },
+      {
+         "from": "rpickel@isda.org",
+         "line": 94,
+         "rawfrom": "Robert Pickel [mailto:RPICKEL@isda.org]\n",
+         "source": "email",
+         "to": "ISDA BOARD"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/haedicke-m/inbox/74.",
+   "hops": [
+      {
+         "from": "paul.simons@enron.com",
+         "line": 4,
+         "rawfrom": "paul.simons@enron.com\r\n",
+         "source": "valid",
+         "to": "amita.gosalia@enron.com"
+      },
+      {
+         "from": "losullivan@isda.org",
+         "line": 30,
+         "rawfrom": "Liz O'Sullivan [mailto:LOSULLIVAN@isda.org]\n",
+         "source": "email",
+         "to": "Simons, Paul"
+      },
+      {
+         "from": "paul.simons@enron.com",
+         "line": 68,
+         "rawfrom": "Simons, Paul [mailto:paul.simons@enron.com]\n",
+         "source": "email",
+         "to": "Liz O'Sullivan"
+      },
+      {
+         "from": "losullivan@isda.org",
+         "line": 77,
+         "rawfrom": "Liz O'Sullivan [mailto:LOSULLIVAN@isda.org]\n",
+         "source": "email",
+         "to": "Simons, Paul"
+      },
+      {
+         "from": "paul.simons@enron.com",
+         "line": 113,
+         "rawfrom": "Simons, Paul [mailto:paul.simons@enron.com]\n",
+         "source": "email",
+         "to": "Liz O'Sullivan"
+      },
+      {
+         "from": "losullivan@isda.org",
+         "line": 146,
+         "rawfrom": "Liz O'Sullivan [mailto:LOSULLIVAN@isda.org]\n",
+         "source": "email",
+         "to": "Simons, Paul"
+      },
+      {
+         "from": "paul.simons@enron.com",
+         "line": 161,
+         "rawfrom": "Simons, Paul [mailto:paul.simons@enron.com]\n",
+         "source": "email",
+         "to": "Liz O'Sullivan"
+      },
+      {
+         "from": "losullivan@isda.org",
+         "line": 178,
+         "rawfrom": "Liz O'Sullivan [mailto:LOSULLIVAN@isda.org]\n",
+         "source": "email",
+         "to": "Simons, Paul"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/haedicke-m/inbox/139.",
+   "hops": [
+      {
+         "from": "steve_targett@national.com.au",
+         "line": 4,
+         "rawfrom": "steve_targett@national.com.au\r\n",
+         "source": "valid",
+         "to": "frederic.janbon@bnpparibas.com"
+      },
+      {
+         "from": "frederic.janbon@bnpparibas.com",
+         "line": 31,
+         "rawfrom": "frederic.janbon@bnpparibas.com on 13/10/2001 03:03:14\n",
+         "source": "email",
+         "to": "Jerry.delmissier@barclayscapital.com"
+      },
+      {
+         "from": "jerry.delmissier@barclayscapital.com",
+         "line": 47,
+         "rawfrom": "Jerry.delmissier@barclayscapital.com",
+         "source": "valid",
+         "to": "RPICKEL, BOARD"
+      },
+      {
+         "from": "rpickel@isda.org",
+         "line": 66,
+         "rawfrom": "Robert Pickel [mailto:RPICKEL@isda.org]\n",
+         "source": "email",
+         "to": "ISDA BOARD"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/haedicke-m/inbox/88.",
+   "hops": [
+      {
+         "from": "amy.siedenburg@gs.com",
+         "line": 4,
+         "rawfrom": "amy.siedenburg@gs.com\r\n",
+         "source": "valid",
+         "to": "ellis@enron.com, steve.ellis@gs.com, scarey@isda.org, bunkin@enron.com,"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 52,
+         "rawfrom": "Stacy Carey [mailto:SCAREY@ISDA.ORG]\n",
+         "source": "email",
+         "to": "Bunkin, Steven"
+      },
+      {
+         "from": "amy.siedenburg@gs.com",
+         "line": 85,
+         "rawfrom": "Siedenburg, Amy [mailto:amy.siedenburg@gs.com]\n",
+         "source": "email",
+         "to": "'Stacy Carey'"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 105,
+         "rawfrom": "Stacy Carey [mailto:SCAREY@ISDA.ORG]\n",
+         "source": "email",
+         "to": "Amy Siedenburg"
+      },
+      {
+         "from": "amy.siedenburg@gs.com",
+         "line": 117,
+         "rawfrom": "Siedenburg, Amy [mailto:amy.siedenburg@gs.com]\n",
+         "source": "email",
+         "to": "'Stacy Carey'"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 128,
+         "rawfrom": "Stacy Carey [mailto:SCAREY@ISDA.ORG]\n",
+         "source": "email",
+         "to": "Bob Mancini; Amy Siedenburg"
+      },
+      {
+         "from": "robert.mancini@gs.com",
+         "line": 139,
+         "rawfrom": "Mancini, Robert [mailto:robert.mancini@gs.com]\n",
+         "source": "email",
+         "to": "'amy.siedenburg@gs.com'"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 152,
+         "rawfrom": "Stacy Carey <SCAREY@ISDA.ORG>\n",
+         "source": "email",
+         "to": "Bob Mancini <robert.mancini@gs.com>; 'STEVEN BUNKIN'"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/haedicke-m/inbox/129.",
+   "hops": [
+      {
+         "from": "douglas.bongartz-renaud@nl.abnamro.com",
+         "line": 4,
+         "rawfrom": "douglas.bongartz-renaud@nl.abnamro.com\r\n",
+         "source": "valid",
+         "to": "rpickel@isda.org, board@isda.org, mcunningham@isda.org, esebton@isda-eur.org,"
+      },
+      {
+         "from": "frederic.janbon@bnpparibas.com",
+         "line": 27,
+         "rawfrom": "frederic.janbon@bnpparibas.com on 10/13/2001 01:03:14 AM\n",
+         "source": "email",
+         "to": "Jerry.delmissier@barclayscapital.com"
+      },
+      {
+         "from": "jerry.delmissier@barclayscapital.com",
+         "line": 42,
+         "rawfrom": "Jerry.delmissier@barclayscapital.com",
+         "source": "valid",
+         "to": "RPICKEL, BOARD"
+      },
+      {
+         "from": "rpickel@isda.org",
+         "line": 61,
+         "rawfrom": "Robert Pickel [mailto:RPICKEL@isda.org]\n",
+         "source": "email",
+         "to": "ISDA BOARD"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/haedicke-m/inbox/94.",
+   "hops": [
+      {
+         "from": "steve.ellis@gs.com",
+         "line": 4,
+         "rawfrom": "steve.ellis@gs.com\r\n",
+         "source": "valid",
+         "to": "scarey@isda.org, bunkin@enron.com, steven.bunkin@gs.com,"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 39,
+         "rawfrom": "Stacy Carey [mailto:SCAREY@ISDA.ORG]\n",
+         "source": "email",
+         "to": "Bunkin, Steven"
+      },
+      {
+         "from": "amy.siedenburg@gs.com",
+         "line": 71,
+         "rawfrom": "Siedenburg, Amy [mailto:amy.siedenburg@gs.com]\n",
+         "source": "email",
+         "to": "'Stacy Carey'"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 90,
+         "rawfrom": "Stacy Carey [mailto:SCAREY@ISDA.ORG]\n",
+         "source": "email",
+         "to": "Amy Siedenburg"
+      },
+      {
+         "from": "amy.siedenburg@gs.com",
+         "line": 102,
+         "rawfrom": "Siedenburg, Amy [mailto:amy.siedenburg@gs.com]\n",
+         "source": "email",
+         "to": "'Stacy Carey'"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 113,
+         "rawfrom": "Stacy Carey [mailto:SCAREY@ISDA.ORG]\n",
+         "source": "email",
+         "to": "Bob Mancini; Amy Siedenburg"
+      },
+      {
+         "from": "robert.mancini@gs.com",
+         "line": 124,
+         "rawfrom": "Mancini, Robert [mailto:robert.mancini@gs.com]\n",
+         "source": "email",
+         "to": "'amy.siedenburg@gs.com'"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 137,
+         "rawfrom": "Stacy Carey <SCAREY@ISDA.ORG>\n",
+         "source": "email",
+         "to": "Bob Mancini <robert.mancini@gs.com>; 'STEVEN BUNKIN'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/haedicke-m/all_documents/1070.",
+   "hops": [
+      {
+         "from": "mark.haedicke@enron.com",
+         "line": 4,
+         "rawfrom": "mark.haedicke@enron.com\r\n",
+         "source": "valid",
+         "to": "rryan@isda.org"
+      },
+      {
+         "from": "rryan@isda.org",
+         "line": 29,
+         "rawfrom": "Rosemary Ryan <RRYAN@isda.org>\n",
+         "source": "email",
+         "to": "Mark Haedicke <Mark.E.Haedicke@enron.com>"
+      },
+      {
+         "from": "martin.chavez@kiodex.com",
+         "line": 47,
+         "rawfrom": "R. Martin Chavez [mailto:martin.chavez@kiodex.com]\n",
+         "source": "email",
+         "to": "'Rosemary Ryan'"
+      },
+      {
+         "from": "rryan@isda.org",
+         "line": 59,
+         "rawfrom": "Rosemary Ryan [mailto:RRYAN@isda.org]\n",
+         "source": "email",
+         "to": "'martin.chavez@kiodex.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/haedicke-m/all_documents/2365.",
+   "hops": [
+      {
+         "from": "dakotaleg@aol.com",
+         "line": 4,
+         "rawfrom": "dakotaleg@aol.com\r\n",
+         "source": "valid",
+         "to": "dakotaleg@aol.com"
+      },
+      {
+         "from": "dakotaleg@aol.com",
+         "line": 44,
+         "rawfrom": "DakotaLeg@aol.com\n",
+         "source": "valid",
+         "to": "DakotaLeg@aol.com"
+      },
+      {
+         "from": "dakotaleg@aol.com",
+         "line": 73,
+         "rawfrom": "DakotaLeg@aol.com\n",
+         "source": "valid",
+         "to": "DakotaLeg@aol.com"
+      },
+      {
+         "from": "dakotaleg@aol.com",
+         "line": 102,
+         "rawfrom": "DakotaLeg@aol.com\n",
+         "source": "valid",
+         "to": "DakotaLeg@aol.com"
+      },
+      {
+         "from": "dakotaleg@aol.com",
+         "line": 132,
+         "rawfrom": "DakotaLeg@aol.com\n",
+         "source": "valid",
+         "to": "DakotaLeg@aol.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/haedicke-m/all_documents/835.",
+   "hops": [
+      {
+         "from": "mark.haedicke@enron.com",
+         "line": 4,
+         "rawfrom": "mark.haedicke@enron.com\r\n",
+         "source": "valid",
+         "to": "dlove@russellreynolds.com"
+      },
+      {
+         "from": "dlove@russellreynolds.com",
+         "line": 31,
+         "rawfrom": "David Love-Dallas <DLove@russellreynolds.com>\n",
+         "source": "email",
+         "to": "\"'Mark.E.Haedicke@enron.com'\" <Mark.E.Haedicke@enron.com>"
+      },
+      {
+         "from": "mark.e.haedicke@enron.com",
+         "line": 41,
+         "rawfrom": "Mark.E.Haedicke@enron.com [mailto:Mark.E.Haedicke@enron.com]\n",
+         "source": "email",
+         "to": "dlove@russellreynolds.com"
+      },
+      {
+         "from": "mark.e.haedicke@enron.com",
+         "line": 98,
+         "rawfrom": "Mark.E.Haedicke@enron.com [mailto:Mark.E.Haedicke@enron.com] \n",
+         "source": "email",
+         "to": "dlove@russellreynolds.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/haedicke-m/all_documents/841.",
+   "hops": [
+      {
+         "from": "mark.haedicke@enron.com",
+         "line": 4,
+         "rawfrom": "mark.haedicke@enron.com\r\n",
+         "source": "valid",
+         "to": "dlove@russellreynolds.com"
+      },
+      {
+         "from": "dlove@russellreynolds.com",
+         "line": 25,
+         "rawfrom": "David Love-Dallas <DLove@russellreynolds.com>\n",
+         "source": "email",
+         "to": "\"'Mark.E.Haedicke@enron.com'\" <Mark.E.Haedicke@enron.com>"
+      },
+      {
+         "from": "mark.e.haedicke@enron.com",
+         "line": 34,
+         "rawfrom": "Mark.E.Haedicke@enron.com [mailto:Mark.E.Haedicke@enron.com] \n",
+         "source": "email",
+         "to": "DLove@russellreynolds.com"
+      },
+      {
+         "from": "mark.e.haedicke@enron.com",
+         "line": 71,
+         "rawfrom": "Mark.E.Haedicke@enron.com [mailto:Mark.E.Haedicke@enron.com] \n",
+         "source": "email",
+         "to": "dlove@russellreynolds.com"
+      },
+      {
+         "from": "mark.e.haedicke@enron.com",
+         "line": 116,
+         "rawfrom": "Mark.E.Haedicke@enron.com [mailto:Mark.E.Haedicke@enron.com] \n",
+         "source": "email",
+         "to": "dlove@russellreynolds.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/haedicke-m/all_documents/4964.",
+   "hops": [
+      {
+         "from": "rpickel@isda.org",
+         "line": 4,
+         "rawfrom": "rpickel@isda.org\r\n",
+         "source": "valid",
+         "to": "kbailey2@exchange.ml.com, genova_diane@jpmorgan.com,"
+      },
+      {
+         "from": "ksumme@isda.org",
+         "line": 52,
+         "rawfrom": "Kimberly Summe <KSumme@isda.org>\n",
+         "source": "email",
+         "to": "Robert Pickel <RPICKEL@isda.org>"
+      },
+      {
+         "from": "ben.coes@beachfire.com",
+         "line": 64,
+         "rawfrom": "Ben Coes [mailto:Ben.Coes@BeachFire.com]\n",
+         "source": "email",
+         "to": "'ksumme@isda.org'"
+      },
+      {
+         "from": "walter.hamscher@beachfire.com",
+         "line": 98,
+         "rawfrom": "Walter Hamscher <Walter.Hamscher@BeachFire.com>\n",
+         "source": "email",
+         "to": "Robert Pickel <RPICKEL@isda.org>"
+      },
+      {
+         "from": "ksumme@isda.org",
+         "line": 172,
+         "rawfrom": "Kimberly Summe <KSumme@isda.org>\n",
+         "source": "email",
+         "to": "Robert Pickel <RPICKEL@isda.org>"
+      },
+      {
+         "from": "jamie.moffitt@beachfire.com",
+         "line": 185,
+         "rawfrom": "Jamie Moffitt [mailto:Jamie.Moffitt@BeachFire.com]\n",
+         "source": "email",
+         "to": "Kimberly Summe"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/haedicke-m/all_documents/1247.",
+   "hops": [
+      {
+         "from": "pmartinez@isda.org",
+         "line": 4,
+         "rawfrom": "pmartinez@isda.org\r\n",
+         "source": "valid",
+         "to": "ravi.tennekoon@uk.abnamro.com, jschwab@aigi.com, labrams@aigi.com,"
+      },
+      {
+         "from": "rui.alves@db.com",
+         "line": 60,
+         "rawfrom": "Rui Alves [mailto:rui.alves@db.com]\n",
+         "source": "email",
+         "to": "PMARTINEZ@isda.org"
+      },
+      {
+         "from": "humberto.linaris@br.pwcglobal.com",
+         "line": 87,
+         "rawfrom": "<humberto.linaris@br.pwcglobal.com> on 18/05/2001 17:58 NST\n",
+         "source": "email",
+         "to": "Rui Alves/SaoPaulo/DBSaoPaulo/DeuBa@DBSP"
+      },
+      {
+         "from": "rui.alves@db.com",
+         "line": 108,
+         "rawfrom": "Rui Alves <rui.alves@db.com> on 18-05-2001 11:40:40\n",
+         "source": "email",
+         "to": "Humberto Linaris/BR/ABAS/PwC@SOACAT"
+      },
+      {
+         "from": "humberto.linaris@br.pwcglobal.com",
+         "line": 141,
+         "rawfrom": "<humberto.linaris@br.pwcglobal.com> on 17/05/2001 16:40 NST\n",
+         "source": "email",
+         "to": "abbi@abbi.com.br; acnetto@abbc.org.br"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/haedicke-m/all_documents/966.",
+   "hops": [
+      {
+         "from": "mark.haedicke@enron.com",
+         "line": 4,
+         "rawfrom": "mark.haedicke@enron.com\r\n",
+         "source": "valid",
+         "to": "jklauber@llgm.com"
+      },
+      {
+         "from": "jklauber@llgm.com",
+         "line": 24,
+         "rawfrom": "\"JOHN G KLAUBERG\" <JKLAUBER@LLGM.COM>\n",
+         "source": "email",
+         "to": "Mark.E.Haedicke@enron.com"
+      },
+      {
+         "from": "jklauber@llgm.com",
+         "line": 60,
+         "rawfrom": "jklauber@llgm.com",
+         "source": "valid",
+         "to": "JKLAUBER@LLGM.COM"
+      },
+      {
+         "from": "jklauber@llgm.com",
+         "line": 71,
+         "rawfrom": "\"JOHN G KLAUBERG\" <JKLAUBER@LLGM.COM> on 02/16/2001 09:36:54 AM\n",
+         "source": "email",
+         "to": "vsharp@enron.com"
+      },
+      {
+         "from": "dhansell@llgm.com",
+         "line": 102,
+         "rawfrom": "\"DEAN HANSELL\" <DHANSELL@LLGM.COM>\n",
+         "source": "email",
+         "to": "\"JOHN G KLAUBERG\" <JKLAUBER@LLGM.COM>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/haedicke-m/all_documents/624.",
+   "hops": [
+      {
+         "from": "mark.haedicke@enron.com",
+         "line": 4,
+         "rawfrom": "mark.haedicke@enron.com\r\n",
+         "source": "valid",
+         "to": "mcunningham@isda.org"
+      },
+      {
+         "from": "mcunningham@isda.org",
+         "line": 34,
+         "rawfrom": "Mary Cunningham <MCUNNINGHAM@isda.org>\n",
+         "source": "email",
+         "to": "Mark Haedicke <Mark.E.Haedicke@enron.com>"
+      },
+      {
+         "from": "stuart.f.law@si.shell.com",
+         "line": 59,
+         "rawfrom": "Law, Stuart SF SI-FSTO [mailto:Stuart.F.Law@SI.shell.com] \n",
+         "source": "email",
+         "to": "'Mary Cunningham'"
+      },
+      {
+         "from": "mcunningham@isda.org",
+         "line": 93,
+         "rawfrom": "Mary Cunningham [mailto:MCUNNINGHAM@isda.org]\n",
+         "source": "email",
+         "to": "Law, Stuart SF SI-FSTO"
+      },
+      {
+         "from": "stuart.f.law@si.shell.com",
+         "line": 119,
+         "rawfrom": "Law, Stuart SF SI-FSTO [mailto:Stuart.F.Law@SI.shell.com]\n",
+         "source": "email",
+         "to": "'mcunningham@isda.org'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/haedicke-m/sent/884.",
+   "hops": [
+      {
+         "from": "mark.haedicke@enron.com",
+         "line": 4,
+         "rawfrom": "mark.haedicke@enron.com\r\n",
+         "source": "valid",
+         "to": "rryan@isda.org"
+      },
+      {
+         "from": "rryan@isda.org",
+         "line": 29,
+         "rawfrom": "Rosemary Ryan <RRYAN@isda.org>\n",
+         "source": "email",
+         "to": "Mark Haedicke <Mark.E.Haedicke@enron.com>"
+      },
+      {
+         "from": "martin.chavez@kiodex.com",
+         "line": 47,
+         "rawfrom": "R. Martin Chavez [mailto:martin.chavez@kiodex.com]\n",
+         "source": "email",
+         "to": "'Rosemary Ryan'"
+      },
+      {
+         "from": "rryan@isda.org",
+         "line": 59,
+         "rawfrom": "Rosemary Ryan [mailto:RRYAN@isda.org]\n",
+         "source": "email",
+         "to": "'martin.chavez@kiodex.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/haedicke-m/sent/712.",
+   "hops": [
+      {
+         "from": "mark.haedicke@enron.com",
+         "line": 4,
+         "rawfrom": "mark.haedicke@enron.com\r\n",
+         "source": "valid",
+         "to": "dlove@russellreynolds.com"
+      },
+      {
+         "from": "dlove@russellreynolds.com",
+         "line": 25,
+         "rawfrom": "David Love-Dallas <DLove@russellreynolds.com>\n",
+         "source": "email",
+         "to": "\"'Mark.E.Haedicke@enron.com'\" <Mark.E.Haedicke@enron.com>"
+      },
+      {
+         "from": "mark.e.haedicke@enron.com",
+         "line": 34,
+         "rawfrom": "Mark.E.Haedicke@enron.com [mailto:Mark.E.Haedicke@enron.com] \n",
+         "source": "email",
+         "to": "DLove@russellreynolds.com"
+      },
+      {
+         "from": "mark.e.haedicke@enron.com",
+         "line": 71,
+         "rawfrom": "Mark.E.Haedicke@enron.com [mailto:Mark.E.Haedicke@enron.com] \n",
+         "source": "email",
+         "to": "dlove@russellreynolds.com"
+      },
+      {
+         "from": "mark.e.haedicke@enron.com",
+         "line": 116,
+         "rawfrom": "Mark.E.Haedicke@enron.com [mailto:Mark.E.Haedicke@enron.com] \n",
+         "source": "email",
+         "to": "dlove@russellreynolds.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/haedicke-m/sent/546.",
+   "hops": [
+      {
+         "from": "mark.haedicke@enron.com",
+         "line": 4,
+         "rawfrom": "mark.haedicke@enron.com\r\n",
+         "source": "valid",
+         "to": "mcunningham@isda.org"
+      },
+      {
+         "from": "mcunningham@isda.org",
+         "line": 34,
+         "rawfrom": "Mary Cunningham <MCUNNINGHAM@isda.org>\n",
+         "source": "email",
+         "to": "Mark Haedicke <Mark.E.Haedicke@enron.com>"
+      },
+      {
+         "from": "stuart.f.law@si.shell.com",
+         "line": 59,
+         "rawfrom": "Law, Stuart SF SI-FSTO [mailto:Stuart.F.Law@SI.shell.com] \n",
+         "source": "email",
+         "to": "'Mary Cunningham'"
+      },
+      {
+         "from": "mcunningham@isda.org",
+         "line": 93,
+         "rawfrom": "Mary Cunningham [mailto:MCUNNINGHAM@isda.org]\n",
+         "source": "email",
+         "to": "Law, Stuart SF SI-FSTO"
+      },
+      {
+         "from": "stuart.f.law@si.shell.com",
+         "line": 119,
+         "rawfrom": "Law, Stuart SF SI-FSTO [mailto:Stuart.F.Law@SI.shell.com]\n",
+         "source": "email",
+         "to": "'mcunningham@isda.org'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/haedicke-m/sent/706.",
+   "hops": [
+      {
+         "from": "mark.haedicke@enron.com",
+         "line": 4,
+         "rawfrom": "mark.haedicke@enron.com\r\n",
+         "source": "valid",
+         "to": "dlove@russellreynolds.com"
+      },
+      {
+         "from": "dlove@russellreynolds.com",
+         "line": 31,
+         "rawfrom": "David Love-Dallas <DLove@russellreynolds.com>\n",
+         "source": "email",
+         "to": "\"'Mark.E.Haedicke@enron.com'\" <Mark.E.Haedicke@enron.com>"
+      },
+      {
+         "from": "mark.e.haedicke@enron.com",
+         "line": 41,
+         "rawfrom": "Mark.E.Haedicke@enron.com [mailto:Mark.E.Haedicke@enron.com]\n",
+         "source": "email",
+         "to": "dlove@russellreynolds.com"
+      },
+      {
+         "from": "mark.e.haedicke@enron.com",
+         "line": 98,
+         "rawfrom": "Mark.E.Haedicke@enron.com [mailto:Mark.E.Haedicke@enron.com] \n",
+         "source": "email",
+         "to": "dlove@russellreynolds.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/haedicke-m/sent/799.",
+   "hops": [
+      {
+         "from": "mark.haedicke@enron.com",
+         "line": 4,
+         "rawfrom": "mark.haedicke@enron.com\r\n",
+         "source": "valid",
+         "to": "jklauber@llgm.com"
+      },
+      {
+         "from": "jklauber@llgm.com",
+         "line": 24,
+         "rawfrom": "\"JOHN G KLAUBERG\" <JKLAUBER@LLGM.COM>\n",
+         "source": "email",
+         "to": "Mark.E.Haedicke@enron.com"
+      },
+      {
+         "from": "jklauber@llgm.com",
+         "line": 60,
+         "rawfrom": "jklauber@llgm.com",
+         "source": "valid",
+         "to": "JKLAUBER@LLGM.COM"
+      },
+      {
+         "from": "jklauber@llgm.com",
+         "line": 71,
+         "rawfrom": "\"JOHN G KLAUBERG\" <JKLAUBER@LLGM.COM> on 02/16/2001 09:36:54 AM\n",
+         "source": "email",
+         "to": "vsharp@enron.com"
+      },
+      {
+         "from": "dhansell@llgm.com",
+         "line": 102,
+         "rawfrom": "\"DEAN HANSELL\" <DHANSELL@LLGM.COM>\n",
+         "source": "email",
+         "to": "\"JOHN G KLAUBERG\" <JKLAUBER@LLGM.COM>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/haedicke-m/notes_inbox/96.",
+   "hops": [
+      {
+         "from": "pmartinez@isda.org",
+         "line": 4,
+         "rawfrom": "pmartinez@isda.org\r\n",
+         "source": "valid",
+         "to": "ravi.tennekoon@uk.abnamro.com, jschwab@aigi.com, labrams@aigi.com,"
+      },
+      {
+         "from": "rui.alves@db.com",
+         "line": 60,
+         "rawfrom": "Rui Alves [mailto:rui.alves@db.com]\n",
+         "source": "email",
+         "to": "PMARTINEZ@isda.org"
+      },
+      {
+         "from": "humberto.linaris@br.pwcglobal.com",
+         "line": 87,
+         "rawfrom": "<humberto.linaris@br.pwcglobal.com> on 18/05/2001 17:58 NST\n",
+         "source": "email",
+         "to": "Rui Alves/SaoPaulo/DBSaoPaulo/DeuBa@DBSP"
+      },
+      {
+         "from": "rui.alves@db.com",
+         "line": 108,
+         "rawfrom": "Rui Alves <rui.alves@db.com> on 18-05-2001 11:40:40\n",
+         "source": "email",
+         "to": "Humberto Linaris/BR/ABAS/PwC@SOACAT"
+      },
+      {
+         "from": "humberto.linaris@br.pwcglobal.com",
+         "line": 141,
+         "rawfrom": "<humberto.linaris@br.pwcglobal.com> on 17/05/2001 16:40 NST\n",
+         "source": "email",
+         "to": "abbi@abbi.com.br; acnetto@abbc.org.br"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/haedicke-m/notes_inbox/1208.",
+   "hops": [
+      {
+         "from": "rpickel@isda.org",
+         "line": 4,
+         "rawfrom": "rpickel@isda.org\r\n",
+         "source": "valid",
+         "to": "kbailey2@exchange.ml.com, genova_diane@jpmorgan.com,"
+      },
+      {
+         "from": "ksumme@isda.org",
+         "line": 52,
+         "rawfrom": "Kimberly Summe <KSumme@isda.org>\n",
+         "source": "email",
+         "to": "Robert Pickel <RPICKEL@isda.org>"
+      },
+      {
+         "from": "ben.coes@beachfire.com",
+         "line": 64,
+         "rawfrom": "Ben Coes [mailto:Ben.Coes@BeachFire.com]\n",
+         "source": "email",
+         "to": "'ksumme@isda.org'"
+      },
+      {
+         "from": "walter.hamscher@beachfire.com",
+         "line": 98,
+         "rawfrom": "Walter Hamscher <Walter.Hamscher@BeachFire.com>\n",
+         "source": "email",
+         "to": "Robert Pickel <RPICKEL@isda.org>"
+      },
+      {
+         "from": "ksumme@isda.org",
+         "line": 172,
+         "rawfrom": "Kimberly Summe <KSumme@isda.org>\n",
+         "source": "email",
+         "to": "Robert Pickel <RPICKEL@isda.org>"
+      },
+      {
+         "from": "jamie.moffitt@beachfire.com",
+         "line": 185,
+         "rawfrom": "Jamie Moffitt [mailto:Jamie.Moffitt@BeachFire.com]\n",
+         "source": "email",
+         "to": "Kimberly Summe"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/haedicke-m/notes_inbox/388.",
+   "hops": [
+      {
+         "from": "dakotaleg@aol.com",
+         "line": 4,
+         "rawfrom": "dakotaleg@aol.com\r\n",
+         "source": "valid",
+         "to": "dakotaleg@aol.com"
+      },
+      {
+         "from": "dakotaleg@aol.com",
+         "line": 44,
+         "rawfrom": "DakotaLeg@aol.com\n",
+         "source": "valid",
+         "to": "DakotaLeg@aol.com"
+      },
+      {
+         "from": "dakotaleg@aol.com",
+         "line": 73,
+         "rawfrom": "DakotaLeg@aol.com\n",
+         "source": "valid",
+         "to": "DakotaLeg@aol.com"
+      },
+      {
+         "from": "dakotaleg@aol.com",
+         "line": 102,
+         "rawfrom": "DakotaLeg@aol.com\n",
+         "source": "valid",
+         "to": "DakotaLeg@aol.com"
+      },
+      {
+         "from": "dakotaleg@aol.com",
+         "line": 132,
+         "rawfrom": "DakotaLeg@aol.com\n",
+         "source": "valid",
+         "to": "DakotaLeg@aol.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/haedicke-m/deleted_items/167.",
+   "hops": [
+      {
+         "from": "rob.walls@enron.com",
+         "line": 4,
+         "rawfrom": "rob.walls@enron.com\r\n",
+         "source": "valid",
+         "to": "e..haedicke@enron.com"
+      },
+      {
+         "from": "suresh.talwar@crawfordbayley.com",
+         "line": 62,
+         "rawfrom": "suresh talwar <suresh.talwar@crawfordbayley.com>@ENRON \n",
+         "source": "email",
+         "to": "Edison, Andrew"
+      },
+      {
+         "from": "andrew.edison@enron.com",
+         "line": 90,
+         "rawfrom": "  Andrew.Edison@enron.com [SMTP:Andrew.Edison@enron.com]\n",
+         "source": "email",
+         "to": "suresh.talwar@crawfordbayley.com"
+      },
+      {
+         "from": "suresh.talwar@crawfordbayley.com",
+         "line": 115,
+         "rawfrom": "  suresh talwar <suresh.talwar@crawfordbayley.com>@ENRON\n",
+         "source": "email",
+         "to": "Edison, Andrew"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/haedicke-m/deleted_items/28.",
+   "hops": [
+      {
+         "from": "henning.bruttel@drkw.com",
+         "line": 4,
+         "rawfrom": "henning.bruttel@drkw.com\r\n",
+         "source": "valid",
+         "to": "steve_targett@national.com.au, frederic.janbon@bnpparibas.com"
+      },
+      {
+         "from": "steve_targett@national.com.au",
+         "line": 29,
+         "rawfrom": "> From:\tSteve_Targett@national.com.au [SMTP:Steve_Targett@national.com.au]\n",
+         "source": "email",
+         "to": "frederic.janbon@bnpparibas.com"
+      },
+      {
+         "from": "frederic.janbon@bnpparibas.com",
+         "line": 45,
+         "rawfrom": "frederic.janbon@bnpparibas.com",
+         "source": "valid",
+         "to": "Jerry.delmissier@barclayscapital.com"
+      },
+      {
+         "from": "jerry.delmissier@barclayscapital.com",
+         "line": 61,
+         "rawfrom": "Jerry.delmissier@barclayscapital.com",
+         "source": "valid",
+         "to": "RPICKEL, BOARD"
+      },
+      {
+         "from": "rpickel@isda.org",
+         "line": 82,
+         "rawfrom": "Robert Pickel [mailto:RPICKEL@isda.org]\n",
+         "source": "email",
+         "to": "ISDA BOARD"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/haedicke-m/sent_items/32.",
+   "hops": [
+      {
+         "from": "e..haedicke@enron.com",
+         "line": 4,
+         "rawfrom": "e..haedicke@enron.com\r\n",
+         "source": "valid",
+         "to": "rob.walls@enron.com"
+      },
+      {
+         "from": "suresh.talwar@crawfordbayley.com",
+         "line": 72,
+         "rawfrom": "suresh talwar <suresh.talwar@crawfordbayley.com>@ENRON \n",
+         "source": "email",
+         "to": "Edison, Andrew"
+      },
+      {
+         "from": "andrew.edison@enron.com",
+         "line": 100,
+         "rawfrom": "  Andrew.Edison@enron.com [SMTP:Andrew.Edison@enron.com]\n",
+         "source": "email",
+         "to": "suresh.talwar@crawfordbayley.com"
+      },
+      {
+         "from": "suresh.talwar@crawfordbayley.com",
+         "line": 125,
+         "rawfrom": "  suresh talwar <suresh.talwar@crawfordbayley.com>@ENRON\n",
+         "source": "email",
+         "to": "Edison, Andrew"
+      }
+   ],
+   "skipped": 3
+}
+]

@@ -1,0 +1,43 @@
+[
+{
+   "file": "/home/jb/maildir/bailey-s/deleted_items/181.",
+   "hops": [
+      {
+         "from": "sbailey@crusescott.com",
+         "line": 4,
+         "rawfrom": "sbailey@crusescott.com\r\n",
+         "source": "valid",
+         "to": "susan.bailey@enron.com"
+      },
+      {
+         "from": "dmcleroy@asglp.com",
+         "line": 22,
+         "rawfrom": "From:\tMcLeroy, David [SMTP:dmcleroy@asglp.com]\n",
+         "source": "email",
+         "to": "Al Nance; Bobby Mulvey; Brady Crosswell; Brent Martin; Dan Dukes; David"
+      },
+      {
+         "from": "smountain@triactive.com",
+         "line": 34,
+         "rawfrom": "> From:\tMountain, Smoky [SMTP:smountain@triactive.com]\n",
+         "source": "email",
+         "to": "McLeroy, David"
+      },
+      {
+         "from": "dmcleroy@asglp.com",
+         "line": 176,
+         "rawfrom": "> From:\tMcLeroy, David [mailto:dmcleroy@asglp.com]\n",
+         "source": "email",
+         "to": "Mountain, Smoky"
+      },
+      {
+         "from": "smountain@triactive.com",
+         "line": 189,
+         "rawfrom": "> > From:\tMountain, Smoky [SMTP:smountain@triactive.com]\n",
+         "source": "email",
+         "to": "McLeroy, David"
+      }
+   ],
+   "skipped": 1
+}
+]

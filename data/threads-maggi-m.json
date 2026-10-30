@@ -1,0 +1,71 @@
+[
+{
+   "file": "/home/jb/maildir/maggi-m/deleted_items/235.",
+   "hops": [
+      {
+         "from": "mike.maggi@enron.com",
+         "line": 4,
+         "rawfrom": "mike.maggi@enron.com\r\n",
+         "source": "valid",
+         "to": "steve.murphy@pinnaclewest.com"
+      },
+      {
+         "from": "steve.murphy@pinnaclewest.com",
+         "line": 22,
+         "rawfrom": "\t\"Murphy, Steve (Z69945)\" <Steve.Murphy@pinnaclewest.com>@ENRON  \n",
+         "source": "email",
+         "to": "Maggi, Mike"
+      },
+      {
+         "from": "mike.maggi@enron.com",
+         "line": 36,
+         "rawfrom": "Mike.Maggi@enron.com [mailto:Mike.Maggi@enron.com]\n",
+         "source": "email",
+         "to": "Murphy, Steve (Z69945)"
+      },
+      {
+         "from": "steve.murphy@pinnaclewest.com",
+         "line": 46,
+         "rawfrom": "  \"Murphy, Steve (Z69945)\" <Steve.Murphy@pinnaclewest.com>@ENRON\n",
+         "source": "email",
+         "to": "Maggi, Mike"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/maggi-m/deleted_items/151.",
+   "hops": [
+      {
+         "from": "mattc@elitebrokers.net",
+         "line": 4,
+         "rawfrom": "mattc@elitebrokers.net\r\n",
+         "source": "valid",
+         "to": "mmaggi@enron.com"
+      },
+      {
+         "from": "mkammer@tradespark.com",
+         "line": 20,
+         "rawfrom": "\"Kammer, Mike\" <MKammer@tradespark.com>\n",
+         "source": "email",
+         "to": "\"'Gmorgan (E-mail)\" <gmorgan@natsource.com>; \"'John. Knock (E-mail)\""
+      },
+      {
+         "from": "patrick@moving.com",
+         "line": 44,
+         "rawfrom": "Patrick [mailto:patrick@moving.com]\n",
+         "source": "email",
+         "to": "John Windsor; , Moore, John A. (US - McLean); Anthony Digore"
+      },
+      {
+         "from": "toreilly@interpublic.com",
+         "line": 58,
+         "rawfrom": "\"O'Reilly, Thomas\" <TOReilly@INTERPUBLIC.COM>\n",
+         "source": "email",
+         "to": "\"'Anderson, Dave'\" <DAnderson@minolta.com>; \"'Bellomo, Chrissy'\""
+      }
+   ],
+   "skipped": 1
+}
+]

@@ -1,0 +1,477 @@
+[
+{
+   "file": "/home/jb/maildir/semperger-c/deleted_items/76.",
+   "hops": [
+      {
+         "from": "jhormo@ladwp.com",
+         "line": 4,
+         "rawfrom": "jhormo@ladwp.com\r\n",
+         "source": "valid",
+         "to": "eswg@wscc.com"
+      },
+      {
+         "from": "jcanavan@mtpower.com",
+         "line": 22,
+         "rawfrom": "Canavan, John S [mailto:jcanavan@mtpower.com]\n",
+         "source": "email",
+         "to": "Electronic Scheduling Work Group"
+      },
+      {
+         "from": "tsmith@tristategt.org",
+         "line": 34,
+         "rawfrom": "> From:\tSmith, Tom [SMTP:tsmith@tristategt.org]\n",
+         "source": "email",
+         "to": "Electronic Scheduling Work Group"
+      },
+      {
+         "from": "bharsh@puget.com",
+         "line": 44,
+         "rawfrom": "Harshbarger, Robert [mailto:bharsh@puget.com]\n",
+         "source": "email",
+         "to": "Electronic Scheduling Work Group"
+      },
+      {
+         "from": "mcelhany@wapa.gov",
+         "line": 57,
+         "rawfrom": "\tMike McElhany[SMTP:mcelhany@wapa.gov]\n",
+         "source": "email",
+         "to": "estf@nerc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/semperger-c/deleted_items/121.",
+   "hops": [
+      {
+         "from": "craig_vinson@cmicro.com",
+         "line": 4,
+         "rawfrom": "craig_vinson@cmicro.com\r\n",
+         "source": "valid",
+         "to": "cara.semperger@enron.com"
+      },
+      {
+         "from": "cara.semperger@enron.com",
+         "line": 24,
+         "rawfrom": "Semperger, Cara [mailto:Cara.Semperger@ENRON.com]\n",
+         "source": "email",
+         "to": "Craig Vinson"
+      },
+      {
+         "from": "craig_vinson@cmicro.com",
+         "line": 33,
+         "rawfrom": "Craig Vinson [mailto:Craig_Vinson@cmicro.com]\n",
+         "source": "email",
+         "to": "Semperger, Cara"
+      },
+      {
+         "from": "cara.semperger@enron.com",
+         "line": 42,
+         "rawfrom": "Semperger, Cara [mailto:Cara.Semperger@ENRON.com]\n",
+         "source": "email",
+         "to": "Craig Vinson"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/semperger-c/deleted_items/83.",
+   "hops": [
+      {
+         "from": "fidrych@wapa.gov",
+         "line": 4,
+         "rawfrom": "fidrych@wapa.gov\r\n",
+         "source": "valid",
+         "to": "eswg@wscc.com"
+      },
+      {
+         "from": "tsmith@tristategt.org",
+         "line": 30,
+         "rawfrom": "> From:\tSmith, Tom [SMTP:tsmith@tristategt.org] \n",
+         "source": "email",
+         "to": "Electronic Scheduling Work Group"
+      },
+      {
+         "from": "bharsh@puget.com",
+         "line": 40,
+         "rawfrom": "Harshbarger, Robert [mailto:bharsh@puget.com] \n",
+         "source": "email",
+         "to": "Electronic Scheduling Work Group"
+      },
+      {
+         "from": "mcelhany@wapa.gov",
+         "line": 53,
+         "rawfrom": "\tMike McElhany[SMTP:mcelhany@wapa.gov] \n",
+         "source": "email",
+         "to": "estf@nerc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/semperger-c/deleted_items/116.",
+   "hops": [
+      {
+         "from": "jhormo@ladwp.com",
+         "line": 4,
+         "rawfrom": "jhormo@ladwp.com\r\n",
+         "source": "valid",
+         "to": "eswg@wscc.com"
+      },
+      {
+         "from": "jcanavan@mtpower.com",
+         "line": 66,
+         "rawfrom": "Canavan, John S [mailto:jcanavan@mtpower.com]\n",
+         "source": "email",
+         "to": "Hormozi, John; Electronic Scheduling Work Group"
+      },
+      {
+         "from": "jhormo@ladwp.com",
+         "line": 106,
+         "rawfrom": "> From:\tHormozi, John [SMTP:jhormo@ladwp.com]\n",
+         "source": "email",
+         "to": "Electronic Scheduling Work Group"
+      },
+      {
+         "from": "mcelhany@wapa.gov",
+         "line": 158,
+         "rawfrom": "Mike McElhany [mailto:McElhany@wapa.gov]\n",
+         "source": "email",
+         "to": "estf@nerc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/semperger-c/deleted_items/108.",
+   "hops": [
+      {
+         "from": "jhormo@ladwp.com",
+         "line": 4,
+         "rawfrom": "jhormo@ladwp.com\r\n",
+         "source": "valid",
+         "to": "eswg@wscc.com"
+      },
+      {
+         "from": "bschwer@smud.org",
+         "line": 56,
+         "rawfrom": "Robert Schwermann [mailto:BSchwer@smud.org]\n",
+         "source": "email",
+         "to": "Hormozi, John"
+      },
+      {
+         "from": "jhormo@ladwp.com",
+         "line": 83,
+         "rawfrom": "\tFrom:\tHormozi, John [SMTP:jhormo@ladwp.com]\n",
+         "source": "email",
+         "to": "Electronic Scheduling Work Group"
+      },
+      {
+         "from": "jcanavan@mtpower.com",
+         "line": 173,
+         "rawfrom": "Canavan, John S [mailto:jcanavan@mtpower.com]\n",
+         "source": "email",
+         "to": "Hormozi, John; Electronic Scheduling Work Group"
+      },
+      {
+         "from": "jhormo@ladwp.com",
+         "line": 221,
+         "rawfrom": "\t> From:\tHormozi, John [SMTP:jhormo@ladwp.com]\n",
+         "source": "email",
+         "to": "Electronic Scheduling Work Group"
+      },
+      {
+         "from": "mcelhany@wapa.gov",
+         "line": 305,
+         "rawfrom": "Mike McElhany [mailto:McElhany@wapa.gov]\n",
+         "source": "email",
+         "to": "estf@nerc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/semperger-c/deleted_items/89.",
+   "hops": [
+      {
+         "from": "jcanavan@mtpower.com",
+         "line": 4,
+         "rawfrom": "jcanavan@mtpower.com\r\n",
+         "source": "valid",
+         "to": "eswg@wscc.com"
+      },
+      {
+         "from": "tsmith@tristategt.org",
+         "line": 25,
+         "rawfrom": "> From:\tSmith, Tom [SMTP:tsmith@tristategt.org]\n",
+         "source": "email",
+         "to": "Electronic Scheduling Work Group"
+      },
+      {
+         "from": "bharsh@puget.com",
+         "line": 34,
+         "rawfrom": "Harshbarger, Robert [mailto:bharsh@puget.com]\n",
+         "source": "email",
+         "to": "Electronic Scheduling Work Group"
+      },
+      {
+         "from": "mcelhany@wapa.gov",
+         "line": 46,
+         "rawfrom": "\tMike McElhany[SMTP:mcelhany@wapa.gov]\n",
+         "source": "email",
+         "to": "estf@nerc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/semperger-c/deleted_items/22.",
+   "hops": [
+      {
+         "from": "bharsh@puget.com",
+         "line": 4,
+         "rawfrom": "bharsh@puget.com\r\n",
+         "source": "valid",
+         "to": "eswg@wscc.com"
+      },
+      {
+         "from": "ray.grinberg@pacificorp.com",
+         "line": 50,
+         "rawfrom": "\tGrinberg, Ray[SMTP:Ray.Grinberg@PacifiCorp.com]\n",
+         "source": "email",
+         "to": "Interchange Scheduling & Accounting Subcommittee (ISAS)"
+      },
+      {
+         "from": "sccobb@srpnet.com",
+         "line": 98,
+         "rawfrom": "sccobb@srpnet.com [mailto:sccobb@srpnet.com]\n",
+         "source": "email",
+         "to": "RWINN@pnm.com"
+      },
+      {
+         "from": "rwinn@pnm.com",
+         "line": 145,
+         "rawfrom": "Winn, Robert [mailto:RWINN@pnm.com]\n",
+         "source": "email",
+         "to": "'sccobb@srpnet.com'; ISAS Correspondents"
+      },
+      {
+         "from": "sccobb@srpnet.com",
+         "line": 194,
+         "rawfrom": "sccobb@srpnet.com [ mailto:sccobb@srpnet.com] \n",
+         "source": "email",
+         "to": "ISAS Correspondents"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/semperger-c/deleted_items/84.",
+   "hops": [
+      {
+         "from": "bakert@prpa.org",
+         "line": 4,
+         "rawfrom": "bakert@prpa.org\r\n",
+         "source": "valid",
+         "to": "eswg@wscc.com"
+      },
+      {
+         "from": "jcanavan@mtpower.com",
+         "line": 22,
+         "rawfrom": "Canavan, John S [mailto:jcanavan@mtpower.com]\n",
+         "source": "email",
+         "to": "Electronic Scheduling Work Group"
+      },
+      {
+         "from": "tsmith@tristategt.org",
+         "line": 34,
+         "rawfrom": "> From:\tSmith, Tom [SMTP:tsmith@tristategt.org]\n",
+         "source": "email",
+         "to": "Electronic Scheduling Work Group"
+      },
+      {
+         "from": "bharsh@puget.com",
+         "line": 43,
+         "rawfrom": "Harshbarger, Robert [mailto:bharsh@puget.com]\n",
+         "source": "email",
+         "to": "Electronic Scheduling Work Group"
+      },
+      {
+         "from": "mcelhany@wapa.gov",
+         "line": 55,
+         "rawfrom": "\tMike McElhany[SMTP:mcelhany@wapa.gov]\n",
+         "source": "email",
+         "to": "estf@nerc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/semperger-c/deleted_items/236.",
+   "hops": [
+      {
+         "from": "skennedy@houston.rr.com",
+         "line": 4,
+         "rawfrom": "skennedy@houston.rr.com\r\n",
+         "source": "valid",
+         "to": "reardon.tom@enron.com, teresa.wright@enron.com, kelly.suzanne@enron.com,"
+      },
+      {
+         "from": "difib@home.com",
+         "line": 33,
+         "rawfrom": "\"JOHN JONES\" <difib@home.com>\n",
+         "source": "email",
+         "to": "\"Chris DeViriglis\" <manta486@aol.com>; \"bobby sheldon\""
+      },
+      {
+         "from": "reynold2@sachem.edu",
+         "line": 50,
+         "rawfrom": "Sue Reynolds <reynold2@sachem.edu>\n",
+         "source": "email",
+         "to": "<mscpmi@aol.com>"
+      },
+      {
+         "from": "reynjcr@aol.com",
+         "line": 61,
+         "rawfrom": "ReynJCR@aol.com\n",
+         "source": "valid",
+         "to": "Jack0509@aol.com, Kathl10429@aol.com, Brenda.Carren@gte.net,"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/semperger-c/deleted_items/78.",
+   "hops": [
+      {
+         "from": "talarson@bpa.gov",
+         "line": 4,
+         "rawfrom": "talarson@bpa.gov\r\n",
+         "source": "valid",
+         "to": "eswg@wscc.com"
+      },
+      {
+         "from": "bschwer@smud.org",
+         "line": 22,
+         "rawfrom": "Robert Schwermann [mailto:BSchwer@smud.org]\n",
+         "source": "email",
+         "to": "Electronic Scheduling Work Group"
+      },
+      {
+         "from": "jcanavan@mtpower.com",
+         "line": 38,
+         "rawfrom": "\tFrom:\tCanavan, John S [SMTP:jcanavan@mtpower.com]\n",
+         "source": "email",
+         "to": "Electronic Scheduling Work Group"
+      },
+      {
+         "from": "tsmith@tristategt.org",
+         "line": 50,
+         "rawfrom": "\t> From:\tSmith, Tom [SMTP:tsmith@tristategt.org]\n",
+         "source": "email",
+         "to": "Electronic Scheduling Work Group"
+      },
+      {
+         "from": "bharsh@puget.com",
+         "line": 61,
+         "rawfrom": "Harshbarger, Robert [mailto:bharsh@puget.com]\n",
+         "source": "email",
+         "to": "Electronic Scheduling Work Group"
+      },
+      {
+         "from": "mcelhany@wapa.gov",
+         "line": 74,
+         "rawfrom": "\tMike McElhany[SMTP:mcelhany@wapa.gov]\n",
+         "source": "email",
+         "to": "estf@nerc.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/semperger-c/deleted_items/157.",
+   "hops": [
+      {
+         "from": "craig_vinson@cmicro.com",
+         "line": 4,
+         "rawfrom": "craig_vinson@cmicro.com\r\n",
+         "source": "valid",
+         "to": "cara.semperger@enron.com"
+      },
+      {
+         "from": "cara.semperger@enron.com",
+         "line": 22,
+         "rawfrom": "Semperger, Cara [mailto:Cara.Semperger@ENRON.com]\n",
+         "source": "email",
+         "to": "Craig Vinson"
+      },
+      {
+         "from": "craig_vinson@cmicro.com",
+         "line": 34,
+         "rawfrom": "Craig Vinson [mailto:Craig_Vinson@cmicro.com]\n",
+         "source": "email",
+         "to": "Semperger, Cara"
+      },
+      {
+         "from": "cara.semperger@enron.com",
+         "line": 51,
+         "rawfrom": "Semperger, Cara [mailto:Cara.Semperger@ENRON.com]\n",
+         "source": "email",
+         "to": "craigv@cmicro.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/semperger-c/deleted_items/79.",
+   "hops": [
+      {
+         "from": "bschwer@smud.org",
+         "line": 4,
+         "rawfrom": "bschwer@smud.org\r\n",
+         "source": "valid",
+         "to": "eswg@wscc.com"
+      },
+      {
+         "from": "jcanavan@mtpower.com",
+         "line": 29,
+         "rawfrom": "\tFrom:\tCanavan, John S [SMTP:jcanavan@mtpower.com]\n",
+         "source": "email",
+         "to": "Electronic Scheduling Work Group"
+      },
+      {
+         "from": "tsmith@tristategt.org",
+         "line": 41,
+         "rawfrom": "\t> From:\tSmith, Tom [SMTP:tsmith@tristategt.org]\n",
+         "source": "email",
+         "to": "Electronic Scheduling Work Group"
+      },
+      {
+         "from": "bharsh@puget.com",
+         "line": 52,
+         "rawfrom": "Harshbarger, Robert [mailto:bharsh@puget.com]\n",
+         "source": "email",
+         "to": "Electronic Scheduling Work Group"
+      },
+      {
+         "from": "mcelhany@wapa.gov",
+         "line": 65,
+         "rawfrom": "\tMike McElhany[SMTP:mcelhany@wapa.gov]\n",
+         "source": "email",
+         "to": "estf@nerc.com"
+      }
+   ],
+   "skipped": 0
+}
+]

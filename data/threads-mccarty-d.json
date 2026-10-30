@@ -1,0 +1,71 @@
+[
+{
+   "file": "/home/jb/maildir/mccarty-d/inbox/alaska_gas/156.",
+   "hops": [
+      {
+         "from": "dave.vandriel@neg.pge.com",
+         "line": 4,
+         "rawfrom": "dave.vandriel@neg.pge.com\r\n",
+         "source": "valid",
+         "to": "robert.hill@enron.com, dave.van@enron.com, andrew.ilnycky@enron.com"
+      },
+      {
+         "from": "robert.hill@enron.com",
+         "line": 25,
+         "rawfrom": "Hill, Robert [mailto:Robert.Hill@ENRON.com]\n",
+         "source": "email",
+         "to": "Van Driel, Dave; Ilnycky, Andrew; byron.wright@elpaso.com; Cohen,"
+      },
+      {
+         "from": "dave.vandriel@neg.pge.com",
+         "line": 39,
+         "rawfrom": "Van Driel, Dave [mailto:Dave.VanDriel@neg.pge.com]\n",
+         "source": "email",
+         "to": "'Ilnycky, Andrew'; Van Driel, Dave; 'byron.wright@elpaso.com'; Hill,"
+      },
+      {
+         "from": "andy.ilnycky@foothillspipe.com",
+         "line": 62,
+         "rawfrom": "Ilnycky, Andrew [mailto:andy.ilnycky@foothillspipe.com]\n",
+         "source": "email",
+         "to": "'dave.vandriel@neg.pge.com'; 'byron.wright@elpaso.com';"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mccarty-d/inbox/77.",
+   "hops": [
+      {
+         "from": "eric.gadd@enron.com",
+         "line": 4,
+         "rawfrom": "eric.gadd@enron.com\r\n",
+         "source": "valid",
+         "to": "danny.mccarty@enron.com"
+      },
+      {
+         "from": "michelle.coughlin@williams.com",
+         "line": 24,
+         "rawfrom": "Coughlin, Michelle <Michelle.Coughlin@Williams.Com>\r\n",
+         "source": "email",
+         "to": "'Brad D. Reese' <bdreese@duke-energy.com>"
+      },
+      {
+         "from": "bdreese@duke-energy.com",
+         "line": 76,
+         "rawfrom": "Brad D. Reese [mailto:bdreese@duke-energy.com]=20\r\n",
+         "source": "email",
+         "to": "Coughlin, Michelle=20"
+      },
+      {
+         "from": "bscott@wei.org",
+         "line": 248,
+         "rawfrom": "Bruce Scott [mailto:BScott@wei.org]=20\r\n",
+         "source": "email",
+         "to": "'spatrick@sempra.com'; 'wpurcell@sempra-intl.com';=20"
+      }
+   ],
+   "skipped": 1
+}
+]

@@ -1,0 +1,477 @@
+[
+{
+   "file": "/home/jb/maildir/shapiro-r/federal_gov_t_affairs/35.",
+   "hops": [
+      {
+         "from": ".palmer@enron.com",
+         "line": 4,
+         "rawfrom": "pr <.palmer@enron.com>\r\n",
+         "source": "email",
+         "to": "richard.shapiro@enron.com, j..kean@enron.com, linda.robertson@enron.com"
+      },
+      {
+         "from": "ekrapels@esaibos.com",
+         "line": 38,
+         "rawfrom": "\t\"Ed Krapels\" <ekrapels@esaibos.com>@ENRON  \n",
+         "source": "email",
+         "to": "Kaminski, Vince J"
+      },
+      {
+         "from": "vince.j.kaminski@enron.com",
+         "line": 70,
+         "rawfrom": "Kaminski, Vince J [mailto:Vince.J.Kaminski@ENRON.com]\n",
+         "source": "email",
+         "to": "ekrapels@esaibos.com"
+      },
+      {
+         "from": "ekrapels@esaibos.com",
+         "line": 93,
+         "rawfrom": "\t\"Ed Krapels\" <ekrapels@esaibos.com>@ENRON\n",
+         "source": "email",
+         "to": "Kaminski, Vince J"
+      },
+      {
+         "from": "vince.j.kaminski@enron.com",
+         "line": 108,
+         "rawfrom": "Kaminski, Vince J [mailto:Vince.J.Kaminski@ENRON.com]\n",
+         "source": "email",
+         "to": "ekrapels@esaibos.com"
+      },
+      {
+         "from": "ekrapels@esaibos.com",
+         "line": 126,
+         "rawfrom": "\t\"Ed Krapels\" <ekrapels@esaibos.com>@ENRON\n",
+         "source": "email",
+         "to": "Vincent Kaminski \\(E-mail\\)"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/shapiro-r/deleted_items/1347.",
+   "hops": [
+      {
+         "from": "richard.shapiro@enron.com",
+         "line": 4,
+         "rawfrom": "richard.shapiro@enron.com\r\n",
+         "source": "valid",
+         "to": "rickshapiro@hotmail.com"
+      },
+      {
+         "from": "client@admission.com",
+         "line": 22,
+         "rawfrom": " <client@admission.com>\r\n",
+         "source": "email",
+         "to": "rshapiro@enron.com"
+      },
+      {
+         "from": "client@admission.com",
+         "line": 92,
+         "rawfrom": " <client@admission.com>\r\n",
+         "source": "email",
+         "to": "rshapiro@enron.com"
+      },
+      {
+         "from": "boschi.federico@acquirenteunico.it",
+         "line": 408,
+         "rawfrom": " <boschi.federico@acquirenteunico.it>\r\n",
+         "source": "email",
+         "to": "Shapiro, Richard </O=3DENRON/OU=3DNA/CN=3DRECIPIENTS/CN=3DRSHAPIRO>"
+      }
+   ],
+   "skipped": 12
+}
+,
+{
+   "file": "/home/jb/maildir/shapiro-r/deleted_items/623.",
+   "hops": [
+      {
+         "from": "richard.shapiro@enron.com",
+         "line": 4,
+         "rawfrom": "richard.shapiro@enron.com\r\n",
+         "source": "valid",
+         "to": "paul.kaufman@enron.com"
+      },
+      {
+         "from": "paul.kaufman@enron.com",
+         "line": 24,
+         "rawfrom": "Kaufman, Paul <Paul.Kaufman@ENRON.com>\n",
+         "source": "email",
+         "to": "Shapiro, Richard <Richard.Shapiro@ENRON.com>"
+      },
+      {
+         "from": "joanne.rutkowski@bakerbotts.com",
+         "line": 34,
+         "rawfrom": "joanne.rutkowski@bakerbotts.com\n",
+         "source": "valid",
+         "to": "Metts, Mark; Kaufman, Paul"
+      },
+      {
+         "from": "wbaker@thelenreid.com",
+         "line": 44,
+         "rawfrom": "William Jr. Baker [mailto:wbaker@thelenreid.com] \n",
+         "source": "email",
+         "to": "joanne.rutkowski@bakerbotts.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shapiro-r/deleted_items/1349.",
+   "hops": [
+      {
+         "from": "richard.shapiro@enron.com",
+         "line": 4,
+         "rawfrom": "richard.shapiro@enron.com\r\n",
+         "source": "valid",
+         "to": "rickshapiro@hotmail.com"
+      },
+      {
+         "from": "postmaster@enron.com",
+         "line": 111,
+         "rawfrom": " <postmaster@ENRON.com>\n",
+         "source": "email",
+         "to": "Shapiro, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RSHAPIRO>"
+      },
+      {
+         "from": "aleck.dadson@ngwi.com",
+         "line": 127,
+         "rawfrom": " <Aleck.Dadson@ngwi.com>\n",
+         "source": "email",
+         "to": "Shapiro, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RSHAPIRO>"
+      },
+      {
+         "from": "richard.shapiro@enron.com",
+         "line": 138,
+         "rawfrom": "Shapiro, Richard [mailto:Richard.Shapiro@ENRON.com]\n",
+         "source": "email",
+         "to": "Dadson, Aleck"
+      },
+      {
+         "from": "aleck.dadson@ngwi.com",
+         "line": 147,
+         "rawfrom": "Dadson, Aleck [mailto:Aleck.Dadson@ngwi.com]\n",
+         "source": "email",
+         "to": "Hemstock, Robert; Shapiro, Richard"
+      },
+      {
+         "from": "postmaster@enron.com",
+         "line": 174,
+         "rawfrom": " <postmaster@ENRON.com>\n",
+         "source": "email",
+         "to": "Shapiro, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RSHAPIRO>"
+      },
+      {
+         "from": "tom.mclaren@gpcinternational.com",
+         "line": 190,
+         "rawfrom": " <Tom.McLaren@gpcinternational.com>\n",
+         "source": "email",
+         "to": "Thode, Eric </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ETHODE>, 'rshapiro@enron.com'"
+      },
+      {
+         "from": "lchurch@epsa.org",
+         "line": 251,
+         "rawfrom": " <LCHURCH@epsa.org>\n",
+         "source": "email",
+         "to": "rshapiro@enron.com"
+      },
+      {
+         "from": "shawn.cumberland@elpaso.com",
+         "line": 261,
+         "rawfrom": " <Shawn.Cumberland@ElPaso.com>\n",
+         "source": "email",
+         "to": "Shapiro, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RSHAPIRO>"
+      }
+   ],
+   "skipped": 7
+}
+,
+{
+   "file": "/home/jb/maildir/shapiro-r/deleted_items/1300.",
+   "hops": [
+      {
+         "from": "richard.shapiro@enron.com",
+         "line": 4,
+         "rawfrom": "richard.shapiro@enron.com\r\n",
+         "source": "valid",
+         "to": "rickshapiro@hotmail.com"
+      },
+      {
+         "from": "jonathan@gersten.com",
+         "line": 207,
+         "rawfrom": " <jonathan@gersten.com>\r\n",
+         "source": "email",
+         "to": "Shapiro, Richard </O=3DENRON/OU=3DNA/CN=3DRECIPIENTS/CN=3DRSHAPIRO>"
+      },
+      {
+         "from": "jonathan@gersten.com",
+         "line": 224,
+         "rawfrom": "Jonathan Goldstein [mailto:jonathan@gersten.com]\r\n",
+         "source": "email",
+         "to": "Shapiro, Richard"
+      },
+      {
+         "from": "jonathan@gersten.com",
+         "line": 275,
+         "rawfrom": "Jonathan Goldstein [mailto:jonathan@gersten.com]\r\n",
+         "source": "email",
+         "to": "rshapiro@enron.com"
+      },
+      {
+         "from": "rickshapiro@hotmail.com",
+         "line": 395,
+         "rawfrom": " <rickshapiro@hotmail.com>\r\n",
+         "source": "email",
+         "to": "Shapiro, Richard </O=3DENRON/OU=3DNA/CN=3DRECIPIENTS/CN=3DRSHAPIRO>"
+      },
+      {
+         "from": "richard.shapiro@enron.com",
+         "line": 403,
+         "rawfrom": "\"Shapiro, Richard\" <RICHARD.SHAPIRO@ENRON.COM>\r\n",
+         "source": "email",
+         "to": "<RICKSHAPIRO@HOTMAIL.COM>"
+      }
+   ],
+   "skipped": 10
+}
+,
+{
+   "file": "/home/jb/maildir/shapiro-r/notre_dame/46.",
+   "hops": [
+      {
+         "from": "paul.kaufman@enron.com",
+         "line": 4,
+         "rawfrom": "paul.kaufman@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.metts@enron.com, jessica.uhl@enron.com, paul.puchot@enron.com,"
+      },
+      {
+         "from": "marc.hellman@state.or.us",
+         "line": 23,
+         "rawfrom": "HELLMAN Marc [mailto:marc.hellman@state.or.us]\n",
+         "source": "email",
+         "to": "Kaufman, Paul"
+      },
+      {
+         "from": "paul.kaufman@enron.com",
+         "line": 32,
+         "rawfrom": "Kaufman, Paul [mailto:Paul.Kaufman@ENRON.com]\n",
+         "source": "email",
+         "to": "HELLMAN Marc"
+      },
+      {
+         "from": "marc.hellman@state.or.us",
+         "line": 62,
+         "rawfrom": "HELLMAN Marc [mailto:marc.hellman@state.or.us]\n",
+         "source": "email",
+         "to": "'Ackerman, Susan'; Mike Morgan (E-mail); Lesh, Pamela; Kaufman, Paul"
+      },
+      {
+         "from": "ska@nwnatural.com",
+         "line": 79,
+         "rawfrom": "Ackerman, Susan [mailto:ska@nwnatural.com]\n",
+         "source": "email",
+         "to": "Bob Jenks (E-mail); Bonnie Tatom (E-mail); Ed Finklea (E-mail);"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shapiro-r/refund_cases/9.",
+   "hops": [
+      {
+         "from": "ray.alvarez@enron.com",
+         "line": 4,
+         "rawfrom": "ray.alvarez@enron.com\r\n",
+         "source": "valid",
+         "to": "d..steffes@enron.com"
+      },
+      {
+         "from": "dwatkiss@bracepatt.com",
+         "line": 27,
+         "rawfrom": "Dan Watkiss [mailto:dwatkiss@bracepatt.com]\n",
+         "source": "email",
+         "to": "Alvarez, Ray"
+      },
+      {
+         "from": "dwatkiss@bracepatt.com",
+         "line": 50,
+         "rawfrom": "Dan Watkiss [mailto:dwatkiss@bracepatt.com] \n",
+         "source": "email",
+         "to": "Alvarez, Ray; seabron.adamson@frontier-economics.com"
+      },
+      {
+         "from": "seabron.adamson@frontiereconomics.com",
+         "line": 74,
+         "rawfrom": "Seabron Adamson [mailto:seabron.adamson@frontiereconomics.com] \n",
+         "source": "email",
+         "to": "Alvarez, Ray; dwatkiss@bracepatt.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shapiro-r/canada/66.",
+   "hops": [
+      {
+         "from": "aleck.dadson@enron.com",
+         "line": 4,
+         "rawfrom": "aleck.dadson@enron.com\r\n",
+         "source": "valid",
+         "to": "richard.shapiro@enron.com"
+      },
+      {
+         "from": "aleck.dadson@enron.com",
+         "line": 31,
+         "rawfrom": "Aleck.Dadson@enron.com",
+         "source": "valid",
+         "to": "david.matthews@cgc.enbridge.com          cc:                  Subject:        Re: PACE presentation"
+      },
+      {
+         "from": "david.matthews@cgc.en",
+         "line": 83,
+         "rawfrom": "david.matthews@cgc.en",
+         "source": "valid",
+         "to": "Aleck.Dadson@enron.com"
+      },
+      {
+         "from": "david.matthews@cgc.en",
+         "line": 228,
+         "rawfrom": "david.matthews@cgc.en",
+         "source": "valid",
+         "to": ""
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/shapiro-r/granite__2_/25.",
+   "hops": [
+      {
+         "from": "paul.kaufman@enron.com",
+         "line": 4,
+         "rawfrom": "paul.kaufman@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.metts@enron.com, jessica.uhl@enron.com, paul.puchot@enron.com,"
+      },
+      {
+         "from": "orcub@pacifier.com",
+         "line": 49,
+         "rawfrom": "Citizens' Utility Board of Oregon [mailto:orcub@pacifier.com]\n",
+         "source": "email",
+         "to": "Ackerman, Susan; 'HELLMAN Marc'; Mike Morgan (E-mail); Lesh, Pamela;"
+      },
+      {
+         "from": "ska@nwnatural.com",
+         "line": 77,
+         "rawfrom": "Ackerman, Susan <ska@nwnatural.com>\n",
+         "source": "email",
+         "to": "'HELLMAN Marc' <marc.hellman@state.or.us>; Mike Morgan (E-mail)"
+      },
+      {
+         "from": "marc.hellman@state.or.us",
+         "line": 110,
+         "rawfrom": "HELLMAN Marc [mailto:marc.hellman@state.or.us]\n",
+         "source": "email",
+         "to": "Ackerman, Susan; Mike Morgan (E-mail); Pamela Lesh (E-mail); Paul"
+      },
+      {
+         "from": "ska@nwnatural.com",
+         "line": 126,
+         "rawfrom": "Ackerman, Susan [mailto:ska@nwnatural.com]\n",
+         "source": "email",
+         "to": "Bob Jenks (E-mail); Bonnie Tatom (E-mail); Ed Finklea (E-mail);"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/shapiro-r/granite__2_/24.",
+   "hops": [
+      {
+         "from": "orcub@pacifier.com",
+         "line": 31,
+         "rawfrom": "Citizens' Utility Board of Oregon [mailto:orcub@pacifier.com]\n",
+         "source": "email",
+         "to": "DUDLEY, JAY"
+      },
+      {
+         "from": "orcub@pacifier.com",
+         "line": 47,
+         "rawfrom": "Citizens' Utility Board of Oregon <orcub@pacifier.com>\n",
+         "source": "email",
+         "to": "Ackerman, Susan <ska@nwnatural.com>; 'HELLMAN Marc'"
+      },
+      {
+         "from": "ska@nwnatural.com",
+         "line": 85,
+         "rawfrom": "Ackerman, Susan <ska@nwnatural.com>\n",
+         "source": "email",
+         "to": "'HELLMAN Marc' <marc.hellman@state.or.us>; Mike Morgan (E-mail)"
+      },
+      {
+         "from": "marc.hellman@state.or.us",
+         "line": 118,
+         "rawfrom": "HELLMAN Marc [mailto:marc.hellman@state.or.us]\n",
+         "source": "email",
+         "to": "Ackerman, Susan; Mike Morgan (E-mail); Pamela Lesh (E-mail); Paul"
+      },
+      {
+         "from": "ska@nwnatural.com",
+         "line": 135,
+         "rawfrom": "Ackerman, Susan [mailto:ska@nwnatural.com]\n",
+         "source": "email",
+         "to": "Bob Jenks (E-mail); Bonnie Tatom (E-mail); Ed Finklea (E-mail);"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shapiro-r/granite__2_/23.",
+   "hops": [
+      {
+         "from": "paul.kaufman@enron.com",
+         "line": 4,
+         "rawfrom": "paul.kaufman@enron.com\r\n",
+         "source": "valid",
+         "to": "richard.shapiro@enron.com"
+      },
+      {
+         "from": "marc.hellman@state.or.us",
+         "line": 22,
+         "rawfrom": "HELLMAN Marc [mailto:marc.hellman@state.or.us]\n",
+         "source": "email",
+         "to": "'Ackerman, Susan'; Bob Jenks (E-mail); TATOM Bonnie; Ed Finklea"
+      },
+      {
+         "from": "paul.kaufman@enron.com",
+         "line": 39,
+         "rawfrom": "Kaufman, Paul [mailto:Paul.Kaufman@ENRON.com]\n",
+         "source": "email",
+         "to": "HELLMAN Marc"
+      },
+      {
+         "from": "marc.hellman@state.or.us",
+         "line": 69,
+         "rawfrom": "HELLMAN Marc [mailto:marc.hellman@state.or.us]\n",
+         "source": "email",
+         "to": "'Ackerman, Susan'; Mike Morgan (E-mail); Lesh, Pamela; Kaufman, Paul"
+      },
+      {
+         "from": "ska@nwnatural.com",
+         "line": 86,
+         "rawfrom": "Ackerman, Susan [mailto:ska@nwnatural.com]\n",
+         "source": "email",
+         "to": "Bob Jenks (E-mail); Bonnie Tatom (E-mail); Ed Finklea (E-mail);"
+      }
+   ],
+   "skipped": 0
+}
+]

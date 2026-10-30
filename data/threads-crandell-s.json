@@ -1,0 +1,337 @@
+[
+{
+   "file": "/home/jb/maildir/crandell-s/deleted_items/27.",
+   "hops": [
+      {
+         "from": "alan.comnes@enron.com",
+         "line": 4,
+         "rawfrom": "alan.comnes@enron.com\r\n",
+         "source": "valid",
+         "to": "sean.crandall@enron.com, diana.scholtes@enron.com, chris.mallory@enron.com"
+      },
+      {
+         "from": "jmcclain@caiso.com",
+         "line": 24,
+         "rawfrom": "McClain, Jim [mailto:JMcClain@caiso.com]\n",
+         "source": "email",
+         "to": "Comnes, Alan"
+      },
+      {
+         "from": "alan.comnes@enron.com",
+         "line": 46,
+         "rawfrom": "Comnes, Alan [mailto:Alan.Comnes@ENRON.com]\n",
+         "source": "email",
+         "to": "McClain, Jim"
+      },
+      {
+         "from": "jmcclain@caiso.com",
+         "line": 61,
+         "rawfrom": "McClain, Jim [mailto:JMcClain@caiso.com]\n",
+         "source": "email",
+         "to": "Comnes, Alan"
+      },
+      {
+         "from": "alan.comnes@enron.com",
+         "line": 82,
+         "rawfrom": "Comnes, Alan [mailto:Alan.Comnes@ENRON.com]\n",
+         "source": "email",
+         "to": "jmcclain@caiso.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/crandell-s/sent_items/121.",
+   "hops": [
+      {
+         "from": "sean.crandall@enron.com",
+         "line": 4,
+         "rawfrom": "sean.crandall@enron.com\r\n",
+         "source": "valid",
+         "to": "bruce.sukaly@cinergy.com"
+      },
+      {
+         "from": "bruce.sukaly@cinergy.com",
+         "line": 30,
+         "rawfrom": "\t\"Sukaly, Bruce\" <bruce.sukaly@cinergy.com>@ENRON [mailto:IMCEANOTES-+22Sukaly+2C+20Bruce+22+20+3Cbruce+2Esukaly+40cinergy+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Crandall, Sean"
+      },
+      {
+         "from": "sean.crandall@enron.com",
+         "line": 50,
+         "rawfrom": "Sean.Crandall@enron.com [mailto:Sean.Crandall@enron.com]\n",
+         "source": "email",
+         "to": "bruce.sukaly@cinergy.com"
+      },
+      {
+         "from": "bruce.sukaly@cinergy.com",
+         "line": 77,
+         "rawfrom": "  \"Sukaly, Bruce\" <bruce.sukaly@cinergy.com>@ENRON\n",
+         "source": "email",
+         "to": "Crandall, Sean"
+      },
+      {
+         "from": "sean.crandall@enron.com",
+         "line": 112,
+         "rawfrom": "Sean.Crandall@enron.com [mailto:Sean.Crandall@enron.com]\n",
+         "source": "email",
+         "to": "bruce.sukaly@cinergy.com"
+      },
+      {
+         "from": "bruce.sukaly@cinergy.com",
+         "line": 170,
+         "rawfrom": "  \"Sukaly, Bruce\" <bruce.sukaly@cinergy.com>@ENRON\n",
+         "source": "email",
+         "to": "Crandall, Sean"
+      },
+      {
+         "from": "sean.crandall@enron.com",
+         "line": 185,
+         "rawfrom": "     Crandall, Sean [mailto:Sean.Crandall@ENRON.com]\n",
+         "source": "email",
+         "to": "Sukaly, Bruce"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/crandell-s/sent_items/69.",
+   "hops": [
+      {
+         "from": "sean.crandall@enron.com",
+         "line": 4,
+         "rawfrom": "sean.crandall@enron.com\r\n",
+         "source": "valid",
+         "to": "'gill@enron.com, kiran.gill@neg.pge.com"
+      },
+      {
+         "from": "kiran.gill@neg.pge.com",
+         "line": 24,
+         "rawfrom": "Gill, Kiran [mailto:kiran.gill@neg.pge.com]\n",
+         "source": "email",
+         "to": "Crandall, Sean"
+      },
+      {
+         "from": "sean.crandall@enron.com",
+         "line": 33,
+         "rawfrom": "Crandall, Sean [mailto:Sean.Crandall@ENRON.com]\n",
+         "source": "email",
+         "to": "Gill, Kiran"
+      },
+      {
+         "from": "kiran.gill@neg.pge.com",
+         "line": 42,
+         "rawfrom": "Gill, Kiran [mailto:kiran.gill@neg.pge.com]\n",
+         "source": "email",
+         "to": "Crandall, Sean"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/crandell-s/sent_items/115.",
+   "hops": [
+      {
+         "from": "sean.crandall@enron.com",
+         "line": 4,
+         "rawfrom": "sean.crandall@enron.com\r\n",
+         "source": "valid",
+         "to": "bruce.sukaly@cinergy.com"
+      },
+      {
+         "from": "bruce.sukaly@cinergy.com",
+         "line": 22,
+         "rawfrom": "\t\"Sukaly, Bruce\" <bruce.sukaly@cinergy.com>@ENRON [mailto:IMCEANOTES-+22Sukaly+2C+20Bruce+22+20+3Cbruce+2Esukaly+40cinergy+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Crandall, Sean"
+      },
+      {
+         "from": "sean.crandall@enron.com",
+         "line": 31,
+         "rawfrom": "Sean.Crandall@enron.com [mailto:Sean.Crandall@enron.com]\n",
+         "source": "email",
+         "to": "bruce.sukaly@cinergy.com"
+      },
+      {
+         "from": "bruce.sukaly@cinergy.com",
+         "line": 54,
+         "rawfrom": "  \"Sukaly, Bruce\" <bruce.sukaly@cinergy.com>@ENRON\n",
+         "source": "email",
+         "to": "Crandall, Sean"
+      },
+      {
+         "from": "sean.crandall@enron.com",
+         "line": 67,
+         "rawfrom": "Sean.Crandall@enron.com [mailto:Sean.Crandall@enron.com]\n",
+         "source": "email",
+         "to": "bruce.sukaly@cinergy.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/crandell-s/sent_items/120.",
+   "hops": [
+      {
+         "from": "sean.crandall@enron.com",
+         "line": 4,
+         "rawfrom": "sean.crandall@enron.com\r\n",
+         "source": "valid",
+         "to": "chris.mallory@enron.com"
+      },
+      {
+         "from": "lcrane@prebon.com",
+         "line": 22,
+         "rawfrom": "\tLex Crane <LCrane@prebon.com>@ENRON [mailto:IMCEANOTES-Lex+20Crane+20+3CLCrane+40prebon+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Crandall, Sean"
+      },
+      {
+         "from": "rita.nagle@gs.com",
+         "line": 47,
+         "rawfrom": "\tNagle, Rita[SMTP:rita.nagle@gs.com]\n",
+         "source": "email",
+         "to": "Donald Tencellent Jr."
+      },
+      {
+         "from": "expedition@everestbasecamp.com",
+         "line": 56,
+         "rawfrom": "himex [mailto:expedition@everestbasecamp.com]\n",
+         "source": "email",
+         "to": "patrickw@Youthstream.com; <mailto:patrickw@Youthstream.com;>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/crandell-s/sent_items/70.",
+   "hops": [
+      {
+         "from": "sean.crandall@enron.com",
+         "line": 4,
+         "rawfrom": "sean.crandall@enron.com\r\n",
+         "source": "valid",
+         "to": "'gill@enron.com, kiran.gill@neg.pge.com"
+      },
+      {
+         "from": "kiran.gill@neg.pge.com",
+         "line": 24,
+         "rawfrom": "Gill, Kiran [mailto:kiran.gill@neg.pge.com]\n",
+         "source": "email",
+         "to": "Crandall, Sean"
+      },
+      {
+         "from": "sean.crandall@enron.com",
+         "line": 33,
+         "rawfrom": "Crandall, Sean [mailto:Sean.Crandall@ENRON.com]\n",
+         "source": "email",
+         "to": "Gill, Kiran"
+      },
+      {
+         "from": "kiran.gill@neg.pge.com",
+         "line": 42,
+         "rawfrom": "Gill, Kiran [mailto:kiran.gill@neg.pge.com]\n",
+         "source": "email",
+         "to": "Crandall, Sean"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/crandell-s/sent_items/63.",
+   "hops": [
+      {
+         "from": "sean.crandall@enron.com",
+         "line": 4,
+         "rawfrom": "sean.crandall@enron.com\r\n",
+         "source": "valid",
+         "to": "'gill@enron.com, kiran.gill@neg.pge.com"
+      },
+      {
+         "from": "kiran.gill@neg.pge.com",
+         "line": 36,
+         "rawfrom": "Gill, Kiran [mailto:kiran.gill@neg.pge.com]\n",
+         "source": "email",
+         "to": "Crandall, Sean"
+      },
+      {
+         "from": "sean.crandall@enron.com",
+         "line": 72,
+         "rawfrom": "Crandall, Sean [mailto:Sean.Crandall@ENRON.com]\n",
+         "source": "email",
+         "to": "Gill, Kiran"
+      },
+      {
+         "from": "kiran.gill@neg.pge.com",
+         "line": 89,
+         "rawfrom": "Gill, Kiran [mailto:kiran.gill@neg.pge.com]\n",
+         "source": "email",
+         "to": "Crandall, Sean"
+      },
+      {
+         "from": "sean.crandall@enron.com",
+         "line": 98,
+         "rawfrom": "Crandall, Sean [mailto:Sean.Crandall@ENRON.com]\n",
+         "source": "email",
+         "to": "Gill, Kiran"
+      },
+      {
+         "from": "kiran.gill@neg.pge.com",
+         "line": 107,
+         "rawfrom": "Gill, Kiran [mailto:kiran.gill@neg.pge.com]\n",
+         "source": "email",
+         "to": "Crandall, Sean"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/crandell-s/sent_items/122.",
+   "hops": [
+      {
+         "from": "sean.crandall@enron.com",
+         "line": 4,
+         "rawfrom": "sean.crandall@enron.com\r\n",
+         "source": "valid",
+         "to": "bruce.sukaly@cinergy.com"
+      },
+      {
+         "from": "bruce.sukaly@cinergy.com",
+         "line": 30,
+         "rawfrom": "\t\"Sukaly, Bruce\" <bruce.sukaly@cinergy.com>@ENRON [mailto:IMCEANOTES-+22Sukaly+2C+20Bruce+22+20+3Cbruce+2Esukaly+40cinergy+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Crandall, Sean"
+      },
+      {
+         "from": "sean.crandall@enron.com",
+         "line": 55,
+         "rawfrom": "Sean.Crandall@enron.com [mailto:Sean.Crandall@enron.com]\n",
+         "source": "email",
+         "to": "bruce.sukaly@cinergy.com"
+      },
+      {
+         "from": "bruce.sukaly@cinergy.com",
+         "line": 98,
+         "rawfrom": "  \"Sukaly, Bruce\" <bruce.sukaly@cinergy.com>@ENRON\n",
+         "source": "email",
+         "to": "Crandall, Sean"
+      },
+      {
+         "from": "sean.crandall@enron.com",
+         "line": 111,
+         "rawfrom": "     Crandall, Sean [mailto:Sean.Crandall@ENRON.com]\n",
+         "source": "email",
+         "to": "Sukaly, Bruce"
+      }
+   ],
+   "skipped": 0
+}
+]

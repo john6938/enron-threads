@@ -1,0 +1,260 @@
+[
+{
+   "file": "/home/jb/maildir/lavorato-j/inbox/232.",
+   "hops": [
+      {
+         "from": "ktycholiz@houston.rr.com",
+         "line": 4,
+         "rawfrom": "ktycholiz@houston.rr.com\r\n",
+         "source": "valid",
+         "to": "lavorato@enron.com"
+      },
+      {
+         "from": "ktycholiz@houston.rr.com",
+         "line": 20,
+         "rawfrom": "\"Kim & Barry Tycholiz\" <ktycholiz@houston.rr.com>\n",
+         "source": "email",
+         "to": "<lavorato@enron.com>"
+      },
+      {
+         "from": "lavarato@enron.com",
+         "line": 45,
+         "rawfrom": "lavarato@enron.com",
+         "source": "valid",
+         "to": "<lavarato@enron.com>"
+      },
+      {
+         "from": "ktycholiz@houston.rr.com",
+         "line": 56,
+         "rawfrom": "\"Kim & Barry Tycholiz\" <ktycholiz@houston.rr.com>\n",
+         "source": "email",
+         "to": "<lavarato@enron.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/lavorato-j/deleted_items/1020.",
+   "hops": [
+      {
+         "from": "billy.lemmons@enron.com",
+         "line": 4,
+         "rawfrom": "billy.lemmons@enron.com\r\n",
+         "source": "valid",
+         "to": "kvaghela.mba2001@ivey.ca"
+      },
+      {
+         "from": "kvaghela.mba2001@ivey.ca",
+         "line": 31,
+         "rawfrom": "\t\"Kiron Vaghela\" <kvaghela.mba2001@ivey.ca>@ENRON  \n",
+         "source": "email",
+         "to": "Lemmons Jr., Billy"
+      },
+      {
+         "from": "nobody@ivey.ca",
+         "line": 77,
+         "rawfrom": "\"Nobody\" <nobody@ivey.ca>\n",
+         "source": "email",
+         "to": "\"KIRON VAGHELA\" <kvaghela.mba2001@ivey.ca>"
+      },
+      {
+         "from": "dawn.doucet@enron.com",
+         "line": 99,
+         "rawfrom": "\"Doucet, Dawn\" <Dawn.Doucet@enron.com>\n",
+         "source": "email",
+         "to": "<kvaghela.mba2001@ivey.ca>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lavorato-j/sent_items/551.",
+   "hops": [
+      {
+         "from": "lavorato@enron.com",
+         "line": 4,
+         "rawfrom": "lavorato@enron.com\r\n",
+         "source": "valid",
+         "to": "kimberly.hillis@enron.com"
+      },
+      {
+         "from": "iali.mba2002@ivey.ca",
+         "line": 24,
+         "rawfrom": "\t\"Irfan Ali\" <iali.mba2002@ivey.ca>@ENRON [mailto:IMCEANOTES-+22Irfan+20Ali+22+20+3Ciali+2Emba2002+40ivey+2Eca+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Lavorato, John J."
+      },
+      {
+         "from": "john.j.lavorato@enron.com",
+         "line": 37,
+         "rawfrom": "Lavorato, John J.  [mailto:John.J.Lavorato@enron.com]\n",
+         "source": "email",
+         "to": "iali.mba2002@ivey.ca"
+      },
+      {
+         "from": "iali.mba2002@ivey.ca",
+         "line": 43,
+         "rawfrom": "\"Irfan Ali\"  <iali.mba2002@ivey.ca>@ENRON \n",
+         "source": "email",
+         "to": "Lavorato, John J."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lavorato-j/sent_items/578.",
+   "hops": [
+      {
+         "from": "lavorato@enron.com",
+         "line": 4,
+         "rawfrom": "lavorato@enron.com\r\n",
+         "source": "valid",
+         "to": "galea@mcgown.com"
+      },
+      {
+         "from": "galea@mcgown.com",
+         "line": 22,
+         "rawfrom": "\t\"Joseph G.Galea\" <galea@mcgown.com>@ENRON [mailto:IMCEANOTES-+22Joseph+20G+2EGalea+22+20+3Cgalea+40mcgown+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Lavorato, John; James Galea; james_mcdonnell@matthewscott.com; Richard.C.Glover@fritolay.com; Charles Jones; jonch@magic.pmh.on.ca; chrismcconvey@on.aibn.com; mvanrassel@rpmtec.com"
+      },
+      {
+         "from": "john.j.lavorato@enron.com",
+         "line": 32,
+         "rawfrom": "<John.J.Lavorato@enron.com>\n",
+         "source": "email",
+         "to": "<galea@mcgown.com>"
+      },
+      {
+         "from": "galea@mcgown.com",
+         "line": 47,
+         "rawfrom": "  \"Joseph G.Galea\" <galea@mcgown.com>@ENRON\n",
+         "source": "email",
+         "to": "chrismcconvey@on.aibn.com; Chris Jones; Chuck Jones; James"
+      },
+      {
+         "from": "chrismcconvey@on.aibn.com",
+         "line": 82,
+         "rawfrom": "chris mcconvey <chrismcconvey@on.aibn.com>\n",
+         "source": "email",
+         "to": "Chris Jones <JONCH@magic.pmh.on.ca>; Chuck Jones"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lavorato-j/sent_items/579.",
+   "hops": [
+      {
+         "from": "lavorato@enron.com",
+         "line": 4,
+         "rawfrom": "lavorato@enron.com\r\n",
+         "source": "valid",
+         "to": "galea@mcgown.com"
+      },
+      {
+         "from": "galea@mcgown.com",
+         "line": 22,
+         "rawfrom": "\t\"Joseph G.Galea\" <galea@mcgown.com>@ENRON [mailto:IMCEANOTES-+22Joseph+20G+2EGalea+22+20+3Cgalea+40mcgown+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Lavorato, John; James Galea; james_mcdonnell@matthewscott.com; Richard.C.Glover@fritolay.com; Charles Jones; jonch@magic.pmh.on.ca; chrismcconvey@on.aibn.com; mvanrassel@rpmtec.com"
+      },
+      {
+         "from": "john.j.lavorato@enron.com",
+         "line": 32,
+         "rawfrom": "<John.J.Lavorato@enron.com>\n",
+         "source": "email",
+         "to": "<galea@mcgown.com>"
+      },
+      {
+         "from": "galea@mcgown.com",
+         "line": 47,
+         "rawfrom": "  \"Joseph G.Galea\" <galea@mcgown.com>@ENRON\n",
+         "source": "email",
+         "to": "chrismcconvey@on.aibn.com; Chris Jones; Chuck Jones; James"
+      },
+      {
+         "from": "chrismcconvey@on.aibn.com",
+         "line": 82,
+         "rawfrom": "chris mcconvey <chrismcconvey@on.aibn.com>\n",
+         "source": "email",
+         "to": "Chris Jones <JONCH@magic.pmh.on.ca>; Chuck Jones"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lavorato-j/sent_items/448.",
+   "hops": [
+      {
+         "from": "lavorato@enron.com",
+         "line": 4,
+         "rawfrom": "lavorato@enron.com\r\n",
+         "source": "valid",
+         "to": "christopher.calger@enron.com"
+      },
+      {
+         "from": "equitrust@email.msn.com",
+         "line": 42,
+         "rawfrom": "\tRobert L. Graham [mailto:equitrust@email.msn.com]\n",
+         "source": "email",
+         "to": "ggr3@realmarkcorp.com"
+      },
+      {
+         "from": "ggr3@realmarkcorp.com",
+         "line": 47,
+         "rawfrom": "ggr3@realmarkcorp.com",
+         "source": "valid",
+         "to": ""
+      },
+      {
+         "from": "equitrust@email.msn.com",
+         "line": 62,
+         "rawfrom": "Robert L. Graham [mailto:equitrust@email.msn.com]\n",
+         "source": "email",
+         "to": "ggr3a@airmail.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/lavorato-j/sent_items/581.",
+   "hops": [
+      {
+         "from": "lavorato@enron.com",
+         "line": 4,
+         "rawfrom": "lavorato@enron.com\r\n",
+         "source": "valid",
+         "to": "richard.c.glover@fritolay.com"
+      },
+      {
+         "from": "richard.c.glover@fritolay.com",
+         "line": 22,
+         "rawfrom": "\t\"Glover, Richard\" <Richard.C.Glover@fritolay.com>@ENRON [mailto:IMCEANOTES-+22Glover+2C+20Richard+22+20+3CRichard+2EC+2EGlover+40fritolay+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Lavorato, John"
+      },
+      {
+         "from": "john.j.lavorato@enron.com",
+         "line": 32,
+         "rawfrom": "John.J.Lavorato@enron.com\n",
+         "source": "valid",
+         "to": "Richard C Glover/Frito-Lay/US@Frito-Lay"
+      },
+      {
+         "from": "richard.c.glover@fritolay.com",
+         "line": 41,
+         "rawfrom": "\"Glover, Richard\" <Richard.C.Glover@fritolay.com>@ENRON\n",
+         "source": "email",
+         "to": "Glover, Richard; Lavorato, John; James Galea;"
+      }
+   ],
+   "skipped": 0
+}
+]

@@ -1,0 +1,680 @@
+[
+{
+   "file": "/home/jb/maildir/lokay-m/inbox/19.",
+   "hops": [
+      {
+         "from": "rag5@pge.com",
+         "line": 4,
+         "rawfrom": "rag5@pge.com\r\n",
+         "source": "valid",
+         "to": "michelle.lokay@enron.com"
+      },
+      {
+         "from": "michelle.lokay@enron.com",
+         "line": 33,
+         "rawfrom": "Lokay, Michelle [mailto:Michelle.Lokay@enron.com]\n",
+         "source": "email",
+         "to": "Graham, Roger"
+      },
+      {
+         "from": "rag5@pge.com",
+         "line": 42,
+         "rawfrom": "Graham, Roger [mailto:RAG5@pge.com]\n",
+         "source": "email",
+         "to": "Lokay, Michelle"
+      },
+      {
+         "from": "michelle.lokay@enron.com",
+         "line": 59,
+         "rawfrom": "Lokay, Michelle [mailto:Michelle.Lokay@enron.com]\n",
+         "source": "email",
+         "to": "Graham, Roger"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lokay-m/all_documents/214.",
+   "hops": [
+      {
+         "from": "michelle.lokay@enron.com",
+         "line": 4,
+         "rawfrom": "michelle.lokay@enron.com\r\n",
+         "source": "valid",
+         "to": "jimboman@bigfoot.com"
+      },
+      {
+         "from": "danirons@nwol.net",
+         "line": 46,
+         "rawfrom": "Dan Irons [mailto:danirons@nwol.net]\n",
+         "source": "email",
+         "to": "Jane Irons; Bucky Ritchie; Brad Jones; Brent & Yo Sherrill; Tara L"
+      },
+      {
+         "from": "olyrec@mer.cioe.com",
+         "line": 54,
+         "rawfrom": "\"Richard Hagelberg\" <olyrec@mer.cioe.com>\n",
+         "source": "email",
+         "to": "\"Alan Clarke\" <aclarke4@hotmail.com>; \"Annalee Cardillo\""
+      },
+      {
+         "from": "morjim@juno.com",
+         "line": 217,
+         "rawfrom": "morjim@juno.com [mailto:morjim@juno.com]\n",
+         "source": "email",
+         "to": "tgestin@altavista.com; amcelhan@sni.net; strohmaier@aol.com;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/lokay-m/all_documents/156.",
+   "hops": [
+      {
+         "from": "lisano@calpine.com",
+         "line": 4,
+         "rawfrom": "lisano@calpine.com\r\n",
+         "source": "valid",
+         "to": "michelle.lokay@enron.com"
+      },
+      {
+         "from": "michelle.lokay@enron.com",
+         "line": 24,
+         "rawfrom": "Michelle.Lokay@enron.com [mailto:Michelle.Lokay@enron.com]\n",
+         "source": "email",
+         "to": "Lisa Norwood"
+      },
+      {
+         "from": "lisano@calpine.com",
+         "line": 38,
+         "rawfrom": "Lisa Norwood <lisano@calpine.com> on 07/14/2000 10:17:06 AM\n",
+         "source": "email",
+         "to": "\"'Michelle.Lokay@enron.com'\" <Michelle.Lokay@enron.com>"
+      },
+      {
+         "from": "michelle.lokay@enron.com",
+         "line": 51,
+         "rawfrom": "Michelle.Lokay@enron.com [mailto:Michelle.Lokay@enron.com]\n",
+         "source": "email",
+         "to": "Lisa Norwood"
+      },
+      {
+         "from": "lisano@calpine.com",
+         "line": 64,
+         "rawfrom": "Lisa Norwood <lisano@calpine.com> on 07/14/2000 08:41:24 AM\n",
+         "source": "email",
+         "to": "\"'mlokay@enron.com'\" <mlokay@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lokay-m/all_documents/1935.",
+   "hops": [
+      {
+         "from": "bhitschel@tesoropetroleum.com",
+         "line": 4,
+         "rawfrom": "bhitschel@tesoropetroleum.com\r\n",
+         "source": "valid",
+         "to": "michelle.lokay@enron.com"
+      },
+      {
+         "from": "michelle.lokay@enron.com",
+         "line": 28,
+         "rawfrom": "Michelle.Lokay@enron.com [mailto:Michelle.Lokay@enron.com] \n",
+         "source": "email",
+         "to": "Hitschel, Bonnie V."
+      },
+      {
+         "from": "bhitschel@tesoropetroleum.com",
+         "line": 51,
+         "rawfrom": "BHitschel@tesoropetroleum.com",
+         "source": "valid",
+         "to": "?? \"'Michelle.Lokay@enron.com'\" <Michelle.Lokay@enron.com>"
+      },
+      {
+         "from": "michelle.lokay@enron.com",
+         "line": 77,
+         "rawfrom": "Michelle.Lokay@enron.com [mailto:Michelle.Lokay@enron.com] \n",
+         "source": "email",
+         "to": "Hitschel, Bonnie V."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lokay-m/all_documents/153.",
+   "hops": [
+      {
+         "from": "michelle.lokay@enron.com",
+         "line": 4,
+         "rawfrom": "michelle.lokay@enron.com\r\n",
+         "source": "valid",
+         "to": "lisano@calpine.com"
+      },
+      {
+         "from": "lisano@calpine.com",
+         "line": 25,
+         "rawfrom": "Lisa Norwood <lisano@calpine.com> on 07/14/2000 10:17:06 AM\n",
+         "source": "email",
+         "to": "\"'Michelle.Lokay@enron.com'\" <Michelle.Lokay@enron.com>"
+      },
+      {
+         "from": "michelle.lokay@enron.com",
+         "line": 38,
+         "rawfrom": "Michelle.Lokay@enron.com [mailto:Michelle.Lokay@enron.com]\n",
+         "source": "email",
+         "to": "Lisa Norwood"
+      },
+      {
+         "from": "lisano@calpine.com",
+         "line": 51,
+         "rawfrom": "Lisa Norwood <lisano@calpine.com> on 07/14/2000 08:41:24 AM\n",
+         "source": "email",
+         "to": "\"'mlokay@enron.com'\" <mlokay@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lokay-m/sent/9.",
+   "hops": [
+      {
+         "from": "michelle.lokay@enron.com",
+         "line": 4,
+         "rawfrom": "michelle.lokay@enron.com\r\n",
+         "source": "valid",
+         "to": "jimboman@bigfoot.com"
+      },
+      {
+         "from": "danirons@nwol.net",
+         "line": 46,
+         "rawfrom": "Dan Irons [mailto:danirons@nwol.net]\n",
+         "source": "email",
+         "to": "Jane Irons; Bucky Ritchie; Brad Jones; Brent & Yo Sherrill; Tara L"
+      },
+      {
+         "from": "olyrec@mer.cioe.com",
+         "line": 54,
+         "rawfrom": "\"Richard Hagelberg\" <olyrec@mer.cioe.com>\n",
+         "source": "email",
+         "to": "\"Alan Clarke\" <aclarke4@hotmail.com>; \"Annalee Cardillo\""
+      },
+      {
+         "from": "morjim@juno.com",
+         "line": 217,
+         "rawfrom": "morjim@juno.com [mailto:morjim@juno.com]\n",
+         "source": "email",
+         "to": "tgestin@altavista.com; amcelhan@sni.net; strohmaier@aol.com;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/lokay-m/sent/6.",
+   "hops": [
+      {
+         "from": "michelle.lokay@enron.com",
+         "line": 4,
+         "rawfrom": "michelle.lokay@enron.com\r\n",
+         "source": "valid",
+         "to": "lisano@calpine.com"
+      },
+      {
+         "from": "lisano@calpine.com",
+         "line": 25,
+         "rawfrom": "Lisa Norwood <lisano@calpine.com> on 07/14/2000 10:17:06 AM\n",
+         "source": "email",
+         "to": "\"'Michelle.Lokay@enron.com'\" <Michelle.Lokay@enron.com>"
+      },
+      {
+         "from": "michelle.lokay@enron.com",
+         "line": 38,
+         "rawfrom": "Michelle.Lokay@enron.com [mailto:Michelle.Lokay@enron.com]\n",
+         "source": "email",
+         "to": "Lisa Norwood"
+      },
+      {
+         "from": "lisano@calpine.com",
+         "line": 51,
+         "rawfrom": "Lisa Norwood <lisano@calpine.com> on 07/14/2000 08:41:24 AM\n",
+         "source": "email",
+         "to": "\"'mlokay@enron.com'\" <mlokay@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lokay-m/discussion_threads/207.",
+   "hops": [
+      {
+         "from": "michelle.lokay@enron.com",
+         "line": 4,
+         "rawfrom": "michelle.lokay@enron.com\r\n",
+         "source": "valid",
+         "to": "jimboman@bigfoot.com"
+      },
+      {
+         "from": "danirons@nwol.net",
+         "line": 46,
+         "rawfrom": "Dan Irons [mailto:danirons@nwol.net]\n",
+         "source": "email",
+         "to": "Jane Irons; Bucky Ritchie; Brad Jones; Brent & Yo Sherrill; Tara L"
+      },
+      {
+         "from": "olyrec@mer.cioe.com",
+         "line": 54,
+         "rawfrom": "\"Richard Hagelberg\" <olyrec@mer.cioe.com>\n",
+         "source": "email",
+         "to": "\"Alan Clarke\" <aclarke4@hotmail.com>; \"Annalee Cardillo\""
+      },
+      {
+         "from": "morjim@juno.com",
+         "line": 217,
+         "rawfrom": "morjim@juno.com [mailto:morjim@juno.com]\n",
+         "source": "email",
+         "to": "tgestin@altavista.com; amcelhan@sni.net; strohmaier@aol.com;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/lokay-m/discussion_threads/149.",
+   "hops": [
+      {
+         "from": "lisano@calpine.com",
+         "line": 4,
+         "rawfrom": "lisano@calpine.com\r\n",
+         "source": "valid",
+         "to": "michelle.lokay@enron.com"
+      },
+      {
+         "from": "michelle.lokay@enron.com",
+         "line": 24,
+         "rawfrom": "Michelle.Lokay@enron.com [mailto:Michelle.Lokay@enron.com]\n",
+         "source": "email",
+         "to": "Lisa Norwood"
+      },
+      {
+         "from": "lisano@calpine.com",
+         "line": 38,
+         "rawfrom": "Lisa Norwood <lisano@calpine.com> on 07/14/2000 10:17:06 AM\n",
+         "source": "email",
+         "to": "\"'Michelle.Lokay@enron.com'\" <Michelle.Lokay@enron.com>"
+      },
+      {
+         "from": "michelle.lokay@enron.com",
+         "line": 51,
+         "rawfrom": "Michelle.Lokay@enron.com [mailto:Michelle.Lokay@enron.com]\n",
+         "source": "email",
+         "to": "Lisa Norwood"
+      },
+      {
+         "from": "lisano@calpine.com",
+         "line": 64,
+         "rawfrom": "Lisa Norwood <lisano@calpine.com> on 07/14/2000 08:41:24 AM\n",
+         "source": "email",
+         "to": "\"'mlokay@enron.com'\" <mlokay@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lokay-m/_sent_mail/57.",
+   "hops": [
+      {
+         "from": "michelle.lokay@enron.com",
+         "line": 4,
+         "rawfrom": "michelle.lokay@enron.com\r\n",
+         "source": "valid",
+         "to": "jimboman@bigfoot.com"
+      },
+      {
+         "from": "danirons@nwol.net",
+         "line": 46,
+         "rawfrom": "Dan Irons [mailto:danirons@nwol.net]\n",
+         "source": "email",
+         "to": "Jane Irons; Bucky Ritchie; Brad Jones; Brent & Yo Sherrill; Tara L"
+      },
+      {
+         "from": "olyrec@mer.cioe.com",
+         "line": 54,
+         "rawfrom": "\"Richard Hagelberg\" <olyrec@mer.cioe.com>\n",
+         "source": "email",
+         "to": "\"Alan Clarke\" <aclarke4@hotmail.com>; \"Annalee Cardillo\""
+      },
+      {
+         "from": "morjim@juno.com",
+         "line": 217,
+         "rawfrom": "morjim@juno.com [mailto:morjim@juno.com]\n",
+         "source": "email",
+         "to": "tgestin@altavista.com; amcelhan@sni.net; strohmaier@aol.com;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/lokay-m/_sent_mail/60.",
+   "hops": [
+      {
+         "from": "michelle.lokay@enron.com",
+         "line": 4,
+         "rawfrom": "michelle.lokay@enron.com\r\n",
+         "source": "valid",
+         "to": "lisano@calpine.com"
+      },
+      {
+         "from": "lisano@calpine.com",
+         "line": 25,
+         "rawfrom": "Lisa Norwood <lisano@calpine.com> on 07/14/2000 10:17:06 AM\n",
+         "source": "email",
+         "to": "\"'Michelle.Lokay@enron.com'\" <Michelle.Lokay@enron.com>"
+      },
+      {
+         "from": "michelle.lokay@enron.com",
+         "line": 38,
+         "rawfrom": "Michelle.Lokay@enron.com [mailto:Michelle.Lokay@enron.com]\n",
+         "source": "email",
+         "to": "Lisa Norwood"
+      },
+      {
+         "from": "lisano@calpine.com",
+         "line": 51,
+         "rawfrom": "Lisa Norwood <lisano@calpine.com> on 07/14/2000 08:41:24 AM\n",
+         "source": "email",
+         "to": "\"'mlokay@enron.com'\" <mlokay@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lokay-m/personal/83.",
+   "hops": [
+      {
+         "from": "bhitschel@tesoropetroleum.com",
+         "line": 4,
+         "rawfrom": "bhitschel@tesoropetroleum.com\r\n",
+         "source": "valid",
+         "to": "michelle.lokay@enron.com"
+      },
+      {
+         "from": "michelle.lokay@enron.com",
+         "line": 28,
+         "rawfrom": "Michelle.Lokay@enron.com [mailto:Michelle.Lokay@enron.com] \n",
+         "source": "email",
+         "to": "Hitschel, Bonnie V."
+      },
+      {
+         "from": "bhitschel@tesoropetroleum.com",
+         "line": 51,
+         "rawfrom": "BHitschel@tesoropetroleum.com",
+         "source": "valid",
+         "to": "?? \"'Michelle.Lokay@enron.com'\" <Michelle.Lokay@enron.com>"
+      },
+      {
+         "from": "michelle.lokay@enron.com",
+         "line": 77,
+         "rawfrom": "Michelle.Lokay@enron.com [mailto:Michelle.Lokay@enron.com] \n",
+         "source": "email",
+         "to": "Hitschel, Bonnie V."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lokay-m/personal/6.",
+   "hops": [
+      {
+         "from": "lisano@calpine.com",
+         "line": 4,
+         "rawfrom": "lisano@calpine.com\r\n",
+         "source": "valid",
+         "to": "michelle.lokay@enron.com"
+      },
+      {
+         "from": "michelle.lokay@enron.com",
+         "line": 24,
+         "rawfrom": "Michelle.Lokay@enron.com [mailto:Michelle.Lokay@enron.com]\n",
+         "source": "email",
+         "to": "Lisa Norwood"
+      },
+      {
+         "from": "lisano@calpine.com",
+         "line": 38,
+         "rawfrom": "Lisa Norwood <lisano@calpine.com> on 07/14/2000 10:17:06 AM\n",
+         "source": "email",
+         "to": "\"'Michelle.Lokay@enron.com'\" <Michelle.Lokay@enron.com>"
+      },
+      {
+         "from": "michelle.lokay@enron.com",
+         "line": 51,
+         "rawfrom": "Michelle.Lokay@enron.com [mailto:Michelle.Lokay@enron.com]\n",
+         "source": "email",
+         "to": "Lisa Norwood"
+      },
+      {
+         "from": "lisano@calpine.com",
+         "line": 64,
+         "rawfrom": "Lisa Norwood <lisano@calpine.com> on 07/14/2000 08:41:24 AM\n",
+         "source": "email",
+         "to": "\"'mlokay@enron.com'\" <mlokay@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lokay-m/tw_commercial_group/957.",
+   "hops": [
+      {
+         "from": "lorraine.lindberg@enron.com",
+         "line": 4,
+         "rawfrom": "lorraine.lindberg@enron.com\r\n",
+         "source": "valid",
+         "to": "michelle.lokay@enron.com"
+      },
+      {
+         "from": "duane_kokinda@kindermorgan.com",
+         "line": 22,
+         "rawfrom": "Kokinda, Duane [mailto:Duane_Kokinda@kindermorgan.com]\n",
+         "source": "email",
+         "to": "Lindberg, Lorraine"
+      },
+      {
+         "from": "lorraine.lindberg@enron.com",
+         "line": 31,
+         "rawfrom": "Lindberg, Lorraine [mailto:Lorraine.Lindberg@ENRON.com]\n",
+         "source": "email",
+         "to": "Kokinda, Duane"
+      },
+      {
+         "from": "duane_kokinda@kindermorgan.com",
+         "line": 49,
+         "rawfrom": "Kokinda, Duane [mailto:Duane_Kokinda@kindermorgan.com]\n",
+         "source": "email",
+         "to": "Kokinda, Duane; Lindberg, Lorraine"
+      },
+      {
+         "from": "lorraine.lindberg@enron.com",
+         "line": 72,
+         "rawfrom": "Lindberg, Lorraine [mailto:Lorraine.Lindberg@ENRON.com]\n",
+         "source": "email",
+         "to": "duane_kokinda@kindermorgan.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/lokay-m/tw_commercial_group/945.",
+   "hops": [
+      {
+         "from": "colleen.raker@enron.com",
+         "line": 4,
+         "rawfrom": "colleen.raker@enron.com\r\n",
+         "source": "valid",
+         "to": "michelle.lokay@enron.com"
+      },
+      {
+         "from": "duane_kokinda@kindermorgan.com",
+         "line": 62,
+         "rawfrom": "Kokinda, Duane [mailto:Duane_Kokinda@kindermorgan.com]\n",
+         "source": "email",
+         "to": "Lindberg, Lorraine"
+      },
+      {
+         "from": "lorraine.lindberg@enron.com",
+         "line": 77,
+         "rawfrom": "Lindberg, Lorraine [mailto:Lorraine.Lindberg@ENRON.com]\n",
+         "source": "email",
+         "to": "Kokinda, Duane"
+      },
+      {
+         "from": "duane_kokinda@kindermorgan.com",
+         "line": 95,
+         "rawfrom": "Kokinda, Duane [mailto:Duane_Kokinda@kindermorgan.com]\n",
+         "source": "email",
+         "to": "Kokinda, Duane; Lindberg, Lorraine"
+      },
+      {
+         "from": "lorraine.lindberg@enron.com",
+         "line": 118,
+         "rawfrom": "Lindberg, Lorraine [mailto:Lorraine.Lindberg@ENRON.com]\n",
+         "source": "email",
+         "to": "duane_kokinda@kindermorgan.com"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/lokay-m/tw_commercial_group/1823.",
+   "hops": [
+      {
+         "from": "kevin.hyatt@enron.com",
+         "line": 4,
+         "rawfrom": "kevin.hyatt@enron.com\r\n",
+         "source": "valid",
+         "to": "lindy.donoho@enron.com, lorraine.lindberg@enron.com, tk.lohman@enron.com,"
+      },
+      {
+         "from": "mcook@utilicorp.com",
+         "line": 28,
+         "rawfrom": "Cook, Mark [mailto:MCook@utilicorp.com]\n",
+         "source": "email",
+         "to": "Hyatt, Kevin"
+      },
+      {
+         "from": "dlsmith@pplweb.com",
+         "line": 46,
+         "rawfrom": "dlsmith@pplweb.com [mailto:dlsmith@pplweb.com]\n",
+         "source": "email",
+         "to": "KBohne@utilicorp.com"
+      },
+      {
+         "from": "kbohne@utilicorp.com",
+         "line": 80,
+         "rawfrom": "KBohne@utilicorp.com [mailto:KBohne@utilicorp.com]\n",
+         "source": "email",
+         "to": "Smith, David L."
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/lokay-m/tw_commercial_group/893.",
+   "hops": [
+      {
+         "from": "dlsmith@pplweb.com",
+         "line": 4,
+         "rawfrom": "dlsmith@pplweb.com\r\n",
+         "source": "valid",
+         "to": "michelle.lokay@enron.com"
+      },
+      {
+         "from": "michelle.lokay@enron.com",
+         "line": 28,
+         "rawfrom": "Michelle.Lokay@enron.com [mailto:Michelle.Lokay@enron.com]\n",
+         "source": "email",
+         "to": "Smith, David L."
+      },
+      {
+         "from": "dlsmith@pplweb.com",
+         "line": 51,
+         "rawfrom": "dlsmith@pplweb.com [mailto:dlsmith@pplweb.com]\n",
+         "source": "email",
+         "to": "Lokay, Michelle"
+      },
+      {
+         "from": "michelle.lokay@enron.com",
+         "line": 66,
+         "rawfrom": "Michelle.Lokay@enron.com [mailto:Michelle.Lokay@enron.com]\n",
+         "source": "email",
+         "to": "Smith, David L."
+      },
+      {
+         "from": "dlsmith@pplweb.com",
+         "line": 84,
+         "rawfrom": "dlsmith@pplweb.com [mailto:dlsmith@pplweb.com]\n",
+         "source": "email",
+         "to": "Lokay, Michelle"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lokay-m/tw_commercial_group/876.",
+   "hops": [
+      {
+         "from": "mblanco@calpine.com",
+         "line": 4,
+         "rawfrom": "mblanco@calpine.com\r\n",
+         "source": "valid",
+         "to": "michelle.lokay@enron.com"
+      },
+      {
+         "from": "michelle.lokay@enron.com",
+         "line": 40,
+         "rawfrom": "Lokay, Michelle [mailto:Michelle.Lokay@ENRON.com]\n",
+         "source": "email",
+         "to": "Michele Blanco"
+      },
+      {
+         "from": "mblanco@calpine.com",
+         "line": 53,
+         "rawfrom": "Michele Blanco [mailto:mblanco@calpine.com]\n",
+         "source": "email",
+         "to": "Lokay, Michelle"
+      },
+      {
+         "from": "michelle.lokay@enron.com",
+         "line": 80,
+         "rawfrom": "Lokay, Michelle [mailto:Michelle.Lokay@ENRON.com]\n",
+         "source": "email",
+         "to": "Michele Blanco"
+      },
+      {
+         "from": "mblanco@calpine.com",
+         "line": 98,
+         "rawfrom": "Michele Blanco [mailto:mblanco@calpine.com]\n",
+         "source": "email",
+         "to": "Lokay, Michelle"
+      }
+   ],
+   "skipped": 0
+}
+]

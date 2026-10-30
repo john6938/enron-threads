@@ -1,0 +1,365 @@
+[
+{
+   "file": "/home/jb/maildir/horton-s/inbox/72.",
+   "hops": [
+      {
+         "from": "mariella.mahan@enron.com",
+         "line": 4,
+         "rawfrom": "mariella.mahan@enron.com\r\n",
+         "source": "valid",
+         "to": "stanley.horton@enron.com"
+      },
+      {
+         "from": "boyceturbopower@attglobal.net",
+         "line": 64,
+         "rawfrom": "\t\"Dr.Meherwan.P.Boyce P.E.\" <boyceturbopower@attglobal.net>@ENRON  \n",
+         "source": "email",
+         "to": "Jernigan, Steve"
+      },
+      {
+         "from": "steve.jernigan@enron.com",
+         "line": 91,
+         "rawfrom": "Steve.Jernigan@enron.com [mailto:Steve.Jernigan@enron.com]\n",
+         "source": "email",
+         "to": "boyceturbopower@attglobal.net"
+      },
+      {
+         "from": "boyceturbopower@attglobal.net",
+         "line": 106,
+         "rawfrom": "\"Dr.Meherwan.P.Boyce P.E.\" <boyceturbopower@attglobal.net>@ENRON\n",
+         "source": "email",
+         "to": "Jernigan, Steve"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/horton-s/all_documents/711.",
+   "hops": [
+      {
+         "from": "cindy.stark@enron.com",
+         "line": 4,
+         "rawfrom": "cindy.stark@enron.com\r\n",
+         "source": "valid",
+         "to": "cegann@dow.com"
+      },
+      {
+         "from": "cegann@dow.com",
+         "line": 24,
+         "rawfrom": "\"Gann, Christopher (CE)\" <CEGANN@dow.com> on 05/24/2001 01:39:21 PM\n",
+         "source": "email",
+         "to": "\"'Stanley.Horton@enron.com'\" <Stanley.Horton@enron.com>"
+      },
+      {
+         "from": "stanley.horton@enron.com",
+         "line": 36,
+         "rawfrom": "Stanley.Horton@enron.com [mailto:Stanley.Horton@enron.com]\n",
+         "source": "email",
+         "to": "DFS International, Inc.; CEGANN@dow.com"
+      },
+      {
+         "from": "dfsintl@swbell.net",
+         "line": 64,
+         "rawfrom": "\"DFS International, Inc.\" <dfsintl@swbell.net> on 05/23/2001 11:09:14 AM\n",
+         "source": "email",
+         "to": "stanley.horton@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/horton-s/all_documents/6.",
+   "hops": [
+      {
+         "from": "danoble@att.net",
+         "line": 4,
+         "rawfrom": "danoble@att.net\r\n",
+         "source": "valid",
+         "to": "stanley.horton@enron.com"
+      },
+      {
+         "from": "cindy_stark@enron.com",
+         "line": 44,
+         "rawfrom": "Cindy_Stark@enron.com [mailto:Cindy_Stark@enron.com]On Behalf Of\n",
+         "source": "email",
+         "to": "Dave Noble"
+      },
+      {
+         "from": "danoble@att.net",
+         "line": 63,
+         "rawfrom": "\"Dave Noble\" <danoble@att.net> on 12/20/99 07:40:59 PM\n",
+         "source": "email",
+         "to": "Stanley Horton/Corp/Enron@Enron"
+      },
+      {
+         "from": "cindy_stark@enron.com",
+         "line": 85,
+         "rawfrom": "Cindy_Stark@enron.com [mailto:Cindy_Stark@enron.com]On Behalf Of\n",
+         "source": "email",
+         "to": "Dave Noble"
+      },
+      {
+         "from": "danoble@att.net",
+         "line": 105,
+         "rawfrom": "\"Dave Noble\" <danoble@att.net> on 12/17/99 10:43:12 AM\n",
+         "source": "email",
+         "to": "Stanley Horton/Corp/Enron@Enron"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/horton-s/sent/280.",
+   "hops": [
+      {
+         "from": "cindy.stark@enron.com",
+         "line": 4,
+         "rawfrom": "cindy.stark@enron.com\r\n",
+         "source": "valid",
+         "to": "cegann@dow.com"
+      },
+      {
+         "from": "cegann@dow.com",
+         "line": 24,
+         "rawfrom": "\"Gann, Christopher (CE)\" <CEGANN@dow.com> on 05/24/2001 01:39:21 PM\n",
+         "source": "email",
+         "to": "\"'Stanley.Horton@enron.com'\" <Stanley.Horton@enron.com>"
+      },
+      {
+         "from": "stanley.horton@enron.com",
+         "line": 36,
+         "rawfrom": "Stanley.Horton@enron.com [mailto:Stanley.Horton@enron.com]\n",
+         "source": "email",
+         "to": "DFS International, Inc.; CEGANN@dow.com"
+      },
+      {
+         "from": "dfsintl@swbell.net",
+         "line": 64,
+         "rawfrom": "\"DFS International, Inc.\" <dfsintl@swbell.net> on 05/23/2001 11:09:14 AM\n",
+         "source": "email",
+         "to": "stanley.horton@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/horton-s/deleted_items/391.",
+   "hops": [
+      {
+         "from": "mariella.mahan@enron.com",
+         "line": 4,
+         "rawfrom": "mariella.mahan@enron.com\r\n",
+         "source": "valid",
+         "to": "a..hughes@enron.com, stanley.horton@enron.com"
+      },
+      {
+         "from": "boyceturbopower@attglobal.net",
+         "line": 39,
+         "rawfrom": "\t\"Dr.Meherwan.P.Boyce P.E.\" <boyceturbopower@attglobal.net>@ENRON  \n",
+         "source": "email",
+         "to": "Jernigan, Steve"
+      },
+      {
+         "from": "steve.jernigan@enron.com",
+         "line": 66,
+         "rawfrom": "Steve.Jernigan@enron.com [mailto:Steve.Jernigan@enron.com]\n",
+         "source": "email",
+         "to": "boyceturbopower@attglobal.net"
+      },
+      {
+         "from": "boyceturbopower@attglobal.net",
+         "line": 81,
+         "rawfrom": "\"Dr.Meherwan.P.Boyce P.E.\" <boyceturbopower@attglobal.net>@ENRON\n",
+         "source": "email",
+         "to": "Jernigan, Steve"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/horton-s/deleted_items/_sent_mail/78.",
+   "hops": [
+      {
+         "from": "stanley.horton@enron.com",
+         "line": 4,
+         "rawfrom": "stanley.horton@enron.com\r\n",
+         "source": "valid",
+         "to": "gann@enron.com, cegann@dow.com"
+      },
+      {
+         "from": "cegann@dow.com",
+         "line": 24,
+         "rawfrom": "\"Gann, Christopher (CE)\" <CEGANN@dow.com> on 05/24/2001 01:39:21 PM\n",
+         "source": "email",
+         "to": "\"'Stanley.Horton@enron.com'\" <Stanley.Horton@enron.com>"
+      },
+      {
+         "from": "stanley.horton@enron.com",
+         "line": 36,
+         "rawfrom": "Stanley.Horton@enron.com [mailto:Stanley.Horton@enron.com]\n",
+         "source": "email",
+         "to": "DFS International, Inc.; CEGANN@dow.com"
+      },
+      {
+         "from": "dfsintl@swbell.net",
+         "line": 64,
+         "rawfrom": "\"DFS International, Inc.\" <dfsintl@swbell.net> on 05/23/2001 11:09:14 AM\n",
+         "source": "email",
+         "to": "stanley.horton@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/horton-s/deleted_items/65.",
+   "hops": [
+      {
+         "from": "stanley.horton@enron.com",
+         "line": 4,
+         "rawfrom": "stanley.horton@enron.com\r\n",
+         "source": "valid",
+         "to": "gann@enron.com, cegann@dow.com"
+      },
+      {
+         "from": "cegann@dow.com",
+         "line": 24,
+         "rawfrom": "\"Gann, Christopher (CE)\" <CEGANN@dow.com> on 05/24/2001 01:39:21 PM\n",
+         "source": "email",
+         "to": "\"'Stanley.Horton@enron.com'\" <Stanley.Horton@enron.com>"
+      },
+      {
+         "from": "stanley.horton@enron.com",
+         "line": 36,
+         "rawfrom": "Stanley.Horton@enron.com [mailto:Stanley.Horton@enron.com]\n",
+         "source": "email",
+         "to": "DFS International, Inc.; CEGANN@dow.com"
+      },
+      {
+         "from": "dfsintl@swbell.net",
+         "line": 64,
+         "rawfrom": "\"DFS International, Inc.\" <dfsintl@swbell.net> on 05/23/2001 11:09:14 AM\n",
+         "source": "email",
+         "to": "stanley.horton@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/horton-s/sent_items/153.",
+   "hops": [
+      {
+         "from": "stanley.horton@enron.com",
+         "line": 4,
+         "rawfrom": "stanley.horton@enron.com\r\n",
+         "source": "valid",
+         "to": "mariella.mahan@enron.com"
+      },
+      {
+         "from": "boyceturbopower@attglobal.net",
+         "line": 50,
+         "rawfrom": "\t\"Dr.Meherwan.P.Boyce P.E.\" <boyceturbopower@attglobal.net>@ENRON  \n",
+         "source": "email",
+         "to": "Jernigan, Steve"
+      },
+      {
+         "from": "steve.jernigan@enron.com",
+         "line": 77,
+         "rawfrom": "Steve.Jernigan@enron.com [mailto:Steve.Jernigan@enron.com]\n",
+         "source": "email",
+         "to": "boyceturbopower@attglobal.net"
+      },
+      {
+         "from": "boyceturbopower@attglobal.net",
+         "line": 92,
+         "rawfrom": "\"Dr.Meherwan.P.Boyce P.E.\" <boyceturbopower@attglobal.net>@ENRON\n",
+         "source": "email",
+         "to": "Jernigan, Steve"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/horton-s/discussion_threads/6.",
+   "hops": [
+      {
+         "from": "danoble@att.net",
+         "line": 4,
+         "rawfrom": "danoble@att.net\r\n",
+         "source": "valid",
+         "to": "stanley.horton@enron.com"
+      },
+      {
+         "from": "cindy_stark@enron.com",
+         "line": 44,
+         "rawfrom": "Cindy_Stark@enron.com [mailto:Cindy_Stark@enron.com]On Behalf Of\n",
+         "source": "email",
+         "to": "Dave Noble"
+      },
+      {
+         "from": "danoble@att.net",
+         "line": 63,
+         "rawfrom": "\"Dave Noble\" <danoble@att.net> on 12/20/99 07:40:59 PM\n",
+         "source": "email",
+         "to": "Stanley Horton/Corp/Enron@Enron"
+      },
+      {
+         "from": "cindy_stark@enron.com",
+         "line": 85,
+         "rawfrom": "Cindy_Stark@enron.com [mailto:Cindy_Stark@enron.com]On Behalf Of\n",
+         "source": "email",
+         "to": "Dave Noble"
+      },
+      {
+         "from": "danoble@att.net",
+         "line": 105,
+         "rawfrom": "\"Dave Noble\" <danoble@att.net> on 12/17/99 10:43:12 AM\n",
+         "source": "email",
+         "to": "Stanley Horton/Corp/Enron@Enron"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/horton-s/_sent_mail/112.",
+   "hops": [
+      {
+         "from": "cindy.stark@enron.com",
+         "line": 4,
+         "rawfrom": "cindy.stark@enron.com\r\n",
+         "source": "valid",
+         "to": "cegann@dow.com"
+      },
+      {
+         "from": "cegann@dow.com",
+         "line": 24,
+         "rawfrom": "\"Gann, Christopher (CE)\" <CEGANN@dow.com> on 05/24/2001 01:39:21 PM\n",
+         "source": "email",
+         "to": "\"'Stanley.Horton@enron.com'\" <Stanley.Horton@enron.com>"
+      },
+      {
+         "from": "stanley.horton@enron.com",
+         "line": 36,
+         "rawfrom": "Stanley.Horton@enron.com [mailto:Stanley.Horton@enron.com]\n",
+         "source": "email",
+         "to": "DFS International, Inc.; CEGANN@dow.com"
+      },
+      {
+         "from": "dfsintl@swbell.net",
+         "line": 64,
+         "rawfrom": "\"DFS International, Inc.\" <dfsintl@swbell.net> on 05/23/2001 11:09:14 AM\n",
+         "source": "email",
+         "to": "stanley.horton@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+]

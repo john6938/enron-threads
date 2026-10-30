@@ -1,0 +1,316 @@
+[
+{
+   "file": "/home/jb/maildir/allen-p/deleted_items/265.",
+   "hops": [
+      {
+         "from": "monica.l.brown@accenture.com",
+         "line": 4,
+         "rawfrom": "monica.l.brown@accenture.com\r\n",
+         "source": "valid",
+         "to": "k..allen@enron.com"
+      },
+      {
+         "from": "phillip.k.allen@enron.c",
+         "line": 24,
+         "rawfrom": "Phillip.K.Allen@enron.c",
+         "source": "valid",
+         "to": "Monica L. Brown/Internal/Accenture@Accenture"
+      },
+      {
+         "from": "monica.l.brown@accenture.com",
+         "line": 38,
+         "rawfrom": "  monica.l.brown@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.c",
+         "line": 58,
+         "rawfrom": "Phillip.K.Allen@enron.c",
+         "source": "valid",
+         "to": "Monica L."
+      },
+      {
+         "from": "monica.l.brown@accenture.com",
+         "line": 74,
+         "rawfrom": "  monica.l.brown@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "pallen@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/allen-p/sent_items/369.",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "wise.counsel@lpl.com"
+      },
+      {
+         "from": "wise.counsel@lpl.com",
+         "line": 26,
+         "rawfrom": "\t\"Robert W. Huntley, CFP\" <wise.counsel@lpl.com>@ENRON  \n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 40,
+         "rawfrom": "<Phillip.K.Allen@enron.com>\n",
+         "source": "email",
+         "to": "<wise.counsel@lpl.com>"
+      },
+      {
+         "from": "wise.counsel@lpl.com",
+         "line": 50,
+         "rawfrom": "  \"Robert W. Huntley, CFP\" <wise.counsel@lpl.com>@ENRON\n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/allen-p/sent_items/394.",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "steven.matthews@ubspainewebber.com"
+      },
+      {
+         "from": "steven.matthews@ubspainewebber.com",
+         "line": 22,
+         "rawfrom": "\t\"Matthews, Steven\" <steven.matthews@ubspainewebber.com>@ENRON  \n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 35,
+         "rawfrom": "Phillip.K.Allen@enron.com [mailto:Phillip.K.Allen@enron.com]\n",
+         "source": "email",
+         "to": "Matthews, Steven"
+      },
+      {
+         "from": "steven.matthews@ubspainewebber.com",
+         "line": 46,
+         "rawfrom": "  \"Matthews, Steven\" <steven.matthews@ubspainewebber.com>@ENRON\n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 64,
+         "rawfrom": "Phillip.K.Allen@enron.com [mailto:Phillip.K.Allen@enron.com]\n",
+         "source": "email",
+         "to": "Matthews, Steven"
+      },
+      {
+         "from": "steven.matthews@ubspainewebber.com",
+         "line": 82,
+         "rawfrom": "  \"Matthews, Steven\" <steven.matthews@ubspainewebber.com>\n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/allen-p/sent_items/306.",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "monica.l.brown@accenture.com"
+      },
+      {
+         "from": "monica.l.brown@accenture.com",
+         "line": 22,
+         "rawfrom": "\tmonica.l.brown@accenture.com@ENRON  \n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.c",
+         "line": 39,
+         "rawfrom": "Phillip.K.Allen@enron.c",
+         "source": "valid",
+         "to": "Monica L. Brown/Internal/Accenture@Accenture"
+      },
+      {
+         "from": "monica.l.brown@accenture.com",
+         "line": 53,
+         "rawfrom": "  monica.l.brown@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "pallen@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/allen-p/sent_items/290.",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "wise.counsel@lpl.com"
+      },
+      {
+         "from": "wise.counsel@lpl.com",
+         "line": 22,
+         "rawfrom": "\t\"Robert W. Huntley, CFP\" <wise.counsel@lpl.com>@ENRON  \n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 47,
+         "rawfrom": "<Phillip.K.Allen@enron.com>\n",
+         "source": "email",
+         "to": "<wise.counsel@lpl.com>"
+      },
+      {
+         "from": "wise.counsel@lpl.com",
+         "line": 75,
+         "rawfrom": "  \"Robert W. Huntley, CFP\" <wise.counsel@lpl.com>@ENRON\n",
+         "source": "email",
+         "to": "pallen@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/allen-p/sent_items/378.",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "wise.counsel@lpl.com"
+      },
+      {
+         "from": "wise.counsel@lpl.com",
+         "line": 26,
+         "rawfrom": "\t\"Robert W. Huntley, CFP\" <wise.counsel@lpl.com>@ENRON  \n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 46,
+         "rawfrom": "<Phillip.K.Allen@enron.com>\n",
+         "source": "email",
+         "to": "<wise.counsel@lpl.com>"
+      },
+      {
+         "from": "wise.counsel@lpl.com",
+         "line": 61,
+         "rawfrom": "  \"Robert W. Huntley, CFP\" <wise.counsel@lpl.com>@ENRON\n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 75,
+         "rawfrom": "<Phillip.K.Allen@enron.com>\n",
+         "source": "email",
+         "to": "<wise.counsel@lpl.com>"
+      },
+      {
+         "from": "wise.counsel@lpl.com",
+         "line": 85,
+         "rawfrom": "  \"Robert W. Huntley, CFP\" <wise.counsel@lpl.com>@ENRON\n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/allen-p/sent_items/236.",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "jsmith@austintx.com"
+      },
+      {
+         "from": "jsmith@austintx.com",
+         "line": 24,
+         "rawfrom": "\t\"Jeff Smith\" <jsmith@austintx.com>@ENRON [mailto:IMCEANOTES-+22Jeff+20Smith+22+20+3Cjsmith+40austintx+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 37,
+         "rawfrom": "Phillip.K.Allen@enron.com [mailto:Phillip.K.Allen@enron.com]\n",
+         "source": "email",
+         "to": "jsmith@austintx.com"
+      },
+      {
+         "from": "jsmith@austintx.com",
+         "line": 54,
+         "rawfrom": "  \"Jeff Smith\" <jsmith@austintx.com>@ENRON\n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/allen-p/sent_items/393.",
+   "hops": [
+      {
+         "from": "k..allen@enron.com",
+         "line": 4,
+         "rawfrom": "k..allen@enron.com\r\n",
+         "source": "valid",
+         "to": "steven.matthews@ubspainewebber.com"
+      },
+      {
+         "from": "steven.matthews@ubspainewebber.com",
+         "line": 22,
+         "rawfrom": "\t\"Matthews, Steven\" <steven.matthews@ubspainewebber.com>@ENRON  \n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      },
+      {
+         "from": "phillip.k.allen@enron.com",
+         "line": 36,
+         "rawfrom": "Phillip.K.Allen@enron.com [mailto:Phillip.K.Allen@enron.com]\n",
+         "source": "email",
+         "to": "Matthews, Steven"
+      },
+      {
+         "from": "steven.matthews@ubspainewebber.com",
+         "line": 51,
+         "rawfrom": "  \"Matthews, Steven\" <steven.matthews@ubspainewebber.com>@ENRON\n",
+         "source": "email",
+         "to": "Allen, Phillip K."
+      }
+   ],
+   "skipped": 0
+}
+]

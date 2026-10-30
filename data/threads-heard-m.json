@@ -1,0 +1,2577 @@
+[
+{
+   "file": "/home/jb/maildir/heard-m/inbox/272.",
+   "hops": [
+      {
+         "from": "hudsonr@teai.com",
+         "line": 4,
+         "rawfrom": "hudsonr@teai.com\r\n",
+         "source": "valid",
+         "to": "marie.heard@enron.com"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 38,
+         "rawfrom": "> From:\tMarie.Heard@enron.com [SMTP:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "HudsonR@teai.com"
+      },
+      {
+         "from": "hudsonr@teai.com",
+         "line": 51,
+         "rawfrom": "  \"Hudson, Roeline\" <HudsonR@teai.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 73,
+         "rawfrom": "     Heard, Marie [SMTP:Marie.Heard@ENRON.com]\n",
+         "source": "email",
+         "to": "hudsonr@teai.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/inbox/35.",
+   "hops": [
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 4,
+         "rawfrom": "sara.shackleton@enron.com\r\n",
+         "source": "valid",
+         "to": "tracy.ngo@enron.com, marie.heard@enron.com"
+      },
+      {
+         "from": "msternberg@aeglobalmarkets.com",
+         "line": 22,
+         "rawfrom": "\t\"Sternberg, Michelle\" <MSternberg@aeglobalmarkets.com>@ENRON  \n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 44,
+         "rawfrom": "Sara.Shackleton@enron.com [mailto:Sara.Shackleton@enron.com]\n",
+         "source": "email",
+         "to": "MSternberg@aeglobalmarkets.com"
+      },
+      {
+         "from": "msternberg@aeglobalmarkets.com",
+         "line": 72,
+         "rawfrom": "  \"Sternberg, Michelle\" <MSternberg@aeglobalmarkets.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/inbox/171.",
+   "hops": [
+      {
+         "from": "mary.cook@enron.com",
+         "line": 4,
+         "rawfrom": "mary.cook@enron.com\r\n",
+         "source": "valid",
+         "to": "lech.kalembka@cwt.com"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 24,
+         "rawfrom": "\t\"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON  \n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 53,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": "lech.kalembka@cwt.com"
+      },
+      {
+         "from": "billy.dixon@bp.com",
+         "line": 73,
+         "rawfrom": "  \"Dixon, Billy D\" <billy.dixon@bp.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 134,
+         "rawfrom": "Heard, Marie [mailto:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "billy.dixon@bp.com"
+      },
+      {
+         "from": "billy.dixon@bp.com",
+         "line": 148,
+         "rawfrom": "     \"Dixon, Billy D\" <billy.dixon@bp.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/inbox/master_netting/275.",
+   "hops": [
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 4,
+         "rawfrom": "lech.kalembka@cwt.com\r\n",
+         "source": "valid",
+         "to": "leslie.hansen@enron.com"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 37,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": "Lech.Kalembka@cwt.com,"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 63,
+         "rawfrom": "  \"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON\n",
+         "source": "email",
+         "to": "Hansen, Leslie"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 92,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": "Lech.Kalembka@cwt.com,"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 124,
+         "rawfrom": "  \"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON\n",
+         "source": "email",
+         "to": "Hansen, Leslie"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 180,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": ""
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/inbox/master_netting/191.",
+   "hops": [
+      {
+         "from": "carol.st.@enron.com",
+         "line": 4,
+         "rawfrom": "carol.st.@enron.com\r\n",
+         "source": "valid",
+         "to": "marie.heard@enron.com"
+      },
+      {
+         "from": "randall.osteen@constellation.com",
+         "line": 31,
+         "rawfrom": "\t\"Osteen, Randall D\" <Randall.Osteen@constellation.com>@ENRON  \n",
+         "source": "email",
+         "to": "St. Clair, Carol"
+      },
+      {
+         "from": "carol.st.clair@enron.com",
+         "line": 48,
+         "rawfrom": "St. Clair, Carol  [mailto:Carol.St.Clair@ENRON.com]\n",
+         "source": "email",
+         "to": "Osteen, Randall D"
+      },
+      {
+         "from": "randall.osteen@constellation.com",
+         "line": 75,
+         "rawfrom": "Randall.Osteen@constellation.com",
+         "source": "valid",
+         "to": "\"'aralsto@enron.com'\" <aralsto@enron.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/inbox/master_netting/279.",
+   "hops": [
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 4,
+         "rawfrom": "lech.kalembka@cwt.com\r\n",
+         "source": "valid",
+         "to": "marie.heard@enron.com"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 47,
+         "rawfrom": "  \"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 80,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": "lech.kalembka@cwt.com"
+      },
+      {
+         "from": "billy.dixon@bp.com",
+         "line": 100,
+         "rawfrom": "  \"Dixon, Billy D\" <billy.dixon@bp.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 161,
+         "rawfrom": "Heard, Marie [mailto:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "billy.dixon@bp.com"
+      },
+      {
+         "from": "billy.dixon@bp.com",
+         "line": 175,
+         "rawfrom": "     \"Dixon, Billy D\" <billy.dixon@bp.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/inbox/master_netting/270.",
+   "hops": [
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 4,
+         "rawfrom": "lech.kalembka@cwt.com\r\n",
+         "source": "valid",
+         "to": "marie.heard@enron.com"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 44,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": "lech.kalembka@cwt.com"
+      },
+      {
+         "from": "billy.dixon@bp.com",
+         "line": 64,
+         "rawfrom": "  \"Dixon, Billy D\" <billy.dixon@bp.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 125,
+         "rawfrom": "Heard, Marie [mailto:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "billy.dixon@bp.com"
+      },
+      {
+         "from": "billy.dixon@bp.com",
+         "line": 139,
+         "rawfrom": "     \"Dixon, Billy D\" <billy.dixon@bp.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/inbox/master_netting/215.",
+   "hops": [
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 4,
+         "rawfrom": "lech.kalembka@cwt.com\r\n",
+         "source": "valid",
+         "to": "david.portz@enron.com"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 33,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": "<lech.kalembka@cwt.com>"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 66,
+         "rawfrom": "    \"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 84,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": ""
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 123,
+         "rawfrom": "  \"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON\n",
+         "source": "email",
+         "to": "Portz, David"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 144,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": ""
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 177,
+         "rawfrom": "  \"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON\n",
+         "source": "email",
+         "to": "Portz, David"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 197,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": ""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/inbox/master_netting/188.",
+   "hops": [
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 4,
+         "rawfrom": "lech.kalembka@cwt.com\r\n",
+         "source": "valid",
+         "to": "marie.heard@enron.com"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 31,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": "Lech.Kalembka@cwt.com,"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 55,
+         "rawfrom": "  \"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON\n",
+         "source": "email",
+         "to": "Korkmas, Deb"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 75,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": "<Lech.kalembka@cwt.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/inbox/master_netting/211.",
+   "hops": [
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 23,
+         "rawfrom": "\t\"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON  \n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 41,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": "<Lech.Kalembka@cwt.com>"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 72,
+         "rawfrom": "  \"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON\n",
+         "source": "email",
+         "to": "Portz, David"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 92,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": "Lech.Kalembka@cwt.com"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 117,
+         "rawfrom": "  \"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON\n",
+         "source": "email",
+         "to": "Portz, David"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 136,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": ""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/inbox/master_netting/210.",
+   "hops": [
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 4,
+         "rawfrom": "lech.kalembka@cwt.com\r\n",
+         "source": "valid",
+         "to": "marie.heard@enron.com"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 33,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": "<Lech.Kalembka@cwt.com>"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 64,
+         "rawfrom": "  \"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON\n",
+         "source": "email",
+         "to": "Portz, David"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 84,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": "Lech.Kalembka@cwt.com"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 109,
+         "rawfrom": "  \"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON\n",
+         "source": "email",
+         "to": "Portz, David"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 128,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": ""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/inbox/master_netting/214.",
+   "hops": [
+      {
+         "from": "david.portz@enron.com",
+         "line": 4,
+         "rawfrom": "david.portz@enron.com\r\n",
+         "source": "valid",
+         "to": "lech.kalembka@cwt.com"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 39,
+         "rawfrom": "\t\"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON  \n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 57,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": "<Lech.Kalembka@cwt.com>"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 88,
+         "rawfrom": "  \"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON\n",
+         "source": "email",
+         "to": "Portz, David"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 108,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": "Lech.Kalembka@cwt.com"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 133,
+         "rawfrom": "  \"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON\n",
+         "source": "email",
+         "to": "Portz, David"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 152,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": ""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/inbox/master_netting/213.",
+   "hops": [
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 4,
+         "rawfrom": "lech.kalembka@cwt.com\r\n",
+         "source": "valid",
+         "to": "mary.cook@enron.com"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 33,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": "<lech.kalembka@cwt.com>,"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 52,
+         "rawfrom": "  \"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 70,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": ""
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 103,
+         "rawfrom": "  \"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON\n",
+         "source": "email",
+         "to": "Portz, David"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 124,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": ""
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 151,
+         "rawfrom": "  \"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON\n",
+         "source": "email",
+         "to": "Portz, David"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 171,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": ""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/inbox/master_netting/269.",
+   "hops": [
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 4,
+         "rawfrom": "lech.kalembka@cwt.com\r\n",
+         "source": "valid",
+         "to": "david.portz@enron.com"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 47,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": ""
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 80,
+         "rawfrom": "    \"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 98,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": ""
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 137,
+         "rawfrom": "  \"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON\n",
+         "source": "email",
+         "to": "Portz, David"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 158,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": ""
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 191,
+         "rawfrom": "  \"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON\n",
+         "source": "email",
+         "to": "Portz, David"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 211,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": ""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/inbox/master_netting/273.",
+   "hops": [
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 4,
+         "rawfrom": "lech.kalembka@cwt.com\r\n",
+         "source": "valid",
+         "to": "leslie.hansen@enron.com"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 42,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": "Lech.Kalembka@cwt.com,"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 72,
+         "rawfrom": "  \"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON\n",
+         "source": "email",
+         "to": "Hansen, Leslie"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 119,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": "Lech.Kalembka@cwt.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/inbox/master_netting/207.",
+   "hops": [
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 4,
+         "rawfrom": "lech.kalembka@cwt.com\r\n",
+         "source": "valid",
+         "to": "david.portz@enron.com"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 34,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": "Lech.Kalembka@cwt.com"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 55,
+         "rawfrom": "  \"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON\n",
+         "source": "email",
+         "to": "Portz, David"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 73,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": "<Lech.Kalembka@cwt.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/inbox/master_netting/230.",
+   "hops": [
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 4,
+         "rawfrom": "lech.kalembka@cwt.com\r\n",
+         "source": "valid",
+         "to": "marie.heard@enron.com"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 38,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": "lech.kalembka@cwt.com"
+      },
+      {
+         "from": "billy.dixon@bp.com",
+         "line": 58,
+         "rawfrom": "  \"Dixon, Billy D\" <billy.dixon@bp.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 119,
+         "rawfrom": "Heard, Marie [mailto:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "billy.dixon@bp.com"
+      },
+      {
+         "from": "billy.dixon@bp.com",
+         "line": 133,
+         "rawfrom": "     \"Dixon, Billy D\" <billy.dixon@bp.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/inbox/master_netting/278.",
+   "hops": [
+      {
+         "from": "david.portz@enron.com",
+         "line": 4,
+         "rawfrom": "david.portz@enron.com\r\n",
+         "source": "valid",
+         "to": "lech.kalembka@cwt.com"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 28,
+         "rawfrom": "\t\"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON  \n",
+         "source": "email",
+         "to": "Portz, David"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 60,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": ""
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 93,
+         "rawfrom": "    \"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 111,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": ""
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 150,
+         "rawfrom": "  \"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON\n",
+         "source": "email",
+         "to": "Portz, David"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 171,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": ""
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 204,
+         "rawfrom": "  \"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON\n",
+         "source": "email",
+         "to": "Portz, David"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 224,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": ""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/inbox/master_netting/274.",
+   "hops": [
+      {
+         "from": "leslie.hansen@enron.com",
+         "line": 4,
+         "rawfrom": "leslie.hansen@enron.com\r\n",
+         "source": "valid",
+         "to": "<kalembka\".'\"lech@enron.com>"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 26,
+         "rawfrom": "\t\"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON  \n",
+         "source": "email",
+         "to": "Hansen, Leslie"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 53,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": "Lech.Kalembka@cwt.com,"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 83,
+         "rawfrom": "  \"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON\n",
+         "source": "email",
+         "to": "Hansen, Leslie"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 130,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": "Lech.Kalembka@cwt.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/inbox/46.",
+   "hops": [
+      {
+         "from": "tana.jones@enron.com",
+         "line": 4,
+         "rawfrom": "tana.jones@enron.com\r\n",
+         "source": "valid",
+         "to": "marie.heard@enron.com"
+      },
+      {
+         "from": "hkjii@erols.com",
+         "line": 22,
+         "rawfrom": "\t\"Kyle Jones\" <hkjii@erols.com>@ENRON  \n",
+         "source": "email",
+         "to": "'Benjamin James JONES \\(E-mail\\)'; 'Christopher Ridgway JONES \\(E-mail\\)'; 'Craig Stephen JONES \\(E-mail\\)'; 'Eileen \\(Gillis\\) JONES \\(E-mail\\)'; 'Harrison Kyle JONES Jr. \\(E-mail\\)'; 'Jay Charles JONES \\(E-mail\\)'; 'Jonathan Eric JONES \\(E-mail\\)'; 'Lee Osterman \\(E-mail\\)'; 'Sally and Bernie Case \\(E-mail\\)'; Jones, Tana"
+      },
+      {
+         "from": "computerde@aol.com",
+         "line": 30,
+         "rawfrom": "ComputerDe@aol.com [mailto:ComputerDe@aol.com]\n",
+         "source": "email",
+         "to": "islandfan@aol.com; roleranger@aol.com; llevinson@sidley.com;"
+      },
+      {
+         "from": "valeria.dusablon@gm.com",
+         "line": 38,
+         "rawfrom": "<valeria.dusablon@gm.com>\n",
+         "source": "email",
+         "to": "\"Family\" <Family@gm.com>"
+      },
+      {
+         "from": "don.hanson@trw.com",
+         "line": 105,
+         "rawfrom": "\"Don Hanson\" <Don.Hanson@trw.com>\n",
+         "source": "email",
+         "to": "\"Amish Patel\" <Amish.Patel@trw.com>,"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/inbox/159.",
+   "hops": [
+      {
+         "from": "aishikawa@socalgas.com",
+         "line": 4,
+         "rawfrom": "aishikawa@socalgas.com\r\n",
+         "source": "valid",
+         "to": "marie.heard@enron.com"
+      },
+      {
+         "from": "aishikawa@socalgas.com",
+         "line": 31,
+         "rawfrom": "  \"Ishikawa, Angie - TPAGI\" <AIshikawa@socalgas.com>@ENRON \n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 40,
+         "rawfrom": "Marie.Heard@enron.com [mailto:Marie.Heard@enron.com  << File: \n",
+         "source": "email",
+         "to": "AIshikawa@socalgas.com"
+      },
+      {
+         "from": "aishikawa@socalgas.com",
+         "line": 55,
+         "rawfrom": "  \"Ishikawa, Angie - TPAGI\" <AIshikawa@socalgas.com>@ENRON \n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 72,
+         "rawfrom": "Heard, Marie [mailto:Marie.Heard@ENRON.com  << File: \n",
+         "source": "email",
+         "to": "aishikawa@socalgas.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/inbox/18.",
+   "hops": [
+      {
+         "from": "mnavarro@gas.pemex.com",
+         "line": 4,
+         "rawfrom": "mnavarro@gas.pemex.com\r\n",
+         "source": "valid",
+         "to": "marie.heard@enron.com"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 38,
+         "rawfrom": "Marie.Heard [mailto:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "Martha Navarro-Maldonado"
+      },
+      {
+         "from": "mnavarro@gas.pemex.com",
+         "line": 76,
+         "rawfrom": "\tmnavarro@gas.pemex.com@ENRON\n",
+         "source": "email",
+         "to": "Breslau, Craig; Ortiz, Lucy; Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 99,
+         "rawfrom": "Marie.Heard [mailto:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "IMCEANOTES-mnavarro+40gas+2Epemex+2Ecom+"
+      },
+      {
+         "from": "mnavarro@gas.pemex.com",
+         "line": 124,
+         "rawfrom": "  mnavarro@gas.pemex.com@ENRON\n",
+         "source": "email",
+         "to": "Breslau, Craig; Ortiz, Lucy; Heard, Marie"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/inbox/61.",
+   "hops": [
+      {
+         "from": "hudsonr@teai.com",
+         "line": 4,
+         "rawfrom": "hudsonr@teai.com\r\n",
+         "source": "valid",
+         "to": "marie.heard@enron.com"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 32,
+         "rawfrom": "> From:\tMarie.Heard@enron.com [SMTP:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "HudsonR@teai.com"
+      },
+      {
+         "from": "hudsonr@teai.com",
+         "line": 45,
+         "rawfrom": "  \"Hudson, Roeline\" <HudsonR@teai.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 67,
+         "rawfrom": "     Heard, Marie [SMTP:Marie.Heard@ENRON.com]\n",
+         "source": "email",
+         "to": "hudsonr@teai.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/inbox/41.",
+   "hops": [
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 4,
+         "rawfrom": "sara.shackleton@enron.com\r\n",
+         "source": "valid",
+         "to": "msternberg@aeglobalmarkets.com, msternberg@aeglobalmarkets.com"
+      },
+      {
+         "from": "msternberg@aeglobalmarkets.com",
+         "line": 24,
+         "rawfrom": "\t\"Sternberg, Michelle\" <MSternberg@aeglobalmarkets.com>@ENRON  \n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 46,
+         "rawfrom": "Sara.Shackleton@enron.com [mailto:Sara.Shackleton@enron.com]\n",
+         "source": "email",
+         "to": "MSternberg@aeglobalmarkets.com"
+      },
+      {
+         "from": "msternberg@aeglobalmarkets.com",
+         "line": 77,
+         "rawfrom": "  \"Sternberg, Michelle\" <MSternberg@aeglobalmarkets.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 159,
+         "rawfrom": "Sara.Shackleton@enron.com [mailto:Sara.Shackleton@enron.com]\n",
+         "source": "email",
+         "to": "MSternberg@aeglobalmarkets.com"
+      },
+      {
+         "from": "msternberg@aeglobalmarkets.com",
+         "line": 189,
+         "rawfrom": "  \"Sternberg, Michelle\" <MSternberg@aeglobalmarkets.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/deleted_items/38.",
+   "hops": [
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 4,
+         "rawfrom": "sara.shackleton@enron.com\r\n",
+         "source": "valid",
+         "to": "daniel.harris@gs.com, daniel.harris@gs.com, daniel.harris@gs.com"
+      },
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 26,
+         "rawfrom": "\t\"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON  \n",
+         "source": "email",
+         "to": "Shackleton, Sara; Daniel.Harris@gs.com"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 35,
+         "rawfrom": "Sara.Shackleton@enron.com [mailto:Sara.Shackleton@enron.com]\n",
+         "source": "email",
+         "to": "Daniel.Harris@gs.com"
+      },
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 64,
+         "rawfrom": "  \"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 90,
+         "rawfrom": "Sara.Shackleton@enron.com [mailto:Sara.Shackleton@enron.com]\n",
+         "source": "email",
+         "to": "Daniel.Harris@gs.com"
+      },
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 144,
+         "rawfrom": "  \"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 175,
+         "rawfrom": "Sara.Shackleton@enron.com [mailto:Sara.Shackleton@enron.com]\n",
+         "source": "email",
+         "to": "Daniel.Harris@gs.com"
+      },
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 228,
+         "rawfrom": "  \"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 252,
+         "rawfrom": "Shackleton, Sara [mailto:Sara.Shackleton@ENRON.com]\n",
+         "source": "email",
+         "to": "Daniel.Harris@gs.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/deleted_items/37.",
+   "hops": [
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 4,
+         "rawfrom": "daniel.harris@gs.com\r\n",
+         "source": "valid",
+         "to": "sara.shackleton@enron.com"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 22,
+         "rawfrom": "Sara.Shackleton@enron.com [mailto:Sara.Shackleton@enron.com]\n",
+         "source": "email",
+         "to": "Daniel.Harris@gs.com"
+      },
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 51,
+         "rawfrom": "  \"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 77,
+         "rawfrom": "Sara.Shackleton@enron.com [mailto:Sara.Shackleton@enron.com]\n",
+         "source": "email",
+         "to": "Daniel.Harris@gs.com"
+      },
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 131,
+         "rawfrom": "  \"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 162,
+         "rawfrom": "Sara.Shackleton@enron.com [mailto:Sara.Shackleton@enron.com]\n",
+         "source": "email",
+         "to": "Daniel.Harris@gs.com"
+      },
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 215,
+         "rawfrom": "  \"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 239,
+         "rawfrom": "Shackleton, Sara [mailto:Sara.Shackleton@ENRON.com]\n",
+         "source": "email",
+         "to": "Daniel.Harris@gs.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/deleted_items/49.",
+   "hops": [
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 4,
+         "rawfrom": "sara.shackleton@enron.com\r\n",
+         "source": "valid",
+         "to": "daniel.harris@gs.com, daniel.harris@gs.com"
+      },
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 32,
+         "rawfrom": "\t\"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON  \n",
+         "source": "email",
+         "to": "Shackleton, Sara; Daniel.Harris@gs.com"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 42,
+         "rawfrom": "Sara.Shackleton@enron.com [mailto:Sara.Shackleton@enron.com]\n",
+         "source": "email",
+         "to": "Daniel.Harris@gs.com"
+      },
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 55,
+         "rawfrom": "  \"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara; Daniel.Harris@gs.com; Daniel.Harris@gs.com"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 68,
+         "rawfrom": "Sara.Shackleton@enron.com [mailto:Sara.Shackleton@enron.com]\n",
+         "source": "email",
+         "to": "Daniel.Harris@gs.com; Daniel.Harris@gs.com"
+      },
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 86,
+         "rawfrom": "  \"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara; Daniel.Harris@gs.com"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 97,
+         "rawfrom": "Sara.Shackleton@enron.com [mailto:Sara.Shackleton@enron.com]\n",
+         "source": "email",
+         "to": "Daniel.Harris@gs.com"
+      },
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 130,
+         "rawfrom": "  \"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 158,
+         "rawfrom": "Sara.Shackleton@enron.com [mailto:Sara.Shackleton@enron.com]\n",
+         "source": "email",
+         "to": "Daniel.Harris@gs.com"
+      },
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 227,
+         "rawfrom": "  \"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 264,
+         "rawfrom": "Sara.Shackleton@enron.com\n",
+         "source": "valid",
+         "to": "Daniel.Harris@gs.com"
+      },
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 329,
+         "rawfrom": "  \"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 357,
+         "rawfrom": "Shackleton, Sara [mailto:Sara.Shackleton@ENRON.com]\n",
+         "source": "email",
+         "to": "Daniel.Harris@gs.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/deleted_items/71.",
+   "hops": [
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 4,
+         "rawfrom": "sara.shackleton@enron.com\r\n",
+         "source": "valid",
+         "to": "tracy.ngo@enron.com"
+      },
+      {
+         "from": "msternberg@aeglobalmarkets.com",
+         "line": 26,
+         "rawfrom": "\t\"Sternberg, Michelle\" <MSternberg@aeglobalmarkets.com>@ENRON  \n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 78,
+         "rawfrom": "Sara.Shackleton@enron.com [mailto:Sara.Shackleton@enron.com]\n",
+         "source": "email",
+         "to": "MSternberg@aeglobalmarkets.com"
+      },
+      {
+         "from": "msternberg@aeglobalmarkets.com",
+         "line": 106,
+         "rawfrom": "  \"Sternberg, Michelle\" <MSternberg@aeglobalmarkets.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/deleted_items/111.",
+   "hops": [
+      {
+         "from": "hudsonr@teai.com",
+         "line": 4,
+         "rawfrom": "hudsonr@teai.com\r\n",
+         "source": "valid",
+         "to": "marie.heard@enron.com"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 27,
+         "rawfrom": "> From:\tMarie.Heard@enron.com [SMTP:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "HudsonR@teai.com"
+      },
+      {
+         "from": "hudsonr@teai.com",
+         "line": 40,
+         "rawfrom": "  \"Hudson, Roeline\" <HudsonR@teai.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 62,
+         "rawfrom": "     Heard, Marie [SMTP:Marie.Heard@ENRON.com]\n",
+         "source": "email",
+         "to": "hudsonr@teai.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/deleted_items/39.",
+   "hops": [
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 4,
+         "rawfrom": "daniel.harris@gs.com\r\n",
+         "source": "valid",
+         "to": "sara.shackleton@enron.com"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 23,
+         "rawfrom": "Sara.Shackleton@enron.com [mailto:Sara.Shackleton@enron.com]\n",
+         "source": "email",
+         "to": "Daniel.Harris@gs.com; Daniel.Harris@gs.com"
+      },
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 40,
+         "rawfrom": "  \"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara; Daniel.Harris@gs.com"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 51,
+         "rawfrom": "Sara.Shackleton@enron.com [mailto:Sara.Shackleton@enron.com]\n",
+         "source": "email",
+         "to": "Daniel.Harris@gs.com"
+      },
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 83,
+         "rawfrom": "  \"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 110,
+         "rawfrom": "Sara.Shackleton@enron.com [mailto:Sara.Shackleton@enron.com]\n",
+         "source": "email",
+         "to": "Daniel.Harris@gs.com"
+      },
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 170,
+         "rawfrom": "  \"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 203,
+         "rawfrom": "Sara.Shackleton@enron.com [mailto:Sara.Shackleton@enron.com]\n",
+         "source": "email",
+         "to": "Daniel.Harris@gs.com"
+      },
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 262,
+         "rawfrom": "  \"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 289,
+         "rawfrom": "Shackleton, Sara [mailto:Sara.Shackleton@ENRON.com]\n",
+         "source": "email",
+         "to": "Daniel.Harris@gs.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/deleted_items/79.",
+   "hops": [
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 4,
+         "rawfrom": "sara.shackleton@enron.com\r\n",
+         "source": "valid",
+         "to": "tracy.ngo@enron.com"
+      },
+      {
+         "from": "msternberg@aeglobalmarkets.com",
+         "line": 24,
+         "rawfrom": "\t\"Sternberg, Michelle\" <MSternberg@aeglobalmarkets.com>@ENRON  \n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 98,
+         "rawfrom": "Sara.Shackleton@enron.com [mailto:Sara.Shackleton@enron.com]\n",
+         "source": "email",
+         "to": "MSternberg@aeglobalmarkets.com"
+      },
+      {
+         "from": "msternberg@aeglobalmarkets.com",
+         "line": 126,
+         "rawfrom": "  \"Sternberg, Michelle\" <MSternberg@aeglobalmarkets.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/deleted_items/48.",
+   "hops": [
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 4,
+         "rawfrom": "sara.shackleton@enron.com\r\n",
+         "source": "valid",
+         "to": "marie.heard@enron.com"
+      },
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 22,
+         "rawfrom": "\t\"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON  \n",
+         "source": "email",
+         "to": "Shackleton, Sara; Daniel.Harris@gs.com"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 32,
+         "rawfrom": "Sara.Shackleton@enron.com [mailto:Sara.Shackleton@enron.com]\n",
+         "source": "email",
+         "to": "Daniel.Harris@gs.com"
+      },
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 45,
+         "rawfrom": "  \"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara; Daniel.Harris@gs.com; Daniel.Harris@gs.com"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 58,
+         "rawfrom": "Sara.Shackleton@enron.com [mailto:Sara.Shackleton@enron.com]\n",
+         "source": "email",
+         "to": "Daniel.Harris@gs.com; Daniel.Harris@gs.com"
+      },
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 76,
+         "rawfrom": "  \"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara; Daniel.Harris@gs.com"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 87,
+         "rawfrom": "Sara.Shackleton@enron.com [mailto:Sara.Shackleton@enron.com]\n",
+         "source": "email",
+         "to": "Daniel.Harris@gs.com"
+      },
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 120,
+         "rawfrom": "  \"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 148,
+         "rawfrom": "Sara.Shackleton@enron.com [mailto:Sara.Shackleton@enron.com]\n",
+         "source": "email",
+         "to": "Daniel.Harris@gs.com"
+      },
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 217,
+         "rawfrom": "  \"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 254,
+         "rawfrom": "Sara.Shackleton@enron.com\n",
+         "source": "valid",
+         "to": "Daniel.Harris@gs.com"
+      },
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 319,
+         "rawfrom": "  \"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 347,
+         "rawfrom": "Shackleton, Sara [mailto:Sara.Shackleton@ENRON.com]\n",
+         "source": "email",
+         "to": "Daniel.Harris@gs.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/sent_items/499.",
+   "hops": [
+      {
+         "from": "marie.heard@enron.com",
+         "line": 4,
+         "rawfrom": "marie.heard@enron.com\r\n",
+         "source": "valid",
+         "to": "susan.bailey@enron.com"
+      },
+      {
+         "from": "vijay.suchdev@funb.com",
+         "line": 37,
+         "rawfrom": "\t\"Suchdev, Vijay\" <Vijay.Suchdev@funb.com>@ENRON [mailto:IMCEANOTES-+22Suchdev+2C+20Vijay+22+20+3CVijay+2ESuchdev+40funb+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 57,
+         "rawfrom": "\tFrom:\tSara.Shackleton@enron.com [SMTP:Sara.Shackleton@enron.com]\n",
+         "source": "email",
+         "to": "Vijay.Suchdev@funb.com"
+      },
+      {
+         "from": "vijay.suchdev@funb.com",
+         "line": 73,
+         "rawfrom": "  \"Suchdev, Vijay\" <Vijay.Suchdev@funb.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/sent_items/748.",
+   "hops": [
+      {
+         "from": "marie.heard@enron.com",
+         "line": 4,
+         "rawfrom": "marie.heard@enron.com\r\n",
+         "source": "valid",
+         "to": "lech.kalembka@cwt.com"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 22,
+         "rawfrom": "\t\"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON  \n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 55,
+         "rawfrom": "  \"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 88,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": "lech.kalembka@cwt.com"
+      },
+      {
+         "from": "billy.dixon@bp.com",
+         "line": 108,
+         "rawfrom": "  \"Dixon, Billy D\" <billy.dixon@bp.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 169,
+         "rawfrom": "Heard, Marie [mailto:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "billy.dixon@bp.com"
+      },
+      {
+         "from": "billy.dixon@bp.com",
+         "line": 183,
+         "rawfrom": "     \"Dixon, Billy D\" <billy.dixon@bp.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/sent_items/224.",
+   "hops": [
+      {
+         "from": "marie.heard@enron.com",
+         "line": 4,
+         "rawfrom": "marie.heard@enron.com\r\n",
+         "source": "valid",
+         "to": "hudsonr@teai.com"
+      },
+      {
+         "from": "hudsonr@teai.com",
+         "line": 26,
+         "rawfrom": "\t\"Hudson, Roeline\" <HudsonR@teai.com>@ENRON  \n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 44,
+         "rawfrom": "> From:\tMarie.Heard@enron.com [SMTP:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "HudsonR@teai.com"
+      },
+      {
+         "from": "hudsonr@teai.com",
+         "line": 57,
+         "rawfrom": "  \"Hudson, Roeline\" <HudsonR@teai.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 79,
+         "rawfrom": "     Heard, Marie [SMTP:Marie.Heard@ENRON.com]\n",
+         "source": "email",
+         "to": "hudsonr@teai.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/sent_items/784.",
+   "hops": [
+      {
+         "from": "marie.heard@enron.com",
+         "line": 4,
+         "rawfrom": "marie.heard@enron.com\r\n",
+         "source": "valid",
+         "to": "chris.gaffney@enron.com"
+      },
+      {
+         "from": "billy.dixon@bp.com",
+         "line": 31,
+         "rawfrom": "\t\"Dixon, Billy D\" <billy.dixon@bp.com>@ENRON  \n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 92,
+         "rawfrom": "Heard, Marie [mailto:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "billy.dixon@bp.com"
+      },
+      {
+         "from": "billy.dixon@bp.com",
+         "line": 106,
+         "rawfrom": "\t\"Dixon, Billy D\" <billy.dixon@bp.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/sent_items/767.",
+   "hops": [
+      {
+         "from": "marie.heard@enron.com",
+         "line": 4,
+         "rawfrom": "marie.heard@enron.com\r\n",
+         "source": "valid",
+         "to": "anne_heard@ryderscott.com"
+      },
+      {
+         "from": "anne_heard@ryderscott.com",
+         "line": 22,
+         "rawfrom": "\t\"Heard, Anne\" <Anne_Heard@RyderScott.com>@ENRON  \n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 33,
+         "rawfrom": "Heard, Marie [mailto:Marie.Heard@ENRON.com]\n",
+         "source": "email",
+         "to": "anne_heard@ryderscott.com"
+      },
+      {
+         "from": "anne_heard@ryderscott.com",
+         "line": 43,
+         "rawfrom": "\t\"Heard, Anne\" <Anne_Heard@RyderScott.com>@ENRON\n",
+         "source": "email",
+         "to": "Glenn, Ramona"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/sent_items/297.",
+   "hops": [
+      {
+         "from": "marie.heard@enron.com",
+         "line": 4,
+         "rawfrom": "marie.heard@enron.com\r\n",
+         "source": "valid",
+         "to": "dbicker@paloma.com"
+      },
+      {
+         "from": "dbicker@paloma.com",
+         "line": 36,
+         "rawfrom": "\tDan Bicker <DBicker@paloma.com>@ENRON [mailto:IMCEANOTES-Dan+20Bicker+20+3CDBicker+40paloma+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 54,
+         "rawfrom": "Marie.Heard@enron.com [mailto:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "DBicker@paloma.com"
+      },
+      {
+         "from": "dbicker@paloma.com",
+         "line": 89,
+         "rawfrom": "  Dan Bicker <DBicker@paloma.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 113,
+         "rawfrom": "Heard, Marie [mailto:Marie.Heard@ENRON.com]\n",
+         "source": "email",
+         "to": "DBicker@paloma.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/sent_items/802.",
+   "hops": [
+      {
+         "from": "marie.heard@enron.com",
+         "line": 4,
+         "rawfrom": "marie.heard@enron.com\r\n",
+         "source": "valid",
+         "to": "hudsonr@teai.com"
+      },
+      {
+         "from": "hudsonr@teai.com",
+         "line": 38,
+         "rawfrom": "\t\"Hudson, Roeline\" <HudsonR@teai.com>@ENRON  \n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 62,
+         "rawfrom": "> From:\tMarie.Heard@enron.com [SMTP:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "HudsonR@teai.com"
+      },
+      {
+         "from": "hudsonr@teai.com",
+         "line": 75,
+         "rawfrom": "  \"Hudson, Roeline\" <HudsonR@teai.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 97,
+         "rawfrom": "     Heard, Marie [SMTP:Marie.Heard@ENRON.com]\n",
+         "source": "email",
+         "to": "hudsonr@teai.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/sent_items/75.",
+   "hops": [
+      {
+         "from": "marie.heard@enron.com",
+         "line": 4,
+         "rawfrom": "marie.heard@enron.com\r\n",
+         "source": "valid",
+         "to": "talya.gordon@gs.com"
+      },
+      {
+         "from": "talya.gordon@gs.com",
+         "line": 32,
+         "rawfrom": "\t\"Gordon, Talya\" <talya.gordon@gs.com>@ENRON [mailto:IMCEANOTES-+22Gordon+2C+20Talya+22+20+3Ctalya+2Egordon+40gs+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Shackleton, Sara; \"\\\"Harris@ENRON; Daniel\\\" <Daniel.Harris@gs.com>@ENRON\" <IMCEANOTES-+22Harris+2C+20Daniel+22+20+3CDaniel+2EHarris+40gs+2Ecom+3E+40ENRON@ENRON.com>"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 53,
+         "rawfrom": "Shackleton, Sara [mailto:Sara.Shackleton@ENRON.com]\n",
+         "source": "email",
+         "to": "\"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON"
+      },
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 97,
+         "rawfrom": "\t\"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 126,
+         "rawfrom": "Sara.Shackleton@enron.com [mailto:Sara.Shackleton@enron.com]\n",
+         "source": "email",
+         "to": "Daniel.Harris@gs.com"
+      },
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 177,
+         "rawfrom": "  \"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 201,
+         "rawfrom": "Shackleton, Sara [mailto:Sara.Shackleton@ENRON.com]\n",
+         "source": "email",
+         "to": "Daniel.Harris@gs.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/sent_items/33.",
+   "hops": [
+      {
+         "from": "marie.heard@enron.com",
+         "line": 4,
+         "rawfrom": "marie.heard@enron.com\r\n",
+         "source": "valid",
+         "to": "anne_heard@ryderscott.com"
+      },
+      {
+         "from": "anne_heard@ryderscott.com",
+         "line": 22,
+         "rawfrom": "\t\"Heard, Anne\" <Anne_Heard@RyderScott.com>@ENRON [mailto:IMCEANOTES-+22Heard+2C+20Anne+22+20+3CAnne+5FHeard+40RyderScott+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 33,
+         "rawfrom": "Marie.Heard@enron.com [mailto:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "Anne_Heard@RyderScott.com"
+      },
+      {
+         "from": "anne_heard@ryderscott.com",
+         "line": 47,
+         "rawfrom": "  \"Heard, Anne\" <Anne_Heard@RyderScott.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/sent_items/151.",
+   "hops": [
+      {
+         "from": "marie.heard@enron.com",
+         "line": 4,
+         "rawfrom": "marie.heard@enron.com\r\n",
+         "source": "valid",
+         "to": "hudsonr@teai.com"
+      },
+      {
+         "from": "hudsonr@teai.com",
+         "line": 26,
+         "rawfrom": "\t\"Hudson, Roeline\" <HudsonR@teai.com>@ENRON [mailto:IMCEANOTES-+22Hudson+2C+20Roeline+22+20+3CHudsonR+40teai+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 49,
+         "rawfrom": "> From:\tMarie.Heard@enron.com [SMTP:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "HudsonR@teai.com"
+      },
+      {
+         "from": "hudsonr@teai.com",
+         "line": 71,
+         "rawfrom": "  \"Hudson, Roeline\" <HudsonR@teai.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 99,
+         "rawfrom": "     Marie.Heard@enron.com [SMTP:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "HudsonR@teai.com"
+      },
+      {
+         "from": "hudsonr@teai.com",
+         "line": 122,
+         "rawfrom": "  \"Hudson, Roeline\" <HudsonR@teai.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 162,
+         "rawfrom": "     Heard, Marie [SMTP:Marie.Heard@ENRON.com]\n",
+         "source": "email",
+         "to": "hudsonr@teai.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/sent_items/674.",
+   "hops": [
+      {
+         "from": "marie.heard@enron.com",
+         "line": 4,
+         "rawfrom": "marie.heard@enron.com\r\n",
+         "source": "valid",
+         "to": "billy.dixon@bp.com"
+      },
+      {
+         "from": "billy.dixon@bp.com",
+         "line": 24,
+         "rawfrom": "\t\"Dixon, Billy D\" <billy.dixon@bp.com>@ENRON  \n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 85,
+         "rawfrom": "Heard, Marie [mailto:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "billy.dixon@bp.com"
+      },
+      {
+         "from": "billy.dixon@bp.com",
+         "line": 99,
+         "rawfrom": "\t\"Dixon, Billy D\" <billy.dixon@bp.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/sent_items/110.",
+   "hops": [
+      {
+         "from": "marie.heard@enron.com",
+         "line": 4,
+         "rawfrom": "marie.heard@enron.com\r\n",
+         "source": "valid",
+         "to": "credit <.williams@enron.com>"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 46,
+         "rawfrom": "Marie.Heard [mailto:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "Martha Navarro-Maldonado"
+      },
+      {
+         "from": "mnavarro@gas.pemex.com",
+         "line": 84,
+         "rawfrom": "\tmnavarro@gas.pemex.com@ENRON\n",
+         "source": "email",
+         "to": "Breslau, Craig; Ortiz, Lucy; Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 107,
+         "rawfrom": "Marie.Heard [mailto:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "IMCEANOTES-mnavarro+40gas+2Epemex+2Ecom+"
+      },
+      {
+         "from": "mnavarro@gas.pemex.com",
+         "line": 132,
+         "rawfrom": "  mnavarro@gas.pemex.com@ENRON\n",
+         "source": "email",
+         "to": "Breslau, Craig; Ortiz, Lucy; Heard, Marie"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/sent_items/515.",
+   "hops": [
+      {
+         "from": "marie.heard@enron.com",
+         "line": 4,
+         "rawfrom": "marie.heard@enron.com\r\n",
+         "source": "valid",
+         "to": "jgiordano@catequil.com"
+      },
+      {
+         "from": "jgiordano@catequil.com",
+         "line": 26,
+         "rawfrom": "\tJames Giordano <jgiordano@catequil.com>@ENRON [mailto:IMCEANOTES-James+20Giordano+20+3Cjgiordano+40catequil+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 41,
+         "rawfrom": "Marie.Heard@enron.com [mailto:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "jgiordano@catequil.com"
+      },
+      {
+         "from": "jgiordano@catequil.com",
+         "line": 59,
+         "rawfrom": "  James Giordano <jgiordano@catequil.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 73,
+         "rawfrom": "Heard, Marie [mailto:Marie.Heard@ENRON.com]\n",
+         "source": "email",
+         "to": "jgiordano@catequil.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/sent_items/146.",
+   "hops": [
+      {
+         "from": "marie.heard@enron.com",
+         "line": 4,
+         "rawfrom": "marie.heard@enron.com\r\n",
+         "source": "valid",
+         "to": "hudsonr@teai.com"
+      },
+      {
+         "from": "hudsonr@teai.com",
+         "line": 28,
+         "rawfrom": "\t\"Hudson, Roeline\" <HudsonR@teai.com>@ENRON [mailto:IMCEANOTES-+22Hudson+2C+20Roeline+22+20+3CHudsonR+40teai+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 48,
+         "rawfrom": "> From:\tMarie.Heard@enron.com [SMTP:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "HudsonR@teai.com"
+      },
+      {
+         "from": "hudsonr@teai.com",
+         "line": 67,
+         "rawfrom": "  \"Hudson, Roeline\" <HudsonR@teai.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 102,
+         "rawfrom": "     Heard, Marie [SMTP:Marie.Heard@ENRON.com]\n",
+         "source": "email",
+         "to": "hudsonr@teai.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/sent_items/724.",
+   "hops": [
+      {
+         "from": "marie.heard@enron.com",
+         "line": 4,
+         "rawfrom": "marie.heard@enron.com\r\n",
+         "source": "valid",
+         "to": "deb.korkmas@enron.com, j..heinitz@enron.com"
+      },
+      {
+         "from": "billy.dixon@bp.com",
+         "line": 22,
+         "rawfrom": "\t\"Dixon, Billy D\" <billy.dixon@bp.com>@ENRON  \n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 83,
+         "rawfrom": "Heard, Marie [mailto:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "billy.dixon@bp.com"
+      },
+      {
+         "from": "billy.dixon@bp.com",
+         "line": 97,
+         "rawfrom": "\t\"Dixon, Billy D\" <billy.dixon@bp.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/sent_items/673.",
+   "hops": [
+      {
+         "from": "marie.heard@enron.com",
+         "line": 4,
+         "rawfrom": "marie.heard@enron.com\r\n",
+         "source": "valid",
+         "to": "lech.kalembka@cwt.com"
+      },
+      {
+         "from": "billy.dixon@bp.com",
+         "line": 24,
+         "rawfrom": "\t\"Dixon, Billy D\" <billy.dixon@bp.com>@ENRON  \n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 85,
+         "rawfrom": "Heard, Marie [mailto:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "billy.dixon@bp.com"
+      },
+      {
+         "from": "billy.dixon@bp.com",
+         "line": 99,
+         "rawfrom": "\t\"Dixon, Billy D\" <billy.dixon@bp.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/sent_items/529.",
+   "hops": [
+      {
+         "from": "marie.heard@enron.com",
+         "line": 4,
+         "rawfrom": "marie.heard@enron.com\r\n",
+         "source": "valid",
+         "to": "j..vitrella@enron.com"
+      },
+      {
+         "from": "lissa.rosenthal@csfb.com",
+         "line": 28,
+         "rawfrom": "\t\"Rosenthal, Lissa\" <lissa.rosenthal@csfb.com>@ENRON [mailto:IMCEANOTES-+22Rosenthal+2C+20Lissa+22+20+3Clissa+2Erosenthal+40csfb+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Heard, Marie; Shackleton, Sara"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 46,
+         "rawfrom": "Marie.Heard@enron.com [mailto:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "lissa.rosenthal@csfb.com"
+      },
+      {
+         "from": "lissa.rosenthal@csfb.com",
+         "line": 66,
+         "rawfrom": "  \"Rosenthal, Lissa\" <lissa.rosenthal@csfb.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 84,
+         "rawfrom": "Heard, Marie [mailto:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "lissa.rosenthal@csfb.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/sent_items/801.",
+   "hops": [
+      {
+         "from": "marie.heard@enron.com",
+         "line": 4,
+         "rawfrom": "marie.heard@enron.com\r\n",
+         "source": "valid",
+         "to": "hudsonr@teai.com"
+      },
+      {
+         "from": "hudsonr@teai.com",
+         "line": 30,
+         "rawfrom": "\t\"Hudson, Roeline\" <HudsonR@teai.com>@ENRON  \n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 54,
+         "rawfrom": "> From:\tMarie.Heard@enron.com [SMTP:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "HudsonR@teai.com"
+      },
+      {
+         "from": "hudsonr@teai.com",
+         "line": 67,
+         "rawfrom": "  \"Hudson, Roeline\" <HudsonR@teai.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 89,
+         "rawfrom": "     Heard, Marie [SMTP:Marie.Heard@ENRON.com]\n",
+         "source": "email",
+         "to": "hudsonr@teai.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/sent_items/725.",
+   "hops": [
+      {
+         "from": "marie.heard@enron.com",
+         "line": 4,
+         "rawfrom": "marie.heard@enron.com\r\n",
+         "source": "valid",
+         "to": "deb.korkmas@enron.com, j..heinitz@enron.com"
+      },
+      {
+         "from": "billy.dixon@bp.com",
+         "line": 22,
+         "rawfrom": "\t\"Dixon, Billy D\" <billy.dixon@bp.com>@ENRON  \n",
+         "source": "email",
+         "to": "Heard, Marie; St. Clair, Carol"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 55,
+         "rawfrom": "Heard, Marie [mailto:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "billy.dixon@bp.com; St. Clair, Carol"
+      },
+      {
+         "from": "billy.dixon@bp.com",
+         "line": 70,
+         "rawfrom": "\t\"Dixon, Billy D\" <billy.dixon@bp.com>@ENRON\n",
+         "source": "email",
+         "to": "St. Clair, Carol; Heard, Marie"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/sent_items/513.",
+   "hops": [
+      {
+         "from": "marie.heard@enron.com",
+         "line": 4,
+         "rawfrom": "marie.heard@enron.com\r\n",
+         "source": "valid",
+         "to": "jgiordano@catequil.com"
+      },
+      {
+         "from": "jgiordano@catequil.com",
+         "line": 26,
+         "rawfrom": "\tJames Giordano <jgiordano@catequil.com>@ENRON [mailto:IMCEANOTES-James+20Giordano+20+3Cjgiordano+40catequil+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 41,
+         "rawfrom": "Marie.Heard@enron.com [mailto:Marie.Heard@enron.com]\n",
+         "source": "email",
+         "to": "jgiordano@catequil.com"
+      },
+      {
+         "from": "jgiordano@catequil.com",
+         "line": 59,
+         "rawfrom": "  James Giordano <jgiordano@catequil.com>@ENRON\n",
+         "source": "email",
+         "to": "Heard, Marie"
+      },
+      {
+         "from": "marie.heard@enron.com",
+         "line": 73,
+         "rawfrom": "Heard, Marie [mailto:Marie.Heard@ENRON.com]\n",
+         "source": "email",
+         "to": "jgiordano@catequil.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/sent_items/655.",
+   "hops": [
+      {
+         "from": "marie.heard@enron.com",
+         "line": 4,
+         "rawfrom": "marie.heard@enron.com\r\n",
+         "source": "valid",
+         "to": "lech.kalembka@cwt.com"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 36,
+         "rawfrom": "\t\"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON  \n",
+         "source": "email",
+         "to": "Portz, David"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 55,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": "Lech.Kalembka@cwt.com"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 76,
+         "rawfrom": "  \"Lech Kalembka\" <Lech.Kalembka@cwt.com>@ENRON\n",
+         "source": "email",
+         "to": "Portz, David"
+      },
+      {
+         "from": "lech.kalembka@cwt.com",
+         "line": 94,
+         "rawfrom": "lech.kalembka@cwt.com",
+         "source": "valid",
+         "to": "<Lech.Kalembka@cwt.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/brokerage_agreements/24.",
+   "hops": [
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 4,
+         "rawfrom": "sara.shackleton@enron.com\r\n",
+         "source": "valid",
+         "to": "daniel.harris@gs.com"
+      },
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 30,
+         "rawfrom": "\t\"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON [mailto:IMCEANOTES-+22Harris+2C+20Daniel+22+20+3CDaniel+2EHarris+40gs+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 53,
+         "rawfrom": "Sara.Shackleton@enron.com [mailto:Sara.Shackleton@enron.com]\n",
+         "source": "email",
+         "to": "Daniel.Harris@gs.com"
+      },
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 100,
+         "rawfrom": "  \"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 127,
+         "rawfrom": "Sara.Shackleton@enron.com [mailto:Sara.Shackleton@enron.com]\n",
+         "source": "email",
+         "to": "Daniel.Harris@gs.com"
+      },
+      {
+         "from": "daniel.harris@gs.com",
+         "line": 176,
+         "rawfrom": "  \"Harris, Daniel\" <Daniel.Harris@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shackleton, Sara"
+      },
+      {
+         "from": "sara.shackleton@enron.com",
+         "line": 199,
+         "rawfrom": "Shackleton, Sara [mailto:Sara.Shackleton@ENRON.com]\n",
+         "source": "email",
+         "to": "Daniel.Harris@gs.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/heard-m/brokerage_agreements/12.",
+   "hops": [
+      {
+         "from": "sheila.glover@enron.com",
+         "line": 4,
+         "rawfrom": "sheila.glover@enron.com\r\n",
+         "source": "valid",
+         "to": "sara.shackleton@enron.com"
+      },
+      {
+         "from": "jtokley@monumentderivatives.com",
+         "line": 26,
+         "rawfrom": "\tJacqueline Tokley <jtokley@monumentderivatives.com>@ENRON [mailto:IMCEANOTES-Jacqueline+20Tokley+20+3Cjtokley+40monumentderivatives+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Glover, Sheila"
+      },
+      {
+         "from": "sheila.glover@enron.com",
+         "line": 39,
+         "rawfrom": "Sheila.Glover@enron.com [mailto:Sheila.Glover@enron.com]\n",
+         "source": "email",
+         "to": "jtokley@monumentderivatives.com"
+      },
+      {
+         "from": "jtokley@monumentderivatives.com",
+         "line": 68,
+         "rawfrom": "  Jacqueline Tokley <jtokley@monumentderivatives.com>@ENRON\n",
+         "source": "email",
+         "to": "Glover, Sheila"
+      }
+   ],
+   "skipped": 1
+}
+]
