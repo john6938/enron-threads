@@ -100,8 +100,6 @@ body {
     font-size: 11px;
     color: #333;
     margin: 0;
-    max-height: 200px;
-    overflow-y: auto;
 }
 .email-unavailable {
     color: #888;
