@@ -104,6 +104,10 @@ diagram.child('spliner', spliner);
 // email-content cache keyed by username
 var emailContentCache = {};
 
+var EMAIL_CONTENT_BASE = window.location.hostname.includes('github.io')
+    ? 'https://github.com/john6938/enron-threads/releases/download/email-data-v1/'
+    : null; // null = use options.data (local)
+
 function usernameFromFile(filepath) {
     var parts = filepath.split('/');
     var idx = parts.indexOf('maildir');
@@ -144,7 +148,8 @@ function show_email_content(thread, dataPath) {
     emailContentCache[username] = {data: null};
     panel.html('<em>Loading…</em>');
 
-    d3.json(dataPath + 'email-content-' + username + '.json', function(error, data) {
+    var contentUrl = (EMAIL_CONTENT_BASE || dataPath) + 'email-content-' + username + '.json';
+    d3.json(contentUrl, function(error, data) {
         if(error) {
             emailContentCache[username] = {data: {}};
             panel.html('<em>Email content not available on hosted version.</em>');
