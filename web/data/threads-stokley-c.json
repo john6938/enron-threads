@@ -1,0 +1,561 @@
+[
+{
+   "file": "/home/jb/maildir/stokley-c/chris_stokley/iso/client_rep/35.",
+   "hops": [
+      {
+         "from": "kalmeida@caiso.com",
+         "line": 4,
+         "rawfrom": "kalmeida@caiso.com\r\n",
+         "source": "valid",
+         "to": "chris.stokley@enron.com"
+      },
+      {
+         "from": "chris.stokley@enron.com",
+         "line": 33,
+         "rawfrom": "Stokley, Chris [mailto:Chris.Stokley@ENRON.com]\n",
+         "source": "email",
+         "to": "Almeida, Keoni"
+      },
+      {
+         "from": "kalmeida@caiso.com",
+         "line": 45,
+         "rawfrom": "\tAlmeida, Keoni [mailto:KAlmeida@caiso.com] \n",
+         "source": "email",
+         "to": "Stokley, Chris"
+      },
+      {
+         "from": "chris.stokley@enron.com",
+         "line": 63,
+         "rawfrom": "Stokley, Chris [mailto:Chris.Stokley@ENRON.com]\n",
+         "source": "email",
+         "to": "Almeida, Keoni"
+      },
+      {
+         "from": "kalmeida@caiso.com",
+         "line": 80,
+         "rawfrom": "\tAlmeida, Keoni [mailto:KAlmeida@caiso.com] \n",
+         "source": "email",
+         "to": "Stokley, Chris"
+      },
+      {
+         "from": "chris.stokley@enron.com",
+         "line": 99,
+         "rawfrom": "Stokley, Chris [mailto:Chris.Stokley@ENRON.com]\n",
+         "source": "email",
+         "to": "kalmeida@caiso.com"
+      },
+      {
+         "from": "kalmeida@caiso.com",
+         "line": 120,
+         "rawfrom": "\tAlmeida, Keoni [mailto:KAlmeida@caiso.com] \n",
+         "source": "email",
+         "to": "Stokley, Chris"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/stokley-c/chris_stokley/iso/client_rep/30.",
+   "hops": [
+      {
+         "from": "kalmeida@caiso.com",
+         "line": 4,
+         "rawfrom": "kalmeida@caiso.com\r\n",
+         "source": "valid",
+         "to": "jubran.whalen@enron.com, p..o'neil@enron.com, chris.stokley@enron.com"
+      },
+      {
+         "from": "schneider@rsvl.net",
+         "line": 36,
+         "rawfrom": "> From:\tSusan Schneider [mailto:schneider@rsvl.net]\n",
+         "source": "email",
+         "to": "schneider@rsvl.net"
+      },
+      {
+         "from": "shapp@caiso.com",
+         "line": 85,
+         "rawfrom": "\"Happ, Susan\" <SHapp@caiso.com>\n",
+         "source": "email",
+         "to": "ISO Client Relations <ISOClientRelations@caiso.com>"
+      },
+      {
+         "from": "schneider@rsvl.net",
+         "line": 97,
+         "rawfrom": "> From:\tSusan Schneider [mailto:schneider@rsvl.net]\n",
+         "source": "email",
+         "to": "schneider@rsvl.net"
+      },
+      {
+         "from": "shapp@caiso.com",
+         "line": 152,
+         "rawfrom": "\"Happ, Susan\" <SHapp@caiso.com>\n",
+         "source": "email",
+         "to": "ISO Client Relations <ISOClientRelations@caiso.com>"
+      },
+      {
+         "from": "schneider@rsvl.net",
+         "line": 164,
+         "rawfrom": "> From:\tSusan Schneider [mailto:schneider@rsvl.net]\n",
+         "source": "email",
+         "to": "schneider@rsvl.net"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/stokley-c/chris_stokley/iso/client_rep/36.",
+   "hops": [
+      {
+         "from": "kalmeida@caiso.com",
+         "line": 4,
+         "rawfrom": "kalmeida@caiso.com\r\n",
+         "source": "valid",
+         "to": "chris.stokley@enron.com"
+      },
+      {
+         "from": "chris.stokley@enron.com",
+         "line": 32,
+         "rawfrom": "Stokley, Chris [mailto:Chris.Stokley@ENRON.com]\n",
+         "source": "email",
+         "to": "Almeida, Keoni"
+      },
+      {
+         "from": "kalmeida@caiso.com",
+         "line": 49,
+         "rawfrom": "\tAlmeida, Keoni [mailto:KAlmeida@caiso.com] \n",
+         "source": "email",
+         "to": "Stokley, Chris"
+      },
+      {
+         "from": "chris.stokley@enron.com",
+         "line": 68,
+         "rawfrom": "Stokley, Chris [mailto:Chris.Stokley@ENRON.com]\n",
+         "source": "email",
+         "to": "kalmeida@caiso.com"
+      },
+      {
+         "from": "kalmeida@caiso.com",
+         "line": 89,
+         "rawfrom": "\tAlmeida, Keoni [mailto:KAlmeida@caiso.com] \n",
+         "source": "email",
+         "to": "Stokley, Chris"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/stokley-c/chris_stokley/iso/client_rep/19.",
+   "hops": [
+      {
+         "from": "kalmeida@caiso.com",
+         "line": 4,
+         "rawfrom": "kalmeida@caiso.com\r\n",
+         "source": "valid",
+         "to": "donna.johnson@enron.com"
+      },
+      {
+         "from": "donna.johnson@enron.com",
+         "line": 88,
+         "rawfrom": "Donna.Johnson@enron.com [mailto:Donna.Johnson@enron.com]\n",
+         "source": "email",
+         "to": "KAlmeida@caiso.com"
+      },
+      {
+         "from": "kalmeida@caiso.com",
+         "line": 106,
+         "rawfrom": "  \"Almeida, Keoni\" <KAlmeida@caiso.com>@ENRON\n",
+         "source": "email",
+         "to": "Johnson, Donna"
+      },
+      {
+         "from": "9169812000.1151268@pagenet.net",
+         "line": 121,
+         "rawfrom": "9169812000.1151268@pagenet.net",
+         "source": "valid",
+         "to": "\"Johnson, Donna\" <Donna.Johnson@enron.com>, \"Nelson , Kourtney\""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/stokley-c/chris_stokley/sent/516.",
+   "hops": [
+      {
+         "from": "chris.stokley@enron.com",
+         "line": 4,
+         "rawfrom": "chris.stokley@enron.com\r\n",
+         "source": "valid",
+         "to": "'jones@enron.com, kevin.jones@compaq.com"
+      },
+      {
+         "from": "kevin.jones@compaq.com",
+         "line": 27,
+         "rawfrom": "\tJones, Kevin M. (SW Dev) [mailto:Kevin.Jones@COMPAQ.com] \n",
+         "source": "email",
+         "to": "Jones, Kevin M. (SW Dev); Stokley, Chris; kerry.jones@halliburton.com"
+      },
+      {
+         "from": "chris.stokley@enron.com",
+         "line": 72,
+         "rawfrom": "Stokley, Chris [mailto:Chris.Stokley@ENRON.com]\n",
+         "source": "email",
+         "to": "Jones, Kevin M. (SW Dev)"
+      },
+      {
+         "from": "kevin.jones@compaq.com",
+         "line": 91,
+         "rawfrom": "Jones, Kevin M. (SW Dev) [mailto:Kevin.Jones@COMPAQ.com]\n",
+         "source": "email",
+         "to": "Stokley, Chris"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/stokley-c/chris_stokley/sent/297.",
+   "hops": [
+      {
+         "from": "chris.stokley@enron.com",
+         "line": 4,
+         "rawfrom": "chris.stokley@enron.com\r\n",
+         "source": "valid",
+         "to": "'almeida@enron.com, kalmeida@caiso.com"
+      },
+      {
+         "from": "kalmeida@caiso.com",
+         "line": 24,
+         "rawfrom": "\tAlmeida, Keoni [mailto:KAlmeida@caiso.com] \n",
+         "source": "email",
+         "to": "Stokley, Chris"
+      },
+      {
+         "from": "chris.stokley@enron.com",
+         "line": 42,
+         "rawfrom": "Stokley, Chris [mailto:Chris.Stokley@ENRON.com]\n",
+         "source": "email",
+         "to": "Almeida, Keoni"
+      },
+      {
+         "from": "kalmeida@caiso.com",
+         "line": 59,
+         "rawfrom": "\tAlmeida, Keoni [mailto:KAlmeida@caiso.com] \n",
+         "source": "email",
+         "to": "Stokley, Chris"
+      },
+      {
+         "from": "chris.stokley@enron.com",
+         "line": 78,
+         "rawfrom": "Stokley, Chris [mailto:Chris.Stokley@ENRON.com]\n",
+         "source": "email",
+         "to": "kalmeida@caiso.com"
+      },
+      {
+         "from": "kalmeida@caiso.com",
+         "line": 99,
+         "rawfrom": "\tAlmeida, Keoni [mailto:KAlmeida@caiso.com] \n",
+         "source": "email",
+         "to": "Stokley, Chris"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/stokley-c/chris_stokley/sent/96.",
+   "hops": [
+      {
+         "from": "chris.stokley@enron.com",
+         "line": 4,
+         "rawfrom": "chris.stokley@enron.com\r\n",
+         "source": "valid",
+         "to": "'almeida@enron.com, kalmeida@caiso.com"
+      },
+      {
+         "from": "kalmeida@caiso.com",
+         "line": 22,
+         "rawfrom": "\tAlmeida, Keoni [mailto:KAlmeida@caiso.com] \n",
+         "source": "email",
+         "to": "Stokley, Chris"
+      },
+      {
+         "from": "chris.stokley@enron.com",
+         "line": 41,
+         "rawfrom": "Stokley, Chris [mailto:Chris.Stokley@ENRON.com]\n",
+         "source": "email",
+         "to": "Almeida, Keoni"
+      },
+      {
+         "from": "kalmeida@caiso.com",
+         "line": 52,
+         "rawfrom": "\tAlmeida, Keoni [mailto:KAlmeida@caiso.com] \n",
+         "source": "email",
+         "to": "Stokley, Chris"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/stokley-c/chris_stokley/sent/508.",
+   "hops": [
+      {
+         "from": "chris.stokley@enron.com",
+         "line": 4,
+         "rawfrom": "chris.stokley@enron.com\r\n",
+         "source": "valid",
+         "to": "'jones@enron.com, kevin.jones@compaq.com"
+      },
+      {
+         "from": "kevin.jones@compaq.com",
+         "line": 22,
+         "rawfrom": "Jones, Kevin M. (SW Dev) [mailto:Kevin.Jones@COMPAQ.com]\n",
+         "source": "email",
+         "to": "Jones, Kevin M. (SW Dev); Stokley, Chris;"
+      },
+      {
+         "from": "chris.stokley@enron.com",
+         "line": 69,
+         "rawfrom": "Stokley, Chris [mailto:Chris.Stokley@ENRON.com]\n",
+         "source": "email",
+         "to": "Jones, Kevin M. (SW Dev)"
+      },
+      {
+         "from": "kevin.jones@compaq.com",
+         "line": 88,
+         "rawfrom": "Jones, Kevin M. (SW Dev) [mailto:Kevin.Jones@COMPAQ.com]\n",
+         "source": "email",
+         "to": "Stokley, Chris"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/stokley-c/chris_stokley/sent/200.",
+   "hops": [
+      {
+         "from": "chris.stokley@enron.com",
+         "line": 4,
+         "rawfrom": "chris.stokley@enron.com\r\n",
+         "source": "valid",
+         "to": "jplumley@caiso.com"
+      },
+      {
+         "from": "jplumley@caiso.com",
+         "line": 24,
+         "rawfrom": "\t\"Plumley, Jeanette\" <JPlumley@caiso.com>@ENRON [mailto:IMCEANOTES-+22Plumley+2C+20Jeanette+22+20+3CJPlumley+40caiso+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Stokley, Chris"
+      },
+      {
+         "from": "chris.stokley@enron.com",
+         "line": 40,
+         "rawfrom": "\t\tFrom:\tChris.Stokley@enron.com\n",
+         "source": "email",
+         "to": "JPlumley@caiso.com"
+      },
+      {
+         "from": "jplumley@caiso.com",
+         "line": 55,
+         "rawfrom": "  \"Plumley, Jeanette\" <JPlumley@caiso.com>@ENRON\n",
+         "source": "email",
+         "to": "Stokley, Chris"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/stokley-c/chris_stokley/sent/320.",
+   "hops": [
+      {
+         "from": "chris.stokley@enron.com",
+         "line": 4,
+         "rawfrom": "chris.stokley@enron.com\r\n",
+         "source": "valid",
+         "to": "p..o'neil@enron.com, jeff.richter@enron.com, kenny.ha@enron.com"
+      },
+      {
+         "from": "swalker2@csc.com",
+         "line": 22,
+         "rawfrom": "\tswalker2@csc.com [mailto:swalker2@csc.com] \n",
+         "source": "email",
+         "to": "Herod, Brenda F."
+      },
+      {
+         "from": "brenda.f.herod@enron.com",
+         "line": 35,
+         "rawfrom": "\"Herod, Brenda F.\" <Brenda.F.Herod@ENRON.com> on 08/03/2001 06:50:46 PM\n",
+         "source": "email",
+         "to": "\"Miller, Richard\" <Richard.Miller@ENRON.com>, Stephen"
+      },
+      {
+         "from": "jrutledg@enron.com",
+         "line": 189,
+         "rawfrom": "jrutledg@enron.com",
+         "source": "valid",
+         "to": "\"Chris Stokley\""
+      }
+   ],
+   "skipped": 7
+}
+,
+{
+   "file": "/home/jb/maildir/stokley-c/chris_stokley/sent/298.",
+   "hops": [
+      {
+         "from": "chris.stokley@enron.com",
+         "line": 4,
+         "rawfrom": "chris.stokley@enron.com\r\n",
+         "source": "valid",
+         "to": "'almeida@enron.com, kalmeida@caiso.com"
+      },
+      {
+         "from": "kalmeida@caiso.com",
+         "line": 27,
+         "rawfrom": "\tAlmeida, Keoni [mailto:KAlmeida@caiso.com] \n",
+         "source": "email",
+         "to": "Stokley, Chris"
+      },
+      {
+         "from": "chris.stokley@enron.com",
+         "line": 46,
+         "rawfrom": "Stokley, Chris [mailto:Chris.Stokley@ENRON.com]\n",
+         "source": "email",
+         "to": "kalmeida@caiso.com"
+      },
+      {
+         "from": "kalmeida@caiso.com",
+         "line": 67,
+         "rawfrom": "\tAlmeida, Keoni [mailto:KAlmeida@caiso.com] \n",
+         "source": "email",
+         "to": "Stokley, Chris"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/stokley-c/chris_stokley/sent/160.",
+   "hops": [
+      {
+         "from": "chris.stokley@enron.com",
+         "line": 4,
+         "rawfrom": "chris.stokley@enron.com\r\n",
+         "source": "valid",
+         "to": "kjone19@home.com"
+      },
+      {
+         "from": "kjone19@home.com",
+         "line": 24,
+         "rawfrom": "\t\"Kerry Jones\" <kjone19@home.com>@ENRON [mailto:IMCEANOTES-+22Kerry+20Jones+22+20+3Ckjone19+40home+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Stokley, Chris"
+      },
+      {
+         "from": "chris.stokley@enron.com",
+         "line": 43,
+         "rawfrom": "Stokley, Chris [mailto:Chris.Stokley@enron.com]\n",
+         "source": "email",
+         "to": "kjone19@home.com"
+      },
+      {
+         "from": "kjone19@home.com",
+         "line": 62,
+         "rawfrom": "\t\"Kerry Jones\" <kjone19@home.com>@ENRON\n",
+         "source": "email",
+         "to": "John Mark Brewer; John Chelchowski; Clayton"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/stokley-c/chris_stokley/volume_mang_/192.",
+   "hops": [
+      {
+         "from": "jim.reyes@enron.com",
+         "line": 4,
+         "rawfrom": "jim.reyes@enron.com\r\n",
+         "source": "valid",
+         "to": "chris.stokley@enron.com"
+      },
+      {
+         "from": "kalmeida@caiso.com",
+         "line": 22,
+         "rawfrom": "\t\"Almeida, Keoni\" <KAlmeida@caiso.com>@ENRON [mailto:IMCEANOTES-+22Almeida+2C+20Keoni+22+20+3CKAlmeida+40caiso+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Reyes, Jim"
+      },
+      {
+         "from": "chris.stokley@enron.com",
+         "line": 41,
+         "rawfrom": "Stokley, Chris [mailto:Chris.Stokley@ENRON.com]\n",
+         "source": "email",
+         "to": "KAlmeida@caiso.com"
+      },
+      {
+         "from": "kalmeida@caiso.com",
+         "line": 74,
+         "rawfrom": "\t\"Almeida, Keoni\" <KAlmeida@caiso.com>@ENRON\n",
+         "source": "email",
+         "to": "Reyes, Jim"
+      },
+      {
+         "from": "jim.reyes@enron.com",
+         "line": 96,
+         "rawfrom": "Reyes, Jim [mailto:Jim.Reyes@ENRON.com]\n",
+         "source": "email",
+         "to": "Keoni Almeida (E-mail)"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/stokley-c/chris_stokley/volume_mang_/106.",
+   "hops": [
+      {
+         "from": "kourtney.nelson@enron.com",
+         "line": 4,
+         "rawfrom": "kourtney.nelson@enron.com\r\n",
+         "source": "valid",
+         "to": "chris.stokley@enron.com"
+      },
+      {
+         "from": "kalmeida@caiso.com",
+         "line": 22,
+         "rawfrom": "\t\"Almeida, Keoni\" <KAlmeida@caiso.com>@ENRON [mailto:IMCEANOTES-+22Almeida+2C+20Keoni+22+20+3CKAlmeida+40caiso+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Nelson, Kourtney"
+      },
+      {
+         "from": "mailer-daemon@wepex.com",
+         "line": 59,
+         "rawfrom": "Mail Delivery Subsystem [mailto:MAILER-DAEMON@wepex.com]\n",
+         "source": "email",
+         "to": "KAlmeida@caiso.com"
+      },
+      {
+         "from": "on@enron.com",
+         "line": 73,
+         "rawfrom": "ON@ENRON.com",
+         "source": "valid",
+         "to": "<IMCEANOTES-+22Izarraraz+2C+20Alicia+20I+22+20+3CIZARRAI+40bp+2Ecom+3E+40"
+      },
+      {
+         "from": "kalmeida@caiso.com",
+         "line": 86,
+         "rawfrom": "\"Almeida, Keoni\" <KAlmeida@caiso.com>\n",
+         "source": "email",
+         "to": "\"Foster, Chris\" <Chris.H.Foster@Enron.com>, \t\"\\\"Izarraraz, Alicia I\\\" <IZARRAI@bp.com>@ENRON\" <IMCEANOTES-+22Izarraraz+2C+20Alicia+20I+22+20+3CIZARRAI+40bp+2Ecom+3E+40ENRON@ENRON.com>"
+      }
+   ],
+   "skipped": 2
+}
+]

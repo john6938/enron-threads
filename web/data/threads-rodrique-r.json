@@ -1,0 +1,232 @@
+[
+{
+   "file": "/home/jb/maildir/rodrique-r/all_documents/363.",
+   "hops": [
+      {
+         "from": "robin.rodrigue@enron.com",
+         "line": 4,
+         "rawfrom": "robin.rodrigue@enron.com\r\n",
+         "source": "valid",
+         "to": "paul_rodrigue@bigfoot.com"
+      },
+      {
+         "from": "paulrodrigue@yahoo.com",
+         "line": 33,
+         "rawfrom": "paulrodrigue@yahoo.com",
+         "source": "valid",
+         "to": "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from": "paulrodrigue@yahoo.com",
+         "line": 73,
+         "rawfrom": "paulrodrigue@yahoo.com",
+         "source": "valid",
+         "to": "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from": "paul_rodrigue@bigfoot.com",
+         "line": 115,
+         "rawfrom": "paul_rodrigue@bigfoot.com",
+         "source": "valid",
+         "to": "Robin.Rodrigue@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rodrique-r/all_documents/352.",
+   "hops": [
+      {
+         "from": "robin.rodrigue@enron.com",
+         "line": 4,
+         "rawfrom": "robin.rodrigue@enron.com\r\n",
+         "source": "valid",
+         "to": "paul_rodrigue@bigfoot.com"
+      },
+      {
+         "from": "paulrodrigue@yahoo.com",
+         "line": 31,
+         "rawfrom": "paulrodrigue@yahoo.com",
+         "source": "valid",
+         "to": "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from": "paulrodrigue@yahoo.com",
+         "line": 72,
+         "rawfrom": "paulrodrigue@yahoo.com",
+         "source": "valid",
+         "to": "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from": "paul_rodrigue@bigfoot.com",
+         "line": 117,
+         "rawfrom": "paul_rodrigue@bigfoot.com",
+         "source": "valid",
+         "to": "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from": "paul_rodrigue@bigfoot.com",
+         "line": 162,
+         "rawfrom": "paul_rodrigue@bigfoot.com",
+         "source": "valid",
+         "to": "Robin.Rodrigue@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rodrique-r/sent/351.",
+   "hops": [
+      {
+         "from": "robin.rodrigue@enron.com",
+         "line": 4,
+         "rawfrom": "robin.rodrigue@enron.com\r\n",
+         "source": "valid",
+         "to": "paul_rodrigue@bigfoot.com"
+      },
+      {
+         "from": "paulrodrigue@yahoo.com",
+         "line": 33,
+         "rawfrom": "paulrodrigue@yahoo.com",
+         "source": "valid",
+         "to": "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from": "paulrodrigue@yahoo.com",
+         "line": 73,
+         "rawfrom": "paulrodrigue@yahoo.com",
+         "source": "valid",
+         "to": "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from": "paul_rodrigue@bigfoot.com",
+         "line": 115,
+         "rawfrom": "paul_rodrigue@bigfoot.com",
+         "source": "valid",
+         "to": "Robin.Rodrigue@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rodrique-r/sent/340.",
+   "hops": [
+      {
+         "from": "robin.rodrigue@enron.com",
+         "line": 4,
+         "rawfrom": "robin.rodrigue@enron.com\r\n",
+         "source": "valid",
+         "to": "paul_rodrigue@bigfoot.com"
+      },
+      {
+         "from": "paulrodrigue@yahoo.com",
+         "line": 31,
+         "rawfrom": "paulrodrigue@yahoo.com",
+         "source": "valid",
+         "to": "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from": "paulrodrigue@yahoo.com",
+         "line": 72,
+         "rawfrom": "paulrodrigue@yahoo.com",
+         "source": "valid",
+         "to": "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from": "paul_rodrigue@bigfoot.com",
+         "line": 117,
+         "rawfrom": "paul_rodrigue@bigfoot.com",
+         "source": "valid",
+         "to": "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from": "paul_rodrigue@bigfoot.com",
+         "line": 162,
+         "rawfrom": "paul_rodrigue@bigfoot.com",
+         "source": "valid",
+         "to": "Robin.Rodrigue@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rodrique-r/_sent_mail/351.",
+   "hops": [
+      {
+         "from": "robin.rodrigue@enron.com",
+         "line": 4,
+         "rawfrom": "robin.rodrigue@enron.com\r\n",
+         "source": "valid",
+         "to": "paul_rodrigue@bigfoot.com"
+      },
+      {
+         "from": "paulrodrigue@yahoo.com",
+         "line": 33,
+         "rawfrom": "paulrodrigue@yahoo.com",
+         "source": "valid",
+         "to": "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from": "paulrodrigue@yahoo.com",
+         "line": 73,
+         "rawfrom": "paulrodrigue@yahoo.com",
+         "source": "valid",
+         "to": "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from": "paul_rodrigue@bigfoot.com",
+         "line": 115,
+         "rawfrom": "paul_rodrigue@bigfoot.com",
+         "source": "valid",
+         "to": "Robin.Rodrigue@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/rodrique-r/_sent_mail/340.",
+   "hops": [
+      {
+         "from": "robin.rodrigue@enron.com",
+         "line": 4,
+         "rawfrom": "robin.rodrigue@enron.com\r\n",
+         "source": "valid",
+         "to": "paul_rodrigue@bigfoot.com"
+      },
+      {
+         "from": "paulrodrigue@yahoo.com",
+         "line": 31,
+         "rawfrom": "paulrodrigue@yahoo.com",
+         "source": "valid",
+         "to": "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from": "paulrodrigue@yahoo.com",
+         "line": 72,
+         "rawfrom": "paulrodrigue@yahoo.com",
+         "source": "valid",
+         "to": "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from": "paul_rodrigue@bigfoot.com",
+         "line": 117,
+         "rawfrom": "paul_rodrigue@bigfoot.com",
+         "source": "valid",
+         "to": "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from": "paul_rodrigue@bigfoot.com",
+         "line": 162,
+         "rawfrom": "paul_rodrigue@bigfoot.com",
+         "source": "valid",
+         "to": "Robin.Rodrigue@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+]

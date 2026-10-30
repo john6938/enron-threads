@@ -1,0 +1,638 @@
+[
+{
+   "file": "/home/jb/maildir/stepenovitch-j/inbox/124.",
+   "hops": [
+      {
+         "from": "jls@fullenweider.com",
+         "line": 4,
+         "rawfrom": "jls@fullenweider.com\r\n",
+         "source": "valid",
+         "to": "joe.stepenovitch@enron.com"
+      },
+      {
+         "from": "joe.stepenovitch@enron.com",
+         "line": 28,
+         "rawfrom": "Joe.Stepenovitch@enron.com [mailto:Joe.Stepenovitch@enron.com]\n",
+         "source": "email",
+         "to": "jls@fullenweider.com"
+      },
+      {
+         "from": "jls@fullenweider.com",
+         "line": 64,
+         "rawfrom": "  Jonda Stowell <jls@fullenweider.com>@ENRON\n",
+         "source": "email",
+         "to": "Stepenovitch, Joe"
+      },
+      {
+         "from": "joe.stepenovitch@enron.com",
+         "line": 89,
+         "rawfrom": "Joe.Stepenovitch@enron.com [mailto:Joe.Stepenovitch@enron.com]\n",
+         "source": "email",
+         "to": "jls@fullenweider.com"
+      },
+      {
+         "from": "jls@fullenweider.com",
+         "line": 113,
+         "rawfrom": "  Jonda Stowell <jls@fullenweider.com>@ENRON\n",
+         "source": "email",
+         "to": "Stepenovitch, Joe"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/stepenovitch-j/inbox/123.",
+   "hops": [
+      {
+         "from": "jls@fullenweider.com",
+         "line": 4,
+         "rawfrom": "jls@fullenweider.com\r\n",
+         "source": "valid",
+         "to": "joe.stepenovitch@enron.com"
+      },
+      {
+         "from": "joe.stepenovitch@enron.com",
+         "line": 31,
+         "rawfrom": "Joe.Stepenovitch@enron.com [mailto:Joe.Stepenovitch@enron.com]\n",
+         "source": "email",
+         "to": "jls@fullenweider.com"
+      },
+      {
+         "from": "jls@fullenweider.com",
+         "line": 52,
+         "rawfrom": "  Jonda Stowell <jls@fullenweider.com>@ENRON\n",
+         "source": "email",
+         "to": "Stepenovitch, Joe"
+      },
+      {
+         "from": "joe.stepenovitch@enron.com",
+         "line": 66,
+         "rawfrom": "Joe.Stepenovitch@enron.com [mailto:Joe.Stepenovitch@enron.com]\n",
+         "source": "email",
+         "to": "jls@fullenweider.com"
+      },
+      {
+         "from": "jls@fullenweider.com",
+         "line": 114,
+         "rawfrom": "  Jonda Stowell <jls@fullenweider.com>@ENRON\n",
+         "source": "email",
+         "to": "Stepenovitch, Joe"
+      },
+      {
+         "from": "joe.stepenovitch@enron.com",
+         "line": 142,
+         "rawfrom": "Joe.Stepenovitch@enron.com [mailto:Joe.Stepenovitch@enron.com]\n",
+         "source": "email",
+         "to": "jls@fullenweider.com"
+      },
+      {
+         "from": "jls@fullenweider.com",
+         "line": 169,
+         "rawfrom": "  Jonda Stowell <jls@fullenweider.com>@ENRON\n",
+         "source": "email",
+         "to": "Stepenovitch, Joe"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/stepenovitch-j/inbox/personal_mail/16.",
+   "hops": [
+      {
+         "from": "tim_hanna@hotmail.com",
+         "line": 4,
+         "rawfrom": "tim_hanna@hotmail.com\r\n",
+         "source": "valid",
+         "to": "joe.stepenovitch@enron.com"
+      },
+      {
+         "from": "joe.stepenovitch@enron.com",
+         "line": 35,
+         "rawfrom": "Joe.Stepenovitch@enron.com [mailto:Joe.Stepenovitch@enron.com]\n",
+         "source": "email",
+         "to": "thanna@sempratrading.com"
+      },
+      {
+         "from": "thanna@sempratrading.com",
+         "line": 71,
+         "rawfrom": "  Tim Hanna <thanna@sempratrading.com>@ENRON\n",
+         "source": "email",
+         "to": "Stepenovitch, Joe"
+      },
+      {
+         "from": "joe.stepenovitch@enron.com",
+         "line": 115,
+         "rawfrom": "Joe.Stepenovitch@enron.com [mailto:Joe.Stepenovitch@enron.com]\n",
+         "source": "email",
+         "to": "thanna@sempratrading.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/stepenovitch-j/inbox/personal_mail/89.",
+   "hops": [
+      {
+         "from": "lawrence.clayton@constellation.com",
+         "line": 4,
+         "rawfrom": "lawrence.clayton@constellation.com\r\n",
+         "source": "valid",
+         "to": "joe.stepenovitch@enron.com"
+      },
+      {
+         "from": "postmaster@powersrc.com",
+         "line": 22,
+         "rawfrom": "postmaster@powersrc.com [mailto:postmaster@powersrc.com]\n",
+         "source": "email",
+         "to": "Lawrence.Clayton@constellation.com"
+      },
+      {
+         "from": "lawrence.clayton@constellation.com",
+         "line": 42,
+         "rawfrom": "\"Clayton III, Lawrence\" <Lawrence.Clayton@constellation.com>\n",
+         "source": "email",
+         "to": "\"'joe.steponovitch@enron.com'\" <joe.steponovitch@enron.com>"
+      },
+      {
+         "from": "aclark@firstcallassociates.com",
+         "line": 54,
+         "rawfrom": "Adrian Clark [mailto:AClark@firstcallassociates.com]\n",
+         "source": "email",
+         "to": "lawrence.clayton@constellation.com"
+      },
+      {
+         "from": "aclark@firstcallassociates.com",
+         "line": 76,
+         "rawfrom": "Adrian Clark <AClark@firstcallassociates.com>\n",
+         "source": "email",
+         "to": "AClark@firstcallassociates.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/stepenovitch-j/inbox/122.",
+   "hops": [
+      {
+         "from": "jls@fullenweider.com",
+         "line": 4,
+         "rawfrom": "jls@fullenweider.com\r\n",
+         "source": "valid",
+         "to": "joe.stepenovitch@enron.com"
+      },
+      {
+         "from": "joe.stepenovitch@enron.com",
+         "line": 37,
+         "rawfrom": "Joe.Stepenovitch@enron.com [mailto:Joe.Stepenovitch@enron.com]\n",
+         "source": "email",
+         "to": "jls@fullenweider.com"
+      },
+      {
+         "from": "jls@fullenweider.com",
+         "line": 58,
+         "rawfrom": "  Jonda Stowell <jls@fullenweider.com>@ENRON\n",
+         "source": "email",
+         "to": "Stepenovitch, Joe"
+      },
+      {
+         "from": "joe.stepenovitch@enron.com",
+         "line": 76,
+         "rawfrom": "Joe.Stepenovitch@enron.com [mailto:Joe.Stepenovitch@enron.com]\n",
+         "source": "email",
+         "to": "jls@fullenweider.com"
+      },
+      {
+         "from": "jls@fullenweider.com",
+         "line": 99,
+         "rawfrom": "  Jonda Stowell <jls@fullenweider.com>@ENRON\n",
+         "source": "email",
+         "to": "Stepenovitch, Joe"
+      },
+      {
+         "from": "joe.stepenovitch@enron.com",
+         "line": 113,
+         "rawfrom": "Joe.Stepenovitch@enron.com [mailto:Joe.Stepenovitch@enron.com]\n",
+         "source": "email",
+         "to": "jls@fullenweider.com"
+      },
+      {
+         "from": "jls@fullenweider.com",
+         "line": 167,
+         "rawfrom": "  Jonda Stowell <jls@fullenweider.com>@ENRON\n",
+         "source": "email",
+         "to": "Stepenovitch, Joe"
+      },
+      {
+         "from": "joe.stepenovitch@enron.com",
+         "line": 198,
+         "rawfrom": "Joe.Stepenovitch@enron.com\n",
+         "source": "valid",
+         "to": "jls@fullenweider.com"
+      },
+      {
+         "from": "jls@fullenweider.com",
+         "line": 229,
+         "rawfrom": "  Jonda Stowell <jls@fullenweider.com>@ENRON\n",
+         "source": "email",
+         "to": "Stepenovitch, Joe"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/stepenovitch-j/all_documents/75.",
+   "hops": [
+      {
+         "from": "richard.hrabal@enron.com",
+         "line": 4,
+         "rawfrom": "richard.hrabal@enron.com\r\n",
+         "source": "valid",
+         "to": "joe.stepenovitch@enron.com"
+      },
+      {
+         "from": "rpcarpenter@worldnet.att.net",
+         "line": 46,
+         "rawfrom": "\"Ryan Carpenter\" <rpcarpenter@worldnet.att.net>\n",
+         "source": "email",
+         "to": "\"Matt Mangum\" <mattmangum@hotmail.com>, \"Jason Harvey\""
+      },
+      {
+         "from": "aallen@tpireps.com",
+         "line": 65,
+         "rawfrom": "\"Andy Allen\" <AAllen@tpireps.com>\n",
+         "source": "email",
+         "to": "\"Eric Utsey\" <EricUtsey@aol.com>; \"Casey Goolsby\""
+      },
+      {
+         "from": "rsmith@eaglenewspapers.com",
+         "line": 79,
+         "rawfrom": "\"Smith Ryan\" <RSmith@Eaglenewspapers.com>\n",
+         "source": "email",
+         "to": "\"Andy\" <aallen@tpireps.com>; \"Bob Mabry\" <grmabry@hotmail.com>;"
+      },
+      {
+         "from": "jsimmons@inktomi.com",
+         "line": 99,
+         "rawfrom": "Jim Simmons [mailto:jsimmons@inktomi.com]\n",
+         "source": "email",
+         "to": "Smith Ryan"
+      },
+      {
+         "from": "ptopping@pobox.com",
+         "line": 112,
+         "rawfrom": "Patrick Topping [mailto:ptopping@pobox.com]\n",
+         "source": "email",
+         "to": "Jim Simmons"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/stepenovitch-j/deleted_items/80.",
+   "hops": [
+      {
+         "from": "postmaster@enron.com",
+         "line": 4,
+         "rawfrom": "postmaster@enron.com\r\n",
+         "source": "valid",
+         "to": "joe.stepenovitch@enron.com"
+      },
+      {
+         "from": "jls@fullenweider.com",
+         "line": 42,
+         "rawfrom": "\tJonda Stowell <jls@fullenweider.com>@ENRON  \n",
+         "source": "email",
+         "to": "Stepenovitch, Joe"
+      },
+      {
+         "from": "joe.stepenovitch@enron.com",
+         "line": 113,
+         "rawfrom": "Joe.Stepenovitch@enron.com [mailto:Joe.Stepenovitch@enron.com]\n",
+         "source": "email",
+         "to": "jls@fullenweider.com"
+      },
+      {
+         "from": "jls@fullenweider.com",
+         "line": 157,
+         "rawfrom": "  Jonda Stowell <jls@fullenweider.com>@ENRON\n",
+         "source": "email",
+         "to": "Stepenovitch, Joe"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/stepenovitch-j/sent_items/44.",
+   "hops": [
+      {
+         "from": "joe.stepenovitch@enron.com",
+         "line": 4,
+         "rawfrom": "joe.stepenovitch@enron.com\r\n",
+         "source": "valid",
+         "to": "jls@fullenweider.com"
+      },
+      {
+         "from": "jls@fullenweider.com",
+         "line": 27,
+         "rawfrom": "\tJonda Stowell <jls@fullenweider.com>@ENRON [mailto:IMCEANOTES-Jonda+20Stowell+20+3Cjls+40fullenweider+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Stepenovitch, Joe"
+      },
+      {
+         "from": "joe.stepenovitch@enron.com",
+         "line": 41,
+         "rawfrom": "Joe.Stepenovitch@enron.com [mailto:Joe.Stepenovitch@enron.com]\n",
+         "source": "email",
+         "to": "jls@fullenweider.com"
+      },
+      {
+         "from": "jls@fullenweider.com",
+         "line": 77,
+         "rawfrom": "  Jonda Stowell <jls@fullenweider.com>@ENRON\n",
+         "source": "email",
+         "to": "Stepenovitch, Joe"
+      },
+      {
+         "from": "joe.stepenovitch@enron.com",
+         "line": 102,
+         "rawfrom": "Joe.Stepenovitch@enron.com [mailto:Joe.Stepenovitch@enron.com]\n",
+         "source": "email",
+         "to": "jls@fullenweider.com"
+      },
+      {
+         "from": "jls@fullenweider.com",
+         "line": 126,
+         "rawfrom": "  Jonda Stowell <jls@fullenweider.com>@ENRON\n",
+         "source": "email",
+         "to": "Stepenovitch, Joe"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/stepenovitch-j/sent_items/69.",
+   "hops": [
+      {
+         "from": "joe.stepenovitch@enron.com",
+         "line": 4,
+         "rawfrom": "joe.stepenovitch@enron.com\r\n",
+         "source": "valid",
+         "to": "linda.stepenovitch@bankofamerica.com"
+      },
+      {
+         "from": "jls@fullenweider.com",
+         "line": 26,
+         "rawfrom": "\tJonda Stowell <jls@fullenweider.com>@ENRON  \n",
+         "source": "email",
+         "to": "Stepenovitch, Joe"
+      },
+      {
+         "from": "joe.stepenovitch@enron.com",
+         "line": 79,
+         "rawfrom": "Joe.Stepenovitch@enron.com [mailto:Joe.Stepenovitch@enron.com]\n",
+         "source": "email",
+         "to": "jls@fullenweider.com"
+      },
+      {
+         "from": "jls@fullenweider.com",
+         "line": 110,
+         "rawfrom": "  Jonda Stowell <jls@fullenweider.com>@ENRON\n",
+         "source": "email",
+         "to": "Stepenovitch, Joe"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/stepenovitch-j/sent_items/43.",
+   "hops": [
+      {
+         "from": "joe.stepenovitch@enron.com",
+         "line": 4,
+         "rawfrom": "joe.stepenovitch@enron.com\r\n",
+         "source": "valid",
+         "to": "jls@fullenweider.com"
+      },
+      {
+         "from": "jls@fullenweider.com",
+         "line": 28,
+         "rawfrom": "\tJonda Stowell <jls@fullenweider.com>@ENRON [mailto:IMCEANOTES-Jonda+20Stowell+20+3Cjls+40fullenweider+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Stepenovitch, Joe"
+      },
+      {
+         "from": "joe.stepenovitch@enron.com",
+         "line": 45,
+         "rawfrom": "Joe.Stepenovitch@enron.com [mailto:Joe.Stepenovitch@enron.com]\n",
+         "source": "email",
+         "to": "jls@fullenweider.com"
+      },
+      {
+         "from": "jls@fullenweider.com",
+         "line": 66,
+         "rawfrom": "  Jonda Stowell <jls@fullenweider.com>@ENRON\n",
+         "source": "email",
+         "to": "Stepenovitch, Joe"
+      },
+      {
+         "from": "joe.stepenovitch@enron.com",
+         "line": 80,
+         "rawfrom": "Joe.Stepenovitch@enron.com [mailto:Joe.Stepenovitch@enron.com]\n",
+         "source": "email",
+         "to": "jls@fullenweider.com"
+      },
+      {
+         "from": "jls@fullenweider.com",
+         "line": 128,
+         "rawfrom": "  Jonda Stowell <jls@fullenweider.com>@ENRON\n",
+         "source": "email",
+         "to": "Stepenovitch, Joe"
+      },
+      {
+         "from": "joe.stepenovitch@enron.com",
+         "line": 156,
+         "rawfrom": "Joe.Stepenovitch@enron.com [mailto:Joe.Stepenovitch@enron.com]\n",
+         "source": "email",
+         "to": "jls@fullenweider.com"
+      },
+      {
+         "from": "jls@fullenweider.com",
+         "line": 183,
+         "rawfrom": "  Jonda Stowell <jls@fullenweider.com>@ENRON\n",
+         "source": "email",
+         "to": "Stepenovitch, Joe"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/stepenovitch-j/sent_items/42.",
+   "hops": [
+      {
+         "from": "joe.stepenovitch@enron.com",
+         "line": 4,
+         "rawfrom": "joe.stepenovitch@enron.com\r\n",
+         "source": "valid",
+         "to": "jls@fullenweider.com"
+      },
+      {
+         "from": "jls@fullenweider.com",
+         "line": 24,
+         "rawfrom": "\tJonda Stowell <jls@fullenweider.com>@ENRON [mailto:IMCEANOTES-Jonda+20Stowell+20+3Cjls+40fullenweider+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Stepenovitch, Joe"
+      },
+      {
+         "from": "joe.stepenovitch@enron.com",
+         "line": 47,
+         "rawfrom": "Joe.Stepenovitch@enron.com [mailto:Joe.Stepenovitch@enron.com]\n",
+         "source": "email",
+         "to": "jls@fullenweider.com"
+      },
+      {
+         "from": "jls@fullenweider.com",
+         "line": 68,
+         "rawfrom": "  Jonda Stowell <jls@fullenweider.com>@ENRON\n",
+         "source": "email",
+         "to": "Stepenovitch, Joe"
+      },
+      {
+         "from": "joe.stepenovitch@enron.com",
+         "line": 86,
+         "rawfrom": "Joe.Stepenovitch@enron.com [mailto:Joe.Stepenovitch@enron.com]\n",
+         "source": "email",
+         "to": "jls@fullenweider.com"
+      },
+      {
+         "from": "jls@fullenweider.com",
+         "line": 109,
+         "rawfrom": "  Jonda Stowell <jls@fullenweider.com>@ENRON\n",
+         "source": "email",
+         "to": "Stepenovitch, Joe"
+      },
+      {
+         "from": "joe.stepenovitch@enron.com",
+         "line": 123,
+         "rawfrom": "Joe.Stepenovitch@enron.com [mailto:Joe.Stepenovitch@enron.com]\n",
+         "source": "email",
+         "to": "jls@fullenweider.com"
+      },
+      {
+         "from": "jls@fullenweider.com",
+         "line": 177,
+         "rawfrom": "  Jonda Stowell <jls@fullenweider.com>@ENRON\n",
+         "source": "email",
+         "to": "Stepenovitch, Joe"
+      },
+      {
+         "from": "joe.stepenovitch@enron.com",
+         "line": 208,
+         "rawfrom": "Joe.Stepenovitch@enron.com\n",
+         "source": "valid",
+         "to": "jls@fullenweider.com"
+      },
+      {
+         "from": "jls@fullenweider.com",
+         "line": 239,
+         "rawfrom": "  Jonda Stowell <jls@fullenweider.com>@ENRON\n",
+         "source": "email",
+         "to": "Stepenovitch, Joe"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/stepenovitch-j/sent_items/47.",
+   "hops": [
+      {
+         "from": "joe.stepenovitch@enron.com",
+         "line": 4,
+         "rawfrom": "joe.stepenovitch@enron.com\r\n",
+         "source": "valid",
+         "to": "jls@fullenweider.com"
+      },
+      {
+         "from": "jls@fullenweider.com",
+         "line": 32,
+         "rawfrom": "\tJonda Stowell <jls@fullenweider.com>@ENRON [mailto:IMCEANOTES-Jonda+20Stowell+20+3Cjls+40fullenweider+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Stepenovitch, Joe"
+      },
+      {
+         "from": "joe.stepenovitch@enron.com",
+         "line": 53,
+         "rawfrom": "Joe.Stepenovitch@enron.com [mailto:Joe.Stepenovitch@enron.com]\n",
+         "source": "email",
+         "to": "jls@fullenweider.com"
+      },
+      {
+         "from": "jls@fullenweider.com",
+         "line": 74,
+         "rawfrom": "  Jonda Stowell <jls@fullenweider.com>@ENRON\n",
+         "source": "email",
+         "to": "Stepenovitch, Joe"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/stepenovitch-j/discussion_threads/57.",
+   "hops": [
+      {
+         "from": "richard.hrabal@enron.com",
+         "line": 4,
+         "rawfrom": "richard.hrabal@enron.com\r\n",
+         "source": "valid",
+         "to": "joe.stepenovitch@enron.com"
+      },
+      {
+         "from": "rpcarpenter@worldnet.att.net",
+         "line": 46,
+         "rawfrom": "\"Ryan Carpenter\" <rpcarpenter@worldnet.att.net>\n",
+         "source": "email",
+         "to": "\"Matt Mangum\" <mattmangum@hotmail.com>, \"Jason Harvey\""
+      },
+      {
+         "from": "aallen@tpireps.com",
+         "line": 65,
+         "rawfrom": "\"Andy Allen\" <AAllen@tpireps.com>\n",
+         "source": "email",
+         "to": "\"Eric Utsey\" <EricUtsey@aol.com>; \"Casey Goolsby\""
+      },
+      {
+         "from": "rsmith@eaglenewspapers.com",
+         "line": 79,
+         "rawfrom": "\"Smith Ryan\" <RSmith@Eaglenewspapers.com>\n",
+         "source": "email",
+         "to": "\"Andy\" <aallen@tpireps.com>; \"Bob Mabry\" <grmabry@hotmail.com>;"
+      },
+      {
+         "from": "jsimmons@inktomi.com",
+         "line": 99,
+         "rawfrom": "Jim Simmons [mailto:jsimmons@inktomi.com]\n",
+         "source": "email",
+         "to": "Smith Ryan"
+      },
+      {
+         "from": "ptopping@pobox.com",
+         "line": 112,
+         "rawfrom": "Patrick Topping [mailto:ptopping@pobox.com]\n",
+         "source": "email",
+         "to": "Jim Simmons"
+      }
+   ],
+   "skipped": 1
+}
+]

@@ -1,0 +1,337 @@
+[
+{
+   "file": "/home/jb/maildir/donoho-l/inbox/junk_file/552.",
+   "hops": [
+      {
+         "from": "kevin.hyatt@enron.com",
+         "line": 4,
+         "rawfrom": "kevin.hyatt@enron.com\r\n",
+         "source": "valid",
+         "to": "lindy.donoho@enron.com, lorraine.lindberg@enron.com, tk.lohman@enron.com,"
+      },
+      {
+         "from": "mcook@utilicorp.com",
+         "line": 28,
+         "rawfrom": "Cook, Mark [mailto:MCook@utilicorp.com]\n",
+         "source": "email",
+         "to": "Hyatt, Kevin"
+      },
+      {
+         "from": "dlsmith@pplweb.com",
+         "line": 46,
+         "rawfrom": "dlsmith@pplweb.com [mailto:dlsmith@pplweb.com]\n",
+         "source": "email",
+         "to": "KBohne@utilicorp.com"
+      },
+      {
+         "from": "kbohne@utilicorp.com",
+         "line": 80,
+         "rawfrom": "KBohne@utilicorp.com [mailto:KBohne@utilicorp.com]\n",
+         "source": "email",
+         "to": "Smith, David L."
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/donoho-l/inbox/junk_file/380.",
+   "hops": [
+      {
+         "from": "adamsholly@netscape.net",
+         "line": 4,
+         "rawfrom": "adamsholly@netscape.net\r\n",
+         "source": "valid",
+         "to": "elwieger@worldnet.att.net, jpatter@creighton.edu, wtaylor@creighton.edu,"
+      },
+      {
+         "from": "kkincb@home.com",
+         "line": 34,
+         "rawfrom": " <kkincb@home.com>\n",
+         "source": "email",
+         "to": "Donna Barry <abcbarry@marshallnet.com>, Nora Lemm <nlemm@newfld.com>, Lisa Brovold <lisab@creighton.edu>, Sue Creager <buymyjelly@aol.com>, Pattie Dappen <patricia.dappen@tenethealth.com>, Barbi Kealy <texas-kealy@msn.com>, Amelia Irsik <lirsik@aol.com>, Sandy Hough <shough@utilicorp.com>, Holly Adams <adamsholly@netscape.net>, Jennie Schaaf <jennies@novia.net>, Jill Boyko <php4@juno.com>, Julie Pritchard <djpritchard@kscable.com>"
+      },
+      {
+         "from": "lci3@hotmail.com",
+         "line": 42,
+         "rawfrom": "\"Laura Ilg\" <lci3@hotmail.com>\n",
+         "source": "email",
+         "to": "<Anne.Jablonski@ey.com>; <BrandiP@anbank.com>; <dawnque@aol.com>;"
+      },
+      {
+         "from": "kschernicky@myacc.net",
+         "line": 56,
+         "rawfrom": "\"Kelly Chernicky\" <kschernicky@myacc.net>\n",
+         "source": "email",
+         "to": "\"Todd L. Steers\" <golfline@msn.com>, \"The Howe's\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/donoho-l/inbox/108.",
+   "hops": [
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 4,
+         "rawfrom": "david.a.foti@accenture.com\r\n",
+         "source": "valid",
+         "to": "lindy.donoho@enron.com"
+      },
+      {
+         "from": "lindy.donoho@enron.co",
+         "line": 59,
+         "rawfrom": "Lindy.Donoho@enron.co",
+         "source": "valid",
+         "to": "David A. Foti/Internal/Accenture@Accenture"
+      },
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 82,
+         "rawfrom": "david.a.foti@accenture.com [mailto:david.a.foti@accenture.com]\n",
+         "source": "email",
+         "to": "Donoho, Lindy; Harris, Steven"
+      },
+      {
+         "from": "steven.harris@enron.c",
+         "line": 102,
+         "rawfrom": "Steven.Harris@enron.c",
+         "source": "valid",
+         "to": "David A."
+      },
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 128,
+         "rawfrom": "  david.a.foti@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Harris, Steven"
+      },
+      {
+         "from": "steven.harris@enron.c",
+         "line": 296,
+         "rawfrom": "Steven.Harris@enron.c",
+         "source": "valid",
+         "to": "David A."
+      },
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 317,
+         "rawfrom": "  david.a.foti@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Harris, Steven"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/donoho-l/inbox/106.",
+   "hops": [
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 4,
+         "rawfrom": "david.a.foti@accenture.com\r\n",
+         "source": "valid",
+         "to": "lindy.donoho@enron.com, steven.harris@enron.com"
+      },
+      {
+         "from": "steven.harris@enron.c",
+         "line": 31,
+         "rawfrom": "Steven.Harris@enron.c",
+         "source": "valid",
+         "to": "David A. Foti/Internal/Accenture@Accenture"
+      },
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 51,
+         "rawfrom": "  david.a.foti@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Harris, Steven"
+      },
+      {
+         "from": "steven.harris@enron.c",
+         "line": 199,
+         "rawfrom": "Steven.Harris@enron.c",
+         "source": "valid",
+         "to": "David A."
+      },
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 219,
+         "rawfrom": "  david.a.foti@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Harris, Steven"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/donoho-l/inbox/105.",
+   "hops": [
+      {
+         "from": "steven.harris@enron.com",
+         "line": 4,
+         "rawfrom": "steven.harris@enron.com\r\n",
+         "source": "valid",
+         "to": "david.a.foti@accenture.com"
+      },
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 26,
+         "rawfrom": "\tdavid.a.foti@accenture.com@ENRON  \n",
+         "source": "email",
+         "to": "Harris, Steven"
+      },
+      {
+         "from": "steven.harris@enron.c",
+         "line": 157,
+         "rawfrom": "Steven.Harris@enron.c",
+         "source": "valid",
+         "to": "David A. Foti/Internal/Accenture@Accenture"
+      },
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 174,
+         "rawfrom": "  david.a.foti@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Harris, Steven"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/donoho-l/sent_items/191.",
+   "hops": [
+      {
+         "from": "lindy.donoho@enron.com",
+         "line": 4,
+         "rawfrom": "lindy.donoho@enron.com\r\n",
+         "source": "valid",
+         "to": "david.a.foti@accenture.com"
+      },
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 30,
+         "rawfrom": "david.a.foti@accenture.com [mailto:david.a.foti@accenture.com]\n",
+         "source": "email",
+         "to": "Donoho, Lindy; Harris, Steven"
+      },
+      {
+         "from": "steven.harris@enron.c",
+         "line": 48,
+         "rawfrom": "Steven.Harris@enron.c",
+         "source": "valid",
+         "to": "David A. Foti/Internal/Accenture@Accenture"
+      },
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 68,
+         "rawfrom": "  david.a.foti@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Harris, Steven"
+      },
+      {
+         "from": "steven.harris@enron.c",
+         "line": 216,
+         "rawfrom": "Steven.Harris@enron.c",
+         "source": "valid",
+         "to": "David A."
+      },
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 236,
+         "rawfrom": "  david.a.foti@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Harris, Steven"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/donoho-l/sent_items/181.",
+   "hops": [
+      {
+         "from": "lindy.donoho@enron.com",
+         "line": 4,
+         "rawfrom": "lindy.donoho@enron.com\r\n",
+         "source": "valid",
+         "to": "paul.y'barbo@enron.com"
+      },
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 24,
+         "rawfrom": "david.a.foti@accenture.com [mailto:david.a.foti@accenture.com]\n",
+         "source": "email",
+         "to": "Donoho, Lindy; Harris, Steven"
+      },
+      {
+         "from": "steven.harris@enron.c",
+         "line": 42,
+         "rawfrom": "Steven.Harris@enron.c",
+         "source": "valid",
+         "to": "David A. Foti/Internal/Accenture@Accenture"
+      },
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 62,
+         "rawfrom": "  david.a.foti@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Harris, Steven"
+      },
+      {
+         "from": "steven.harris@enron.c",
+         "line": 210,
+         "rawfrom": "Steven.Harris@enron.c",
+         "source": "valid",
+         "to": "David A."
+      },
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 230,
+         "rawfrom": "  david.a.foti@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Harris, Steven"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/donoho-l/sent_items/182.",
+   "hops": [
+      {
+         "from": "lindy.donoho@enron.com",
+         "line": 4,
+         "rawfrom": "lindy.donoho@enron.com\r\n",
+         "source": "valid",
+         "to": "paul.y'barbo@enron.com"
+      },
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 33,
+         "rawfrom": "\tdavid.a.foti@accenture.com@ENRON  \n",
+         "source": "email",
+         "to": "Harris, Steven"
+      },
+      {
+         "from": "steven.harris@enron.c",
+         "line": 164,
+         "rawfrom": "Steven.Harris@enron.c",
+         "source": "valid",
+         "to": "David A. Foti/Internal/Accenture@Accenture"
+      },
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 181,
+         "rawfrom": "  david.a.foti@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Harris, Steven"
+      }
+   ],
+   "skipped": 2
+}
+]

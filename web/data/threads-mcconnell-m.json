@@ -1,0 +1,2178 @@
+[
+{
+   "file": "/home/jb/maildir/mcconnell-m/inbox/27.",
+   "hops": [
+      {
+         "from": "audrey.robertson@enron.com",
+         "line": 4,
+         "rawfrom": "audrey.robertson@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.mcconnell@enron.com"
+      },
+      {
+         "from": "mike.pryor@travelpark.com",
+         "line": 29,
+         "rawfrom": "Mike Pryor [mailto:mike.pryor@travelpark.com]\n",
+         "source": "email",
+         "to": "Robertson, Audrey"
+      },
+      {
+         "from": "audrey.robertson@enron.com",
+         "line": 142,
+         "rawfrom": "Robertson, Audrey [mailto:Audrey.Robertson@ENRON.com]\n",
+         "source": "email",
+         "to": "Mike Pryor"
+      },
+      {
+         "from": "mike.pryor@travelpark.com",
+         "line": 160,
+         "rawfrom": "Mike Pryor [mailto:mike.pryor@travelpark.com]\n",
+         "source": "email",
+         "to": "Robertson, Audrey"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/tw_accounts/aquila/9.",
+   "hops": [
+      {
+         "from": "mark.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mark.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "'thomas@enron.com, nthomas@utilicorp.com"
+      },
+      {
+         "from": "nthomas@utilicorp.com",
+         "line": 26,
+         "rawfrom": "Thomas, Nicholas [mailto:NThomas@UtiliCorp.com]\n",
+         "source": "email",
+         "to": "McConnell, Mark; Leibhart, Shelby; Thomas, Nicholas"
+      },
+      {
+         "from": "mark_mcconnell@enron.net",
+         "line": 41,
+         "rawfrom": "McConnell, Mark [mailto:Mark_mcconnell@enron.net]\n",
+         "source": "email",
+         "to": "Leibhart, Shelby; Thomas, Nicholas"
+      },
+      {
+         "from": "sleibhart@utilicorp.com",
+         "line": 64,
+         "rawfrom": "Leibhart, Shelby [mailto:sleibhart@utilicorp.com]\n",
+         "source": "email",
+         "to": "McConnell, Mark"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/all_documents/956.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "jeffrey.mcmahon@enron.com"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 40,
+         "rawfrom": "Mike.McConnell@enron.com [mailto:Mike.McConnell@enron.com]\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 60,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 07/20/2000 04:05:27 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 105,
+         "rawfrom": "Mike.McConnell@enron.com [mailto:Mike.McConnell@enron.com]\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 128,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 05/17/2000 12:51:47 PM\n",
+         "source": "email",
+         "to": "\"Mike McConnell\" <Mike.Mcconnell@enron.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/all_documents/191.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "hubertart@earthlink.net"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 37,
+         "rawfrom": "\"Greg Hubert\" <hubertart@earthlink.net> on 05/08/2001 05:01:41 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 47,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 78,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 102,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 107,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "Chris Neptune,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/all_documents/739.",
+   "hops": [
+      {
+         "from": "cathy.phillips@enron.com",
+         "line": 4,
+         "rawfrom": "cathy.phillips@enron.com\r\n",
+         "source": "valid",
+         "to": "eric.gonzales@enron.com"
+      },
+      {
+         "from": "mosleyl@epenergy.com",
+         "line": 58,
+         "rawfrom": " \"Mosley, Linda\" <MosleyL@EPEnergy.com>                           \n",
+         "source": "email",
+         "to": "\"'Eric.Gonzales@enron.com'\" <Eric.Gonzales@enron.com>"
+      },
+      {
+         "from": "eric.gonzales@enron.com",
+         "line": 73,
+         "rawfrom": "Eric.Gonzales@enron.com [SMTP:Eric.Gonzales@enron.com]\n",
+         "source": "email",
+         "to": "Mosley, Linda"
+      },
+      {
+         "from": "eric.gonzales@enron.com",
+         "line": 122,
+         "rawfrom": "  Eric.Gonzales@enron.com [SMTP:Eric.Gonzales@enron.com]\n",
+         "source": "email",
+         "to": "Mosley, Linda"
+      },
+      {
+         "from": "eric.gonzales@enron.com",
+         "line": 154,
+         "rawfrom": "  Eric.Gonzales@enron.com [SMTP:Eric.Gonzales@enron.com]\n",
+         "source": "email",
+         "to": "Mosley, Linda"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/all_documents/74.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "mike.mcconnell@enron.com"
+      },
+      {
+         "from": "mr@michaelrosenfeldglry.com",
+         "line": 22,
+         "rawfrom": " \"Michael Rosenfeld\" <mr@michaelrosenfeldglry.com>@ENRON \n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 64,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "mr@michaelrosenfeldglry.com"
+      },
+      {
+         "from": "mr@michaelrosenfeldglry.com",
+         "line": 78,
+         "rawfrom": "  \"Michael Rosenfeld\" <mr@michaelrosenfeldglry.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/all_documents/181.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "hubertart@earthlink.net"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 49,
+         "rawfrom": "\"Greg Hubert\" <hubertart@earthlink.net> on 05/10/2001 11:27:34 AM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 64,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 92,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 102,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 134,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 160,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 165,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "Chris Neptune,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/all_documents/927.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "jjones@jonesenergy.com"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 30,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/07/2000 03:27:44 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 44,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 86,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/02/2000 03:55:19 PM\n",
+         "source": "email",
+         "to": "\"Mike McConnell (E-mail)\" <mike.mcconnell@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/all_documents/211.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "hubertart@earthlink.net"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 38,
+         "rawfrom": "\"Greg Hubert\" <hubertart@earthlink.net> on 05/04/2001 11:05:39 AM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 60,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 65,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "Chris Neptune,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/all_documents/880.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "jjones@jonesenergy.com"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 37,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/18/2000 03:39:29 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 49,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 80,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/10/2000 03:24:24 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 91,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 120,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/07/2000 03:27:44 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 135,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 177,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/02/2000 03:55:19 PM\n",
+         "source": "email",
+         "to": "\"Mike McConnell (E-mail)\" <mike.mcconnell@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/all_documents/909.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "jjones@jonesenergy.com"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 32,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/10/2000 03:24:24 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 43,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 72,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/07/2000 03:27:44 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 87,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 129,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/02/2000 03:55:19 PM\n",
+         "source": "email",
+         "to": "\"Mike McConnell (E-mail)\" <mike.mcconnell@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/all_documents/1016.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 31,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 07/20/2000 04:05:27 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 71,
+         "rawfrom": "Mike.McConnell@enron.com [mailto:Mike.McConnell@enron.com]\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 94,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 05/17/2000 12:51:47 PM\n",
+         "source": "email",
+         "to": "\"Mike McConnell\" <Mike.Mcconnell@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/all_documents/574.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "jjones@jonesenergy.com"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 43,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 11/27/2000 10:45:15 AM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 54,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 90,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 11/27/2000 08:14:05 AM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 115,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/all_documents/477.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "allison_wright@computerworld.com"
+      },
+      {
+         "from": "allison_wright@computerworld.com",
+         "line": 27,
+         "rawfrom": "\"Allison Wright\" <Allison_Wright@computerworld.com> on 01/08/2001 10:05:47 AM\n",
+         "source": "email",
+         "to": "Mike.McConnell@enron.com"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 52,
+         "rawfrom": "Mike.McConnell@enron.com on 01/05/2001 02:55:56 PM\n",
+         "source": "email",
+         "to": "Allison Wright/Computerworld@Computerworld"
+      },
+      {
+         "from": "allison_wright@computerworld.com",
+         "line": 80,
+         "rawfrom": "Allison_Wright@computerworld.com",
+         "source": "valid",
+         "to": "mike.mcconnell@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/all_documents/185.",
+   "hops": [
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 4,
+         "rawfrom": "hubertart@earthlink.net\r\n",
+         "source": "valid",
+         "to": "mike.mcconnell@enron.com"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 28,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 56,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 66,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 98,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 124,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 129,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "Chris Neptune,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/all_documents/903.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "jjones@jonesenergy.com"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 31,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/18/2000 03:39:29 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 43,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 74,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/10/2000 03:24:24 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 85,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 114,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/07/2000 03:27:44 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 129,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 171,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/02/2000 03:55:19 PM\n",
+         "source": "email",
+         "to": "\"Mike McConnell (E-mail)\" <mike.mcconnell@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/sent/493.",
+   "hops": [
+      {
+         "from": "cathy.phillips@enron.com",
+         "line": 4,
+         "rawfrom": "cathy.phillips@enron.com\r\n",
+         "source": "valid",
+         "to": "eric.gonzales@enron.com"
+      },
+      {
+         "from": "mosleyl@epenergy.com",
+         "line": 58,
+         "rawfrom": " \"Mosley, Linda\" <MosleyL@EPEnergy.com>                           \n",
+         "source": "email",
+         "to": "\"'Eric.Gonzales@enron.com'\" <Eric.Gonzales@enron.com>"
+      },
+      {
+         "from": "eric.gonzales@enron.com",
+         "line": 73,
+         "rawfrom": "Eric.Gonzales@enron.com [SMTP:Eric.Gonzales@enron.com]\n",
+         "source": "email",
+         "to": "Mosley, Linda"
+      },
+      {
+         "from": "eric.gonzales@enron.com",
+         "line": 122,
+         "rawfrom": "  Eric.Gonzales@enron.com [SMTP:Eric.Gonzales@enron.com]\n",
+         "source": "email",
+         "to": "Mosley, Linda"
+      },
+      {
+         "from": "eric.gonzales@enron.com",
+         "line": 154,
+         "rawfrom": "  Eric.Gonzales@enron.com [SMTP:Eric.Gonzales@enron.com]\n",
+         "source": "email",
+         "to": "Mosley, Linda"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/sent/612.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "jjones@jonesenergy.com"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 32,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/10/2000 03:24:24 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 43,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 72,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/07/2000 03:27:44 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 87,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 129,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/02/2000 03:55:19 PM\n",
+         "source": "email",
+         "to": "\"Mike McConnell (E-mail)\" <mike.mcconnell@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/sent/362.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "jjones@jonesenergy.com"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 43,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 11/27/2000 10:45:15 AM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 54,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 90,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 11/27/2000 08:14:05 AM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 115,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/sent/590.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "jjones@jonesenergy.com"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 37,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/18/2000 03:39:29 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 49,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 80,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/10/2000 03:24:24 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 91,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 120,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/07/2000 03:27:44 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 135,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 177,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/02/2000 03:55:19 PM\n",
+         "source": "email",
+         "to": "\"Mike McConnell (E-mail)\" <mike.mcconnell@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/sent/656.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "jeffrey.mcmahon@enron.com"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 40,
+         "rawfrom": "Mike.McConnell@enron.com [mailto:Mike.McConnell@enron.com]\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 60,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 07/20/2000 04:05:27 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 105,
+         "rawfrom": "Mike.McConnell@enron.com [mailto:Mike.McConnell@enron.com]\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 128,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 05/17/2000 12:51:47 PM\n",
+         "source": "email",
+         "to": "\"Mike McConnell\" <Mike.Mcconnell@enron.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/sent/81.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "hubertart@earthlink.net"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 38,
+         "rawfrom": "\"Greg Hubert\" <hubertart@earthlink.net> on 05/04/2001 11:05:39 AM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 60,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 65,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "Chris Neptune,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/sent/67.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "hubertart@earthlink.net"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 37,
+         "rawfrom": "\"Greg Hubert\" <hubertart@earthlink.net> on 05/08/2001 05:01:41 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 47,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 78,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 102,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 107,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "Chris Neptune,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/sent/707.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 31,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 07/20/2000 04:05:27 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 71,
+         "rawfrom": "Mike.McConnell@enron.com [mailto:Mike.McConnell@enron.com]\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 94,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 05/17/2000 12:51:47 PM\n",
+         "source": "email",
+         "to": "\"Mike McConnell\" <Mike.Mcconnell@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/sent/606.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "jjones@jonesenergy.com"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 31,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/18/2000 03:39:29 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 43,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 74,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/10/2000 03:24:24 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 85,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 114,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/07/2000 03:27:44 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 129,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 171,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/02/2000 03:55:19 PM\n",
+         "source": "email",
+         "to": "\"Mike McConnell (E-mail)\" <mike.mcconnell@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/sent/629.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "jjones@jonesenergy.com"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 30,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/07/2000 03:27:44 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 44,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 86,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/02/2000 03:55:19 PM\n",
+         "source": "email",
+         "to": "\"Mike McConnell (E-mail)\" <mike.mcconnell@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/sent/294.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "allison_wright@computerworld.com"
+      },
+      {
+         "from": "allison_wright@computerworld.com",
+         "line": 27,
+         "rawfrom": "\"Allison Wright\" <Allison_Wright@computerworld.com> on 01/08/2001 10:05:47 AM\n",
+         "source": "email",
+         "to": "Mike.McConnell@enron.com"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 52,
+         "rawfrom": "Mike.McConnell@enron.com on 01/05/2001 02:55:56 PM\n",
+         "source": "email",
+         "to": "Allison Wright/Computerworld@Computerworld"
+      },
+      {
+         "from": "allison_wright@computerworld.com",
+         "line": 80,
+         "rawfrom": "Allison_Wright@computerworld.com",
+         "source": "valid",
+         "to": "mike.mcconnell@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/sent/63.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "hubertart@earthlink.net"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 49,
+         "rawfrom": "\"Greg Hubert\" <hubertart@earthlink.net> on 05/10/2001 11:27:34 AM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 64,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 92,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 102,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 134,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 160,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 165,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "Chris Neptune,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/notes_inbox/54.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "mike.mcconnell@enron.com"
+      },
+      {
+         "from": "mr@michaelrosenfeldglry.com",
+         "line": 22,
+         "rawfrom": " \"Michael Rosenfeld\" <mr@michaelrosenfeldglry.com>@ENRON \n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 64,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "mr@michaelrosenfeldglry.com"
+      },
+      {
+         "from": "mr@michaelrosenfeldglry.com",
+         "line": 78,
+         "rawfrom": "  \"Michael Rosenfeld\" <mr@michaelrosenfeldglry.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/art/1.",
+   "hops": [
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 4,
+         "rawfrom": "hubertart@earthlink.net\r\n",
+         "source": "valid",
+         "to": "mike.mcconnell@enron.com"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 28,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 56,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 66,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 98,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 124,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 129,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "Chris Neptune,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/deleted_items/37.",
+   "hops": [
+      {
+         "from": "bcarte9@attglobal.net",
+         "line": 4,
+         "rawfrom": "bcarte9@attglobal.net\r\n",
+         "source": "valid",
+         "to": "sergio.barrero@enron.com, william.campbell@enron.com,"
+      },
+      {
+         "from": "acarter265@aol.com",
+         "line": 58,
+         "rawfrom": " <ACarter265@aol.com>\n",
+         "source": "email",
+         "to": "vshorts913@hotmail.com, Sister265@aol.com, Lizsmith21@aol.com, lin4@sprintmail.com, BVLOWE@msn.com, BritishPeach@aol.com, bcarte9@attglobal.net, pl_thompson28@hotmail.com, Hybrid1662@aol.com"
+      },
+      {
+         "from": "rsbw@aol.com",
+         "line": 67,
+         "rawfrom": " <RSBW@aol.com>\n",
+         "source": "email",
+         "to": "ACarter265@aol.com, RSBW@aol.com"
+      },
+      {
+         "from": "bevetal@earthlink.net",
+         "line": 100,
+         "rawfrom": " <bevetal@earthlink.net>\n",
+         "source": "email",
+         "to": "Wengstrom, Beverly <bevetal@earthlink.net>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/sent_items/25.",
+   "hops": [
+      {
+         "from": "mark.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mark.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "paul.y'barbo@enron.com"
+      },
+      {
+         "from": "jjmcconnell@cox-internet.com",
+         "line": 22,
+         "rawfrom": "J. & J. McConnell [mailto:jjmcconnell@cox-internet.com]\n",
+         "source": "email",
+         "to": "McConnell, Mark"
+      },
+      {
+         "from": "tom@cox-internet.com",
+         "line": 31,
+         "rawfrom": "\"Tom A. Thompson, M.T.(ascp)\" <tom@cox-internet.com>\n",
+         "source": "email",
+         "to": "<tat_thompson@yahoo.com>; <joshuayarbrough@aol.com>;"
+      },
+      {
+         "from": "dkthom@rcn.com",
+         "line": 47,
+         "rawfrom": "Ken Thompson <dkthom@rcn.com>\n",
+         "source": "email",
+         "to": "Tom Thompson <tom@cox-internet.com>,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/discussion_threads/538.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "hubertart@earthlink.net"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 49,
+         "rawfrom": "\"Greg Hubert\" <hubertart@earthlink.net> on 05/10/2001 11:27:34 AM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 64,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 92,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 102,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 134,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 160,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 165,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "Chris Neptune,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/discussion_threads/110.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "jeffrey.mcmahon@enron.com"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 40,
+         "rawfrom": "Mike.McConnell@enron.com [mailto:Mike.McConnell@enron.com]\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 60,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 07/20/2000 04:05:27 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 105,
+         "rawfrom": "Mike.McConnell@enron.com [mailto:Mike.McConnell@enron.com]\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 128,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 05/17/2000 12:51:47 PM\n",
+         "source": "email",
+         "to": "\"Mike McConnell\" <Mike.Mcconnell@enron.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/discussion_threads/537.",
+   "hops": [
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 4,
+         "rawfrom": "hubertart@earthlink.net\r\n",
+         "source": "valid",
+         "to": "mike.mcconnell@enron.com"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 28,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 56,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 66,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 98,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 124,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 129,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "Chris Neptune,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/discussion_threads/629.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "mike.mcconnell@enron.com"
+      },
+      {
+         "from": "mr@michaelrosenfeldglry.com",
+         "line": 22,
+         "rawfrom": " \"Michael Rosenfeld\" <mr@michaelrosenfeldglry.com>@ENRON \n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 64,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "mr@michaelrosenfeldglry.com"
+      },
+      {
+         "from": "mr@michaelrosenfeldglry.com",
+         "line": 78,
+         "rawfrom": "  \"Michael Rosenfeld\" <mr@michaelrosenfeldglry.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/_sent_mail/493.",
+   "hops": [
+      {
+         "from": "cathy.phillips@enron.com",
+         "line": 4,
+         "rawfrom": "cathy.phillips@enron.com\r\n",
+         "source": "valid",
+         "to": "eric.gonzales@enron.com"
+      },
+      {
+         "from": "mosleyl@epenergy.com",
+         "line": 58,
+         "rawfrom": " \"Mosley, Linda\" <MosleyL@EPEnergy.com>                           \n",
+         "source": "email",
+         "to": "\"'Eric.Gonzales@enron.com'\" <Eric.Gonzales@enron.com>"
+      },
+      {
+         "from": "eric.gonzales@enron.com",
+         "line": 73,
+         "rawfrom": "Eric.Gonzales@enron.com [SMTP:Eric.Gonzales@enron.com]\n",
+         "source": "email",
+         "to": "Mosley, Linda"
+      },
+      {
+         "from": "eric.gonzales@enron.com",
+         "line": 122,
+         "rawfrom": "  Eric.Gonzales@enron.com [SMTP:Eric.Gonzales@enron.com]\n",
+         "source": "email",
+         "to": "Mosley, Linda"
+      },
+      {
+         "from": "eric.gonzales@enron.com",
+         "line": 154,
+         "rawfrom": "  Eric.Gonzales@enron.com [SMTP:Eric.Gonzales@enron.com]\n",
+         "source": "email",
+         "to": "Mosley, Linda"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/_sent_mail/612.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "jjones@jonesenergy.com"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 32,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/10/2000 03:24:24 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 43,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 72,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/07/2000 03:27:44 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 87,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 129,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/02/2000 03:55:19 PM\n",
+         "source": "email",
+         "to": "\"Mike McConnell (E-mail)\" <mike.mcconnell@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/_sent_mail/361.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "jjones@jonesenergy.com"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 43,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 11/27/2000 10:45:15 AM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 54,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 90,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 11/27/2000 08:14:05 AM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 115,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/_sent_mail/590.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "jjones@jonesenergy.com"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 37,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/18/2000 03:39:29 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 49,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 80,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/10/2000 03:24:24 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 91,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 120,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/07/2000 03:27:44 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 135,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 177,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/02/2000 03:55:19 PM\n",
+         "source": "email",
+         "to": "\"Mike McConnell (E-mail)\" <mike.mcconnell@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/_sent_mail/656.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "jeffrey.mcmahon@enron.com"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 40,
+         "rawfrom": "Mike.McConnell@enron.com [mailto:Mike.McConnell@enron.com]\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 60,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 07/20/2000 04:05:27 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 105,
+         "rawfrom": "Mike.McConnell@enron.com [mailto:Mike.McConnell@enron.com]\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 128,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 05/17/2000 12:51:47 PM\n",
+         "source": "email",
+         "to": "\"Mike McConnell\" <Mike.Mcconnell@enron.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/_sent_mail/80.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "hubertart@earthlink.net"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 38,
+         "rawfrom": "\"Greg Hubert\" <hubertart@earthlink.net> on 05/04/2001 11:05:39 AM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 60,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 65,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "Chris Neptune,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/_sent_mail/62.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "hubertart@earthlink.net"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 49,
+         "rawfrom": "\"Greg Hubert\" <hubertart@earthlink.net> on 05/10/2001 11:27:34 AM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 64,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 92,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 102,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 134,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 160,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 165,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "Chris Neptune,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/_sent_mail/66.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "hubertart@earthlink.net"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 37,
+         "rawfrom": "\"Greg Hubert\" <hubertart@earthlink.net> on 05/08/2001 05:01:41 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 47,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 78,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 102,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<hubertart@earthlink.net>"
+      },
+      {
+         "from": "hubertart@earthlink.net",
+         "line": 107,
+         "rawfrom": "hubertart@earthlink.net",
+         "source": "valid",
+         "to": "Chris Neptune,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/_sent_mail/707.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 31,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 07/20/2000 04:05:27 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 71,
+         "rawfrom": "Mike.McConnell@enron.com [mailto:Mike.McConnell@enron.com]\n",
+         "source": "email",
+         "to": "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from": "bnimocks@zeusdevelopment.com",
+         "line": 94,
+         "rawfrom": "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 05/17/2000 12:51:47 PM\n",
+         "source": "email",
+         "to": "\"Mike McConnell\" <Mike.Mcconnell@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/_sent_mail/606.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "jjones@jonesenergy.com"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 31,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/18/2000 03:39:29 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 43,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 74,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/10/2000 03:24:24 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 85,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 114,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/07/2000 03:27:44 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 129,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 171,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/02/2000 03:55:19 PM\n",
+         "source": "email",
+         "to": "\"Mike McConnell (E-mail)\" <mike.mcconnell@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/_sent_mail/293.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "allison_wright@computerworld.com"
+      },
+      {
+         "from": "allison_wright@computerworld.com",
+         "line": 27,
+         "rawfrom": "\"Allison Wright\" <Allison_Wright@computerworld.com> on 01/08/2001 10:05:47 AM\n",
+         "source": "email",
+         "to": "Mike.McConnell@enron.com"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 52,
+         "rawfrom": "Mike.McConnell@enron.com on 01/05/2001 02:55:56 PM\n",
+         "source": "email",
+         "to": "Allison Wright/Computerworld@Computerworld"
+      },
+      {
+         "from": "allison_wright@computerworld.com",
+         "line": 80,
+         "rawfrom": "Allison_Wright@computerworld.com",
+         "source": "valid",
+         "to": "mike.mcconnell@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/mcconnell-m/_sent_mail/629.",
+   "hops": [
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mike.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "jjones@jonesenergy.com"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 30,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/07/2000 03:27:44 PM\n",
+         "source": "email",
+         "to": "<Mike.McConnell@enron.com>"
+      },
+      {
+         "from": "mike.mcconnell@enron.com",
+         "line": 44,
+         "rawfrom": "<Mike.McConnell@enron.com>\n",
+         "source": "email",
+         "to": "<jjones@jonesenergy.com>"
+      },
+      {
+         "from": "jjones@jonesenergy.com",
+         "line": 86,
+         "rawfrom": "\"Jonny Jones\" <jjones@jonesenergy.com> on 08/02/2000 03:55:19 PM\n",
+         "source": "email",
+         "to": "\"Mike McConnell (E-mail)\" <mike.mcconnell@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+]

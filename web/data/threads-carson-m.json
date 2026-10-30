@@ -1,0 +1,337 @@
+[
+{
+   "file": "/home/jb/maildir/carson-m/inbox/114.",
+   "hops": [
+      {
+         "from": "chris_jackson@txu.com",
+         "line": 4,
+         "rawfrom": "chris_jackson@txu.com\r\n",
+         "source": "valid",
+         "to": "mike.carson@enron.com"
+      },
+      {
+         "from": "mike.carson@enron.com",
+         "line": 26,
+         "rawfrom": "Mike.Carson@enron.com on 08/16/2001 01:41:39 PM\n",
+         "source": "email",
+         "to": "Christopher W Jackson/Trading/Houston/EES/US@TU"
+      },
+      {
+         "from": "chris_jackson@txu.com",
+         "line": 43,
+         "rawfrom": "  \"Chris Jackson\" <Chris_Jackson@txu.com>@ENRON\n",
+         "source": "email",
+         "to": "Carson, Mike"
+      },
+      {
+         "from": "mike.carson@enron.com",
+         "line": 55,
+         "rawfrom": "Mike.Carson@enron.com on 08/15/2001 04:06:31 PM\n",
+         "source": "email",
+         "to": "Christopher W Jackson/Trading/Houston/EES/US@TU"
+      },
+      {
+         "from": "chris_jackson@txu.com",
+         "line": 74,
+         "rawfrom": "  \"Chris Jackson\" <Chris_Jackson@txu.com>@ENRON\n",
+         "source": "email",
+         "to": "Carson, Mike"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/carson-m/inbox/39.",
+   "hops": [
+      {
+         "from": "kristenm@jschmid.com",
+         "line": 4,
+         "rawfrom": "kristenm@jschmid.com\r\n",
+         "source": "valid",
+         "to": "lytle.todd@enron.com, nuss.theresa@enron.com, trollinger.steve@enron.com,"
+      },
+      {
+         "from": "slhester@earthlink.net",
+         "line": 33,
+         "rawfrom": "Stacey <slhester@earthlink.net>\n",
+         "source": "email",
+         "to": "kristenm@jschmid.com <kristenm@jschmid.com>"
+      },
+      {
+         "from": "brettgelman@aol.com",
+         "line": 42,
+         "rawfrom": "Brettgelman@aol.com\n",
+         "source": "valid",
+         "to": "cgelman@earthlink.net, GelBros@aol.com"
+      },
+      {
+         "from": "tevye39@hotmail.com",
+         "line": 54,
+         "rawfrom": "\"noah tevye warner\" <tevye39@hotmail.com>\n",
+         "source": "email",
+         "to": "abigailmecho@hotmail.com, adrianducontra@yahoo.com, ag777@earthlink.net,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/carson-m/sent_items/96.",
+   "hops": [
+      {
+         "from": "mike.carson@enron.com",
+         "line": 4,
+         "rawfrom": "mike.carson@enron.com\r\n",
+         "source": "valid",
+         "to": "wentapb@phoenix-cement.com"
+      },
+      {
+         "from": "wentapb@phoenix-cement.com",
+         "line": 24,
+         "rawfrom": "\t\"Wenta, Phillip\" <WentaPB@phoenix-cement.com>@ENRON [mailto:IMCEANOTES-+22Wenta+2C+20Phillip+22+20+3CWentaPB+40phoenix-cement+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Carson, Mike"
+      },
+      {
+         "from": "mike.carson@enron.com",
+         "line": 42,
+         "rawfrom": "\tMike.Carson@enron.com [mailto:Mike.Carson@enron.com]\n",
+         "source": "email",
+         "to": "Wenta, Phillip"
+      },
+      {
+         "from": "wentapb@phoenix-cement.com",
+         "line": 56,
+         "rawfrom": "  \"Wenta, Phillip\" <WentaPB@phoenix-cement.com>@ENRON\n",
+         "source": "email",
+         "to": "Carson, Mike"
+      },
+      {
+         "from": "mike.carson@enron.com",
+         "line": 72,
+         "rawfrom": "  Mike.Carson@enron.com [mailto:Mike.Carson@enron.com]\n",
+         "source": "email",
+         "to": "Wenta, Phillip"
+      },
+      {
+         "from": "wentapb@phoenix-cement.com",
+         "line": 93,
+         "rawfrom": "  \"Wenta, Phillip\" <WentaPB@phoenix-cement.com>@ENRON\n",
+         "source": "email",
+         "to": "Carson, Mike"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/carson-m/sent_items/59.",
+   "hops": [
+      {
+         "from": "mike.carson@enron.com",
+         "line": 4,
+         "rawfrom": "mike.carson@enron.com\r\n",
+         "source": "valid",
+         "to": "tpape@satake-usa.com"
+      },
+      {
+         "from": "tpape@satake-usa.com",
+         "line": 24,
+         "rawfrom": "\t\"Pape, Travis\" <tpape@satake-usa.com>@ENRON [mailto:IMCEANOTES-+22Pape+2C+20Travis+22+20+3Ctpape+40satake-usa+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Carson, Mike"
+      },
+      {
+         "from": "mike.carson@enron.com",
+         "line": 34,
+         "rawfrom": "Mike.Carson@enron.com [mailto:Mike.Carson@enron.com]\n",
+         "source": "email",
+         "to": "tpape@satake-usa.com"
+      },
+      {
+         "from": "tpape@satake-usa.com",
+         "line": 83,
+         "rawfrom": "  \"Pape, Travis\" <tpape@satake-usa.com>@ENRON\n",
+         "source": "email",
+         "to": "Carson, Mike"
+      },
+      {
+         "from": "mike.carson@enron.com",
+         "line": 91,
+         "rawfrom": "Carson, Mike [mailto:Mike.Carson@ENRON.com]\n",
+         "source": "email",
+         "to": "Trpape@aol.com; tpape@satake-usa.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/carson-m/sent_items/97.",
+   "hops": [
+      {
+         "from": "mike.carson@enron.com",
+         "line": 4,
+         "rawfrom": "mike.carson@enron.com\r\n",
+         "source": "valid",
+         "to": "wentapb@phoenix-cement.com"
+      },
+      {
+         "from": "wentapb@phoenix-cement.com",
+         "line": 25,
+         "rawfrom": "\t\"Wenta, Phillip\" <WentaPB@phoenix-cement.com>@ENRON [mailto:IMCEANOTES-+22Wenta+2C+20Phillip+22+20+3CWentaPB+40phoenix-cement+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Carson, Mike"
+      },
+      {
+         "from": "mike.carson@enron.com",
+         "line": 43,
+         "rawfrom": "\tMike.Carson@enron.com [mailto:Mike.Carson@enron.com]\n",
+         "source": "email",
+         "to": "Wenta, Phillip"
+      },
+      {
+         "from": "wentapb@phoenix-cement.com",
+         "line": 60,
+         "rawfrom": "  \"Wenta, Phillip\" <WentaPB@phoenix-cement.com>@ENRON\n",
+         "source": "email",
+         "to": "Carson, Mike"
+      },
+      {
+         "from": "mike.carson@enron.com",
+         "line": 79,
+         "rawfrom": "  Mike.Carson@enron.com [mailto:Mike.Carson@enron.com]\n",
+         "source": "email",
+         "to": "Wenta, Phillip"
+      },
+      {
+         "from": "wentapb@phoenix-cement.com",
+         "line": 95,
+         "rawfrom": "  \"Wenta, Phillip\" <WentaPB@phoenix-cement.com>@ENRON\n",
+         "source": "email",
+         "to": "Carson, Mike"
+      },
+      {
+         "from": "mike.carson@enron.com",
+         "line": 112,
+         "rawfrom": "  Mike.Carson@enron.com [mailto:Mike.Carson@enron.com]\n",
+         "source": "email",
+         "to": "Wenta, Phillip"
+      },
+      {
+         "from": "wentapb@phoenix-cement.com",
+         "line": 136,
+         "rawfrom": "  \"Wenta, Phillip\" <WentaPB@phoenix-cement.com>@ENRON\n",
+         "source": "email",
+         "to": "Carson, Mike"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/carson-m/sent_items/99.",
+   "hops": [
+      {
+         "from": "mike.carson@enron.com",
+         "line": 4,
+         "rawfrom": "mike.carson@enron.com\r\n",
+         "source": "valid",
+         "to": "chris_jackson@txu.com"
+      },
+      {
+         "from": "chris_jackson@txu.com",
+         "line": 22,
+         "rawfrom": "\t\"Chris Jackson\" <Chris_Jackson@txu.com>@ENRON [mailto:IMCEANOTES-+22Chris+20Jackson+22+20+3CChris+5FJackson+40txu+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Carson, Mike"
+      },
+      {
+         "from": "mike.carson@enron.com",
+         "line": 34,
+         "rawfrom": "Mike.Carson@enron.com on 08/15/2001 04:06:31 PM\n",
+         "source": "email",
+         "to": "Christopher W Jackson/Trading/Houston/EES/US@TU"
+      },
+      {
+         "from": "chris_jackson@txu.com",
+         "line": 51,
+         "rawfrom": "  \"Chris Jackson\" <Chris_Jackson@txu.com>@ENRON\n",
+         "source": "email",
+         "to": "Carson, Mike"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/carson-m/sent_items/106.",
+   "hops": [
+      {
+         "from": "mike.carson@enron.com",
+         "line": 4,
+         "rawfrom": "mike.carson@enron.com\r\n",
+         "source": "valid",
+         "to": "ken.merideth@entergykoch.com"
+      },
+      {
+         "from": "migeorge@deloitte.ca",
+         "line": 30,
+         "rawfrom": "\t\"George, Mike (CA - Calgary)\" <migeorge@deloitte.ca>@ENRON [mailto:IMCEANOTES-+22George+2C+20Mike+20+28CA+20-+20Calgary+29+22+20+3Cmigeorge+40deloitte+2Eca+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Dorland, Chris"
+      },
+      {
+         "from": "jschoenhals@cicorp.sk.ca",
+         "line": 38,
+         "rawfrom": "Schoenhals, Jeff CIC  [mailto:JSchoenhals@cicorp.sk.ca]\n",
+         "source": "email",
+         "to": "'George, Mike (CA - Calgary)'"
+      },
+      {
+         "from": "migeorge@deloitte.ca",
+         "line": 44,
+         "rawfrom": "George, Mike (CA - Calgary)  [mailto:migeorge@deloitte.ca]\n",
+         "source": "email",
+         "to": "'Schoenhals, Jeff CIC'"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/carson-m/sent_items/95.",
+   "hops": [
+      {
+         "from": "mike.carson@enron.com",
+         "line": 4,
+         "rawfrom": "mike.carson@enron.com\r\n",
+         "source": "valid",
+         "to": "wentapb@phoenix-cement.com"
+      },
+      {
+         "from": "wentapb@phoenix-cement.com",
+         "line": 22,
+         "rawfrom": "\t\"Wenta, Phillip\" <WentaPB@phoenix-cement.com>@ENRON [mailto:IMCEANOTES-+22Wenta+2C+20Phillip+22+20+3CWentaPB+40phoenix-cement+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Carson, Mike"
+      },
+      {
+         "from": "mike.carson@enron.com",
+         "line": 37,
+         "rawfrom": "\tMike.Carson@enron.com [mailto:Mike.Carson@enron.com]\n",
+         "source": "email",
+         "to": "Wenta, Phillip"
+      },
+      {
+         "from": "wentapb@phoenix-cement.com",
+         "line": 55,
+         "rawfrom": "  \"Wenta, Phillip\" <WentaPB@phoenix-cement.com>@ENRON\n",
+         "source": "email",
+         "to": "Carson, Mike"
+      }
+   ],
+   "skipped": 0
+}
+]

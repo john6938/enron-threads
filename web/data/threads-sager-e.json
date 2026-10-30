@@ -1,0 +1,1149 @@
+[
+{
+   "file": "/home/jb/maildir/sager-e/inbox/809.",
+   "hops": [
+      {
+         "from": "abrock@poloralphlauren.com",
+         "line": 4,
+         "rawfrom": "abrock@poloralphlauren.com\r\n",
+         "source": "valid",
+         "to": "elizabeth.sager@enron.com"
+      },
+      {
+         "from": "elizabeth.sager@enron.com",
+         "line": 22,
+         "rawfrom": "  Elizabeth.Sager@enron.com [SMTP:Elizabeth.Sager@enron.com] \n",
+         "source": "email",
+         "to": "Brock, Alex"
+      },
+      {
+         "from": "abrock@poloralphlauren.com",
+         "line": 33,
+         "rawfrom": "  \"Brock, Alex\" <abrock@PoloRalphLauren.com>@ENRON \n",
+         "source": "email",
+         "to": "Sager, Elizabeth"
+      },
+      {
+         "from": "elizabeth.sager@enron.com",
+         "line": 41,
+         "rawfrom": "  Elizabeth.Sager@enron.com [SMTP:Elizabeth.Sager@enron.com] \n",
+         "source": "email",
+         "to": "Brock, Alex"
+      },
+      {
+         "from": "abrock@poloralphlauren.com",
+         "line": 61,
+         "rawfrom": "  \"Brock, Alex\" <abrock@PoloRalphLauren.com>@ENRON \n",
+         "source": "email",
+         "to": "'Barbara Dury'; 'caroline brock'; 'brian'; 'charlie';"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/inbox/819.",
+   "hops": [
+      {
+         "from": "christian.yoder@enron.com",
+         "line": 4,
+         "rawfrom": "christian.yoder@enron.com\r\n",
+         "source": "valid",
+         "to": "'boose@enron.com, jrboose@stoel.com"
+      },
+      {
+         "from": "jrboose@stoel.com",
+         "line": 24,
+         "rawfrom": "Boose, Justin [mailto:JRBOOSE@STOEL.COM]\n",
+         "source": "email",
+         "to": "Yoder, Christian"
+      },
+      {
+         "from": "christian.yoder@enron.com",
+         "line": 34,
+         "rawfrom": "Yoder, Christian [mailto:Christian.Yoder@ENRON.com]\n",
+         "source": "email",
+         "to": "Boose, Justin; Foster, Chris H."
+      },
+      {
+         "from": "jrboose@stoel.com",
+         "line": 46,
+         "rawfrom": "Boose, Justin [mailto:JRBOOSE@stoel.com]\n",
+         "source": "email",
+         "to": "Foster, Chris H."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/inbox/421.",
+   "hops": [
+      {
+         "from": "garbuttd@national-citymortgage.com",
+         "line": 4,
+         "rawfrom": "garbuttd@national-citymortgage.com\r\n",
+         "source": "valid",
+         "to": "info@houstonheights.org, hebert@enron.com, trent.a.hebert1@jsc.nasa.gov,"
+      },
+      {
+         "from": "bobpearson@pdq.net",
+         "line": 136,
+         "rawfrom": "Bob Pearson [mailto:bobpearson@pdq.net]\n",
+         "source": "email",
+         "to": "info@houstonheights.org; HEBERT, TRENT A. (JSC-CB);"
+      },
+      {
+         "from": "melissa.hatcher@wbr.com",
+         "line": 185,
+         "rawfrom": "\"Hatcher, Melissa\" <Melissa.Hatcher@WBR.com>\n",
+         "source": "email",
+         "to": "<trent.a.hebert1@jsc.nasa.gov>; <info@houstonheights.org>;"
+      },
+      {
+         "from": "dmarkey@pdq.net",
+         "line": 322,
+         "rawfrom": "Debbie Markey [mailto:dmarkey@pdq.net]\n",
+         "source": "email",
+         "to": "announcements@houstonheights.org"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/inbox/97.",
+   "hops": [
+      {
+         "from": "steve.ellis@gs.com",
+         "line": 4,
+         "rawfrom": "steve.ellis@gs.com\r\n",
+         "source": "valid",
+         "to": "scarey@isda.org, bunkin@enron.com, steven.bunkin@gs.com,"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 39,
+         "rawfrom": "Stacy Carey [mailto:SCAREY@ISDA.ORG]\n",
+         "source": "email",
+         "to": "Bunkin, Steven"
+      },
+      {
+         "from": "amy.siedenburg@gs.com",
+         "line": 71,
+         "rawfrom": "Siedenburg, Amy [mailto:amy.siedenburg@gs.com]\n",
+         "source": "email",
+         "to": "'Stacy Carey'"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 90,
+         "rawfrom": "Stacy Carey [mailto:SCAREY@ISDA.ORG]\n",
+         "source": "email",
+         "to": "Amy Siedenburg"
+      },
+      {
+         "from": "amy.siedenburg@gs.com",
+         "line": 102,
+         "rawfrom": "Siedenburg, Amy [mailto:amy.siedenburg@gs.com]\n",
+         "source": "email",
+         "to": "'Stacy Carey'"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 113,
+         "rawfrom": "Stacy Carey [mailto:SCAREY@ISDA.ORG]\n",
+         "source": "email",
+         "to": "Bob Mancini; Amy Siedenburg"
+      },
+      {
+         "from": "robert.mancini@gs.com",
+         "line": 124,
+         "rawfrom": "Mancini, Robert [mailto:robert.mancini@gs.com]\n",
+         "source": "email",
+         "to": "'amy.siedenburg@gs.com'"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 137,
+         "rawfrom": "Stacy Carey <SCAREY@ISDA.ORG>\n",
+         "source": "email",
+         "to": "Bob Mancini <robert.mancini@gs.com>; 'STEVEN BUNKIN'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/inbox/853.",
+   "hops": [
+      {
+         "from": "christian.yoder@enron.com",
+         "line": 4,
+         "rawfrom": "christian.yoder@enron.com\r\n",
+         "source": "valid",
+         "to": "elizabeth.sager@enron.com"
+      },
+      {
+         "from": "jeremy.weinstein@pacificorp.com",
+         "line": 37,
+         "rawfrom": "Jeremy D. Weinstein [mailto:jeremy.weinstein@pacificorp.com]\n",
+         "source": "email",
+         "to": "Russo, Dianne H; cyoder@enron.com; esager@enron.com; Stack, Shari;"
+      },
+      {
+         "from": "christian.yoder@enron.com",
+         "line": 89,
+         "rawfrom": "\"Yoder, Christian\" <Christian.Yoder@enron.com>\n",
+         "source": "email",
+         "to": "\"Stack, Shari\" <SStack@reliant.com>; <esager@enron.com>;"
+      },
+      {
+         "from": "sstack@reliant.com",
+         "line": 141,
+         "rawfrom": "Stack, Shari [mailto:SStack@reliant.com]\n",
+         "source": "email",
+         "to": "esager@enron.com; cyoder@enron.com; Russo, Dianne H;"
+      },
+      {
+         "from": "howard@wrightlaw.com",
+         "line": 182,
+         "rawfrom": "WINNIE HOWARD [mailto:HOWARD@wrightlaw.com]\n",
+         "source": "email",
+         "to": "Russo, Dianne; Stack, Shari"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/inbox/829.",
+   "hops": [
+      {
+         "from": "carol.st.@enron.com",
+         "line": 4,
+         "rawfrom": "carol.st.@enron.com\r\n",
+         "source": "valid",
+         "to": "elizabeth.sager@enron.com, legal <.taylor@enron.com>"
+      },
+      {
+         "from": "simon.firth@linklaters.com",
+         "line": 43,
+         "rawfrom": "\t\"Firth, Simon N\" <simon.firth@Linklaters.com>@ENRON  \n",
+         "source": "email",
+         "to": "Saxena, Rahul; Firth, Simon N"
+      },
+      {
+         "from": "rahul.saxena@enron.com",
+         "line": 94,
+         "rawfrom": "Saxena, Rahul [mailto:rahul.saxena@enron.com]\n",
+         "source": "email",
+         "to": "simon.firth@linklaters.com"
+      },
+      {
+         "from": "steven.bunkin@gs.com",
+         "line": 137,
+         "rawfrom": "\t\"Bunkin, Steven\" <steven.bunkin@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "St. Clair, Carol; Heard, Marie"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/inbox/87.",
+   "hops": [
+      {
+         "from": "amy.siedenburg@gs.com",
+         "line": 4,
+         "rawfrom": "amy.siedenburg@gs.com\r\n",
+         "source": "valid",
+         "to": "ellis@enron.com, steve.ellis@gs.com, scarey@isda.org, bunkin@enron.com,"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 52,
+         "rawfrom": "Stacy Carey [mailto:SCAREY@ISDA.ORG]\n",
+         "source": "email",
+         "to": "Bunkin, Steven"
+      },
+      {
+         "from": "amy.siedenburg@gs.com",
+         "line": 85,
+         "rawfrom": "Siedenburg, Amy [mailto:amy.siedenburg@gs.com]\n",
+         "source": "email",
+         "to": "'Stacy Carey'"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 105,
+         "rawfrom": "Stacy Carey [mailto:SCAREY@ISDA.ORG]\n",
+         "source": "email",
+         "to": "Amy Siedenburg"
+      },
+      {
+         "from": "amy.siedenburg@gs.com",
+         "line": 117,
+         "rawfrom": "Siedenburg, Amy [mailto:amy.siedenburg@gs.com]\n",
+         "source": "email",
+         "to": "'Stacy Carey'"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 128,
+         "rawfrom": "Stacy Carey [mailto:SCAREY@ISDA.ORG]\n",
+         "source": "email",
+         "to": "Bob Mancini; Amy Siedenburg"
+      },
+      {
+         "from": "robert.mancini@gs.com",
+         "line": 139,
+         "rawfrom": "Mancini, Robert [mailto:robert.mancini@gs.com]\n",
+         "source": "email",
+         "to": "'amy.siedenburg@gs.com'"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 152,
+         "rawfrom": "Stacy Carey <SCAREY@ISDA.ORG>\n",
+         "source": "email",
+         "to": "Bob Mancini <robert.mancini@gs.com>; 'STEVEN BUNKIN'"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/inbox/98.",
+   "hops": [
+      {
+         "from": "scarey@isda.org",
+         "line": 4,
+         "rawfrom": "scarey@isda.org\r\n",
+         "source": "valid",
+         "to": "amy.siedenburg@gs.com, ellis@enron.com, steve.ellis@gs.com,"
+      },
+      {
+         "from": "amy.siedenburg@gs.com",
+         "line": 50,
+         "rawfrom": "Siedenburg, Amy [mailto:amy.siedenburg@gs.com]\n",
+         "source": "email",
+         "to": "'Stacy Carey'"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 69,
+         "rawfrom": "Stacy Carey [mailto:SCAREY@ISDA.ORG]\n",
+         "source": "email",
+         "to": "Amy Siedenburg"
+      },
+      {
+         "from": "amy.siedenburg@gs.com",
+         "line": 81,
+         "rawfrom": "Siedenburg, Amy [mailto:amy.siedenburg@gs.com]\n",
+         "source": "email",
+         "to": "'Stacy Carey'"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 92,
+         "rawfrom": "Stacy Carey [mailto:SCAREY@ISDA.ORG]\n",
+         "source": "email",
+         "to": "Bob Mancini; Amy Siedenburg"
+      },
+      {
+         "from": "robert.mancini@gs.com",
+         "line": 103,
+         "rawfrom": "Mancini, Robert [mailto:robert.mancini@gs.com]\n",
+         "source": "email",
+         "to": "'amy.siedenburg@gs.com'"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 116,
+         "rawfrom": "Stacy Carey <SCAREY@ISDA.ORG>\n",
+         "source": "email",
+         "to": "Bob Mancini <robert.mancini@gs.com>; 'STEVEN BUNKIN'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/all_documents/3069.",
+   "hops": [
+      {
+         "from": "jklauber@llgm.com",
+         "line": 4,
+         "rawfrom": "jklauber@llgm.com\r\n",
+         "source": "valid",
+         "to": "elizabeth.sager@enron.com, michael.tribolet@enron.com"
+      },
+      {
+         "from": "stephen.johnson2@usdoj.gov",
+         "line": 62,
+         "rawfrom": "\"Johnson, Stephen\" <Stephen.Johnson2@usdoj.gov>\n",
+         "source": "email",
+         "to": "\"'BENNETT G. YOUNG'\" <byoung@LLGM.COM>"
+      },
+      {
+         "from": "byoung@llgm.com",
+         "line": 80,
+         "rawfrom": "BENNETT G. YOUNG [mailto:byoung@LLGM.COM]\n",
+         "source": "email",
+         "to": "Johnson, Stephen"
+      },
+      {
+         "from": "byoung@llgm.com",
+         "line": 104,
+         "rawfrom": "BENNETT G. YOUNG [mailto:BYOUNG@LLGM.COM]\n",
+         "source": "email",
+         "to": "Johnson, Stephen"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/all_documents/377.",
+   "hops": [
+      {
+         "from": "elizabeth.sager@enron.com",
+         "line": 4,
+         "rawfrom": "elizabeth.sager@enron.com\r\n",
+         "source": "valid",
+         "to": "tracy.ngo@enron.com"
+      },
+      {
+         "from": "jcpaine@stoel.com",
+         "line": 31,
+         "rawfrom": "\"James Paine\" <JCPAINE@stoel.com>\n",
+         "source": "email",
+         "to": "PGBOYLSTON@stoel.com"
+      },
+      {
+         "from": "kevin.lynch@pacificorp.com",
+         "line": 52,
+         "rawfrom": "\"Lynch, Kevin\" <Kevin.Lynch@PacifiCorp.com>\n",
+         "source": "email",
+         "to": "\"Paine, James (Stoel)\" <jcpaine@stoel.com>"
+      },
+      {
+         "from": "njenks@eei.org",
+         "line": 66,
+         "rawfrom": "Norman Jenks [mailto:NJenks@eei.org]\n",
+         "source": "email",
+         "to": "State Restructuring Service Members List Serve"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/all_documents/855.",
+   "hops": [
+      {
+         "from": "elizabeth.sager@enron.com",
+         "line": 4,
+         "rawfrom": "elizabeth.sager@enron.com\r\n",
+         "source": "valid",
+         "to": "harlan.murphy@enron.com"
+      },
+      {
+         "from": "jeremy.weinstein@pacificorp.com",
+         "line": 73,
+         "rawfrom": " \"Jeremy D. Weinstein\" <jeremy.weinstein@pacificorp.com>@ENRON \n",
+         "source": "email",
+         "to": "Klein, Mark"
+      },
+      {
+         "from": "mark.klein@pacificorp.com",
+         "line": 90,
+         "rawfrom": " Klein, Mark <Mark.Klein@PacifiCorp.com << File: \n",
+         "source": "email",
+         "to": "Weinstein, Jeremy <Jeremy.Weinstein@PacifiCorp.com << File:"
+      },
+      {
+         "from": "sanjeev.khanna@enron.com",
+         "line": 105,
+         "rawfrom": "Khanna,  Sanjeev [mailto:Sanjeev.Khanna@enron.com << File: \n",
+         "source": "email",
+         "to": "Mark Klein (E-mail)"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/all_documents/363.",
+   "hops": [
+      {
+         "from": "catsag@aol.com",
+         "line": 4,
+         "rawfrom": "catsag@aol.com\r\n",
+         "source": "valid",
+         "to": "elizabeth.sager@enron.com"
+      },
+      {
+         "from": "abrock@poloralphlauren.com",
+         "line": 31,
+         "rawfrom": "\"Brock, Alex\" <abrock@PoloRalphLauren.com>\n",
+         "source": "email",
+         "to": "\"Brown, Donald\" <dbrown@PoloRalphLauren.com>,        \"'Nina'\""
+      },
+      {
+         "from": "swu@lucidtechnologies.com",
+         "line": 61,
+         "rawfrom": "Steven Wu Kuo [SMTP:swu@lucidtechnologies.com]\n",
+         "source": "email",
+         "to": "Jenny Wu (E-mail); Michael Kuo (E-mail); Michael Wu (E-mail);"
+      },
+      {
+         "from": "ecarpio@lucidtechnologies.com",
+         "line": 70,
+         "rawfrom": "Esmeraldo C. Carpio [mailto:ecarpio@lucidtechnologies.com]\n",
+         "source": "email",
+         "to": "group@lucidtechnologies.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/all_documents/186.",
+   "hops": [
+      {
+         "from": "elizabeth.sager@enron.com",
+         "line": 4,
+         "rawfrom": "elizabeth.sager@enron.com\r\n",
+         "source": "valid",
+         "to": "drusso@reliantenergy.com"
+      },
+      {
+         "from": "drusso@reliantenergy.com",
+         "line": 33,
+         "rawfrom": "drusso@reliantenergy.com\n",
+         "source": "valid",
+         "to": "\"Pooya, Babak\" <Babak.Pooya@SouthernEnergy.Com>"
+      },
+      {
+         "from": "babak.pooya@southernenergy.com",
+         "line": 52,
+         "rawfrom": "\"Pooya, Babak\" <Babak.Pooya@SouthernEnergy.Com> on 10/27/2000 03:04:52 PM\n",
+         "source": "email",
+         "to": "\"'Andy Katz'\" <AKatz@eei.org>, fmdutton@aep.com, hemu@dynegy.com,"
+      },
+      {
+         "from": "akatz@eei.org",
+         "line": 107,
+         "rawfrom": "Andy Katz [mailto:AKatz@eei.org]\n",
+         "source": "email",
+         "to": "fmdutton@aep.com; hemu@dynegy.com; elizabeth.sager@enron.com;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/all_documents/3218.",
+   "hops": [
+      {
+         "from": "michael.tribolet@enron.com",
+         "line": 4,
+         "rawfrom": "michael.tribolet@enron.com\r\n",
+         "source": "valid",
+         "to": "elizabeth.sager@enron.com, lisa.mellencamp@enron.com"
+      },
+      {
+         "from": "lcw4@pge.com",
+         "line": 23,
+         "rawfrom": " \"Witalis, Lawrence (Law)\" <LCW4@pge.com>@ENRON \n",
+         "source": "email",
+         "to": "Tribolet, Michael"
+      },
+      {
+         "from": "michael.tribolet@enron.com",
+         "line": 34,
+         "rawfrom": " Michael.Tribolet@enron.com[SMTP:Michael.Tribolet@enron.com]\n",
+         "source": "email",
+         "to": "LCW4@pge.com"
+      },
+      {
+         "from": "lcw4@pge.com",
+         "line": 296,
+         "rawfrom": "  \"Witalis, Lawrence (Law)\" <LCW4@pge.com>@ENRON\n",
+         "source": "email",
+         "to": "Witalis, Lawrence (Law); Sager, Elizabeth"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/all_documents/561.",
+   "hops": [
+      {
+         "from": "elizabeth.sager@enron.com",
+         "line": 4,
+         "rawfrom": "elizabeth.sager@enron.com\r\n",
+         "source": "valid",
+         "to": "steve.hall@enron.com, christian.yoder@enron.com"
+      },
+      {
+         "from": "gfhull@bpa.gov",
+         "line": 41,
+         "rawfrom": "Hull Gerit F - LP <gfhull@bpa.gov>\n",
+         "source": "email",
+         "to": "\"'Andy Katz'\" <AKatz@eei.org>"
+      },
+      {
+         "from": "akatz@eei.org",
+         "line": 64,
+         "rawfrom": "Andy Katz [mailto:AKatz@eei.org]\n",
+         "source": "email",
+         "to": "gfhull@bpa.gov"
+      },
+      {
+         "from": "akatz@eei.org",
+         "line": 100,
+         "rawfrom": "Andy Katz [mailto:AKatz@eei.org]\n",
+         "source": "email",
+         "to": "gfhull@bpa.gov"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/all_documents/3132.",
+   "hops": [
+      {
+         "from": "steve.hall@enron.com",
+         "line": 4,
+         "rawfrom": "steve.hall@enron.com\r\n",
+         "source": "valid",
+         "to": "christian.yoder@enron.com, elizabeth.sager@enron.com"
+      },
+      {
+         "from": "gfhull@bpa.gov",
+         "line": 68,
+         "rawfrom": "Hull Gerit F - LP <gfhull@bpa.gov>\n",
+         "source": "email",
+         "to": "\"'Andy Katz'\" <AKatz@eei.org>"
+      },
+      {
+         "from": "akatz@eei.org",
+         "line": 91,
+         "rawfrom": "Andy Katz [mailto:AKatz@eei.org]\n",
+         "source": "email",
+         "to": "gfhull@bpa.gov"
+      },
+      {
+         "from": "akatz@eei.org",
+         "line": 127,
+         "rawfrom": "Andy Katz [mailto:AKatz@eei.org]\n",
+         "source": "email",
+         "to": "gfhull@bpa.gov"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/all_documents/376.",
+   "hops": [
+      {
+         "from": "elizabeth.sager@enron.com",
+         "line": 4,
+         "rawfrom": "elizabeth.sager@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.haedicke@enron.com, richard.sanders@enron.com,"
+      },
+      {
+         "from": "jcpaine@stoel.com",
+         "line": 32,
+         "rawfrom": "\"James Paine\" <JCPAINE@stoel.com>\n",
+         "source": "email",
+         "to": "PGBOYLSTON@stoel.com"
+      },
+      {
+         "from": "kevin.lynch@pacificorp.com",
+         "line": 53,
+         "rawfrom": "\"Lynch, Kevin\" <Kevin.Lynch@PacifiCorp.com>\n",
+         "source": "email",
+         "to": "\"Paine, James (Stoel)\" <jcpaine@stoel.com>"
+      },
+      {
+         "from": "njenks@eei.org",
+         "line": 67,
+         "rawfrom": "Norman Jenks [mailto:NJenks@eei.org]\n",
+         "source": "email",
+         "to": "State Restructuring Service Members List Serve"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/all_documents/1971.",
+   "hops": [
+      {
+         "from": "wfhenze@jonesday.com",
+         "line": 4,
+         "rawfrom": "wfhenze@jonesday.com\r\n",
+         "source": "valid",
+         "to": "akatz@eei.org"
+      },
+      {
+         "from": "akatz@eei.org",
+         "line": 38,
+         "rawfrom": "AKatz@eei.org",
+         "source": "valid",
+         "to": "<lrgroff@aep.com>"
+      },
+      {
+         "from": "mroger3@entergy.com",
+         "line": 80,
+         "rawfrom": "\"Rogers, Marty J\" <mroger3@entergy.com> on 12/05/2000 05:02:26 PM\n",
+         "source": "email",
+         "to": "\"'lrgroff@aep.com'\" <lrgroff@aep.com>, Akatz@eei.org"
+      },
+      {
+         "from": "lrgroff@aep.com",
+         "line": 102,
+         "rawfrom": "  lrgroff@aep.com [SMTP:lrgroff@aep.com]\n",
+         "source": "email",
+         "to": "Akatz@eei.org"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/sent/354.",
+   "hops": [
+      {
+         "from": "elizabeth.sager@enron.com",
+         "line": 4,
+         "rawfrom": "elizabeth.sager@enron.com\r\n",
+         "source": "valid",
+         "to": "tracy.ngo@enron.com"
+      },
+      {
+         "from": "jcpaine@stoel.com",
+         "line": 31,
+         "rawfrom": "\"James Paine\" <JCPAINE@stoel.com>\n",
+         "source": "email",
+         "to": "PGBOYLSTON@stoel.com"
+      },
+      {
+         "from": "kevin.lynch@pacificorp.com",
+         "line": 52,
+         "rawfrom": "\"Lynch, Kevin\" <Kevin.Lynch@PacifiCorp.com>\n",
+         "source": "email",
+         "to": "\"Paine, James (Stoel)\" <jcpaine@stoel.com>"
+      },
+      {
+         "from": "njenks@eei.org",
+         "line": 66,
+         "rawfrom": "Norman Jenks [mailto:NJenks@eei.org]\n",
+         "source": "email",
+         "to": "State Restructuring Service Members List Serve"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/sent/176.",
+   "hops": [
+      {
+         "from": "elizabeth.sager@enron.com",
+         "line": 4,
+         "rawfrom": "elizabeth.sager@enron.com\r\n",
+         "source": "valid",
+         "to": "drusso@reliantenergy.com"
+      },
+      {
+         "from": "drusso@reliantenergy.com",
+         "line": 33,
+         "rawfrom": "drusso@reliantenergy.com\n",
+         "source": "valid",
+         "to": "\"Pooya, Babak\" <Babak.Pooya@SouthernEnergy.Com>"
+      },
+      {
+         "from": "babak.pooya@southernenergy.com",
+         "line": 52,
+         "rawfrom": "\"Pooya, Babak\" <Babak.Pooya@SouthernEnergy.Com> on 10/27/2000 03:04:52 PM\n",
+         "source": "email",
+         "to": "\"'Andy Katz'\" <AKatz@eei.org>, fmdutton@aep.com, hemu@dynegy.com,"
+      },
+      {
+         "from": "akatz@eei.org",
+         "line": 107,
+         "rawfrom": "Andy Katz [mailto:AKatz@eei.org]\n",
+         "source": "email",
+         "to": "fmdutton@aep.com; hemu@dynegy.com; elizabeth.sager@enron.com;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/sent/353.",
+   "hops": [
+      {
+         "from": "elizabeth.sager@enron.com",
+         "line": 4,
+         "rawfrom": "elizabeth.sager@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.haedicke@enron.com, richard.sanders@enron.com,"
+      },
+      {
+         "from": "jcpaine@stoel.com",
+         "line": 32,
+         "rawfrom": "\"James Paine\" <JCPAINE@stoel.com>\n",
+         "source": "email",
+         "to": "PGBOYLSTON@stoel.com"
+      },
+      {
+         "from": "kevin.lynch@pacificorp.com",
+         "line": 53,
+         "rawfrom": "\"Lynch, Kevin\" <Kevin.Lynch@PacifiCorp.com>\n",
+         "source": "email",
+         "to": "\"Paine, James (Stoel)\" <jcpaine@stoel.com>"
+      },
+      {
+         "from": "njenks@eei.org",
+         "line": 67,
+         "rawfrom": "Norman Jenks [mailto:NJenks@eei.org]\n",
+         "source": "email",
+         "to": "State Restructuring Service Members List Serve"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/sent/655.",
+   "hops": [
+      {
+         "from": "elizabeth.sager@enron.com",
+         "line": 4,
+         "rawfrom": "elizabeth.sager@enron.com\r\n",
+         "source": "valid",
+         "to": "harlan.murphy@enron.com"
+      },
+      {
+         "from": "jeremy.weinstein@pacificorp.com",
+         "line": 73,
+         "rawfrom": " \"Jeremy D. Weinstein\" <jeremy.weinstein@pacificorp.com>@ENRON \n",
+         "source": "email",
+         "to": "Klein, Mark"
+      },
+      {
+         "from": "mark.klein@pacificorp.com",
+         "line": 90,
+         "rawfrom": " Klein, Mark <Mark.Klein@PacifiCorp.com << File: \n",
+         "source": "email",
+         "to": "Weinstein, Jeremy <Jeremy.Weinstein@PacifiCorp.com << File:"
+      },
+      {
+         "from": "sanjeev.khanna@enron.com",
+         "line": 105,
+         "rawfrom": "Khanna,  Sanjeev [mailto:Sanjeev.Khanna@enron.com << File: \n",
+         "source": "email",
+         "to": "Mark Klein (E-mail)"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/sent/524.",
+   "hops": [
+      {
+         "from": "elizabeth.sager@enron.com",
+         "line": 4,
+         "rawfrom": "elizabeth.sager@enron.com\r\n",
+         "source": "valid",
+         "to": "steve.hall@enron.com, christian.yoder@enron.com"
+      },
+      {
+         "from": "gfhull@bpa.gov",
+         "line": 41,
+         "rawfrom": "Hull Gerit F - LP <gfhull@bpa.gov>\n",
+         "source": "email",
+         "to": "\"'Andy Katz'\" <AKatz@eei.org>"
+      },
+      {
+         "from": "akatz@eei.org",
+         "line": 64,
+         "rawfrom": "Andy Katz [mailto:AKatz@eei.org]\n",
+         "source": "email",
+         "to": "gfhull@bpa.gov"
+      },
+      {
+         "from": "akatz@eei.org",
+         "line": 100,
+         "rawfrom": "Andy Katz [mailto:AKatz@eei.org]\n",
+         "source": "email",
+         "to": "gfhull@bpa.gov"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/notes_inbox/877.",
+   "hops": [
+      {
+         "from": "steve.hall@enron.com",
+         "line": 4,
+         "rawfrom": "steve.hall@enron.com\r\n",
+         "source": "valid",
+         "to": "christian.yoder@enron.com, elizabeth.sager@enron.com"
+      },
+      {
+         "from": "gfhull@bpa.gov",
+         "line": 68,
+         "rawfrom": "Hull Gerit F - LP <gfhull@bpa.gov>\n",
+         "source": "email",
+         "to": "\"'Andy Katz'\" <AKatz@eei.org>"
+      },
+      {
+         "from": "akatz@eei.org",
+         "line": 91,
+         "rawfrom": "Andy Katz [mailto:AKatz@eei.org]\n",
+         "source": "email",
+         "to": "gfhull@bpa.gov"
+      },
+      {
+         "from": "akatz@eei.org",
+         "line": 127,
+         "rawfrom": "Andy Katz [mailto:AKatz@eei.org]\n",
+         "source": "email",
+         "to": "gfhull@bpa.gov"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/notes_inbox/905.",
+   "hops": [
+      {
+         "from": "jklauber@llgm.com",
+         "line": 4,
+         "rawfrom": "jklauber@llgm.com\r\n",
+         "source": "valid",
+         "to": "elizabeth.sager@enron.com, michael.tribolet@enron.com"
+      },
+      {
+         "from": "stephen.johnson2@usdoj.gov",
+         "line": 62,
+         "rawfrom": "\"Johnson, Stephen\" <Stephen.Johnson2@usdoj.gov>\n",
+         "source": "email",
+         "to": "\"'BENNETT G. YOUNG'\" <byoung@LLGM.COM>"
+      },
+      {
+         "from": "byoung@llgm.com",
+         "line": 80,
+         "rawfrom": "BENNETT G. YOUNG [mailto:byoung@LLGM.COM]\n",
+         "source": "email",
+         "to": "Johnson, Stephen"
+      },
+      {
+         "from": "byoung@llgm.com",
+         "line": 104,
+         "rawfrom": "BENNETT G. YOUNG [mailto:BYOUNG@LLGM.COM]\n",
+         "source": "email",
+         "to": "Johnson, Stephen"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/notes_inbox/448.",
+   "hops": [
+      {
+         "from": "wfhenze@jonesday.com",
+         "line": 4,
+         "rawfrom": "wfhenze@jonesday.com\r\n",
+         "source": "valid",
+         "to": "akatz@eei.org"
+      },
+      {
+         "from": "akatz@eei.org",
+         "line": 38,
+         "rawfrom": "AKatz@eei.org",
+         "source": "valid",
+         "to": "<lrgroff@aep.com>"
+      },
+      {
+         "from": "mroger3@entergy.com",
+         "line": 80,
+         "rawfrom": "\"Rogers, Marty J\" <mroger3@entergy.com> on 12/05/2000 05:02:26 PM\n",
+         "source": "email",
+         "to": "\"'lrgroff@aep.com'\" <lrgroff@aep.com>, Akatz@eei.org"
+      },
+      {
+         "from": "lrgroff@aep.com",
+         "line": 102,
+         "rawfrom": "  lrgroff@aep.com [SMTP:lrgroff@aep.com]\n",
+         "source": "email",
+         "to": "Akatz@eei.org"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/notes_inbox/829.",
+   "hops": [
+      {
+         "from": "michael.tribolet@enron.com",
+         "line": 4,
+         "rawfrom": "michael.tribolet@enron.com\r\n",
+         "source": "valid",
+         "to": "elizabeth.sager@enron.com, lisa.mellencamp@enron.com"
+      },
+      {
+         "from": "lcw4@pge.com",
+         "line": 23,
+         "rawfrom": " \"Witalis, Lawrence (Law)\" <LCW4@pge.com>@ENRON \n",
+         "source": "email",
+         "to": "Tribolet, Michael"
+      },
+      {
+         "from": "michael.tribolet@enron.com",
+         "line": 34,
+         "rawfrom": " Michael.Tribolet@enron.com[SMTP:Michael.Tribolet@enron.com]\n",
+         "source": "email",
+         "to": "LCW4@pge.com"
+      },
+      {
+         "from": "lcw4@pge.com",
+         "line": 296,
+         "rawfrom": "  \"Witalis, Lawrence (Law)\" <LCW4@pge.com>@ENRON\n",
+         "source": "email",
+         "to": "Witalis, Lawrence (Law); Sager, Elizabeth"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/sent_items/405.",
+   "hops": [
+      {
+         "from": "elizabeth.sager@enron.com",
+         "line": 4,
+         "rawfrom": "elizabeth.sager@enron.com\r\n",
+         "source": "valid",
+         "to": "aashburn@mindspring.com"
+      },
+      {
+         "from": "aashburn@mindspring.com",
+         "line": 27,
+         "rawfrom": "\tAmy Ashburn <aashburn@mindspring.com>@ENRON  \n",
+         "source": "email",
+         "to": "Sager, Elizabeth"
+      },
+      {
+         "from": "elises@pdq.net",
+         "line": 45,
+         "rawfrom": "Elise Sheppard <elises@pdq.net>\n",
+         "source": "email",
+         "to": "Amy Ashburn <aashburn@mindspring.com>"
+      },
+      {
+         "from": "aashburn@mindspring.com",
+         "line": 56,
+         "rawfrom": "Amy Ashburn <aashburn@mindspring.com>\n",
+         "source": "email",
+         "to": "elises@pdq.net"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/sent_items/111.",
+   "hops": [
+      {
+         "from": "elizabeth.sager@enron.com",
+         "line": 4,
+         "rawfrom": "elizabeth.sager@enron.com\r\n",
+         "source": "valid",
+         "to": "alice.wright@enron.com"
+      },
+      {
+         "from": "earthur@hupk.com",
+         "line": 26,
+         "rawfrom": "\tEllen Arthur <EArthur@hupk.com>@ENRON [mailto:IMCEANOTES-Ellen+20Arthur+20+3CEArthur+40hupk+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Sager, Elizabeth"
+      },
+      {
+         "from": "earthur@hupk.com",
+         "line": 45,
+         "rawfrom": "  Ellen Arthur <EArthur@hupk.com>@ENRON \n",
+         "source": "email",
+         "to": "Sager, Elizabeth"
+      },
+      {
+         "from": "elizabeth.sager@enron.com",
+         "line": 66,
+         "rawfrom": "Elizabeth.Sager@enron.com [mailto:Elizabeth.Sager@enron.com  << \n",
+         "source": "email",
+         "to": "EArthur@hupk.com"
+      },
+      {
+         "from": "earthur@hupk.com",
+         "line": 88,
+         "rawfrom": "  Ellen Arthur <EArthur@hupk.com>@ENRON \n",
+         "source": "email",
+         "to": "Sager, Elizabeth"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/sager-e/sager___general/8.",
+   "hops": [
+      {
+         "from": "catsag@aol.com",
+         "line": 4,
+         "rawfrom": "catsag@aol.com\r\n",
+         "source": "valid",
+         "to": "elizabeth.sager@enron.com"
+      },
+      {
+         "from": "abrock@poloralphlauren.com",
+         "line": 31,
+         "rawfrom": "\"Brock, Alex\" <abrock@PoloRalphLauren.com>\n",
+         "source": "email",
+         "to": "\"Brown, Donald\" <dbrown@PoloRalphLauren.com>,        \"'Nina'\""
+      },
+      {
+         "from": "swu@lucidtechnologies.com",
+         "line": 61,
+         "rawfrom": "Steven Wu Kuo [SMTP:swu@lucidtechnologies.com]\n",
+         "source": "email",
+         "to": "Jenny Wu (E-mail); Michael Kuo (E-mail); Michael Wu (E-mail);"
+      },
+      {
+         "from": "ecarpio@lucidtechnologies.com",
+         "line": 70,
+         "rawfrom": "Esmeraldo C. Carpio [mailto:ecarpio@lucidtechnologies.com]\n",
+         "source": "email",
+         "to": "group@lucidtechnologies.com"
+      }
+   ],
+   "skipped": 1
+}
+]

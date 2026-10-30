@@ -1,0 +1,3326 @@
+[
+{
+   "file": "/home/jb/maildir/shankman-j/inbox/50.",
+   "hops": [
+      {
+         "from": "cswart@coair.com",
+         "line": 4,
+         "rawfrom": "cswart@coair.com\r\n",
+         "source": "valid",
+         "to": "a..shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 30,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 39,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 74,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 92,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 125,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 141,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 171,
+         "rawfrom": "Shankman, Jeffrey A. [mailto:Jeffrey.A.Shankman@ENRON.com]\n",
+         "source": "email",
+         "to": "cswart@coair.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/inbox/119.",
+   "hops": [
+      {
+         "from": "jennifer.burns@enron.com",
+         "line": 4,
+         "rawfrom": "jennifer.burns@enron.com\r\n",
+         "source": "valid",
+         "to": "a..shankman@enron.com"
+      },
+      {
+         "from": "mondomodern@earthlink.net",
+         "line": 37,
+         "rawfrom": "\tMondo Cane <mondomodern@earthlink.net>@ENRON  \n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 57,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "mondomodern@earthlink.net"
+      },
+      {
+         "from": "mondomodern@earthlink.net",
+         "line": 72,
+         "rawfrom": "  Mondo Cane <mondomodern@earthlink.net>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/inbox/111.",
+   "hops": [
+      {
+         "from": "ben@macklowegallery.com",
+         "line": 4,
+         "rawfrom": "ben@macklowegallery.com\r\n",
+         "source": "valid",
+         "to": "a..shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 26,
+         "rawfrom": "<Jeffrey.A.Shankman@enron.com>\n",
+         "source": "email",
+         "to": "<Ben@macklowegallery.com>"
+      },
+      {
+         "from": "ben@macklowegallery.com",
+         "line": 50,
+         "rawfrom": "  \"Ben Macklowe\" <Ben@MackloweGallery.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 82,
+         "rawfrom": "<Jeffrey.A.Shankman@enron.com>\n",
+         "source": "email",
+         "to": "<Ben@macklowegallery.com>"
+      },
+      {
+         "from": "ben@macklowegallery.com",
+         "line": 123,
+         "rawfrom": "  \"Ben Macklowe\" <Ben@MackloweGallery.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/inbox/45.",
+   "hops": [
+      {
+         "from": "cswart@coair.com",
+         "line": 4,
+         "rawfrom": "cswart@coair.com\r\n",
+         "source": "valid",
+         "to": "a..shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 22,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 36,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 48,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 57,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 66,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 78,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 107,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 116,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 164,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 188,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 233,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 255,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/inbox/126.",
+   "hops": [
+      {
+         "from": "mondomodern@earthlink.net",
+         "line": 4,
+         "rawfrom": "mondomodern@earthlink.net\r\n",
+         "source": "valid",
+         "to": "a..shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 34,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "mondomodern@earthlink.net"
+      },
+      {
+         "from": "mondomodern@earthlink.net",
+         "line": 46,
+         "rawfrom": "  Mondo Cane <mondomodern@earthlink.net>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 68,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "mondomodern@earthlink.net"
+      },
+      {
+         "from": "mondomodern@earthlink.net",
+         "line": 84,
+         "rawfrom": "  Mondo Cane <mondomodern@earthlink.net>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/all_documents/5.",
+   "hops": [
+      {
+         "from": "cmastros@unterberg.com",
+         "line": 4,
+         "rawfrom": "cmastros@unterberg.com\r\n",
+         "source": "valid",
+         "to": "jeffrey.a.shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 42,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "cmastros@unterberg.com"
+      },
+      {
+         "from": "cmastros@unterberg.com",
+         "line": 54,
+         "rawfrom": "\"Mastros, Christina\" <cmastros@unterberg.com> on 01/03/2001 11:10:58 AM\n",
+         "source": "email",
+         "to": "\"'Jeffrey.A.Shankman@enron.com'\" <Jeffrey.A.Shankman@enron.com>"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 80,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "cmastros@unterberg.com"
+      },
+      {
+         "from": "cmastros@unterberg.com",
+         "line": 97,
+         "rawfrom": "\"Mastros, Christina\" <cmastros@unterberg.com> on 11/30/2000 09:17:44 AM\n",
+         "source": "email",
+         "to": "\"'jeff.shankman@enron.com'\" <jeff.shankman@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/all_documents/1037.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "lschiffm@jonesday.com"
+      },
+      {
+         "from": "lschiffm@jonesday.com",
+         "line": 23,
+         "rawfrom": "\"Lisa A. Schiffman\" <lschiffm@JonesDay.com> on 10/06/2000 12:54:51 PM\n",
+         "source": "email",
+         "to": "Jeffrey.A.Shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 48,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com",
+         "source": "valid",
+         "to": "Lisa_A._Schiffman@jonesday.com"
+      },
+      {
+         "from": "lisa_a._schiffman@jonesday.com",
+         "line": 61,
+         "rawfrom": "Lisa_A._Schiffman@jonesday.com",
+         "source": "valid",
+         "to": "jshankm@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/all_documents/548.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "hillaryg@wsg.com"
+      },
+      {
+         "from": "hillaryg@wsg.com",
+         "line": 26,
+         "rawfrom": "\"Gallay, Hillary\" <HillaryG@WSG.com> on 12/15/2000 01:08:50 PM\n",
+         "source": "email",
+         "to": "Jeffrey.A.Shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 44,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "HillaryG@WSG.com"
+      },
+      {
+         "from": "hillaryg@wsg.com",
+         "line": 63,
+         "rawfrom": "\"Gallay, Hillary\" <HillaryG@WSG.com> on 11/27/2000 02:43:25 PM\n",
+         "source": "email",
+         "to": "jeff.shankman@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/all_documents/163.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "njeppson@allenco.com"
+      },
+      {
+         "from": "njeppson@allenco.com",
+         "line": 27,
+         "rawfrom": "Nathaniel Jeppson <Njeppson@ALLENCO.COM>\n",
+         "source": "email",
+         "to": "\"'Jeffrey.A.Shankman@enron.com'\" <Jeffrey.A.Shankman@enron.com>"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 41,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "Njeppson@ALLENCO.COM"
+      },
+      {
+         "from": "njeppson@allenco.com",
+         "line": 54,
+         "rawfrom": "Nathaniel Jeppson <Njeppson@ALLENCO.COM> on 01/23/2001 11:35:26 AM\n",
+         "source": "email",
+         "to": "\"'Jeffrey.A.Shankman@enron.com'\" <Jeffrey.A.Shankman@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/all_documents/989.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "ben@macklowegallery.com"
+      },
+      {
+         "from": "ben@macklowegallery.com",
+         "line": 31,
+         "rawfrom": "\"Ben Macklowe\" <Ben@macklowegallery.com> on 10/10/2000 06:17:34 PM\n",
+         "source": "email",
+         "to": "<Jeffrey.A.Shankman@enron.com>"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 49,
+         "rawfrom": "<Jeffrey.A.Shankman@enron.com>\n",
+         "source": "email",
+         "to": "<Ben@macklowegallery.com>"
+      },
+      {
+         "from": "ben@macklowegallery.com",
+         "line": 65,
+         "rawfrom": "\"Ben Macklowe\" <Ben@macklowegallery.com> on 10/10/2000 05:23:42 PM\n",
+         "source": "email",
+         "to": "<jeff.shankman@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/all_documents/582.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "geresj@tdusa.com"
+      },
+      {
+         "from": "geresj@tdusa.com",
+         "line": 25,
+         "rawfrom": "geresj@tdusa.com on 12/13/2000 07:34:40 AM\n",
+         "source": "email",
+         "to": "Jeffrey.A.Shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 46,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com on 12/13/2000 08:24:33 AM\n",
+         "source": "email",
+         "to": "John Geresi/CIBG/TDBANK/US@TDBANK-US"
+      },
+      {
+         "from": "geresj@tdusa.com",
+         "line": 65,
+         "rawfrom": "geresj@tdusa.com on 12/12/2000 04:02:50 PM\n",
+         "source": "email",
+         "to": "Jeffrey.A.Shankman@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/all_documents/69.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "cguarino@dow.com"
+      },
+      {
+         "from": "cguarino@dow.com",
+         "line": 27,
+         "rawfrom": "\"Guarino, Carlo (C)\" <cguarino@dow.com>\n",
+         "source": "email",
+         "to": "\"'Jeffrey.A.Shankman@enron.com'\" <Jeffrey.A.Shankman@enron.com>"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 74,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "cguarino@dow.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 132,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "cguarino@dow.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/all_documents/988.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "ben@macklowegallery.com"
+      },
+      {
+         "from": "ben@macklowegallery.com",
+         "line": 23,
+         "rawfrom": "\"Ben Macklowe\" <Ben@macklowegallery.com> on 10/13/2000 01:57:54 PM\n",
+         "source": "email",
+         "to": "<Jeffrey.A.Shankman@enron.com>"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 39,
+         "rawfrom": "<Jeffrey.A.Shankman@enron.com>\n",
+         "source": "email",
+         "to": "<Ben@macklowegallery.com>"
+      },
+      {
+         "from": "ben@macklowegallery.com",
+         "line": 60,
+         "rawfrom": "Ben@macklowegallery.com",
+         "source": "valid",
+         "to": "<Jeffrey.A.Shankman@enron.com>"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 80,
+         "rawfrom": "<Jeffrey.A.Shankman@enron.com>\n",
+         "source": "email",
+         "to": "<Ben@macklowegallery.com>"
+      },
+      {
+         "from": "ben@macklowegallery.com",
+         "line": 96,
+         "rawfrom": "Ben@macklowegallery.com",
+         "source": "valid",
+         "to": "<jeff.shankman@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/all_documents/348.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "shirley.crenshaw@enron.com"
+      },
+      {
+         "from": "vince.j.kaminski@enron.com",
+         "line": 93,
+         "rawfrom": "Vince.J.Kaminski@enron.com on 03/01/2001 09:45:02 PM\n",
+         "source": "email",
+         "to": "azminab@petronas.com.my"
+      },
+      {
+         "from": "azminab@petronas.com.my",
+         "line": 117,
+         "rawfrom": "azminab@petronas.com.my on 01/02/2001 06:38:33 PM\n",
+         "source": "email",
+         "to": "Vince.J.Kaminski@enron.com, KhairuddinBMJaafar@petronas.com.my,"
+      },
+      {
+         "from": "vince.j.kaminski@enron.com",
+         "line": 138,
+         "rawfrom": "Vince.J.Kaminski@enron.com on 03/01/2001 07:38:19 AM\n",
+         "source": "email",
+         "to": "azminab@petronas.com.my"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/all_documents/856.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "ben@macklowegallery.com"
+      },
+      {
+         "from": "ben@macklowegallery.com",
+         "line": 23,
+         "rawfrom": "\"Ben Macklowe\" <Ben@macklowegallery.com> on 10/26/2000 12:25:13 PM\n",
+         "source": "email",
+         "to": "<Jeffrey.A.Shankman@enron.com>"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 32,
+         "rawfrom": "<Jeffrey.A.Shankman@enron.com>\n",
+         "source": "email",
+         "to": "<Ben@macklowegallery.com>"
+      },
+      {
+         "from": "ben@macklowegallery.com",
+         "line": 48,
+         "rawfrom": "\"Ben Macklowe\" <Ben@macklowegallery.com> on 10/25/2000 07:46:50 PM\n",
+         "source": "email",
+         "to": "<jeff.shankman@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/all_documents/379.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "eric.gonzales@enron.com, jennifer.burns@enron.com"
+      },
+      {
+         "from": "vince.j.kaminski@enron.com",
+         "line": 72,
+         "rawfrom": "Vince.J.Kaminski@enron.com on 03/01/2001 09:45:02 PM\n",
+         "source": "email",
+         "to": "azminab@petronas.com.my"
+      },
+      {
+         "from": "azminab@petronas.com.my",
+         "line": 96,
+         "rawfrom": "azminab@petronas.com.my on 01/02/2001 06:38:33 PM\n",
+         "source": "email",
+         "to": "Vince.J.Kaminski@enron.com, KhairuddinBMJaafar@petronas.com.my,"
+      },
+      {
+         "from": "vince.j.kaminski@enron.com",
+         "line": 117,
+         "rawfrom": "Vince.J.Kaminski@enron.com on 03/01/2001 07:38:19 AM\n",
+         "source": "email",
+         "to": "azminab@petronas.com.my"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/all_documents/545.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "geresj@tdusa.com"
+      },
+      {
+         "from": "geresj@tdusa.com",
+         "line": 23,
+         "rawfrom": "geresj@tdusa.com on 12/15/2000 01:31:30 PM\n",
+         "source": "email",
+         "to": "Jeffrey.A.Shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 61,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com on 12/13/2000 08:24:33 AM\n",
+         "source": "email",
+         "to": "John Geresi/CIBG/TDBANK/US@TDBANK-US"
+      },
+      {
+         "from": "geresj@tdusa.com",
+         "line": 80,
+         "rawfrom": "geresj@tdusa.com on 12/12/2000 04:02:50 PM\n",
+         "source": "email",
+         "to": "Jeffrey.A.Shankman@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/all_documents/103.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "njeppson@allenco.com"
+      },
+      {
+         "from": "njeppson@allenco.com",
+         "line": 29,
+         "rawfrom": "Nathaniel Jeppson <Njeppson@ALLENCO.COM>\n",
+         "source": "email",
+         "to": "\"'Jeffrey.A.Shankman@enron.com'\" <Jeffrey.A.Shankman@enron.com>"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 42,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "Njeppson@ALLENCO.COM"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 86,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "Njeppson@ALLENCO.COM"
+      },
+      {
+         "from": "njeppson@allenco.com",
+         "line": 99,
+         "rawfrom": "Nathaniel Jeppson <Njeppson@ALLENCO.COM> on 01/23/2001 11:35:26 AM\n",
+         "source": "email",
+         "to": "\"'Jeffrey.A.Shankman@enron.com'\" <Jeffrey.A.Shankman@enron.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/all_documents/521.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "geresj@tdusa.com"
+      },
+      {
+         "from": "geresj@tdusa.com",
+         "line": 23,
+         "rawfrom": "geresj@tdusa.com on 12/18/2000 01:34:57 PM\n",
+         "source": "email",
+         "to": "Jeffrey.A.Shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 39,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com on 12/18/2000 02:07:43 PM\n",
+         "source": "email",
+         "to": "John Geresi/CIBG/TDBANK/US@TDBANK-US"
+      },
+      {
+         "from": "geresj@tdusa.com",
+         "line": 55,
+         "rawfrom": "geresj@tdusa.com on 12/18/2000 11:36:55 AM\n",
+         "source": "email",
+         "to": "Jeffrey.A.Shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 73,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com on 12/18/2000 08:50:25 AM\n",
+         "source": "email",
+         "to": "John Geresi/CIBG/TDBANK/US@TDBANK-US"
+      },
+      {
+         "from": "geresj@tdusa.com",
+         "line": 88,
+         "rawfrom": "geresj@tdusa.com on 12/15/2000 01:31:30 PM\n",
+         "source": "email",
+         "to": "Jeffrey.A.Shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 128,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com on 12/13/2000 08:24:33 AM\n",
+         "source": "email",
+         "to": "John Geresi/CIBG/TDBANK/US@TDBANK-US"
+      },
+      {
+         "from": "geresj@tdusa.com",
+         "line": 147,
+         "rawfrom": "geresj@tdusa.com on 12/12/2000 04:02:50 PM\n",
+         "source": "email",
+         "to": "Jeffrey.A.Shankman@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/all_documents/528.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "geresj@tdusa.com"
+      },
+      {
+         "from": "geresj@tdusa.com",
+         "line": 24,
+         "rawfrom": "geresj@tdusa.com on 12/18/2000 11:36:55 AM\n",
+         "source": "email",
+         "to": "Jeffrey.A.Shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 41,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com on 12/18/2000 08:50:25 AM\n",
+         "source": "email",
+         "to": "John Geresi/CIBG/TDBANK/US@TDBANK-US"
+      },
+      {
+         "from": "geresj@tdusa.com",
+         "line": 56,
+         "rawfrom": "geresj@tdusa.com on 12/15/2000 01:31:30 PM\n",
+         "source": "email",
+         "to": "Jeffrey.A.Shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 96,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com on 12/13/2000 08:24:33 AM\n",
+         "source": "email",
+         "to": "John Geresi/CIBG/TDBANK/US@TDBANK-US"
+      },
+      {
+         "from": "geresj@tdusa.com",
+         "line": 115,
+         "rawfrom": "geresj@tdusa.com on 12/12/2000 04:02:50 PM\n",
+         "source": "email",
+         "to": "Jeffrey.A.Shankman@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/all_documents/330.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "gpierce@camh.org"
+      },
+      {
+         "from": "gpierce@camh.org",
+         "line": 24,
+         "rawfrom": "gpierce@camh.org",
+         "source": "valid",
+         "to": "\"Jeffrey.A.Shankman\" <Jeffrey.A.Shankman@enron.com>"
+      },
+      {
+         "from": "gpierce@camh.org",
+         "line": 54,
+         "rawfrom": "gpierce@camh.org",
+         "source": "valid",
+         "to": "jeff shankman <jshankm@enron.com>, Jeff  Shankman <jshankm@enron.com>"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 109,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "Grace Pierce <gpierce@camh.org>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/all_documents/429.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "cmastros@unterberg.com"
+      },
+      {
+         "from": "cmastros@unterberg.com",
+         "line": 23,
+         "rawfrom": "\"Mastros, Christina\" <cmastros@unterberg.com> on 01/03/2001 11:10:58 AM\n",
+         "source": "email",
+         "to": "\"'Jeffrey.A.Shankman@enron.com'\" <Jeffrey.A.Shankman@enron.com>"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 49,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "cmastros@unterberg.com"
+      },
+      {
+         "from": "cmastros@unterberg.com",
+         "line": 66,
+         "rawfrom": "\"Mastros, Christina\" <cmastros@unterberg.com> on 11/30/2000 09:17:44 AM\n",
+         "source": "email",
+         "to": "\"'jeff.shankman@enron.com'\" <jeff.shankman@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/sent/49.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "njeppson@allenco.com"
+      },
+      {
+         "from": "njeppson@allenco.com",
+         "line": 29,
+         "rawfrom": "Nathaniel Jeppson <Njeppson@ALLENCO.COM>\n",
+         "source": "email",
+         "to": "\"'Jeffrey.A.Shankman@enron.com'\" <Jeffrey.A.Shankman@enron.com>"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 42,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "Njeppson@ALLENCO.COM"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 86,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "Njeppson@ALLENCO.COM"
+      },
+      {
+         "from": "njeppson@allenco.com",
+         "line": 99,
+         "rawfrom": "Nathaniel Jeppson <Njeppson@ALLENCO.COM> on 01/23/2001 11:35:26 AM\n",
+         "source": "email",
+         "to": "\"'Jeffrey.A.Shankman@enron.com'\" <Jeffrey.A.Shankman@enron.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/sent/419.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "geresj@tdusa.com"
+      },
+      {
+         "from": "geresj@tdusa.com",
+         "line": 23,
+         "rawfrom": "geresj@tdusa.com on 12/18/2000 01:34:57 PM\n",
+         "source": "email",
+         "to": "Jeffrey.A.Shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 39,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com on 12/18/2000 02:07:43 PM\n",
+         "source": "email",
+         "to": "John Geresi/CIBG/TDBANK/US@TDBANK-US"
+      },
+      {
+         "from": "geresj@tdusa.com",
+         "line": 55,
+         "rawfrom": "geresj@tdusa.com on 12/18/2000 11:36:55 AM\n",
+         "source": "email",
+         "to": "Jeffrey.A.Shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 73,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com on 12/18/2000 08:50:25 AM\n",
+         "source": "email",
+         "to": "John Geresi/CIBG/TDBANK/US@TDBANK-US"
+      },
+      {
+         "from": "geresj@tdusa.com",
+         "line": 88,
+         "rawfrom": "geresj@tdusa.com on 12/15/2000 01:31:30 PM\n",
+         "source": "email",
+         "to": "Jeffrey.A.Shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 128,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com on 12/13/2000 08:24:33 AM\n",
+         "source": "email",
+         "to": "John Geresi/CIBG/TDBANK/US@TDBANK-US"
+      },
+      {
+         "from": "geresj@tdusa.com",
+         "line": 147,
+         "rawfrom": "geresj@tdusa.com on 12/12/2000 04:02:50 PM\n",
+         "source": "email",
+         "to": "Jeffrey.A.Shankman@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/sent/289.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "eric.gonzales@enron.com, jennifer.burns@enron.com"
+      },
+      {
+         "from": "vince.j.kaminski@enron.com",
+         "line": 72,
+         "rawfrom": "Vince.J.Kaminski@enron.com on 03/01/2001 09:45:02 PM\n",
+         "source": "email",
+         "to": "azminab@petronas.com.my"
+      },
+      {
+         "from": "azminab@petronas.com.my",
+         "line": 96,
+         "rawfrom": "azminab@petronas.com.my on 01/02/2001 06:38:33 PM\n",
+         "source": "email",
+         "to": "Vince.J.Kaminski@enron.com, KhairuddinBMJaafar@petronas.com.my,"
+      },
+      {
+         "from": "vince.j.kaminski@enron.com",
+         "line": 117,
+         "rawfrom": "Vince.J.Kaminski@enron.com on 03/01/2001 07:38:19 AM\n",
+         "source": "email",
+         "to": "azminab@petronas.com.my"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/sent/17.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "cguarino@dow.com"
+      },
+      {
+         "from": "cguarino@dow.com",
+         "line": 27,
+         "rawfrom": "\"Guarino, Carlo (C)\" <cguarino@dow.com>\n",
+         "source": "email",
+         "to": "\"'Jeffrey.A.Shankman@enron.com'\" <Jeffrey.A.Shankman@enron.com>"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 74,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "cguarino@dow.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 132,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "cguarino@dow.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/sent/932.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "lschiffm@jonesday.com"
+      },
+      {
+         "from": "lschiffm@jonesday.com",
+         "line": 23,
+         "rawfrom": "\"Lisa A. Schiffman\" <lschiffm@JonesDay.com> on 10/06/2000 12:54:51 PM\n",
+         "source": "email",
+         "to": "Jeffrey.A.Shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 48,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com",
+         "source": "valid",
+         "to": "Lisa_A._Schiffman@jonesday.com"
+      },
+      {
+         "from": "lisa_a._schiffman@jonesday.com",
+         "line": 61,
+         "rawfrom": "Lisa_A._Schiffman@jonesday.com",
+         "source": "valid",
+         "to": "jshankm@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/sent/329.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "cmastros@unterberg.com"
+      },
+      {
+         "from": "cmastros@unterberg.com",
+         "line": 23,
+         "rawfrom": "\"Mastros, Christina\" <cmastros@unterberg.com> on 01/03/2001 11:10:58 AM\n",
+         "source": "email",
+         "to": "\"'Jeffrey.A.Shankman@enron.com'\" <Jeffrey.A.Shankman@enron.com>"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 49,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "cmastros@unterberg.com"
+      },
+      {
+         "from": "cmastros@unterberg.com",
+         "line": 66,
+         "rawfrom": "\"Mastros, Christina\" <cmastros@unterberg.com> on 11/30/2000 09:17:44 AM\n",
+         "source": "email",
+         "to": "\"'jeff.shankman@enron.com'\" <jeff.shankman@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/sent/883.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "ben@macklowegallery.com"
+      },
+      {
+         "from": "ben@macklowegallery.com",
+         "line": 23,
+         "rawfrom": "\"Ben Macklowe\" <Ben@macklowegallery.com> on 10/13/2000 01:57:54 PM\n",
+         "source": "email",
+         "to": "<Jeffrey.A.Shankman@enron.com>"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 39,
+         "rawfrom": "<Jeffrey.A.Shankman@enron.com>\n",
+         "source": "email",
+         "to": "<Ben@macklowegallery.com>"
+      },
+      {
+         "from": "ben@macklowegallery.com",
+         "line": 60,
+         "rawfrom": "Ben@macklowegallery.com",
+         "source": "valid",
+         "to": "<Jeffrey.A.Shankman@enron.com>"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 80,
+         "rawfrom": "<Jeffrey.A.Shankman@enron.com>\n",
+         "source": "email",
+         "to": "<Ben@macklowegallery.com>"
+      },
+      {
+         "from": "ben@macklowegallery.com",
+         "line": 96,
+         "rawfrom": "Ben@macklowegallery.com",
+         "source": "valid",
+         "to": "<jeff.shankman@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/sent/751.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "ben@macklowegallery.com"
+      },
+      {
+         "from": "ben@macklowegallery.com",
+         "line": 23,
+         "rawfrom": "\"Ben Macklowe\" <Ben@macklowegallery.com> on 10/26/2000 12:25:13 PM\n",
+         "source": "email",
+         "to": "<Jeffrey.A.Shankman@enron.com>"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 32,
+         "rawfrom": "<Jeffrey.A.Shankman@enron.com>\n",
+         "source": "email",
+         "to": "<Ben@macklowegallery.com>"
+      },
+      {
+         "from": "ben@macklowegallery.com",
+         "line": 48,
+         "rawfrom": "\"Ben Macklowe\" <Ben@macklowegallery.com> on 10/25/2000 07:46:50 PM\n",
+         "source": "email",
+         "to": "<jeff.shankman@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/sent/104.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "njeppson@allenco.com"
+      },
+      {
+         "from": "njeppson@allenco.com",
+         "line": 27,
+         "rawfrom": "Nathaniel Jeppson <Njeppson@ALLENCO.COM>\n",
+         "source": "email",
+         "to": "\"'Jeffrey.A.Shankman@enron.com'\" <Jeffrey.A.Shankman@enron.com>"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 41,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "Njeppson@ALLENCO.COM"
+      },
+      {
+         "from": "njeppson@allenco.com",
+         "line": 54,
+         "rawfrom": "Nathaniel Jeppson <Njeppson@ALLENCO.COM> on 01/23/2001 11:35:26 AM\n",
+         "source": "email",
+         "to": "\"'Jeffrey.A.Shankman@enron.com'\" <Jeffrey.A.Shankman@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/sent/884.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "ben@macklowegallery.com"
+      },
+      {
+         "from": "ben@macklowegallery.com",
+         "line": 31,
+         "rawfrom": "\"Ben Macklowe\" <Ben@macklowegallery.com> on 10/10/2000 06:17:34 PM\n",
+         "source": "email",
+         "to": "<Jeffrey.A.Shankman@enron.com>"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 49,
+         "rawfrom": "<Jeffrey.A.Shankman@enron.com>\n",
+         "source": "email",
+         "to": "<Ben@macklowegallery.com>"
+      },
+      {
+         "from": "ben@macklowegallery.com",
+         "line": 65,
+         "rawfrom": "\"Ben Macklowe\" <Ben@macklowegallery.com> on 10/10/2000 05:23:42 PM\n",
+         "source": "email",
+         "to": "<jeff.shankman@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/sent/426.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "geresj@tdusa.com"
+      },
+      {
+         "from": "geresj@tdusa.com",
+         "line": 24,
+         "rawfrom": "geresj@tdusa.com on 12/18/2000 11:36:55 AM\n",
+         "source": "email",
+         "to": "Jeffrey.A.Shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 41,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com on 12/18/2000 08:50:25 AM\n",
+         "source": "email",
+         "to": "John Geresi/CIBG/TDBANK/US@TDBANK-US"
+      },
+      {
+         "from": "geresj@tdusa.com",
+         "line": 56,
+         "rawfrom": "geresj@tdusa.com on 12/15/2000 01:31:30 PM\n",
+         "source": "email",
+         "to": "Jeffrey.A.Shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 96,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com on 12/13/2000 08:24:33 AM\n",
+         "source": "email",
+         "to": "John Geresi/CIBG/TDBANK/US@TDBANK-US"
+      },
+      {
+         "from": "geresj@tdusa.com",
+         "line": 115,
+         "rawfrom": "geresj@tdusa.com on 12/12/2000 04:02:50 PM\n",
+         "source": "email",
+         "to": "Jeffrey.A.Shankman@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/sent/265.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "shirley.crenshaw@enron.com"
+      },
+      {
+         "from": "vince.j.kaminski@enron.com",
+         "line": 93,
+         "rawfrom": "Vince.J.Kaminski@enron.com on 03/01/2001 09:45:02 PM\n",
+         "source": "email",
+         "to": "azminab@petronas.com.my"
+      },
+      {
+         "from": "azminab@petronas.com.my",
+         "line": 117,
+         "rawfrom": "azminab@petronas.com.my on 01/02/2001 06:38:33 PM\n",
+         "source": "email",
+         "to": "Vince.J.Kaminski@enron.com, KhairuddinBMJaafar@petronas.com.my,"
+      },
+      {
+         "from": "vince.j.kaminski@enron.com",
+         "line": 138,
+         "rawfrom": "Vince.J.Kaminski@enron.com on 03/01/2001 07:38:19 AM\n",
+         "source": "email",
+         "to": "azminab@petronas.com.my"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/sent/442.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "geresj@tdusa.com"
+      },
+      {
+         "from": "geresj@tdusa.com",
+         "line": 23,
+         "rawfrom": "geresj@tdusa.com on 12/15/2000 01:31:30 PM\n",
+         "source": "email",
+         "to": "Jeffrey.A.Shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 61,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com on 12/13/2000 08:24:33 AM\n",
+         "source": "email",
+         "to": "John Geresi/CIBG/TDBANK/US@TDBANK-US"
+      },
+      {
+         "from": "geresj@tdusa.com",
+         "line": 80,
+         "rawfrom": "geresj@tdusa.com on 12/12/2000 04:02:50 PM\n",
+         "source": "email",
+         "to": "Jeffrey.A.Shankman@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/sent/479.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "geresj@tdusa.com"
+      },
+      {
+         "from": "geresj@tdusa.com",
+         "line": 25,
+         "rawfrom": "geresj@tdusa.com on 12/13/2000 07:34:40 AM\n",
+         "source": "email",
+         "to": "Jeffrey.A.Shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 46,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com on 12/13/2000 08:24:33 AM\n",
+         "source": "email",
+         "to": "John Geresi/CIBG/TDBANK/US@TDBANK-US"
+      },
+      {
+         "from": "geresj@tdusa.com",
+         "line": 65,
+         "rawfrom": "geresj@tdusa.com on 12/12/2000 04:02:50 PM\n",
+         "source": "email",
+         "to": "Jeffrey.A.Shankman@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/sent/445.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "hillaryg@wsg.com"
+      },
+      {
+         "from": "hillaryg@wsg.com",
+         "line": 26,
+         "rawfrom": "\"Gallay, Hillary\" <HillaryG@WSG.com> on 12/15/2000 01:08:50 PM\n",
+         "source": "email",
+         "to": "Jeffrey.A.Shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 44,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "HillaryG@WSG.com"
+      },
+      {
+         "from": "hillaryg@wsg.com",
+         "line": 63,
+         "rawfrom": "\"Gallay, Hillary\" <HillaryG@WSG.com> on 11/27/2000 02:43:25 PM\n",
+         "source": "email",
+         "to": "jeff.shankman@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/sent/249.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "gpierce@camh.org"
+      },
+      {
+         "from": "gpierce@camh.org",
+         "line": 24,
+         "rawfrom": "gpierce@camh.org",
+         "source": "valid",
+         "to": "\"Jeffrey.A.Shankman\" <Jeffrey.A.Shankman@enron.com>"
+      },
+      {
+         "from": "gpierce@camh.org",
+         "line": 54,
+         "rawfrom": "gpierce@camh.org",
+         "source": "valid",
+         "to": "jeff shankman <jshankm@enron.com>, Jeff  Shankman <jshankm@enron.com>"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 109,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "Grace Pierce <gpierce@camh.org>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/deleted_items/216.",
+   "hops": [
+      {
+         "from": "a..shankman@enron.com",
+         "line": 4,
+         "rawfrom": "a..shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "cswart@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 27,
+         "rawfrom": "\t\"Swartz, Cristina\" <CSWART@coair.com>@ENRON  \n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 39,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 48,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 56,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 67,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 94,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 103,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 146,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 168,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 210,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 230,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/deleted_items/394.",
+   "hops": [
+      {
+         "from": "a..shankman@enron.com",
+         "line": 4,
+         "rawfrom": "a..shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "cswart@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 26,
+         "rawfrom": "\t\"Swartz, Cristina\" <CSWART@coair.com>@ENRON  \n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 46,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 60,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 83,
+         "rawfrom": "Shankman, Jeffrey A. [mailto:Jeffrey.A.Shankman@ENRON.com]\n",
+         "source": "email",
+         "to": "cswart@coair.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/deleted_items/276.",
+   "hops": [
+      {
+         "from": "a..shankman@enron.com",
+         "line": 4,
+         "rawfrom": "a..shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "cswart@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 22,
+         "rawfrom": "\t\"Swartz, Cristina\" <CSWART@coair.com>@ENRON  \n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 52,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 68,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 95,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 110,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 137,
+         "rawfrom": "Shankman, Jeffrey A. [mailto:Jeffrey.A.Shankman@ENRON.com]\n",
+         "source": "email",
+         "to": "cswart@coair.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/deleted_items/810.",
+   "hops": [
+      {
+         "from": "a..shankman@enron.com",
+         "line": 4,
+         "rawfrom": "a..shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "jj@johnjesse.com"
+      },
+      {
+         "from": "jj@johnjesse.com",
+         "line": 28,
+         "rawfrom": "\tjohn jesse <jj@johnjesse.com>@ENRON  \n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jj@johnjesse.com",
+         "line": 86,
+         "rawfrom": "  john jesse <jj@johnjesse.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jj@johnjesse.com",
+         "line": 104,
+         "rawfrom": "  john jesse <jj@johnjesse.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/deleted_items/392.",
+   "hops": [
+      {
+         "from": "cswart@coair.com",
+         "line": 4,
+         "rawfrom": "cswart@coair.com\r\n",
+         "source": "valid",
+         "to": "a..shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 25,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 41,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 68,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 83,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 110,
+         "rawfrom": "Shankman, Jeffrey A. [mailto:Jeffrey.A.Shankman@ENRON.com]\n",
+         "source": "email",
+         "to": "cswart@coair.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/deleted_items/40.",
+   "hops": [
+      {
+         "from": "a..shankman@enron.com",
+         "line": 4,
+         "rawfrom": "a..shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer.burns@enron.com"
+      },
+      {
+         "from": "bsteinhart@hbvllc.com",
+         "line": 22,
+         "rawfrom": "\tBarry Steinhart <bsteinhart@HBVLLC.com>@ENRON  \n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 33,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "bsteinhart@HBVLLC.com"
+      },
+      {
+         "from": "bsteinhart@hbvllc.com",
+         "line": 44,
+         "rawfrom": "  Barry Steinhart <bsteinhart@HBVLLC.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/deleted_items/234.",
+   "hops": [
+      {
+         "from": "cswart@coair.com",
+         "line": 4,
+         "rawfrom": "cswart@coair.com\r\n",
+         "source": "valid",
+         "to": "a..shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 23,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 32,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 40,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 51,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 78,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 87,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 130,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 152,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 194,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 214,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/deleted_items/162.",
+   "hops": [
+      {
+         "from": "robert.johnston@enron.com",
+         "line": 4,
+         "rawfrom": "robert.johnston@enron.com\r\n",
+         "source": "valid",
+         "to": "a..shankman@enron.com"
+      },
+      {
+         "from": "lgoldb@bellsouth.net",
+         "line": 34,
+         "rawfrom": "\tLawrence Goldberg <lgoldb@bellsouth.net>@ENRON  \n",
+         "source": "email",
+         "to": "Al_Rosckes; Allan Weiss; Arnie Yashar; Bert Sparrow; Brenda Falkenstein; Bryan Loy, M.D.; Carlos Katz; David Joels; Ellen Shaikun; Gregory Semerdjian; Shankman, Jeffrey A.; Jennifer Goldberg; Jerry Usulander; Matthew and Shira Goldberg; Stuart Goldberg; Susanna and Matt Liljenstolpe"
+      },
+      {
+         "from": "larrygoldberg@chi-caritas.org",
+         "line": 43,
+         "rawfrom": "\"Goldberg, Larry\" <LarryGoldberg@chi-caritas.org>\n",
+         "source": "email",
+         "to": "'Lawrence Goldberg' <lgoldb@bellsouth.net>"
+      },
+      {
+         "from": "dcurran@archlou.org",
+         "line": 65,
+         "rawfrom": " Debbie Curran <dcurran@archlou.org>\n",
+         "source": "email",
+         "to": "\"'Bradley, Betty'\" <memaw000@aol.com>, \"'Brown, Charlie & Fran'\""
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/deleted_items/277.",
+   "hops": [
+      {
+         "from": "a..shankman@enron.com",
+         "line": 4,
+         "rawfrom": "a..shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "cswart@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 22,
+         "rawfrom": "\t\"Swartz, Cristina\" <CSWART@coair.com>@ENRON  \n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 52,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 68,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 95,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 110,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 137,
+         "rawfrom": "Shankman, Jeffrey A. [mailto:Jeffrey.A.Shankman@ENRON.com]\n",
+         "source": "email",
+         "to": "cswart@coair.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/deleted_items/27.",
+   "hops": [
+      {
+         "from": "a..shankman@enron.com",
+         "line": 4,
+         "rawfrom": "a..shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer.burns@enron.com"
+      },
+      {
+         "from": "chris@sheckys.com",
+         "line": 22,
+         "rawfrom": "\t\"choffman\" <chris@sheckys.com>@ENRON [mailto:IMCEANOTES-+22choffman+22+20+3Cchris+40sheckys+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 36,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "chris@sheckys.com"
+      },
+      {
+         "from": "chris@sheckys.com",
+         "line": 53,
+         "rawfrom": "  \"choffman\" <chris@sheckys.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/deleted_items/351.",
+   "hops": [
+      {
+         "from": "a..shankman@enron.com",
+         "line": 4,
+         "rawfrom": "a..shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "c.measom@tjmhou.com"
+      },
+      {
+         "from": "c.measom@tjmhou.com",
+         "line": 22,
+         "rawfrom": "\t\"Carol Measom\" <c.measom@tjmhou.com>@ENRON  \n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 43,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "c.measom@tjmhou.com"
+      },
+      {
+         "from": "c.measom@tjmhou.com",
+         "line": 56,
+         "rawfrom": "  \"Carol Measom\" <c.measom@tjmhou.com>@ENRON\n",
+         "source": "email",
+         "to": "c.measom@tjmhou.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/deleted_items/395.",
+   "hops": [
+      {
+         "from": "cswart@coair.com",
+         "line": 4,
+         "rawfrom": "cswart@coair.com\r\n",
+         "source": "valid",
+         "to": "a..shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 34,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 48,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 71,
+         "rawfrom": "Shankman, Jeffrey A. [mailto:Jeffrey.A.Shankman@ENRON.com]\n",
+         "source": "email",
+         "to": "cswart@coair.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/deleted_items/239.",
+   "hops": [
+      {
+         "from": "a..shankman@enron.com",
+         "line": 4,
+         "rawfrom": "a..shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "cswart@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 22,
+         "rawfrom": "\t\"Swartz, Cristina\" <CSWART@coair.com>@ENRON  \n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 30,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 40,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 61,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 70,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 110,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 130,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 166,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 184,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/deleted_items/165.",
+   "hops": [
+      {
+         "from": "a..shankman@enron.com",
+         "line": 4,
+         "rawfrom": "a..shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "robert.johnston@enron.com"
+      },
+      {
+         "from": "lgoldb@bellsouth.net",
+         "line": 22,
+         "rawfrom": "\tLawrence Goldberg <lgoldb@bellsouth.net>@ENRON  \n",
+         "source": "email",
+         "to": "Al_Rosckes; Allan Weiss; Arnie Yashar; Bert Sparrow; Brenda Falkenstein; Bryan Loy, M.D.; Carlos Katz; David Joels; Ellen Shaikun; Gregory Semerdjian; Shankman, Jeffrey A.; Jennifer Goldberg; Jerry Usulander; Matthew and Shira Goldberg; Stuart Goldberg; Susanna and Matt Liljenstolpe"
+      },
+      {
+         "from": "larrygoldberg@chi-caritas.org",
+         "line": 31,
+         "rawfrom": "\"Goldberg, Larry\" <LarryGoldberg@chi-caritas.org>\n",
+         "source": "email",
+         "to": "'Lawrence Goldberg' <lgoldb@bellsouth.net>"
+      },
+      {
+         "from": "dcurran@archlou.org",
+         "line": 53,
+         "rawfrom": " Debbie Curran <dcurran@archlou.org>\n",
+         "source": "email",
+         "to": "\"'Bradley, Betty'\" <memaw000@aol.com>, \"'Brown, Charlie & Fran'\""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/deleted_items/280.",
+   "hops": [
+      {
+         "from": "cswart@coair.com",
+         "line": 4,
+         "rawfrom": "cswart@coair.com\r\n",
+         "source": "valid",
+         "to": "a..shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 43,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 59,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 86,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 101,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 128,
+         "rawfrom": "Shankman, Jeffrey A. [mailto:Jeffrey.A.Shankman@ENRON.com]\n",
+         "source": "email",
+         "to": "cswart@coair.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/deleted_items/212.",
+   "hops": [
+      {
+         "from": "a..shankman@enron.com",
+         "line": 4,
+         "rawfrom": "a..shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "cswart@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 24,
+         "rawfrom": "\t\"Swartz, Cristina\" <CSWART@coair.com>@ENRON  \n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 32,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 46,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 58,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 67,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 76,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 88,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 117,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 126,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 174,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 198,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 243,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 265,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/deleted_items/561.",
+   "hops": [
+      {
+         "from": "saar.banin@gs.com",
+         "line": 4,
+         "rawfrom": "saar.banin@gs.com\r\n",
+         "source": "valid",
+         "to": "a..shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 24,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "Banin, Saar"
+      },
+      {
+         "from": "saar.banin@gs.com",
+         "line": 38,
+         "rawfrom": "  \"Banin, Saar\" <saar.banin@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 47,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "Banin, Saar"
+      },
+      {
+         "from": "saar.banin@gs.com",
+         "line": 63,
+         "rawfrom": "  \"Banin, Saar\" <saar.banin@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 72,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "Banin, Saar"
+      },
+      {
+         "from": "saar.banin@gs.com",
+         "line": 88,
+         "rawfrom": "  \"Banin, Saar\" <saar.banin@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 97,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "Banin, Saar"
+      },
+      {
+         "from": "saar.banin@gs.com",
+         "line": 119,
+         "rawfrom": "  \"Banin, Saar\" <saar.banin@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 128,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "Banin, Saar"
+      },
+      {
+         "from": "saar.banin@gs.com",
+         "line": 146,
+         "rawfrom": "  \"Banin, Saar\" <saar.banin@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/deleted_items/161.",
+   "hops": [
+      {
+         "from": "a..shankman@enron.com",
+         "line": 4,
+         "rawfrom": "a..shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "lgoldb@bellsouth.net"
+      },
+      {
+         "from": "lgoldb@bellsouth.net",
+         "line": 44,
+         "rawfrom": "\tLawrence Goldberg <lgoldb@bellsouth.net>@ENRON  \n",
+         "source": "email",
+         "to": "Al_Rosckes; Allan Weiss; Arnie Yashar; Bert Sparrow; Brenda Falkenstein; Bryan Loy, M.D.; Carlos Katz; David Joels; Ellen Shaikun; Gregory Semerdjian; Shankman, Jeffrey A.; Jennifer Goldberg; Jerry Usulander; Matthew and Shira Goldberg; Stuart Goldberg; Susanna and Matt Liljenstolpe"
+      },
+      {
+         "from": "larrygoldberg@chi-caritas.org",
+         "line": 53,
+         "rawfrom": "\"Goldberg, Larry\" <LarryGoldberg@chi-caritas.org>\n",
+         "source": "email",
+         "to": "'Lawrence Goldberg' <lgoldb@bellsouth.net>"
+      },
+      {
+         "from": "dcurran@archlou.org",
+         "line": 75,
+         "rawfrom": " Debbie Curran <dcurran@archlou.org>\n",
+         "source": "email",
+         "to": "\"'Bradley, Betty'\" <memaw000@aol.com>, \"'Brown, Charlie & Fran'\""
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/deleted_items/341.",
+   "hops": [
+      {
+         "from": "c.measom@tjmhou.com",
+         "line": 4,
+         "rawfrom": "c.measom@tjmhou.com\r\n",
+         "source": "valid",
+         "to": "a..shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 33,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "c.measom@tjmhou.com"
+      },
+      {
+         "from": "c.measom@tjmhou.com",
+         "line": 42,
+         "rawfrom": "  \"Carol Measom\" <c.measom@tjmhou.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 64,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "c.measom@tjmhou.com"
+      },
+      {
+         "from": "c.measom@tjmhou.com",
+         "line": 79,
+         "rawfrom": "  \"Carol Measom\" <c.measom@tjmhou.com>@ENRON\n",
+         "source": "email",
+         "to": "c.measom@tjmhou.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/deleted_items/220.",
+   "hops": [
+      {
+         "from": "cswart@coair.com",
+         "line": 4,
+         "rawfrom": "cswart@coair.com\r\n",
+         "source": "valid",
+         "to": "a..shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 26,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 35,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 43,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 54,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 81,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 90,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 133,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 155,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 197,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 217,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/deleted_items/504.",
+   "hops": [
+      {
+         "from": "caroline.lang@sothebys.com",
+         "line": 25,
+         "rawfrom": "\"Lang, Caroline\" <caroline.lang@sothebys.com>\n",
+         "source": "email",
+         "to": "\"'dabraver@aol.com'\" <dabraver@aol.com>"
+      },
+      {
+         "from": "oohotpink@aol.com",
+         "line": 176,
+         "rawfrom": "Oohotpink@aol.com\n",
+         "source": "valid",
+         "to": "AYEMBEE@aol.com, Dalfen1@aol.com, Debgarson@aol.com, Rbe419@aol.com, \tMalkaFingold@aol.com, HelaineAll@aol.com, hzimm11@bellsouth.net, \tBAMARDEN1@aol.com, Pamelalevy@aol.com, segel@sopris.net"
+      },
+      {
+         "from": "damom@earthlink.net",
+         "line": 188,
+         "rawfrom": "The Lost Episode <damom@earthlink.net>\n",
+         "source": "email",
+         "to": "Noneck Roth <oohotpink@aol.com>, Harlene Flaxman <HFlaxman@cs.com>, \tlynniie@aol.com"
+      },
+      {
+         "from": "twgroener@aol.com",
+         "line": 199,
+         "rawfrom": "TWGroener@aol.com <TWGroener@aol.com>\n",
+         "source": "email",
+         "to": "mbell529@aol.com <mbell529@aol.com>; burr@haai.com <burr@haai.com>;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/deleted_items/647.",
+   "hops": [
+      {
+         "from": "a..shankman@enron.com",
+         "line": 4,
+         "rawfrom": "a..shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "ben@macklowegallery.com"
+      },
+      {
+         "from": "ben@macklowegallery.com",
+         "line": 32,
+         "rawfrom": "\t\"Ben Macklowe\" <Ben@MackloweGallery.com>@ENRON  \n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 57,
+         "rawfrom": "<Jeffrey.A.Shankman@enron.com>\n",
+         "source": "email",
+         "to": "<Ben@macklowegallery.com>"
+      },
+      {
+         "from": "ben@macklowegallery.com",
+         "line": 88,
+         "rawfrom": "  \"Ben Macklowe\" <Ben@MackloweGallery.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/deleted_items/274.",
+   "hops": [
+      {
+         "from": "a..shankman@enron.com",
+         "line": 4,
+         "rawfrom": "a..shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "cswart@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 22,
+         "rawfrom": "\t\"Swartz, Cristina\" <CSWART@coair.com>@ENRON  \n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 38,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 47,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 82,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 100,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 133,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 149,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 179,
+         "rawfrom": "Shankman, Jeffrey A. [mailto:Jeffrey.A.Shankman@ENRON.com]\n",
+         "source": "email",
+         "to": "cswart@coair.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/sent_items/51.",
+   "hops": [
+      {
+         "from": "a..shankman@enron.com",
+         "line": 4,
+         "rawfrom": "a..shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer.burns@enron.com"
+      },
+      {
+         "from": "mondomodern@earthlink.net",
+         "line": 22,
+         "rawfrom": "\tMondo Cane <mondomodern@earthlink.net>@ENRON  \n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 42,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "mondomodern@earthlink.net"
+      },
+      {
+         "from": "mondomodern@earthlink.net",
+         "line": 57,
+         "rawfrom": "  Mondo Cane <mondomodern@earthlink.net>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/sent_items/57.",
+   "hops": [
+      {
+         "from": "a..shankman@enron.com",
+         "line": 4,
+         "rawfrom": "a..shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer.burns@enron.com"
+      },
+      {
+         "from": "mondomodern@earthlink.net",
+         "line": 22,
+         "rawfrom": "\tMondo Cane <mondomodern@earthlink.net>@ENRON  \n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 42,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "mondomodern@earthlink.net"
+      },
+      {
+         "from": "mondomodern@earthlink.net",
+         "line": 54,
+         "rawfrom": "  Mondo Cane <mondomodern@earthlink.net>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 76,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "mondomodern@earthlink.net"
+      },
+      {
+         "from": "mondomodern@earthlink.net",
+         "line": 92,
+         "rawfrom": "  Mondo Cane <mondomodern@earthlink.net>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/sent_items/53.",
+   "hops": [
+      {
+         "from": "a..shankman@enron.com",
+         "line": 4,
+         "rawfrom": "a..shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "mondomodern@earthlink.net"
+      },
+      {
+         "from": "mondomodern@earthlink.net",
+         "line": 24,
+         "rawfrom": "\tMondo Cane <mondomodern@earthlink.net>@ENRON  \n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 44,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "mondomodern@earthlink.net"
+      },
+      {
+         "from": "mondomodern@earthlink.net",
+         "line": 59,
+         "rawfrom": "  Mondo Cane <mondomodern@earthlink.net>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/sent_items/42.",
+   "hops": [
+      {
+         "from": "a..shankman@enron.com",
+         "line": 4,
+         "rawfrom": "a..shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "jeffshankman@hotmail.com"
+      },
+      {
+         "from": "chris@sheckys.com",
+         "line": 22,
+         "rawfrom": "\t\"choffman\" <chris@sheckys.com>@ENRON [mailto:IMCEANOTES-+22choffman+22+20+3Cchris+40sheckys+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 36,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "chris@sheckys.com"
+      },
+      {
+         "from": "chris@sheckys.com",
+         "line": 53,
+         "rawfrom": "  \"choffman\" <chris@sheckys.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/sent_items/6.",
+   "hops": [
+      {
+         "from": "a..shankman@enron.com",
+         "line": 4,
+         "rawfrom": "a..shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "jennifer.burns@enron.com"
+      },
+      {
+         "from": "john.geresi@tdsecurities.com",
+         "line": 22,
+         "rawfrom": "\t\"Geresi, John\" <John.Geresi@tdsecurities.com>@ENRON  \n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 37,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "Geresi, John"
+      },
+      {
+         "from": "john.geresi@tdsecurities.com",
+         "line": 48,
+         "rawfrom": "  \"Geresi, John\" <John.Geresi@tdsecurities.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/discussion_threads/375.",
+   "hops": [
+      {
+         "from": "jeffrey.shankman@enron.com",
+         "line": 4,
+         "rawfrom": "jeffrey.shankman@enron.com\r\n",
+         "source": "valid",
+         "to": "eric.gonzales@enron.com, jennifer.burns@enron.com"
+      },
+      {
+         "from": "vince.j.kaminski@enron.com",
+         "line": 72,
+         "rawfrom": "Vince.J.Kaminski@enron.com on 03/01/2001 09:45:02 PM\n",
+         "source": "email",
+         "to": "azminab@petronas.com.my"
+      },
+      {
+         "from": "azminab@petronas.com.my",
+         "line": 96,
+         "rawfrom": "azminab@petronas.com.my on 01/02/2001 06:38:33 PM\n",
+         "source": "email",
+         "to": "Vince.J.Kaminski@enron.com, KhairuddinBMJaafar@petronas.com.my,"
+      },
+      {
+         "from": "vince.j.kaminski@enron.com",
+         "line": 117,
+         "rawfrom": "Vince.J.Kaminski@enron.com on 03/01/2001 07:38:19 AM\n",
+         "source": "email",
+         "to": "azminab@petronas.com.my"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/discussion_threads/335.",
+   "hops": [
+      {
+         "from": "cmastros@unterberg.com",
+         "line": 4,
+         "rawfrom": "cmastros@unterberg.com\r\n",
+         "source": "valid",
+         "to": "jeffrey.a.shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 42,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "cmastros@unterberg.com"
+      },
+      {
+         "from": "cmastros@unterberg.com",
+         "line": 54,
+         "rawfrom": "\"Mastros, Christina\" <cmastros@unterberg.com> on 01/03/2001 11:10:58 AM\n",
+         "source": "email",
+         "to": "\"'Jeffrey.A.Shankman@enron.com'\" <Jeffrey.A.Shankman@enron.com>"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 80,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "cmastros@unterberg.com"
+      },
+      {
+         "from": "cmastros@unterberg.com",
+         "line": 97,
+         "rawfrom": "\"Mastros, Christina\" <cmastros@unterberg.com> on 11/30/2000 09:17:44 AM\n",
+         "source": "email",
+         "to": "\"'jeff.shankman@enron.com'\" <jeff.shankman@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/saved_mail/37.",
+   "hops": [
+      {
+         "from": "cswart@coair.com",
+         "line": 4,
+         "rawfrom": "cswart@coair.com\r\n",
+         "source": "valid",
+         "to": "a..shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 30,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 39,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 74,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 92,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 125,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 141,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 171,
+         "rawfrom": "Shankman, Jeffrey A. [mailto:Jeffrey.A.Shankman@ENRON.com]\n",
+         "source": "email",
+         "to": "cswart@coair.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/personal/25.",
+   "hops": [
+      {
+         "from": "chris@sheckys.com",
+         "line": 4,
+         "rawfrom": "chris@sheckys.com\r\n",
+         "source": "valid",
+         "to": "a..shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 26,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "chris@sheckys.com"
+      },
+      {
+         "from": "chris@sheckys.com",
+         "line": 45,
+         "rawfrom": "  \"choffman\" <chris@sheckys.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 62,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "chris@sheckys.com"
+      },
+      {
+         "from": "chris@sheckys.com",
+         "line": 81,
+         "rawfrom": "  \"choffman\" <chris@sheckys.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/personal/24.",
+   "hops": [
+      {
+         "from": "elizabeth.danes@capitalz.com",
+         "line": 4,
+         "rawfrom": "elizabeth.danes@capitalz.com\r\n",
+         "source": "valid",
+         "to": "a..shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 28,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "Elizabeth.Danes@capitalz.com"
+      },
+      {
+         "from": "elizabeth.danes@capitalz.com",
+         "line": 47,
+         "rawfrom": "Elizabeth Danes <Elizabeth.Danes@capitalz.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 95,
+         "rawfrom": "Shankman, Jeffrey A. [ mailto:Jeffrey.A.Shankman@ENRON.com]\n",
+         "source": "email",
+         "to": "elizabeth.danes@capitalz.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/old_email/39.",
+   "hops": [
+      {
+         "from": "cswart@coair.com",
+         "line": 4,
+         "rawfrom": "cswart@coair.com\r\n",
+         "source": "valid",
+         "to": "a..shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 22,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 32,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 53,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 62,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 102,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 122,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 158,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com\n",
+         "source": "valid",
+         "to": "CSWART@coair.com"
+      },
+      {
+         "from": "cswart@coair.com",
+         "line": 176,
+         "rawfrom": "  \"Swartz, Cristina\" <CSWART@coair.com>@ENRON\n",
+         "source": "email",
+         "to": "Shankman, Jeffrey A."
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/shankman-j/old_email/3.",
+   "hops": [
+      {
+         "from": "cmastros@unterberg.com",
+         "line": 4,
+         "rawfrom": "cmastros@unterberg.com\r\n",
+         "source": "valid",
+         "to": "jeffrey.a.shankman@enron.com"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 42,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "cmastros@unterberg.com"
+      },
+      {
+         "from": "cmastros@unterberg.com",
+         "line": 54,
+         "rawfrom": "\"Mastros, Christina\" <cmastros@unterberg.com> on 01/03/2001 11:10:58 AM\n",
+         "source": "email",
+         "to": "\"'Jeffrey.A.Shankman@enron.com'\" <Jeffrey.A.Shankman@enron.com>"
+      },
+      {
+         "from": "jeffrey.a.shankman@enron.com",
+         "line": 80,
+         "rawfrom": "Jeffrey.A.Shankman@enron.com [mailto:Jeffrey.A.Shankman@enron.com]\n",
+         "source": "email",
+         "to": "cmastros@unterberg.com"
+      },
+      {
+         "from": "cmastros@unterberg.com",
+         "line": 97,
+         "rawfrom": "\"Mastros, Christina\" <cmastros@unterberg.com> on 11/30/2000 09:17:44 AM\n",
+         "source": "email",
+         "to": "\"'jeff.shankman@enron.com'\" <jeff.shankman@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+]

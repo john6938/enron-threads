@@ -1,0 +1,78 @@
+[
+{
+   "file": "/home/jb/maildir/thomas-p/sent_items/12.",
+   "hops": [
+      {
+         "from": "d..thomas@enron.com",
+         "line": 4,
+         "rawfrom": "d..thomas@enron.com\r\n",
+         "source": "valid",
+         "to": "daarontaylor@hotmail.com"
+      },
+      {
+         "from": "daarontaylor@hotmail.com",
+         "line": 31,
+         "rawfrom": "\t\"daarontaylor at hotmail dot com\" <daarontaylor@hotmail.com>@ENRON  \n",
+         "source": "email",
+         "to": "Thomas, Paul D."
+      },
+      {
+         "from": "paul.d.thomas@enron.com",
+         "line": 68,
+         "rawfrom": "<Paul.D.Thomas@enron.com>\n",
+         "source": "email",
+         "to": "<daarontaylor@hotmail.com>"
+      },
+      {
+         "from": "daarontaylor@hotmail.com",
+         "line": 114,
+         "rawfrom": "  \"daarontaylor at hotmail dot com\" <daarontaylor@hotmail.com>\n",
+         "source": "email",
+         "to": "Thomas, Paul D."
+      },
+      {
+         "from": "paul.d.thomas@enron.com",
+         "line": 223,
+         "rawfrom": "\"Thomas, Paul D.\" <Paul.D.Thomas@ENRON.com>\n",
+         "source": "email",
+         "to": "<daarontaylor@hotmail.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/thomas-p/sent_items/28.",
+   "hops": [
+      {
+         "from": "d..thomas@enron.com",
+         "line": 4,
+         "rawfrom": "d..thomas@enron.com\r\n",
+         "source": "valid",
+         "to": "christopher.lewis@accenture.com"
+      },
+      {
+         "from": "christopher.lewis@accenture.com",
+         "line": 30,
+         "rawfrom": "\tchristopher.lewis@accenture.com@ENRON  \n",
+         "source": "email",
+         "to": "Thomas, Paul D."
+      },
+      {
+         "from": "paul.d.thomas@enron.c",
+         "line": 46,
+         "rawfrom": "Paul.D.Thomas@enron.c",
+         "source": "valid",
+         "to": ""
+      },
+      {
+         "from": "christopher.lewis@accenture.com",
+         "line": 66,
+         "rawfrom": "  christopher.lewis@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Thomas, Paul D.; jonpaul.weiss@ey.com; cfalcon@ev1.net;"
+      }
+   ],
+   "skipped": 0
+}
+]

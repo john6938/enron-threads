@@ -1,0 +1,239 @@
+[
+{
+   "file": "/home/jb/maildir/platter-p/inbox/338.",
+   "hops": [
+      {
+         "from": "bhunsucker@ercot.com",
+         "line": 4,
+         "rawfrom": "bhunsucker@ercot.com\r\n",
+         "source": "valid",
+         "to": "phillip.platter@enron.com"
+      },
+      {
+         "from": "phillip.platter@enron.com",
+         "line": 28,
+         "rawfrom": "Platter, Phillip [mailto:Phillip.Platter@ENRON.com]\n",
+         "source": "email",
+         "to": "Hunsucker, Brett"
+      },
+      {
+         "from": "bhunsucker@ercot.com",
+         "line": 43,
+         "rawfrom": "Hunsucker, Brett [mailto:Bhunsucker@ercot.com]\n",
+         "source": "email",
+         "to": "Platter, Phillip"
+      },
+      {
+         "from": "phillip.platter@enron.com",
+         "line": 57,
+         "rawfrom": "Phillip.Platter@enron.com [mailto:Phillip.Platter@enron.com]\n",
+         "source": "email",
+         "to": "Bhunsucker@ercot.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/platter-p/inbox/103.",
+   "hops": [
+      {
+         "from": "platter.oregon@verizon.net",
+         "line": 4,
+         "rawfrom": "platter.oregon@verizon.net\r\n",
+         "source": "valid",
+         "to": "phillip.platter@enron.com"
+      },
+      {
+         "from": "platter.oregon@verizon.net",
+         "line": 22,
+         "rawfrom": "Platter [mailto:platter.oregon@verizon.net]\n",
+         "source": "email",
+         "to": "KAPUSTKA, LAURA L"
+      },
+      {
+         "from": "lkapustka@oppd.com",
+         "line": 33,
+         "rawfrom": "KAPUSTKA, LAURA L [mailto:lkapustka@oppd.com]\n",
+         "source": "email",
+         "to": "Platter"
+      },
+      {
+         "from": "platter.oregon@verizon.net",
+         "line": 53,
+         "rawfrom": "> From:\tPlatter [SMTP:platter.oregon@verizon.net]\n",
+         "source": "email",
+         "to": "lkapustka@oppd.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/platter-p/inbox/138.",
+   "hops": [
+      {
+         "from": "dried@oppd.com",
+         "line": 4,
+         "rawfrom": "dried@oppd.com\r\n",
+         "source": "valid",
+         "to": "phillip.platter@enron.com"
+      },
+      {
+         "from": "phillip.platter@enron.com",
+         "line": 38,
+         "rawfrom": "> From:\tPlatter, Phillip [SMTP:Phillip.Platter@enron.com]\n",
+         "source": "email",
+         "to": "RIED, DAVID G"
+      },
+      {
+         "from": "platter.oregon@verizon.net",
+         "line": 58,
+         "rawfrom": "Platter [mailto:platter.oregon@verizon.net]\n",
+         "source": "email",
+         "to": "Platter, Phillip"
+      },
+      {
+         "from": "dried@oppd.com",
+         "line": 67,
+         "rawfrom": "RIED, DAVID G [mailto:dried@oppd.com]\n",
+         "source": "email",
+         "to": "Platter"
+      },
+      {
+         "from": "platter.oregon@verizon.net",
+         "line": 98,
+         "rawfrom": "> > From:\tPlatter [SMTP:platter.oregon@verizon.net]\n",
+         "source": "email",
+         "to": "dried@oppd.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/platter-p/sent_items/30.",
+   "hops": [
+      {
+         "from": "phillip.platter@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.platter@enron.com\r\n",
+         "source": "valid",
+         "to": "'hunsucker@enron.com, bhunsucker@ercot.com"
+      },
+      {
+         "from": "bhunsucker@ercot.com",
+         "line": 23,
+         "rawfrom": "Hunsucker, Brett [mailto:Bhunsucker@ercot.com]\n",
+         "source": "email",
+         "to": "Platter, Phillip"
+      },
+      {
+         "from": "phillip.platter@enron.com",
+         "line": 38,
+         "rawfrom": "Platter, Phillip [mailto:Phillip.Platter@ENRON.com]\n",
+         "source": "email",
+         "to": "Hunsucker, Brett"
+      },
+      {
+         "from": "bhunsucker@ercot.com",
+         "line": 53,
+         "rawfrom": "Hunsucker, Brett [mailto:Bhunsucker@ercot.com]\n",
+         "source": "email",
+         "to": "Platter, Phillip"
+      },
+      {
+         "from": "phillip.platter@enron.com",
+         "line": 67,
+         "rawfrom": "Phillip.Platter@enron.com [mailto:Phillip.Platter@enron.com]\n",
+         "source": "email",
+         "to": "Bhunsucker@ercot.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/platter-p/sent_items/7.",
+   "hops": [
+      {
+         "from": "phillip.platter@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.platter@enron.com\r\n",
+         "source": "valid",
+         "to": "dried@oppd.com"
+      },
+      {
+         "from": "platter.oregon@verizon.net",
+         "line": 27,
+         "rawfrom": "Platter [mailto:platter.oregon@verizon.net]\n",
+         "source": "email",
+         "to": "Platter, Phillip"
+      },
+      {
+         "from": "dried@oppd.com",
+         "line": 36,
+         "rawfrom": "RIED, DAVID G [mailto:dried@oppd.com]\n",
+         "source": "email",
+         "to": "Platter"
+      },
+      {
+         "from": "platter.oregon@verizon.net",
+         "line": 66,
+         "rawfrom": "> From:\tPlatter [SMTP:platter.oregon@verizon.net]\n",
+         "source": "email",
+         "to": "dried@oppd.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/platter-p/sent_items/6.",
+   "hops": [
+      {
+         "from": "phillip.platter@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.platter@enron.com\r\n",
+         "source": "valid",
+         "to": "platter.oregon@verizon.net"
+      },
+      {
+         "from": "dried@oppd.com",
+         "line": 22,
+         "rawfrom": "RIED, DAVID G [mailto:dried@oppd.com]\n",
+         "source": "email",
+         "to": "Platter, Phillip"
+      },
+      {
+         "from": "phillip.platter@enron.com",
+         "line": 47,
+         "rawfrom": "> From:\tPlatter, Phillip [SMTP:Phillip.Platter@enron.com]\n",
+         "source": "email",
+         "to": "RIED, DAVID G"
+      },
+      {
+         "from": "platter.oregon@verizon.net",
+         "line": 67,
+         "rawfrom": "Platter [mailto:platter.oregon@verizon.net]\n",
+         "source": "email",
+         "to": "Platter, Phillip"
+      },
+      {
+         "from": "dried@oppd.com",
+         "line": 76,
+         "rawfrom": "RIED, DAVID G [mailto:dried@oppd.com]\n",
+         "source": "email",
+         "to": "Platter"
+      },
+      {
+         "from": "platter.oregon@verizon.net",
+         "line": 107,
+         "rawfrom": "> > From:\tPlatter [SMTP:platter.oregon@verizon.net]\n",
+         "source": "email",
+         "to": "dried@oppd.com"
+      }
+   ],
+   "skipped": 0
+}
+]

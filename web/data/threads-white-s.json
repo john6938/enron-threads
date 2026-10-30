@@ -1,0 +1,120 @@
+[
+{
+   "file": "/home/jb/maildir/white-s/sent_items/206.",
+   "hops": [
+      {
+         "from": "w..white@enron.com",
+         "line": 4,
+         "rawfrom": "w..white@enron.com\r\n",
+         "source": "valid",
+         "to": "russellt@cottonrestorationinc.com"
+      },
+      {
+         "from": "russellt@cottonrestorationinc.com",
+         "line": 22,
+         "rawfrom": "\t\"Russell White\" <russellt@cottonrestorationinc.com>@ENRON  \n",
+         "source": "email",
+         "to": "White, Stacey W."
+      },
+      {
+         "from": "stacey.w.white@enron.com",
+         "line": 29,
+         "rawfrom": "Stacey.W.White@enron.com <Stacey.W.White@enron.com>\n",
+         "source": "email",
+         "to": "russellt@cottonrestorationinc.com <russellt@cottonrestorationinc.com>"
+      },
+      {
+         "from": "russellt@cottonrestorationinc.com",
+         "line": 41,
+         "rawfrom": "  \"Russell White\" <russellt@cottonrestorationinc.com>@ENRON\n",
+         "source": "email",
+         "to": "White, Stacey W."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/white-s/sent_items/268.",
+   "hops": [
+      {
+         "from": "w..white@enron.com",
+         "line": 4,
+         "rawfrom": "w..white@enron.com\r\n",
+         "source": "valid",
+         "to": "jkjstegall@aol.com"
+      },
+      {
+         "from": "jkjstegall@aol.com",
+         "line": 24,
+         "rawfrom": "\tJkjstegall@aol.com@ENRON  \n",
+         "source": "email",
+         "to": "catalex@txcr.net; Ctown75@aol.com; sdobos@hot.rr.com; Farrell400@cs.com; efloca@hot.rr.com; bigdaddy@tisd.net; valgottschalt@yahoo.com; Dkaybg@aol.com; bobby.hempfling@nokia.com; thonaker@vvm.com; MISSUSA78@aol.com; dmorris@lsu.edu; emyers2@austin.rr.com; CLCNEWTON@aol.com; pedraz8811@aol.com; jpirtle@vvm.com; vrhodes@templeinland.com; MelSammons@aol.com; SaraS91@aol.com; shawns@vvm.com; TSmith7372@aol.com; kj4ph@hotmail.com; weldonvc@hotmail.com; winston@tisd.net; White, Stacey W."
+      },
+      {
+         "from": "heather@lamonsgasket.com",
+         "line": 34,
+         "rawfrom": "Heather Rios <Heather@LamonsGasket.com>\n",
+         "source": "email",
+         "to": "\"'Alan Peters'\" <ajpeters@texas.net>, \"'Eric'\" <etyler@allcapcorp.com>,        \"'Chris'\" <chris.r@forgital.com>,        \"'summer m ruckman'\"\t <summer.m.ruckman@mail.sprint.com>,        \"'Shelly.Mendel@enron.com'\"\t <Shelly.Mendel@enron.com>,        \"'PENPAL93@AOL.COM'\" <PENPAL93@AOL.COM>,        \"'Kevin Haase'\" <kevin.t.haase1@jsc.nasa.gov>,        \"'Jeff & Kristi Stegall'\"\t <jkjstegall@aol.com>,        \"'Jason Harrison'\" <jharrison@advindustries.com>,        \"'DAVELOANE@cs.com'\" <DAVELOANE@cs.com>,        \"'danchristinalinnell@sbcglobal.net'\" <danchristinalinnell@sbcglobal.net>"
+      },
+      {
+         "from": "bcabrero@heart.thi.tmc.edu",
+         "line": 57,
+         "rawfrom": "bcabrero [mailto:bcabrero@heart.thi.tmc.edu]\n",
+         "source": "email",
+         "to": "laurisal@lamonsgasket.com"
+      },
+      {
+         "from": "guy.f.sears@bankofamerica.com",
+         "line": 67,
+         "rawfrom": "Guy.F.Sears@bankofamerica.com\n",
+         "source": "valid",
+         "to": "Kana Tracy Ward; rtumlin99@aol.com; efrog@justicemail.com;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/white-s/sent_items/159.",
+   "hops": [
+      {
+         "from": "w..white@enron.com",
+         "line": 4,
+         "rawfrom": "w..white@enron.com\r\n",
+         "source": "valid",
+         "to": "joel.ephross@enron.com"
+      },
+      {
+         "from": "martin.sosland@weil.com",
+         "line": 51,
+         "rawfrom": "martin.sosland@weil.com [mailto:martin.sosland@weil.com]\n",
+         "source": "email",
+         "to": "Ephross, Joel"
+      },
+      {
+         "from": "martin.sosland@weil.com",
+         "line": 108,
+         "rawfrom": "martin.sosland@weil.com [mailto:martin.sosland@weil.com]\n",
+         "source": "email",
+         "to": "Winn, Melinda"
+      },
+      {
+         "from": "msomerstein@kelleydrye.com",
+         "line": 155,
+         "rawfrom": "\"Somerstein, Mark R.\" <MSomerstein@KelleyDrye.com>\n",
+         "source": "email",
+         "to": "\"Martin A. Sosland Esq. (E-mail)\" <martin.sosland@weil.com>"
+      },
+      {
+         "from": "msomerstein@kelleydrye.com",
+         "line": 165,
+         "rawfrom": "\"Somerstein, Mark R.\" <MSomerstein@KelleyDrye.com> on 12/20/2001\n",
+         "source": "email",
+         "to": "\"Martin A. Sosland Esq. (E-mail)\" <martin.sosland@weil.com>"
+      }
+   ],
+   "skipped": 3
+}
+]

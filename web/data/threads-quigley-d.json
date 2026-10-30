@@ -1,0 +1,2500 @@
+[
+{
+   "file": "/home/jb/maildir/quigley-d/inbox/36.",
+   "hops": [
+      {
+         "from": "sheri.a.righi@accenture.com",
+         "line": 4,
+         "rawfrom": "sheri.a.righi@accenture.com\r\n",
+         "source": "valid",
+         "to": "dutch.quigley@enron.com"
+      },
+      {
+         "from": "sheri.a.righi@accenture.com",
+         "line": 36,
+         "rawfrom": "sheri.a.righi@Accenture.com",
+         "source": "valid",
+         "to": "Sheri A. Righi/Internal/Accenture@Accenture"
+      },
+      {
+         "from": "sheri.a.righi@accenture.com",
+         "line": 53,
+         "rawfrom": "  sheri.a.righi@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "sheri.a.righi@accenture.com",
+         "line": 80,
+         "rawfrom": "sheri.a.righi@Accenture.com",
+         "source": "valid",
+         "to": "Sheri A."
+      },
+      {
+         "from": "sheri.a.righi@accenture.com",
+         "line": 101,
+         "rawfrom": "  sheri.a.righi@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/deleted_items/172.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 43,
+         "rawfrom": "> From:\tDutch.Quigley@enron.com [SMTP:Dutch.Quigley@enron.com]\n",
+         "source": "email",
+         "to": "Smith, Jeff; Chris.Kiske@arbitron.com; klyn@pdq.net;"
+      },
+      {
+         "from": "jeff_smith@afcc.com",
+         "line": 80,
+         "rawfrom": "  \"Smith, Jeff\" <Jeff_Smith@AFCC.com>@ENRON\n",
+         "source": "email",
+         "to": "'Kiske, Chris'; 'Kevin'; Ty Servello; Mike Deluke; Michael"
+      },
+      {
+         "from": "chris.kiske@arbitron.com",
+         "line": 106,
+         "rawfrom": "     Kiske, Chris [SMTP:Chris.Kiske@arbitron.com]\n",
+         "source": "email",
+         "to": "'Kevin'; Ty Servello; Mike Deluke; Michael Currie; Jody"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 135,
+         "rawfrom": "Kevin [mailto:klyn@pdq.net]\n",
+         "source": "email",
+         "to": "Ty Servello; Mike Deluke; Michael Currie; Jody Spottswood;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/deleted_items/171.",
+   "hops": [
+      {
+         "from": "johnsogc@bp.com",
+         "line": 4,
+         "rawfrom": "johnsogc@bp.com\r\n",
+         "source": "valid",
+         "to": "servello'.'anthony@enron.com"
+      },
+      {
+         "from": "ty.servello@cs.oag.state.tx.us",
+         "line": 24,
+         "rawfrom": "\tAnthony Servello [mailto:Ty.Servello@cs.oag.state.tx.us]\n",
+         "source": "email",
+         "to": "Jeff_Smith@AFCC.com; Chris.Kiske@arbitron.com; ckiske@austin.rr.com;"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 58,
+         "rawfrom": "> From:\tDutch.Quigley@enron.com [SMTP:Dutch.Quigley@enron.com]\n",
+         "source": "email",
+         "to": "Smith, Jeff; Chris.Kiske@arbitron.com; klyn@pdq.net;"
+      },
+      {
+         "from": "jeff_smith@afcc.com",
+         "line": 95,
+         "rawfrom": "  \"Smith, Jeff\" <Jeff_Smith@AFCC.com>@ENRON\n",
+         "source": "email",
+         "to": "'Kiske, Chris'; 'Kevin'; Ty Servello; Mike Deluke; Michael"
+      },
+      {
+         "from": "chris.kiske@arbitron.com",
+         "line": 121,
+         "rawfrom": "     Kiske, Chris [SMTP:Chris.Kiske@arbitron.com]\n",
+         "source": "email",
+         "to": "'Kevin'; Ty Servello; Mike Deluke; Michael Currie; Jody"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 150,
+         "rawfrom": "Kevin [mailto:klyn@pdq.net]\n",
+         "source": "email",
+         "to": "Ty Servello; Mike Deluke; Michael Currie; Jody Spottswood;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/deleted_items/74.",
+   "hops": [
+      {
+         "from": "djackson@rpsionline.com",
+         "line": 4,
+         "rawfrom": "djackson@rpsionline.com\r\n",
+         "source": "valid",
+         "to": "dutch.quigley@enron.com"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 22,
+         "rawfrom": "> From:\tDutch.Quigley@enron.com [SMTP:Dutch.Quigley@enron.com]\n",
+         "source": "email",
+         "to": "djackson@rpsionline.com"
+      },
+      {
+         "from": "djackson@rpsionline.com",
+         "line": 33,
+         "rawfrom": "  \"Jackson, Desean\" <djackson@rpsionline.com>@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 41,
+         "rawfrom": "     Dutch.Quigley@enron.com [SMTP:Dutch.Quigley@enron.com]\n",
+         "source": "email",
+         "to": "djackson@rpsionline.com"
+      },
+      {
+         "from": "djackson@rpsionline.com",
+         "line": 50,
+         "rawfrom": "  \"Jackson, Desean\" <djackson@rpsionline.com>@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 58,
+         "rawfrom": "     Quigley, Dutch [SMTP:Dutch.Quigley@ENRON.com]\n",
+         "source": "email",
+         "to": "\"Kevin\" <klyn@pdq.net>@ENRON; Brian Gibson; Dave Molnar;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/deleted_items/75.",
+   "hops": [
+      {
+         "from": "djackson@rpsionline.com",
+         "line": 4,
+         "rawfrom": "djackson@rpsionline.com\r\n",
+         "source": "valid",
+         "to": "dutch.quigley@enron.com"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 22,
+         "rawfrom": "> From:\tDutch.Quigley@enron.com [SMTP:Dutch.Quigley@enron.com]\n",
+         "source": "email",
+         "to": "djackson@rpsionline.com"
+      },
+      {
+         "from": "djackson@rpsionline.com",
+         "line": 31,
+         "rawfrom": "  \"Jackson, Desean\" <djackson@rpsionline.com>@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 39,
+         "rawfrom": "     Quigley, Dutch [SMTP:Dutch.Quigley@ENRON.com]\n",
+         "source": "email",
+         "to": "\"Kevin\" <klyn@pdq.net>@ENRON; Brian Gibson; Dave Molnar; Desean"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/deleted_items/173.",
+   "hops": [
+      {
+         "from": "michael.deluke@us.pwcglobal.com",
+         "line": 4,
+         "rawfrom": "michael.deluke@us.pwcglobal.com\r\n",
+         "source": "valid",
+         "to": "dutch.quigley@enron.com"
+      },
+      {
+         "from": "jeff_smith@afcc.com",
+         "line": 103,
+         "rawfrom": "  \"Smith, Jeff\" <Jeff_Smith@AFCC.com>@ENRON\n",
+         "source": "email",
+         "to": "'Kiske, Chris'; 'Kevin'; Ty Servello; Mike Deluke; Michael"
+      },
+      {
+         "from": "chris.kiske@arbitron.com",
+         "line": 129,
+         "rawfrom": "Kiske, Chris [SMTP:Chris.Kiske@arbitron.com]\n",
+         "source": "email",
+         "to": "'Kevin'; Ty Servello; Mike Deluke; Michael Currie; Jody"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 159,
+         "rawfrom": "Kevin [mailto:klyn@pdq.net]\n",
+         "source": "email",
+         "to": "Ty Servello; Mike Deluke; Michael Currie; Jody Spottswood;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/deleted_items/174.",
+   "hops": [
+      {
+         "from": "jeff_smith@afcc.com",
+         "line": 4,
+         "rawfrom": "jeff_smith@afcc.com\r\n",
+         "source": "valid",
+         "to": "'kevin'@enron.com, chris'.'kiske@enron.com, servello.ty@enron.com,"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 29,
+         "rawfrom": "> From:\tKevin [SMTP:klyn@pdq.net]\n",
+         "source": "email",
+         "to": "Smith, Jeff; 'Kiske, Chris'; Ty Servello; Mike Deluke; Michael"
+      },
+      {
+         "from": "jeff_smith@afcc.com",
+         "line": 50,
+         "rawfrom": "\"Smith, Jeff\" <Jeff_Smith@AFCC.com>\n",
+         "source": "email",
+         "to": "\"'Kiske, Chris'\" <Chris.Kiske@arbitron.com>; \"'Kevin'\" <klyn@pdq.net>;"
+      },
+      {
+         "from": "chris.kiske@arbitron.com",
+         "line": 79,
+         "rawfrom": "Kiske, Chris [SMTP:Chris.Kiske@arbitron.com]\n",
+         "source": "email",
+         "to": "'Kevin'; Ty Servello; Mike Deluke; Michael Currie; Jody"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 107,
+         "rawfrom": "Kevin [mailto:klyn@pdq.net]\n",
+         "source": "email",
+         "to": "Ty Servello; Mike Deluke; Michael Currie; Jody Spottswood; Jeff"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/107.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "john_riches@msn.com"
+      },
+      {
+         "from": "john_riches@msn.com",
+         "line": 26,
+         "rawfrom": "\t\"John Riches\" <john_riches@msn.com>@ENRON [mailto:IMCEANOTES-+22John+20Riches+22+20+3Cjohn+5Friches+40msn+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 33,
+         "rawfrom": "Dutch.Quigley@enron.com\n",
+         "source": "valid",
+         "to": "john_riches@msn.com"
+      },
+      {
+         "from": "john_riches@msn.com",
+         "line": 46,
+         "rawfrom": "  \"John Riches\" <john_riches@msn.com>@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 53,
+         "rawfrom": "\"Quigley, Dutch\" <Dutch.Quigley@ENRON.com>\n",
+         "source": "email",
+         "to": "<siva66@msn.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/313.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "jramirez@othon.com"
+      },
+      {
+         "from": "jramirez@othon.com",
+         "line": 22,
+         "rawfrom": "\t\"Joe Ramirez\" <jramirez@othon.com>@ENRON [mailto:IMCEANOTES-+22Joe+20Ramirez+22+20+3Cjramirez+40othon+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 30,
+         "rawfrom": "Dutch.Quigley@enron.com [mailto:Dutch.Quigley@enron.com]\n",
+         "source": "email",
+         "to": "jramirez@othon.com"
+      },
+      {
+         "from": "jramirez@othon.com",
+         "line": 43,
+         "rawfrom": "  \"Joe Ramirez\" <jramirez@othon.com>@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/155.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "klyn@pdq.net"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 28,
+         "rawfrom": "\t\"Kevin\" <klyn@pdq.net>@ENRON [mailto:IMCEANOTES-+22Kevin+22+20+3Cklyn+40pdq+2Enet+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 37,
+         "rawfrom": "<Dutch.Quigley@enron.com>\n",
+         "source": "email",
+         "to": "<klyn@pdq.net>"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 51,
+         "rawfrom": "  \"Kevin\" <klyn@pdq.net>@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 58,
+         "rawfrom": "<Dutch.Quigley@enron.com>\n",
+         "source": "email",
+         "to": "<klyn@pdq.net>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/253.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "jeff_smith@afcc.com, 'kiske@enron.com, chris.kiske@arbitron.com,"
+      },
+      {
+         "from": "jeff_smith@afcc.com",
+         "line": 43,
+         "rawfrom": "\t\"Smith, Jeff\" <Jeff_Smith@AFCC.com>@ENRON [mailto:IMCEANOTES-+22Smith+2C+20Jeff+22+20+3CJeff+5FSmith+40AFCC+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "'Kiske, Chris'; 'Kevin'; Ty Servello; Mike Deluke; Michael Currie; Jody Spottswood; Jeff Ullrich; Grant Johnson; Quigley, Dutch; Dan Wienserski; Chris Kiske (Home); BJ Naman; Andy Reynolds"
+      },
+      {
+         "from": "chris.kiske@arbitron.com",
+         "line": 59,
+         "rawfrom": "> From:\tKiske, Chris [SMTP:Chris.Kiske@arbitron.com]\n",
+         "source": "email",
+         "to": "'Kevin'; Ty Servello; Mike Deluke; Michael Currie; Jody Spottswood;"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 81,
+         "rawfrom": "Kevin [mailto:klyn@pdq.net]\n",
+         "source": "email",
+         "to": "Ty Servello; Mike Deluke; Michael Currie; Jody Spottswood; Jeff"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/542.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "martier@cpchem.com"
+      },
+      {
+         "from": "martier@cpchem.com",
+         "line": 22,
+         "rawfrom": "\t\"Martinez, Ernesto Jr\" <martier@cpchem.com>@ENRON  \n",
+         "source": "email",
+         "to": "Quigley, Dutch; Martinez, Ernesto Jr; dquigle@ect.enron.com; markm@cajunusa.com; jramirez@othon.com; jriches@cmsenergy.com; klyn@pdq.net; SIVA66@MAIL.EV1.NET; rs1119@aol.com; wolphguy@aol.com"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 30,
+         "rawfrom": "Dutch.Quigley@enron.com [mailto:Dutch.Quigley@enron.com]\n",
+         "source": "email",
+         "to": "martier@cpchem.com; dquigle@ect.enron.com; markm@cajunusa.com;"
+      },
+      {
+         "from": "martier@cpchem.com",
+         "line": 45,
+         "rawfrom": "  \"Martinez, Ernesto Jr\" <martier@cpchem.com>@ENRON\n",
+         "source": "email",
+         "to": "Henry Quigley (E-mail); HILLROD (E-mail); Joe Ramirez (E-mail);"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/255.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "klyn@pdq.net, smith@enron.com, jeff_smith@afcc.com, 'kiske@enron.com,"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 31,
+         "rawfrom": "\t\"Kevin\" <klyn@pdq.net>@ENRON [mailto:IMCEANOTES-+22Kevin+22+20+3Cklyn+40pdq+2Enet+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Smith, Jeff; 'Kiske, Chris'; Ty Servello; Mike Deluke; Michael Currie; Jody Spottswood; Jeff Ullrich; Grant Johnson; Quigley, Dutch; Dan Wienserski; Chris Kiske \\(Home\\); BJ Naman; Andy Reynolds"
+      },
+      {
+         "from": "jeff_smith@afcc.com",
+         "line": 45,
+         "rawfrom": "\"Smith, Jeff\" <Jeff_Smith@AFCC.com>\n",
+         "source": "email",
+         "to": "\"'Kevin'\" <klyn@pdq.net>; \"'Kiske, Chris'\" <Chris.Kiske@arbitron.com>;"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 66,
+         "rawfrom": "Kevin [SMTP:klyn@pdq.net]\n",
+         "source": "email",
+         "to": "Smith, Jeff; 'Kiske, Chris'; Ty Servello; Mike Deluke; Michael"
+      },
+      {
+         "from": "jeff_smith@afcc.com",
+         "line": 93,
+         "rawfrom": "\"Smith, Jeff\" <Jeff_Smith@AFCC.com>\n",
+         "source": "email",
+         "to": "\"'Kiske, Chris'\" <Chris.Kiske@arbitron.com>; \"'Kevin'\""
+      },
+      {
+         "from": "chris.kiske@arbitron.com",
+         "line": 128,
+         "rawfrom": "Kiske, Chris [SMTP:Chris.Kiske@arbitron.com]\n",
+         "source": "email",
+         "to": "'Kevin'; Ty Servello; Mike Deluke; Michael Currie; Jody"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 158,
+         "rawfrom": "Kevin [mailto:klyn@pdq.net]\n",
+         "source": "email",
+         "to": "Ty Servello; Mike Deluke; Michael Currie; Jody Spottswood; Jeff"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/275.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "markm@cajunusa.com, martier@cpchem.com, 40enron@enron.com,"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 27,
+         "rawfrom": "\t\"Mark Molnar\" <MarkM@cajunusa.com>@ENRON [mailto:IMCEANOTES-+22Mark+20Molnar+22+20+3CMarkM+40cajunusa+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "martier@cpchem.com; Quigley, Dutch; IMCEANOTES-Wolphguy+40aol+2Ecom+40ENRON@ENRON.com; ras1119@hotmail.com; siva66@mail.ev1.net; jramirez@othon.com; klyn@pdq.net"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 39,
+         "rawfrom": "Quigley, Dutch [mailto:Dutch.Quigley@ENRON.com]\n",
+         "source": "email",
+         "to": "Wolphguy@aol.com@ENRON; Martinez, Ernesto Jr; ras1119@hotmail.com;"
+      },
+      {
+         "from": "wolphguy@aol.com",
+         "line": 58,
+         "rawfrom": "\tWolphguy@aol.com@ENRON\n",
+         "source": "email",
+         "to": "martier@cpchem.com; ras1119@hotmail.com; siva66@mail.ev1.net;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/279.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "siva66@mail.ev1.net, markm@cajunusa.com, martier@cpchem.com,"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 70,
+         "rawfrom": "  \"Mark Molnar\" <MarkM@cajunusa.com>@ENRON\n",
+         "source": "email",
+         "to": "martier@cpchem.com; Quigley, Dutch;"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 89,
+         "rawfrom": "Quigley, Dutch [mailto:Dutch.Quigley@ENRON.com]\n",
+         "source": "email",
+         "to": "Wolphguy@aol.com@ENRON; Martinez, Ernesto Jr;"
+      },
+      {
+         "from": "wolphguy@aol.com",
+         "line": 112,
+         "rawfrom": "     Wolphguy@aol.com@ENRON\n",
+         "source": "email",
+         "to": "martier@cpchem.com; ras1119@hotmail.com;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/270.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "klyn@pdq.net, jramirez@othon.com, siva66@mail.ev1.net, martier@cpchem.com,"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 32,
+         "rawfrom": "\t\"Kevin\" <klyn@pdq.net>@ENRON [mailto:IMCEANOTES-+22Kevin+22+20+3Cklyn+40pdq+2Enet+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Joe Ramirez; Quigley, Dutch; siva66@mail.ev1.net; martier@cpchem.com; wolphguy@aol.com; MarkM@cajunusa.com; ras1119@hotmail.com"
+      },
+      {
+         "from": "jramirez@othon.com",
+         "line": 45,
+         "rawfrom": "\"Joe Ramirez\" <jramirez@othon.com>\n",
+         "source": "email",
+         "to": "\"Quigley, Dutch\" <Dutch.Quigley@ENRON.com>; <siva66@mail.ev1.net>;"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 58,
+         "rawfrom": "Quigley, Dutch [mailto:Dutch.Quigley@ENRON.com]\n",
+         "source": "email",
+         "to": "siva66@mail.ev1.net; martier@cpchem.com; wolphguy@aol.com;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/312.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "jramirez@othon.com"
+      },
+      {
+         "from": "jramirez@othon.com",
+         "line": 22,
+         "rawfrom": "\t\"Joe Ramirez\" <jramirez@othon.com>@ENRON [mailto:IMCEANOTES-+22Joe+20Ramirez+22+20+3Cjramirez+40othon+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 38,
+         "rawfrom": "Dutch.Quigley@enron.com [mailto:Dutch.Quigley@enron.com]\n",
+         "source": "email",
+         "to": "jramirez@othon.com"
+      },
+      {
+         "from": "jramirez@othon.com",
+         "line": 51,
+         "rawfrom": "  \"Joe Ramirez\" <jramirez@othon.com>@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/221.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "klyn@pdq.net"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 24,
+         "rawfrom": "\t\"Kevin\" <klyn@pdq.net>@ENRON [mailto:IMCEANOTES-+22Kevin+22+20+3Cklyn+40pdq+2Enet+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 43,
+         "rawfrom": "<Dutch.Quigley@enron.com>\n",
+         "source": "email",
+         "to": "<klyn@pdq.net>"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 63,
+         "rawfrom": "  \"Kevin\" <klyn@pdq.net>@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/186.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "ty.servello@cs.oag.state.tx.us, jeff_smith@afcc.com, ckiske@austin.rr.com,"
+      },
+      {
+         "from": "ty.servello@cs.oag.state.tx.us",
+         "line": 27,
+         "rawfrom": "\t\"Anthony Servello\" <Ty.Servello@cs.oag.state.tx.us>@ENRON [mailto:IMCEANOTES-+22Anthony+20Servello+22+20+3CTy+2EServello+40cs+2Eoag+2Estate+2Etx+2Eus+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "jeff_smith@afcc.com; ckiske@austin.rr.com; Kiske-business@austin.rr.com; johnsogc@bp.com; KevinCrawford@clearchannel.com; Quigley, Dutch; b_sting91@excite.com; abuse@msn.com; klyn@pdq.net; mcurrie@TCTA.org; michael.deluke@us.pwcglobal.com; j_andrew_reynolds@yahoo.com; kejo66@yahoo.com"
+      },
+      {
+         "from": "mcurrie@tcta.org",
+         "line": 68,
+         "rawfrom": "Michael Currie [mailto:mcurrie@TCTA.org]\n",
+         "source": "email",
+         "to": "'Anthony Servello'; jeff_smith@afcc.com; ckiske@austin.rr.com;"
+      },
+      {
+         "from": "ty.servello@cs.oag.state.tx.us",
+         "line": 101,
+         "rawfrom": "Anthony Servello [mailto:Ty.Servello@cs.oag.state.tx.us]\n",
+         "source": "email",
+         "to": "jeff_smith@afcc.com; ckiske@austin.rr.com;"
+      },
+      {
+         "from": "mcurrie@tcta.org",
+         "line": 132,
+         "rawfrom": "\"Michael Currie\" <mcurrie@TCTA.org>\n",
+         "source": "email",
+         "to": "<johnsogc@bp.com>; <michael.deluke@us.pwcglobal.com>;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/503.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "klyn@pdq.net"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 22,
+         "rawfrom": "\t\"Kevin\" <klyn@pdq.net>@ENRON  \n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 29,
+         "rawfrom": "<Dutch.Quigley@enron.com>\n",
+         "source": "email",
+         "to": "<klyn@pdq.net>"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 39,
+         "rawfrom": "  \"Kevin\" <klyn@pdq.net>@ENRON\n",
+         "source": "email",
+         "to": "Joe Ramirez; siva66@mail.ev1.net; bwdunlavy@yahoo.com; Quigley,"
+      },
+      {
+         "from": "jramirez@othon.com",
+         "line": 48,
+         "rawfrom": "\"Joe Ramirez\" <jramirez@othon.com>\n",
+         "source": "email",
+         "to": "<siva66@mail.ev1.net>; <bwdunlavy@yahoo.com>;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/193.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "ty.servello@oag.state.tx.us, jeff_smith@afcc.com, ckiske@austin.rr.com,"
+      },
+      {
+         "from": "ty.servello@oag.state.tx.us",
+         "line": 32,
+         "rawfrom": "\t\"Anthony Servello\" <Ty.Servello@OAG.STATE.TX.US>@ENRON [mailto:IMCEANOTES-+22Anthony+20Servello+22+20+3CTy+2EServello+40OAG+2ESTATE+2ETX+2EUS+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "jeff_smith@afcc.com; ckiske@austin.rr.com; Kiske-business@austin.rr.com; johnsogc@bp.com; KevinCrawford@clearchannel.com; Jerry.Spottswood@COMPAQ.com; Quigley, Dutch; b_sting91@excite.com; abuse@msn.com; klyn@pdq.net; mcurrie@TCTA.org; michael.deluke@us.pwcglobal.com; j_andrew_reynolds@yahoo.com; kejo66@yahoo.com"
+      },
+      {
+         "from": "ty.servello@oag.state.tx.us",
+         "line": 78,
+         "rawfrom": "Anthony Servello [mailto:Ty.Servello@OAG.STATE.TX.US]\n",
+         "source": "email",
+         "to": "jeff_smith@afcc.com; ckiske@austin.rr.com;"
+      },
+      {
+         "from": "mcurrie@tcta.org",
+         "line": 127,
+         "rawfrom": "Michael Currie [mailto:mcurrie@TCTA.org]\n",
+         "source": "email",
+         "to": "'Anthony Servello'; jeff_smith@afcc.com; ckiske@austin.rr.com;"
+      },
+      {
+         "from": "ty.servello@cs.oag.state.tx.us",
+         "line": 160,
+         "rawfrom": "Anthony Servello [mailto:Ty.Servello@cs.oag.state.tx.us]\n",
+         "source": "email",
+         "to": "jeff_smith@afcc.com; ckiske@austin.rr.com;"
+      },
+      {
+         "from": "mcurrie@tcta.org",
+         "line": 191,
+         "rawfrom": "\"Michael Currie\" <mcurrie@TCTA.org>\n",
+         "source": "email",
+         "to": "<johnsogc@bp.com>; <michael.deluke@us.pwcglobal.com>;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/280.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "markm@cajunusa.com, martier@cpchem.com, ras1119@hotmail.com,"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 24,
+         "rawfrom": "\t\"Mark Molnar\" <MarkM@cajunusa.com>@ENRON [mailto:IMCEANOTES-+22Mark+20Molnar+22+20+3CMarkM+40cajunusa+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "martier@cpchem.com; Quigley, Dutch; ras1119@hotmail.com; siva66@mail.ev1.net; klyn@pdq.net"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 87,
+         "rawfrom": "  \"Mark Molnar\" <MarkM@cajunusa.com>@ENRON\n",
+         "source": "email",
+         "to": "martier@cpchem.com; Quigley, Dutch;"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 106,
+         "rawfrom": "Quigley, Dutch [mailto:Dutch.Quigley@ENRON.com]\n",
+         "source": "email",
+         "to": "Wolphguy@aol.com@ENRON; Martinez, Ernesto Jr;"
+      },
+      {
+         "from": "wolphguy@aol.com",
+         "line": 129,
+         "rawfrom": "     Wolphguy@aol.com@ENRON\n",
+         "source": "email",
+         "to": "martier@cpchem.com; ras1119@hotmail.com;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/194.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "ty.servello@oag.state.tx.us"
+      },
+      {
+         "from": "ty.servello@oag.state.tx.us",
+         "line": 27,
+         "rawfrom": "\t\"Anthony Servello\" <Ty.Servello@OAG.STATE.TX.US>@ENRON [mailto:IMCEANOTES-+22Anthony+20Servello+22+20+3CTy+2EServello+40OAG+2ESTATE+2ETX+2EUS+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "ty.servello@oag.state.tx.us",
+         "line": 52,
+         "rawfrom": "  \"Anthony Servello\" <Ty.Servello@OAG.STATE.TX.US>@ENRON\n",
+         "source": "email",
+         "to": "jeff_smith@afcc.com; ckiske@austin.rr.com;"
+      },
+      {
+         "from": "ty.servello@oag.state.tx.us",
+         "line": 110,
+         "rawfrom": "Anthony Servello [mailto:Ty.Servello@OAG.STATE.TX.US]\n",
+         "source": "email",
+         "to": "jeff_smith@afcc.com; ckiske@austin.rr.com;"
+      },
+      {
+         "from": "mcurrie@tcta.org",
+         "line": 169,
+         "rawfrom": "Michael Currie [mailto:mcurrie@TCTA.org]\n",
+         "source": "email",
+         "to": "'Anthony Servello'; jeff_smith@afcc.com; ckiske@austin.rr.com;"
+      },
+      {
+         "from": "ty.servello@cs.oag.state.tx.us",
+         "line": 207,
+         "rawfrom": "Anthony Servello [mailto:Ty.Servello@cs.oag.state.tx.us]\n",
+         "source": "email",
+         "to": "jeff_smith@afcc.com; ckiske@austin.rr.com;"
+      },
+      {
+         "from": "mcurrie@tcta.org",
+         "line": 243,
+         "rawfrom": "\"Michael Currie\" <mcurrie@TCTA.org>\n",
+         "source": "email",
+         "to": "<johnsogc@bp.com>; <michael.deluke@us.pwcglobal.com>;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/156.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "klyn@pdq.net"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 25,
+         "rawfrom": "\t\"Kevin\" <klyn@pdq.net>@ENRON [mailto:IMCEANOTES-+22Kevin+22+20+3Cklyn+40pdq+2Enet+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 34,
+         "rawfrom": "<Dutch.Quigley@enron.com>\n",
+         "source": "email",
+         "to": "<klyn@pdq.net>"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 48,
+         "rawfrom": "  \"Kevin\" <klyn@pdq.net>@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 55,
+         "rawfrom": "<Dutch.Quigley@enron.com>\n",
+         "source": "email",
+         "to": "<klyn@pdq.net>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/355.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "monica.l.brown@accenture.com"
+      },
+      {
+         "from": "monica.l.brown@accenture.com",
+         "line": 23,
+         "rawfrom": "\tmonica.l.brown@accenture.com@ENRON  \n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.c",
+         "line": 35,
+         "rawfrom": "Dutch.Quigley@enron.c",
+         "source": "valid",
+         "to": "Monica L. Brown/Internal/Accenture@Accenture"
+      },
+      {
+         "from": "monica.l.brown@accenture.com",
+         "line": 49,
+         "rawfrom": "  monica.l.brown@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/252.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "klyn@pdq.net"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 29,
+         "rawfrom": "\t\"Kevin\" <klyn@pdq.net>@ENRON [mailto:IMCEANOTES-+22Kevin+22+20+3Cklyn+40pdq+2Enet+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 36,
+         "rawfrom": "\"Quigley, Dutch\" <Dutch.Quigley@ENRON.com>\n",
+         "source": "email",
+         "to": "<mcurrie@TCTA.org>; \"Kiske, Chris\" <Chris.Kiske@arbitron.com>; \"Kevin\""
+      },
+      {
+         "from": "mcurrie@tcta.org",
+         "line": 56,
+         "rawfrom": "\"Michael Currie\" <mcurrie@TCTA.org>@ENRON\n",
+         "source": "email",
+         "to": "'Kiske, Chris'; 'Kevin'; 'Ty Servello'; 'Mike Deluke'; 'Michael"
+      },
+      {
+         "from": "chris.kiske@arbitron.com",
+         "line": 68,
+         "rawfrom": "Kiske, Chris  [mailto:Chris.Kiske@arbitron.com]\n",
+         "source": "email",
+         "to": "'Kevin'; Ty Servello; Mike Deluke; Michael Currie;  Jody"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 89,
+         "rawfrom": "Kevin  [mailto:klyn@pdq.net]\n",
+         "source": "email",
+         "to": "Ty Servello; Mike Deluke; Michael Currie; Jody Spottswood;  Jeff"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/314.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "jramirez@othon.com"
+      },
+      {
+         "from": "jramirez@othon.com",
+         "line": 22,
+         "rawfrom": "\t\"Joe Ramirez\" <jramirez@othon.com>@ENRON [mailto:IMCEANOTES-+22Joe+20Ramirez+22+20+3Cjramirez+40othon+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 31,
+         "rawfrom": "Dutch.Quigley@enron.com [mailto:Dutch.Quigley@enron.com]\n",
+         "source": "email",
+         "to": "jramirez@othon.com"
+      },
+      {
+         "from": "jramirez@othon.com",
+         "line": 45,
+         "rawfrom": "  \"Joe Ramirez\" <jramirez@othon.com>@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 61,
+         "rawfrom": "Dutch.Quigley@enron.com [mailto:Dutch.Quigley@enron.com]\n",
+         "source": "email",
+         "to": "jramirez@othon.com"
+      },
+      {
+         "from": "jramirez@othon.com",
+         "line": 75,
+         "rawfrom": "  \"Joe Ramirez\" <jramirez@othon.com>@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/238.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "klyn@pdq.net"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 22,
+         "rawfrom": "\t\"Kevin\" <klyn@pdq.net>@ENRON [mailto:IMCEANOTES-+22Kevin+22+20+3Cklyn+40pdq+2Enet+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 29,
+         "rawfrom": "<Dutch.Quigley@enron.com>\n",
+         "source": "email",
+         "to": "<klyn@pdq.net>"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 44,
+         "rawfrom": "  \"Kevin\" <klyn@pdq.net>@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 51,
+         "rawfrom": "\"Quigley, Dutch\" <Dutch.Quigley@ENRON.com>\n",
+         "source": "email",
+         "to": "<siva66@mail.ev1.net>; <bwdunlavy@yahoo.com>; <frthis@aol.com>;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/480.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "monica.l.brown@accenture.com"
+      },
+      {
+         "from": "monica.l.brown@accenture.com",
+         "line": 28,
+         "rawfrom": "\tmonica.l.brown@accenture.com@ENRON  \n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.c",
+         "line": 53,
+         "rawfrom": "Dutch.Quigley@enron.c",
+         "source": "valid",
+         "to": "Monica L. Brown/Internal/Accenture@Accenture"
+      },
+      {
+         "from": "monica.l.brown@accenture.com",
+         "line": 71,
+         "rawfrom": "  monica.l.brown@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/520.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "martier@cpchem.com, markm@cajunusa.com, klyn@pdq.net, wolphguy@aol.com,"
+      },
+      {
+         "from": "martier@cpchem.com",
+         "line": 42,
+         "rawfrom": "\t\"Martinez, Ernesto Jr\" <martier@cpchem.com>@ENRON  \n",
+         "source": "email",
+         "to": "Mark Molnar; 'Kevin'; Wolphguy@aol.com; Frthis@aol.com; siva66@mail.ev1.net; Rs1119@aol.com; Quigley, Dutch; john_riches@msn.com; jramirez@othon.com; bwdunlavy@yahoo.com"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 63,
+         "rawfrom": "Mark Molnar [mailto:MarkM@cajunusa.com]\n",
+         "source": "email",
+         "to": "frthis@aol.com; wolphguy@aol.com; martier@cpchem.com;"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 128,
+         "rawfrom": "Mark Molnar [mailto:MarkM@cajunusa.com]\n",
+         "source": "email",
+         "to": "wolphguy@aol.com; martier@cpchem.com;"
+      },
+      {
+         "from": "jramirez@othon.com",
+         "line": 154,
+         "rawfrom": "\"Joe Ramirez\" <jramirez@othon.com>\n",
+         "source": "email",
+         "to": "<siva66@mail.ev1.net>; <bwdunlavy@yahoo.com>;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/526.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "jramirez@othon.com, klyn@pdq.net, martinez@enron.com, martier@cpchem.com,"
+      },
+      {
+         "from": "jramirez@othon.com",
+         "line": 25,
+         "rawfrom": "\t\"Joe Ramirez\" <jramirez@othon.com>@ENRON  \n",
+         "source": "email",
+         "to": "Kevin; Martinez, Ernesto Jr; Mark Molnar; Wolphguy@aol.com; Frthis@aol.com; siva66@mail.ev1.net; Rs1119@aol.com; Quigley, Dutch; john_riches@msn.com; bwdunlavy@yahoo.com"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 33,
+         "rawfrom": "Kevin [mailto:klyn@pdq.net]\n",
+         "source": "email",
+         "to": "Martinez, Ernesto Jr; Mark Molnar; Wolphguy@aol.com; Frthis@aol.com;"
+      },
+      {
+         "from": "martier@cpchem.com",
+         "line": 47,
+         "rawfrom": "\"Martinez, Ernesto Jr\" <martier@cpchem.com>\n",
+         "source": "email",
+         "to": "\"Mark Molnar\" <MarkM@cajunusa.com>; \"'Kevin'\" <klyn@pdq.net>;"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 75,
+         "rawfrom": "Mark Molnar [mailto:MarkM@cajunusa.com]\n",
+         "source": "email",
+         "to": "frthis@aol.com; wolphguy@aol.com; martier@cpchem.com;"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 140,
+         "rawfrom": "Mark Molnar [mailto:MarkM@cajunusa.com]\n",
+         "source": "email",
+         "to": "wolphguy@aol.com; martier@cpchem.com;"
+      },
+      {
+         "from": "jramirez@othon.com",
+         "line": 166,
+         "rawfrom": "\"Joe Ramirez\" <jramirez@othon.com>\n",
+         "source": "email",
+         "to": "<siva66@mail.ev1.net>; <bwdunlavy@yahoo.com>;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/254.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "jeff_smith@afcc.com, klyn@pdq.net, 'kiske@enron.com,"
+      },
+      {
+         "from": "jeff_smith@afcc.com",
+         "line": 27,
+         "rawfrom": "\t\"Smith, Jeff\" <Jeff_Smith@AFCC.com>@ENRON [mailto:IMCEANOTES-+22Smith+2C+20Jeff+22+20+3CJeff+5FSmith+40AFCC+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "'Kevin'; 'Kiske, Chris'; Ty Servello; Mike Deluke; Michael Currie; Jody Spottswood; Jeff Ullrich; Grant Johnson; Quigley, Dutch; Dan Wienserski; Chris Kiske (Home); BJ Naman; Andy Reynolds"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 37,
+         "rawfrom": "> From:\tKevin [SMTP:klyn@pdq.net]\n",
+         "source": "email",
+         "to": "Smith, Jeff; 'Kiske, Chris'; Ty Servello; Mike Deluke; Michael"
+      },
+      {
+         "from": "jeff_smith@afcc.com",
+         "line": 58,
+         "rawfrom": "\"Smith, Jeff\" <Jeff_Smith@AFCC.com>\n",
+         "source": "email",
+         "to": "\"'Kiske, Chris'\" <Chris.Kiske@arbitron.com>; \"'Kevin'\" <klyn@pdq.net>;"
+      },
+      {
+         "from": "chris.kiske@arbitron.com",
+         "line": 87,
+         "rawfrom": "Kiske, Chris [SMTP:Chris.Kiske@arbitron.com]\n",
+         "source": "email",
+         "to": "'Kevin'; Ty Servello; Mike Deluke; Michael Currie; Jody"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 115,
+         "rawfrom": "Kevin [mailto:klyn@pdq.net]\n",
+         "source": "email",
+         "to": "Ty Servello; Mike Deluke; Michael Currie; Jody Spottswood; Jeff"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/184.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "kevincrawford@clearchannel.com"
+      },
+      {
+         "from": "kevincrawford@clearchannel.com",
+         "line": 27,
+         "rawfrom": "\t\"Crawford, Kevin\" <KevinCrawford@clearchannel.com>@ENRON [mailto:IMCEANOTES-+22Crawford+2C+20Kevin+22+20+3CKevinCrawford+40clearchannel+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "'mcurrie@TCTA.org'; 'Anthony Servello'; jeff_smith@afcc.com; ckiske@austin.rr.com; Kiske-business@austin.rr.com; johnsogc@bp.com; Quigley, Dutch; b_sting91@excite.com; abuse@msn.com; klyn@pdq.net; Crawford, Kevin; michael.deluke@us.pwcglobal.com; j_andrew_reynolds@yahoo.com; kejo66@yahoo.com"
+      },
+      {
+         "from": "mcurrie@tcta.org",
+         "line": 42,
+         "rawfrom": "Michael Currie [mailto:mcurrie@TCTA.org]\n",
+         "source": "email",
+         "to": "'Anthony Servello'; jeff_smith@afcc.com; ckiske@austin.rr.com;"
+      },
+      {
+         "from": "ty.servello@cs.oag.state.tx.us",
+         "line": 75,
+         "rawfrom": "Anthony Servello [mailto:Ty.Servello@cs.oag.state.tx.us]\n",
+         "source": "email",
+         "to": "jeff_smith@afcc.com; ckiske@austin.rr.com;"
+      },
+      {
+         "from": "mcurrie@tcta.org",
+         "line": 106,
+         "rawfrom": "\"Michael Currie\" <mcurrie@TCTA.org>\n",
+         "source": "email",
+         "to": "<johnsogc@bp.com>; <michael.deluke@us.pwcglobal.com>;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/504.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "klyn@pdq.net"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 30,
+         "rawfrom": "\t\"Kevin\" <klyn@pdq.net>@ENRON  \n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 37,
+         "rawfrom": "<Dutch.Quigley@enron.com>\n",
+         "source": "email",
+         "to": "<klyn@pdq.net>"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 48,
+         "rawfrom": "  \"Kevin\" <klyn@pdq.net>@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 55,
+         "rawfrom": "<Dutch.Quigley@enron.com>\n",
+         "source": "email",
+         "to": "<klyn@pdq.net>"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 65,
+         "rawfrom": "  \"Kevin\" <klyn@pdq.net>@ENRON\n",
+         "source": "email",
+         "to": "Joe Ramirez; siva66@mail.ev1.net; bwdunlavy@yahoo.com;"
+      },
+      {
+         "from": "jramirez@othon.com",
+         "line": 75,
+         "rawfrom": "\"Joe Ramirez\" <jramirez@othon.com>\n",
+         "source": "email",
+         "to": "<siva66@mail.ev1.net>; <bwdunlavy@yahoo.com>;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/251.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "mcurrie@tcta.org, 'kiske@enron.com, chris.kiske@arbitron.com, klyn@pdq.net,"
+      },
+      {
+         "from": "mcurrie@tcta.org",
+         "line": 27,
+         "rawfrom": "\t\"Michael Currie\" <mcurrie@TCTA.org>@ENRON [mailto:IMCEANOTES-+22Michael+20Currie+22+20+3Cmcurrie+40TCTA+2Eorg+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "'Kiske, Chris'; 'Kevin'; 'Ty Servello'; 'Mike Deluke'; 'Michael Currie'; 'Jody Spottswood'; 'Jeff Ullrich'; 'Jeff Smith \\(E-mail\\)'; 'Grant Johnson'; Quigley, Dutch; 'Dan Wienserski'; 'Chris Kiske \\(Home\\)'; 'BJ Naman'; 'Andy Reynolds'"
+      },
+      {
+         "from": "chris.kiske@arbitron.com",
+         "line": 35,
+         "rawfrom": "Kiske, Chris  [mailto:Chris.Kiske@arbitron.com]\n",
+         "source": "email",
+         "to": "'Kevin'; Ty Servello; Mike Deluke; Michael Currie;  Jody Spottswood; Jeff Ullrich; Jeff Smith (E-mail); Grant Johnson; Dutch  Quigley; Dan Wienserski; Chris Kiske (Home); BJ Naman; Andy Reynolds; Kiske,  Chris"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 46,
+         "rawfrom": "Kevin  [mailto:klyn@pdq.net]\n",
+         "source": "email",
+         "to": "Ty Servello; Mike Deluke; Michael Currie; Jody Spottswood;  Jeff Ullrich; Jeff Smith (E-mail); Grant Johnson; Dutch Quigley; Dan  Wienserski; Chris Kiske (Home); BJ Naman; Andy Reynolds; Chris Kiske  (Work)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/522.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "ann.s.chen@accenture.com"
+      },
+      {
+         "from": "ann.s.chen@accenture.com",
+         "line": 22,
+         "rawfrom": "\tann.s.chen@accenture.com@ENRON  \n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.c",
+         "line": 35,
+         "rawfrom": "Dutch.Quigley@enron.c",
+         "source": "valid",
+         "to": "Ann S. Chen/Internal/Accenture@Accenture"
+      },
+      {
+         "from": "ann.s.chen@accenture.com",
+         "line": 52,
+         "rawfrom": "  ann.s.chen@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/358.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "sheri.a.righi@accenture.com"
+      },
+      {
+         "from": "sheri.a.righi@accenture.com",
+         "line": 24,
+         "rawfrom": "\tsheri.a.righi@accenture.com@ENRON  \n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "sheri.a.righi@accenture.com",
+         "line": 49,
+         "rawfrom": "sheri.a.righi@Accenture.com",
+         "source": "valid",
+         "to": "Sheri A. Righi/Internal/Accenture@Accenture"
+      },
+      {
+         "from": "sheri.a.righi@accenture.com",
+         "line": 67,
+         "rawfrom": "  sheri.a.righi@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/158.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "klyn@pdq.net"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 28,
+         "rawfrom": "\t\"Kevin\" <klyn@pdq.net>@ENRON [mailto:IMCEANOTES-+22Kevin+22+20+3Cklyn+40pdq+2Enet+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 35,
+         "rawfrom": "<Dutch.Quigley@enron.com>\n",
+         "source": "email",
+         "to": "<klyn@pdq.net>"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 55,
+         "rawfrom": "  \"Kevin\" <klyn@pdq.net>@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 64,
+         "rawfrom": "<Dutch.Quigley@enron.com>\n",
+         "source": "email",
+         "to": "<klyn@pdq.net>"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 79,
+         "rawfrom": "  \"Kevin\" <klyn@pdq.net>@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 86,
+         "rawfrom": "<Dutch.Quigley@enron.com>\n",
+         "source": "email",
+         "to": "<klyn@pdq.net>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/sent_items/11.",
+   "hops": [
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "dutch.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "djackson@rpsionline.com"
+      },
+      {
+         "from": "djackson@rpsionline.com",
+         "line": 25,
+         "rawfrom": "\t\"Jackson, Desean\" <djackson@rpsionline.com>@ENRON  \n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 33,
+         "rawfrom": "> From:\tDutch.Quigley@enron.com [SMTP:Dutch.Quigley@enron.com]\n",
+         "source": "email",
+         "to": "djackson@rpsionline.com"
+      },
+      {
+         "from": "djackson@rpsionline.com",
+         "line": 42,
+         "rawfrom": "  \"Jackson, Desean\" <djackson@rpsionline.com>@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 50,
+         "rawfrom": "     Quigley, Dutch [SMTP:Dutch.Quigley@ENRON.com]\n",
+         "source": "email",
+         "to": "\"Kevin\" <klyn@pdq.net>@ENRON; Brian Gibson; Dave Molnar; Desean"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/bmr/2.",
+   "hops": [
+      {
+         "from": "sheri.a.righi@accenture.com",
+         "line": 4,
+         "rawfrom": "sheri.a.righi@accenture.com\r\n",
+         "source": "valid",
+         "to": "dutch.quigley@enron.com"
+      },
+      {
+         "from": "sheri.a.righi@accenture.com",
+         "line": 36,
+         "rawfrom": "sheri.a.righi@Accenture.com",
+         "source": "valid",
+         "to": "Sheri A. Righi/Internal/Accenture@Accenture"
+      },
+      {
+         "from": "sheri.a.righi@accenture.com",
+         "line": 53,
+         "rawfrom": "  sheri.a.righi@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "sheri.a.righi@accenture.com",
+         "line": 80,
+         "rawfrom": "sheri.a.righi@Accenture.com",
+         "source": "valid",
+         "to": "Sheri A."
+      },
+      {
+         "from": "sheri.a.righi@accenture.com",
+         "line": 101,
+         "rawfrom": "  sheri.a.righi@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/bmr/44.",
+   "hops": [
+      {
+         "from": "monica.l.brown@accenture.com",
+         "line": 4,
+         "rawfrom": "monica.l.brown@accenture.com\r\n",
+         "source": "valid",
+         "to": "dutch.quigley@enron.com"
+      },
+      {
+         "from": "dutch.quigley@enron.c",
+         "line": 27,
+         "rawfrom": "Dutch.Quigley@enron.c",
+         "source": "valid",
+         "to": "Monica L. Brown/Internal/Accenture@Accenture"
+      },
+      {
+         "from": "monica.l.brown@accenture.com",
+         "line": 45,
+         "rawfrom": "  monica.l.brown@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.c",
+         "line": 64,
+         "rawfrom": "Dutch.Quigley@enron.c",
+         "source": "valid",
+         "to": "Monica L."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/bmr/27.",
+   "hops": [
+      {
+         "from": "monica.l.brown@accenture.com",
+         "line": 4,
+         "rawfrom": "monica.l.brown@accenture.com\r\n",
+         "source": "valid",
+         "to": "dutch.quigley@enron.com"
+      },
+      {
+         "from": "dutch.quigley@enron.c",
+         "line": 42,
+         "rawfrom": "Dutch.Quigley@enron.c",
+         "source": "valid",
+         "to": "Monica L. Brown/Internal/Accenture@Accenture"
+      },
+      {
+         "from": "monica.l.brown@accenture.com",
+         "line": 64,
+         "rawfrom": "  monica.l.brown@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.c",
+         "line": 91,
+         "rawfrom": "Dutch.Quigley@enron.c",
+         "source": "valid",
+         "to": "Monica L."
+      },
+      {
+         "from": "monica.l.brown@accenture.com",
+         "line": 111,
+         "rawfrom": "  monica.l.brown@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/bmr/33.",
+   "hops": [
+      {
+         "from": "ann.s.chen@accenture.com",
+         "line": 4,
+         "rawfrom": "ann.s.chen@accenture.com\r\n",
+         "source": "valid",
+         "to": "dutch.quigley@enron.com"
+      },
+      {
+         "from": "dutch.quigley@enron.c",
+         "line": 29,
+         "rawfrom": "Dutch.Quigley@enron.c",
+         "source": "valid",
+         "to": "Ann S. Chen/Internal/Accenture@Accenture"
+      },
+      {
+         "from": "ann.s.chen@accenture.com",
+         "line": 43,
+         "rawfrom": "  ann.s.chen@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.c",
+         "line": 56,
+         "rawfrom": "Dutch.Quigley@enron.c",
+         "source": "valid",
+         "to": "Ann S."
+      },
+      {
+         "from": "ann.s.chen@accenture.com",
+         "line": 75,
+         "rawfrom": "  ann.s.chen@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/private_folders/kq___dq/3.",
+   "hops": [
+      {
+         "from": "kay.quigley@enron.com",
+         "line": 4,
+         "rawfrom": "kay.quigley@enron.com\r\n",
+         "source": "valid",
+         "to": "quigley@cse.ucla.edu"
+      },
+      {
+         "from": "quigley@cse.ucla.edu",
+         "line": 27,
+         "rawfrom": "\"Denise D. Quigley\" <quigley@cse.ucla.edu> on 11/29/2001 09:00:31 PM\n",
+         "source": "email",
+         "to": "<kquigley@enron.com>"
+      },
+      {
+         "from": "kquigley@enron.com",
+         "line": 43,
+         "rawfrom": "kquigley@enron.com\n",
+         "source": "valid",
+         "to": "\"Denise D. Quigley\" <quigley@cse.ucla.edu>"
+      },
+      {
+         "from": "quigley@cse.ucla.edu",
+         "line": 59,
+         "rawfrom": "quigley@cse.ucla.edu",
+         "source": "valid",
+         "to": "<kquigley@enron.com>"
+      },
+      {
+         "from": "kquigley@enron.com",
+         "line": 97,
+         "rawfrom": "kquigley@enron.com\n",
+         "source": "valid",
+         "to": "\"Denise D. Quigley\" <quigley@cse.ucla.edu>"
+      },
+      {
+         "from": "quigley@cse.ucla.edu",
+         "line": 131,
+         "rawfrom": "quigley@cse.ucla.edu",
+         "source": "valid",
+         "to": "<kquigley@enron.com>"
+      },
+      {
+         "from": "kquigley@enron.com",
+         "line": 148,
+         "rawfrom": "kquigley@enron.com\n",
+         "source": "valid",
+         "to": "quigley@cse.ucla.edu"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/private_folders/ffl/9.",
+   "hops": [
+      {
+         "from": "klyn@pdq.net",
+         "line": 4,
+         "rawfrom": "klyn@pdq.net\r\n",
+         "source": "valid",
+         "to": "jr.martinez@enron.com, molnar.mark@enron.com"
+      },
+      {
+         "from": "martier@cpchem.com",
+         "line": 26,
+         "rawfrom": "\"Martinez, Ernesto Jr\" <martier@cpchem.com>\n",
+         "source": "email",
+         "to": "\"Mark Molnar\" <MarkM@cajunusa.com>; \"'Kevin'\" <klyn@pdq.net>;"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 54,
+         "rawfrom": "Mark Molnar [mailto:MarkM@cajunusa.com]\n",
+         "source": "email",
+         "to": "frthis@aol.com; wolphguy@aol.com; martier@cpchem.com;"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 119,
+         "rawfrom": "Mark Molnar [mailto:MarkM@cajunusa.com]\n",
+         "source": "email",
+         "to": "wolphguy@aol.com; martier@cpchem.com;"
+      },
+      {
+         "from": "jramirez@othon.com",
+         "line": 145,
+         "rawfrom": "\"Joe Ramirez\" <jramirez@othon.com>\n",
+         "source": "email",
+         "to": "<siva66@mail.ev1.net>; <bwdunlavy@yahoo.com>;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/myfriends/90.",
+   "hops": [
+      {
+         "from": "markm@cajunusa.com",
+         "line": 46,
+         "rawfrom": "\"Mark Molnar\" <MarkM@cajunusa.com>\n",
+         "source": "email",
+         "to": "<Frthis@aol.com>; <Wolphguy@aol.com>; <jeffu192@cs.com>;"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 67,
+         "rawfrom": "\"Kevin\" <klyn@pdq.net>\n",
+         "source": "email",
+         "to": "\"Mark Molnar\" <MarkM@cajunusa.com>, <Frthis@aol.com>,"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 83,
+         "rawfrom": "\"Mark Molnar\" <MarkM@cajunusa.com>\n",
+         "source": "email",
+         "to": "<Frthis@aol.com>; <Wolphguy@aol.com>; <jeffu192@cs.com>;"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 106,
+         "rawfrom": "\"Mark Molnar\" <MarkM@cajunusa.com>\n",
+         "source": "email",
+         "to": "<Frthis@aol.com>; <Wolphguy@aol.com>; <jeffu192@cs.com>;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/myfriends/128.",
+   "hops": [
+      {
+         "from": "markm@cajunusa.com",
+         "line": 32,
+         "rawfrom": "\"Mark Molnar\" <MarkM@cajunusa.com>\n",
+         "source": "email",
+         "to": "<martier@cpchem.com>,<Dutch.Quigley@ENRON.com>,"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 107,
+         "rawfrom": "  \"Mark Molnar\" <MarkM@cajunusa.com>@ENRON\n",
+         "source": "email",
+         "to": "martier@cpchem.com; Quigley, Dutch;"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 128,
+         "rawfrom": "Quigley, Dutch [mailto:Dutch.Quigley@ENRON.com]\n",
+         "source": "email",
+         "to": "Wolphguy@aol.com@ENRON; Martinez, Ernesto Jr;"
+      },
+      {
+         "from": "wolphguy@aol.com",
+         "line": 153,
+         "rawfrom": "     Wolphguy@aol.com@ENRON\n",
+         "source": "email",
+         "to": "martier@cpchem.com; ras1119@hotmail.com;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/myfriends/69.",
+   "hops": [
+      {
+         "from": "martier@cpchem.com",
+         "line": 49,
+         "rawfrom": "\t\"Martinez, Ernesto Jr\" <martier@cpchem.com>@ENRON\n",
+         "source": "email",
+         "to": "Mark Molnar; 'Kevin'; Wolphguy@aol.com; Frthis@aol.com;"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 79,
+         "rawfrom": "Mark Molnar [mailto:MarkM@cajunusa.com]\n",
+         "source": "email",
+         "to": "frthis@aol.com; wolphguy@aol.com; martier@cpchem.com;"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 147,
+         "rawfrom": "Mark Molnar [mailto:MarkM@cajunusa.com]\n",
+         "source": "email",
+         "to": "wolphguy@aol.com; martier@cpchem.com;"
+      },
+      {
+         "from": "jramirez@othon.com",
+         "line": 173,
+         "rawfrom": "\"Joe Ramirez\" <jramirez@othon.com>\n",
+         "source": "email",
+         "to": "<siva66@mail.ev1.net>; <bwdunlavy@yahoo.com>;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/myfriends/66.",
+   "hops": [
+      {
+         "from": "jramirez@othon.com",
+         "line": 4,
+         "rawfrom": "jramirez@othon.com\r\n",
+         "source": "valid",
+         "to": "kevin@enron.com, jr.martinez@enron.com, molnar.mark@enron.com"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 22,
+         "rawfrom": "Kevin [mailto:klyn@pdq.net]\n",
+         "source": "email",
+         "to": "Martinez, Ernesto Jr; Mark Molnar; Wolphguy@aol.com; Frthis@aol.com;"
+      },
+      {
+         "from": "martier@cpchem.com",
+         "line": 36,
+         "rawfrom": "\"Martinez, Ernesto Jr\" <martier@cpchem.com>\n",
+         "source": "email",
+         "to": "\"Mark Molnar\" <MarkM@cajunusa.com>; \"'Kevin'\" <klyn@pdq.net>;"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 64,
+         "rawfrom": "Mark Molnar [mailto:MarkM@cajunusa.com]\n",
+         "source": "email",
+         "to": "frthis@aol.com; wolphguy@aol.com; martier@cpchem.com;"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 129,
+         "rawfrom": "Mark Molnar [mailto:MarkM@cajunusa.com]\n",
+         "source": "email",
+         "to": "wolphguy@aol.com; martier@cpchem.com;"
+      },
+      {
+         "from": "jramirez@othon.com",
+         "line": 155,
+         "rawfrom": "\"Joe Ramirez\" <jramirez@othon.com>\n",
+         "source": "email",
+         "to": "<siva66@mail.ev1.net>; <bwdunlavy@yahoo.com>;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/myfriends/67.",
+   "hops": [
+      {
+         "from": "martier@cpchem.com",
+         "line": 77,
+         "rawfrom": "\t\"Martinez, Ernesto Jr\" <martier@cpchem.com>@ENRON\n",
+         "source": "email",
+         "to": "Mark Molnar; 'Kevin'; Wolphguy@aol.com; Frthis@aol.com;"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 111,
+         "rawfrom": "Mark Molnar [mailto:MarkM@cajunusa.com]\n",
+         "source": "email",
+         "to": "frthis@aol.com; wolphguy@aol.com; martier@cpchem.com;"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 186,
+         "rawfrom": "Mark Molnar [mailto:MarkM@cajunusa.com]\n",
+         "source": "email",
+         "to": "wolphguy@aol.com; martier@cpchem.com;"
+      },
+      {
+         "from": "jramirez@othon.com",
+         "line": 213,
+         "rawfrom": "\"Joe Ramirez\" <jramirez@othon.com>\n",
+         "source": "email",
+         "to": "<siva66@mail.ev1.net>; <bwdunlavy@yahoo.com>;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/myfriends/64.",
+   "hops": [
+      {
+         "from": "jramirez@othon.com",
+         "line": 4,
+         "rawfrom": "jramirez@othon.com\r\n",
+         "source": "valid",
+         "to": "dutch.quigley@enron.com"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 23,
+         "rawfrom": "Dutch.Quigley@enron.com [mailto:Dutch.Quigley@enron.com]\n",
+         "source": "email",
+         "to": "jramirez@othon.com; klyn@pdq.net; martier@cpchem.com;"
+      },
+      {
+         "from": "jramirez@othon.com",
+         "line": 33,
+         "rawfrom": "  \"Joe Ramirez\" <jramirez@othon.com>@ENRON\n",
+         "source": "email",
+         "to": "Kevin; Martinez, Ernesto Jr; Mark Molnar; Wolphguy@aol.com;"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 43,
+         "rawfrom": "Kevin [mailto:klyn@pdq.net]\n",
+         "source": "email",
+         "to": "Martinez, Ernesto Jr; Mark Molnar; Wolphguy@aol.com; Frthis@aol.com;"
+      },
+      {
+         "from": "martier@cpchem.com",
+         "line": 60,
+         "rawfrom": "\"Martinez, Ernesto Jr\" <martier@cpchem.com>\n",
+         "source": "email",
+         "to": "\"Mark Molnar\" <MarkM@cajunusa.com>; \"'Kevin'\" <klyn@pdq.net>;"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 94,
+         "rawfrom": "Mark Molnar [mailto:MarkM@cajunusa.com]\n",
+         "source": "email",
+         "to": "frthis@aol.com; wolphguy@aol.com; martier@cpchem.com;"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 162,
+         "rawfrom": "Mark Molnar [mailto:MarkM@cajunusa.com]\n",
+         "source": "email",
+         "to": "wolphguy@aol.com; martier@cpchem.com;"
+      },
+      {
+         "from": "jramirez@othon.com",
+         "line": 188,
+         "rawfrom": "\"Joe Ramirez\" <jramirez@othon.com>\n",
+         "source": "email",
+         "to": "<siva66@mail.ev1.net>; <bwdunlavy@yahoo.com>;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/myfriends/125.",
+   "hops": [
+      {
+         "from": "markm@cajunusa.com",
+         "line": 18,
+         "rawfrom": "markm@cajunusa.com\r\n",
+         "source": "valid",
+         "to": "jmccormick@cajunusa.com,\tmarkm@cajunusa.com,\tdavem@cajunusa.com,\trichard.maestas@stoltoffshore.cc,\twilliam.knapp@stoltoffshore.cc,\tkelly.kuylen@stoltoffshore.cc,\tsteve.racca@stoltoffshore.cc,\tannie.ransonet@stoltoffshore.cc,\tdebbie.battaglia@stoltoffshore.cc,\tcheryl.wright@stoltoffshore.cc"
+      },
+      {
+         "from": "jsherman@knust.com",
+         "line": 67,
+         "rawfrom": "          Sherman, Jill [SMTP:JSherman@knust.com]\n",
+         "source": "email",
+         "to": "Donna Moses (E-mail)"
+      },
+      {
+         "from": "leslie_pritt@acordianational.com",
+         "line": 76,
+         "rawfrom": "Leslie_Pritt@AcordiaNational.com\n",
+         "source": "valid",
+         "to": "Scott_Geyer@AcordiaNational.com; Lora_Denny@AcordiaNational.com;"
+      },
+      {
+         "from": "jwoods@bowlesrice.com",
+         "line": 114,
+         "rawfrom": "JWOODS@bowlesrice.com",
+         "source": "valid",
+         "to": "jwoods@bowlesrice.com"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/myfriends/1.",
+   "hops": [
+      {
+         "from": "jramirez@othon.com",
+         "line": 4,
+         "rawfrom": "jramirez@othon.com\r\n",
+         "source": "valid",
+         "to": "dutch.quigley@enron.com"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 26,
+         "rawfrom": "Dutch.Quigley@enron.com [mailto:Dutch.Quigley@enron.com]\n",
+         "source": "email",
+         "to": "jramirez@othon.com"
+      },
+      {
+         "from": "jramirez@othon.com",
+         "line": 42,
+         "rawfrom": "  \"Joe Ramirez\" <jramirez@othon.com>@ENRON\n",
+         "source": "email",
+         "to": "Quigley, Dutch"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 65,
+         "rawfrom": "Quigley, Dutch [mailto:Dutch.Quigley@ENRON.com]\n",
+         "source": "email",
+         "to": "\"Kevin\" <klyn@pdq.net>@ENRON; Brian Gibson; Dave Molnar; Desean"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/myfriends/89.",
+   "hops": [
+      {
+         "from": "markm@cajunusa.com",
+         "line": 50,
+         "rawfrom": "\"Mark Molnar\" <MarkM@cajunusa.com>\n",
+         "source": "email",
+         "to": "<Frthis@aol.com>; <Wolphguy@aol.com>; <jeffu192@cs.com>;"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 71,
+         "rawfrom": "\"Kevin\" <klyn@pdq.net>\n",
+         "source": "email",
+         "to": "\"Mark Molnar\" <MarkM@cajunusa.com>, <Frthis@aol.com>,"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 87,
+         "rawfrom": "\"Mark Molnar\" <MarkM@cajunusa.com>\n",
+         "source": "email",
+         "to": "<Frthis@aol.com>; <Wolphguy@aol.com>; <jeffu192@cs.com>;"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 110,
+         "rawfrom": "\"Mark Molnar\" <MarkM@cajunusa.com>\n",
+         "source": "email",
+         "to": "<Frthis@aol.com>; <Wolphguy@aol.com>; <jeffu192@cs.com>;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/myfriends/65.",
+   "hops": [
+      {
+         "from": "klyn@pdq.net",
+         "line": 24,
+         "rawfrom": "Kevin [mailto:klyn@pdq.net]\n",
+         "source": "email",
+         "to": "Martinez, Ernesto Jr; Mark Molnar; Wolphguy@aol.com; Frthis@aol.com;"
+      },
+      {
+         "from": "martier@cpchem.com",
+         "line": 38,
+         "rawfrom": "\"Martinez, Ernesto Jr\" <martier@cpchem.com>\n",
+         "source": "email",
+         "to": "\"Mark Molnar\" <MarkM@cajunusa.com>; \"'Kevin'\" <klyn@pdq.net>;"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 66,
+         "rawfrom": "Mark Molnar [mailto:MarkM@cajunusa.com]\n",
+         "source": "email",
+         "to": "frthis@aol.com; wolphguy@aol.com; martier@cpchem.com;"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 131,
+         "rawfrom": "Mark Molnar [mailto:MarkM@cajunusa.com]\n",
+         "source": "email",
+         "to": "wolphguy@aol.com; martier@cpchem.com;"
+      },
+      {
+         "from": "jramirez@othon.com",
+         "line": 157,
+         "rawfrom": "\"Joe Ramirez\" <jramirez@othon.com>\n",
+         "source": "email",
+         "to": "<siva66@mail.ev1.net>; <bwdunlavy@yahoo.com>;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/myfriends/117.",
+   "hops": [
+      {
+         "from": "rustyd@cajunusa.com",
+         "line": 18,
+         "rawfrom": "\"Rusty DeBarge\" <RustyD@cajunusa.com>\n",
+         "source": "email",
+         "to": "<CharlesC@cajunusa.com>,<ChrisJ@cajunusa.com>,\t<ClintB@cajunusa.com>, <DaveM@cajunusa.com>,\t<jmccormick@cajunusa.com>, <KevinG@cajunusa.com>,\t<LeeM@cajunusa.com>, <MarkM@cajunusa.com>,\t<MartyB@cajunusa.com>, <MikeB@cajunusa.com>,\t<TommyH@cajunusa.com>, <WayneH@cajunusa.com>"
+      },
+      {
+         "from": "mgh@lightwire.com",
+         "line": 28,
+         "rawfrom": "\"Mike Hodgkins\" <mgh@lightwire.com>\n",
+         "source": "email",
+         "to": "\"Trey Hodgkins\" <Trey@LSA.org>,\t\"Tim Litel\" <tlitel@aol.com>,\t\"Tara Demarie\" <tdemarie@yahoo.com>,\t\"Rusty DeBarge\" <rustyd@cajunusa.com>,\t\"Rose, William E.\" <WERose@LMUS.LeggMason.com>,\t<PSHodgkins@aol.com>,\t\"Peggy Richard\" <pscript@deltech.net>,\t\"Peggy  Richard\" <lawoody@aol.net>,\t\"MAURY S MAUST\" <jaymaury@cox-internet.com>,\t<LSU1GO@aol.com>,\t\"laura tyler\" <anitabrush@hotmail.com>,\t\"John Ieyoub\" <johnieyoub@juno.com>,\t\"John Ieyoub\" <jieyoub@watchfox.com>,\t\"James Doyle\" <jbdoyle@sprynet.com>,\t\"Harold S. Naquin, III\" <haroldn@deq.state.la.us>,\t\"Guthrie Family\" <guthire@home.com>,\t\"Greg Mack\" <gregm@frmco.com>,\t\"George Mack\" <gjmack@camtel.net>,\t\"Gauthier, Robbie\" <RGauthier@ContactPSC.com>,\t\"David Ieyoub\" <ice42@aol.com>,\t\"David Guillory\" <davidg@lightwire.net>,\t\"David Guillory\" <pdguillory@mcneesemail.net>,\t\"Carol Mack\" <cmack@camtel.net>,\t\"A.R. \\\"Trey\\\" Hodgkins,\" <hotdog1@bigfoot.com>,\t\"\\\"Kevin L. Camel\\\"\" <kcamel@iamerica.net>"
+      },
+      {
+         "from": "ispy@cox-internet.com",
+         "line": 42,
+         "rawfrom": "\"Jason Renfroe\" <ISPY@cox-internet.com>\n",
+         "source": "email",
+         "to": "\"John Wilson\" <golifego@earthlink.net>; \"Dylan Brock\" <DKcorb@aol.com>;"
+      },
+      {
+         "from": "jmaze@lcmh.com",
+         "line": 66,
+         "rawfrom": "<jmaze@lcmh.com>\n",
+         "source": "email",
+         "to": "<Vinnie@Simple-Com.com>; <ISPY@cox-internet.com>;"
+      },
+      {
+         "from": "rletton@wfubmc.edu",
+         "line": 77,
+         "rawfrom": "rletton@wfubmc.edu [SMTP:rletton@wfubmc.edu]\n",
+         "source": "email",
+         "to": "Albertson, David; Alderfer, John; Andrassy, Rich; Baker, Doug;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/myfriends/129.",
+   "hops": [
+      {
+         "from": "markm@cajunusa.com",
+         "line": 21,
+         "rawfrom": "\"Mark Molnar\" <MarkM@cajunusa.com>\n",
+         "source": "email",
+         "to": "<martier@cpchem.com>,<Dutch.Quigley@ENRON.com>, <ras1119@hotmail.com>,"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 86,
+         "rawfrom": "  \"Mark Molnar\" <MarkM@cajunusa.com>@ENRON\n",
+         "source": "email",
+         "to": "martier@cpchem.com; Quigley, Dutch;"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 105,
+         "rawfrom": "Quigley, Dutch [mailto:Dutch.Quigley@ENRON.com]\n",
+         "source": "email",
+         "to": "Wolphguy@aol.com@ENRON; Martinez, Ernesto Jr;"
+      },
+      {
+         "from": "wolphguy@aol.com",
+         "line": 128,
+         "rawfrom": "     Wolphguy@aol.com@ENRON\n",
+         "source": "email",
+         "to": "martier@cpchem.com; ras1119@hotmail.com;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/myfriends/68.",
+   "hops": [
+      {
+         "from": "jramirez@othon.com",
+         "line": 4,
+         "rawfrom": "jramirez@othon.com\r\n",
+         "source": "valid",
+         "to": "molnar.mark@enron.com"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 23,
+         "rawfrom": "Mark Molnar [mailto:MarkM@cajunusa.com]\n",
+         "source": "email",
+         "to": "Frthis@aol.com; Rs1119@aol.com; Wolphguy@aol.com;"
+      },
+      {
+         "from": "martier@cpchem.com",
+         "line": 65,
+         "rawfrom": "        \"Martinez, Ernesto Jr\" <martier@cpchem.com>@ENRON\n",
+         "source": "email",
+         "to": "Mark Molnar; 'Kevin'; Wolphguy@aol.com; Frthis@aol.com;"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 95,
+         "rawfrom": "Mark Molnar [mailto:MarkM@cajunusa.com]\n",
+         "source": "email",
+         "to": "frthis@aol.com; wolphguy@aol.com; martier@cpchem.com;"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 163,
+         "rawfrom": "Mark Molnar [mailto:MarkM@cajunusa.com]\n",
+         "source": "email",
+         "to": "wolphguy@aol.com; martier@cpchem.com;"
+      },
+      {
+         "from": "jramirez@othon.com",
+         "line": 189,
+         "rawfrom": "\"Joe Ramirez\" <jramirez@othon.com>\n",
+         "source": "email",
+         "to": "<siva66@mail.ev1.net>; <bwdunlavy@yahoo.com>;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/myfriends/137.",
+   "hops": [
+      {
+         "from": "martier@cpchem.com",
+         "line": 24,
+         "rawfrom": "\"Martinez, Ernesto Jr\" <martier@cpchem.com>\n",
+         "source": "email",
+         "to": "\"'Richard Smith'\" <ras1119@hotmail.com>; <siva66@mail.ev1.net>;"
+      },
+      {
+         "from": "ras1119@hotmail.com",
+         "line": 53,
+         "rawfrom": "Richard Smith [mailto:ras1119@hotmail.com]\n",
+         "source": "email",
+         "to": "siva66@mail.ev1.net; klyn@pdq.net; jramirez@othon.com; Martinez,"
+      },
+      {
+         "from": "klyn@pdq.net",
+         "line": 113,
+         "rawfrom": "\"Kevin\" <klyn@pdq.net>@ENRON\n",
+         "source": "email",
+         "to": "Joe Ramirez; Quigley, Dutch; siva66@mail.ev1.net;"
+      },
+      {
+         "from": "jramirez@othon.com",
+         "line": 133,
+         "rawfrom": "\"Joe Ramirez\" <jramirez@othon.com>\n",
+         "source": "email",
+         "to": "\"Quigley, Dutch\" <Dutch.Quigley@ENRON.com>;"
+      },
+      {
+         "from": "dutch.quigley@enron.com",
+         "line": 149,
+         "rawfrom": "Quigley, Dutch [mailto:Dutch.Quigley@ENRON.com]\n",
+         "source": "email",
+         "to": "siva66@mail.ev1.net; martier@cpchem.com; wolphguy@aol.com;"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/quigley-d/myfriends/63.",
+   "hops": [
+      {
+         "from": "martier@cpchem.com",
+         "line": 53,
+         "rawfrom": "\"Martinez, Ernesto Jr\" <martier@cpchem.com>\n",
+         "source": "email",
+         "to": "\"Mark Molnar\" <MarkM@cajunusa.com>; \"'Kevin'\" <klyn@pdq.net>;"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 89,
+         "rawfrom": "Mark Molnar [mailto:MarkM@cajunusa.com]\n",
+         "source": "email",
+         "to": "frthis@aol.com; wolphguy@aol.com; martier@cpchem.com;"
+      },
+      {
+         "from": "markm@cajunusa.com",
+         "line": 161,
+         "rawfrom": "Mark Molnar [mailto:MarkM@cajunusa.com]\n",
+         "source": "email",
+         "to": "wolphguy@aol.com; martier@cpchem.com;"
+      },
+      {
+         "from": "jramirez@othon.com",
+         "line": 188,
+         "rawfrom": "\"Joe Ramirez\" <jramirez@othon.com>\n",
+         "source": "email",
+         "to": "<siva66@mail.ev1.net>; <bwdunlavy@yahoo.com>;"
+      }
+   ],
+   "skipped": 2
+}
+]

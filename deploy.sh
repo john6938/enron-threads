@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # Deploy web/ to the gh-pages branch as a single force-pushed orphan commit.
 # Run after the data pipeline has generated web/data/threads-*.json.
+# Note: email-content-*.json files are excluded — see comment below.
 set -euo pipefail
 
 REPO_ROOT="$(cd "$(dirname "$0")" && pwd)"
@@ -31,7 +32,11 @@ echo "Staging web/ for deployment..."
 rsync -a \
     --exclude='addresses.tsv' \
     --exclude='data_perl' \
+    --exclude='email-content-*.json' \
     "$REPO_ROOT/web/" "$WORK/"
+# email-content-*.json files are excluded: some exceed GitHub's 100MB file
+# size limit (dasovich-j: 121MB, kean-s: 90MB). For public deployment these
+# will need to be served from a CDN or object storage rather than gh-pages.
 
 # Create a single orphan commit and force-push
 cd "$WORK"

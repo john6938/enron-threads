@@ -1,0 +1,1114 @@
+[
+{
+   "file": "/home/jb/maildir/lay-k/inbox/670.",
+   "hops": [
+      {
+         "from": "robyn@layfam.com",
+         "line": 4,
+         "rawfrom": "robyn@layfam.com\r\n",
+         "source": "valid",
+         "to": "benton.wynay@enron.com, bousquet.virginia@enron.com,"
+      },
+      {
+         "from": "djaphet@cypressasset.com",
+         "line": 44,
+         "rawfrom": "\"Dan Japhet\" <djaphet@cypressasset.com>\n",
+         "source": "email",
+         "to": "\"Randy Allen (E-mail)\" <randy.allen@ubspainewebber.com>; \"Wilson Allen"
+      },
+      {
+         "from": "kirbynrg@swbell.net",
+         "line": 123,
+         "rawfrom": "Kirby Black [mailto:kirbynrg@swbell.net]\n",
+         "source": "email",
+         "to": "\"Undisclosed-Recipient:;\"@dstweb.net"
+      },
+      {
+         "from": "nkinder@earthlink.net",
+         "line": 139,
+         "rawfrom": "\"Nancy Kinder\" <nkinder@earthlink.net>\n",
+         "source": "email",
+         "to": "\"Marie L Kinder\" <Marie.L.Kinder@pfizer.com>; \"Kirby Black\""
+      },
+      {
+         "from": "roxann@neurou.com",
+         "line": 181,
+         "rawfrom": "Roxann Neumann [mailto:roxann@neurou.com]\n",
+         "source": "email",
+         "to": "Neumann, Roxann"
+      },
+      {
+         "from": "roxann@neurou.com",
+         "line": 222,
+         "rawfrom": "Roxann Neumann [mailto:roxann@neurou.com]\n",
+         "source": "email",
+         "to": "Neumann, Roxann"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/inbox/835.",
+   "hops": [
+      {
+         "from": "cra123@yahoo.com",
+         "line": 4,
+         "rawfrom": "cra123@yahoo.com\r\n",
+         "source": "valid",
+         "to": "kenneth.lay@enron.com"
+      },
+      {
+         "from": "mailer-daemon@yahoo.com",
+         "line": 32,
+         "rawfrom": "MAILER-DAEMON@yahoo.com\n",
+         "source": "valid",
+         "to": "cra123@yahoo.com"
+      },
+      {
+         "from": "cra123@yahoo.com",
+         "line": 52,
+         "rawfrom": "\"Chas. Allured\" <cra123@yahoo.com>\n",
+         "source": "email",
+         "to": "Ken.lay@enron.com, david.delainey@enron.com"
+      },
+      {
+         "from": "cra123@yahoo.com",
+         "line": 91,
+         "rawfrom": "\"Chas. Allured\" <cra123@yahoo.com>\n",
+         "source": "email",
+         "to": "ben.smith@enron.com, Leticia.dotello@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/inbox/623.",
+   "hops": [
+      {
+         "from": "mrslinda@lplpi.com",
+         "line": 4,
+         "rawfrom": "mrslinda@lplpi.com\r\n",
+         "source": "valid",
+         "to": "joannie.williamson@enron.com"
+      },
+      {
+         "from": "joannie.williamson@enron.com",
+         "line": 38,
+         "rawfrom": "Williamson, Joannie [mailto:Joannie.Williamson@ENRON.com]\n",
+         "source": "email",
+         "to": "Linda Lay"
+      },
+      {
+         "from": "dmurphy@ashford.com",
+         "line": 78,
+         "rawfrom": "Diane Murphy [mailto:dmurphy@Ashford.com]\n",
+         "source": "email",
+         "to": "Nadasky, Marge"
+      },
+      {
+         "from": "marge.nadasky@enron.com",
+         "line": 88,
+         "rawfrom": "Nadasky, Marge [mailto:Marge.Nadasky@ENRON.com]\n",
+         "source": "email",
+         "to": "Diane Murphy"
+      },
+      {
+         "from": "dmurphy@ashford.com",
+         "line": 98,
+         "rawfrom": "Diane Murphy [mailto:dmurphy@Ashford.com]\n",
+         "source": "email",
+         "to": "Nadasky, Marge"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/inbox/824.",
+   "hops": [
+      {
+         "from": "moore2311@aol.com",
+         "line": 4,
+         "rawfrom": "moore2311@aol.com\r\n",
+         "source": "valid",
+         "to": "kenneth.lay@enron.com"
+      },
+      {
+         "from": "mailer-daemon@aol.com",
+         "line": 33,
+         "rawfrom": "Mail Delivery Subsystem <MAILER-DAEMON@aol.com>\r\n",
+         "source": "email",
+         "to": "Moore2311@aol.com"
+      },
+      {
+         "from": "ken.lay@enron.com",
+         "line": 48,
+         "rawfrom": "ken.lay@enron.com",
+         "source": "valid",
+         "to": "<ken.lay@enron.com>"
+      },
+      {
+         "from": "moore2311@aol.com",
+         "line": 67,
+         "rawfrom": "Moore2311@aol.com\r\n",
+         "source": "valid",
+         "to": "ken.lay@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/inbox/839.",
+   "hops": [
+      {
+         "from": "dan.leff@enron.com",
+         "line": 4,
+         "rawfrom": "dan.leff@enron.com\r\n",
+         "source": "valid",
+         "to": "kenneth.lay@enron.com, raymond.bowen@enron.com"
+      },
+      {
+         "from": "cra123@yahoo.com",
+         "line": 44,
+         "rawfrom": "\t\"Chas. Allured\" <cra123@yahoo.com>@ENRON  \n",
+         "source": "email",
+         "to": "Lay, Kenneth"
+      },
+      {
+         "from": "mailer-daemon@yahoo.com",
+         "line": 62,
+         "rawfrom": "MAILER-DAEMON@yahoo.com\n",
+         "source": "valid",
+         "to": "cra123@yahoo.com"
+      },
+      {
+         "from": "cra123@yahoo.com",
+         "line": 82,
+         "rawfrom": "\"Chas. Allured\" <cra123@yahoo.com>\n",
+         "source": "email",
+         "to": "Ken.lay@enron.com, david.delainey@enron.com"
+      },
+      {
+         "from": "cra123@yahoo.com",
+         "line": 121,
+         "rawfrom": "\"Chas. Allured\" <cra123@yahoo.com>\n",
+         "source": "email",
+         "to": "ben.smith@enron.com, Leticia.dotello@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/inbox/432.",
+   "hops": [
+      {
+         "from": "mshaw@chiefs.nfl.com",
+         "line": 44,
+         "rawfrom": "Shaw, Morgan [mailto:MShaw@CHIEFS.NFL.com]\n",
+         "source": "email",
+         "to": "Shaw, Neal"
+      },
+      {
+         "from": "nshaw@usenergyservices.com",
+         "line": 60,
+         "rawfrom": "Shaw, Neal [mailto:nshaw@usenergyservices.com]\n",
+         "source": "email",
+         "to": "mshaw@chiefs.nfl.com; jbshaw@csuniv.edu"
+      },
+      {
+         "from": "kenneth.lay@enron.com",
+         "line": 158,
+         "rawfrom": "Kenneth.Lay@enron.com [mailto:Kenneth.Lay@enron.com]\n",
+         "source": "email",
+         "to": "Shaw, Neal"
+      },
+      {
+         "from": "nshaw@usenergyservices.com",
+         "line": 203,
+         "rawfrom": "  \"Shaw, Neal\" <nshaw@usenergyservices.com>@ENRON\n",
+         "source": "email",
+         "to": "Ken.lay@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/all_documents/757.",
+   "hops": [
+      {
+         "from": "rosalee.fleming@enron.com",
+         "line": 4,
+         "rawfrom": "rosalee.fleming@enron.com\r\n",
+         "source": "valid",
+         "to": "valerie.petersen@yale.edu"
+      },
+      {
+         "from": "valerie.petersen@yale.edu",
+         "line": 26,
+         "rawfrom": "\"Petersen, Valerie\" <valerie.petersen@yale.edu> on 11/07/2000 07:02:40 AM\n",
+         "source": "email",
+         "to": "\"'Kenneth.Lay@enron.com'\" <Kenneth.Lay@enron.com>"
+      },
+      {
+         "from": "kenneth.lay@enron.com",
+         "line": 39,
+         "rawfrom": "Kenneth.Lay@enron.com [mailto:Kenneth.Lay@enron.com]\n",
+         "source": "email",
+         "to": "Garten, Jeffrey"
+      },
+      {
+         "from": "jeffrey.garten@yale.edu",
+         "line": 56,
+         "rawfrom": "\"Garten, Jeffrey\" <jeffrey.garten@yale.edu> on 11/02/2000 10:51:36 AM\n",
+         "source": "email",
+         "to": "\"'Len@shv.com'\" <Len@shv.com>, \"'jdoerr@kpcb.com'\" <jdoerr@kpcb.com>,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/all_documents/600.",
+   "hops": [
+      {
+         "from": "jhduncan@aol.com",
+         "line": 4,
+         "rawfrom": "jhduncan@aol.com\r\n",
+         "source": "valid",
+         "to": "klay@enron.com, neuhaus@3di.com, jtt@jttrotter.com"
+      },
+      {
+         "from": "shirleych@aol.com",
+         "line": 25,
+         "rawfrom": "Shirleych@aol.com\n",
+         "source": "valid",
+         "to": "229HUCKL574@MSN"
+      },
+      {
+         "from": "elemh@aol.com",
+         "line": 38,
+         "rawfrom": "EleMH@aol.com\n",
+         "source": "valid",
+         "to": "Shirleych@aol.com, Babsch1221@aol.com, ANNEUTSLER@aol.com,"
+      },
+      {
+         "from": "horns02@ibm.net",
+         "line": 56,
+         "rawfrom": "\"Frances Pearce\" <horns02@ibm.net>\n",
+         "source": "email",
+         "to": "\"Ele Hill\" <EleMH@aol.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/all_documents/97.",
+   "hops": [
+      {
+         "from": "rosalee.fleming@enron.com",
+         "line": 4,
+         "rawfrom": "rosalee.fleming@enron.com\r\n",
+         "source": "valid",
+         "to": "rob.bradley@enron.com"
+      },
+      {
+         "from": "greim@strategos.com",
+         "line": 75,
+         "rawfrom": "greim@strategos.com",
+         "source": "valid",
+         "to": "Rob.Bradley@enron.com"
+      },
+      {
+         "from": "greim@strategos.com",
+         "line": 117,
+         "rawfrom": "greim@strategos.com",
+         "source": "valid",
+         "to": "Rob.Bradley@enron.com"
+      },
+      {
+         "from": "ghamel@strategosnet.com",
+         "line": 142,
+         "rawfrom": "Gary Hamel <ghamel@strategosnet.com>\n",
+         "source": "email",
+         "to": "Grace Reim <greim@strategosnet.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/all_documents/1081.",
+   "hops": [
+      {
+         "from": "rosalee.fleming@enron.com",
+         "line": 4,
+         "rawfrom": "rosalee.fleming@enron.com\r\n",
+         "source": "valid",
+         "to": "aculver@houston.org"
+      },
+      {
+         "from": "aculver@houston.org",
+         "line": 30,
+         "rawfrom": "Anne Culver <aculver@houston.org> on 03/27/2001 10:44:14 AM\n",
+         "source": "email",
+         "to": "\"'Kenneth.Lay@enron.com'\" <Kenneth.Lay@enron.com>"
+      },
+      {
+         "from": "aculver@houston.org",
+         "line": 52,
+         "rawfrom": "Anne Culver <aculver@houston.org> on 03/25/2001 03:47:18 PM\n",
+         "source": "email",
+         "to": "\"'laboon@lockeliddell.com'\" <laboon@lockeliddell.com>,"
+      },
+      {
+         "from": "jshep1@flash.net",
+         "line": 73,
+         "rawfrom": "jshep1@flash.net",
+         "source": "valid",
+         "to": "Bruce LaBoon, Steve Miller, Charles Duncan, Ken Lay, Steve"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/all_documents/260.",
+   "hops": [
+      {
+         "from": "sfink@knowledgeu.com",
+         "line": 4,
+         "rawfrom": "sfink@knowledgeu.com\r\n",
+         "source": "valid",
+         "to": "kenneth.lay@enron.com"
+      },
+      {
+         "from": "wanda@ncube.com",
+         "line": 50,
+         "rawfrom": "Wanda Barquero <wanda@ncube.com>\n",
+         "source": "email",
+         "to": "\"Stephen Fink (E-mail)\" <sfink@knowledgeu.com>"
+      },
+      {
+         "from": "jmuller@hlhz.com",
+         "line": 67,
+         "rawfrom": "Muller, Jennifer [mailto:JMuller@HLHZ.com]\n",
+         "source": "email",
+         "to": "'Wanda Barquero'"
+      },
+      {
+         "from": "wanda@ncube.com",
+         "line": 77,
+         "rawfrom": "Wanda Barquero [SMTP:wanda@ncube.com]\n",
+         "source": "email",
+         "to": "Jennifer Muller (E-mail)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/all_documents/55.",
+   "hops": [
+      {
+         "from": "rosalee.fleming@enron.com",
+         "line": 4,
+         "rawfrom": "rosalee.fleming@enron.com\r\n",
+         "source": "valid",
+         "to": "lizard_ar@yahoo.com"
+      },
+      {
+         "from": "lizard_ar@yahoo.com",
+         "line": 23,
+         "rawfrom": "Elizabeth Lay <lizard_ar@yahoo.com> on 02/02/2000 02:00:25 PM\n",
+         "source": "email",
+         "to": "Kenneth Lay/Corp/Enron@Enron"
+      },
+      {
+         "from": "jlvittor@mofo.com",
+         "line": 60,
+         "rawfrom": "\"Vittor, Jose Luis\" <JLVittor@mofo.com>\n",
+         "source": "email",
+         "to": "\"'lizard_ar@yahoo.com'\" <lizard_ar@yahoo.com>"
+      },
+      {
+         "from": "drice@hrice.com",
+         "line": 112,
+         "rawfrom": "DENIS T. RICE [mailto:drice@hrice.com]\n",
+         "source": "email",
+         "to": "handg@altheimer.com; beilly@atlaslaw.com; wstutts@bakerbotts.com;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/all_documents/432.",
+   "hops": [
+      {
+         "from": "rosalee.fleming@enron.com",
+         "line": 4,
+         "rawfrom": "rosalee.fleming@enron.com\r\n",
+         "source": "valid",
+         "to": "bijangh2000@tavana.net"
+      },
+      {
+         "from": "bijangh2000@tavana.net",
+         "line": 26,
+         "rawfrom": "\"A.BIJAN GHODSTINAT\" <BIJANGH2000@TAVANA.NET> on 10/03/2000 02:21:13 AM\n",
+         "source": "email",
+         "to": "<Kenneth.Lay@enron.com>"
+      },
+      {
+         "from": "kenneth.lay@enron.com",
+         "line": 34,
+         "rawfrom": "<Kenneth.Lay@enron.com>\n",
+         "source": "email",
+         "to": "A.BIJAN GHODSTINAT <BIJANGH2000@TAVANA.NET>"
+      },
+      {
+         "from": "bijangh2000@tavana.net",
+         "line": 53,
+         "rawfrom": "BIJANGH2000@TAVANA.NET",
+         "source": "valid",
+         "to": "<kenneth.lay@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/all_documents/1100.",
+   "hops": [
+      {
+         "from": "rosalee.fleming@enron.com",
+         "line": 4,
+         "rawfrom": "rosalee.fleming@enron.com\r\n",
+         "source": "valid",
+         "to": "barbara.sain@compaq.com"
+      },
+      {
+         "from": "barbara.sain@compaq.com",
+         "line": 23,
+         "rawfrom": "\"Sain, Barbara\" <Barbara.Sain@COMPAQ.com> on 04/16/2001 03:51:28 PM\n",
+         "source": "email",
+         "to": "\"'Kenneth.Lay@enron.com'\" <Kenneth.Lay@enron.com>"
+      },
+      {
+         "from": "kenneth.lay@enron.com",
+         "line": 38,
+         "rawfrom": "Kenneth.Lay@enron.com [mailto:Kenneth.Lay@enron.com]\n",
+         "source": "email",
+         "to": "Sain, Barbara"
+      },
+      {
+         "from": "barbara.sain@compaq.com",
+         "line": 52,
+         "rawfrom": "\"Sain, Barbara\" <Barbara.Sain@COMPAQ.com> on 04/16/2001 02:59:34 PM\n",
+         "source": "email",
+         "to": "\"'babbio@verizon.com'\" <babbio@verizon.com>, \"'tedenloe@msn.com'\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/sent/127.",
+   "hops": [
+      {
+         "from": "rosalee.fleming@enron.com",
+         "line": 4,
+         "rawfrom": "rosalee.fleming@enron.com\r\n",
+         "source": "valid",
+         "to": "rob.bradley@enron.com"
+      },
+      {
+         "from": "greim@strategos.com",
+         "line": 75,
+         "rawfrom": "greim@strategos.com",
+         "source": "valid",
+         "to": "Rob.Bradley@enron.com"
+      },
+      {
+         "from": "greim@strategos.com",
+         "line": 117,
+         "rawfrom": "greim@strategos.com",
+         "source": "valid",
+         "to": "Rob.Bradley@enron.com"
+      },
+      {
+         "from": "ghamel@strategosnet.com",
+         "line": 142,
+         "rawfrom": "Gary Hamel <ghamel@strategosnet.com>\n",
+         "source": "email",
+         "to": "Grace Reim <greim@strategosnet.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/sent/208.",
+   "hops": [
+      {
+         "from": "rosalee.fleming@enron.com",
+         "line": 4,
+         "rawfrom": "rosalee.fleming@enron.com\r\n",
+         "source": "valid",
+         "to": "barbara.sain@compaq.com"
+      },
+      {
+         "from": "barbara.sain@compaq.com",
+         "line": 23,
+         "rawfrom": "\"Sain, Barbara\" <Barbara.Sain@COMPAQ.com> on 04/16/2001 03:51:28 PM\n",
+         "source": "email",
+         "to": "\"'Kenneth.Lay@enron.com'\" <Kenneth.Lay@enron.com>"
+      },
+      {
+         "from": "kenneth.lay@enron.com",
+         "line": 38,
+         "rawfrom": "Kenneth.Lay@enron.com [mailto:Kenneth.Lay@enron.com]\n",
+         "source": "email",
+         "to": "Sain, Barbara"
+      },
+      {
+         "from": "barbara.sain@compaq.com",
+         "line": 52,
+         "rawfrom": "\"Sain, Barbara\" <Barbara.Sain@COMPAQ.com> on 04/16/2001 02:59:34 PM\n",
+         "source": "email",
+         "to": "\"'babbio@verizon.com'\" <babbio@verizon.com>, \"'tedenloe@msn.com'\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/sent/30.",
+   "hops": [
+      {
+         "from": "rosalee.fleming@enron.com",
+         "line": 4,
+         "rawfrom": "rosalee.fleming@enron.com\r\n",
+         "source": "valid",
+         "to": "bijangh2000@tavana.net"
+      },
+      {
+         "from": "bijangh2000@tavana.net",
+         "line": 26,
+         "rawfrom": "\"A.BIJAN GHODSTINAT\" <BIJANGH2000@TAVANA.NET> on 10/03/2000 02:21:13 AM\n",
+         "source": "email",
+         "to": "<Kenneth.Lay@enron.com>"
+      },
+      {
+         "from": "kenneth.lay@enron.com",
+         "line": 34,
+         "rawfrom": "<Kenneth.Lay@enron.com>\n",
+         "source": "email",
+         "to": "A.BIJAN GHODSTINAT <BIJANGH2000@TAVANA.NET>"
+      },
+      {
+         "from": "bijangh2000@tavana.net",
+         "line": 53,
+         "rawfrom": "BIJANGH2000@TAVANA.NET",
+         "source": "valid",
+         "to": "<kenneth.lay@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/sent/226.",
+   "hops": [
+      {
+         "from": "rosalee.fleming@enron.com",
+         "line": 4,
+         "rawfrom": "rosalee.fleming@enron.com\r\n",
+         "source": "valid",
+         "to": "aculver@houston.org"
+      },
+      {
+         "from": "aculver@houston.org",
+         "line": 30,
+         "rawfrom": "Anne Culver <aculver@houston.org> on 03/27/2001 10:44:14 AM\n",
+         "source": "email",
+         "to": "\"'Kenneth.Lay@enron.com'\" <Kenneth.Lay@enron.com>"
+      },
+      {
+         "from": "aculver@houston.org",
+         "line": 52,
+         "rawfrom": "Anne Culver <aculver@houston.org> on 03/25/2001 03:47:18 PM\n",
+         "source": "email",
+         "to": "\"'laboon@lockeliddell.com'\" <laboon@lockeliddell.com>,"
+      },
+      {
+         "from": "jshep1@flash.net",
+         "line": 73,
+         "rawfrom": "jshep1@flash.net",
+         "source": "valid",
+         "to": "Bruce LaBoon, Steve Miller, Charles Duncan, Ken Lay, Steve"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/sent/165.",
+   "hops": [
+      {
+         "from": "rosalee.fleming@enron.com",
+         "line": 4,
+         "rawfrom": "rosalee.fleming@enron.com\r\n",
+         "source": "valid",
+         "to": "lizard_ar@yahoo.com"
+      },
+      {
+         "from": "lizard_ar@yahoo.com",
+         "line": 23,
+         "rawfrom": "Elizabeth Lay <lizard_ar@yahoo.com> on 02/02/2000 02:00:25 PM\n",
+         "source": "email",
+         "to": "Kenneth Lay/Corp/Enron@Enron"
+      },
+      {
+         "from": "jlvittor@mofo.com",
+         "line": 60,
+         "rawfrom": "\"Vittor, Jose Luis\" <JLVittor@mofo.com>\n",
+         "source": "email",
+         "to": "\"'lizard_ar@yahoo.com'\" <lizard_ar@yahoo.com>"
+      },
+      {
+         "from": "drice@hrice.com",
+         "line": 112,
+         "rawfrom": "DENIS T. RICE [mailto:drice@hrice.com]\n",
+         "source": "email",
+         "to": "handg@altheimer.com; beilly@atlaslaw.com; wstutts@bakerbotts.com;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/sent/19.",
+   "hops": [
+      {
+         "from": "rosalee.fleming@enron.com",
+         "line": 4,
+         "rawfrom": "rosalee.fleming@enron.com\r\n",
+         "source": "valid",
+         "to": "valerie.petersen@yale.edu"
+      },
+      {
+         "from": "valerie.petersen@yale.edu",
+         "line": 26,
+         "rawfrom": "\"Petersen, Valerie\" <valerie.petersen@yale.edu> on 11/07/2000 07:02:40 AM\n",
+         "source": "email",
+         "to": "\"'Kenneth.Lay@enron.com'\" <Kenneth.Lay@enron.com>"
+      },
+      {
+         "from": "kenneth.lay@enron.com",
+         "line": 39,
+         "rawfrom": "Kenneth.Lay@enron.com [mailto:Kenneth.Lay@enron.com]\n",
+         "source": "email",
+         "to": "Garten, Jeffrey"
+      },
+      {
+         "from": "jeffrey.garten@yale.edu",
+         "line": 56,
+         "rawfrom": "\"Garten, Jeffrey\" <jeffrey.garten@yale.edu> on 11/02/2000 10:51:36 AM\n",
+         "source": "email",
+         "to": "\"'Len@shv.com'\" <Len@shv.com>, \"'jdoerr@kpcb.com'\" <jdoerr@kpcb.com>,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/notes_inbox/75.",
+   "hops": [
+      {
+         "from": "sfink@knowledgeu.com",
+         "line": 4,
+         "rawfrom": "sfink@knowledgeu.com\r\n",
+         "source": "valid",
+         "to": "kenneth.lay@enron.com"
+      },
+      {
+         "from": "wanda@ncube.com",
+         "line": 50,
+         "rawfrom": "Wanda Barquero <wanda@ncube.com>\n",
+         "source": "email",
+         "to": "\"Stephen Fink (E-mail)\" <sfink@knowledgeu.com>"
+      },
+      {
+         "from": "jmuller@hlhz.com",
+         "line": 67,
+         "rawfrom": "Muller, Jennifer [mailto:JMuller@HLHZ.com]\n",
+         "source": "email",
+         "to": "'Wanda Barquero'"
+      },
+      {
+         "from": "wanda@ncube.com",
+         "line": 77,
+         "rawfrom": "Wanda Barquero [SMTP:wanda@ncube.com]\n",
+         "source": "email",
+         "to": "Jennifer Muller (E-mail)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/notes_inbox/389.",
+   "hops": [
+      {
+         "from": "jhduncan@aol.com",
+         "line": 4,
+         "rawfrom": "jhduncan@aol.com\r\n",
+         "source": "valid",
+         "to": "klay@enron.com, neuhaus@3di.com, jtt@jttrotter.com"
+      },
+      {
+         "from": "shirleych@aol.com",
+         "line": 25,
+         "rawfrom": "Shirleych@aol.com\n",
+         "source": "valid",
+         "to": "229HUCKL574@MSN"
+      },
+      {
+         "from": "elemh@aol.com",
+         "line": 38,
+         "rawfrom": "EleMH@aol.com\n",
+         "source": "valid",
+         "to": "Shirleych@aol.com, Babsch1221@aol.com, ANNEUTSLER@aol.com,"
+      },
+      {
+         "from": "horns02@ibm.net",
+         "line": 56,
+         "rawfrom": "\"Frances Pearce\" <horns02@ibm.net>\n",
+         "source": "email",
+         "to": "\"Ele Hill\" <EleMH@aol.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/_sent/216.",
+   "hops": [
+      {
+         "from": "rosalee.fleming@enron.com",
+         "line": 4,
+         "rawfrom": "rosalee.fleming@enron.com\r\n",
+         "source": "valid",
+         "to": "aculver@houston.org"
+      },
+      {
+         "from": "aculver@houston.org",
+         "line": 30,
+         "rawfrom": "Anne Culver <aculver@houston.org> on 03/27/2001 10:44:14 AM\n",
+         "source": "email",
+         "to": "\"'Kenneth.Lay@enron.com'\" <Kenneth.Lay@enron.com>"
+      },
+      {
+         "from": "aculver@houston.org",
+         "line": 52,
+         "rawfrom": "Anne Culver <aculver@houston.org> on 03/25/2001 03:47:18 PM\n",
+         "source": "email",
+         "to": "\"'laboon@lockeliddell.com'\" <laboon@lockeliddell.com>,"
+      },
+      {
+         "from": "jshep1@flash.net",
+         "line": 73,
+         "rawfrom": "jshep1@flash.net",
+         "source": "valid",
+         "to": "Bruce LaBoon, Steve Miller, Charles Duncan, Ken Lay, Steve"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/_sent/155.",
+   "hops": [
+      {
+         "from": "rosalee.fleming@enron.com",
+         "line": 4,
+         "rawfrom": "rosalee.fleming@enron.com\r\n",
+         "source": "valid",
+         "to": "valerie.petersen@yale.edu"
+      },
+      {
+         "from": "valerie.petersen@yale.edu",
+         "line": 26,
+         "rawfrom": "\"Petersen, Valerie\" <valerie.petersen@yale.edu> on 11/07/2000 07:02:40 AM\n",
+         "source": "email",
+         "to": "\"'Kenneth.Lay@enron.com'\" <Kenneth.Lay@enron.com>"
+      },
+      {
+         "from": "kenneth.lay@enron.com",
+         "line": 39,
+         "rawfrom": "Kenneth.Lay@enron.com [mailto:Kenneth.Lay@enron.com]\n",
+         "source": "email",
+         "to": "Garten, Jeffrey"
+      },
+      {
+         "from": "jeffrey.garten@yale.edu",
+         "line": 56,
+         "rawfrom": "\"Garten, Jeffrey\" <jeffrey.garten@yale.edu> on 11/02/2000 10:51:36 AM\n",
+         "source": "email",
+         "to": "\"'Len@shv.com'\" <Len@shv.com>, \"'jdoerr@kpcb.com'\" <jdoerr@kpcb.com>,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/_sent/234.",
+   "hops": [
+      {
+         "from": "rosalee.fleming@enron.com",
+         "line": 4,
+         "rawfrom": "rosalee.fleming@enron.com\r\n",
+         "source": "valid",
+         "to": "barbara.sain@compaq.com"
+      },
+      {
+         "from": "barbara.sain@compaq.com",
+         "line": 23,
+         "rawfrom": "\"Sain, Barbara\" <Barbara.Sain@COMPAQ.com> on 04/16/2001 03:51:28 PM\n",
+         "source": "email",
+         "to": "\"'Kenneth.Lay@enron.com'\" <Kenneth.Lay@enron.com>"
+      },
+      {
+         "from": "kenneth.lay@enron.com",
+         "line": 38,
+         "rawfrom": "Kenneth.Lay@enron.com [mailto:Kenneth.Lay@enron.com]\n",
+         "source": "email",
+         "to": "Sain, Barbara"
+      },
+      {
+         "from": "barbara.sain@compaq.com",
+         "line": 52,
+         "rawfrom": "\"Sain, Barbara\" <Barbara.Sain@COMPAQ.com> on 04/16/2001 02:59:34 PM\n",
+         "source": "email",
+         "to": "\"'babbio@verizon.com'\" <babbio@verizon.com>, \"'tedenloe@msn.com'\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/_sent/10.",
+   "hops": [
+      {
+         "from": "rosalee.fleming@enron.com",
+         "line": 4,
+         "rawfrom": "rosalee.fleming@enron.com\r\n",
+         "source": "valid",
+         "to": "lizard_ar@yahoo.com"
+      },
+      {
+         "from": "lizard_ar@yahoo.com",
+         "line": 23,
+         "rawfrom": "Elizabeth Lay <lizard_ar@yahoo.com> on 02/02/2000 02:00:25 PM\n",
+         "source": "email",
+         "to": "Kenneth Lay/Corp/Enron@Enron"
+      },
+      {
+         "from": "jlvittor@mofo.com",
+         "line": 60,
+         "rawfrom": "\"Vittor, Jose Luis\" <JLVittor@mofo.com>\n",
+         "source": "email",
+         "to": "\"'lizard_ar@yahoo.com'\" <lizard_ar@yahoo.com>"
+      },
+      {
+         "from": "drice@hrice.com",
+         "line": 112,
+         "rawfrom": "DENIS T. RICE [mailto:drice@hrice.com]\n",
+         "source": "email",
+         "to": "handg@altheimer.com; beilly@atlaslaw.com; wstutts@bakerbotts.com;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/_sent/144.",
+   "hops": [
+      {
+         "from": "rosalee.fleming@enron.com",
+         "line": 4,
+         "rawfrom": "rosalee.fleming@enron.com\r\n",
+         "source": "valid",
+         "to": "bijangh2000@tavana.net"
+      },
+      {
+         "from": "bijangh2000@tavana.net",
+         "line": 26,
+         "rawfrom": "\"A.BIJAN GHODSTINAT\" <BIJANGH2000@TAVANA.NET> on 10/03/2000 02:21:13 AM\n",
+         "source": "email",
+         "to": "<Kenneth.Lay@enron.com>"
+      },
+      {
+         "from": "kenneth.lay@enron.com",
+         "line": 34,
+         "rawfrom": "<Kenneth.Lay@enron.com>\n",
+         "source": "email",
+         "to": "A.BIJAN GHODSTINAT <BIJANGH2000@TAVANA.NET>"
+      },
+      {
+         "from": "bijangh2000@tavana.net",
+         "line": 53,
+         "rawfrom": "BIJANGH2000@TAVANA.NET",
+         "source": "valid",
+         "to": "<kenneth.lay@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/_sent/48.",
+   "hops": [
+      {
+         "from": "rosalee.fleming@enron.com",
+         "line": 4,
+         "rawfrom": "rosalee.fleming@enron.com\r\n",
+         "source": "valid",
+         "to": "rob.bradley@enron.com"
+      },
+      {
+         "from": "greim@strategos.com",
+         "line": 75,
+         "rawfrom": "greim@strategos.com",
+         "source": "valid",
+         "to": "Rob.Bradley@enron.com"
+      },
+      {
+         "from": "greim@strategos.com",
+         "line": 117,
+         "rawfrom": "greim@strategos.com",
+         "source": "valid",
+         "to": "Rob.Bradley@enron.com"
+      },
+      {
+         "from": "ghamel@strategosnet.com",
+         "line": 142,
+         "rawfrom": "Gary Hamel <ghamel@strategosnet.com>\n",
+         "source": "email",
+         "to": "Grace Reim <greim@strategosnet.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/discussion_threads/617.",
+   "hops": [
+      {
+         "from": "rosalee.fleming@enron.com",
+         "line": 4,
+         "rawfrom": "rosalee.fleming@enron.com\r\n",
+         "source": "valid",
+         "to": "valerie.petersen@yale.edu"
+      },
+      {
+         "from": "valerie.petersen@yale.edu",
+         "line": 26,
+         "rawfrom": "\"Petersen, Valerie\" <valerie.petersen@yale.edu> on 11/07/2000 07:02:40 AM\n",
+         "source": "email",
+         "to": "\"'Kenneth.Lay@enron.com'\" <Kenneth.Lay@enron.com>"
+      },
+      {
+         "from": "kenneth.lay@enron.com",
+         "line": 39,
+         "rawfrom": "Kenneth.Lay@enron.com [mailto:Kenneth.Lay@enron.com]\n",
+         "source": "email",
+         "to": "Garten, Jeffrey"
+      },
+      {
+         "from": "jeffrey.garten@yale.edu",
+         "line": 56,
+         "rawfrom": "\"Garten, Jeffrey\" <jeffrey.garten@yale.edu> on 11/02/2000 10:51:36 AM\n",
+         "source": "email",
+         "to": "\"'Len@shv.com'\" <Len@shv.com>, \"'jdoerr@kpcb.com'\" <jdoerr@kpcb.com>,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/discussion_threads/174.",
+   "hops": [
+      {
+         "from": "sfink@knowledgeu.com",
+         "line": 4,
+         "rawfrom": "sfink@knowledgeu.com\r\n",
+         "source": "valid",
+         "to": "kenneth.lay@enron.com"
+      },
+      {
+         "from": "wanda@ncube.com",
+         "line": 50,
+         "rawfrom": "Wanda Barquero <wanda@ncube.com>\n",
+         "source": "email",
+         "to": "\"Stephen Fink (E-mail)\" <sfink@knowledgeu.com>"
+      },
+      {
+         "from": "jmuller@hlhz.com",
+         "line": 67,
+         "rawfrom": "Muller, Jennifer [mailto:JMuller@HLHZ.com]\n",
+         "source": "email",
+         "to": "'Wanda Barquero'"
+      },
+      {
+         "from": "wanda@ncube.com",
+         "line": 77,
+         "rawfrom": "Wanda Barquero [SMTP:wanda@ncube.com]\n",
+         "source": "email",
+         "to": "Jennifer Muller (E-mail)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/lay-k/discussion_threads/482.",
+   "hops": [
+      {
+         "from": "jhduncan@aol.com",
+         "line": 4,
+         "rawfrom": "jhduncan@aol.com\r\n",
+         "source": "valid",
+         "to": "klay@enron.com, neuhaus@3di.com, jtt@jttrotter.com"
+      },
+      {
+         "from": "shirleych@aol.com",
+         "line": 25,
+         "rawfrom": "Shirleych@aol.com\n",
+         "source": "valid",
+         "to": "229HUCKL574@MSN"
+      },
+      {
+         "from": "elemh@aol.com",
+         "line": 38,
+         "rawfrom": "EleMH@aol.com\n",
+         "source": "valid",
+         "to": "Shirleych@aol.com, Babsch1221@aol.com, ANNEUTSLER@aol.com,"
+      },
+      {
+         "from": "horns02@ibm.net",
+         "line": 56,
+         "rawfrom": "\"Frances Pearce\" <horns02@ibm.net>\n",
+         "source": "email",
+         "to": "\"Ele Hill\" <EleMH@aol.com>"
+      }
+   ],
+   "skipped": 1
+}
+]

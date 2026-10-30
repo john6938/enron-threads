@@ -1,0 +1,106 @@
+[
+{
+   "file": "/home/jb/maildir/buy-r/inbox/241.",
+   "hops": [
+      {
+         "from": "liz.fricke@neg.pge.com",
+         "line": 4,
+         "rawfrom": "liz.fricke@neg.pge.com\r\n",
+         "source": "valid",
+         "to": "rick.buy@enron.com"
+      },
+      {
+         "from": "rick.buy@enron.com",
+         "line": 33,
+         "rawfrom": "Buy, Rick [mailto:Rick.Buy@ENRON.com]\n",
+         "source": "email",
+         "to": "Fricke, Liz"
+      },
+      {
+         "from": "liz.fricke@neg.pge.com",
+         "line": 45,
+         "rawfrom": "Fricke, Liz [mailto:liz.fricke@neg.pge.com]\n",
+         "source": "email",
+         "to": "Buy, Rick"
+      },
+      {
+         "from": "mailer@adelmanmail.com",
+         "line": 73,
+         "rawfrom": "> From:\tmailer [mailto:mailer@adelmanmail.com]\n",
+         "source": "email",
+         "to": "'liz.fricke@neg.pge.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/buy-r/inbox/254.",
+   "hops": [
+      {
+         "from": "liz.fricke@neg.pge.com",
+         "line": 4,
+         "rawfrom": "liz.fricke@neg.pge.com\r\n",
+         "source": "valid",
+         "to": "rick.buy@enron.com"
+      },
+      {
+         "from": "rick.buy@enron.com",
+         "line": 35,
+         "rawfrom": "Buy, Rick [mailto:Rick.Buy@ENRON.com]\n",
+         "source": "email",
+         "to": "Fricke, Liz"
+      },
+      {
+         "from": "liz.fricke@neg.pge.com",
+         "line": 47,
+         "rawfrom": "Fricke, Liz [mailto:liz.fricke@neg.pge.com]\n",
+         "source": "email",
+         "to": "Buy, Rick"
+      },
+      {
+         "from": "mailer@adelmanmail.com",
+         "line": 75,
+         "rawfrom": "> From:\tmailer [mailto:mailer@adelmanmail.com]\n",
+         "source": "email",
+         "to": "'liz.fricke@neg.pge.com'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/buy-r/sent_items/348.",
+   "hops": [
+      {
+         "from": "rick.buy@enron.com",
+         "line": 4,
+         "rawfrom": "rick.buy@enron.com\r\n",
+         "source": "valid",
+         "to": "david.port@enron.com"
+      },
+      {
+         "from": "brad.horn@nuon.com",
+         "line": 21,
+         "rawfrom": "Brad.Horn@nuon.com [mailto:Brad.Horn@nuon.com]\r\n",
+         "source": "email",
+         "to": "Buy, Rick"
+      },
+      {
+         "from": "rick.buy@enron.com",
+         "line": 54,
+         "rawfrom": "Buy, Rick [mailto:Rick.Buy@ENRON.com]\r\n",
+         "source": "email",
+         "to": "Brad.Horn@nuon.com"
+      },
+      {
+         "from": "brad.horn@nuon.com",
+         "line": 64,
+         "rawfrom": "Brad.Horn@nuon.com [mailto:Brad.Horn@nuon.com]\r\n",
+         "source": "email",
+         "to": "rbuy@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+]

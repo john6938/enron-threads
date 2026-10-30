@@ -1,0 +1,50 @@
+[
+{
+   "file": "/home/jb/maildir/benson-r/inbox/large_messages/1.",
+   "hops": [
+      {
+         "from": "maria.valdes@enron.com",
+         "line": 4,
+         "rawfrom": "maria.valdes@enron.com\r\n",
+         "source": "valid",
+         "to": "robert.benson@enron.com"
+      },
+      {
+         "from": "chris.hellman@entergykoch.com",
+         "line": 22,
+         "rawfrom": "\t\"Hellman, Chris (EKT)\" <Chris.Hellman@entergykoch.com>@ENRON  \n",
+         "source": "email",
+         "to": "Valdes, Maria"
+      },
+      {
+         "from": "dean_patry@transcanada.com",
+         "line": 39,
+         "rawfrom": "> From:\tDean Patry [SMTP:dean_patry@transcanada.com]\n",
+         "source": "email",
+         "to": "Steven Jernigan; Jerry Jernigan; Mark Meunier; Mike Appling; Steve"
+      },
+      {
+         "from": "victoria_marselle@transcanada.com",
+         "line": 50,
+         "rawfrom": "\"Victoria Marselle\" <victoria_marselle@transcanada.com>\n",
+         "source": "email",
+         "to": ""
+      },
+      {
+         "from": "jbrennan@snclaw.com",
+         "line": 60,
+         "rawfrom": "\"Joe Brennan\" <jbrennan@snclaw.com>\n",
+         "source": "email",
+         "to": "\"Victoria Marselle\" <victoria_marselle@transcanada.com>,\t\"Simon Duley\" <simon.duley@tesma.com>,\t\"Rob Bell\" <jrbell@sympatico.ca>,\tpaulthepainter <paulthepainter@nexicom.net>,\t\"Nicole Lecours\" <nicole.lecours@fmc-law.com>,\t\"Kari Dixon\" <kari_dixon@hotmail.com>,\t\"Karen Dixon\" <kdixon@cdnx.ca>,\t\"John Young\" <jhp_young@hotmail.com>,\t\"Jim and Tracey Brennan\" <jandtbrennan@aol.com>,\t\"Janice Wilcox\" <janicewilcox@email.com>,\t\"Jack and Alice Bethune\" <jack.bethune@sympatico.ca>,\t\"Grant Murphy\" <thepontman@hotmail.com>,\t\"Darren Murphy\" <cdmurphy@sympatico.ca>,\t\"Brian and Pam Bethune\" <brian_pam@nexicom.net>,\t\"Brennan, Jim  - TAX\" <Jim.Brennan@statcan.ca>,\t\"Brennan Family\" <dbrennan@neptune.on.ca>"
+      },
+      {
+         "from": "gordon@valeopower.com",
+         "line": 70,
+         "rawfrom": "\"Gordon Smillie\" <gordon@valeopower.com>\n",
+         "source": "email",
+         "to": "<gordon@valeopower.com>"
+      }
+   ],
+   "skipped": 1
+}
+]

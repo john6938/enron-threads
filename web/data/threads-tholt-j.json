@@ -1,0 +1,2087 @@
+[
+{
+   "file": "/home/jb/maildir/tholt-j/inbox/14.",
+   "hops": [
+      {
+         "from": "stevens.gl.1@pg.com",
+         "line": 4,
+         "rawfrom": "stevens.gl.1@pg.com\r\n",
+         "source": "valid",
+         "to": "adams.rg@pg.com, anderson.tw.2@pg.com, berg.dj@pg.com, brenno.nl@pg.com,"
+      },
+      {
+         "from": "sheecatz@prodigy.net",
+         "line": 32,
+         "rawfrom": "\"MARY A SHEEHAN\" <SHEECATZ@PRODIGY.NET> on 12/12/2001 03:51 AM GMT\n",
+         "source": "email",
+         "to": "\"TERRY COMSTOCK\" <buddmaxx@aol.com>,"
+      },
+      {
+         "from": "ed_sykora@hotmail.com",
+         "line": 68,
+         "rawfrom": "\"Ed Sykora\" <ed_sykora@hotmail.com>\n",
+         "source": "email",
+         "to": "<ajenkins60@home.com>; <jrlane@mail.unomaha.edu>;"
+      },
+      {
+         "from": "brueningt@tsainc.com",
+         "line": 79,
+         "rawfrom": "brueningt@tsainc.com\n",
+         "source": "valid",
+         "to": "lance.bruening@usoncology.com, DKMaginn@aol.com, mm04052@alltel.net,"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/inbox/141.",
+   "hops": [
+      {
+         "from": "cweyman@astraoil.com",
+         "line": 4,
+         "rawfrom": "cweyman@astraoil.com\r\n",
+         "source": "valid",
+         "to": "m..tholt@enron.com"
+      },
+      {
+         "from": "jane.m.tholt@enron.com",
+         "line": 25,
+         "rawfrom": "Tholt, Jane M. [mailto:Jane.M.Tholt@ENRON.com]\n",
+         "source": "email",
+         "to": "cweyman@astraoil.com"
+      },
+      {
+         "from": "cweyman@astraoil.com",
+         "line": 34,
+         "rawfrom": "\tCheri Weyman <cweyman@astraoil.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jane.m.tholt@enron.com",
+         "line": 42,
+         "rawfrom": "jane.m.tholt@enron.com [mailto:jane.m.tholt@enron.com]\n",
+         "source": "email",
+         "to": "cweyman@astraoil.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/janie/162.",
+   "hops": [
+      {
+         "from": "stevens.gl.1@pg.com",
+         "line": 4,
+         "rawfrom": "stevens.gl.1@pg.com\r\n",
+         "source": "valid",
+         "to": "adams.rg@pg.com, anderson.tw.2@pg.com, berg.dj@pg.com, brenno.nl@pg.com,"
+      },
+      {
+         "from": "lkisler@mpsomaha.org",
+         "line": 37,
+         "rawfrom": "\"Linda Kisler\" <LKisler@mpsomaha.org> on 09/13/2001 03:58 PM GMT\n",
+         "source": "email",
+         "to": "LAKESIDEBODY@aol.com,"
+      },
+      {
+         "from": "cherm@ix.netcom.com",
+         "line": 61,
+         "rawfrom": "\"CHER GFELLER\" <cherm@ix.netcom.com>\n",
+         "source": "email",
+         "to": "\"Ron Young\" <kmyomaha@home.com>, \"KIM WOOLERY\" <kwoolery@ci.omaha.ne.us>,"
+      },
+      {
+         "from": "cherm@ix.netcom.com",
+         "line": 93,
+         "rawfrom": "\"Cher Gfeller\" <cherm@ix.netcom.com>\n",
+         "source": "email",
+         "to": "\"Cher Gfeller\" <cherm@ix.netcom.com>"
+      },
+      {
+         "from": "tboyce@avaya.com",
+         "line": 101,
+         "rawfrom": "\"Boyce, Tracy A (Tracy)\" <tboyce@avaya.com>\n",
+         "source": "email",
+         "to": "\"Kohls, Alberta Rohde (Alberta)\" <akohls@avaya.com>; \"Hatfield,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/janie/134.",
+   "hops": [
+      {
+         "from": "stevens.gl.1@pg.com",
+         "line": 4,
+         "rawfrom": "stevens.gl.1@pg.com\r\n",
+         "source": "valid",
+         "to": "adams.rg@pg.com, anderson.tw.2@pg.com, berg.dj@pg.com, brenno.nl@pg.com,"
+      },
+      {
+         "from": "r2bealer@home.com",
+         "line": 34,
+         "rawfrom": "\"Ray Bealer\" <r2bealer@home.com> on 08/08/2001 12:58 AM GMT\n",
+         "source": "email",
+         "to": "\"Stephen Glauberg\""
+      },
+      {
+         "from": "stephanie.greve@alltel.com",
+         "line": 53,
+         "rawfrom": "Greve, Stephanie <Stephanie.Greve@alltel.com>\n",
+         "source": "email",
+         "to": "<lynn.rosenbaum@home.com>; <rahawley18@yahoo.com>"
+      },
+      {
+         "from": "melissa.krzemien@compaq.comatinternet",
+         "line": 68,
+         "rawfrom": "Melissa.Krzemien@Compaq.com at INTERNET\n",
+         "source": "email",
+         "to": "Greve, Stephanie; mard76@aol.com at INTERNET; gggrama@aol.com at"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/deleted_items/189.",
+   "hops": [
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 4,
+         "rawfrom": "jmalisz@qwest.com\r\n",
+         "source": "valid",
+         "to": "m..tholt@enron.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 26,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 43,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 56,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 71,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 83,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 155,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/deleted_items/171.",
+   "hops": [
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 4,
+         "rawfrom": "jmalisz@qwest.com\r\n",
+         "source": "valid",
+         "to": "m..tholt@enron.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 26,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 61,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 77,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 98,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/deleted_items/168.",
+   "hops": [
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 4,
+         "rawfrom": "jmalisz@qwest.com\r\n",
+         "source": "valid",
+         "to": "m..tholt@enron.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 40,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 55,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 73,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/deleted_items/188.",
+   "hops": [
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 4,
+         "rawfrom": "jmalisz@qwest.com\r\n",
+         "source": "valid",
+         "to": "m..tholt@enron.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 29,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 46,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 59,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 74,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 86,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 158,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/deleted_items/167.",
+   "hops": [
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 4,
+         "rawfrom": "jmalisz@qwest.com\r\n",
+         "source": "valid",
+         "to": "m..tholt@enron.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 27,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 62,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 78,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 99,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/deleted_items/196.",
+   "hops": [
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 4,
+         "rawfrom": "jmalisz@qwest.com\r\n",
+         "source": "valid",
+         "to": "m..tholt@enron.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 26,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 44,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 64,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 77,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 93,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 106,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/deleted_items/186.",
+   "hops": [
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 4,
+         "rawfrom": "jmalisz@qwest.com\r\n",
+         "source": "valid",
+         "to": "m..tholt@enron.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 33,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 50,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 63,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 78,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 90,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 162,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/deleted_items/212.",
+   "hops": [
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 4,
+         "rawfrom": "jmalisz@qwest.com\r\n",
+         "source": "valid",
+         "to": "m..tholt@enron.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 28,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 57,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 77,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 99,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 113,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 130,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/deleted_items/194.",
+   "hops": [
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 4,
+         "rawfrom": "jmalisz@qwest.com\r\n",
+         "source": "valid",
+         "to": "m..tholt@enron.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 26,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 40,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 60,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 82,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 96,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 113,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/deleted_items/195.",
+   "hops": [
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 4,
+         "rawfrom": "jmalisz@qwest.com\r\n",
+         "source": "valid",
+         "to": "m..tholt@enron.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 35,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 53,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 73,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 86,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 102,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 115,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/deleted_items/185.",
+   "hops": [
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 4,
+         "rawfrom": "jmalisz@qwest.com\r\n",
+         "source": "valid",
+         "to": "m..tholt@enron.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 26,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 43,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 56,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 71,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 83,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 155,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/deleted_items/174.",
+   "hops": [
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 4,
+         "rawfrom": "jmalisz@qwest.com\r\n",
+         "source": "valid",
+         "to": "m..tholt@enron.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 27,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 39,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 82,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 100,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 123,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/deleted_items/183.",
+   "hops": [
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 4,
+         "rawfrom": "jmalisz@qwest.com\r\n",
+         "source": "valid",
+         "to": "m..tholt@enron.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 29,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 42,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 56,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 68,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 128,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 151,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/deleted_items/187.",
+   "hops": [
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 4,
+         "rawfrom": "jmalisz@qwest.com\r\n",
+         "source": "valid",
+         "to": "m..tholt@enron.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 26,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 43,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 56,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 71,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 83,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 155,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/deleted_items/175.",
+   "hops": [
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 4,
+         "rawfrom": "jmalisz@qwest.com\r\n",
+         "source": "valid",
+         "to": "m..tholt@enron.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 26,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 39,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 51,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 102,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 122,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 149,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/sent_items/283.",
+   "hops": [
+      {
+         "from": "m..tholt@enron.com",
+         "line": 4,
+         "rawfrom": "m..tholt@enron.com\r\n",
+         "source": "valid",
+         "to": "jmalisz@qwest.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 22,
+         "rawfrom": "\tJohn Maliszewski <jmalisz@qwest.com>@ENRON  \n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 37,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 54,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 67,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 82,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 94,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 166,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/sent_items/276.",
+   "hops": [
+      {
+         "from": "m..tholt@enron.com",
+         "line": 4,
+         "rawfrom": "m..tholt@enron.com\r\n",
+         "source": "valid",
+         "to": "jmalisz@qwest.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 23,
+         "rawfrom": "\tJohn Maliszewski <jmalisz@qwest.com>@ENRON  \n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 38,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 51,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 65,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 77,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 137,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 160,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/sent_items/205.",
+   "hops": [
+      {
+         "from": "m..tholt@enron.com",
+         "line": 4,
+         "rawfrom": "m..tholt@enron.com\r\n",
+         "source": "valid",
+         "to": "cweyman@astraoil.com"
+      },
+      {
+         "from": "cweyman@astraoil.com",
+         "line": 22,
+         "rawfrom": "\tCheri Weyman <cweyman@astraoil.com>@ENRON  \n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jane.m.tholt@enron.com",
+         "line": 31,
+         "rawfrom": "Tholt, Jane M. [mailto:Jane.M.Tholt@ENRON.com]\n",
+         "source": "email",
+         "to": "cweyman@astraoil.com"
+      },
+      {
+         "from": "cweyman@astraoil.com",
+         "line": 40,
+         "rawfrom": "\tCheri Weyman <cweyman@astraoil.com>@ENRON\n",
+         "source": "email",
+         "to": "Therese Rourk; Suzanne Austin; Stephanie McCluer; Scott Walker;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/sent_items/272.",
+   "hops": [
+      {
+         "from": "m..tholt@enron.com",
+         "line": 4,
+         "rawfrom": "m..tholt@enron.com\r\n",
+         "source": "valid",
+         "to": "jmalisz@qwest.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 23,
+         "rawfrom": "\tJohn Maliszewski <jmalisz@qwest.com>@ENRON  \n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 35,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 70,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 86,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 107,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/sent_items/281.",
+   "hops": [
+      {
+         "from": "m..tholt@enron.com",
+         "line": 4,
+         "rawfrom": "m..tholt@enron.com\r\n",
+         "source": "valid",
+         "to": "jmalisz@qwest.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 22,
+         "rawfrom": "\tJohn Maliszewski <jmalisz@qwest.com>@ENRON  \n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 34,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 51,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 64,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 79,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 91,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 163,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/sent_items/275.",
+   "hops": [
+      {
+         "from": "m..tholt@enron.com",
+         "line": 4,
+         "rawfrom": "m..tholt@enron.com\r\n",
+         "source": "valid",
+         "to": "jmalisz@qwest.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 23,
+         "rawfrom": "\tJohn Maliszewski <jmalisz@qwest.com>@ENRON  \n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 38,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 51,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 65,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 77,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 137,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 160,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/sent_items/279.",
+   "hops": [
+      {
+         "from": "m..tholt@enron.com",
+         "line": 4,
+         "rawfrom": "m..tholt@enron.com\r\n",
+         "source": "valid",
+         "to": "jmalisz@qwest.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 22,
+         "rawfrom": "\tJohn Maliszewski <jmalisz@qwest.com>@ENRON  \n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 37,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 50,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 64,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 76,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 136,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 159,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/sent_items/277.",
+   "hops": [
+      {
+         "from": "m..tholt@enron.com",
+         "line": 4,
+         "rawfrom": "m..tholt@enron.com\r\n",
+         "source": "valid",
+         "to": "jmalisz@qwest.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 23,
+         "rawfrom": "\tJohn Maliszewski <jmalisz@qwest.com>@ENRON  \n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 38,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 51,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 65,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 77,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 137,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 160,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/sent_items/270.",
+   "hops": [
+      {
+         "from": "m..tholt@enron.com",
+         "line": 4,
+         "rawfrom": "m..tholt@enron.com\r\n",
+         "source": "valid",
+         "to": "jmalisz@qwest.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 22,
+         "rawfrom": "\tJohn Maliszewski <jmalisz@qwest.com>@ENRON  \n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 48,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 63,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 81,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/sent_items/285.",
+   "hops": [
+      {
+         "from": "m..tholt@enron.com",
+         "line": 4,
+         "rawfrom": "m..tholt@enron.com\r\n",
+         "source": "valid",
+         "to": "jmalisz@qwest.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 22,
+         "rawfrom": "\tJohn Maliszewski <jmalisz@qwest.com>@ENRON  \n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 43,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 61,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 81,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 94,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 110,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 123,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/sent_items/88.",
+   "hops": [
+      {
+         "from": "m..tholt@enron.com",
+         "line": 4,
+         "rawfrom": "m..tholt@enron.com\r\n",
+         "source": "valid",
+         "to": "susan.jones@neg.pge.com"
+      },
+      {
+         "from": "susan.jones@neg.pge.com",
+         "line": 22,
+         "rawfrom": "\t\"Jones, Susan\" <susan.jones@neg.pge.com>@ENRON [mailto:IMCEANOTES-+22Jones+2C+20Susan+22+20+3Csusan+2Ejones+40neg+2Epge+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jane.m.tholt@enron.com",
+         "line": 37,
+         "rawfrom": "Tholt, Jane M. [mailto:Jane.M.Tholt@ENRON.com]\n",
+         "source": "email",
+         "to": "Susan.jones@neg.pge.com"
+      },
+      {
+         "from": "dbmcvick@srpnet.com",
+         "line": 48,
+         "rawfrom": "\tdbmcvick@srpnet.com@ENRON\n",
+         "source": "email",
+         "to": "agold@coral-energy.com; barryp@bp.com; bbrigham@sidrichgas.com;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/sent_items/284.",
+   "hops": [
+      {
+         "from": "m..tholt@enron.com",
+         "line": 4,
+         "rawfrom": "m..tholt@enron.com\r\n",
+         "source": "valid",
+         "to": "jmalisz@qwest.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 23,
+         "rawfrom": "\tJohn Maliszewski <jmalisz@qwest.com>@ENRON  \n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 35,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 53,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 73,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 86,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 102,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 115,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/sent_items/67.",
+   "hops": [
+      {
+         "from": "m..tholt@enron.com",
+         "line": 4,
+         "rawfrom": "m..tholt@enron.com\r\n",
+         "source": "valid",
+         "to": "john.hogan@mirrant.com"
+      },
+      {
+         "from": "r2bealer@home.com",
+         "line": 37,
+         "rawfrom": "\"Ray Bealer\" <r2bealer@home.com> on 08/08/2001 12:58 AM GMT\n",
+         "source": "email",
+         "to": "\"Stephen Glauberg\""
+      },
+      {
+         "from": "stephanie.greve@alltel.com",
+         "line": 56,
+         "rawfrom": "Greve, Stephanie <Stephanie.Greve@alltel.com>\n",
+         "source": "email",
+         "to": "<lynn.rosenbaum@home.com>; <rahawley18@yahoo.com>"
+      },
+      {
+         "from": "melissa.krzemien@compaq.comatinternet",
+         "line": 71,
+         "rawfrom": "Melissa.Krzemien@Compaq.com at INTERNET\n",
+         "source": "email",
+         "to": "Greve, Stephanie; mard76@aol.com at INTERNET; gggrama@aol.com at"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/sent_items/282.",
+   "hops": [
+      {
+         "from": "m..tholt@enron.com",
+         "line": 4,
+         "rawfrom": "m..tholt@enron.com\r\n",
+         "source": "valid",
+         "to": "jmalisz@qwest.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 21,
+         "rawfrom": "\tJohn Maliszewski <jmalisz@qwest.com>@ENRON  \n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 36,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 53,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 66,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 81,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 93,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 165,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/sent_items/132.",
+   "hops": [
+      {
+         "from": "m..tholt@enron.com",
+         "line": 4,
+         "rawfrom": "m..tholt@enron.com\r\n",
+         "source": "valid",
+         "to": "ragaz2@aol.com"
+      },
+      {
+         "from": "sharon_dearman@bmc.com",
+         "line": 65,
+         "rawfrom": "\"Dearman, Sharon\" <Sharon_Dearman@bmc.com>\n",
+         "source": "email",
+         "to": "\"'ragaz2@aol.com'\" <ragaz2@aol.com>"
+      },
+      {
+         "from": "laura.hickman@cfisd.net",
+         "line": 88,
+         "rawfrom": "LAURA HICKMAN [mailto:LAURA.HICKMAN@cfisd.net]\n",
+         "source": "email",
+         "to": "Colleen_Stelmaszek@bmc.com"
+      },
+      {
+         "from": "joni.mccants@cfisd.net",
+         "line": 103,
+         "rawfrom": "JONI MCCANTS <JONI.MCCANTS@cfisd.net>\n",
+         "source": "email",
+         "to": "ALICE FLOOD <ACF11126.CFADM.ISD@cfisd.net>, HELEN WEIN\t <HVW10423.CF120.DOM-ELE@cfisd.net>, LAURA HICKMAN\t <LAH11201.CF120.DOM-ELE@cfisd.net>, LINDA VONWIESENTHAL\t <LJV10927.CF046.DOM-JUN@cfisd.net>, LANE WELLS\t <LLW10130.CF120.DOM-ELE@cfisd.net>, LINDA YATES\t <LLY11130.CF120.DOM-ELE@cfisd.net>, Steve_McCants@oxy.com"
+      },
+      {
+         "from": "plewis@sbcglobal.net",
+         "line": 112,
+         "rawfrom": "plewis@sbcglobal.net\n",
+         "source": "valid",
+         "to": "vecfam@mail.ev1.net, SWBarth@aol.com, Susan Siceluff"
+      },
+      {
+         "from": "3dmiller56@swbell.net",
+         "line": 238,
+         "rawfrom": "<DIV><B>From:</B> <A   title=3Dmiller56@swbell.net href=3D\"mailto:miller56@s=\n",
+         "source": "email",
+         "to": "</B> <A title=3Dwinnie@dcnet2000.com   href=3D\"mailto:Winnie@Dcne="
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/sent_items/182.",
+   "hops": [
+      {
+         "from": "m..tholt@enron.com",
+         "line": 4,
+         "rawfrom": "m..tholt@enron.com\r\n",
+         "source": "valid",
+         "to": "sbaird@socalgas.com"
+      },
+      {
+         "from": "stevens.gl.1@pg.com",
+         "line": 22,
+         "rawfrom": "\tstevens.gl.1@pg.com@ENRON  \n",
+         "source": "email",
+         "to": "adams.rg@pg.com; anderson.tw.2@pg.com; berg.dj@pg.com; brenno.nl@pg.com; clay kennard; cwiem1@aol.com; jhwk87@aol.com; jtholt@enron.com; karen stevens; linda kisler; peters.sl@pg.com; edrosesoap@aol.com; marlene swanson"
+      },
+      {
+         "from": "sheecatz@prodigy.net",
+         "line": 37,
+         "rawfrom": "\"MARY A SHEEHAN\" <SHEECATZ@PRODIGY.NET> on 12/12/2001 03:51 AM GMT\n",
+         "source": "email",
+         "to": "\"TERRY COMSTOCK\" <buddmaxx@aol.com>,"
+      },
+      {
+         "from": "ed_sykora@hotmail.com",
+         "line": 73,
+         "rawfrom": "\"Ed Sykora\" <ed_sykora@hotmail.com>\n",
+         "source": "email",
+         "to": "<ajenkins60@home.com>; <jrlane@mail.unomaha.edu>;"
+      },
+      {
+         "from": "brueningt@tsainc.com",
+         "line": 84,
+         "rawfrom": "brueningt@tsainc.com\n",
+         "source": "valid",
+         "to": "lance.bruening@usoncology.com, DKMaginn@aol.com, mm04052@alltel.net,"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/sent_items/126.",
+   "hops": [
+      {
+         "from": "m..tholt@enron.com",
+         "line": 4,
+         "rawfrom": "m..tholt@enron.com\r\n",
+         "source": "valid",
+         "to": "sbaird@socalgas.com"
+      },
+      {
+         "from": "lkisler@mpsomaha.org",
+         "line": 37,
+         "rawfrom": "\"Linda Kisler\" <LKisler@mpsomaha.org> on 09/13/2001 03:58 PM GMT\n",
+         "source": "email",
+         "to": "LAKESIDEBODY@aol.com,"
+      },
+      {
+         "from": "cherm@ix.netcom.com",
+         "line": 61,
+         "rawfrom": "\"CHER GFELLER\" <cherm@ix.netcom.com>\n",
+         "source": "email",
+         "to": "\"Ron Young\" <kmyomaha@home.com>, \"KIM WOOLERY\" <kwoolery@ci.omaha.ne.us>,"
+      },
+      {
+         "from": "cherm@ix.netcom.com",
+         "line": 93,
+         "rawfrom": "\"Cher Gfeller\" <cherm@ix.netcom.com>\n",
+         "source": "email",
+         "to": "\"Cher Gfeller\" <cherm@ix.netcom.com>"
+      },
+      {
+         "from": "tboyce@avaya.com",
+         "line": 101,
+         "rawfrom": "\"Boyce, Tracy A (Tracy)\" <tboyce@avaya.com>\n",
+         "source": "email",
+         "to": "\"Kohls, Alberta Rohde (Alberta)\" <akohls@avaya.com>; \"Hatfield,"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/sent_items/271.",
+   "hops": [
+      {
+         "from": "m..tholt@enron.com",
+         "line": 4,
+         "rawfrom": "m..tholt@enron.com\r\n",
+         "source": "valid",
+         "to": "jmalisz@qwest.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 22,
+         "rawfrom": "\tJohn Maliszewski <jmalisz@qwest.com>@ENRON  \n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 48,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 63,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 81,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/sent_items/273.",
+   "hops": [
+      {
+         "from": "m..tholt@enron.com",
+         "line": 4,
+         "rawfrom": "m..tholt@enron.com\r\n",
+         "source": "valid",
+         "to": "jmalisz@qwest.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 22,
+         "rawfrom": "\tJohn Maliszewski <jmalisz@qwest.com>@ENRON  \n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 35,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 47,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 90,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 108,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 131,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/sent_items/278.",
+   "hops": [
+      {
+         "from": "m..tholt@enron.com",
+         "line": 4,
+         "rawfrom": "m..tholt@enron.com\r\n",
+         "source": "valid",
+         "to": "jmalisz@qwest.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 23,
+         "rawfrom": "\tJohn Maliszewski <jmalisz@qwest.com>@ENRON  \n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 38,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 51,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 65,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 77,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 137,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 160,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/sent_items/263.",
+   "hops": [
+      {
+         "from": "m..tholt@enron.com",
+         "line": 4,
+         "rawfrom": "m..tholt@enron.com\r\n",
+         "source": "valid",
+         "to": "jmalisz@qwest.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 22,
+         "rawfrom": "\t\"John Maliszewski\" <jmalisz@qwest.com>@ENRON  \n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 35,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 50,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/tholt-j/sent_items/274.",
+   "hops": [
+      {
+         "from": "m..tholt@enron.com",
+         "line": 4,
+         "rawfrom": "m..tholt@enron.com\r\n",
+         "source": "valid",
+         "to": "jmalisz@qwest.com"
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 22,
+         "rawfrom": "\tJohn Maliszewski <jmalisz@qwest.com>@ENRON  \n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 34,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 47,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 59,
+         "rawfrom": "  John Maliszewski <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 110,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 130,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>@ENRON\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      },
+      {
+         "from": "jmalisz@qwest.com",
+         "line": 157,
+         "rawfrom": "  \"John Maliszewski\" <jmalisz@qwest.com>\n",
+         "source": "email",
+         "to": "Tholt, Jane M."
+      }
+   ],
+   "skipped": 0
+}
+]

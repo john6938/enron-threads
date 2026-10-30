@@ -1,0 +1,477 @@
+[
+{
+   "file": "/home/jb/maildir/ybarbo-p/inbox/545.",
+   "hops": [
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 4,
+         "rawfrom": "david.a.foti@accenture.com\r\n",
+         "source": "valid",
+         "to": "lindy.donoho@enron.com"
+      },
+      {
+         "from": "lindy.donoho@enron.co",
+         "line": 59,
+         "rawfrom": "Lindy.Donoho@enron.co",
+         "source": "valid",
+         "to": "David A. Foti/Internal/Accenture@Accenture"
+      },
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 82,
+         "rawfrom": "david.a.foti@accenture.com [mailto:david.a.foti@accenture.com]\n",
+         "source": "email",
+         "to": "Donoho, Lindy; Harris, Steven"
+      },
+      {
+         "from": "steven.harris@enron.c",
+         "line": 102,
+         "rawfrom": "Steven.Harris@enron.c",
+         "source": "valid",
+         "to": "David A."
+      },
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 128,
+         "rawfrom": "  david.a.foti@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Harris, Steven"
+      },
+      {
+         "from": "steven.harris@enron.c",
+         "line": 296,
+         "rawfrom": "Steven.Harris@enron.c",
+         "source": "valid",
+         "to": "David A."
+      },
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 317,
+         "rawfrom": "  david.a.foti@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Harris, Steven"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/ybarbo-p/inbox/525.",
+   "hops": [
+      {
+         "from": "lindy.donoho@enron.com",
+         "line": 4,
+         "rawfrom": "lindy.donoho@enron.com\r\n",
+         "source": "valid",
+         "to": "paul.y'barbo@enron.com"
+      },
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 24,
+         "rawfrom": "david.a.foti@accenture.com [mailto:david.a.foti@accenture.com]\n",
+         "source": "email",
+         "to": "Donoho, Lindy; Harris, Steven"
+      },
+      {
+         "from": "steven.harris@enron.c",
+         "line": 42,
+         "rawfrom": "Steven.Harris@enron.c",
+         "source": "valid",
+         "to": "David A. Foti/Internal/Accenture@Accenture"
+      },
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 62,
+         "rawfrom": "  david.a.foti@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Harris, Steven"
+      },
+      {
+         "from": "steven.harris@enron.c",
+         "line": 210,
+         "rawfrom": "Steven.Harris@enron.c",
+         "source": "valid",
+         "to": "David A."
+      },
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 230,
+         "rawfrom": "  david.a.foti@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Harris, Steven"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/ybarbo-p/inbox/372.",
+   "hops": [
+      {
+         "from": "mark.mcconnell@enron.com",
+         "line": 4,
+         "rawfrom": "mark.mcconnell@enron.com\r\n",
+         "source": "valid",
+         "to": "paul.y'barbo@enron.com"
+      },
+      {
+         "from": "jjmcconnell@cox-internet.com",
+         "line": 22,
+         "rawfrom": "J. & J. McConnell [mailto:jjmcconnell@cox-internet.com]\n",
+         "source": "email",
+         "to": "McConnell, Mark"
+      },
+      {
+         "from": "tom@cox-internet.com",
+         "line": 31,
+         "rawfrom": "\"Tom A. Thompson, M.T.(ascp)\" <tom@cox-internet.com>\n",
+         "source": "email",
+         "to": "<tat_thompson@yahoo.com>; <joshuayarbrough@aol.com>;"
+      },
+      {
+         "from": "dkthom@rcn.com",
+         "line": 47,
+         "rawfrom": "Ken Thompson <dkthom@rcn.com>\n",
+         "source": "email",
+         "to": "Tom Thompson <tom@cox-internet.com>,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/ybarbo-p/inbox/526.",
+   "hops": [
+      {
+         "from": "lindy.donoho@enron.com",
+         "line": 4,
+         "rawfrom": "lindy.donoho@enron.com\r\n",
+         "source": "valid",
+         "to": "paul.y'barbo@enron.com"
+      },
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 33,
+         "rawfrom": "\tdavid.a.foti@accenture.com@ENRON  \n",
+         "source": "email",
+         "to": "Harris, Steven"
+      },
+      {
+         "from": "steven.harris@enron.c",
+         "line": 164,
+         "rawfrom": "Steven.Harris@enron.c",
+         "source": "valid",
+         "to": "David A. Foti/Internal/Accenture@Accenture"
+      },
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 181,
+         "rawfrom": "  david.a.foti@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Harris, Steven"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/ybarbo-p/inbox/539.",
+   "hops": [
+      {
+         "from": "lindy.donoho@enron.com",
+         "line": 4,
+         "rawfrom": "lindy.donoho@enron.com\r\n",
+         "source": "valid",
+         "to": "david.a.foti@accenture.com"
+      },
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 30,
+         "rawfrom": "david.a.foti@accenture.com [mailto:david.a.foti@accenture.com]\n",
+         "source": "email",
+         "to": "Donoho, Lindy; Harris, Steven"
+      },
+      {
+         "from": "steven.harris@enron.c",
+         "line": 48,
+         "rawfrom": "Steven.Harris@enron.c",
+         "source": "valid",
+         "to": "David A. Foti/Internal/Accenture@Accenture"
+      },
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 68,
+         "rawfrom": "  david.a.foti@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Harris, Steven"
+      },
+      {
+         "from": "steven.harris@enron.c",
+         "line": 216,
+         "rawfrom": "Steven.Harris@enron.c",
+         "source": "valid",
+         "to": "David A."
+      },
+      {
+         "from": "david.a.foti@accenture.com",
+         "line": 236,
+         "rawfrom": "  david.a.foti@accenture.com@ENRON\n",
+         "source": "email",
+         "to": "Harris, Steven"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/ybarbo-p/all_documents/74.",
+   "hops": [
+      {
+         "from": "dan.masters@enron.com",
+         "line": 4,
+         "rawfrom": "dan.masters@enron.com\r\n",
+         "source": "valid",
+         "to": "grampus@mail.sunbeach.net"
+      },
+      {
+         "from": "grampus@mail.sunbeach.net",
+         "line": 40,
+         "rawfrom": "\"Chris Skinner\" <grampus@mail.sunbeach.net> on 04/09/2001 02:00:37 PM\n",
+         "source": "email",
+         "to": "<Dan.Masters@enron.com>"
+      },
+      {
+         "from": "grampus@mail.sunbeach.net",
+         "line": 56,
+         "rawfrom": "Chris Skinner [mailto:grampus@mail.sunbeach.net]\n",
+         "source": "email",
+         "to": "Dan.Masters@enron.com"
+      },
+      {
+         "from": "grampus@mail.sunbeach.net",
+         "line": 68,
+         "rawfrom": "Chris Skinner [mailto:grampus@mail.sunbeach.net]\n",
+         "source": "email",
+         "to": "Dustin. Collins"
+      },
+      {
+         "from": "dustin.collins@enron.com",
+         "line": 85,
+         "rawfrom": "Dustin.Collins@enron.com [mailto:Dustin.Collins@enron.com]\n",
+         "source": "email",
+         "to": "grampus@sunbeach.net"
+      },
+      {
+         "from": "grampus@sunbeach.net",
+         "line": 117,
+         "rawfrom": "\"Chris Skinner\" <grampus@sunbeach.net> on 02/13/2001 03:04:52 PM\n",
+         "source": "email",
+         "to": "<dustin.collins@enron.com>, \"Todd. Peterson\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/ybarbo-p/all_documents/33.",
+   "hops": [
+      {
+         "from": "jmckechnie@cabotlng.com",
+         "line": 4,
+         "rawfrom": "jmckechnie@cabotlng.com\r\n",
+         "source": "valid",
+         "to": "dan.masters@enron.com"
+      },
+      {
+         "from": "dan.masters@enron.com",
+         "line": 36,
+         "rawfrom": "Dan.Masters@enron.com on 03/05/2001 03:34:57 PM\n",
+         "source": "email",
+         "to": "Joseph McKechnie/Cabot LNG@Cabot LNG"
+      },
+      {
+         "from": "jmckechnie@cabotlng.com",
+         "line": 60,
+         "rawfrom": "\"Joseph McKechnie\" <jmckechnie@cabotlng.com> on 03/05/2001 08:22:30 AM\n",
+         "source": "email",
+         "to": "Dan.Masters@enron.com"
+      },
+      {
+         "from": "dan.masters@enron.com",
+         "line": 93,
+         "rawfrom": "Dan.Masters@enron.com on 02/27/2001 09:18:11 PM\n",
+         "source": "email",
+         "to": "Joseph McKechnie/Cabot LNG@Cabot LNG, Christopher Skinner/Cabot"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/ybarbo-p/discussion_threads/30.",
+   "hops": [
+      {
+         "from": "jmckechnie@cabotlng.com",
+         "line": 4,
+         "rawfrom": "jmckechnie@cabotlng.com\r\n",
+         "source": "valid",
+         "to": "dan.masters@enron.com"
+      },
+      {
+         "from": "dan.masters@enron.com",
+         "line": 36,
+         "rawfrom": "Dan.Masters@enron.com on 03/05/2001 03:34:57 PM\n",
+         "source": "email",
+         "to": "Joseph McKechnie/Cabot LNG@Cabot LNG"
+      },
+      {
+         "from": "jmckechnie@cabotlng.com",
+         "line": 60,
+         "rawfrom": "\"Joseph McKechnie\" <jmckechnie@cabotlng.com> on 03/05/2001 08:22:30 AM\n",
+         "source": "email",
+         "to": "Dan.Masters@enron.com"
+      },
+      {
+         "from": "dan.masters@enron.com",
+         "line": 93,
+         "rawfrom": "Dan.Masters@enron.com on 02/27/2001 09:18:11 PM\n",
+         "source": "email",
+         "to": "Joseph McKechnie/Cabot LNG@Cabot LNG, Christopher Skinner/Cabot"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/ybarbo-p/ecoelectrica/38.",
+   "hops": [
+      {
+         "from": "dan.masters@enron.com",
+         "line": 4,
+         "rawfrom": "dan.masters@enron.com\r\n",
+         "source": "valid",
+         "to": "grampus@mail.sunbeach.net"
+      },
+      {
+         "from": "grampus@mail.sunbeach.net",
+         "line": 40,
+         "rawfrom": "\"Chris Skinner\" <grampus@mail.sunbeach.net> on 04/09/2001 02:00:37 PM\n",
+         "source": "email",
+         "to": "<Dan.Masters@enron.com>"
+      },
+      {
+         "from": "grampus@mail.sunbeach.net",
+         "line": 56,
+         "rawfrom": "Chris Skinner [mailto:grampus@mail.sunbeach.net]\n",
+         "source": "email",
+         "to": "Dan.Masters@enron.com"
+      },
+      {
+         "from": "grampus@mail.sunbeach.net",
+         "line": 68,
+         "rawfrom": "Chris Skinner [mailto:grampus@mail.sunbeach.net]\n",
+         "source": "email",
+         "to": "Dustin. Collins"
+      },
+      {
+         "from": "dustin.collins@enron.com",
+         "line": 85,
+         "rawfrom": "Dustin.Collins@enron.com [mailto:Dustin.Collins@enron.com]\n",
+         "source": "email",
+         "to": "grampus@sunbeach.net"
+      },
+      {
+         "from": "grampus@sunbeach.net",
+         "line": 117,
+         "rawfrom": "\"Chris Skinner\" <grampus@sunbeach.net> on 02/13/2001 03:04:52 PM\n",
+         "source": "email",
+         "to": "<dustin.collins@enron.com>, \"Todd. Peterson\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/ybarbo-p/ecoelectrica/3.",
+   "hops": [
+      {
+         "from": "dan.masters@enron.com",
+         "line": 4,
+         "rawfrom": "dan.masters@enron.com\r\n",
+         "source": "valid",
+         "to": "grampus@mail.sunbeach.net"
+      },
+      {
+         "from": "grampus@mail.sunbeach.net",
+         "line": 36,
+         "rawfrom": "\"Chris Skinner\" <grampus@mail.sunbeach.net> on 04/09/2001 02:00:37 PM\n",
+         "source": "email",
+         "to": "<Dan.Masters@enron.com>"
+      },
+      {
+         "from": "grampus@mail.sunbeach.net",
+         "line": 52,
+         "rawfrom": "From:\tChris Skinner [mailto:grampus@mail.sunbeach.net]\n",
+         "source": "email",
+         "to": "Dan.Masters@enron.com"
+      },
+      {
+         "from": "grampus@mail.sunbeach.net",
+         "line": 64,
+         "rawfrom": "From:\tChris Skinner [mailto:grampus@mail.sunbeach.net]\n",
+         "source": "email",
+         "to": "Dustin. Collins"
+      },
+      {
+         "from": "dustin.collins@enron.com",
+         "line": 81,
+         "rawfrom": "From:\tDustin.Collins@enron.com [mailto:Dustin.Collins@enron.com]\n",
+         "source": "email",
+         "to": "grampus@sunbeach.net"
+      },
+      {
+         "from": "grampus@sunbeach.net",
+         "line": 113,
+         "rawfrom": "\"Chris Skinner\" <grampus@sunbeach.net> on 02/13/2001 03:04:52 PM\n",
+         "source": "email",
+         "to": "<dustin.collins@enron.com>, \"Todd. Peterson\""
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/ybarbo-p/cabot/2.",
+   "hops": [
+      {
+         "from": "jmckechnie@cabotlng.com",
+         "line": 4,
+         "rawfrom": "jmckechnie@cabotlng.com\r\n",
+         "source": "valid",
+         "to": "dan.masters@enron.com"
+      },
+      {
+         "from": "dan.masters@enron.com",
+         "line": 36,
+         "rawfrom": "Dan.Masters@enron.com on 03/05/2001 03:34:57 PM\n",
+         "source": "email",
+         "to": "Joseph McKechnie/Cabot LNG@Cabot LNG"
+      },
+      {
+         "from": "jmckechnie@cabotlng.com",
+         "line": 60,
+         "rawfrom": "\"Joseph McKechnie\" <jmckechnie@cabotlng.com> on 03/05/2001 08:22:30 AM\n",
+         "source": "email",
+         "to": "Dan.Masters@enron.com"
+      },
+      {
+         "from": "dan.masters@enron.com",
+         "line": 93,
+         "rawfrom": "Dan.Masters@enron.com on 02/27/2001 09:18:11 PM\n",
+         "source": "email",
+         "to": "Joseph McKechnie/Cabot LNG@Cabot LNG, Christopher Skinner/Cabot"
+      }
+   ],
+   "skipped": 1
+}
+]

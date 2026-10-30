@@ -1,0 +1,204 @@
+[
+{
+   "file": "/home/jb/maildir/gang-l/inbox/43.",
+   "hops": [
+      {
+         "from": "serena.bishop@merant.com",
+         "line": 4,
+         "rawfrom": "serena.bishop@merant.com\r\n",
+         "source": "valid",
+         "to": "lisa.gang@enron.com"
+      },
+      {
+         "from": "lisa.gang@enron.com",
+         "line": 22,
+         "rawfrom": "Gang, Lisa [mailto:Lisa.Gang@enron.com]\n",
+         "source": "email",
+         "to": "Serena Bishop"
+      },
+      {
+         "from": "serena.bishop@merant.com",
+         "line": 33,
+         "rawfrom": "Serena Bishop [mailto:Serena.Bishop@merant.com]\n",
+         "source": "email",
+         "to": "Gang, Lisa"
+      },
+      {
+         "from": "lisa.gang@enron.com",
+         "line": 44,
+         "rawfrom": "Gang, Lisa [mailto:Lisa.Gang@enron.com]\n",
+         "source": "email",
+         "to": "Serena Bishop"
+      },
+      {
+         "from": "serena.bishop@merant.com",
+         "line": 56,
+         "rawfrom": "Serena Bishop [mailto:Serena.Bishop@merant.com]\n",
+         "source": "email",
+         "to": "Gang, Lisa"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/gang-l/deleted_items/207.",
+   "hops": [
+      {
+         "from": "timesheets@iconconsultants.com",
+         "line": 4,
+         "rawfrom": "timesheets@iconconsultants.com\r\n",
+         "source": "valid",
+         "to": "lisa.gang@enron.com"
+      },
+      {
+         "from": "lisa.gang@enron.com",
+         "line": 29,
+         "rawfrom": "Gang, Lisa [mailto:Lisa.Gang@ENRON.com] \n",
+         "source": "email",
+         "to": "Time Sheets"
+      },
+      {
+         "from": "timesheets@iconconsultants.com",
+         "line": 36,
+         "rawfrom": "Time Sheets [mailto:timesheets@iconconsultants.com]\n",
+         "source": "email",
+         "to": "Gang, Lisa"
+      },
+      {
+         "from": "lisa.gang@enron.com",
+         "line": 49,
+         "rawfrom": "Gang, Lisa [mailto:Lisa.Gang@ENRON.com] \n",
+         "source": "email",
+         "to": "Time Sheets"
+      },
+      {
+         "from": "timesheets@iconconsultants.com",
+         "line": 58,
+         "rawfrom": "Time Sheets [mailto:timesheets@iconconsultants.com]\n",
+         "source": "email",
+         "to": "lgang@enron.com; gang00@msn.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/gang-l/deleted_items/41.",
+   "hops": [
+      {
+         "from": "kathryn.sheppard@enron.com",
+         "line": 4,
+         "rawfrom": "kathryn.sheppard@enron.com\r\n",
+         "source": "valid",
+         "to": "lisa.gang@enron.com"
+      },
+      {
+         "from": "bill@wecc.biz",
+         "line": 22,
+         "rawfrom": "Bill Comish [mailto:bill@wecc.biz]\n",
+         "source": "email",
+         "to": "Sheppard, Kathryn"
+      },
+      {
+         "from": "kathryn.sheppard@enron.com",
+         "line": 42,
+         "rawfrom": "          \t\"Sheppard, Kathryn\" <Kathryn.Sheppard@ENRON.com>\n",
+         "source": "email",
+         "to": "<bill@wecc.biz>"
+      },
+      {
+         "from": "bill@wecc.biz",
+         "line": 55,
+         "rawfrom": "Bill Comish [mailto:bill@wecc.biz]\n",
+         "source": "email",
+         "to": "Heizenrader, Tim"
+      },
+      {
+         "from": "tim.heizenrader@ubswenergy.com",
+         "line": 67,
+         "rawfrom": "          \t\"Heizenrader, Tim\" <Tim.Heizenrader@ubswenergy.com>\n",
+         "source": "email",
+         "to": "<bill@wecc.biz>"
+      },
+      {
+         "from": "bill@wecc.biz",
+         "line": 89,
+         "rawfrom": "Bill Comish [mailto:bill@wecc.biz]\n",
+         "source": "email",
+         "to": "Heizenrader, Tim"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/gang-l/sent_items/44.",
+   "hops": [
+      {
+         "from": "lisa.gang@enron.com",
+         "line": 4,
+         "rawfrom": "lisa.gang@enron.com\r\n",
+         "source": "valid",
+         "to": "timesheets@iconconsultants.com"
+      },
+      {
+         "from": "timesheets@iconconsultants.com",
+         "line": 21,
+         "rawfrom": "Time Sheets [mailto:timesheets@iconconsultants.com]\n",
+         "source": "email",
+         "to": "Gang, Lisa"
+      },
+      {
+         "from": "lisa.gang@enron.com",
+         "line": 36,
+         "rawfrom": "Gang, Lisa [mailto:Lisa.Gang@ENRON.com] \n",
+         "source": "email",
+         "to": "Time Sheets"
+      },
+      {
+         "from": "timesheets@iconconsultants.com",
+         "line": 45,
+         "rawfrom": "Time Sheets [mailto:timesheets@iconconsultants.com]\n",
+         "source": "email",
+         "to": "lgang@enron.com; gang00@msn.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/gang-l/sent_items/43.",
+   "hops": [
+      {
+         "from": "lisa.gang@enron.com",
+         "line": 4,
+         "rawfrom": "lisa.gang@enron.com\r\n",
+         "source": "valid",
+         "to": "serena.bishop@merant.com"
+      },
+      {
+         "from": "serena.bishop@merant.com",
+         "line": 24,
+         "rawfrom": "Serena Bishop [mailto:Serena.Bishop@merant.com]\n",
+         "source": "email",
+         "to": "Gang, Lisa"
+      },
+      {
+         "from": "lisa.gang@enron.com",
+         "line": 35,
+         "rawfrom": "Gang, Lisa [mailto:Lisa.Gang@enron.com]\n",
+         "source": "email",
+         "to": "Serena Bishop"
+      },
+      {
+         "from": "serena.bishop@merant.com",
+         "line": 47,
+         "rawfrom": "Serena Bishop [mailto:Serena.Bishop@merant.com]\n",
+         "source": "email",
+         "to": "Gang, Lisa"
+      }
+   ],
+   "skipped": 0
+}
+]

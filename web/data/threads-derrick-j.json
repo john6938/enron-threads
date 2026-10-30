@@ -1,0 +1,435 @@
+[
+{
+   "file": "/home/jb/maildir/derrick-j/inbox/72.",
+   "hops": [
+      {
+         "from": "rob.walls@enron.com",
+         "line": 4,
+         "rawfrom": "rob.walls@enron.com\r\n",
+         "source": "valid",
+         "to": "james.derrick@enron.com"
+      },
+      {
+         "from": "jw1000mac@yahoo.com",
+         "line": 22,
+         "rawfrom": "\tJim Mccartney <jw1000mac@yahoo.com>@ENRON [mailto:IMCEANOTES-Jim+20Mccartney+20+3Cjw1000mac+40yahoo+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Walls Jr., Rob"
+      },
+      {
+         "from": "christopher.walker@linklaters.com",
+         "line": 46,
+         "rawfrom": "\"Walker, Christopher\" <christopher.walker@linklaters.com>\n",
+         "source": "email",
+         "to": "\"'Jim Mccartney'\" <jw1000mac@yahoo.com>,        \"Walker, Christopher\"\t <christopher.walker@linklaters.com>"
+      },
+      {
+         "from": "jw1000mac@yahoo.com",
+         "line": 104,
+         "rawfrom": "Jim Mccartney [mailto:jw1000mac@yahoo.com]\n",
+         "source": "email",
+         "to": "christopher.walker@linklaters.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/derrick-j/inbox/55.",
+   "hops": [
+      {
+         "from": "rob.walls@enron.com",
+         "line": 4,
+         "rawfrom": "rob.walls@enron.com\r\n",
+         "source": "valid",
+         "to": "james.derrick@enron.com"
+      },
+      {
+         "from": "jw1000mac@yahoo.com",
+         "line": 24,
+         "rawfrom": "\tJim Mccartney <jw1000mac@yahoo.com>@ENRON [mailto:IMCEANOTES-Jim+20Mccartney+20+3Cjw1000mac+40yahoo+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Walls Jr., Rob"
+      },
+      {
+         "from": "christopher.walker@linklaters.com",
+         "line": 43,
+         "rawfrom": "\"Walker, Christopher\" <christopher.walker@linklaters.com>\n",
+         "source": "email",
+         "to": "\"'Jim Mccartney'\" <jw1000mac@yahoo.com>,        \"Walker, Christopher\"\t <christopher.walker@linklaters.com>"
+      },
+      {
+         "from": "jw1000mac@yahoo.com",
+         "line": 116,
+         "rawfrom": "Jim Mccartney [mailto:jw1000mac@yahoo.com]\n",
+         "source": "email",
+         "to": "christopher.walker@linklaters.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/derrick-j/inbox/130.",
+   "hops": [
+      {
+         "from": "s..trevino@enron.com",
+         "line": 4,
+         "rawfrom": "s..trevino@enron.com\r\n",
+         "source": "valid",
+         "to": "<lewis\".'\"karen@enron.com>, robert.eickenroht@enron.com"
+      },
+      {
+         "from": "karen_lewis@pgn.com",
+         "line": 35,
+         "rawfrom": "\t\"Karen Lewis\" <Karen_Lewis@pgn.com>@ENRON  \n",
+         "source": "email",
+         "to": "Trevino, Linda S."
+      },
+      {
+         "from": "karen_lewis@pgn.com",
+         "line": 54,
+         "rawfrom": "  \"Karen Lewis\" <Karen_Lewis@pgn.com>@ENRON\n",
+         "source": "email",
+         "to": "Trevino, Linda S."
+      },
+      {
+         "from": "dmort1214@aol.com",
+         "line": 80,
+         "rawfrom": "    DMort1214@aol.com@ENRON\n",
+         "source": "email",
+         "to": "Trevino, Linda S."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/derrick-j/inbox/11.",
+   "hops": [
+      {
+         "from": "l..bouillion@enron.com",
+         "line": 4,
+         "rawfrom": "l..bouillion@enron.com\r\n",
+         "source": "valid",
+         "to": "james.derrick@enron.com"
+      },
+      {
+         "from": "pspa@mcgriff.com",
+         "line": 26,
+         "rawfrom": "\tPaul Sparks <pspa@mcgriff.com>@ENRON [mailto:IMCEANOTES-Paul+20Sparks+20+3Cpspa+40mcgriff+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Bouillion, James L.; Mary Harkins"
+      },
+      {
+         "from": "james.l.bouillion@enron.com",
+         "line": 40,
+         "rawfrom": "\tJames.L.Bouillion@enron.com [mailto:James.L.Bouillion@enron.com]\n",
+         "source": "email",
+         "to": "MHAR@McGriff.com"
+      },
+      {
+         "from": "knotestine@littler.com",
+         "line": 99,
+         "rawfrom": "          Notestine, Kerry [mailto:KNotestine@littler.com]\n",
+         "source": "email",
+         "to": "'knotestine@mciworldcom.net'"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/derrick-j/deleted_items/66.",
+   "hops": [
+      {
+         "from": "dwinn@swlegal.org",
+         "line": 4,
+         "rawfrom": "dwinn@swlegal.org\r\n",
+         "source": "valid",
+         "to": "james.derrick@enron.com"
+      },
+      {
+         "from": "james.derrick@enron.com",
+         "line": 28,
+         "rawfrom": "James.Derrick@enron.com [mailto:James.Derrick@enron.com]\n",
+         "source": "email",
+         "to": "David Winn"
+      },
+      {
+         "from": "dwinn@swlegal.org",
+         "line": 37,
+         "rawfrom": "  \"David Winn\" <dwinn@swlegal.org>@ENRON\n",
+         "source": "email",
+         "to": "Derrick Jr., James"
+      },
+      {
+         "from": "james.derrick@enron.com",
+         "line": 50,
+         "rawfrom": "James.Derrick@enron.com [mailto:James.Derrick@enron.com]\n",
+         "source": "email",
+         "to": "David Winn"
+      },
+      {
+         "from": "dwinn@swlegal.org",
+         "line": 60,
+         "rawfrom": "  \"David Winn\" <dwinn@swlegal.org>@ENRON\n",
+         "source": "email",
+         "to": "Derrick Jr., James"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/derrick-j/sent_items/225.",
+   "hops": [
+      {
+         "from": "james.derrick@enron.com",
+         "line": 4,
+         "rawfrom": "james.derrick@enron.com\r\n",
+         "source": "valid",
+         "to": "dwinn@swlegal.org"
+      },
+      {
+         "from": "dwinn@swlegal.org",
+         "line": 23,
+         "rawfrom": "\t\"David B. Winn\" <dwinn@swlegal.org>@ENRON [mailto:IMCEANOTES-+22David+20B+2E+20Winn+22+20+3Cdwinn+40swlegal+2Eorg+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Derrick Jr., James"
+      },
+      {
+         "from": "james.derrick@enron.com",
+         "line": 37,
+         "rawfrom": "James.Derrick@enron.com [mailto:James.Derrick@enron.com]\n",
+         "source": "email",
+         "to": "dwinn@swlegal.org"
+      },
+      {
+         "from": "dwinn@swlegal.org",
+         "line": 58,
+         "rawfrom": "  \"David B. Winn\" <dwinn@swlegal.org>@ENRON\n",
+         "source": "email",
+         "to": "IOGEC Advisory Board \\(E-mail\\)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/derrick-j/sent_items/275.",
+   "hops": [
+      {
+         "from": "james.derrick@enron.com",
+         "line": 4,
+         "rawfrom": "james.derrick@enron.com\r\n",
+         "source": "valid",
+         "to": "cbreaux@ncsc.dni.us"
+      },
+      {
+         "from": "mailer-daemon@postmaster.enron.com",
+         "line": 22,
+         "rawfrom": "\tMail Delivery Subsystem <Mailer-Daemon@postmaster.enron.com>@ENRON  \n",
+         "source": "email",
+         "to": "Derrick Jr., James"
+      },
+      {
+         "from": "james.derrick@enron.com",
+         "line": 59,
+         "rawfrom": "\"Derrick Jr., James\" <James.Derrick@ENRON.com>\n",
+         "source": "email",
+         "to": "\"\\\"Kelly, Barbara\\\" <bkelly@ncsc.dni.us>@ENRON\" <IMCEANOTES-+22Kelly+2C+20Barbara+22+20+3Cbkelly+40ncsc+2Edni+2Eus+3E+40ENRON@ENRON.com>"
+      },
+      {
+         "from": "bkelly@ncsc.dni.us",
+         "line": 69,
+         "rawfrom": "\t\"Kelly, Barbara\" <bkelly@ncsc.dni.us>@ENRON =20\n",
+         "source": "email",
+         "to": "Derrick Jr., James"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/derrick-j/sent_items/76.",
+   "hops": [
+      {
+         "from": "james.derrick@enron.com",
+         "line": 4,
+         "rawfrom": "james.derrick@enron.com\r\n",
+         "source": "valid",
+         "to": "wdriver@kslaw.com"
+      },
+      {
+         "from": "wdriver@kslaw.com",
+         "line": 22,
+         "rawfrom": "\t\"Driver, Walt\" <wdriver@KSLAW.com>@ENRON [mailto:IMCEANOTES-+22Driver+2C+20Walt+22+20+3Cwdriver+40KSLAW+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Derrick Jr., James; Meadows, Robert"
+      },
+      {
+         "from": "james.derrick@enron.com",
+         "line": 32,
+         "rawfrom": "James.Derrick@enron.com [mailto:James.Derrick@enron.com]\n",
+         "source": "email",
+         "to": "wdriver@KSLAW.com; RMeadows@KSLAW.com"
+      },
+      {
+         "from": "wdriver@kslaw.com",
+         "line": 53,
+         "rawfrom": "  \"Driver, Walt\" <wdriver@KSLAW.com>@ENRON\n",
+         "source": "email",
+         "to": "Meadows, Robert; Derrick Jr., James"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/derrick-j/sent_items/192.",
+   "hops": [
+      {
+         "from": "james.derrick@enron.com",
+         "line": 4,
+         "rawfrom": "james.derrick@enron.com\r\n",
+         "source": "valid",
+         "to": "awu@quinnemanuel.com"
+      },
+      {
+         "from": "awu@quinnemanuel.com",
+         "line": 22,
+         "rawfrom": "\t\"A William Urquhart\" <awu@quinnemanuel.com>@ENRON [mailto:IMCEANOTES-+22A+20William+20Urquhart+22+20+3Cawu+40quinnemanuel+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Derrick Jr., James"
+      },
+      {
+         "from": "awu@quinnemanuel.com",
+         "line": 62,
+         "rawfrom": "  \"A William Urquhart\" <awu@quinnemanuel.com>@ENRON\n",
+         "source": "email",
+         "to": "Derrick Jr., James"
+      },
+      {
+         "from": "awu@quinnemanuel.com",
+         "line": 109,
+         "rawfrom": "  \"A William Urquhart\" <awu@quinnemanuel.com>@ENRON\n",
+         "source": "email",
+         "to": "Derrick Jr., James"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/derrick-j/sent_items/252.",
+   "hops": [
+      {
+         "from": "james.derrick@enron.com",
+         "line": 4,
+         "rawfrom": "james.derrick@enron.com\r\n",
+         "source": "valid",
+         "to": "j.harris@enron.com"
+      },
+      {
+         "from": "rwallsjr@yahoo.com",
+         "line": 22,
+         "rawfrom": "\tRob Walls <rwallsjr@yahoo.com>@ENRON [mailto:IMCEANOTES-Rob+20Walls+20+3Crwallsjr+40yahoo+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Derrick Jr., James"
+      },
+      {
+         "from": "rwallsjr@yahoo.com",
+         "line": 36,
+         "rawfrom": "rwallsjr@yahoo.com",
+         "source": "valid",
+         "to": "christopher.walker@linklaters.com"
+      },
+      {
+         "from": "bruce.lundstrom@enron.com",
+         "line": 68,
+         "rawfrom": "Bruce.Lundstrom@enron.com\n",
+         "source": "valid",
+         "to": "\"'Bruce.Lundstrom@enron.com'\" <Bruce.Lundstrom@enron.com>, \"Walker,"
+      },
+      {
+         "from": "bruce.lundstrom@enron.com",
+         "line": 110,
+         "rawfrom": "Bruce.Lundstrom@enron.com [mailto:Bruce.Lundstrom@enron.com]\n",
+         "source": "email",
+         "to": "cwalker@linklaters.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/derrick-j/sent_items/278.",
+   "hops": [
+      {
+         "from": "james.derrick@enron.com",
+         "line": 4,
+         "rawfrom": "james.derrick@enron.com\r\n",
+         "source": "valid",
+         "to": "dwinn@swlegal.org"
+      },
+      {
+         "from": "dwinn@swlegal.org",
+         "line": 22,
+         "rawfrom": "\t\"David Winn\" <dwinn@swlegal.org>@ENRON  \n",
+         "source": "email",
+         "to": "Derrick Jr., James"
+      },
+      {
+         "from": "james.derrick@enron.com",
+         "line": 34,
+         "rawfrom": "James.Derrick@enron.com [mailto:James.Derrick@enron.com]\n",
+         "source": "email",
+         "to": "David Winn"
+      },
+      {
+         "from": "dwinn@swlegal.org",
+         "line": 44,
+         "rawfrom": "  \"David Winn\" <dwinn@swlegal.org>@ENRON\n",
+         "source": "email",
+         "to": "Derrick Jr., James"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/derrick-j/sent_items/28.",
+   "hops": [
+      {
+         "from": "james.derrick@enron.com",
+         "line": 4,
+         "rawfrom": "james.derrick@enron.com\r\n",
+         "source": "valid",
+         "to": "sberry@susmangodfrey.com"
+      },
+      {
+         "from": "sberry@susmangodfrey.com",
+         "line": 22,
+         "rawfrom": "\t\"Sandra L. BERRY\" <SBERRY@SusmanGodfrey.com>@ENRON [mailto:IMCEANOTES-+22Sandra+20L+2E+20BERRY+22+20+3CSBERRY+40SusmanGodfrey+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Derrick Jr., James"
+      },
+      {
+         "from": "james.derrick@enron.com",
+         "line": 31,
+         "rawfrom": "James.Derrick@enron.com [mailto:James.Derrick@enron.com]\n",
+         "source": "email",
+         "to": "Sandra L. BERRY"
+      },
+      {
+         "from": "sberry@susmangodfrey.com",
+         "line": 45,
+         "rawfrom": "  \"Sandra L. BERRY\" <SBERRY@SusmanGodfrey.com>@ENRON\n",
+         "source": "email",
+         "to": "Derrick Jr., James"
+      }
+   ],
+   "skipped": 0
+}
+]

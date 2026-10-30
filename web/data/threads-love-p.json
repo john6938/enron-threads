@@ -1,0 +1,4299 @@
+[
+{
+   "file": "/home/jb/maildir/love-p/inbox/37.",
+   "hops": [
+      {
+         "from": "jmjaked@mindspring.com",
+         "line": 4,
+         "rawfrom": "jmjaked@mindspring.com\r\n",
+         "source": "valid",
+         "to": "plove@enron.com, dobbswn@auburn.edu, johnnys@thepeopleplace.com,"
+      },
+      {
+         "from": "jameyestes@yahoo.com",
+         "line": 23,
+         "rawfrom": "Jamey Estes <jameyestes@yahoo.com>\n",
+         "source": "email",
+         "to": "JASON DOBBS <JMJAKED@MINDSPRING.COM>"
+      },
+      {
+         "from": "mogara2@yahoo.com",
+         "line": 50,
+         "rawfrom": "Mark O'Gara <mogara2@yahoo.com>\n",
+         "source": "email",
+         "to": "Frank Bellizio <fwdmotion_131@yahoo.com>,  Jack Kim Devine <polojackd@aol.com>, Jamey Estes <jameyestes@yahoo.com>,  Marcus Felt <mfelt@terraworld.net>, Larry Hahn <larry.hahn@chiefind.com>,  Marta Hardy <HappyHardy@hotmail.com>, Mike O'Gara <mikeogara@yahoo.com>,  Patsy <homestead@terraworld.net>, John Philip <pleichliter@hotmail.com>,  Arsenio Rodriguez <classy8trucks@aol.com>, Tom <riverbums@webtv.net>"
+      },
+      {
+         "from": "ramlatoto@yahoo.com",
+         "line": 68,
+         "rawfrom": "j m johnson <ramlatoto@yahoo.com>\n",
+         "source": "email",
+         "to": "'BEAU' <midtoke@hotmail.com>"
+      },
+      {
+         "from": "drbliss@netcommander.com",
+         "line": 87,
+         "rawfrom": "drbliss@netcommander.com (Doreen Bliss)\n",
+         "source": "email",
+         "to": "\"RC\" <tires@vcn.com>,\t\"Pam Knight\" <jpknight@fullnet.net>,\t\"Jimz\" <jimz250@hotmail.com>,\t\"Brenda Theobald\" <btheo@coffey.com>,\t\"Kris Nelms\" <Tender401@hotmail.com>,\t\"Pat Mack\" <patricia_mack_69301@yahoo.com>,\t\"Timmy Ross\" <timanator@vcn.com>,\t\"Marlene Johnson\" <ramlatoto@yahoo.com>,\t\"Mary\" <mjw@netcommander.com>,\t\"Lois\" <Lois@netcommander.com>"
+      },
+      {
+         "from": "larsen@netcommander.com",
+         "line": 101,
+         "rawfrom": "Wendy Larsen <larsen@netcommander.com>\n",
+         "source": "email",
+         "to": "Doreen & Don <drbliss@netcommander.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/inbox/142.",
+   "hops": [
+      {
+         "from": "rachel.bonilla-kragel@accenture.com",
+         "line": 4,
+         "rawfrom": "rachel.bonilla-kragel@accenture.com\r\n",
+         "source": "valid",
+         "to": "m..love@enron.com"
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 25,
+         "rawfrom": "Phillip.M.Love@enron.com\n",
+         "source": "valid",
+         "to": "Rachel Bonilla-Kragel/Internal/Accenture@Accenture"
+      },
+      {
+         "from": "rachel.bonilla-kragel@accenture.com",
+         "line": 45,
+         "rawfrom": "  rachel.bonilla-kragel@accenture.com@ENRON   On Behalf Of\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 55,
+         "rawfrom": "\"Love, Phillip M.\" <Phillip.M.Love@enron.com>\n",
+         "source": "email",
+         "to": "Rachel Bonilla-Kragel/Internal/Accenture@Accenture"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/inbox/27.",
+   "hops": [
+      {
+         "from": "jmjaked@mindspring.com",
+         "line": 4,
+         "rawfrom": "jmjaked@mindspring.com\r\n",
+         "source": "valid",
+         "to": "paulk@enron.com, rpaulk@hmstead.com, plove@enron.com, mike@mikedodd.net,"
+      },
+      {
+         "from": "danansanders@aol.com",
+         "line": 24,
+         "rawfrom": "<DanaNSanders@aol.com>\n",
+         "source": "email",
+         "to": "<jjadkins@hiwaay.net>; <biddle@cybrtyme.com>;"
+      },
+      {
+         "from": "smith-dl@rdec.redstone.army.mil",
+         "line": 78,
+         "rawfrom": "\"Smith, Donnette L (Contractor-AFSC)\"\t <Smith-DL@rdec.redstone.army.mil>\n",
+         "source": "email",
+         "to": "\"'ldlovell@ingr.com'\" <ldlovell@ingr.com>,        \"'rogerll@athens.edu'\"\t <rogerll@athens.edu>,        \"'DanaNSanders@aol.com'\" <DanaNSanders@aol.com>"
+      },
+      {
+         "from": "bill.parks@dynetics.com",
+         "line": 99,
+         "rawfrom": "Bill Parks [mailto:bill.parks@dynetics.com]\n",
+         "source": "email",
+         "to": "Tom Killough"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/inbox/98.",
+   "hops": [
+      {
+         "from": "c..giron@enron.com",
+         "line": 4,
+         "rawfrom": "c..giron@enron.com\r\n",
+         "source": "valid",
+         "to": "m..love@enron.com, bruce.mills@enron.com, scott.crowell@enron.com"
+      },
+      {
+         "from": "carlos.giron@psiusa.com",
+         "line": 22,
+         "rawfrom": "\t\"Carlos Giron\" <Carlos.Giron@psiusa.com>@ENRON  \n",
+         "source": "email",
+         "to": "Giron, Darron C.; gbohan@home.com; yhaynes@mindspring.com; ronniegiron@yahoo.com"
+      },
+      {
+         "from": "mike.kotar@psiusa.com",
+         "line": 27,
+         "rawfrom": "\"Mike Kotar\" <Mike.Kotar@psiusa.com>\n",
+         "source": "email",
+         "to": "Carlos.Giron@psiusa.com,Clint.McDowell@psiusa.com,\tStephanie.McDonald@psiusa.com"
+      },
+      {
+         "from": "hwasgatt@home.com",
+         "line": 36,
+         "rawfrom": "\"Heather Wasgatt\" <hwasgatt@home.com>\n",
+         "source": "email",
+         "to": "\"Andy Hutson\" <andy_hutson@starkey.com>,\t\"Kathy Rall\" <kcrall@earthlink.com>,\t\"Mike Kotar\" <Mike.Kotar@psiusa.com>,\t\"Matt Vance\" <matt_vance@hotmail.com>,\t\"Kevin Brenda\" <kevin@nativeresources.com>,\t\"Dianne & Tom Wasgatt\" <AZtomwas@worldnet.att.net>,\t\"Elizabeth Wasgatt\" <emw3@dana.ucc.nau.edu>,\t\"Lisa Fraizer\" <FIREBIRD2@mindspring.com>,\t\"Lydia McDonald\" <lydia@nativeresources.com>,\t\"Melanie Travis\" <golfgrrrl97@aol.com>,\t\"Patty Cascio\" <patty@nativeresources.com>,\t\"Walter Barrios\" <wbarrios1@msn.com>,\t\"Marjut Coursaris\" <M_Coursaris@beutel-can.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/all_documents/235.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "tarm27@texas.net"
+      },
+      {
+         "from": "carter@cyberpix.com",
+         "line": 70,
+         "rawfrom": "Carter Bechtol [mailto:carter@cyberpix.com]\n",
+         "source": "email",
+         "to": "Bechtol, Brent; Currie Bechtol"
+      },
+      {
+         "from": "jfertitta@cyberpix.com",
+         "line": 80,
+         "rawfrom": "Jason Fertitta [mailto:jfertitta@cyberpix.com]\n",
+         "source": "email",
+         "to": "Carter Bechtol"
+      },
+      {
+         "from": "bryan.mcmurrey@texas.net",
+         "line": 90,
+         "rawfrom": "Bryan.McMurrey@texas.net [mailto:Bryan.McMurrey@texas.net]\n",
+         "source": "email",
+         "to": "Jason Fertitta; 'mullins'; Palmer Letzerich; Kyle F; Robert dawson"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/all_documents/257.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "jimmy.simien@enron.com"
+      },
+      {
+         "from": "ronniegiron@yahoo.com",
+         "line": 48,
+         "rawfrom": "Ronnie Giron <ronniegiron@yahoo.com>\n",
+         "source": "email",
+         "to": "Carl Swan <rcantrell@potomacenergy.com>; Georges Tadros"
+      },
+      {
+         "from": "kathya@rabey.com",
+         "line": 81,
+         "rawfrom": "Kathy Atherton <KathyA@RABEY.com>\n",
+         "source": "email",
+         "to": "\"'ronniegiron@yahoo.com'\" <ronniegiron@yahoo.com>"
+      },
+      {
+         "from": "wilensky.bob@littondsd.com",
+         "line": 95,
+         "rawfrom": "Wilensky, Bob  [mailto:Wilensky.Bob@LittonDSD.com]\n",
+         "source": "email",
+         "to": "Hank Coolidge (E-mail); Palmertree,  Kenneth"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/all_documents/963.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "rachel.bonilla-kragel@accenture.com"
+      },
+      {
+         "from": "rachel.bonilla-kragel@accenture.com",
+         "line": 30,
+         "rawfrom": "rachel.bonilla-kragel@accenture.com on 01/29/2001 08:47:25 PM\n",
+         "source": "email",
+         "to": "Phillip.M.Love@enron.com"
+      },
+      {
+         "from": "phillip.m.love@enron.c",
+         "line": 64,
+         "rawfrom": "Phillip.M.Love@enron.c",
+         "source": "valid",
+         "to": "Rachel"
+      },
+      {
+         "from": "rachel.bonilla-kragel@accenture.com",
+         "line": 94,
+         "rawfrom": "rachel.bonilla-kragel@accenture.com on 01/26/2001 04:18:48 PM\n",
+         "source": "email",
+         "to": "Phillip.M.Love@enron.com"
+      },
+      {
+         "from": "phillip.m.love@enron.c",
+         "line": 125,
+         "rawfrom": "Phillip.M.Love@enron.c",
+         "source": "valid",
+         "to": "Rachel"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/all_documents/753.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "bruce.mills@enron.com, kevin.bosse@enron.com, jimmy.simien@enron.com,"
+      },
+      {
+         "from": "grant.w@mindspring.com",
+         "line": 70,
+         "rawfrom": "\"grant whipple\" <grant.w@mindspring.com>\n",
+         "source": "email",
+         "to": "\"Carlos Giron\" <cgiron@mindspring.com>"
+      },
+      {
+         "from": "glennmill@juno.com",
+         "line": 108,
+         "rawfrom": "Glenn A  Miller [mailto:glennmill@juno.com] \n",
+         "source": "email",
+         "to": "JanetMoshier@cruisesinc.com; Piponi@aol.com; kperry@family.net;"
+      },
+      {
+         "from": "tpharry@flash.net",
+         "line": 119,
+         "rawfrom": "Terri Harry <tpharry@flash.net> \n",
+         "source": "email",
+         "to": "Undisclosed-recipients:;"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 139,
+         "rawfrom": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com> \n",
+         "source": "email",
+         "to": "\"'Jonah H.  Peretti'\" <peretti@media.mit.edu>"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 160,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu>  \n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com>"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 183,
+         "rawfrom": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com> \n",
+         "source": "email",
+         "to": "\"'Jonah H.  Peretti'\" <peretti@media.mit.edu>"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 197,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu>  \n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com>"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 235,
+         "rawfrom": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com> \n",
+         "source": "email",
+         "to": "\"'Jonah H.  Peretti'\" <peretti@media.mit.edu>"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 264,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu>  \n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com>"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/all_documents/194.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "tarm27@texas.net"
+      },
+      {
+         "from": "tarm27@texas.net",
+         "line": 32,
+         "rawfrom": "\"tarek morshed\" <tarm27@texas.net> on 10/12/2000 12:29:56 PM\n",
+         "source": "email",
+         "to": "<Phillip.M.Love@enron.com>"
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 54,
+         "rawfrom": "<Phillip.M.Love@enron.com>\n",
+         "source": "email",
+         "to": "<tarm27@texas.net>"
+      },
+      {
+         "from": "carter@cyberpix.com",
+         "line": 127,
+         "rawfrom": "Carter Bechtol [mailto:carter@cyberpix.com]\n",
+         "source": "email",
+         "to": "Bechtol, Brent; Currie Bechtol"
+      },
+      {
+         "from": "jfertitta@cyberpix.com",
+         "line": 137,
+         "rawfrom": "Jason Fertitta [mailto:jfertitta@cyberpix.com]\n",
+         "source": "email",
+         "to": "Carter Bechtol"
+      },
+      {
+         "from": "bryan.mcmurrey@texas.net",
+         "line": 147,
+         "rawfrom": "Bryan.McMurrey@texas.net [mailto:Bryan.McMurrey@texas.net]\n",
+         "source": "email",
+         "to": "Jason Fertitta; 'mullins'; Palmer Letzerich; Kyle F; Robert dawson"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/all_documents/829.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "dawn.kenne@enron.com, darron.giron@enron.com, victor.guggenheim@enron.com,"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 44,
+         "rawfrom": "\"Love, Dianne\" <love@cl.uh.edu>\n",
+         "source": "email",
+         "to": "\"'plove570@cs.com'\" <plove570@cs.com>"
+      },
+      {
+         "from": "annie@ala.nu",
+         "line": 56,
+         "rawfrom": "Andrea Oliver [SMTP:annie@ala.nu]\n",
+         "source": "email",
+         "to": "Shirley Mitchell"
+      },
+      {
+         "from": "leila@ala.nu",
+         "line": 63,
+         "rawfrom": "\"Leila\" <leila@ala.nu>\n",
+         "source": "email",
+         "to": "\"betty stringfellow\" <bstring@ala.nu>; \"bonnie posey\""
+      },
+      {
+         "from": "te066538@yahoo.com",
+         "line": 73,
+         "rawfrom": "E.J. Eiteljorge <te066538@yahoo.com>\n",
+         "source": "email",
+         "to": "Jan Fox <janbillfox@yahoo.com>; Teri Gillette <bladetlg@aol.com>;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/all_documents/129.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "jason.wolfe@enron.com, dlove8847@aol.com, alove770@cs.com,"
+      },
+      {
+         "from": "phil.hooper@msl.redstone.army.mil",
+         "line": 36,
+         "rawfrom": "\"Phil Hooper\" <Phil.Hooper@msl.redstone.army.mil>\n",
+         "source": "email",
+         "to": "<km5km@avsia.com>, \"Bob Hammons\" <Bob.Hammons@msl.redstone.army.mil>,"
+      },
+      {
+         "from": "greg.parker@rdec.redstone.army.mil",
+         "line": 53,
+         "rawfrom": "\"Parker, Greg\" <Greg.Parker@rdec.redstone.army.mil>\n",
+         "source": "email",
+         "to": "\"Dillon, John T\" <John.Dillon@rdec.redstone.army.mil>,        \"Owen, Phil"
+      },
+      {
+         "from": "dlhorst@bellsouth.net",
+         "line": 83,
+         "rawfrom": "Derek Horst [mailto:dlhorst@bellsouth.net]\n",
+         "source": "email",
+         "to": "Amy Williams; Lewis White; Darryl Wells; Stan Tillman; Rick Shotts; Mark"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/all_documents/236.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "b.palmer@enron.com, shane.dobbs@fctg.com, keithcorbo@aol.com,"
+      },
+      {
+         "from": "carter@cyberpix.com",
+         "line": 73,
+         "rawfrom": "Carter Bechtol [mailto:carter@cyberpix.com]\n",
+         "source": "email",
+         "to": "Bechtol, Brent; Currie Bechtol"
+      },
+      {
+         "from": "jfertitta@cyberpix.com",
+         "line": 83,
+         "rawfrom": "Jason Fertitta [mailto:jfertitta@cyberpix.com]\n",
+         "source": "email",
+         "to": "Carter Bechtol"
+      },
+      {
+         "from": "bryan.mcmurrey@texas.net",
+         "line": 93,
+         "rawfrom": "Bryan.McMurrey@texas.net [mailto:Bryan.McMurrey@texas.net]\n",
+         "source": "email",
+         "to": "Jason Fertitta; 'mullins'; Palmer Letzerich; Kyle F; Robert dawson"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/all_documents/468.",
+   "hops": [
+      {
+         "from": "rachel.m.bonilla@ac.com",
+         "line": 4,
+         "rawfrom": "rachel.m.bonilla@ac.com\r\n",
+         "source": "valid",
+         "to": "phillip.m.love@enron.com"
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 49,
+         "rawfrom": "Phillip.M.Love@enron.com\n",
+         "source": "valid",
+         "to": "Rachel M. Bonilla@Andersen Consulting"
+      },
+      {
+         "from": "rachel.m.bonilla@ac.com",
+         "line": 76,
+         "rawfrom": "rachel.m.bonilla@ac.com on 04/17/2000 11:37:25 AM\n",
+         "source": "email",
+         "to": "Phillip.M.Love@enron.com"
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 115,
+         "rawfrom": "Phillip.M.Love@enron.com\n",
+         "source": "valid",
+         "to": "Rachel M. Bonilla@Andersen Consulting"
+      },
+      {
+         "from": "rachel.m.bonilla@ac.com",
+         "line": 144,
+         "rawfrom": "rachel.m.bonilla@ac.com on 04/10/2000 10:11:36 AM\n",
+         "source": "email",
+         "to": "\"Phillip M Love\" <Phillip.M.Love@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent/652.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "dawn.kenne@enron.com, darron.giron@enron.com, victor.guggenheim@enron.com,"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 44,
+         "rawfrom": "\"Love, Dianne\" <love@cl.uh.edu>\n",
+         "source": "email",
+         "to": "\"'plove570@cs.com'\" <plove570@cs.com>"
+      },
+      {
+         "from": "annie@ala.nu",
+         "line": 56,
+         "rawfrom": "Andrea Oliver [SMTP:annie@ala.nu]\n",
+         "source": "email",
+         "to": "Shirley Mitchell"
+      },
+      {
+         "from": "leila@ala.nu",
+         "line": 63,
+         "rawfrom": "\"Leila\" <leila@ala.nu>\n",
+         "source": "email",
+         "to": "\"betty stringfellow\" <bstring@ala.nu>; \"bonnie posey\""
+      },
+      {
+         "from": "te066538@yahoo.com",
+         "line": 73,
+         "rawfrom": "E.J. Eiteljorge <te066538@yahoo.com>\n",
+         "source": "email",
+         "to": "Jan Fox <janbillfox@yahoo.com>; Teri Gillette <bladetlg@aol.com>;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent/62.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "jason.wolfe@enron.com, dlove8847@aol.com, alove770@cs.com,"
+      },
+      {
+         "from": "phil.hooper@msl.redstone.army.mil",
+         "line": 36,
+         "rawfrom": "\"Phil Hooper\" <Phil.Hooper@msl.redstone.army.mil>\n",
+         "source": "email",
+         "to": "<km5km@avsia.com>, \"Bob Hammons\" <Bob.Hammons@msl.redstone.army.mil>,"
+      },
+      {
+         "from": "greg.parker@rdec.redstone.army.mil",
+         "line": 53,
+         "rawfrom": "\"Parker, Greg\" <Greg.Parker@rdec.redstone.army.mil>\n",
+         "source": "email",
+         "to": "\"Dillon, John T\" <John.Dillon@rdec.redstone.army.mil>,        \"Owen, Phil"
+      },
+      {
+         "from": "dlhorst@bellsouth.net",
+         "line": 83,
+         "rawfrom": "Derek Horst [mailto:dlhorst@bellsouth.net]\n",
+         "source": "email",
+         "to": "Amy Williams; Lewis White; Darryl Wells; Stan Tillman; Rick Shotts; Mark"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent/164.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "tarm27@texas.net"
+      },
+      {
+         "from": "carter@cyberpix.com",
+         "line": 70,
+         "rawfrom": "Carter Bechtol [mailto:carter@cyberpix.com]\n",
+         "source": "email",
+         "to": "Bechtol, Brent; Currie Bechtol"
+      },
+      {
+         "from": "jfertitta@cyberpix.com",
+         "line": 80,
+         "rawfrom": "Jason Fertitta [mailto:jfertitta@cyberpix.com]\n",
+         "source": "email",
+         "to": "Carter Bechtol"
+      },
+      {
+         "from": "bryan.mcmurrey@texas.net",
+         "line": 90,
+         "rawfrom": "Bryan.McMurrey@texas.net [mailto:Bryan.McMurrey@texas.net]\n",
+         "source": "email",
+         "to": "Jason Fertitta; 'mullins'; Palmer Letzerich; Kyle F; Robert dawson"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent/165.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "b.palmer@enron.com, shane.dobbs@fctg.com, keithcorbo@aol.com,"
+      },
+      {
+         "from": "carter@cyberpix.com",
+         "line": 73,
+         "rawfrom": "Carter Bechtol [mailto:carter@cyberpix.com]\n",
+         "source": "email",
+         "to": "Bechtol, Brent; Currie Bechtol"
+      },
+      {
+         "from": "jfertitta@cyberpix.com",
+         "line": 83,
+         "rawfrom": "Jason Fertitta [mailto:jfertitta@cyberpix.com]\n",
+         "source": "email",
+         "to": "Carter Bechtol"
+      },
+      {
+         "from": "bryan.mcmurrey@texas.net",
+         "line": 93,
+         "rawfrom": "Bryan.McMurrey@texas.net [mailto:Bryan.McMurrey@texas.net]\n",
+         "source": "email",
+         "to": "Jason Fertitta; 'mullins'; Palmer Letzerich; Kyle F; Robert dawson"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent/581.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "bruce.mills@enron.com, kevin.bosse@enron.com, jimmy.simien@enron.com,"
+      },
+      {
+         "from": "grant.w@mindspring.com",
+         "line": 70,
+         "rawfrom": "\"grant whipple\" <grant.w@mindspring.com>\n",
+         "source": "email",
+         "to": "\"Carlos Giron\" <cgiron@mindspring.com>"
+      },
+      {
+         "from": "glennmill@juno.com",
+         "line": 108,
+         "rawfrom": "Glenn A  Miller [mailto:glennmill@juno.com] \n",
+         "source": "email",
+         "to": "JanetMoshier@cruisesinc.com; Piponi@aol.com; kperry@family.net;"
+      },
+      {
+         "from": "tpharry@flash.net",
+         "line": 119,
+         "rawfrom": "Terri Harry <tpharry@flash.net> \n",
+         "source": "email",
+         "to": "Undisclosed-recipients:;"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 139,
+         "rawfrom": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com> \n",
+         "source": "email",
+         "to": "\"'Jonah H.  Peretti'\" <peretti@media.mit.edu>"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 160,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu>  \n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com>"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 183,
+         "rawfrom": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com> \n",
+         "source": "email",
+         "to": "\"'Jonah H.  Peretti'\" <peretti@media.mit.edu>"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 197,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu>  \n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com>"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 235,
+         "rawfrom": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com> \n",
+         "source": "email",
+         "to": "\"'Jonah H.  Peretti'\" <peretti@media.mit.edu>"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 264,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu>  \n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com>"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent/126.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "tarm27@texas.net"
+      },
+      {
+         "from": "tarm27@texas.net",
+         "line": 32,
+         "rawfrom": "\"tarek morshed\" <tarm27@texas.net> on 10/12/2000 12:29:56 PM\n",
+         "source": "email",
+         "to": "<Phillip.M.Love@enron.com>"
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 54,
+         "rawfrom": "<Phillip.M.Love@enron.com>\n",
+         "source": "email",
+         "to": "<tarm27@texas.net>"
+      },
+      {
+         "from": "carter@cyberpix.com",
+         "line": 127,
+         "rawfrom": "Carter Bechtol [mailto:carter@cyberpix.com]\n",
+         "source": "email",
+         "to": "Bechtol, Brent; Currie Bechtol"
+      },
+      {
+         "from": "jfertitta@cyberpix.com",
+         "line": 137,
+         "rawfrom": "Jason Fertitta [mailto:jfertitta@cyberpix.com]\n",
+         "source": "email",
+         "to": "Carter Bechtol"
+      },
+      {
+         "from": "bryan.mcmurrey@texas.net",
+         "line": 147,
+         "rawfrom": "Bryan.McMurrey@texas.net [mailto:Bryan.McMurrey@texas.net]\n",
+         "source": "email",
+         "to": "Jason Fertitta; 'mullins'; Palmer Letzerich; Kyle F; Robert dawson"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent/184.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "jimmy.simien@enron.com"
+      },
+      {
+         "from": "ronniegiron@yahoo.com",
+         "line": 48,
+         "rawfrom": "Ronnie Giron <ronniegiron@yahoo.com>\n",
+         "source": "email",
+         "to": "Carl Swan <rcantrell@potomacenergy.com>; Georges Tadros"
+      },
+      {
+         "from": "kathya@rabey.com",
+         "line": 81,
+         "rawfrom": "Kathy Atherton <KathyA@RABEY.com>\n",
+         "source": "email",
+         "to": "\"'ronniegiron@yahoo.com'\" <ronniegiron@yahoo.com>"
+      },
+      {
+         "from": "wilensky.bob@littondsd.com",
+         "line": 95,
+         "rawfrom": "Wilensky, Bob  [mailto:Wilensky.Bob@LittonDSD.com]\n",
+         "source": "email",
+         "to": "Hank Coolidge (E-mail); Palmertree,  Kenneth"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent/783.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "rachel.bonilla-kragel@accenture.com"
+      },
+      {
+         "from": "rachel.bonilla-kragel@accenture.com",
+         "line": 30,
+         "rawfrom": "rachel.bonilla-kragel@accenture.com on 01/29/2001 08:47:25 PM\n",
+         "source": "email",
+         "to": "Phillip.M.Love@enron.com"
+      },
+      {
+         "from": "phillip.m.love@enron.c",
+         "line": 64,
+         "rawfrom": "Phillip.M.Love@enron.c",
+         "source": "valid",
+         "to": "Rachel"
+      },
+      {
+         "from": "rachel.bonilla-kragel@accenture.com",
+         "line": 94,
+         "rawfrom": "rachel.bonilla-kragel@accenture.com on 01/26/2001 04:18:48 PM\n",
+         "source": "email",
+         "to": "Phillip.M.Love@enron.com"
+      },
+      {
+         "from": "phillip.m.love@enron.c",
+         "line": 125,
+         "rawfrom": "Phillip.M.Love@enron.c",
+         "source": "valid",
+         "to": "Rachel"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/deleted_items/163.",
+   "hops": [
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 4,
+         "rawfrom": "mjillard@beaconelectric.com\r\n",
+         "source": "valid",
+         "to": "m..love@enron.com"
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 23,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 35,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 43,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 60,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 68,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 81,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "dave@mpeconsulting.com",
+         "line": 91,
+         "rawfrom": "Dave Aabram [mailto:dave@mpeconsulting.com]\n",
+         "source": "email",
+         "to": "Maddy Aabram; Chuck Mitchell; Craig Gallegos; Karen Wozniak;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/deleted_items/162.",
+   "hops": [
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 4,
+         "rawfrom": "mjillard@beaconelectric.com\r\n",
+         "source": "valid",
+         "to": "m..love@enron.com"
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 25,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 41,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 49,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 66,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 74,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 87,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "dave@mpeconsulting.com",
+         "line": 97,
+         "rawfrom": "Dave Aabram [mailto:dave@mpeconsulting.com]\n",
+         "source": "email",
+         "to": "Maddy Aabram; Chuck Mitchell; Craig Gallegos; Karen Wozniak;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/deleted_items/124.",
+   "hops": [
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 4,
+         "rawfrom": "mjillard@beaconelectric.com\r\n",
+         "source": "valid",
+         "to": "m..love@enron.com"
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 24,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 39,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 56,
+         "rawfrom": "Love, Phillip M. [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "dlove8847@aol.com; James Love (E-mail); alove@houston.rr.com; \"Jason"
+      },
+      {
+         "from": "mmorua@deloitte.com",
+         "line": 86,
+         "rawfrom": "Morua, Mark (US - Houston) [mailto:mmorua@deloitte.com]\n",
+         "source": "email",
+         "to": "Poche', Tim (US - Houston); Worthing, Ashley; Charles. A. Lestage"
+      },
+      {
+         "from": "popfarm@aol.com",
+         "line": 120,
+         "rawfrom": "Popfarm@aol.com [mailto:Popfarm@aol.com]\n",
+         "source": "email",
+         "to": "Jarratt, Joel (US - Houston); jdjarr_99@yahoo.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/deleted_items/14.",
+   "hops": [
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 4,
+         "rawfrom": "mjillard@beaconelectric.com\r\n",
+         "source": "valid",
+         "to": "m..love@enron.com"
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 24,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 35,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 45,
+         "rawfrom": "Love, Phillip M. [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "plove@houston.rr.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/deleted_items/164.",
+   "hops": [
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 4,
+         "rawfrom": "mjillard@beaconelectric.com\r\n",
+         "source": "valid",
+         "to": "m..love@enron.com"
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 22,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 37,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 45,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 58,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "dave@mpeconsulting.com",
+         "line": 68,
+         "rawfrom": "Dave Aabram [mailto:dave@mpeconsulting.com]\n",
+         "source": "email",
+         "to": "Maddy Aabram; Chuck Mitchell; Craig Gallegos; Karen Wozniak; Mike"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/deleted_items/285.",
+   "hops": [
+      {
+         "from": "jmjaked@mindspring.com",
+         "line": 4,
+         "rawfrom": "jmjaked@mindspring.com\r\n",
+         "source": "valid",
+         "to": "plove@houston.rr.com, raypaulk@surfsouth.com, plove@enron.com,"
+      },
+      {
+         "from": "jameyestes@yahoo.com",
+         "line": 25,
+         "rawfrom": "Jamey Estes <jameyestes@yahoo.com>\n",
+         "source": "email",
+         "to": "JASON DOBBS <JMJAKED@MINDSPRING.COM>"
+      },
+      {
+         "from": "cnuciforo@assocdealers.com",
+         "line": 61,
+         "rawfrom": "\"Cindi Nuciforo\" <cnuciforo@assocdealers.com>\n",
+         "source": "email",
+         "to": "\"Barb Tucker (E-mail)\" <Barb.Tucker@asu.edu>,\t\"Carole Carpenter (E-mail)\" <FLYINGSOMEWHERE@worldnet.att.net>,\t\"Irma Haro (E-mail)\" <IA11HARO@WINSTARMAIL.COM>,\t\"Jamey Estes (E-mail)\" <JAMEYESTES@YAHOO.COM>,\t\"John & Gwen Haro (E-mail)\" <jandgharo@qwest.net>,\t\"Kristi Lubin (E-mail)\" <KLUBINA@YAHOO.COM>,\t\"Larry Nuciforo (E-mail)\" <X667788@AOL.COM>,\t\"Michael Nuciforo (E-mail)\" <TIDALWAVE2@HOTMAIL.COM>"
+      },
+      {
+         "from": "woolard@intellex.com",
+         "line": 76,
+         "rawfrom": "woolard [mailto:woolard@intellex.com]\n",
+         "source": "email",
+         "to": "Frieda Thompson; Suzy; Tina Snell; Lucinda Sixkiller; shannon;"
+      },
+      {
+         "from": "emeraldoz@hotmail.com",
+         "line": 116,
+         "rawfrom": "Christin Taylor [mailto:emeraldoz@hotmail.com]\n",
+         "source": "email",
+         "to": "jlokgo@aol.com <mailto:jlokgo@aol.com> ; mtorix@yahoo.com"
+      },
+      {
+         "from": "cbehrens@volt.com",
+         "line": 210,
+         "rawfrom": "Behrens, Chris [mailto:CBehrens@Volt.com]\n",
+         "source": "email",
+         "to": "Behrens, Chris"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/deleted_items/165.",
+   "hops": [
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 4,
+         "rawfrom": "mjillard@beaconelectric.com\r\n",
+         "source": "valid",
+         "to": "m..love@enron.com"
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 22,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 34,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "dave@mpeconsulting.com",
+         "line": 44,
+         "rawfrom": "Dave Aabram [mailto:dave@mpeconsulting.com]\n",
+         "source": "email",
+         "to": "Maddy Aabram; Chuck Mitchell; Craig Gallegos; Karen Wozniak; Mike"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/deleted_items/161.",
+   "hops": [
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 4,
+         "rawfrom": "mjillard@beaconelectric.com\r\n",
+         "source": "valid",
+         "to": "m..love@enron.com"
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 24,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 38,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 47,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 60,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 68,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 85,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 93,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 107,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "dave@mpeconsulting.com",
+         "line": 117,
+         "rawfrom": "Dave Aabram [mailto:dave@mpeconsulting.com]\n",
+         "source": "email",
+         "to": "Maddy Aabram; Chuck Mitchell; Craig Gallegos; Karen"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/deleted_items/12.",
+   "hops": [
+      {
+         "from": "james.love@msl.redstone.army.mil",
+         "line": 4,
+         "rawfrom": "james.love@msl.redstone.army.mil\r\n",
+         "source": "valid",
+         "to": "m..love@enron.com"
+      },
+      {
+         "from": "james.love@msl.redstone.army.mil",
+         "line": 27,
+         "rawfrom": "  \"James Love\" <James.Love@msl.redstone.army.mil>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "shane.dobbs@fctg.com",
+         "line": 45,
+         "rawfrom": "     Dobbs_Shane <Shane.Dobbs@fctg.com>@ENRON\n",
+         "source": "email",
+         "to": "'jmjaked@mindspring.com'; Love, Phillip M."
+      },
+      {
+         "from": "poe77@earthlink.net",
+         "line": 53,
+         "rawfrom": "Kevin Poe  [mailto:poe77@earthlink.net]\n",
+         "source": "email",
+         "to": "Matt Yates; Josh White; Barnie White; Fielding Watts; Marti"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/deleted_items/158.",
+   "hops": [
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 4,
+         "rawfrom": "mjillard@beaconelectric.com\r\n",
+         "source": "valid",
+         "to": "m..love@enron.com"
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 22,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 34,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 44,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 59,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 68,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 81,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 89,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 109,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 118,
+         "rawfrom": "Phillip.M.Love@enron.com\n",
+         "source": "valid",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 132,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "dave@mpeconsulting.com",
+         "line": 142,
+         "rawfrom": "Dave Aabram [mailto:dave@mpeconsulting.com]\n",
+         "source": "email",
+         "to": "Maddy Aabram; Chuck Mitchell; Craig Gallegos; Karen"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/142.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 26,
+         "rawfrom": "\t\"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON  \n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 35,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 47,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 55,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 72,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 80,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 93,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "dave@mpeconsulting.com",
+         "line": 103,
+         "rawfrom": "Dave Aabram [mailto:dave@mpeconsulting.com]\n",
+         "source": "email",
+         "to": "Maddy Aabram; Chuck Mitchell; Craig Gallegos; Karen Wozniak;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/267.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 24,
+         "rawfrom": "\t\"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON  \n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 37,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 51,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 61,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 73,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 81,
+         "rawfrom": "Love, Phillip M. [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "Giron, Darron C.; Bass, Eric; Bosse, Kevin; Lilly, Kyle R.;"
+      },
+      {
+         "from": "james.love@msl.redstone.army.mil",
+         "line": 92,
+         "rawfrom": "     \"James Love\" <James.Love@msl.redstone.army.mil>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M.; Craig Langhauser; Phil Hooper; Phillip"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/434.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "jmjaked@mindspring.com"
+      },
+      {
+         "from": "jmjaked@mindspring.com",
+         "line": 24,
+         "rawfrom": "\t\"Jason Dobbs\" <jmjaked@mindspring.com>@ENRON  \n",
+         "source": "email",
+         "to": "phil love"
+      },
+      {
+         "from": "jameyestes@yahoo.com",
+         "line": 30,
+         "rawfrom": "Jamey Estes <jameyestes@yahoo.com>\n",
+         "source": "email",
+         "to": "DONNA BEHYMER <donna@swoca.net>"
+      },
+      {
+         "from": "lulu@sonet.net",
+         "line": 59,
+         "rawfrom": "\"Linda\" <lulu@sonet.net>\n",
+         "source": "email",
+         "to": "\"Tex Johnson\" <texjohnson1@yahoo.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/290.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 24,
+         "rawfrom": "\t\"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON  \n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 36,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 53,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 68,
+         "rawfrom": "Love, Phillip M. [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "Mike <mjillard (E-mail)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/270.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 23,
+         "rawfrom": "\t\"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON  \n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 31,
+         "rawfrom": "Love, Phillip M. [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "Giron, Darron C.; Bass, Eric; Bosse, Kevin; Lilly, Kyle R.;"
+      },
+      {
+         "from": "james.love@msl.redstone.army.mil",
+         "line": 42,
+         "rawfrom": "\t\"James Love\" <James.Love@msl.redstone.army.mil>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M.; Craig Langhauser; Phil Hooper; Phillip"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/744.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "dkenne@houston.rr.com"
+      },
+      {
+         "from": "dkenne@houston.rr.com",
+         "line": 24,
+         "rawfrom": "\t\"Dawn and Gary Wilson\" <dkenne@houston.rr.com>@ENRON  \n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 35,
+         "rawfrom": "<Phillip.M.Love@enron.com>\n",
+         "source": "email",
+         "to": "<dkenne@houston.rr.com>"
+      },
+      {
+         "from": "dkenne@houston.rr.com",
+         "line": 50,
+         "rawfrom": "  \"Dawn and Gary Wilson\" <dkenne@houston.rr.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M.; Sweitzer, Tara; Bagwell, Jennifer J;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/233.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "rachel.bonilla-kragel@accenture.com"
+      },
+      {
+         "from": "rachel.bonilla-kragel@accenture.com",
+         "line": 23,
+         "rawfrom": "\trachel.bonilla-kragel@accenture.com@ENRON   On Behalf Of rachel.bonilla-kragel@accenture.com\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 30,
+         "rawfrom": "Phillip.M.Love@enron.com\n",
+         "source": "valid",
+         "to": "Rachel Bonilla-Kragel/Internal/Accenture@Accenture"
+      },
+      {
+         "from": "rachel.bonilla-kragel@accenture.com",
+         "line": 41,
+         "rawfrom": "  rachel.bonilla-kragel@accenture.com@ENRON   On Behalf Of\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 51,
+         "rawfrom": "\"Love, Phillip M.\" <Phillip.M.Love@enron.com>\n",
+         "source": "email",
+         "to": "Rachel Bonilla-Kragel/Internal/Accenture@Accenture"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/461.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "jmjaked@mindspring.com"
+      },
+      {
+         "from": "jmjaked@mindspring.com",
+         "line": 24,
+         "rawfrom": "\t\"Jason Dobbs\" <jmjaked@mindspring.com>@ENRON  \n",
+         "source": "email",
+         "to": "phil love"
+      },
+      {
+         "from": "gwave85@hotmail.com",
+         "line": 34,
+         "rawfrom": "chris chambless <gwave85@hotmail.com>\n",
+         "source": "email",
+         "to": "<e_chambless@yahoo.com>; <jmjaked@mindspring.com>; <Murrywhitt@aol.com>;"
+      },
+      {
+         "from": "wjones@telepak.net",
+         "line": 44,
+         "rawfrom": "wayne jones <wjones@telepak.net>\n",
+         "source": "email",
+         "to": "gwave85@hotmail.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/114.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 24,
+         "rawfrom": "\t\"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON  \n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 39,
+         "rawfrom": "Love, Phillip M. [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "dlove8847@aol.com; James Love (E-mail); alove@houston.rr.com; \"Jason"
+      },
+      {
+         "from": "mmorua@deloitte.com",
+         "line": 69,
+         "rawfrom": "Morua, Mark (US - Houston) [mailto:mmorua@deloitte.com]\n",
+         "source": "email",
+         "to": "Poche', Tim (US - Houston); Worthing, Ashley; Charles. A. Lestage"
+      },
+      {
+         "from": "popfarm@aol.com",
+         "line": 103,
+         "rawfrom": "Popfarm@aol.com [mailto:Popfarm@aol.com]\n",
+         "source": "email",
+         "to": "Jarratt, Joel (US - Houston); jdjarr_99@yahoo.com"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/708.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "love@cl.uh.edu"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 24,
+         "rawfrom": "\t\"Love, Dianne\" <love@cl.uh.edu>@ENRON  \n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 88,
+         "rawfrom": "Tammy Irons [mailto:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 107,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 116,
+         "rawfrom": "Tammy Irons [mailto:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 126,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 135,
+         "rawfrom": "Tammy Irons [mailto:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 145,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 154,
+         "rawfrom": "Tammy Irons [mailto:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 165,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 176,
+         "rawfrom": "> From:\tTammy Irons [SMTP:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 200,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 210,
+         "rawfrom": "> > From:\tTammy Irons [SMTP:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 226,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 235,
+         "rawfrom": "> > > From:\tTammy Irons [SMTP:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 243,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 258,
+         "rawfrom": "> > > > From:\tTammy Irons [SMTP:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 273,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 293,
+         "rawfrom": "> > > > > From:\tTammy Irons [SMTP:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/14.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 23,
+         "rawfrom": "\t\"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON  \n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 33,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 44,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 54,
+         "rawfrom": "Love, Phillip M. [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "plove@houston.rr.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/141.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 23,
+         "rawfrom": "\t\"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON  \n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 34,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 50,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 58,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 75,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 83,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 96,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "dave@mpeconsulting.com",
+         "line": 106,
+         "rawfrom": "Dave Aabram [mailto:dave@mpeconsulting.com]\n",
+         "source": "email",
+         "to": "Maddy Aabram; Chuck Mitchell; Craig Gallegos; Karen Wozniak;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/143.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 24,
+         "rawfrom": "\t\"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON  \n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 32,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 47,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 55,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 68,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "dave@mpeconsulting.com",
+         "line": 78,
+         "rawfrom": "Dave Aabram [mailto:dave@mpeconsulting.com]\n",
+         "source": "email",
+         "to": "Maddy Aabram; Chuck Mitchell; Craig Gallegos; Karen Wozniak; Mike"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/747.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "dkenne@houston.rr.com"
+      },
+      {
+         "from": "dkenne@houston.rr.com",
+         "line": 22,
+         "rawfrom": "\t\"Dawn and Gary Wilson\" <dkenne@houston.rr.com>@ENRON  \n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 28,
+         "rawfrom": "<Phillip.M.Love@enron.com>\n",
+         "source": "email",
+         "to": "<dkenne@houston.rr.com>"
+      },
+      {
+         "from": "dkenne@houston.rr.com",
+         "line": 45,
+         "rawfrom": "  \"Dawn and Gary Wilson\" <dkenne@houston.rr.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 59,
+         "rawfrom": "<Phillip.M.Love@enron.com>\n",
+         "source": "email",
+         "to": "<dkenne@houston.rr.com>"
+      },
+      {
+         "from": "dkenne@houston.rr.com",
+         "line": 76,
+         "rawfrom": "  \"Dawn and Gary Wilson\" <dkenne@houston.rr.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M.; Sweitzer, Tara; Bagwell, Jennifer J;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/266.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "love@cl.uh.edu"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 24,
+         "rawfrom": "\t\"Love, Dianne\" <love@cl.uh.edu>@ENRON  \n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 37,
+         "rawfrom": "Tammy Irons [mailto:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 56,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 65,
+         "rawfrom": "Tammy Irons [mailto:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 75,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 84,
+         "rawfrom": "Tammy Irons [mailto:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 94,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 103,
+         "rawfrom": "Tammy Irons [mailto:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 114,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 125,
+         "rawfrom": "> From:\tTammy Irons [SMTP:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 149,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 159,
+         "rawfrom": "> > From:\tTammy Irons [SMTP:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 175,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 184,
+         "rawfrom": "> > > From:\tTammy Irons [SMTP:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 192,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 207,
+         "rawfrom": "> > > > From:\tTammy Irons [SMTP:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 222,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 242,
+         "rawfrom": "> > > > > From:\tTammy Irons [SMTP:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/284.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 22,
+         "rawfrom": "\t\"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON  \n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 30,
+         "rawfrom": "Love, Phillip M. [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "\"Jason <jmjaked (E-mail); \"Scott <wax (E-mail); \"tarek <tarm27"
+      },
+      {
+         "from": "bbernard@bernardconsult.com",
+         "line": 54,
+         "rawfrom": "Bruce A. Bernard [mailto:bbernard@bernardconsult.com]\n",
+         "source": "email",
+         "to": "David Ruzicka; Couch, Greg"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/83.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "laurinh@prodigy.net"
+      },
+      {
+         "from": "laurinh@prodigy.net",
+         "line": 24,
+         "rawfrom": "\t\"LAURIN HAYES\" <laurinh@prodigy.net>@ENRON  \n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 30,
+         "rawfrom": "<Phillip.M.Love@enron.com>\n",
+         "source": "email",
+         "to": "<laurinh@prodigy.net>"
+      },
+      {
+         "from": "laurinh@prodigy.net",
+         "line": 371,
+         "rawfrom": "  \"LAURIN HAYES\" <laurinh@prodigy.net>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 380,
+         "rawfrom": "\"Love, Phillip M.\" <Phillip.M.Love@ENRON.com>\n",
+         "source": "email",
+         "to": "<laurinh@prodigy.net>"
+      },
+      {
+         "from": "laurinh@prodigy.net",
+         "line": 434,
+         "rawfrom": "laurinh@prodigy.net",
+         "source": "valid",
+         "to": "laurinh@prodigy.net"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/146.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 24,
+         "rawfrom": "\t\"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON  \n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 32,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 44,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "dave@mpeconsulting.com",
+         "line": 54,
+         "rawfrom": "Dave Aabram [mailto:dave@mpeconsulting.com]\n",
+         "source": "email",
+         "to": "Maddy Aabram; Chuck Mitchell; Craig Gallegos; Karen Wozniak; Mike"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/246.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 24,
+         "rawfrom": "\t\"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON  \n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 34,
+         "rawfrom": "Love, Phillip M. [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "Giron, Darron C.; \"Scott <wax (E-mail); \"Jason <jmjaked (E-mail);"
+      },
+      {
+         "from": "brian_thorp@aimfunds.com",
+         "line": 55,
+         "rawfrom": "\t\"Thorp, Brian C\" <Brian_Thorp@AIMFUNDS.COM>@ENRON\n",
+         "source": "email",
+         "to": "Jon Wooton (E-mail); Kyle Fisher (E-mail); Kathleen Fisher"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/293.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "rachel.bonilla-kragel@accenture.com"
+      },
+      {
+         "from": "rachel.bonilla-kragel@accenture.com",
+         "line": 24,
+         "rawfrom": "\trachel.bonilla-kragel@accenture.com@ENRON   On Behalf Of rachel.bonilla-kragel@accenture.com\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 41,
+         "rawfrom": "\"Love, Phillip M.\" <Phillip.M.Love@enron.com>\n",
+         "source": "email",
+         "to": "\"Hull, Bryan\" <Bryan.Hull@enron.com>, \"Bass, Eric\""
+      },
+      {
+         "from": "jmjaked@mindspring.com",
+         "line": 61,
+         "rawfrom": "\"Jason Dobbs\" <jmjaked@mindspring.com>@ENRON\n",
+         "source": "email",
+         "to": "phil love; jim wood; dobbswn; dana sanders; chris chambless;"
+      },
+      {
+         "from": "leemobley@excite.com",
+         "line": 68,
+         "rawfrom": "Michael Mobley <leemobley@excite.com>\n",
+         "source": "email",
+         "to": "<darmy4@sonet.net> <therealflame@yahoo.com>"
+      },
+      {
+         "from": "kclark@sonet.net",
+         "line": 101,
+         "rawfrom": "\"kerry s clark\" <kclark@sonet.net>\n",
+         "source": "email",
+         "to": "\"Wendy Cannon\" <windless_95@yahoo.com>,        \"Trent Doss\""
+      },
+      {
+         "from": "pholley@buccaneerhomes.com",
+         "line": 125,
+         "rawfrom": "\"Holley, Pam\" <pholley@buccaneerhomes.com>\n",
+         "source": "email",
+         "to": "\"White, Jeff\" <JWhite@buccaneerhomes.com>"
+      },
+      {
+         "from": "pwlucius@icc.cc.ms.us",
+         "line": 178,
+         "rawfrom": "Phillip Lucius [mailto:pwlucius@icc.cc.ms.us]\n",
+         "source": "email",
+         "to": "jlucius@sonet.net"
+      },
+      {
+         "from": "drrobbins@icc.cc.ms.us",
+         "line": 187,
+         "rawfrom": "Robbins, Danny [mailto:drrobbins@icc.cc.ms.us]\n",
+         "source": "email",
+         "to": "Tice, Tony; Brady, Ronald; Emison, Barry; Kitchens, Terry;"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/456.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "jmjaked@mindspring.com"
+      },
+      {
+         "from": "jmjaked@mindspring.com",
+         "line": 24,
+         "rawfrom": "=09\"Jason Dobbs\" <jmjaked@mindspring.com>@ENRON =20\r\n",
+         "source": "email",
+         "to": "=09phil love; nathan dobbs; jim; chris chambless; chance wood"
+      },
+      {
+         "from": "jameyestes@yahoo.com",
+         "line": 30,
+         "rawfrom": "Jamey Estes <jameyestes@yahoo.com>\r\n",
+         "source": "email",
+         "to": "JASON DOBBS <JMJAKED@MINDSPRING.COM>"
+      },
+      {
+         "from": "mogara2@yahoo.com",
+         "line": 62,
+         "rawfrom": "Mark O'Gara <mogara2@yahoo.com>\r\n",
+         "source": "email",
+         "to": "Jamey Estes <jameyestes@yahoo.com>, JC Kansas <jcnks2000@yahoo.com>,  H="
+      },
+      {
+         "from": "riverbums@webtv.net",
+         "line": 95,
+         "rawfrom": "Riverbums@webtv.net (Tom)\r\n",
+         "source": "email",
+         "to": "Tailwind@flash.net, BHHJLONG@aol.com, mogara2@yahoo.com,=09ctrygrl@hotm="
+      },
+      {
+         "from": "kcroadking@aol.com",
+         "line": 120,
+         "rawfrom": "Kcroadking@aol.com\r\n",
+         "source": "valid",
+         "to": "Elizabethrusch@hotmail.com, Riverbums@webtv.net"
+      },
+      {
+         "from": "herekitty58@msn.com",
+         "line": 139,
+         "rawfrom": "\"DAVID CARTER\" <herekitty58@msn.com>\r\n",
+         "source": "email",
+         "to": "\"brian caldwell\" <claremore@aol.com>, \"caroll culp\" <kcroadking@aol.com="
+      },
+      {
+         "from": "lmentzel@hotmail.com",
+         "line": 196,
+         "rawfrom": "\"lori mentzel\" <lmentzel@hotmail.com << File: mailto:lmentzel@hotmai=\r\n",
+         "source": "email",
+         "to": "dempseyapril@hotmail.com << File: mailto:dempseyapril@hotmail.com >> ,="
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/12.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "james.love@msl.redstone.army.mil"
+      },
+      {
+         "from": "james.love@msl.redstone.army.mil",
+         "line": 24,
+         "rawfrom": "\t\"James Love\" <James.Love@msl.redstone.army.mil>@ENRON  \n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "shane.dobbs@fctg.com",
+         "line": 39,
+         "rawfrom": "\tDobbs_Shane <Shane.Dobbs@fctg.com>@ENRON\n",
+         "source": "email",
+         "to": "'jmjaked@mindspring.com'; Love, Phillip M."
+      },
+      {
+         "from": "poe77@earthlink.net",
+         "line": 47,
+         "rawfrom": "Kevin Poe  [mailto:poe77@earthlink.net]\n",
+         "source": "email",
+         "to": "Matt Yates; Josh White; Barnie White; Fielding Watts; Marti"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/250.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "love@cl.uh.edu"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 24,
+         "rawfrom": "\t\"Love, Dianne\" <love@cl.uh.edu>@ENRON  \n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 37,
+         "rawfrom": "Tammy Irons [mailto:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 56,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 65,
+         "rawfrom": "Tammy Irons [mailto:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 75,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 84,
+         "rawfrom": "Tammy Irons [mailto:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 94,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 103,
+         "rawfrom": "Tammy Irons [mailto:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 114,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 125,
+         "rawfrom": "> From:\tTammy Irons [SMTP:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 149,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 159,
+         "rawfrom": "> > From:\tTammy Irons [SMTP:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 175,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 184,
+         "rawfrom": "> > > From:\tTammy Irons [SMTP:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 192,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 207,
+         "rawfrom": "> > > > From:\tTammy Irons [SMTP:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 222,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 242,
+         "rawfrom": "> > > > > From:\tTammy Irons [SMTP:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/269.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 24,
+         "rawfrom": "\t\"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON  \n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 34,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 45,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 53,
+         "rawfrom": "Love, Phillip M. [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "Giron, Darron C.; Bass, Eric; Bosse, Kevin; Lilly, Kyle R.;"
+      },
+      {
+         "from": "james.love@msl.redstone.army.mil",
+         "line": 64,
+         "rawfrom": "     \"James Love\" <James.Love@msl.redstone.army.mil>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M.; Craig Langhauser; Phil Hooper; Phillip"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/711.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "love@cl.uh.edu"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 24,
+         "rawfrom": "\t\"Love, Dianne\" <love@cl.uh.edu>@ENRON  \n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 33,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 44,
+         "rawfrom": "  \"Love, Dianne\" <love@cl.uh.edu>@ENRON\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 123,
+         "rawfrom": "Tammy Irons [mailto:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 146,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 155,
+         "rawfrom": "Tammy Irons [mailto:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 165,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 174,
+         "rawfrom": "Tammy Irons [mailto:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 184,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 193,
+         "rawfrom": "Tammy Irons [mailto:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 206,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 217,
+         "rawfrom": "     Tammy Irons [SMTP:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 245,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 256,
+         "rawfrom": "   Tammy Irons [SMTP:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 274,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 283,
+         "rawfrom": " Tammy Irons [SMTP:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 291,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 307,
+         "rawfrom": "    Tammy Irons [SMTP:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 323,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 345,
+         "rawfrom": "  Tammy Irons [SMTP:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/140.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 24,
+         "rawfrom": "\t\"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON  \n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 34,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 48,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 57,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 70,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 78,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 95,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 103,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 117,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "dave@mpeconsulting.com",
+         "line": 127,
+         "rawfrom": "Dave Aabram [mailto:dave@mpeconsulting.com]\n",
+         "source": "email",
+         "to": "Maddy Aabram; Chuck Mitchell; Craig Gallegos; Karen"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/287.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 24,
+         "rawfrom": "\t\"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON  \n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 37,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 53,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 66,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 86,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 101,
+         "rawfrom": "Love, Phillip M. [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "Mike <mjillard (E-mail)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/242.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 24,
+         "rawfrom": "\t\"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON  \n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 32,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 43,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 53,
+         "rawfrom": "Love, Phillip M. [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "Giron, Darron C.; \"Scott <wax (E-mail); \"Jason <jmjaked (E-mail);"
+      },
+      {
+         "from": "brian_thorp@aimfunds.com",
+         "line": 74,
+         "rawfrom": "     \"Thorp, Brian C\" <Brian_Thorp@AIMFUNDS.COM>@ENRON\n",
+         "source": "email",
+         "to": "Jon Wooton (E-mail); Kyle Fisher (E-mail); Kathleen Fisher"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/264.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "alove@houston.rr.com"
+      },
+      {
+         "from": "carlos.giron@psiusa.com",
+         "line": 30,
+         "rawfrom": "\t\"Carlos Giron\" <Carlos.Giron@psiusa.com>@ENRON  \n",
+         "source": "email",
+         "to": "Giron, Darron C.; gbohan@home.com; yhaynes@mindspring.com; ronniegiron@yahoo.com"
+      },
+      {
+         "from": "mike.kotar@psiusa.com",
+         "line": 35,
+         "rawfrom": "\"Mike Kotar\" <Mike.Kotar@psiusa.com>\n",
+         "source": "email",
+         "to": "Carlos.Giron@psiusa.com,Clint.McDowell@psiusa.com,\tStephanie.McDonald@psiusa.com"
+      },
+      {
+         "from": "hwasgatt@home.com",
+         "line": 44,
+         "rawfrom": "\"Heather Wasgatt\" <hwasgatt@home.com>\n",
+         "source": "email",
+         "to": "\"Andy Hutson\" <andy_hutson@starkey.com>,\t\"Kathy Rall\" <kcrall@earthlink.com>,\t\"Mike Kotar\" <Mike.Kotar@psiusa.com>,\t\"Matt Vance\" <matt_vance@hotmail.com>,\t\"Kevin Brenda\" <kevin@nativeresources.com>,\t\"Dianne & Tom Wasgatt\" <AZtomwas@worldnet.att.net>,\t\"Elizabeth Wasgatt\" <emw3@dana.ucc.nau.edu>,\t\"Lisa Fraizer\" <FIREBIRD2@mindspring.com>,\t\"Lydia McDonald\" <lydia@nativeresources.com>,\t\"Melanie Travis\" <golfgrrrl97@aol.com>,\t\"Patty Cascio\" <patty@nativeresources.com>,\t\"Walter Barrios\" <wbarrios1@msn.com>,\t\"Marjut Coursaris\" <M_Coursaris@beutel-can.com>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/251.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 24,
+         "rawfrom": "\t\"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON  \n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 34,
+         "rawfrom": "Love, Phillip M. [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "Giron, Darron C.; Bosse, Kevin; Crowell, Scott;"
+      },
+      {
+         "from": "katherind@usstone.com",
+         "line": 56,
+         "rawfrom": "\tKatherin Dickerson [mailto:KatherinD@USStone.com]\n",
+         "source": "email",
+         "to": "Mills, Bruce; 'Blondie'; 'Darryl Dickerson'; 'David Posey';"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/109.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "james.love@msl.redstone.army.mil"
+      },
+      {
+         "from": "james.love@msl.redstone.army.mil",
+         "line": 24,
+         "rawfrom": "\t\"James Love\" <James.Love@msl.redstone.army.mil>@ENRON  \n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "james.love@msl.redstone.army.mil",
+         "line": 39,
+         "rawfrom": "  \"James Love\" <James.Love@msl.redstone.army.mil>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "james.love@msl.redstone.army.mil",
+         "line": 59,
+         "rawfrom": "  \"James Love\" <James.Love@msl.redstone.army.mil>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/144.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 24,
+         "rawfrom": "\t\"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON  \n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 32,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 47,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 55,
+         "rawfrom": "Phillip.M.Love@enron.com [mailto:Phillip.M.Love@enron.com]\n",
+         "source": "email",
+         "to": "mjillard@beaconelectric.com"
+      },
+      {
+         "from": "mjillard@beaconelectric.com",
+         "line": 68,
+         "rawfrom": "  \"Mike Jillard\" <mjillard@beaconelectric.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "dave@mpeconsulting.com",
+         "line": 78,
+         "rawfrom": "Dave Aabram [mailto:dave@mpeconsulting.com]\n",
+         "source": "email",
+         "to": "Maddy Aabram; Chuck Mitchell; Craig Gallegos; Karen Wozniak; Mike"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/sent_items/11.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "james.love@msl.redstone.army.mil"
+      },
+      {
+         "from": "james.love@msl.redstone.army.mil",
+         "line": 24,
+         "rawfrom": "\t\"James Love\" <James.Love@msl.redstone.army.mil>@ENRON  \n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "shane.dobbs@fctg.com",
+         "line": 39,
+         "rawfrom": "\tDobbs_Shane <Shane.Dobbs@fctg.com>@ENRON\n",
+         "source": "email",
+         "to": "'jmjaked@mindspring.com'; Love, Phillip M."
+      },
+      {
+         "from": "poe77@earthlink.net",
+         "line": 47,
+         "rawfrom": "Kevin Poe  [mailto:poe77@earthlink.net]\n",
+         "source": "email",
+         "to": "Matt Yates; Josh White; Barnie White; Fielding Watts; Marti"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/discussion_threads/452.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "bruce.mills@enron.com, kevin.bosse@enron.com, jimmy.simien@enron.com,"
+      },
+      {
+         "from": "grant.w@mindspring.com",
+         "line": 70,
+         "rawfrom": "\"grant whipple\" <grant.w@mindspring.com>\n",
+         "source": "email",
+         "to": "\"Carlos Giron\" <cgiron@mindspring.com>"
+      },
+      {
+         "from": "glennmill@juno.com",
+         "line": 108,
+         "rawfrom": "Glenn A  Miller [mailto:glennmill@juno.com] \n",
+         "source": "email",
+         "to": "JanetMoshier@cruisesinc.com; Piponi@aol.com; kperry@family.net;"
+      },
+      {
+         "from": "tpharry@flash.net",
+         "line": 119,
+         "rawfrom": "Terri Harry <tpharry@flash.net> \n",
+         "source": "email",
+         "to": "Undisclosed-recipients:;"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 139,
+         "rawfrom": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com> \n",
+         "source": "email",
+         "to": "\"'Jonah H.  Peretti'\" <peretti@media.mit.edu>"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 160,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu>  \n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com>"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 183,
+         "rawfrom": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com> \n",
+         "source": "email",
+         "to": "\"'Jonah H.  Peretti'\" <peretti@media.mit.edu>"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 197,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu>  \n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com>"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 235,
+         "rawfrom": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com> \n",
+         "source": "email",
+         "to": "\"'Jonah H.  Peretti'\" <peretti@media.mit.edu>"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 264,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu>  \n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com>"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/discussion_threads/414.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "dawn.kenne@enron.com, darron.giron@enron.com, victor.guggenheim@enron.com,"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 44,
+         "rawfrom": "\"Love, Dianne\" <love@cl.uh.edu>\n",
+         "source": "email",
+         "to": "\"'plove570@cs.com'\" <plove570@cs.com>"
+      },
+      {
+         "from": "annie@ala.nu",
+         "line": 56,
+         "rawfrom": "Andrea Oliver [SMTP:annie@ala.nu]\n",
+         "source": "email",
+         "to": "Shirley Mitchell"
+      },
+      {
+         "from": "leila@ala.nu",
+         "line": 63,
+         "rawfrom": "\"Leila\" <leila@ala.nu>\n",
+         "source": "email",
+         "to": "\"betty stringfellow\" <bstring@ala.nu>; \"bonnie posey\""
+      },
+      {
+         "from": "te066538@yahoo.com",
+         "line": 73,
+         "rawfrom": "E.J. Eiteljorge <te066538@yahoo.com>\n",
+         "source": "email",
+         "to": "Jan Fox <janbillfox@yahoo.com>; Teri Gillette <bladetlg@aol.com>;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/discussion_threads/194.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "b.palmer@enron.com, shane.dobbs@fctg.com, keithcorbo@aol.com,"
+      },
+      {
+         "from": "carter@cyberpix.com",
+         "line": 73,
+         "rawfrom": "Carter Bechtol [mailto:carter@cyberpix.com]\n",
+         "source": "email",
+         "to": "Bechtol, Brent; Currie Bechtol"
+      },
+      {
+         "from": "jfertitta@cyberpix.com",
+         "line": 83,
+         "rawfrom": "Jason Fertitta [mailto:jfertitta@cyberpix.com]\n",
+         "source": "email",
+         "to": "Carter Bechtol"
+      },
+      {
+         "from": "bryan.mcmurrey@texas.net",
+         "line": 93,
+         "rawfrom": "Bryan.McMurrey@texas.net [mailto:Bryan.McMurrey@texas.net]\n",
+         "source": "email",
+         "to": "Jason Fertitta; 'mullins'; Palmer Letzerich; Kyle F; Robert dawson"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/discussion_threads/229.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "jason.wolfe@enron.com, dlove8847@aol.com, alove770@cs.com,"
+      },
+      {
+         "from": "phil.hooper@msl.redstone.army.mil",
+         "line": 36,
+         "rawfrom": "\"Phil Hooper\" <Phil.Hooper@msl.redstone.army.mil>\n",
+         "source": "email",
+         "to": "<km5km@avsia.com>, \"Bob Hammons\" <Bob.Hammons@msl.redstone.army.mil>,"
+      },
+      {
+         "from": "greg.parker@rdec.redstone.army.mil",
+         "line": 53,
+         "rawfrom": "\"Parker, Greg\" <Greg.Parker@rdec.redstone.army.mil>\n",
+         "source": "email",
+         "to": "\"Dillon, John T\" <John.Dillon@rdec.redstone.army.mil>,        \"Owen, Phil"
+      },
+      {
+         "from": "dlhorst@bellsouth.net",
+         "line": 83,
+         "rawfrom": "Derek Horst [mailto:dlhorst@bellsouth.net]\n",
+         "source": "email",
+         "to": "Amy Williams; Lewis White; Darryl Wells; Stan Tillman; Rick Shotts; Mark"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/discussion_threads/195.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "tarm27@texas.net"
+      },
+      {
+         "from": "carter@cyberpix.com",
+         "line": 70,
+         "rawfrom": "Carter Bechtol [mailto:carter@cyberpix.com]\n",
+         "source": "email",
+         "to": "Bechtol, Brent; Currie Bechtol"
+      },
+      {
+         "from": "jfertitta@cyberpix.com",
+         "line": 80,
+         "rawfrom": "Jason Fertitta [mailto:jfertitta@cyberpix.com]\n",
+         "source": "email",
+         "to": "Carter Bechtol"
+      },
+      {
+         "from": "bryan.mcmurrey@texas.net",
+         "line": 90,
+         "rawfrom": "Bryan.McMurrey@texas.net [mailto:Bryan.McMurrey@texas.net]\n",
+         "source": "email",
+         "to": "Jason Fertitta; 'mullins'; Palmer Letzerich; Kyle F; Robert dawson"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/discussion_threads/55.",
+   "hops": [
+      {
+         "from": "rachel.m.bonilla@ac.com",
+         "line": 4,
+         "rawfrom": "rachel.m.bonilla@ac.com\r\n",
+         "source": "valid",
+         "to": "phillip.m.love@enron.com"
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 49,
+         "rawfrom": "Phillip.M.Love@enron.com\n",
+         "source": "valid",
+         "to": "Rachel M. Bonilla@Andersen Consulting"
+      },
+      {
+         "from": "rachel.m.bonilla@ac.com",
+         "line": 76,
+         "rawfrom": "rachel.m.bonilla@ac.com on 04/17/2000 11:37:25 AM\n",
+         "source": "email",
+         "to": "Phillip.M.Love@enron.com"
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 115,
+         "rawfrom": "Phillip.M.Love@enron.com\n",
+         "source": "valid",
+         "to": "Rachel M. Bonilla@Andersen Consulting"
+      },
+      {
+         "from": "rachel.m.bonilla@ac.com",
+         "line": 144,
+         "rawfrom": "rachel.m.bonilla@ac.com on 04/10/2000 10:11:36 AM\n",
+         "source": "email",
+         "to": "\"Phillip M Love\" <Phillip.M.Love@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/discussion_threads/183.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "jimmy.simien@enron.com"
+      },
+      {
+         "from": "ronniegiron@yahoo.com",
+         "line": 48,
+         "rawfrom": "Ronnie Giron <ronniegiron@yahoo.com>\n",
+         "source": "email",
+         "to": "Carl Swan <rcantrell@potomacenergy.com>; Georges Tadros"
+      },
+      {
+         "from": "kathya@rabey.com",
+         "line": 81,
+         "rawfrom": "Kathy Atherton <KathyA@RABEY.com>\n",
+         "source": "email",
+         "to": "\"'ronniegiron@yahoo.com'\" <ronniegiron@yahoo.com>"
+      },
+      {
+         "from": "wilensky.bob@littondsd.com",
+         "line": 95,
+         "rawfrom": "Wilensky, Bob  [mailto:Wilensky.Bob@LittonDSD.com]\n",
+         "source": "email",
+         "to": "Hank Coolidge (E-mail); Palmertree,  Kenneth"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/_sent_mail/652.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "dawn.kenne@enron.com, darron.giron@enron.com, victor.guggenheim@enron.com,"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 44,
+         "rawfrom": "\"Love, Dianne\" <love@cl.uh.edu>\n",
+         "source": "email",
+         "to": "\"'plove570@cs.com'\" <plove570@cs.com>"
+      },
+      {
+         "from": "annie@ala.nu",
+         "line": 56,
+         "rawfrom": "Andrea Oliver [SMTP:annie@ala.nu]\n",
+         "source": "email",
+         "to": "Shirley Mitchell"
+      },
+      {
+         "from": "leila@ala.nu",
+         "line": 63,
+         "rawfrom": "\"Leila\" <leila@ala.nu>\n",
+         "source": "email",
+         "to": "\"betty stringfellow\" <bstring@ala.nu>; \"bonnie posey\""
+      },
+      {
+         "from": "te066538@yahoo.com",
+         "line": 73,
+         "rawfrom": "E.J. Eiteljorge <te066538@yahoo.com>\n",
+         "source": "email",
+         "to": "Jan Fox <janbillfox@yahoo.com>; Teri Gillette <bladetlg@aol.com>;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/_sent_mail/62.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "jason.wolfe@enron.com, dlove8847@aol.com, alove770@cs.com,"
+      },
+      {
+         "from": "phil.hooper@msl.redstone.army.mil",
+         "line": 36,
+         "rawfrom": "\"Phil Hooper\" <Phil.Hooper@msl.redstone.army.mil>\n",
+         "source": "email",
+         "to": "<km5km@avsia.com>, \"Bob Hammons\" <Bob.Hammons@msl.redstone.army.mil>,"
+      },
+      {
+         "from": "greg.parker@rdec.redstone.army.mil",
+         "line": 53,
+         "rawfrom": "\"Parker, Greg\" <Greg.Parker@rdec.redstone.army.mil>\n",
+         "source": "email",
+         "to": "\"Dillon, John T\" <John.Dillon@rdec.redstone.army.mil>,        \"Owen, Phil"
+      },
+      {
+         "from": "dlhorst@bellsouth.net",
+         "line": 83,
+         "rawfrom": "Derek Horst [mailto:dlhorst@bellsouth.net]\n",
+         "source": "email",
+         "to": "Amy Williams; Lewis White; Darryl Wells; Stan Tillman; Rick Shotts; Mark"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/_sent_mail/164.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "tarm27@texas.net"
+      },
+      {
+         "from": "carter@cyberpix.com",
+         "line": 70,
+         "rawfrom": "Carter Bechtol [mailto:carter@cyberpix.com]\n",
+         "source": "email",
+         "to": "Bechtol, Brent; Currie Bechtol"
+      },
+      {
+         "from": "jfertitta@cyberpix.com",
+         "line": 80,
+         "rawfrom": "Jason Fertitta [mailto:jfertitta@cyberpix.com]\n",
+         "source": "email",
+         "to": "Carter Bechtol"
+      },
+      {
+         "from": "bryan.mcmurrey@texas.net",
+         "line": 90,
+         "rawfrom": "Bryan.McMurrey@texas.net [mailto:Bryan.McMurrey@texas.net]\n",
+         "source": "email",
+         "to": "Jason Fertitta; 'mullins'; Palmer Letzerich; Kyle F; Robert dawson"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/_sent_mail/165.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "b.palmer@enron.com, shane.dobbs@fctg.com, keithcorbo@aol.com,"
+      },
+      {
+         "from": "carter@cyberpix.com",
+         "line": 73,
+         "rawfrom": "Carter Bechtol [mailto:carter@cyberpix.com]\n",
+         "source": "email",
+         "to": "Bechtol, Brent; Currie Bechtol"
+      },
+      {
+         "from": "jfertitta@cyberpix.com",
+         "line": 83,
+         "rawfrom": "Jason Fertitta [mailto:jfertitta@cyberpix.com]\n",
+         "source": "email",
+         "to": "Carter Bechtol"
+      },
+      {
+         "from": "bryan.mcmurrey@texas.net",
+         "line": 93,
+         "rawfrom": "Bryan.McMurrey@texas.net [mailto:Bryan.McMurrey@texas.net]\n",
+         "source": "email",
+         "to": "Jason Fertitta; 'mullins'; Palmer Letzerich; Kyle F; Robert dawson"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/_sent_mail/581.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "bruce.mills@enron.com, kevin.bosse@enron.com, jimmy.simien@enron.com,"
+      },
+      {
+         "from": "grant.w@mindspring.com",
+         "line": 70,
+         "rawfrom": "\"grant whipple\" <grant.w@mindspring.com>\n",
+         "source": "email",
+         "to": "\"Carlos Giron\" <cgiron@mindspring.com>"
+      },
+      {
+         "from": "glennmill@juno.com",
+         "line": 108,
+         "rawfrom": "Glenn A  Miller [mailto:glennmill@juno.com] \n",
+         "source": "email",
+         "to": "JanetMoshier@cruisesinc.com; Piponi@aol.com; kperry@family.net;"
+      },
+      {
+         "from": "tpharry@flash.net",
+         "line": 119,
+         "rawfrom": "Terri Harry <tpharry@flash.net> \n",
+         "source": "email",
+         "to": "Undisclosed-recipients:;"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 139,
+         "rawfrom": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com> \n",
+         "source": "email",
+         "to": "\"'Jonah H.  Peretti'\" <peretti@media.mit.edu>"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 160,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu>  \n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com>"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 183,
+         "rawfrom": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com> \n",
+         "source": "email",
+         "to": "\"'Jonah H.  Peretti'\" <peretti@media.mit.edu>"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 197,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu>  \n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com>"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 235,
+         "rawfrom": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com> \n",
+         "source": "email",
+         "to": "\"'Jonah H.  Peretti'\" <peretti@media.mit.edu>"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 264,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu>  \n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com>"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/_sent_mail/126.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "tarm27@texas.net"
+      },
+      {
+         "from": "tarm27@texas.net",
+         "line": 32,
+         "rawfrom": "\"tarek morshed\" <tarm27@texas.net> on 10/12/2000 12:29:56 PM\n",
+         "source": "email",
+         "to": "<Phillip.M.Love@enron.com>"
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 54,
+         "rawfrom": "<Phillip.M.Love@enron.com>\n",
+         "source": "email",
+         "to": "<tarm27@texas.net>"
+      },
+      {
+         "from": "carter@cyberpix.com",
+         "line": 127,
+         "rawfrom": "Carter Bechtol [mailto:carter@cyberpix.com]\n",
+         "source": "email",
+         "to": "Bechtol, Brent; Currie Bechtol"
+      },
+      {
+         "from": "jfertitta@cyberpix.com",
+         "line": 137,
+         "rawfrom": "Jason Fertitta [mailto:jfertitta@cyberpix.com]\n",
+         "source": "email",
+         "to": "Carter Bechtol"
+      },
+      {
+         "from": "bryan.mcmurrey@texas.net",
+         "line": 147,
+         "rawfrom": "Bryan.McMurrey@texas.net [mailto:Bryan.McMurrey@texas.net]\n",
+         "source": "email",
+         "to": "Jason Fertitta; 'mullins'; Palmer Letzerich; Kyle F; Robert dawson"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/_sent_mail/184.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "jimmy.simien@enron.com"
+      },
+      {
+         "from": "ronniegiron@yahoo.com",
+         "line": 48,
+         "rawfrom": "Ronnie Giron <ronniegiron@yahoo.com>\n",
+         "source": "email",
+         "to": "Carl Swan <rcantrell@potomacenergy.com>; Georges Tadros"
+      },
+      {
+         "from": "kathya@rabey.com",
+         "line": 81,
+         "rawfrom": "Kathy Atherton <KathyA@RABEY.com>\n",
+         "source": "email",
+         "to": "\"'ronniegiron@yahoo.com'\" <ronniegiron@yahoo.com>"
+      },
+      {
+         "from": "wilensky.bob@littondsd.com",
+         "line": 95,
+         "rawfrom": "Wilensky, Bob  [mailto:Wilensky.Bob@LittonDSD.com]\n",
+         "source": "email",
+         "to": "Hank Coolidge (E-mail); Palmertree,  Kenneth"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/_sent_mail/783.",
+   "hops": [
+      {
+         "from": "phillip.love@enron.com",
+         "line": 4,
+         "rawfrom": "phillip.love@enron.com\r\n",
+         "source": "valid",
+         "to": "rachel.bonilla-kragel@accenture.com"
+      },
+      {
+         "from": "rachel.bonilla-kragel@accenture.com",
+         "line": 30,
+         "rawfrom": "rachel.bonilla-kragel@accenture.com on 01/29/2001 08:47:25 PM\n",
+         "source": "email",
+         "to": "Phillip.M.Love@enron.com"
+      },
+      {
+         "from": "phillip.m.love@enron.c",
+         "line": 64,
+         "rawfrom": "Phillip.M.Love@enron.c",
+         "source": "valid",
+         "to": "Rachel"
+      },
+      {
+         "from": "rachel.bonilla-kragel@accenture.com",
+         "line": 94,
+         "rawfrom": "rachel.bonilla-kragel@accenture.com on 01/26/2001 04:18:48 PM\n",
+         "source": "email",
+         "to": "Phillip.M.Love@enron.com"
+      },
+      {
+         "from": "phillip.m.love@enron.c",
+         "line": 125,
+         "rawfrom": "Phillip.M.Love@enron.c",
+         "source": "valid",
+         "to": "Rachel"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/personal/10.",
+   "hops": [
+      {
+         "from": "laurinh@prodigy.net",
+         "line": 4,
+         "rawfrom": "laurinh@prodigy.net\r\n",
+         "source": "valid",
+         "to": "m..love@enron.com"
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 20,
+         "rawfrom": "<Phillip.M.Love@enron.com>\n",
+         "source": "email",
+         "to": "<laurinh@prodigy.net>"
+      },
+      {
+         "from": "laurinh@prodigy.net",
+         "line": 361,
+         "rawfrom": "  \"LAURIN HAYES\" <laurinh@prodigy.net>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 370,
+         "rawfrom": "\"Love, Phillip M.\" <Phillip.M.Love@ENRON.com>\n",
+         "source": "email",
+         "to": "<laurinh@prodigy.net>"
+      },
+      {
+         "from": "laurinh@prodigy.net",
+         "line": 424,
+         "rawfrom": "laurinh@prodigy.net",
+         "source": "valid",
+         "to": "laurinh@prodigy.net"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/personal/36.",
+   "hops": [
+      {
+         "from": "love@cl.uh.edu",
+         "line": 4,
+         "rawfrom": "love@cl.uh.edu\r\n",
+         "source": "valid",
+         "to": "tammy@ironslawfirm.com"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 79,
+         "rawfrom": "Tammy Irons [mailto:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 98,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 107,
+         "rawfrom": "Tammy Irons [mailto:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 117,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 126,
+         "rawfrom": "Tammy Irons [mailto:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 136,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 145,
+         "rawfrom": "Tammy Irons [mailto:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 156,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 167,
+         "rawfrom": "> From:\tTammy Irons [SMTP:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 191,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 201,
+         "rawfrom": "> > From:\tTammy Irons [SMTP:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 217,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 226,
+         "rawfrom": "> > > From:\tTammy Irons [SMTP:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 234,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 249,
+         "rawfrom": "> > > > From:\tTammy Irons [SMTP:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 264,
+         "rawfrom": "Love, Dianne [mailto:love@cl.uh.edu]\n",
+         "source": "email",
+         "to": "'Tammy Irons'"
+      },
+      {
+         "from": "tammy@ironslawfirm.com",
+         "line": 284,
+         "rawfrom": "> > > > > From:\tTammy Irons [SMTP:tammy@ironslawfirm.com]\n",
+         "source": "email",
+         "to": "Love, Dianne"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/personal/150.",
+   "hops": [
+      {
+         "from": "rachel.m.bonilla@ac.com",
+         "line": 4,
+         "rawfrom": "rachel.m.bonilla@ac.com\r\n",
+         "source": "valid",
+         "to": "phillip.m.love@enron.com"
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 49,
+         "rawfrom": "Phillip.M.Love@enron.com\n",
+         "source": "valid",
+         "to": "Rachel M. Bonilla@Andersen Consulting"
+      },
+      {
+         "from": "rachel.m.bonilla@ac.com",
+         "line": 76,
+         "rawfrom": "rachel.m.bonilla@ac.com on 04/17/2000 11:37:25 AM\n",
+         "source": "email",
+         "to": "Phillip.M.Love@enron.com"
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 115,
+         "rawfrom": "Phillip.M.Love@enron.com\n",
+         "source": "valid",
+         "to": "Rachel M. Bonilla@Andersen Consulting"
+      },
+      {
+         "from": "rachel.m.bonilla@ac.com",
+         "line": 144,
+         "rawfrom": "rachel.m.bonilla@ac.com on 04/10/2000 10:11:36 AM\n",
+         "source": "email",
+         "to": "\"Phillip M Love\" <Phillip.M.Love@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/love-p/personal/1.",
+   "hops": [
+      {
+         "from": "karlr4@zipcon.net",
+         "line": 4,
+         "rawfrom": "karlr4@zipcon.net\r\n",
+         "source": "valid",
+         "to": "m..love@enron.com"
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 24,
+         "rawfrom": "<Phillip.M.Love@enron.com>\n",
+         "source": "email",
+         "to": "<karlr4@zipcon.net>"
+      },
+      {
+         "from": "karlr4@zipcon.net",
+         "line": 36,
+         "rawfrom": "  \"KT Roeber\" <karlr4@zipcon.net>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M."
+      },
+      {
+         "from": "phillip.m.love@enron.com",
+         "line": 45,
+         "rawfrom": "\"Love, Phillip M.\" <Phillip.M.Love@ENRON.com>\n",
+         "source": "email",
+         "to": "<karlr4@zipcon.net>"
+      }
+   ],
+   "skipped": 0
+}
+]

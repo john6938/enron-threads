@@ -1,0 +1,197 @@
+[
+{
+   "file": "/home/jb/maildir/fischer-m/all_documents/328.",
+   "hops": [
+      {
+         "from": "jeff.duff@enron.com",
+         "line": 4,
+         "rawfrom": "jeff.duff@enron.com\r\n",
+         "source": "valid",
+         "to": "kurt.anderson@enron.com"
+      },
+      {
+         "from": "dfmatson@attbi.com",
+         "line": 62,
+         "rawfrom": "dfmatson@attbi.com",
+         "source": "valid",
+         "to": "? ? ? ?Jeff Duff <Jeff.Duff@ps.ge.com>, Ward Marshall"
+      },
+      {
+         "from": "wcmarshall@aep.com",
+         "line": 93,
+         "rawfrom": "wcmarshall@aep.com on 06/24/2002 05:07:17 AM\n",
+         "source": "email",
+         "to": "JEJackson@cps-satx.com"
+      },
+      {
+         "from": "jejackson@cps-satx.com",
+         "line": 127,
+         "rawfrom": "JEJackson@cps-satx.com",
+         "source": "valid",
+         "to": "? ? ? ?\"'tnmccastlain@aep.com'\" <tnmccastlain@aep.com>,"
+      },
+      {
+         "from": "tnmccastlain@aep.com",
+         "line": 148,
+         "rawfrom": "tnmccastlain@aep.com [mailto:tnmccastlain@aep.com]\n",
+         "source": "email",
+         "to": "wcmarshall@aep.com; rpwalker@aep.com; rkblackshear@aep.com;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/fischer-m/all_documents/330.",
+   "hops": [
+      {
+         "from": "jeff.duff@enron.com",
+         "line": 4,
+         "rawfrom": "jeff.duff@enron.com\r\n",
+         "source": "valid",
+         "to": "wcmarshall@aep.com"
+      },
+      {
+         "from": "wcmarshall@aep.com",
+         "line": 41,
+         "rawfrom": "wcmarshall@aep.com on 06/24/2002 05:07:17 AM\n",
+         "source": "email",
+         "to": "JEJackson@cps-satx.com"
+      },
+      {
+         "from": "jejackson@cps-satx.com",
+         "line": 75,
+         "rawfrom": "JEJackson@cps-satx.com",
+         "source": "valid",
+         "to": "? ? ? ?\"'tnmccastlain@aep.com'\" <tnmccastlain@aep.com>,"
+      },
+      {
+         "from": "tnmccastlain@aep.com",
+         "line": 96,
+         "rawfrom": "tnmccastlain@aep.com [mailto:tnmccastlain@aep.com]\n",
+         "source": "email",
+         "to": "wcmarshall@aep.com; rpwalker@aep.com; rkblackshear@aep.com;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/fischer-m/notes_inbox/80.",
+   "hops": [
+      {
+         "from": "jeff.duff@enron.com",
+         "line": 4,
+         "rawfrom": "jeff.duff@enron.com\r\n",
+         "source": "valid",
+         "to": "kurt.anderson@enron.com"
+      },
+      {
+         "from": "dfmatson@attbi.com",
+         "line": 62,
+         "rawfrom": "dfmatson@attbi.com",
+         "source": "valid",
+         "to": "? ? ? ?Jeff Duff <Jeff.Duff@ps.ge.com>, Ward Marshall"
+      },
+      {
+         "from": "wcmarshall@aep.com",
+         "line": 93,
+         "rawfrom": "wcmarshall@aep.com on 06/24/2002 05:07:17 AM\n",
+         "source": "email",
+         "to": "JEJackson@cps-satx.com"
+      },
+      {
+         "from": "jejackson@cps-satx.com",
+         "line": 127,
+         "rawfrom": "JEJackson@cps-satx.com",
+         "source": "valid",
+         "to": "? ? ? ?\"'tnmccastlain@aep.com'\" <tnmccastlain@aep.com>,"
+      },
+      {
+         "from": "tnmccastlain@aep.com",
+         "line": 148,
+         "rawfrom": "tnmccastlain@aep.com [mailto:tnmccastlain@aep.com]\n",
+         "source": "email",
+         "to": "wcmarshall@aep.com; rpwalker@aep.com; rkblackshear@aep.com;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/fischer-m/notes_inbox/78.",
+   "hops": [
+      {
+         "from": "jeff.duff@enron.com",
+         "line": 4,
+         "rawfrom": "jeff.duff@enron.com\r\n",
+         "source": "valid",
+         "to": "wcmarshall@aep.com"
+      },
+      {
+         "from": "wcmarshall@aep.com",
+         "line": 41,
+         "rawfrom": "wcmarshall@aep.com on 06/24/2002 05:07:17 AM\n",
+         "source": "email",
+         "to": "JEJackson@cps-satx.com"
+      },
+      {
+         "from": "jejackson@cps-satx.com",
+         "line": 75,
+         "rawfrom": "JEJackson@cps-satx.com",
+         "source": "valid",
+         "to": "? ? ? ?\"'tnmccastlain@aep.com'\" <tnmccastlain@aep.com>,"
+      },
+      {
+         "from": "tnmccastlain@aep.com",
+         "line": 96,
+         "rawfrom": "tnmccastlain@aep.com [mailto:tnmccastlain@aep.com]\n",
+         "source": "email",
+         "to": "wcmarshall@aep.com; rpwalker@aep.com; rkblackshear@aep.com;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/fischer-m/personal/13.",
+   "hops": [
+      {
+         "from": "mary.fischer@enron.com",
+         "line": 4,
+         "rawfrom": "mary.fischer@enron.com\r\n",
+         "source": "valid",
+         "to": "mfischer41@aol.com"
+      },
+      {
+         "from": "mfischer@enron.com",
+         "line": 63,
+         "rawfrom": "mfischer@enron.com\n",
+         "source": "valid",
+         "to": "donnelly@gddcpa.com"
+      },
+      {
+         "from": "donnelly@gddcpa.com",
+         "line": 90,
+         "rawfrom": "David Donnelly <donnelly@gddcpa.com> on 05/16/2001 01:05:18 PM\n",
+         "source": "email",
+         "to": "\"'mfischer@enron.com'\" <mfischer@enron.com>"
+      },
+      {
+         "from": "mfischer@enron.com",
+         "line": 134,
+         "rawfrom": "mfischer@enron.com [mailto:mfischer@enron.com]\n",
+         "source": "email",
+         "to": "donnelly@gddcpa.com"
+      },
+      {
+         "from": "donnelly@gddcpa.com",
+         "line": 188,
+         "rawfrom": "David Donnelly <donnelly@gddcpa.com> on 05/15/2001 10:56:31 AM\n",
+         "source": "email",
+         "to": "\"'Mary Fischer'\" <mfischer@enron.com>"
+      }
+   ],
+   "skipped": 1
+}
+]

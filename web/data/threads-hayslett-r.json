@@ -1,0 +1,393 @@
+[
+{
+   "file": "/home/jb/maildir/hayslett-r/all_documents/174.",
+   "hops": [
+      {
+         "from": "rod.hayslett@enron.com",
+         "line": 4,
+         "rawfrom": "rod.hayslett@enron.com\r\n",
+         "source": "valid",
+         "to": "erik.solis@painewebber.com"
+      },
+      {
+         "from": "erik.solis@painewebber.com",
+         "line": 33,
+         "rawfrom": "\"Erik Solis\" <erik.solis@painewebber.com> on 09/06/2000 01:18:56 PM\n",
+         "source": "email",
+         "to": "\"'Rod.Hayslett@enron.com'\" <Rod.Hayslett@enron.com>"
+      },
+      {
+         "from": "rod.hayslett@enron.com",
+         "line": 45,
+         "rawfrom": "Rod.Hayslett@enron.com [SMTP:Rod.Hayslett@enron.com]\n",
+         "source": "email",
+         "to": "Erik Solis"
+      },
+      {
+         "from": "erik.solis@painewebber.com",
+         "line": 58,
+         "rawfrom": "\"Erik Solis\" <erik.solis@painewebber.com> on 09/01/2000 10:07:37 AM\n",
+         "source": "email",
+         "to": "\"'rhaysle@enron.com'\" <rhaysle@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hayslett-r/sent/8.",
+   "hops": [
+      {
+         "from": "rod.hayslett@enron.com",
+         "line": 4,
+         "rawfrom": "rod.hayslett@enron.com\r\n",
+         "source": "valid",
+         "to": "erik.solis@painewebber.com"
+      },
+      {
+         "from": "erik.solis@painewebber.com",
+         "line": 33,
+         "rawfrom": "\"Erik Solis\" <erik.solis@painewebber.com> on 09/06/2000 01:18:56 PM\n",
+         "source": "email",
+         "to": "\"'Rod.Hayslett@enron.com'\" <Rod.Hayslett@enron.com>"
+      },
+      {
+         "from": "rod.hayslett@enron.com",
+         "line": 45,
+         "rawfrom": "Rod.Hayslett@enron.com [SMTP:Rod.Hayslett@enron.com]\n",
+         "source": "email",
+         "to": "Erik Solis"
+      },
+      {
+         "from": "erik.solis@painewebber.com",
+         "line": 58,
+         "rawfrom": "\"Erik Solis\" <erik.solis@painewebber.com> on 09/01/2000 10:07:37 AM\n",
+         "source": "email",
+         "to": "\"'rhaysle@enron.com'\" <rhaysle@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hayslett-r/hold/old_sent/7.",
+   "hops": [
+      {
+         "from": "rod.hayslett@enron.com",
+         "line": 4,
+         "rawfrom": "rod.hayslett@enron.com\r\n",
+         "source": "valid",
+         "to": "erik.solis@painewebber.com"
+      },
+      {
+         "from": "erik.solis@painewebber.com",
+         "line": 33,
+         "rawfrom": "\"Erik Solis\" <erik.solis@painewebber.com> on 09/06/2000 01:18:56 PM\n",
+         "source": "email",
+         "to": "\"'Rod.Hayslett@enron.com'\" <Rod.Hayslett@enron.com>"
+      },
+      {
+         "from": "rod.hayslett@enron.com",
+         "line": 45,
+         "rawfrom": "Rod.Hayslett@enron.com [SMTP:Rod.Hayslett@enron.com]\n",
+         "source": "email",
+         "to": "Erik Solis"
+      },
+      {
+         "from": "erik.solis@painewebber.com",
+         "line": 58,
+         "rawfrom": "\"Erik Solis\" <erik.solis@painewebber.com> on 09/01/2000 10:07:37 AM\n",
+         "source": "email",
+         "to": "\"'rhaysle@enron.com'\" <rhaysle@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hayslett-r/deleted_items/67.",
+   "hops": [
+      {
+         "from": "kevin_a_howard.enronxgate.enron@enron.net",
+         "line": 4,
+         "rawfrom": "kevin_a_howard.enronxgate.enron@enron.net\r\n",
+         "source": "valid",
+         "to": "tim_despain.enronxgate.enron@enron.net"
+      },
+      {
+         "from": "rod.hayslett@enron.com",
+         "line": 48,
+         "rawfrom": "  \"Hayslett, Rod\" <Rod.Hayslett@ENRON.com>@ENRON COMMUNICATIONS\n",
+         "source": "email",
+         "to": "kevin.howard@enron.net"
+      },
+      {
+         "from": "tim.despain@enron.com",
+         "line": 59,
+         "rawfrom": "DeSpain, Tim <Tim.DeSpain@ENRON.com>\n",
+         "source": "email",
+         "to": "Hayslett, Rod <Rod.Hayslett@ENRON.com>"
+      },
+      {
+         "from": "ralph.pellecchia@fitchratings.com",
+         "line": 75,
+         "rawfrom": "ralph.pellecchia@fitchratings.com\n",
+         "source": "valid",
+         "to": "tdespai@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hayslett-r/deleted_items/78.",
+   "hops": [
+      {
+         "from": "kevin_a_howard.enronxgate.enron@enron.net",
+         "line": 4,
+         "rawfrom": "kevin_a_howard.enronxgate.enron@enron.net\r\n",
+         "source": "valid",
+         "to": "rod.hayslett@enron.com"
+      },
+      {
+         "from": "rod.hayslett@enron.com",
+         "line": 24,
+         "rawfrom": "  \"Hayslett, Rod\" <Rod.Hayslett@ENRON.com>@ENRON COMMUNICATIONS\n",
+         "source": "email",
+         "to": "kevin.howard@enron.net"
+      },
+      {
+         "from": "tim.despain@enron.com",
+         "line": 35,
+         "rawfrom": "DeSpain, Tim <Tim.DeSpain@ENRON.com>\n",
+         "source": "email",
+         "to": "Hayslett, Rod <Rod.Hayslett@ENRON.com>"
+      },
+      {
+         "from": "ralph.pellecchia@fitchratings.com",
+         "line": 51,
+         "rawfrom": "ralph.pellecchia@fitchratings.com\n",
+         "source": "valid",
+         "to": "tdespai@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hayslett-r/sent_items/281.",
+   "hops": [
+      {
+         "from": "rod.hayslett@enron.com",
+         "line": 4,
+         "rawfrom": "rod.hayslett@enron.com\r\n",
+         "source": "valid",
+         "to": "a..howard@enron.com"
+      },
+      {
+         "from": "kevin_a_howard.enronxgate.enron@enron.net",
+         "line": 23,
+         "rawfrom": "    Kevin_A_Howard.enronXgate.ENRON@enron.net@ENRON\n",
+         "source": "email",
+         "to": "Hayslett, Rod"
+      },
+      {
+         "from": "rod.hayslett@enron.com",
+         "line": 36,
+         "rawfrom": "  \"Hayslett, Rod\" <Rod.Hayslett@ENRON.com>@ENRON COMMUNICATIONS\n",
+         "source": "email",
+         "to": "kevin.howard@enron.net"
+      },
+      {
+         "from": "mariella.mahan@enron.com",
+         "line": 46,
+         "rawfrom": "Mahan, Mariella <Mariella.Mahan@ENRON.com>\n",
+         "source": "email",
+         "to": "Horton, Stanley <Stanley.Horton2@ENRON.com>; Hughes, James A."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hayslett-r/sent_items/279.",
+   "hops": [
+      {
+         "from": "rod.hayslett@enron.com",
+         "line": 4,
+         "rawfrom": "rod.hayslett@enron.com\r\n",
+         "source": "valid",
+         "to": "kevin_a_howard.enronxgate.enron@enron.net"
+      },
+      {
+         "from": "kevin_a_howard.enronxgate.enron@enron.net",
+         "line": 22,
+         "rawfrom": "\tKevin_A_Howard.enronXgate.ENRON@enron.net@ENRON  \n",
+         "source": "email",
+         "to": "Hayslett, Rod"
+      },
+      {
+         "from": "rod.hayslett@enron.com",
+         "line": 34,
+         "rawfrom": "  \"Hayslett, Rod\" <Rod.Hayslett@ENRON.com>@ENRON COMMUNICATIONS\n",
+         "source": "email",
+         "to": "kevin.howard@enron.net"
+      },
+      {
+         "from": "mariella.mahan@enron.com",
+         "line": 44,
+         "rawfrom": "Mahan, Mariella <Mariella.Mahan@ENRON.com>\n",
+         "source": "email",
+         "to": "Horton, Stanley <Stanley.Horton2@ENRON.com>; Hughes, James A."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hayslett-r/sent_items/135.",
+   "hops": [
+      {
+         "from": "rod.hayslett@enron.com",
+         "line": 4,
+         "rawfrom": "rod.hayslett@enron.com\r\n",
+         "source": "valid",
+         "to": "james.saunders@enron.com"
+      },
+      {
+         "from": "heather.l.mueck@us.andersen.com",
+         "line": 36,
+         "rawfrom": "heather.l.mueck@us.andersen.com\n",
+         "source": "valid",
+         "to": "Chandler, Bob"
+      },
+      {
+         "from": "heather.l.mueck@us.andersen.com",
+         "line": 72,
+         "rawfrom": "  heather.l.mueck@us.andersen.com@ENRON\n",
+         "source": "email",
+         "to": "Saunders, James"
+      },
+      {
+         "from": "heather.l.mueck@us.andersen.com",
+         "line": 223,
+         "rawfrom": "heather.l.mueck@us.andersen.com\n",
+         "source": "valid",
+         "to": "Chandler, Bob"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/hayslett-r/sent_items/122.",
+   "hops": [
+      {
+         "from": "rod.hayslett@enron.com",
+         "line": 4,
+         "rawfrom": "rod.hayslett@enron.com\r\n",
+         "source": "valid",
+         "to": "kathy.campos@enron.com"
+      },
+      {
+         "from": "gary.allen@enron.com",
+         "line": 24,
+         "rawfrom": "Allen, Gary <Gary.Allen@ENRON.com>\n",
+         "source": "email",
+         "to": "Hayslett, Rod <Rod.Hayslett@ENRON.com>"
+      },
+      {
+         "from": "haysletr@txucom.net",
+         "line": 55,
+         "rawfrom": "ROD HAYSLETT [mailto:haysletr@txucom.net]\n",
+         "source": "email",
+         "to": "Lowry, Phil"
+      },
+      {
+         "from": "8778044255@skytel.com",
+         "line": 63,
+         "rawfrom": "8778044255@skytel.com [mailto:8778044255@skytel.com]\n",
+         "source": "email",
+         "to": "haysletr@flash.net"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/hayslett-r/projects/azurix/20.",
+   "hops": [
+      {
+         "from": "mark.watts@wessexwater.co.uk",
+         "line": 4,
+         "rawfrom": "mark.watts@wessexwater.co.uk\r\n",
+         "source": "valid",
+         "to": "l..bouillion@enron.com, watts.mark@enron.com, watts.mark@enron.com"
+      },
+      {
+         "from": "james.l.bouillion@enron.com",
+         "line": 62,
+         "rawfrom": "James.L.Bouillion@enron.com [mailto:James.L.Bouillion@enron.com]\n",
+         "source": "email",
+         "to": "mark.watts@wessexwater.co.uk; mark.watts@wessexwater.co.uk"
+      },
+      {
+         "from": "mark.watts@wessexwater.co.uk",
+         "line": 80,
+         "rawfrom": "  Mark Watts <mark.watts@wessexwater.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Bouillion, James L.; Mark Watts"
+      },
+      {
+         "from": "james.l.bouillion@enron.com",
+         "line": 96,
+         "rawfrom": "James.L.Bouillion@enron.com [mailto:James.L.Bouillion@enron.com]\n",
+         "source": "email",
+         "to": "mark.watts@wessexwater.co.uk"
+      },
+      {
+         "from": "mark.watts@wessexwater.co.uk",
+         "line": 160,
+         "rawfrom": "  Mark Watts <mark.watts@wessexwater.co.uk>@ENRON\n",
+         "source": "email",
+         "to": "Bouillion, James L."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/hayslett-r/projects/risk/5.",
+   "hops": [
+      {
+         "from": "keith.harris@wessexwater.co.uk",
+         "line": 4,
+         "rawfrom": "keith.harris@wessexwater.co.uk\r\n",
+         "source": "valid",
+         "to": "rod.hayslett@enron.com"
+      },
+      {
+         "from": "rod.hayslett@enron.com",
+         "line": 27,
+         "rawfrom": "Hayslett, Rod [mailto:Rod.Hayslett@ENRON.com]\n",
+         "source": "email",
+         "to": "Keith Harris"
+      },
+      {
+         "from": "keith.harris@wessexwater.co.uk",
+         "line": 42,
+         "rawfrom": "Keith Harris [mailto:keith.harris@wessexwater.co.uk]\n",
+         "source": "email",
+         "to": "Rod Hayslett (E-mail)"
+      },
+      {
+         "from": "rod.hayslett@enron.com",
+         "line": 96,
+         "rawfrom": "Hayslett, Rod [mailto:Rod.Hayslett@ENRON.com]\n",
+         "source": "email",
+         "to": "Valach, William; Cherry, Paul; Ralph, Susan; Keith Harris (E-mail)"
+      }
+   ],
+   "skipped": 2
+}
+]

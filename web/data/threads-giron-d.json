@@ -1,0 +1,5139 @@
+[
+{
+   "file": "/home/jb/maildir/giron-d/inbox/216.",
+   "hops": [
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 4,
+         "rawfrom": "david.plaisance@us.pwcglobal.com\r\n",
+         "source": "valid",
+         "to": "c..giron@enron.com"
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 41,
+         "rawfrom": "Darron.C.Giron@enron.com on 08/30/2001 11:23:27 AM\n",
+         "source": "email",
+         "to": "David Plaisance/US/FAS/PwC@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 71,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 111,
+         "rawfrom": "Darron.C.Giron@enron.com on 08/27/2001 03:33:17 PM\n",
+         "source": "email",
+         "to": "David Plaisance/US/FAS/PwC@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 141,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 178,
+         "rawfrom": "Darron.C.Giron@enron.com on 08/27/2001 12:38:47 PM\n",
+         "source": "email",
+         "to": "David Plaisance/US/FAS/PwC@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 208,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 226,
+         "rawfrom": "Darron.C.Giron@enron.com on 08/22/2001 10:42:07 AM\n",
+         "source": "email",
+         "to": "David Plaisance/US/FAS/PwC@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 262,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 278,
+         "rawfrom": "Darron.C.Giron@enron.com on 07/23/2001 09:37:06 AM\n",
+         "source": "email",
+         "to": "David Plaisance/FAS/Price Waterhouse@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 308,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "dgiron@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/inbox/369.",
+   "hops": [
+      {
+         "from": "bryant.frihart@enron.com",
+         "line": 4,
+         "rawfrom": "bryant.frihart@enron.com\r\n",
+         "source": "valid",
+         "to": "c..giron@enron.com"
+      },
+      {
+         "from": "roger_tisdale@oxy.com",
+         "line": 22,
+         "rawfrom": "Roger_Tisdale@oxy.com [mailto:Roger_Tisdale@oxy.com]\n",
+         "source": "email",
+         "to": "Frihart, Bryant"
+      },
+      {
+         "from": "bryant.frihart@enron.com",
+         "line": 32,
+         "rawfrom": "Frihart, Bryant [mailto:bryant.frihart@ENRON.com]\n",
+         "source": "email",
+         "to": "Roger_Tisdale@oxy.com"
+      },
+      {
+         "from": "roger_tisdale@oxy.com",
+         "line": 41,
+         "rawfrom": "Roger_Tisdale@oxy.com [mailto:Roger_Tisdale@oxy.com]\n",
+         "source": "email",
+         "to": "Dave_Laughry@oxy.com; Mike_Platz@oxy.com; Tom.Mayfield@williams.com;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/inbox/392.",
+   "hops": [
+      {
+         "from": "birgit@hiresynergy.com",
+         "line": 4,
+         "rawfrom": "birgit@hiresynergy.com\r\n",
+         "source": "valid",
+         "to": "c..giron@enron.com"
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 24,
+         "rawfrom": "Darron.C.Giron@enron.com [mailto:Darron.C.Giron@enron.com]\n",
+         "source": "email",
+         "to": "birgit@hiresynergy.com"
+      },
+      {
+         "from": "birgit@hiresynergy.com",
+         "line": 35,
+         "rawfrom": "  \"Birgit D. Kamps\" <birgit@hiresynergy.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 45,
+         "rawfrom": "Darron.C.Giron@enron.com [mailto:Darron.C.Giron@enron.com]\n",
+         "source": "email",
+         "to": "birgit@hiresynergy.com"
+      },
+      {
+         "from": "birgit@hiresynergy.com",
+         "line": 57,
+         "rawfrom": "  \"Birgit D.Kamps\" <birgit@hiresynergy.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/inbox/401.",
+   "hops": [
+      {
+         "from": "mrichter@us.ibm.com",
+         "line": 4,
+         "rawfrom": "mrichter@us.ibm.com\r\n",
+         "source": "valid",
+         "to": "c..giron@enron.com"
+      },
+      {
+         "from": "mrichter@us.ibm.com",
+         "line": 53,
+         "rawfrom": "  \"Michael Richter\" <mrichter@us.ibm.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "mrichter@us.ibm.com",
+         "line": 81,
+         "rawfrom": "  \"Michael Richter\" <mrichter@us.ibm.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 101,
+         "rawfrom": "Darron.C.Giron@enron.com",
+         "source": "valid",
+         "to": "Michael Richter/Dallas/IBM@IBMUS        |"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/inbox/209.",
+   "hops": [
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 4,
+         "rawfrom": "david.plaisance@us.pwcglobal.com\r\n",
+         "source": "valid",
+         "to": "c..giron@enron.com"
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 30,
+         "rawfrom": "Darron.C.Giron@enron.com on 08/22/2001 10:42:07 AM\n",
+         "source": "email",
+         "to": "David Plaisance/US/FAS/PwC@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 51,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 65,
+         "rawfrom": "Darron.C.Giron@enron.com on 07/23/2001 09:37:06 AM\n",
+         "source": "email",
+         "to": "David Plaisance/FAS/Price Waterhouse@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 87,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "dgiron@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/inbox/176.",
+   "hops": [
+      {
+         "from": "ralphmayers@hotmail.com",
+         "line": 4,
+         "rawfrom": "ralphmayers@hotmail.com\r\n",
+         "source": "valid",
+         "to": "c..giron@enron.com"
+      },
+      {
+         "from": "mailer-daemon@mailboy.enron.com",
+         "line": 21,
+         "rawfrom": "Mail Delivery Subsystem <Mailer-Daemon@mailboy.enron.com>\n",
+         "source": "email",
+         "to": "<ralphmayers@hotmail.com>"
+      },
+      {
+         "from": "c.giron@mailman.enron.com",
+         "line": 35,
+         "rawfrom": "c.giron@mailman.enron.com",
+         "source": "valid",
+         "to": "<c.giron@mailman.enron.com>"
+      },
+      {
+         "from": "ralphmayers@hotmail.com",
+         "line": 52,
+         "rawfrom": "\"ralph mayers\" <ralphmayers@hotmail.com>\n",
+         "source": "email",
+         "to": "c.giron@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/inbox/270.",
+   "hops": [
+      {
+         "from": "bwells@pop.net",
+         "line": 4,
+         "rawfrom": "bwells@pop.net\r\n",
+         "source": "valid",
+         "to": "c..giron@enron.com"
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 27,
+         "rawfrom": "Darron.C.Giron@enron.com [mailto:Darron.C.Giron@enron.com]\n",
+         "source": "email",
+         "to": "bwells@pop.net"
+      },
+      {
+         "from": "bwells@pop.net",
+         "line": 38,
+         "rawfrom": "  \"Bill Wells\" <bwells@pop.net>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 57,
+         "rawfrom": "Giron, Darron C. [mailto:Darron.C.Giron@ENRON.com]\n",
+         "source": "email",
+         "to": "bwells@pop.net"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/inbox/215.",
+   "hops": [
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 4,
+         "rawfrom": "david.plaisance@us.pwcglobal.com\r\n",
+         "source": "valid",
+         "to": "c..giron@enron.com"
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 47,
+         "rawfrom": "Darron.C.Giron@enron.com on 08/27/2001 03:33:17 PM\n",
+         "source": "email",
+         "to": "David Plaisance/US/FAS/PwC@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 73,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 106,
+         "rawfrom": "Darron.C.Giron@enron.com on 08/27/2001 12:38:47 PM\n",
+         "source": "email",
+         "to": "David Plaisance/US/FAS/PwC@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 131,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 149,
+         "rawfrom": "Darron.C.Giron@enron.com on 08/22/2001 10:42:07 AM\n",
+         "source": "email",
+         "to": "David Plaisance/US/FAS/PwC@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 181,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 197,
+         "rawfrom": "Darron.C.Giron@enron.com on 07/23/2001 09:37:06 AM\n",
+         "source": "email",
+         "to": "David Plaisance/FAS/Price Waterhouse@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 224,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "dgiron@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/inbox/173.",
+   "hops": [
+      {
+         "from": "cgiron@mindspring.com",
+         "line": 4,
+         "rawfrom": "cgiron@mindspring.com\r\n",
+         "source": "valid",
+         "to": "angela.teerwilliams@gte.net, dgiron@enron.com, dgiron1@pdq.net,"
+      },
+      {
+         "from": "ronniegiron@yahoo.com",
+         "line": 29,
+         "rawfrom": "Ronnie Giron <ronniegiron@yahoo.com>\n",
+         "source": "email",
+         "to": "Susa Schmidt <susa.schmidt@t-online.de>,  Kevin Skillin <skillinkd2@state.gov>, Deborah Tice <datice2000@yahoo.com>,  Ann Wilensky <AnnWilen@aol.com>, Mark Jacobson <mark@hn2.com>,  KAREN YANETH LOPEZ MONTOYA <karen_lopezm@hotmail.com>,  \"Beth Ann\" O'Donnell <bao2@duke.edu>,  Filomena OLeary <filomena@foleary.freeserve.co.uk>,  \"Ing. Jorge Ugalde Olloqui\" <argos@queretaro.podernet.com.mx>,  Manuel Orantes <juancho629@juno.com>,  Howard Osborn <hosborn@worldnet.att.net>,  Edward Parson <eparson@miamiair.com>,  Gladys Aguilar de Ramos <gladguilar@yahoo.com>, Randi <rando1231@msn.com>,  Maria Araiza <araizam@valero.com>, Kathy Atherton <kg531@yahoo.com>,  Waunell Bullard <waunell@yahoo.com>, Jim Douglas <douglasj@swbell.net>,  Ricardo Escoto <rescoto@hn2.com>,  \"Carlos @psiusa.com Giron\" <cgiron@mindspring.com>,  Kristi Giron <Kristi.Giron@cfisd.net>"
+      },
+      {
+         "from": "douglasj@swbell.net",
+         "line": 49,
+         "rawfrom": "Jim Douglas <douglasj@swbell.net>\n",
+         "source": "email",
+         "to": "\"Ronniegiron@yahoo.com\" <ronniegiron@yahoo.com>"
+      },
+      {
+         "from": "brdalton@worldnet.att.net",
+         "line": 66,
+         "rawfrom": "Brenda Dalton <brdalton@worldnet.att.net>\n",
+         "source": "email",
+         "to": "John Douglas <audioguy@ev1.net>, Jac-John Sutton <jjsutton1@worldnet.att.net>, noragp@hotmail.com, spmarvin@hotmail.com, Teachingroze@aol.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/inbox/212.",
+   "hops": [
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 4,
+         "rawfrom": "david.plaisance@us.pwcglobal.com\r\n",
+         "source": "valid",
+         "to": "c..giron@enron.com"
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 42,
+         "rawfrom": "Darron.C.Giron@enron.com on 08/27/2001 12:38:47 PM\n",
+         "source": "email",
+         "to": "David Plaisance/US/FAS/PwC@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 63,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 80,
+         "rawfrom": "Darron.C.Giron@enron.com on 08/22/2001 10:42:07 AM\n",
+         "source": "email",
+         "to": "David Plaisance/US/FAS/PwC@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 106,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 121,
+         "rawfrom": "Darron.C.Giron@enron.com on 07/23/2001 09:37:06 AM\n",
+         "source": "email",
+         "to": "David Plaisance/FAS/Price Waterhouse@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 145,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "dgiron@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/inbox/120.",
+   "hops": [
+      {
+         "from": "jhliberman@pclient.ml.com",
+         "line": 4,
+         "rawfrom": "jhliberman@pclient.ml.com\r\n",
+         "source": "valid",
+         "to": "c..giron@enron.com"
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 27,
+         "rawfrom": "Darron.C.Giron@enron.com [mailto:Darron.C.Giron@enron.com]\n",
+         "source": "email",
+         "to": "JHliberman@pclient.ml.com"
+      },
+      {
+         "from": "jhliberman@pclient.ml.com",
+         "line": 45,
+         "rawfrom": "  \"liberman, Jay H (DALLAS EY 586)\" <JHliberman@pclient.ml.com>\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 65,
+         "rawfrom": "Giron, Darron C. [mailto:Darron.C.Giron@ENRON.com]\n",
+         "source": "email",
+         "to": "Jay Liberman (E-mail)"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/inbox/441.",
+   "hops": [
+      {
+         "from": "dkenne@houston.rr.com",
+         "line": 4,
+         "rawfrom": "dkenne@houston.rr.com\r\n",
+         "source": "valid",
+         "to": "c..giron@enron.com"
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 27,
+         "rawfrom": "<Darron.C.Giron@enron.com>\n",
+         "source": "email",
+         "to": "<dkenne@houston.rr.com>"
+      },
+      {
+         "from": "dkenne@houston.rr.com",
+         "line": 45,
+         "rawfrom": "  \"Dawn and Gary Wilson\" <dkenne@houston.rr.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 53,
+         "rawfrom": "<Darron.C.Giron@enron.com>\n",
+         "source": "email",
+         "to": "<dkenne@houston.rr.com>"
+      },
+      {
+         "from": "dkenne@houston.rr.com",
+         "line": 65,
+         "rawfrom": "  \"Dawn and Gary Wilson\" <dkenne@houston.rr.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M.; Sweitzer, Tara; Bagwell, Jennifer J;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/inbox/199.",
+   "hops": [
+      {
+         "from": "scott_crowell@hotmail.com",
+         "line": 4,
+         "rawfrom": "scott_crowell@hotmail.com\r\n",
+         "source": "valid",
+         "to": "c..giron@enron.com"
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 27,
+         "rawfrom": "Darron.C.Giron@enron.com\n",
+         "source": "valid",
+         "to": "scott_crowell@hotmail.com"
+      },
+      {
+         "from": "scott_crowell@hotmail.com",
+         "line": 46,
+         "rawfrom": "  \"scott crowell\" <scott_crowell@hotmail.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 57,
+         "rawfrom": "Darron.C.Giron@enron.com\n",
+         "source": "valid",
+         "to": "scott_crowell@hotmail.com"
+      },
+      {
+         "from": "scott_crowell@hotmail.com",
+         "line": 85,
+         "rawfrom": "  \"scott crowell\" <scott_crowell@hotmail.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/all_documents/405.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "yhaynes@mindspring.com"
+      },
+      {
+         "from": "yhaynes@mindspring.com",
+         "line": 25,
+         "rawfrom": "\"Yvonne Haynes\" <yhaynes@mindspring.com> on 01/09/2001 09:43:26 AM\n",
+         "source": "email",
+         "to": "\"Josh Penick\" <josh@intranetdesigns.com>, \"Jennifer Iu\""
+      },
+      {
+         "from": "jflar@exchange.ml.com",
+         "line": 38,
+         "rawfrom": "Flar, Jason (SIG-SDG) <JFlar@exchange.ml.com>\n",
+         "source": "email",
+         "to": "Bankerd, Victoria (ICD-SF) <VBankerd@exchange.ml.com>; Megow, Joseph A"
+      },
+      {
+         "from": "jflar@bloomberg.net",
+         "line": 57,
+         "rawfrom": "JASON FLAR, MERRILL LYNCH/SAN DI [SMTP:JFLAR@bloomberg.net]\n",
+         "source": "email",
+         "to": "JFLAR@EXCHANGE.ML.COM"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/all_documents/690.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "greg.couch@enron.com, phillip.love@enron.com, jackson.logan@enron.com"
+      },
+      {
+         "from": "ronniegiron@yahoo.com",
+         "line": 31,
+         "rawfrom": "Ronnie Giron <ronniegiron@yahoo.com>\n",
+         "source": "email",
+         "to": "Carl Swan <rcantrell@potomacenergy.com>; Georges Tadros"
+      },
+      {
+         "from": "kathya@rabey.com",
+         "line": 64,
+         "rawfrom": "Kathy Atherton <KathyA@RABEY.com>\n",
+         "source": "email",
+         "to": "\"'ronniegiron@yahoo.com'\" <ronniegiron@yahoo.com>"
+      },
+      {
+         "from": "wilensky.bob@littondsd.com",
+         "line": 78,
+         "rawfrom": "Wilensky, Bob  [mailto:Wilensky.Bob@LittonDSD.com]\n",
+         "source": "email",
+         "to": "Hank Coolidge (E-mail); Palmertree,  Kenneth"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/all_documents/567.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "kristi.giron@cfisd.net, smmayers@earthlink.net"
+      },
+      {
+         "from": "phil.hooper@msl.redstone.army.mil",
+         "line": 46,
+         "rawfrom": "\"Phil Hooper\" <Phil.Hooper@msl.redstone.army.mil>\n",
+         "source": "email",
+         "to": "<km5km@avsia.com>, \"Bob Hammons\" <Bob.Hammons@msl.redstone.army.mil>,"
+      },
+      {
+         "from": "greg.parker@rdec.redstone.army.mil",
+         "line": 63,
+         "rawfrom": "\"Parker, Greg\" <Greg.Parker@rdec.redstone.army.mil>\n",
+         "source": "email",
+         "to": "\"Dillon, John T\" <John.Dillon@rdec.redstone.army.mil>,        \"Owen, Phil"
+      },
+      {
+         "from": "dlhorst@bellsouth.net",
+         "line": 93,
+         "rawfrom": "Derek Horst [mailto:dlhorst@bellsouth.net]\n",
+         "source": "email",
+         "to": "Amy Williams; Lewis White; Darryl Wells; Stan Tillman; Rick Shotts; Mark"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/all_documents/714.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "jackson.logan@enron.com"
+      },
+      {
+         "from": "jrham@worldnet.att.net",
+         "line": 73,
+         "rawfrom": "\"Jim  Hamilton\" <jrham@worldnet.att.net>\n",
+         "source": "email",
+         "to": "\"Alton Smith\" <altsmith@cisco.com>"
+      },
+      {
+         "from": "mtdburnett@hotmail.com",
+         "line": 90,
+         "rawfrom": "Martin Burnett <mtdburnett@hotmail.com>\n",
+         "source": "email",
+         "to": "barandbag@mediaone.net <barandbag@mediaone.net>; P015@persnet.navy.mil"
+      },
+      {
+         "from": "sbeanokie@tah-usa.net",
+         "line": 133,
+         "rawfrom": "\"Joe & Norma Morris\" <sbeanokie@tah-usa.net>\n",
+         "source": "email",
+         "to": "Undisclosed-Recipient:;@tah-usa.net"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/all_documents/205.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "phillip.love@enron.com, errol.mclaughlin@enron.com, kam.keiser@enron.com,"
+      },
+      {
+         "from": "gbohan@home.com",
+         "line": 47,
+         "rawfrom": "\"LIGHTHOUSE DESIGN\" <GBOHAN@HOME.COM>\n",
+         "source": "email",
+         "to": "\"Carlos and Yvonne Giron\" <cgiron@mindspring.com>"
+      },
+      {
+         "from": "jeff@hightechpackaging.com",
+         "line": 66,
+         "rawfrom": "Jeff Harrell  [mailto:jeff@hightechpackaging.com]\n",
+         "source": "email",
+         "to": "Tim Wiggins; Glenn Bohan; Dallas; Mike  Sasser"
+      },
+      {
+         "from": "gkay@jenkens.com",
+         "line": 82,
+         "rawfrom": "Kay,  Geoffrey [mailto:gkay@jenkens.com]  \n",
+         "source": "email",
+         "to": "Alec Van Hook (E-mail); Amy Burton (E-mail); Blain Roberts  (E-mail);"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/all_documents/716.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "greg.couch@enron.com"
+      },
+      {
+         "from": "jrham@worldnet.att.net",
+         "line": 47,
+         "rawfrom": "\"Jim  Hamilton\" <jrham@worldnet.att.net>\n",
+         "source": "email",
+         "to": "\"Alton Smith\" <altsmith@cisco.com>"
+      },
+      {
+         "from": "mtdburnett@hotmail.com",
+         "line": 64,
+         "rawfrom": "Martin Burnett <mtdburnett@hotmail.com>\n",
+         "source": "email",
+         "to": "barandbag@mediaone.net <barandbag@mediaone.net>; P015@persnet.navy.mil"
+      },
+      {
+         "from": "sbeanokie@tah-usa.net",
+         "line": 107,
+         "rawfrom": "\"Joe & Norma Morris\" <sbeanokie@tah-usa.net>\n",
+         "source": "email",
+         "to": "Undisclosed-Recipient:;@tah-usa.net"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/all_documents/208.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "patrick.ryder@enron.com, smmayers@earthlink.net, scott.crowell@us.cgeyc.com,"
+      },
+      {
+         "from": "grant.w@mindspring.com",
+         "line": 44,
+         "rawfrom": "\"grant whipple\" <grant.w@mindspring.com>\n",
+         "source": "email",
+         "to": "\"Carlos Giron\" <cgiron@mindspring.com>"
+      },
+      {
+         "from": "glennmill@juno.com",
+         "line": 82,
+         "rawfrom": "Glenn A  Miller [mailto:glennmill@juno.com] \n",
+         "source": "email",
+         "to": "JanetMoshier@cruisesinc.com; Piponi@aol.com; kperry@family.net;"
+      },
+      {
+         "from": "tpharry@flash.net",
+         "line": 93,
+         "rawfrom": "Terri Harry <tpharry@flash.net> \n",
+         "source": "email",
+         "to": "Undisclosed-recipients:;"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 113,
+         "rawfrom": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com> \n",
+         "source": "email",
+         "to": "\"'Jonah H.  Peretti'\" <peretti@media.mit.edu>"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 134,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu>  \n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com>"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 157,
+         "rawfrom": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com> \n",
+         "source": "email",
+         "to": "\"'Jonah H.  Peretti'\" <peretti@media.mit.edu>"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 171,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu>  \n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com>"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 209,
+         "rawfrom": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com> \n",
+         "source": "email",
+         "to": "\"'Jonah H.  Peretti'\" <peretti@media.mit.edu>"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 238,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu>  \n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/all_documents/776.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "anabel.soria@travelpark.com"
+      },
+      {
+         "from": "anabel.soria@travelpark.com",
+         "line": 25,
+         "rawfrom": "Anabel Soria <anabel.soria@travelpark.com> on 08/11/2000 10:00:22 AM\n",
+         "source": "email",
+         "to": "\"'Darron.C.Giron@enron.com'\" <Darron.C.Giron@enron.com>"
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 40,
+         "rawfrom": " Darron.C.Giron@enron.com[SMTP:Darron.C.Giron@enron.com]\n",
+         "source": "email",
+         "to": "anabel.soria@travelpark.com"
+      },
+      {
+         "from": "anabel.soria@travelpark.com",
+         "line": 56,
+         "rawfrom": "anabel.soria@travelpark.com",
+         "source": "valid",
+         "to": "\"'Darron.c.giron@enron.com'\" <Darron.c.giron@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/all_documents/739.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@pdq.net"
+      },
+      {
+         "from": "jvalent@entergy.com",
+         "line": 47,
+         "rawfrom": "\"Valentz, Jason\" <JValent@entergy.com>\n",
+         "source": "email",
+         "to": "\"'Ben Raymond'\" <bray777@swbell.net>, \"'Chuck Wall'\""
+      },
+      {
+         "from": "washingtont2@epenergy.com",
+         "line": 85,
+         "rawfrom": "Washington, Tony [mailto:WashingtonT2@epenergy.com]\n",
+         "source": "email",
+         "to": "'jdavi12@entergy.com'"
+      },
+      {
+         "from": "mlipman@natsource.com",
+         "line": 102,
+         "rawfrom": "Matthew Lipman [mailto:mlipman@natsource.com]\n",
+         "source": "email",
+         "to": "'llbloom@alum.mit.edu'; 'jal54@aol.com'"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/all_documents/802.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@pdq.net"
+      },
+      {
+         "from": "dkerr2@email.msn.com",
+         "line": 38,
+         "rawfrom": "\"dkerr2\" <dkerr2@email.msn.com>\n",
+         "source": "email",
+         "to": "<hollyw@email.msn.com>"
+      },
+      {
+         "from": "mandyh@warpwebtech.com",
+         "line": 46,
+         "rawfrom": "\"Amanda M. Hissey\" <mandyh@warpwebtech.com>\n",
+         "source": "email",
+         "to": "\"Trace Torrence\" <tracer1@pdq.net>; \"Rhonda Spaulding\""
+      },
+      {
+         "from": "jimreniers@email.msn.com",
+         "line": 59,
+         "rawfrom": "jimreniers [mailto:jimreniers@email.msn.com]\n",
+         "source": "email",
+         "to": "Beridon Leon; Bowman, Bill; Davis, Bob L; Davis bob HOME; Fairchild"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/all_documents/551.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@pdq.net"
+      },
+      {
+         "from": "bobbyo16@hotmail.com",
+         "line": 44,
+         "rawfrom": "\"Bobby O\" <bobbyo16@hotmail.com>\n",
+         "source": "email",
+         "to": "bhahn1@lsu.edu, bustma@hotmail.com, mikegiambrone@netscape.net,"
+      },
+      {
+         "from": "pktempleton@hotmail.com",
+         "line": 71,
+         "rawfrom": "\"Parker Templeton\" <pktempleton@hotmail.com>\n",
+         "source": "email",
+         "to": "Trenmat@aol.com, e-haik@home.com, brianroleblanc@aol.com,"
+      },
+      {
+         "from": "rsunstr@aol.com",
+         "line": 81,
+         "rawfrom": "Rsunstr@aol.com\n",
+         "source": "valid",
+         "to": "zz1286@hotmail.com, Richard.Bueche@jcbradford.com,"
+      },
+      {
+         "from": "bmess6944@aol.com",
+         "line": 102,
+         "rawfrom": "BMess6944@aol.com\n",
+         "source": "valid",
+         "to": "paxtonalbert@hotmail.com, brettbonnecaze@hotmail.com,"
+      },
+      {
+         "from": "bobbyo16@hotmail.com",
+         "line": 129,
+         "rawfrom": "\"Bobby O\" <bobbyo16@hotmail.com>\n",
+         "source": "email",
+         "to": "bhahn1@lsu.edu, bustma@hotmail.com, mikegiambrone@netscape.net,"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/all_documents/25.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "kwpope@pdq.net"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 39,
+         "rawfrom": "\"Kent & Karen Pope\" <kwpope@pdq.net> on 05/10/2001 11:39:45 AM\n",
+         "source": "email",
+         "to": "\"Dan Kessler\" <dan@vcrhouston.com>, \"Darron C. Giron\""
+      },
+      {
+         "from": "elizabeth.watsky@bakeratlas.com",
+         "line": 50,
+         "rawfrom": "Watsky, Elizabeth <Elizabeth.Watsky@bakeratlas.com>\n",
+         "source": "email",
+         "to": "'yvette_sepulveda@foleys.com' <yvette_sepulveda@foleys.com>;"
+      },
+      {
+         "from": "msyoung@tmh.tmc.edu",
+         "line": 61,
+         "rawfrom": "Young, Melissa [mailto:MSYoung@tmh.tmc.edu]\n",
+         "source": "email",
+         "to": "'Cheri Thomas'; 'Dad'; 'Elizabeth - work'; 'Stephen-Home'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/all_documents/765.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@pdq.net"
+      },
+      {
+         "from": "dkerr2@email.msn.com",
+         "line": 37,
+         "rawfrom": "\"dkerr2\" <dkerr2@email.msn.com>\n",
+         "source": "email",
+         "to": "<hollyw@email.msn.com>"
+      },
+      {
+         "from": "stepht@nailor.com",
+         "line": 45,
+         "rawfrom": "\"Stephanie Thompson\" <stepht@nailor.com>\n",
+         "source": "email",
+         "to": "\"Ian Faria\" <farrell74@hotmail.com>; \"Duke Keller\""
+      },
+      {
+         "from": "victor.hall@wilcom.com",
+         "line": 65,
+         "rawfrom": "Hall, Victor <Victor.Hall@Wilcom.com>\n",
+         "source": "email",
+         "to": "'JNETT43@aol.com' <JNETT43@aol.com>; 'Jones, Bud'"
+      },
+      {
+         "from": "thebrat1964@hotmail.com",
+         "line": 89,
+         "rawfrom": "Cheryl H [mailto:thebrat1964@hotmail.com]\n",
+         "source": "email",
+         "to": "ajpie4@yahoo.com; victor.hall@wilcom.com; od2946@aol.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/all_documents/849.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "hollyw@email.msn.com, bwallace@tcast.com, smmayers@earthlink.net,"
+      },
+      {
+         "from": "tthieman@bright.net",
+         "line": 58,
+         "rawfrom": "Sandra Thieman <tthieman@bright.net>\n",
+         "source": "email",
+         "to": "michelle thieman <thieman@bright.net>; Nancy & Larry Roettger"
+      },
+      {
+         "from": "bjohnson1@accesstoledo.com",
+         "line": 72,
+         "rawfrom": "Becky <bjohnson1@accesstoledo.com>\n",
+         "source": "email",
+         "to": "Judy <jtb@defnet.com>; Paul E. Brose, M.D. <pbrose@bright.net>; Pam"
+      },
+      {
+         "from": "bsterling@cconnect.net",
+         "line": 83,
+         "rawfrom": "       Bill Sterling, bsterling@cconnect.net\n",
+         "source": "email",
+         "to": "Becky, bjohnson1@accesstoledo.com"
+      },
+      {
+         "from": "sterlingmichelle@hotmail.com",
+         "line": 93,
+         "rawfrom": "\"michelle sterling\" <sterlingmichelle@hotmail.com>\n",
+         "source": "email",
+         "to": "<kadlac@earthlink.net>; <brenda_mcclain@hotmail.com>;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/all_documents/15.",
+   "hops": [
+      {
+         "from": "kwpope@pdq.net",
+         "line": 4,
+         "rawfrom": "kwpope@pdq.net\r\n",
+         "source": "valid",
+         "to": "darron.c.giron@enron.com"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 23,
+         "rawfrom": "Kent & Karen Pope <kwpope@pdq.net>\n",
+         "source": "email",
+         "to": "Dan Kessler <Dan@vcrhouston.com>"
+      },
+      {
+         "from": "dan@vcrhouston.com",
+         "line": 34,
+         "rawfrom": "Dan Kessler <Dan@vcrhouston.com>\n",
+         "source": "email",
+         "to": "Kent & Karen Pope <kwpope@pdq.net>"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 57,
+         "rawfrom": "Kent & Karen Pope [mailto:kwpope@pdq.net]\n",
+         "source": "email",
+         "to": "Dan Kessler"
+      },
+      {
+         "from": "elizabeth.watsky@bakeratlas.com",
+         "line": 64,
+         "rawfrom": "Watsky, Elizabeth <Elizabeth.Watsky@bakeratlas.com>\n",
+         "source": "email",
+         "to": "'Kent & Karen Pope' <kwpope@pdq.net>"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 152,
+         "rawfrom": "Kent & Karen Pope [mailto:kwpope@pdq.net]\n",
+         "source": "email",
+         "to": "Watsky, Elizabeth"
+      },
+      {
+         "from": "elizabeth.watsky@bakeratlas.com",
+         "line": 160,
+         "rawfrom": "Watsky, Elizabeth <Elizabeth.Watsky@bakeratlas.com>\n",
+         "source": "email",
+         "to": "'yvette_sepulveda@foleys.com' <yvette_sepulveda@foleys.com>;"
+      },
+      {
+         "from": "msyoung@tmh.tmc.edu",
+         "line": 171,
+         "rawfrom": "Young, Melissa [mailto:MSYoung@tmh.tmc.edu]\n",
+         "source": "email",
+         "to": "'Cheri Thomas'; 'Dad'; 'Elizabeth - work'; 'Stephen-Home'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/all_documents/18.",
+   "hops": [
+      {
+         "from": "cgiron@mindspring.com",
+         "line": 4,
+         "rawfrom": "cgiron@mindspring.com\r\n",
+         "source": "valid",
+         "to": "angela.teerwilliams@gte.net, dgiron@enron.com, dgiron1@pdq.net,"
+      },
+      {
+         "from": "ronniegiron@yahoo.com",
+         "line": 31,
+         "rawfrom": "Ronnie Giron <ronniegiron@yahoo.com>\n",
+         "source": "email",
+         "to": "Susa Schmidt <susa.schmidt@t-online.de>,  Kevin Skillin"
+      },
+      {
+         "from": "douglasj@swbell.net",
+         "line": 68,
+         "rawfrom": "Jim Douglas <douglasj@swbell.net>\n",
+         "source": "email",
+         "to": "\"Ronniegiron@yahoo.com\" <ronniegiron@yahoo.com>"
+      },
+      {
+         "from": "brdalton@worldnet.att.net",
+         "line": 96,
+         "rawfrom": "Brenda Dalton <brdalton@worldnet.att.net>\n",
+         "source": "email",
+         "to": "John Douglas <audioguy@ev1.net>, Jac-John Sutton"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/all_documents/12.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "kwpope@pdq.net"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 26,
+         "rawfrom": "\"Kent & Karen Pope\" <kwpope@pdq.net> on 05/14/2001 07:59:53 AM\n",
+         "source": "email",
+         "to": "\"Darron C. Giron\" <Darron.C.Giron@enron.com>"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 37,
+         "rawfrom": "Kent & Karen Pope <kwpope@pdq.net>\n",
+         "source": "email",
+         "to": "Dan Kessler <Dan@vcrhouston.com>"
+      },
+      {
+         "from": "dan@vcrhouston.com",
+         "line": 48,
+         "rawfrom": "Dan Kessler <Dan@vcrhouston.com>\n",
+         "source": "email",
+         "to": "Kent & Karen Pope <kwpope@pdq.net>"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 71,
+         "rawfrom": "Kent & Karen Pope [mailto:kwpope@pdq.net]\n",
+         "source": "email",
+         "to": "Dan Kessler"
+      },
+      {
+         "from": "elizabeth.watsky@bakeratlas.com",
+         "line": 78,
+         "rawfrom": "Watsky, Elizabeth <Elizabeth.Watsky@bakeratlas.com>\n",
+         "source": "email",
+         "to": "'Kent & Karen Pope' <kwpope@pdq.net>"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 166,
+         "rawfrom": "Kent & Karen Pope [mailto:kwpope@pdq.net]\n",
+         "source": "email",
+         "to": "Watsky, Elizabeth"
+      },
+      {
+         "from": "elizabeth.watsky@bakeratlas.com",
+         "line": 174,
+         "rawfrom": "Watsky, Elizabeth <Elizabeth.Watsky@bakeratlas.com>\n",
+         "source": "email",
+         "to": "'yvette_sepulveda@foleys.com' <yvette_sepulveda@foleys.com>;"
+      },
+      {
+         "from": "msyoung@tmh.tmc.edu",
+         "line": 185,
+         "rawfrom": "Young, Melissa [mailto:MSYoung@tmh.tmc.edu]\n",
+         "source": "email",
+         "to": "'Cheri Thomas'; 'Dad'; 'Elizabeth - work'; 'Stephen-Home'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/all_documents/487.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "kristi.giron@cfisd.net, phillip.love@enron.com, dgiron1@pdq.net,"
+      },
+      {
+         "from": "rjones562@earthlink.net",
+         "line": 39,
+         "rawfrom": "\"Ronald Jones\" <rjones562@earthlink.net>\n",
+         "source": "email",
+         "to": "\"Scott\" <ssmith@mariner-energy.com>; \"Rochelle\""
+      },
+      {
+         "from": "gudeaw@email.msn.com",
+         "line": 50,
+         "rawfrom": "\"gudeaw\" <gudeaw@email.msn.com>\n",
+         "source": "email",
+         "to": "\"Mario Smith\" <mariofsmith@msn.com>; \"Mario Augusto Silva\""
+      },
+      {
+         "from": "bill.dean@west.boeing.com",
+         "line": 88,
+         "rawfrom": "EXT-Dean, Bill T [SMTP:Bill.Dean@West.Boeing.com]\n",
+         "source": "email",
+         "to": "'Bernie Drake'"
+      },
+      {
+         "from": "liamwong@mindspring.com",
+         "line": 97,
+         "rawfrom": "Liam Wong [SMTP:liamwong@mindspring.com]\n",
+         "source": "email",
+         "to": "liamwong@mindspring.com <mailto:liamwong@mindspring.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/all_documents/512.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@pdq.net"
+      },
+      {
+         "from": "swarre02@coair.com",
+         "line": 43,
+         "rawfrom": "\"Warren, Stacy\" <swarre02@coair.com>\n",
+         "source": "email",
+         "to": "\"Ugly Boo (E-mail)\" <hollyw@email.msn.com>; \"Wanda Harding (E-mail)\""
+      },
+      {
+         "from": "pranshaw@ssusa.cc",
+         "line": 56,
+         "rawfrom": "Pete Ranshaw [mailto:pranshaw@ssusa.cc]\n",
+         "source": "email",
+         "to": "MARY JANE ADAMS; GreenEyes4949@aol.com"
+      },
+      {
+         "from": "bforr@ssusa.cc",
+         "line": 65,
+         "rawfrom": "Ben Orr [mailto:bforr@ssusa.cc]\n",
+         "source": "email",
+         "to": "Judy Camp; Todd Conger; Alice DeBuhr; Jim Faughn; Jeff Hartgrove;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/all_documents/254.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "hollyw@email.msn.com, kristi.giron@cfisd.net, smmayers@earthlink.net"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 55,
+         "rawfrom": "\"Love, Dianne\" <love@cl.uh.edu>\n",
+         "source": "email",
+         "to": "\"'plove570@cs.com'\" <plove570@cs.com>"
+      },
+      {
+         "from": "annie@ala.nu",
+         "line": 67,
+         "rawfrom": "Andrea Oliver [SMTP:annie@ala.nu]\n",
+         "source": "email",
+         "to": "Shirley Mitchell"
+      },
+      {
+         "from": "leila@ala.nu",
+         "line": 74,
+         "rawfrom": "\"Leila\" <leila@ala.nu>\n",
+         "source": "email",
+         "to": "\"betty stringfellow\" <bstring@ala.nu>; \"bonnie posey\""
+      },
+      {
+         "from": "te066538@yahoo.com",
+         "line": 84,
+         "rawfrom": "E.J. Eiteljorge <te066538@yahoo.com>\n",
+         "source": "email",
+         "to": "Jan Fox <janbillfox@yahoo.com>; Teri Gillette <bladetlg@aol.com>;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/all_documents/800.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@pdq.net"
+      },
+      {
+         "from": "gmind@icsi.net",
+         "line": 34,
+         "rawfrom": "\"Debbie Hall\" <gmind@icsi.net>\n",
+         "source": "email",
+         "to": "\"C & M\" <onealexi2@aol.com>; \"hollyw\" <hollyw@email.msn.com>; \"Jodi"
+      },
+      {
+         "from": "bagmanhpb@aol.com",
+         "line": 56,
+         "rawfrom": "BagManHPB@aol.com\n",
+         "source": "valid",
+         "to": "dadkins7011@email.msn.com, sli-cer@email.msn.com,"
+      },
+      {
+         "from": "kmturner@flex.net",
+         "line": 78,
+         "rawfrom": "\"Ken Turner\" <kmturner@flex.net>\n",
+         "source": "email",
+         "to": "\"Ann Turner (E-mail)\" <abturner@flex.net>,        \"Boss (E-mail)\""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent/670.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@pdq.net"
+      },
+      {
+         "from": "jvalent@entergy.com",
+         "line": 47,
+         "rawfrom": "\"Valentz, Jason\" <JValent@entergy.com>\n",
+         "source": "email",
+         "to": "\"'Ben Raymond'\" <bray777@swbell.net>, \"'Chuck Wall'\""
+      },
+      {
+         "from": "washingtont2@epenergy.com",
+         "line": 85,
+         "rawfrom": "Washington, Tony [mailto:WashingtonT2@epenergy.com]\n",
+         "source": "email",
+         "to": "'jdavi12@entergy.com'"
+      },
+      {
+         "from": "mlipman@natsource.com",
+         "line": 102,
+         "rawfrom": "Matthew Lipman [mailto:mlipman@natsource.com]\n",
+         "source": "email",
+         "to": "'llbloom@alum.mit.edu'; 'jal54@aol.com'"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent/2.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "kwpope@pdq.net"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 26,
+         "rawfrom": "\"Kent & Karen Pope\" <kwpope@pdq.net> on 05/14/2001 07:59:53 AM\n",
+         "source": "email",
+         "to": "\"Darron C. Giron\" <Darron.C.Giron@enron.com>"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 37,
+         "rawfrom": "Kent & Karen Pope <kwpope@pdq.net>\n",
+         "source": "email",
+         "to": "Dan Kessler <Dan@vcrhouston.com>"
+      },
+      {
+         "from": "dan@vcrhouston.com",
+         "line": 48,
+         "rawfrom": "Dan Kessler <Dan@vcrhouston.com>\n",
+         "source": "email",
+         "to": "Kent & Karen Pope <kwpope@pdq.net>"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 71,
+         "rawfrom": "Kent & Karen Pope [mailto:kwpope@pdq.net]\n",
+         "source": "email",
+         "to": "Dan Kessler"
+      },
+      {
+         "from": "elizabeth.watsky@bakeratlas.com",
+         "line": 78,
+         "rawfrom": "Watsky, Elizabeth <Elizabeth.Watsky@bakeratlas.com>\n",
+         "source": "email",
+         "to": "'Kent & Karen Pope' <kwpope@pdq.net>"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 166,
+         "rawfrom": "Kent & Karen Pope [mailto:kwpope@pdq.net]\n",
+         "source": "email",
+         "to": "Watsky, Elizabeth"
+      },
+      {
+         "from": "elizabeth.watsky@bakeratlas.com",
+         "line": 174,
+         "rawfrom": "Watsky, Elizabeth <Elizabeth.Watsky@bakeratlas.com>\n",
+         "source": "email",
+         "to": "'yvette_sepulveda@foleys.com' <yvette_sepulveda@foleys.com>;"
+      },
+      {
+         "from": "msyoung@tmh.tmc.edu",
+         "line": 185,
+         "rawfrom": "Young, Melissa [mailto:MSYoung@tmh.tmc.edu]\n",
+         "source": "email",
+         "to": "'Cheri Thomas'; 'Dad'; 'Elizabeth - work'; 'Stephen-Home'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent/731.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@pdq.net"
+      },
+      {
+         "from": "gmind@icsi.net",
+         "line": 34,
+         "rawfrom": "\"Debbie Hall\" <gmind@icsi.net>\n",
+         "source": "email",
+         "to": "\"C & M\" <onealexi2@aol.com>; \"hollyw\" <hollyw@email.msn.com>; \"Jodi"
+      },
+      {
+         "from": "bagmanhpb@aol.com",
+         "line": 56,
+         "rawfrom": "BagManHPB@aol.com\n",
+         "source": "valid",
+         "to": "dadkins7011@email.msn.com, sli-cer@email.msn.com,"
+      },
+      {
+         "from": "kmturner@flex.net",
+         "line": 78,
+         "rawfrom": "\"Ken Turner\" <kmturner@flex.net>\n",
+         "source": "email",
+         "to": "\"Ann Turner (E-mail)\" <abturner@flex.net>,        \"Boss (E-mail)\""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent/424.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "kristi.giron@cfisd.net, phillip.love@enron.com, dgiron1@pdq.net,"
+      },
+      {
+         "from": "rjones562@earthlink.net",
+         "line": 39,
+         "rawfrom": "\"Ronald Jones\" <rjones562@earthlink.net>\n",
+         "source": "email",
+         "to": "\"Scott\" <ssmith@mariner-energy.com>; \"Rochelle\""
+      },
+      {
+         "from": "gudeaw@email.msn.com",
+         "line": 50,
+         "rawfrom": "\"gudeaw\" <gudeaw@email.msn.com>\n",
+         "source": "email",
+         "to": "\"Mario Smith\" <mariofsmith@msn.com>; \"Mario Augusto Silva\""
+      },
+      {
+         "from": "bill.dean@west.boeing.com",
+         "line": 88,
+         "rawfrom": "EXT-Dean, Bill T [SMTP:Bill.Dean@West.Boeing.com]\n",
+         "source": "email",
+         "to": "'Bernie Drake'"
+      },
+      {
+         "from": "liamwong@mindspring.com",
+         "line": 97,
+         "rawfrom": "Liam Wong [SMTP:liamwong@mindspring.com]\n",
+         "source": "email",
+         "to": "liamwong@mindspring.com <mailto:liamwong@mindspring.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent/780.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "hollyw@email.msn.com, bwallace@tcast.com, smmayers@earthlink.net,"
+      },
+      {
+         "from": "tthieman@bright.net",
+         "line": 58,
+         "rawfrom": "Sandra Thieman <tthieman@bright.net>\n",
+         "source": "email",
+         "to": "michelle thieman <thieman@bright.net>; Nancy & Larry Roettger"
+      },
+      {
+         "from": "bjohnson1@accesstoledo.com",
+         "line": 72,
+         "rawfrom": "Becky <bjohnson1@accesstoledo.com>\n",
+         "source": "email",
+         "to": "Judy <jtb@defnet.com>; Paul E. Brose, M.D. <pbrose@bright.net>; Pam"
+      },
+      {
+         "from": "bsterling@cconnect.net",
+         "line": 83,
+         "rawfrom": "       Bill Sterling, bsterling@cconnect.net\n",
+         "source": "email",
+         "to": "Becky, bjohnson1@accesstoledo.com"
+      },
+      {
+         "from": "sterlingmichelle@hotmail.com",
+         "line": 93,
+         "rawfrom": "\"michelle sterling\" <sterlingmichelle@hotmail.com>\n",
+         "source": "email",
+         "to": "<kadlac@earthlink.net>; <brenda_mcclain@hotmail.com>;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent/621.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "greg.couch@enron.com, phillip.love@enron.com, jackson.logan@enron.com"
+      },
+      {
+         "from": "ronniegiron@yahoo.com",
+         "line": 31,
+         "rawfrom": "Ronnie Giron <ronniegiron@yahoo.com>\n",
+         "source": "email",
+         "to": "Carl Swan <rcantrell@potomacenergy.com>; Georges Tadros"
+      },
+      {
+         "from": "kathya@rabey.com",
+         "line": 64,
+         "rawfrom": "Kathy Atherton <KathyA@RABEY.com>\n",
+         "source": "email",
+         "to": "\"'ronniegiron@yahoo.com'\" <ronniegiron@yahoo.com>"
+      },
+      {
+         "from": "wilensky.bob@littondsd.com",
+         "line": 78,
+         "rawfrom": "Wilensky, Bob  [mailto:Wilensky.Bob@LittonDSD.com]\n",
+         "source": "email",
+         "to": "Hank Coolidge (E-mail); Palmertree,  Kenneth"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent/145.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "phillip.love@enron.com, errol.mclaughlin@enron.com, kam.keiser@enron.com,"
+      },
+      {
+         "from": "gbohan@home.com",
+         "line": 47,
+         "rawfrom": "\"LIGHTHOUSE DESIGN\" <GBOHAN@HOME.COM>\n",
+         "source": "email",
+         "to": "\"Carlos and Yvonne Giron\" <cgiron@mindspring.com>"
+      },
+      {
+         "from": "jeff@hightechpackaging.com",
+         "line": 66,
+         "rawfrom": "Jeff Harrell  [mailto:jeff@hightechpackaging.com]\n",
+         "source": "email",
+         "to": "Tim Wiggins; Glenn Bohan; Dallas; Mike  Sasser"
+      },
+      {
+         "from": "gkay@jenkens.com",
+         "line": 82,
+         "rawfrom": "Kay,  Geoffrey [mailto:gkay@jenkens.com]  \n",
+         "source": "email",
+         "to": "Alec Van Hook (E-mail); Amy Burton (E-mail); Blain Roberts  (E-mail);"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent/344.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "yhaynes@mindspring.com"
+      },
+      {
+         "from": "yhaynes@mindspring.com",
+         "line": 25,
+         "rawfrom": "\"Yvonne Haynes\" <yhaynes@mindspring.com> on 01/09/2001 09:43:26 AM\n",
+         "source": "email",
+         "to": "\"Josh Penick\" <josh@intranetdesigns.com>, \"Jennifer Iu\""
+      },
+      {
+         "from": "jflar@exchange.ml.com",
+         "line": 38,
+         "rawfrom": "Flar, Jason (SIG-SDG) <JFlar@exchange.ml.com>\n",
+         "source": "email",
+         "to": "Bankerd, Victoria (ICD-SF) <VBankerd@exchange.ml.com>; Megow, Joseph A"
+      },
+      {
+         "from": "jflar@bloomberg.net",
+         "line": 57,
+         "rawfrom": "JASON FLAR, MERRILL LYNCH/SAN DI [SMTP:JFLAR@bloomberg.net]\n",
+         "source": "email",
+         "to": "JFLAR@EXCHANGE.ML.COM"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent/707.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "anabel.soria@travelpark.com"
+      },
+      {
+         "from": "anabel.soria@travelpark.com",
+         "line": 25,
+         "rawfrom": "Anabel Soria <anabel.soria@travelpark.com> on 08/11/2000 10:00:22 AM\n",
+         "source": "email",
+         "to": "\"'Darron.C.Giron@enron.com'\" <Darron.C.Giron@enron.com>"
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 40,
+         "rawfrom": " Darron.C.Giron@enron.com[SMTP:Darron.C.Giron@enron.com]\n",
+         "source": "email",
+         "to": "anabel.soria@travelpark.com"
+      },
+      {
+         "from": "anabel.soria@travelpark.com",
+         "line": 56,
+         "rawfrom": "anabel.soria@travelpark.com",
+         "source": "valid",
+         "to": "\"'Darron.c.giron@enron.com'\" <Darron.c.giron@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent/194.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "hollyw@email.msn.com, kristi.giron@cfisd.net, smmayers@earthlink.net"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 55,
+         "rawfrom": "\"Love, Dianne\" <love@cl.uh.edu>\n",
+         "source": "email",
+         "to": "\"'plove570@cs.com'\" <plove570@cs.com>"
+      },
+      {
+         "from": "annie@ala.nu",
+         "line": 67,
+         "rawfrom": "Andrea Oliver [SMTP:annie@ala.nu]\n",
+         "source": "email",
+         "to": "Shirley Mitchell"
+      },
+      {
+         "from": "leila@ala.nu",
+         "line": 74,
+         "rawfrom": "\"Leila\" <leila@ala.nu>\n",
+         "source": "email",
+         "to": "\"betty stringfellow\" <bstring@ala.nu>; \"bonnie posey\""
+      },
+      {
+         "from": "te066538@yahoo.com",
+         "line": 84,
+         "rawfrom": "E.J. Eiteljorge <te066538@yahoo.com>\n",
+         "source": "email",
+         "to": "Jan Fox <janbillfox@yahoo.com>; Teri Gillette <bladetlg@aol.com>;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent/733.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@pdq.net"
+      },
+      {
+         "from": "dkerr2@email.msn.com",
+         "line": 38,
+         "rawfrom": "\"dkerr2\" <dkerr2@email.msn.com>\n",
+         "source": "email",
+         "to": "<hollyw@email.msn.com>"
+      },
+      {
+         "from": "mandyh@warpwebtech.com",
+         "line": 46,
+         "rawfrom": "\"Amanda M. Hissey\" <mandyh@warpwebtech.com>\n",
+         "source": "email",
+         "to": "\"Trace Torrence\" <tracer1@pdq.net>; \"Rhonda Spaulding\""
+      },
+      {
+         "from": "jimreniers@email.msn.com",
+         "line": 59,
+         "rawfrom": "jimreniers [mailto:jimreniers@email.msn.com]\n",
+         "source": "email",
+         "to": "Beridon Leon; Bowman, Bill; Davis, Bob L; Davis bob HOME; Fairchild"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent/148.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "patrick.ryder@enron.com, smmayers@earthlink.net, scott.crowell@us.cgeyc.com,"
+      },
+      {
+         "from": "grant.w@mindspring.com",
+         "line": 44,
+         "rawfrom": "\"grant whipple\" <grant.w@mindspring.com>\n",
+         "source": "email",
+         "to": "\"Carlos Giron\" <cgiron@mindspring.com>"
+      },
+      {
+         "from": "glennmill@juno.com",
+         "line": 82,
+         "rawfrom": "Glenn A  Miller [mailto:glennmill@juno.com] \n",
+         "source": "email",
+         "to": "JanetMoshier@cruisesinc.com; Piponi@aol.com; kperry@family.net;"
+      },
+      {
+         "from": "tpharry@flash.net",
+         "line": 93,
+         "rawfrom": "Terri Harry <tpharry@flash.net> \n",
+         "source": "email",
+         "to": "Undisclosed-recipients:;"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 113,
+         "rawfrom": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com> \n",
+         "source": "email",
+         "to": "\"'Jonah H.  Peretti'\" <peretti@media.mit.edu>"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 134,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu>  \n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com>"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 157,
+         "rawfrom": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com> \n",
+         "source": "email",
+         "to": "\"'Jonah H.  Peretti'\" <peretti@media.mit.edu>"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 171,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu>  \n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com>"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 209,
+         "rawfrom": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com> \n",
+         "source": "email",
+         "to": "\"'Jonah H.  Peretti'\" <peretti@media.mit.edu>"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 238,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu>  \n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent/645.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "jackson.logan@enron.com"
+      },
+      {
+         "from": "jrham@worldnet.att.net",
+         "line": 73,
+         "rawfrom": "\"Jim  Hamilton\" <jrham@worldnet.att.net>\n",
+         "source": "email",
+         "to": "\"Alton Smith\" <altsmith@cisco.com>"
+      },
+      {
+         "from": "mtdburnett@hotmail.com",
+         "line": 90,
+         "rawfrom": "Martin Burnett <mtdburnett@hotmail.com>\n",
+         "source": "email",
+         "to": "barandbag@mediaone.net <barandbag@mediaone.net>; P015@persnet.navy.mil"
+      },
+      {
+         "from": "sbeanokie@tah-usa.net",
+         "line": 133,
+         "rawfrom": "\"Joe & Norma Morris\" <sbeanokie@tah-usa.net>\n",
+         "source": "email",
+         "to": "Undisclosed-Recipient:;@tah-usa.net"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent/449.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@pdq.net"
+      },
+      {
+         "from": "swarre02@coair.com",
+         "line": 43,
+         "rawfrom": "\"Warren, Stacy\" <swarre02@coair.com>\n",
+         "source": "email",
+         "to": "\"Ugly Boo (E-mail)\" <hollyw@email.msn.com>; \"Wanda Harding (E-mail)\""
+      },
+      {
+         "from": "pranshaw@ssusa.cc",
+         "line": 56,
+         "rawfrom": "Pete Ranshaw [mailto:pranshaw@ssusa.cc]\n",
+         "source": "email",
+         "to": "MARY JANE ADAMS; GreenEyes4949@aol.com"
+      },
+      {
+         "from": "bforr@ssusa.cc",
+         "line": 65,
+         "rawfrom": "Ben Orr [mailto:bforr@ssusa.cc]\n",
+         "source": "email",
+         "to": "Judy Camp; Todd Conger; Alice DeBuhr; Jim Faughn; Jeff Hartgrove;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent/487.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@pdq.net"
+      },
+      {
+         "from": "bobbyo16@hotmail.com",
+         "line": 44,
+         "rawfrom": "\"Bobby O\" <bobbyo16@hotmail.com>\n",
+         "source": "email",
+         "to": "bhahn1@lsu.edu, bustma@hotmail.com, mikegiambrone@netscape.net,"
+      },
+      {
+         "from": "pktempleton@hotmail.com",
+         "line": 71,
+         "rawfrom": "\"Parker Templeton\" <pktempleton@hotmail.com>\n",
+         "source": "email",
+         "to": "Trenmat@aol.com, e-haik@home.com, brianroleblanc@aol.com,"
+      },
+      {
+         "from": "rsunstr@aol.com",
+         "line": 81,
+         "rawfrom": "Rsunstr@aol.com\n",
+         "source": "valid",
+         "to": "zz1286@hotmail.com, Richard.Bueche@jcbradford.com,"
+      },
+      {
+         "from": "bmess6944@aol.com",
+         "line": 102,
+         "rawfrom": "BMess6944@aol.com\n",
+         "source": "valid",
+         "to": "paxtonalbert@hotmail.com, brettbonnecaze@hotmail.com,"
+      },
+      {
+         "from": "bobbyo16@hotmail.com",
+         "line": 129,
+         "rawfrom": "\"Bobby O\" <bobbyo16@hotmail.com>\n",
+         "source": "email",
+         "to": "bhahn1@lsu.edu, bustma@hotmail.com, mikegiambrone@netscape.net,"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent/696.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@pdq.net"
+      },
+      {
+         "from": "dkerr2@email.msn.com",
+         "line": 37,
+         "rawfrom": "\"dkerr2\" <dkerr2@email.msn.com>\n",
+         "source": "email",
+         "to": "<hollyw@email.msn.com>"
+      },
+      {
+         "from": "stepht@nailor.com",
+         "line": 45,
+         "rawfrom": "\"Stephanie Thompson\" <stepht@nailor.com>\n",
+         "source": "email",
+         "to": "\"Ian Faria\" <farrell74@hotmail.com>; \"Duke Keller\""
+      },
+      {
+         "from": "victor.hall@wilcom.com",
+         "line": 65,
+         "rawfrom": "Hall, Victor <Victor.Hall@Wilcom.com>\n",
+         "source": "email",
+         "to": "'JNETT43@aol.com' <JNETT43@aol.com>; 'Jones, Bud'"
+      },
+      {
+         "from": "thebrat1964@hotmail.com",
+         "line": 89,
+         "rawfrom": "Cheryl H [mailto:thebrat1964@hotmail.com]\n",
+         "source": "email",
+         "to": "ajpie4@yahoo.com; victor.hall@wilcom.com; od2946@aol.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent/7.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "kwpope@pdq.net"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 39,
+         "rawfrom": "\"Kent & Karen Pope\" <kwpope@pdq.net> on 05/10/2001 11:39:45 AM\n",
+         "source": "email",
+         "to": "\"Dan Kessler\" <dan@vcrhouston.com>, \"Darron C. Giron\""
+      },
+      {
+         "from": "elizabeth.watsky@bakeratlas.com",
+         "line": 50,
+         "rawfrom": "Watsky, Elizabeth <Elizabeth.Watsky@bakeratlas.com>\n",
+         "source": "email",
+         "to": "'yvette_sepulveda@foleys.com' <yvette_sepulveda@foleys.com>;"
+      },
+      {
+         "from": "msyoung@tmh.tmc.edu",
+         "line": 61,
+         "rawfrom": "Young, Melissa [mailto:MSYoung@tmh.tmc.edu]\n",
+         "source": "email",
+         "to": "'Cheri Thomas'; 'Dad'; 'Elizabeth - work'; 'Stephen-Home'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent/647.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "greg.couch@enron.com"
+      },
+      {
+         "from": "jrham@worldnet.att.net",
+         "line": 47,
+         "rawfrom": "\"Jim  Hamilton\" <jrham@worldnet.att.net>\n",
+         "source": "email",
+         "to": "\"Alton Smith\" <altsmith@cisco.com>"
+      },
+      {
+         "from": "mtdburnett@hotmail.com",
+         "line": 64,
+         "rawfrom": "Martin Burnett <mtdburnett@hotmail.com>\n",
+         "source": "email",
+         "to": "barandbag@mediaone.net <barandbag@mediaone.net>; P015@persnet.navy.mil"
+      },
+      {
+         "from": "sbeanokie@tah-usa.net",
+         "line": 107,
+         "rawfrom": "\"Joe & Norma Morris\" <sbeanokie@tah-usa.net>\n",
+         "source": "email",
+         "to": "Undisclosed-Recipient:;@tah-usa.net"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent/501.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "kristi.giron@cfisd.net, smmayers@earthlink.net"
+      },
+      {
+         "from": "phil.hooper@msl.redstone.army.mil",
+         "line": 46,
+         "rawfrom": "\"Phil Hooper\" <Phil.Hooper@msl.redstone.army.mil>\n",
+         "source": "email",
+         "to": "<km5km@avsia.com>, \"Bob Hammons\" <Bob.Hammons@msl.redstone.army.mil>,"
+      },
+      {
+         "from": "greg.parker@rdec.redstone.army.mil",
+         "line": 63,
+         "rawfrom": "\"Parker, Greg\" <Greg.Parker@rdec.redstone.army.mil>\n",
+         "source": "email",
+         "to": "\"Dillon, John T\" <John.Dillon@rdec.redstone.army.mil>,        \"Owen, Phil"
+      },
+      {
+         "from": "dlhorst@bellsouth.net",
+         "line": 93,
+         "rawfrom": "Derek Horst [mailto:dlhorst@bellsouth.net]\n",
+         "source": "email",
+         "to": "Amy Williams; Lewis White; Darryl Wells; Stan Tillman; Rick Shotts; Mark"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/notes_inbox/8.",
+   "hops": [
+      {
+         "from": "kwpope@pdq.net",
+         "line": 4,
+         "rawfrom": "kwpope@pdq.net\r\n",
+         "source": "valid",
+         "to": "darron.c.giron@enron.com"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 23,
+         "rawfrom": "Kent & Karen Pope <kwpope@pdq.net>\n",
+         "source": "email",
+         "to": "Dan Kessler <Dan@vcrhouston.com>"
+      },
+      {
+         "from": "dan@vcrhouston.com",
+         "line": 34,
+         "rawfrom": "Dan Kessler <Dan@vcrhouston.com>\n",
+         "source": "email",
+         "to": "Kent & Karen Pope <kwpope@pdq.net>"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 57,
+         "rawfrom": "Kent & Karen Pope [mailto:kwpope@pdq.net]\n",
+         "source": "email",
+         "to": "Dan Kessler"
+      },
+      {
+         "from": "elizabeth.watsky@bakeratlas.com",
+         "line": 64,
+         "rawfrom": "Watsky, Elizabeth <Elizabeth.Watsky@bakeratlas.com>\n",
+         "source": "email",
+         "to": "'Kent & Karen Pope' <kwpope@pdq.net>"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 152,
+         "rawfrom": "Kent & Karen Pope [mailto:kwpope@pdq.net]\n",
+         "source": "email",
+         "to": "Watsky, Elizabeth"
+      },
+      {
+         "from": "elizabeth.watsky@bakeratlas.com",
+         "line": 160,
+         "rawfrom": "Watsky, Elizabeth <Elizabeth.Watsky@bakeratlas.com>\n",
+         "source": "email",
+         "to": "'yvette_sepulveda@foleys.com' <yvette_sepulveda@foleys.com>;"
+      },
+      {
+         "from": "msyoung@tmh.tmc.edu",
+         "line": 171,
+         "rawfrom": "Young, Melissa [mailto:MSYoung@tmh.tmc.edu]\n",
+         "source": "email",
+         "to": "'Cheri Thomas'; 'Dad'; 'Elizabeth - work'; 'Stephen-Home'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/notes_inbox/11.",
+   "hops": [
+      {
+         "from": "cgiron@mindspring.com",
+         "line": 4,
+         "rawfrom": "cgiron@mindspring.com\r\n",
+         "source": "valid",
+         "to": "angela.teerwilliams@gte.net, dgiron@enron.com, dgiron1@pdq.net,"
+      },
+      {
+         "from": "ronniegiron@yahoo.com",
+         "line": 31,
+         "rawfrom": "Ronnie Giron <ronniegiron@yahoo.com>\n",
+         "source": "email",
+         "to": "Susa Schmidt <susa.schmidt@t-online.de>,  Kevin Skillin"
+      },
+      {
+         "from": "douglasj@swbell.net",
+         "line": 68,
+         "rawfrom": "Jim Douglas <douglasj@swbell.net>\n",
+         "source": "email",
+         "to": "\"Ronniegiron@yahoo.com\" <ronniegiron@yahoo.com>"
+      },
+      {
+         "from": "brdalton@worldnet.att.net",
+         "line": 96,
+         "rawfrom": "Brenda Dalton <brdalton@worldnet.att.net>\n",
+         "source": "email",
+         "to": "John Douglas <audioguy@ev1.net>, Jac-John Sutton"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/deleted_items/90.",
+   "hops": [
+      {
+         "from": "bruce.mills@enron.com",
+         "line": 4,
+         "rawfrom": "bruce.mills@enron.com\r\n",
+         "source": "valid",
+         "to": "c..giron@enron.com, chris.love@enron.com"
+      },
+      {
+         "from": "sbutcher88@hotmail.com",
+         "line": 23,
+         "rawfrom": "Scott Butcher [mailto:sbutcher88@hotmail.com]\n",
+         "source": "email",
+         "to": "Mills, Bruce"
+      },
+      {
+         "from": "bruce.mills@enron.com",
+         "line": 38,
+         "rawfrom": "\"Mills, Bruce\" <Bruce.Mills@ENRON.com>\n",
+         "source": "email",
+         "to": "<sbutcher88@hotmail.com>"
+      },
+      {
+         "from": "sbutcher88@hotmail.com",
+         "line": 49,
+         "rawfrom": "sbutcher88@hotmail.com [mailto:sbutcher88@hotmail.com]\n",
+         "source": "email",
+         "to": "Mills, Bruce"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/deleted_items/424.",
+   "hops": [
+      {
+         "from": "dkenne@houston.rr.com",
+         "line": 4,
+         "rawfrom": "dkenne@houston.rr.com\r\n",
+         "source": "valid",
+         "to": "c..giron@enron.com"
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 27,
+         "rawfrom": "<Darron.C.Giron@enron.com>\n",
+         "source": "email",
+         "to": "<dkenne@houston.rr.com>"
+      },
+      {
+         "from": "dkenne@houston.rr.com",
+         "line": 45,
+         "rawfrom": "  \"Dawn and Gary Wilson\" <dkenne@houston.rr.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 53,
+         "rawfrom": "<Darron.C.Giron@enron.com>\n",
+         "source": "email",
+         "to": "<dkenne@houston.rr.com>"
+      },
+      {
+         "from": "dkenne@houston.rr.com",
+         "line": 65,
+         "rawfrom": "  \"Dawn and Gary Wilson\" <dkenne@houston.rr.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M.; Sweitzer, Tara; Bagwell, Jennifer J;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/deleted_items/328.",
+   "hops": [
+      {
+         "from": "scott_crowell@hotmail.com",
+         "line": 4,
+         "rawfrom": "scott_crowell@hotmail.com\r\n",
+         "source": "valid",
+         "to": "c..giron@enron.com"
+      },
+      {
+         "from": "alaurence@kpmg.com",
+         "line": 21,
+         "rawfrom": "\"Laurence, Andrea\" <alaurence@kpmg.com>\n",
+         "source": "email",
+         "to": "\"Adam Devine (E-mail)\" <adam_devine@hotmail.com>,        \"Alex Stopka"
+      },
+      {
+         "from": "kurthelwig@aol.com",
+         "line": 61,
+         "rawfrom": "KurtHelwig@aol.com [mailto:KurtHelwig@aol.com]\n",
+         "source": "email",
+         "to": "alaurence@kpmg.com"
+      },
+      {
+         "from": "jimmylynn1@aol.com",
+         "line": 72,
+         "rawfrom": "JimmyLynn1@aol.com [mailto:JimmyLynn1@aol.com]\n",
+         "source": "email",
+         "to": "t.butler@rane.net; KurtHelwig@aol.com; Wiedis@aol.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/deleted_items/176.",
+   "hops": [
+      {
+         "from": "m..love@enron.com",
+         "line": 4,
+         "rawfrom": "m..love@enron.com\r\n",
+         "source": "valid",
+         "to": "bryan.hull@enron.com, eric.bass@enron.com, david.baumbach@enron.com,"
+      },
+      {
+         "from": "jmjaked@mindspring.com",
+         "line": 28,
+         "rawfrom": "\t\"Jason Dobbs\" <jmjaked@mindspring.com>@ENRON  \n",
+         "source": "email",
+         "to": "phil love; jim wood; dobbswn; dana sanders; chris chambless; chance wood; caleb dobbs; boo boo dobbs; ashley himber"
+      },
+      {
+         "from": "leemobley@excite.com",
+         "line": 34,
+         "rawfrom": "Michael Mobley <leemobley@excite.com>\n",
+         "source": "email",
+         "to": "<darmy4@sonet.net>; <therealflame@yahoo.com>; <DClay@championhomes.net>;"
+      },
+      {
+         "from": "kclark@sonet.net",
+         "line": 60,
+         "rawfrom": "\"kerry s clark\" <kclark@sonet.net>\n",
+         "source": "email",
+         "to": "\"Wendy Cannon\" <windless_95@yahoo.com>,        \"Trent Doss\" <trentdoss@excite.com>,        \"Shanna Mitchell\" <smitchell@cisfn.com>,        \"Shae Umfress\" <SUmfress@Monroe.k12.ms.us>,        \"S Sharp\" <groovy_girl_799@yahoo.com>,        \"Ray Lyons\" <trlyons@hotmail.com>, \"Lee Mobley\" <leemobley@excite.com>,        \"Lajune Davidson\" <lajunedavidson@hotmail.com>,        \"Kimmy Burleson\" <Kabtherapy@yahoo.com>,        \"Jane Riner\" <jarino@sonet.net>,        \"Doug Wharton\" <dougwharton@webtv.net>,        \"Craig Hull\" <chull@continentalconveyor.com>,        \"Bev Garrison\" <Bdgarrison@aol.com>,        \"Annette Rea\" <area@bevillst.cc.al.us>"
+      },
+      {
+         "from": "pholley@buccaneerhomes.com",
+         "line": 73,
+         "rawfrom": "\"Holley, Pam\" <pholley@buccaneerhomes.com>\n",
+         "source": "email",
+         "to": "\"White, Jeff\" <JWhite@buccaneerhomes.com>"
+      },
+      {
+         "from": "pwlucius@icc.cc.ms.us",
+         "line": 125,
+         "rawfrom": "Phillip Lucius [mailto:pwlucius@icc.cc.ms.us]\n",
+         "source": "email",
+         "to": "jlucius@sonet.net"
+      },
+      {
+         "from": "drrobbins@icc.cc.ms.us",
+         "line": 134,
+         "rawfrom": "Robbins, Danny [mailto:drrobbins@icc.cc.ms.us]\n",
+         "source": "email",
+         "to": "Tice, Tony; Brady, Ronald; Emison, Barry; Kitchens, Terry; Stephens,"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent_items/419.",
+   "hops": [
+      {
+         "from": "c..giron@enron.com",
+         "line": 4,
+         "rawfrom": "c..giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@houston.rr.com"
+      },
+      {
+         "from": "birgit@hiresynergy.com",
+         "line": 22,
+         "rawfrom": "\t\"Birgit D. Kamps\" <birgit@hiresynergy.com>@ENRON  \n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 32,
+         "rawfrom": "Darron.C.Giron@enron.com [mailto:Darron.C.Giron@enron.com]\n",
+         "source": "email",
+         "to": "birgit@hiresynergy.com"
+      },
+      {
+         "from": "birgit@hiresynergy.com",
+         "line": 44,
+         "rawfrom": "  \"Birgit D.Kamps\" <birgit@hiresynergy.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent_items/204.",
+   "hops": [
+      {
+         "from": "c..giron@enron.com",
+         "line": 4,
+         "rawfrom": "c..giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@houston.rr.com"
+      },
+      {
+         "from": "scott_crowell@hotmail.com",
+         "line": 22,
+         "rawfrom": "\t\"scott crowell\" <scott_crowell@hotmail.com>@ENRON  \n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "alaurence@kpmg.com",
+         "line": 29,
+         "rawfrom": "\"Laurence, Andrea\" <alaurence@kpmg.com>\n",
+         "source": "email",
+         "to": "\"Adam Devine (E-mail)\" <adam_devine@hotmail.com>,        \"Alex Stopka"
+      },
+      {
+         "from": "kurthelwig@aol.com",
+         "line": 69,
+         "rawfrom": "KurtHelwig@aol.com [mailto:KurtHelwig@aol.com]\n",
+         "source": "email",
+         "to": "alaurence@kpmg.com"
+      },
+      {
+         "from": "jimmylynn1@aol.com",
+         "line": 80,
+         "rawfrom": "JimmyLynn1@aol.com [mailto:JimmyLynn1@aol.com]\n",
+         "source": "email",
+         "to": "t.butler@rane.net; KurtHelwig@aol.com; Wiedis@aol.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent_items/382.",
+   "hops": [
+      {
+         "from": "c..giron@enron.com",
+         "line": 4,
+         "rawfrom": "c..giron@enron.com\r\n",
+         "source": "valid",
+         "to": "e-mail <.brent@enron.com>, e-mail <.carlos@enron.com>,"
+      },
+      {
+         "from": "roger_tisdale@oxy.com",
+         "line": 36,
+         "rawfrom": "Roger_Tisdale@oxy.com [mailto:Roger_Tisdale@oxy.com]\n",
+         "source": "email",
+         "to": "Frihart, Bryant"
+      },
+      {
+         "from": "bryant.frihart@enron.com",
+         "line": 46,
+         "rawfrom": "Frihart, Bryant [mailto:bryant.frihart@ENRON.com]\n",
+         "source": "email",
+         "to": "Roger_Tisdale@oxy.com"
+      },
+      {
+         "from": "roger_tisdale@oxy.com",
+         "line": 55,
+         "rawfrom": "Roger_Tisdale@oxy.com [mailto:Roger_Tisdale@oxy.com]\n",
+         "source": "email",
+         "to": "Dave_Laughry@oxy.com; Mike_Platz@oxy.com; Tom.Mayfield@williams.com;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent_items/114.",
+   "hops": [
+      {
+         "from": "c..giron@enron.com",
+         "line": 4,
+         "rawfrom": "c..giron@enron.com\r\n",
+         "source": "valid",
+         "to": "david.plaisance@us.pwcglobal.com"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 24,
+         "rawfrom": "\t<david.plaisance@us.pwcglobal.com>@ENRON [mailto:IMCEANOTES-+3Cdavid+2Eplaisance+40us+2Epwcglobal+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 40,
+         "rawfrom": "Darron.C.Giron@enron.com on 08/22/2001 10:42:07 AM\n",
+         "source": "email",
+         "to": "David Plaisance/US/FAS/PwC@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 61,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 75,
+         "rawfrom": "Darron.C.Giron@enron.com on 07/23/2001 09:37:06 AM\n",
+         "source": "email",
+         "to": "David Plaisance/FAS/Price Waterhouse@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 97,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "dgiron@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent_items/51.",
+   "hops": [
+      {
+         "from": "c..giron@enron.com",
+         "line": 4,
+         "rawfrom": "c..giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@houston.rr.com"
+      },
+      {
+         "from": "sbutcher88@hotmail.com",
+         "line": 32,
+         "rawfrom": "Scott Butcher [mailto:sbutcher88@hotmail.com]\n",
+         "source": "email",
+         "to": "Mills, Bruce"
+      },
+      {
+         "from": "bruce.mills@enron.com",
+         "line": 47,
+         "rawfrom": "\"Mills, Bruce\" <Bruce.Mills@ENRON.com>\n",
+         "source": "email",
+         "to": "<sbutcher88@hotmail.com>"
+      },
+      {
+         "from": "sbutcher88@hotmail.com",
+         "line": 58,
+         "rawfrom": "sbutcher88@hotmail.com [mailto:sbutcher88@hotmail.com]\n",
+         "source": "email",
+         "to": "Mills, Bruce"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent_items/113.",
+   "hops": [
+      {
+         "from": "c..giron@enron.com",
+         "line": 4,
+         "rawfrom": "c..giron@enron.com\r\n",
+         "source": "valid",
+         "to": "david.plaisance@us.pwcglobal.com"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 26,
+         "rawfrom": "\t<david.plaisance@us.pwcglobal.com>@ENRON [mailto:IMCEANOTES-+3Cdavid+2Eplaisance+40us+2Epwcglobal+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 38,
+         "rawfrom": "Darron.C.Giron@enron.com on 08/22/2001 12:02:16 PM\n",
+         "source": "email",
+         "to": "David Plaisance/US/FAS/PwC@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 61,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 78,
+         "rawfrom": "Darron.C.Giron@enron.com on 08/22/2001 10:42:07 AM\n",
+         "source": "email",
+         "to": "David Plaisance/US/FAS/PwC@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 104,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 119,
+         "rawfrom": "Darron.C.Giron@enron.com on 07/23/2001 09:37:06 AM\n",
+         "source": "email",
+         "to": "David Plaisance/FAS/Price Waterhouse@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 143,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "dgiron@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent_items/72.",
+   "hops": [
+      {
+         "from": "c..giron@enron.com",
+         "line": 4,
+         "rawfrom": "c..giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@houston.rr.com"
+      },
+      {
+         "from": "carlos.giron@psiusa.com",
+         "line": 22,
+         "rawfrom": "\t\"Carlos Giron\" <Carlos.Giron@psiusa.com>@ENRON  \n",
+         "source": "email",
+         "to": "Giron, Darron C.; Love, Phillip M.; GBOHAN@HOME.COM; hjohnson93@home.com; yhaynes@mindspring.com; Ben.Latino@psiusa.com; bobby.bouduet@psiusa.com; Mike.Kotar@psiusa.com; thomasiu@yahoo.com"
+      },
+      {
+         "from": "sborne@dcc.edu",
+         "line": 34,
+         "rawfrom": "Scott Borne <sborne@dcc.edu>\n",
+         "source": "email",
+         "to": "barry.borne@med.ge.com,    darrenmartel@hotmail.com,    dashairball@yahoo.com,    garlsufan@aol.com,    jmmurray@hotmail.com,    labbott@jeffparish.net,    mattuptownnola@yahoo.com,    mcclavier@blanchardgold.com,    ncvindel@blanchardgold.com,    niccinoble@yahoo.com,    thewowz@hotmail.com,    tinatinney@gte.net"
+      },
+      {
+         "from": "wfuselier@westmorelandhall.com",
+         "line": 49,
+         "rawfrom": "\"Fuselier, Wendy\" <WFuselier@westmorelandhall.com>\n",
+         "source": "email",
+         "to": "\"Scott Borne (E-mail)\" <serrge@aol.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent_items/110.",
+   "hops": [
+      {
+         "from": "c..giron@enron.com",
+         "line": 4,
+         "rawfrom": "c..giron@enron.com\r\n",
+         "source": "valid",
+         "to": "david.plaisance@us.pwcglobal.com"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 30,
+         "rawfrom": "\t<david.plaisance@us.pwcglobal.com>@ENRON [mailto:IMCEANOTES-+3Cdavid+2Eplaisance+40us+2Epwcglobal+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 46,
+         "rawfrom": "Darron.C.Giron@enron.com on 08/22/2001 10:42:07 AM\n",
+         "source": "email",
+         "to": "David Plaisance/US/FAS/PwC@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 67,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 81,
+         "rawfrom": "Darron.C.Giron@enron.com on 07/23/2001 09:37:06 AM\n",
+         "source": "email",
+         "to": "David Plaisance/FAS/Price Waterhouse@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 103,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "dgiron@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent_items/368.",
+   "hops": [
+      {
+         "from": "c..giron@enron.com",
+         "line": 4,
+         "rawfrom": "c..giron@enron.com\r\n",
+         "source": "valid",
+         "to": "bwells@pop.net"
+      },
+      {
+         "from": "bwells@pop.net",
+         "line": 24,
+         "rawfrom": "\t\"Bill Wells\" <bwells@pop.net>@ENRON  \n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 37,
+         "rawfrom": "Darron.C.Giron@enron.com [mailto:Darron.C.Giron@enron.com]\n",
+         "source": "email",
+         "to": "bwells@pop.net"
+      },
+      {
+         "from": "bwells@pop.net",
+         "line": 48,
+         "rawfrom": "  \"Bill Wells\" <bwells@pop.net>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 67,
+         "rawfrom": "Giron, Darron C. [mailto:Darron.C.Giron@ENRON.com]\n",
+         "source": "email",
+         "to": "bwells@pop.net"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent_items/431.",
+   "hops": [
+      {
+         "from": "c..giron@enron.com",
+         "line": 4,
+         "rawfrom": "c..giron@enron.com\r\n",
+         "source": "valid",
+         "to": "mrichter@us.ibm.com"
+      },
+      {
+         "from": "mrichter@us.ibm.com",
+         "line": 24,
+         "rawfrom": "\t\"Michael Richter\" <mrichter@us.ibm.com>@ENRON  \n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "mrichter@us.ibm.com",
+         "line": 48,
+         "rawfrom": "  \"Michael Richter\" <mrichter@us.ibm.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 66,
+         "rawfrom": "Darron.C.Giron@enron.com",
+         "source": "valid",
+         "to": "Michael Richter/Dallas/IBM@IBMUS        |"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent_items/433.",
+   "hops": [
+      {
+         "from": "c..giron@enron.com",
+         "line": 4,
+         "rawfrom": "c..giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@houston.rr.com"
+      },
+      {
+         "from": "mrichter@us.ibm.com",
+         "line": 22,
+         "rawfrom": "\t\"Michael Richter\" <mrichter@us.ibm.com>@ENRON  \n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "mrichter@us.ibm.com",
+         "line": 46,
+         "rawfrom": "  \"Michael Richter\" <mrichter@us.ibm.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 64,
+         "rawfrom": "Darron.C.Giron@enron.com",
+         "source": "valid",
+         "to": "Michael Richter/Dallas/IBM@IBMUS        |"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent_items/116.",
+   "hops": [
+      {
+         "from": "c..giron@enron.com",
+         "line": 4,
+         "rawfrom": "c..giron@enron.com\r\n",
+         "source": "valid",
+         "to": "david.plaisance@us.pwcglobal.com"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 26,
+         "rawfrom": "\t<david.plaisance@us.pwcglobal.com>@ENRON [mailto:IMCEANOTES-+3Cdavid+2Eplaisance+40us+2Epwcglobal+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 59,
+         "rawfrom": "Darron.C.Giron@enron.com on 08/27/2001 03:33:17 PM\n",
+         "source": "email",
+         "to": "David Plaisance/US/FAS/PwC@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 85,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 118,
+         "rawfrom": "Darron.C.Giron@enron.com on 08/27/2001 12:38:47 PM\n",
+         "source": "email",
+         "to": "David Plaisance/US/FAS/PwC@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 143,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 161,
+         "rawfrom": "Darron.C.Giron@enron.com on 08/22/2001 10:42:07 AM\n",
+         "source": "email",
+         "to": "David Plaisance/US/FAS/PwC@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 193,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 209,
+         "rawfrom": "Darron.C.Giron@enron.com on 07/23/2001 09:37:06 AM\n",
+         "source": "email",
+         "to": "David Plaisance/FAS/Price Waterhouse@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 236,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "dgiron@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent_items/165.",
+   "hops": [
+      {
+         "from": "c..giron@enron.com",
+         "line": 4,
+         "rawfrom": "c..giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@pdq.net"
+      },
+      {
+         "from": "carlos.giron@psiusa.com",
+         "line": 22,
+         "rawfrom": "\t\"Carlos Giron\" <Carlos.Giron@psiusa.com>@ENRON  \n",
+         "source": "email",
+         "to": "Giron, Darron C.; gbohan@home.com; yhaynes@mindspring.com; ronniegiron@yahoo.com"
+      },
+      {
+         "from": "mike.kotar@psiusa.com",
+         "line": 27,
+         "rawfrom": "\"Mike Kotar\" <Mike.Kotar@psiusa.com>\n",
+         "source": "email",
+         "to": "Carlos.Giron@psiusa.com,Clint.McDowell@psiusa.com,\tStephanie.McDonald@psiusa.com"
+      },
+      {
+         "from": "hwasgatt@home.com",
+         "line": 36,
+         "rawfrom": "\"Heather Wasgatt\" <hwasgatt@home.com>\n",
+         "source": "email",
+         "to": "\"Andy Hutson\" <andy_hutson@starkey.com>,\t\"Kathy Rall\" <kcrall@earthlink.com>,\t\"Mike Kotar\" <Mike.Kotar@psiusa.com>,\t\"Matt Vance\" <matt_vance@hotmail.com>,\t\"Kevin Brenda\" <kevin@nativeresources.com>,\t\"Dianne & Tom Wasgatt\" <AZtomwas@worldnet.att.net>,\t\"Elizabeth Wasgatt\" <emw3@dana.ucc.nau.edu>,\t\"Lisa Fraizer\" <FIREBIRD2@mindspring.com>,\t\"Lydia McDonald\" <lydia@nativeresources.com>,\t\"Melanie Travis\" <golfgrrrl97@aol.com>,\t\"Patty Cascio\" <patty@nativeresources.com>,\t\"Walter Barrios\" <wbarrios1@msn.com>,\t\"Marjut Coursaris\" <M_Coursaris@beutel-can.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent_items/418.",
+   "hops": [
+      {
+         "from": "c..giron@enron.com",
+         "line": 4,
+         "rawfrom": "c..giron@enron.com\r\n",
+         "source": "valid",
+         "to": "birgit@hiresynergy.com"
+      },
+      {
+         "from": "birgit@hiresynergy.com",
+         "line": 24,
+         "rawfrom": "\t\"Birgit D. Kamps\" <birgit@hiresynergy.com>@ENRON  \n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 34,
+         "rawfrom": "Darron.C.Giron@enron.com [mailto:Darron.C.Giron@enron.com]\n",
+         "source": "email",
+         "to": "birgit@hiresynergy.com"
+      },
+      {
+         "from": "birgit@hiresynergy.com",
+         "line": 46,
+         "rawfrom": "  \"Birgit D.Kamps\" <birgit@hiresynergy.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent_items/115.",
+   "hops": [
+      {
+         "from": "c..giron@enron.com",
+         "line": 4,
+         "rawfrom": "c..giron@enron.com\r\n",
+         "source": "valid",
+         "to": "david.plaisance@us.pwcglobal.com"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 26,
+         "rawfrom": "\t<david.plaisance@us.pwcglobal.com>@ENRON [mailto:IMCEANOTES-+3Cdavid+2Eplaisance+40us+2Epwcglobal+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 54,
+         "rawfrom": "Darron.C.Giron@enron.com on 08/27/2001 12:38:47 PM\n",
+         "source": "email",
+         "to": "David Plaisance/US/FAS/PwC@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 75,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 92,
+         "rawfrom": "Darron.C.Giron@enron.com on 08/22/2001 10:42:07 AM\n",
+         "source": "email",
+         "to": "David Plaisance/US/FAS/PwC@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 118,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 133,
+         "rawfrom": "Darron.C.Giron@enron.com on 07/23/2001 09:37:06 AM\n",
+         "source": "email",
+         "to": "David Plaisance/FAS/Price Waterhouse@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 157,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "dgiron@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent_items/430.",
+   "hops": [
+      {
+         "from": "c..giron@enron.com",
+         "line": 4,
+         "rawfrom": "c..giron@enron.com\r\n",
+         "source": "valid",
+         "to": "mrichter@us.ibm.com"
+      },
+      {
+         "from": "mrichter@us.ibm.com",
+         "line": 24,
+         "rawfrom": "\t\"Michael Richter\" <mrichter@us.ibm.com>@ENRON  \n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "mrichter@us.ibm.com",
+         "line": 48,
+         "rawfrom": "  \"Michael Richter\" <mrichter@us.ibm.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 66,
+         "rawfrom": "Darron.C.Giron@enron.com",
+         "source": "valid",
+         "to": "Michael Richter/Dallas/IBM@IBMUS        |"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent_items/117.",
+   "hops": [
+      {
+         "from": "c..giron@enron.com",
+         "line": 4,
+         "rawfrom": "c..giron@enron.com\r\n",
+         "source": "valid",
+         "to": "david.plaisance@us.pwcglobal.com"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 24,
+         "rawfrom": "\t<david.plaisance@us.pwcglobal.com>@ENRON [mailto:IMCEANOTES-+3Cdavid+2Eplaisance+40us+2Epwcglobal+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 51,
+         "rawfrom": "Darron.C.Giron@enron.com on 08/30/2001 11:23:27 AM\n",
+         "source": "email",
+         "to": "David Plaisance/US/FAS/PwC@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 81,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 121,
+         "rawfrom": "Darron.C.Giron@enron.com on 08/27/2001 03:33:17 PM\n",
+         "source": "email",
+         "to": "David Plaisance/US/FAS/PwC@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 151,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 188,
+         "rawfrom": "Darron.C.Giron@enron.com on 08/27/2001 12:38:47 PM\n",
+         "source": "email",
+         "to": "David Plaisance/US/FAS/PwC@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 218,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 236,
+         "rawfrom": "Darron.C.Giron@enron.com on 08/22/2001 10:42:07 AM\n",
+         "source": "email",
+         "to": "David Plaisance/US/FAS/PwC@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 272,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 288,
+         "rawfrom": "Darron.C.Giron@enron.com on 07/23/2001 09:37:06 AM\n",
+         "source": "email",
+         "to": "David Plaisance/FAS/Price Waterhouse@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 318,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "dgiron@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent_items/400.",
+   "hops": [
+      {
+         "from": "c..giron@enron.com",
+         "line": 4,
+         "rawfrom": "c..giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dkenne@houston.rr.com"
+      },
+      {
+         "from": "dkenne@houston.rr.com",
+         "line": 24,
+         "rawfrom": "\t\"Dawn and Gary Wilson\" <dkenne@houston.rr.com>@ENRON  \n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 32,
+         "rawfrom": "<Darron.C.Giron@enron.com>\n",
+         "source": "email",
+         "to": "<dkenne@houston.rr.com>"
+      },
+      {
+         "from": "dkenne@houston.rr.com",
+         "line": 44,
+         "rawfrom": "  \"Dawn and Gary Wilson\" <dkenne@houston.rr.com>@ENRON\n",
+         "source": "email",
+         "to": "Love, Phillip M.; Sweitzer, Tara; Bagwell, Jennifer J;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent_items/61.",
+   "hops": [
+      {
+         "from": "c..giron@enron.com",
+         "line": 4,
+         "rawfrom": "c..giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@houston.rr.com"
+      },
+      {
+         "from": "kristi.giron@cfisd.net",
+         "line": 22,
+         "rawfrom": "\t\"KRISTI GIRON\" <KRISTI.GIRON@cfisd.net>@ENRON COMMUNICATIONS  \n",
+         "source": "email",
+         "to": "DARRon.c.giron@enron.net"
+      },
+      {
+         "from": "douglasj@swbell.net",
+         "line": 32,
+         "rawfrom": "Jim Douglas <douglasj@swbell.net>\n",
+         "source": "email",
+         "to": "Brenda Dalton <brdalton@worldnet.att.net>"
+      },
+      {
+         "from": "lbj624@aol.com",
+         "line": 46,
+         "rawfrom": "LBJ624@aol.com\n",
+         "source": "valid",
+         "to": "Chispabob@aol.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent_items/9.",
+   "hops": [
+      {
+         "from": "c..giron@enron.com",
+         "line": 4,
+         "rawfrom": "c..giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dmoore21@charter.net"
+      },
+      {
+         "from": "dmoore21@charter.net",
+         "line": 24,
+         "rawfrom": "\t\"Darnell\" <dmoore21@charter.net>@ENRON  \n",
+         "source": "email",
+         "to": "Giron, Darron C.; Kristi Giron; kristi.giron@houston.rr.com"
+      },
+      {
+         "from": "dmoore21@charter.net",
+         "line": 32,
+         "rawfrom": "\"Darnell\" <dmoore21@charter.net>\n",
+         "source": "email",
+         "to": "\"Darron Giron\" <Darron.C.Giron@enron.com>; \"Kristi Giron\""
+      },
+      {
+         "from": "templetkj@bcu.com",
+         "line": 43,
+         "rawfrom": "\"Templet Kenneth J.\" <TempletKJ@bcu.com>\n",
+         "source": "email",
+         "to": "\"Darnell\" <dmoore21@charter.net>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent_items/149.",
+   "hops": [
+      {
+         "from": "c..giron@enron.com",
+         "line": 4,
+         "rawfrom": "c..giron@enron.com\r\n",
+         "source": "valid",
+         "to": "kristi.giron@cfisd.net"
+      },
+      {
+         "from": "jmjaked@mindspring.com",
+         "line": 30,
+         "rawfrom": "\t\"Jason Dobbs\" <jmjaked@mindspring.com>@ENRON  \n",
+         "source": "email",
+         "to": "phil love; jim wood; dobbswn; dana sanders; chris chambless; chance wood; caleb dobbs; boo boo dobbs; ashley himber"
+      },
+      {
+         "from": "leemobley@excite.com",
+         "line": 36,
+         "rawfrom": "Michael Mobley <leemobley@excite.com>\n",
+         "source": "email",
+         "to": "<darmy4@sonet.net>; <therealflame@yahoo.com>; <DClay@championhomes.net>;"
+      },
+      {
+         "from": "kclark@sonet.net",
+         "line": 62,
+         "rawfrom": "\"kerry s clark\" <kclark@sonet.net>\n",
+         "source": "email",
+         "to": "\"Wendy Cannon\" <windless_95@yahoo.com>,        \"Trent Doss\" <trentdoss@excite.com>,        \"Shanna Mitchell\" <smitchell@cisfn.com>,        \"Shae Umfress\" <SUmfress@Monroe.k12.ms.us>,        \"S Sharp\" <groovy_girl_799@yahoo.com>,        \"Ray Lyons\" <trlyons@hotmail.com>, \"Lee Mobley\" <leemobley@excite.com>,        \"Lajune Davidson\" <lajunedavidson@hotmail.com>,        \"Kimmy Burleson\" <Kabtherapy@yahoo.com>,        \"Jane Riner\" <jarino@sonet.net>,        \"Doug Wharton\" <dougwharton@webtv.net>,        \"Craig Hull\" <chull@continentalconveyor.com>,        \"Bev Garrison\" <Bdgarrison@aol.com>,        \"Annette Rea\" <area@bevillst.cc.al.us>"
+      },
+      {
+         "from": "pholley@buccaneerhomes.com",
+         "line": 75,
+         "rawfrom": "\"Holley, Pam\" <pholley@buccaneerhomes.com>\n",
+         "source": "email",
+         "to": "\"White, Jeff\" <JWhite@buccaneerhomes.com>"
+      },
+      {
+         "from": "pwlucius@icc.cc.ms.us",
+         "line": 127,
+         "rawfrom": "Phillip Lucius [mailto:pwlucius@icc.cc.ms.us]\n",
+         "source": "email",
+         "to": "jlucius@sonet.net"
+      },
+      {
+         "from": "drrobbins@icc.cc.ms.us",
+         "line": 136,
+         "rawfrom": "Robbins, Danny [mailto:drrobbins@icc.cc.ms.us]\n",
+         "source": "email",
+         "to": "Tice, Tony; Brady, Ronald; Emison, Barry; Kitchens, Terry; Stephens,"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent_items/109.",
+   "hops": [
+      {
+         "from": "c..giron@enron.com",
+         "line": 4,
+         "rawfrom": "c..giron@enron.com\r\n",
+         "source": "valid",
+         "to": "david.plaisance@us.pwcglobal.com"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 25,
+         "rawfrom": "\t<david.plaisance@us.pwcglobal.com>@ENRON [mailto:IMCEANOTES-+3Cdavid+2Eplaisance+40us+2Epwcglobal+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Giron, Darron C."
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 39,
+         "rawfrom": "Darron.C.Giron@enron.com on 07/23/2001 09:37:06 AM\n",
+         "source": "email",
+         "to": "David Plaisance/FAS/Price Waterhouse@FAS"
+      },
+      {
+         "from": "david.plaisance@us.pwcglobal.com",
+         "line": 58,
+         "rawfrom": "  <david.plaisance@us.pwcglobal.com>@ENRON\n",
+         "source": "email",
+         "to": "dgiron@enron.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/sent_items/11.",
+   "hops": [
+      {
+         "from": "c..giron@enron.com",
+         "line": 4,
+         "rawfrom": "c..giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@houston.rr.com"
+      },
+      {
+         "from": "smmayers@attbi.com",
+         "line": 22,
+         "rawfrom": "\t\"Sean Mayers\" <smmayers@attbi.com>@ENRON  \n",
+         "source": "email",
+         "to": "Smetana, Scott; Singla, Vip; Schneeberger, Mark H.; Richter, Mike; Richey, Patrick; Reishus, Matt; Polian, Kevin; Ott, Doug; Moon, Chad; Hiatt, Drew; Hackel, Jody; Giron, Darron; Giron, Carlos; Daughtery, Brian; Boehm, Greg"
+      },
+      {
+         "from": "dcanfiel@lanier.com",
+         "line": 35,
+         "rawfrom": "\"Canfield, David\" <dcanfiel@lanier.com>\n",
+         "source": "email",
+         "to": "\"Bartlebaugh, Michael\" <mbartl01@lanier.com>"
+      },
+      {
+         "from": "abedogg@hotmail.com",
+         "line": 55,
+         "rawfrom": "bradley abels  [mailto:abedogg@hotmail.com]\n",
+         "source": "email",
+         "to": "abepupp@hotmail.com; bluearcos@hotmail.com;  bradjcogswell@hotmail.com; bughouse@bright.net; cak249@yahoo.com;  cashflow@ohiohills.com; cgbjrb@juno.com; doncrain@pol.net;  GGRIFFIN3@satx.rr.com; gseifter@yahoo.com; HABRADL@aol.com;  jazztrumpet_2000@yahoo.com; kestone01@yahoo.com; KHawk@med-health-system.org;  kimballbeck@hotmail.com; Melissa.Battiest@UTSouthwestern.edu; pdelamer@msn.com;  PKCPA@aol.com; SABELS@HOTMAIL.COM; sandtmc3@aol.com; scarab21excel@yahoo.com;  scott_calder@yahoo.com; smbr5@earthlink.net; snm72@hotmail.com;  tarakyan@hotmail.com; wakedad@zoomnet.net;  William.Gibson@LACKLAND.AF.MIL"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/discussion_threads/90.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@pdq.net"
+      },
+      {
+         "from": "jvalent@entergy.com",
+         "line": 47,
+         "rawfrom": "\"Valentz, Jason\" <JValent@entergy.com>\n",
+         "source": "email",
+         "to": "\"'Ben Raymond'\" <bray777@swbell.net>, \"'Chuck Wall'\""
+      },
+      {
+         "from": "washingtont2@epenergy.com",
+         "line": 85,
+         "rawfrom": "Washington, Tony [mailto:WashingtonT2@epenergy.com]\n",
+         "source": "email",
+         "to": "'jdavi12@entergy.com'"
+      },
+      {
+         "from": "mlipman@natsource.com",
+         "line": 102,
+         "rawfrom": "Matthew Lipman [mailto:mlipman@natsource.com]\n",
+         "source": "email",
+         "to": "'llbloom@alum.mit.edu'; 'jal54@aol.com'"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/discussion_threads/224.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "kristi.giron@cfisd.net, smmayers@earthlink.net"
+      },
+      {
+         "from": "phil.hooper@msl.redstone.army.mil",
+         "line": 46,
+         "rawfrom": "\"Phil Hooper\" <Phil.Hooper@msl.redstone.army.mil>\n",
+         "source": "email",
+         "to": "<km5km@avsia.com>, \"Bob Hammons\" <Bob.Hammons@msl.redstone.army.mil>,"
+      },
+      {
+         "from": "greg.parker@rdec.redstone.army.mil",
+         "line": 63,
+         "rawfrom": "\"Parker, Greg\" <Greg.Parker@rdec.redstone.army.mil>\n",
+         "source": "email",
+         "to": "\"Dillon, John T\" <John.Dillon@rdec.redstone.army.mil>,        \"Owen, Phil"
+      },
+      {
+         "from": "dlhorst@bellsouth.net",
+         "line": 93,
+         "rawfrom": "Derek Horst [mailto:dlhorst@bellsouth.net]\n",
+         "source": "email",
+         "to": "Amy Williams; Lewis White; Darryl Wells; Stan Tillman; Rick Shotts; Mark"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/discussion_threads/74.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@pdq.net"
+      },
+      {
+         "from": "dkerr2@email.msn.com",
+         "line": 37,
+         "rawfrom": "\"dkerr2\" <dkerr2@email.msn.com>\n",
+         "source": "email",
+         "to": "<hollyw@email.msn.com>"
+      },
+      {
+         "from": "stepht@nailor.com",
+         "line": 45,
+         "rawfrom": "\"Stephanie Thompson\" <stepht@nailor.com>\n",
+         "source": "email",
+         "to": "\"Ian Faria\" <farrell74@hotmail.com>; \"Duke Keller\""
+      },
+      {
+         "from": "victor.hall@wilcom.com",
+         "line": 65,
+         "rawfrom": "Hall, Victor <Victor.Hall@Wilcom.com>\n",
+         "source": "email",
+         "to": "'JNETT43@aol.com' <JNETT43@aol.com>; 'Jones, Bud'"
+      },
+      {
+         "from": "thebrat1964@hotmail.com",
+         "line": 89,
+         "rawfrom": "Cheryl H [mailto:thebrat1964@hotmail.com]\n",
+         "source": "email",
+         "to": "ajpie4@yahoo.com; victor.hall@wilcom.com; od2946@aol.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/discussion_threads/270.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@pdq.net"
+      },
+      {
+         "from": "swarre02@coair.com",
+         "line": 43,
+         "rawfrom": "\"Warren, Stacy\" <swarre02@coair.com>\n",
+         "source": "email",
+         "to": "\"Ugly Boo (E-mail)\" <hollyw@email.msn.com>; \"Wanda Harding (E-mail)\""
+      },
+      {
+         "from": "pranshaw@ssusa.cc",
+         "line": 56,
+         "rawfrom": "Pete Ranshaw [mailto:pranshaw@ssusa.cc]\n",
+         "source": "email",
+         "to": "MARY JANE ADAMS; GreenEyes4949@aol.com"
+      },
+      {
+         "from": "bforr@ssusa.cc",
+         "line": 65,
+         "rawfrom": "Ben Orr [mailto:bforr@ssusa.cc]\n",
+         "source": "email",
+         "to": "Judy Camp; Todd Conger; Alice DeBuhr; Jim Faughn; Jeff Hartgrove;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/discussion_threads/621.",
+   "hops": [
+      {
+         "from": "cgiron@mindspring.com",
+         "line": 4,
+         "rawfrom": "cgiron@mindspring.com\r\n",
+         "source": "valid",
+         "to": "angela.teerwilliams@gte.net, dgiron@enron.com, dgiron1@pdq.net,"
+      },
+      {
+         "from": "ronniegiron@yahoo.com",
+         "line": 31,
+         "rawfrom": "Ronnie Giron <ronniegiron@yahoo.com>\n",
+         "source": "email",
+         "to": "Susa Schmidt <susa.schmidt@t-online.de>,  Kevin Skillin"
+      },
+      {
+         "from": "douglasj@swbell.net",
+         "line": 68,
+         "rawfrom": "Jim Douglas <douglasj@swbell.net>\n",
+         "source": "email",
+         "to": "\"Ronniegiron@yahoo.com\" <ronniegiron@yahoo.com>"
+      },
+      {
+         "from": "brdalton@worldnet.att.net",
+         "line": 96,
+         "rawfrom": "Brenda Dalton <brdalton@worldnet.att.net>\n",
+         "source": "email",
+         "to": "John Douglas <audioguy@ev1.net>, Jac-John Sutton"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/discussion_threads/239.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@pdq.net"
+      },
+      {
+         "from": "bobbyo16@hotmail.com",
+         "line": 44,
+         "rawfrom": "\"Bobby O\" <bobbyo16@hotmail.com>\n",
+         "source": "email",
+         "to": "bhahn1@lsu.edu, bustma@hotmail.com, mikegiambrone@netscape.net,"
+      },
+      {
+         "from": "pktempleton@hotmail.com",
+         "line": 71,
+         "rawfrom": "\"Parker Templeton\" <pktempleton@hotmail.com>\n",
+         "source": "email",
+         "to": "Trenmat@aol.com, e-haik@home.com, brianroleblanc@aol.com,"
+      },
+      {
+         "from": "rsunstr@aol.com",
+         "line": 81,
+         "rawfrom": "Rsunstr@aol.com\n",
+         "source": "valid",
+         "to": "zz1286@hotmail.com, Richard.Bueche@jcbradford.com,"
+      },
+      {
+         "from": "bmess6944@aol.com",
+         "line": 102,
+         "rawfrom": "BMess6944@aol.com\n",
+         "source": "valid",
+         "to": "paxtonalbert@hotmail.com, brettbonnecaze@hotmail.com,"
+      },
+      {
+         "from": "bobbyo16@hotmail.com",
+         "line": 129,
+         "rawfrom": "\"Bobby O\" <bobbyo16@hotmail.com>\n",
+         "source": "email",
+         "to": "bhahn1@lsu.edu, bustma@hotmail.com, mikegiambrone@netscape.net,"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/discussion_threads/111.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "jackson.logan@enron.com"
+      },
+      {
+         "from": "jrham@worldnet.att.net",
+         "line": 73,
+         "rawfrom": "\"Jim  Hamilton\" <jrham@worldnet.att.net>\n",
+         "source": "email",
+         "to": "\"Alton Smith\" <altsmith@cisco.com>"
+      },
+      {
+         "from": "mtdburnett@hotmail.com",
+         "line": 90,
+         "rawfrom": "Martin Burnett <mtdburnett@hotmail.com>\n",
+         "source": "email",
+         "to": "barandbag@mediaone.net <barandbag@mediaone.net>; P015@persnet.navy.mil"
+      },
+      {
+         "from": "sbeanokie@tah-usa.net",
+         "line": 133,
+         "rawfrom": "\"Joe & Norma Morris\" <sbeanokie@tah-usa.net>\n",
+         "source": "email",
+         "to": "Undisclosed-Recipient:;@tah-usa.net"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/discussion_threads/46.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@pdq.net"
+      },
+      {
+         "from": "dkerr2@email.msn.com",
+         "line": 38,
+         "rawfrom": "\"dkerr2\" <dkerr2@email.msn.com>\n",
+         "source": "email",
+         "to": "<hollyw@email.msn.com>"
+      },
+      {
+         "from": "mandyh@warpwebtech.com",
+         "line": 46,
+         "rawfrom": "\"Amanda M. Hissey\" <mandyh@warpwebtech.com>\n",
+         "source": "email",
+         "to": "\"Trace Torrence\" <tracer1@pdq.net>; \"Rhonda Spaulding\""
+      },
+      {
+         "from": "jimreniers@email.msn.com",
+         "line": 59,
+         "rawfrom": "jimreniers [mailto:jimreniers@email.msn.com]\n",
+         "source": "email",
+         "to": "Beridon Leon; Bowman, Bill; Davis, Bob L; Davis bob HOME; Fairchild"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/discussion_threads/110.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "greg.couch@enron.com"
+      },
+      {
+         "from": "jrham@worldnet.att.net",
+         "line": 47,
+         "rawfrom": "\"Jim  Hamilton\" <jrham@worldnet.att.net>\n",
+         "source": "email",
+         "to": "\"Alton Smith\" <altsmith@cisco.com>"
+      },
+      {
+         "from": "mtdburnett@hotmail.com",
+         "line": 64,
+         "rawfrom": "Martin Burnett <mtdburnett@hotmail.com>\n",
+         "source": "email",
+         "to": "barandbag@mediaone.net <barandbag@mediaone.net>; P015@persnet.navy.mil"
+      },
+      {
+         "from": "sbeanokie@tah-usa.net",
+         "line": 107,
+         "rawfrom": "\"Joe & Norma Morris\" <sbeanokie@tah-usa.net>\n",
+         "source": "email",
+         "to": "Undisclosed-Recipient:;@tah-usa.net"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/discussion_threads/438.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "hollyw@email.msn.com, kristi.giron@cfisd.net, smmayers@earthlink.net"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 55,
+         "rawfrom": "\"Love, Dianne\" <love@cl.uh.edu>\n",
+         "source": "email",
+         "to": "\"'plove570@cs.com'\" <plove570@cs.com>"
+      },
+      {
+         "from": "annie@ala.nu",
+         "line": 67,
+         "rawfrom": "Andrea Oliver [SMTP:annie@ala.nu]\n",
+         "source": "email",
+         "to": "Shirley Mitchell"
+      },
+      {
+         "from": "leila@ala.nu",
+         "line": 74,
+         "rawfrom": "\"Leila\" <leila@ala.nu>\n",
+         "source": "email",
+         "to": "\"betty stringfellow\" <bstring@ala.nu>; \"bonnie posey\""
+      },
+      {
+         "from": "te066538@yahoo.com",
+         "line": 84,
+         "rawfrom": "E.J. Eiteljorge <te066538@yahoo.com>\n",
+         "source": "email",
+         "to": "Jan Fox <janbillfox@yahoo.com>; Teri Gillette <bladetlg@aol.com>;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/discussion_threads/611.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "kwpope@pdq.net"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 39,
+         "rawfrom": "\"Kent & Karen Pope\" <kwpope@pdq.net> on 05/10/2001 11:39:45 AM\n",
+         "source": "email",
+         "to": "\"Dan Kessler\" <dan@vcrhouston.com>, \"Darron C. Giron\""
+      },
+      {
+         "from": "elizabeth.watsky@bakeratlas.com",
+         "line": 50,
+         "rawfrom": "Watsky, Elizabeth <Elizabeth.Watsky@bakeratlas.com>\n",
+         "source": "email",
+         "to": "'yvette_sepulveda@foleys.com' <yvette_sepulveda@foleys.com>;"
+      },
+      {
+         "from": "msyoung@tmh.tmc.edu",
+         "line": 61,
+         "rawfrom": "Young, Melissa [mailto:MSYoung@tmh.tmc.edu]\n",
+         "source": "email",
+         "to": "'Cheri Thomas'; 'Dad'; 'Elizabeth - work'; 'Stephen-Home'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/discussion_threads/126.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "greg.couch@enron.com, phillip.love@enron.com, jackson.logan@enron.com"
+      },
+      {
+         "from": "ronniegiron@yahoo.com",
+         "line": 31,
+         "rawfrom": "Ronnie Giron <ronniegiron@yahoo.com>\n",
+         "source": "email",
+         "to": "Carl Swan <rcantrell@potomacenergy.com>; Georges Tadros"
+      },
+      {
+         "from": "kathya@rabey.com",
+         "line": 64,
+         "rawfrom": "Kathy Atherton <KathyA@RABEY.com>\n",
+         "source": "email",
+         "to": "\"'ronniegiron@yahoo.com'\" <ronniegiron@yahoo.com>"
+      },
+      {
+         "from": "wilensky.bob@littondsd.com",
+         "line": 78,
+         "rawfrom": "Wilensky, Bob  [mailto:Wilensky.Bob@LittonDSD.com]\n",
+         "source": "email",
+         "to": "Hank Coolidge (E-mail); Palmertree,  Kenneth"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/discussion_threads/625.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "kwpope@pdq.net"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 26,
+         "rawfrom": "\"Kent & Karen Pope\" <kwpope@pdq.net> on 05/14/2001 07:59:53 AM\n",
+         "source": "email",
+         "to": "\"Darron C. Giron\" <Darron.C.Giron@enron.com>"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 37,
+         "rawfrom": "Kent & Karen Pope <kwpope@pdq.net>\n",
+         "source": "email",
+         "to": "Dan Kessler <Dan@vcrhouston.com>"
+      },
+      {
+         "from": "dan@vcrhouston.com",
+         "line": 48,
+         "rawfrom": "Dan Kessler <Dan@vcrhouston.com>\n",
+         "source": "email",
+         "to": "Kent & Karen Pope <kwpope@pdq.net>"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 71,
+         "rawfrom": "Kent & Karen Pope [mailto:kwpope@pdq.net]\n",
+         "source": "email",
+         "to": "Dan Kessler"
+      },
+      {
+         "from": "elizabeth.watsky@bakeratlas.com",
+         "line": 78,
+         "rawfrom": "Watsky, Elizabeth <Elizabeth.Watsky@bakeratlas.com>\n",
+         "source": "email",
+         "to": "'Kent & Karen Pope' <kwpope@pdq.net>"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 166,
+         "rawfrom": "Kent & Karen Pope [mailto:kwpope@pdq.net]\n",
+         "source": "email",
+         "to": "Watsky, Elizabeth"
+      },
+      {
+         "from": "elizabeth.watsky@bakeratlas.com",
+         "line": 174,
+         "rawfrom": "Watsky, Elizabeth <Elizabeth.Watsky@bakeratlas.com>\n",
+         "source": "email",
+         "to": "'yvette_sepulveda@foleys.com' <yvette_sepulveda@foleys.com>;"
+      },
+      {
+         "from": "msyoung@tmh.tmc.edu",
+         "line": 185,
+         "rawfrom": "Young, Melissa [mailto:MSYoung@tmh.tmc.edu]\n",
+         "source": "email",
+         "to": "'Cheri Thomas'; 'Dad'; 'Elizabeth - work'; 'Stephen-Home'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/discussion_threads/624.",
+   "hops": [
+      {
+         "from": "kwpope@pdq.net",
+         "line": 4,
+         "rawfrom": "kwpope@pdq.net\r\n",
+         "source": "valid",
+         "to": "darron.c.giron@enron.com"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 23,
+         "rawfrom": "Kent & Karen Pope <kwpope@pdq.net>\n",
+         "source": "email",
+         "to": "Dan Kessler <Dan@vcrhouston.com>"
+      },
+      {
+         "from": "dan@vcrhouston.com",
+         "line": 34,
+         "rawfrom": "Dan Kessler <Dan@vcrhouston.com>\n",
+         "source": "email",
+         "to": "Kent & Karen Pope <kwpope@pdq.net>"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 57,
+         "rawfrom": "Kent & Karen Pope [mailto:kwpope@pdq.net]\n",
+         "source": "email",
+         "to": "Dan Kessler"
+      },
+      {
+         "from": "elizabeth.watsky@bakeratlas.com",
+         "line": 64,
+         "rawfrom": "Watsky, Elizabeth <Elizabeth.Watsky@bakeratlas.com>\n",
+         "source": "email",
+         "to": "'Kent & Karen Pope' <kwpope@pdq.net>"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 152,
+         "rawfrom": "Kent & Karen Pope [mailto:kwpope@pdq.net]\n",
+         "source": "email",
+         "to": "Watsky, Elizabeth"
+      },
+      {
+         "from": "elizabeth.watsky@bakeratlas.com",
+         "line": 160,
+         "rawfrom": "Watsky, Elizabeth <Elizabeth.Watsky@bakeratlas.com>\n",
+         "source": "email",
+         "to": "'yvette_sepulveda@foleys.com' <yvette_sepulveda@foleys.com>;"
+      },
+      {
+         "from": "msyoung@tmh.tmc.edu",
+         "line": 171,
+         "rawfrom": "Young, Melissa [mailto:MSYoung@tmh.tmc.edu]\n",
+         "source": "email",
+         "to": "'Cheri Thomas'; 'Dad'; 'Elizabeth - work'; 'Stephen-Home'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/discussion_threads/287.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "kristi.giron@cfisd.net, phillip.love@enron.com, dgiron1@pdq.net,"
+      },
+      {
+         "from": "rjones562@earthlink.net",
+         "line": 39,
+         "rawfrom": "\"Ronald Jones\" <rjones562@earthlink.net>\n",
+         "source": "email",
+         "to": "\"Scott\" <ssmith@mariner-energy.com>; \"Rochelle\""
+      },
+      {
+         "from": "gudeaw@email.msn.com",
+         "line": 50,
+         "rawfrom": "\"gudeaw\" <gudeaw@email.msn.com>\n",
+         "source": "email",
+         "to": "\"Mario Smith\" <mariofsmith@msn.com>; \"Mario Augusto Silva\""
+      },
+      {
+         "from": "bill.dean@west.boeing.com",
+         "line": 88,
+         "rawfrom": "EXT-Dean, Bill T [SMTP:Bill.Dean@West.Boeing.com]\n",
+         "source": "email",
+         "to": "'Bernie Drake'"
+      },
+      {
+         "from": "liamwong@mindspring.com",
+         "line": 97,
+         "rawfrom": "Liam Wong [SMTP:liamwong@mindspring.com]\n",
+         "source": "email",
+         "to": "liamwong@mindspring.com <mailto:liamwong@mindspring.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/discussion_threads/476.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "phillip.love@enron.com, errol.mclaughlin@enron.com, kam.keiser@enron.com,"
+      },
+      {
+         "from": "gbohan@home.com",
+         "line": 47,
+         "rawfrom": "\"LIGHTHOUSE DESIGN\" <GBOHAN@HOME.COM>\n",
+         "source": "email",
+         "to": "\"Carlos and Yvonne Giron\" <cgiron@mindspring.com>"
+      },
+      {
+         "from": "jeff@hightechpackaging.com",
+         "line": 66,
+         "rawfrom": "Jeff Harrell  [mailto:jeff@hightechpackaging.com]\n",
+         "source": "email",
+         "to": "Tim Wiggins; Glenn Bohan; Dallas; Mike  Sasser"
+      },
+      {
+         "from": "gkay@jenkens.com",
+         "line": 82,
+         "rawfrom": "Kay,  Geoffrey [mailto:gkay@jenkens.com]  \n",
+         "source": "email",
+         "to": "Alec Van Hook (E-mail); Amy Burton (E-mail); Blain Roberts  (E-mail);"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/discussion_threads/48.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@pdq.net"
+      },
+      {
+         "from": "gmind@icsi.net",
+         "line": 34,
+         "rawfrom": "\"Debbie Hall\" <gmind@icsi.net>\n",
+         "source": "email",
+         "to": "\"C & M\" <onealexi2@aol.com>; \"hollyw\" <hollyw@email.msn.com>; \"Jodi"
+      },
+      {
+         "from": "bagmanhpb@aol.com",
+         "line": 56,
+         "rawfrom": "BagManHPB@aol.com\n",
+         "source": "valid",
+         "to": "dadkins7011@email.msn.com, sli-cer@email.msn.com,"
+      },
+      {
+         "from": "kmturner@flex.net",
+         "line": 78,
+         "rawfrom": "\"Ken Turner\" <kmturner@flex.net>\n",
+         "source": "email",
+         "to": "\"Ann Turner (E-mail)\" <abturner@flex.net>,        \"Boss (E-mail)\""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/discussion_threads/11.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "hollyw@email.msn.com, bwallace@tcast.com, smmayers@earthlink.net,"
+      },
+      {
+         "from": "tthieman@bright.net",
+         "line": 58,
+         "rawfrom": "Sandra Thieman <tthieman@bright.net>\n",
+         "source": "email",
+         "to": "michelle thieman <thieman@bright.net>; Nancy & Larry Roettger"
+      },
+      {
+         "from": "bjohnson1@accesstoledo.com",
+         "line": 72,
+         "rawfrom": "Becky <bjohnson1@accesstoledo.com>\n",
+         "source": "email",
+         "to": "Judy <jtb@defnet.com>; Paul E. Brose, M.D. <pbrose@bright.net>; Pam"
+      },
+      {
+         "from": "bsterling@cconnect.net",
+         "line": 83,
+         "rawfrom": "       Bill Sterling, bsterling@cconnect.net\n",
+         "source": "email",
+         "to": "Becky, bjohnson1@accesstoledo.com"
+      },
+      {
+         "from": "sterlingmichelle@hotmail.com",
+         "line": 93,
+         "rawfrom": "\"michelle sterling\" <sterlingmichelle@hotmail.com>\n",
+         "source": "email",
+         "to": "<kadlac@earthlink.net>; <brenda_mcclain@hotmail.com>;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/discussion_threads/474.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "patrick.ryder@enron.com, smmayers@earthlink.net, scott.crowell@us.cgeyc.com,"
+      },
+      {
+         "from": "grant.w@mindspring.com",
+         "line": 44,
+         "rawfrom": "\"grant whipple\" <grant.w@mindspring.com>\n",
+         "source": "email",
+         "to": "\"Carlos Giron\" <cgiron@mindspring.com>"
+      },
+      {
+         "from": "glennmill@juno.com",
+         "line": 82,
+         "rawfrom": "Glenn A  Miller [mailto:glennmill@juno.com] \n",
+         "source": "email",
+         "to": "JanetMoshier@cruisesinc.com; Piponi@aol.com; kperry@family.net;"
+      },
+      {
+         "from": "tpharry@flash.net",
+         "line": 93,
+         "rawfrom": "Terri Harry <tpharry@flash.net> \n",
+         "source": "email",
+         "to": "Undisclosed-recipients:;"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 113,
+         "rawfrom": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com> \n",
+         "source": "email",
+         "to": "\"'Jonah H.  Peretti'\" <peretti@media.mit.edu>"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 134,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu>  \n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com>"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 157,
+         "rawfrom": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com> \n",
+         "source": "email",
+         "to": "\"'Jonah H.  Peretti'\" <peretti@media.mit.edu>"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 171,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu>  \n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com>"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 209,
+         "rawfrom": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com> \n",
+         "source": "email",
+         "to": "\"'Jonah H.  Peretti'\" <peretti@media.mit.edu>"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 238,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu>  \n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/_sent_mail/670.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@pdq.net"
+      },
+      {
+         "from": "jvalent@entergy.com",
+         "line": 47,
+         "rawfrom": "\"Valentz, Jason\" <JValent@entergy.com>\n",
+         "source": "email",
+         "to": "\"'Ben Raymond'\" <bray777@swbell.net>, \"'Chuck Wall'\""
+      },
+      {
+         "from": "washingtont2@epenergy.com",
+         "line": 85,
+         "rawfrom": "Washington, Tony [mailto:WashingtonT2@epenergy.com]\n",
+         "source": "email",
+         "to": "'jdavi12@entergy.com'"
+      },
+      {
+         "from": "mlipman@natsource.com",
+         "line": 102,
+         "rawfrom": "Matthew Lipman [mailto:mlipman@natsource.com]\n",
+         "source": "email",
+         "to": "'llbloom@alum.mit.edu'; 'jal54@aol.com'"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/_sent_mail/2.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "kwpope@pdq.net"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 26,
+         "rawfrom": "\"Kent & Karen Pope\" <kwpope@pdq.net> on 05/14/2001 07:59:53 AM\n",
+         "source": "email",
+         "to": "\"Darron C. Giron\" <Darron.C.Giron@enron.com>"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 37,
+         "rawfrom": "Kent & Karen Pope <kwpope@pdq.net>\n",
+         "source": "email",
+         "to": "Dan Kessler <Dan@vcrhouston.com>"
+      },
+      {
+         "from": "dan@vcrhouston.com",
+         "line": 48,
+         "rawfrom": "Dan Kessler <Dan@vcrhouston.com>\n",
+         "source": "email",
+         "to": "Kent & Karen Pope <kwpope@pdq.net>"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 71,
+         "rawfrom": "Kent & Karen Pope [mailto:kwpope@pdq.net]\n",
+         "source": "email",
+         "to": "Dan Kessler"
+      },
+      {
+         "from": "elizabeth.watsky@bakeratlas.com",
+         "line": 78,
+         "rawfrom": "Watsky, Elizabeth <Elizabeth.Watsky@bakeratlas.com>\n",
+         "source": "email",
+         "to": "'Kent & Karen Pope' <kwpope@pdq.net>"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 166,
+         "rawfrom": "Kent & Karen Pope [mailto:kwpope@pdq.net]\n",
+         "source": "email",
+         "to": "Watsky, Elizabeth"
+      },
+      {
+         "from": "elizabeth.watsky@bakeratlas.com",
+         "line": 174,
+         "rawfrom": "Watsky, Elizabeth <Elizabeth.Watsky@bakeratlas.com>\n",
+         "source": "email",
+         "to": "'yvette_sepulveda@foleys.com' <yvette_sepulveda@foleys.com>;"
+      },
+      {
+         "from": "msyoung@tmh.tmc.edu",
+         "line": 185,
+         "rawfrom": "Young, Melissa [mailto:MSYoung@tmh.tmc.edu]\n",
+         "source": "email",
+         "to": "'Cheri Thomas'; 'Dad'; 'Elizabeth - work'; 'Stephen-Home'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/_sent_mail/731.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@pdq.net"
+      },
+      {
+         "from": "gmind@icsi.net",
+         "line": 34,
+         "rawfrom": "\"Debbie Hall\" <gmind@icsi.net>\n",
+         "source": "email",
+         "to": "\"C & M\" <onealexi2@aol.com>; \"hollyw\" <hollyw@email.msn.com>; \"Jodi"
+      },
+      {
+         "from": "bagmanhpb@aol.com",
+         "line": 56,
+         "rawfrom": "BagManHPB@aol.com\n",
+         "source": "valid",
+         "to": "dadkins7011@email.msn.com, sli-cer@email.msn.com,"
+      },
+      {
+         "from": "kmturner@flex.net",
+         "line": 78,
+         "rawfrom": "\"Ken Turner\" <kmturner@flex.net>\n",
+         "source": "email",
+         "to": "\"Ann Turner (E-mail)\" <abturner@flex.net>,        \"Boss (E-mail)\""
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/_sent_mail/424.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "kristi.giron@cfisd.net, phillip.love@enron.com, dgiron1@pdq.net,"
+      },
+      {
+         "from": "rjones562@earthlink.net",
+         "line": 39,
+         "rawfrom": "\"Ronald Jones\" <rjones562@earthlink.net>\n",
+         "source": "email",
+         "to": "\"Scott\" <ssmith@mariner-energy.com>; \"Rochelle\""
+      },
+      {
+         "from": "gudeaw@email.msn.com",
+         "line": 50,
+         "rawfrom": "\"gudeaw\" <gudeaw@email.msn.com>\n",
+         "source": "email",
+         "to": "\"Mario Smith\" <mariofsmith@msn.com>; \"Mario Augusto Silva\""
+      },
+      {
+         "from": "bill.dean@west.boeing.com",
+         "line": 88,
+         "rawfrom": "EXT-Dean, Bill T [SMTP:Bill.Dean@West.Boeing.com]\n",
+         "source": "email",
+         "to": "'Bernie Drake'"
+      },
+      {
+         "from": "liamwong@mindspring.com",
+         "line": 97,
+         "rawfrom": "Liam Wong [SMTP:liamwong@mindspring.com]\n",
+         "source": "email",
+         "to": "liamwong@mindspring.com <mailto:liamwong@mindspring.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/_sent_mail/780.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "hollyw@email.msn.com, bwallace@tcast.com, smmayers@earthlink.net,"
+      },
+      {
+         "from": "tthieman@bright.net",
+         "line": 58,
+         "rawfrom": "Sandra Thieman <tthieman@bright.net>\n",
+         "source": "email",
+         "to": "michelle thieman <thieman@bright.net>; Nancy & Larry Roettger"
+      },
+      {
+         "from": "bjohnson1@accesstoledo.com",
+         "line": 72,
+         "rawfrom": "Becky <bjohnson1@accesstoledo.com>\n",
+         "source": "email",
+         "to": "Judy <jtb@defnet.com>; Paul E. Brose, M.D. <pbrose@bright.net>; Pam"
+      },
+      {
+         "from": "bsterling@cconnect.net",
+         "line": 83,
+         "rawfrom": "       Bill Sterling, bsterling@cconnect.net\n",
+         "source": "email",
+         "to": "Becky, bjohnson1@accesstoledo.com"
+      },
+      {
+         "from": "sterlingmichelle@hotmail.com",
+         "line": 93,
+         "rawfrom": "\"michelle sterling\" <sterlingmichelle@hotmail.com>\n",
+         "source": "email",
+         "to": "<kadlac@earthlink.net>; <brenda_mcclain@hotmail.com>;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/_sent_mail/621.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "greg.couch@enron.com, phillip.love@enron.com, jackson.logan@enron.com"
+      },
+      {
+         "from": "ronniegiron@yahoo.com",
+         "line": 31,
+         "rawfrom": "Ronnie Giron <ronniegiron@yahoo.com>\n",
+         "source": "email",
+         "to": "Carl Swan <rcantrell@potomacenergy.com>; Georges Tadros"
+      },
+      {
+         "from": "kathya@rabey.com",
+         "line": 64,
+         "rawfrom": "Kathy Atherton <KathyA@RABEY.com>\n",
+         "source": "email",
+         "to": "\"'ronniegiron@yahoo.com'\" <ronniegiron@yahoo.com>"
+      },
+      {
+         "from": "wilensky.bob@littondsd.com",
+         "line": 78,
+         "rawfrom": "Wilensky, Bob  [mailto:Wilensky.Bob@LittonDSD.com]\n",
+         "source": "email",
+         "to": "Hank Coolidge (E-mail); Palmertree,  Kenneth"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/_sent_mail/145.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "phillip.love@enron.com, errol.mclaughlin@enron.com, kam.keiser@enron.com,"
+      },
+      {
+         "from": "gbohan@home.com",
+         "line": 47,
+         "rawfrom": "\"LIGHTHOUSE DESIGN\" <GBOHAN@HOME.COM>\n",
+         "source": "email",
+         "to": "\"Carlos and Yvonne Giron\" <cgiron@mindspring.com>"
+      },
+      {
+         "from": "jeff@hightechpackaging.com",
+         "line": 66,
+         "rawfrom": "Jeff Harrell  [mailto:jeff@hightechpackaging.com]\n",
+         "source": "email",
+         "to": "Tim Wiggins; Glenn Bohan; Dallas; Mike  Sasser"
+      },
+      {
+         "from": "gkay@jenkens.com",
+         "line": 82,
+         "rawfrom": "Kay,  Geoffrey [mailto:gkay@jenkens.com]  \n",
+         "source": "email",
+         "to": "Alec Van Hook (E-mail); Amy Burton (E-mail); Blain Roberts  (E-mail);"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/_sent_mail/344.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "yhaynes@mindspring.com"
+      },
+      {
+         "from": "yhaynes@mindspring.com",
+         "line": 25,
+         "rawfrom": "\"Yvonne Haynes\" <yhaynes@mindspring.com> on 01/09/2001 09:43:26 AM\n",
+         "source": "email",
+         "to": "\"Josh Penick\" <josh@intranetdesigns.com>, \"Jennifer Iu\""
+      },
+      {
+         "from": "jflar@exchange.ml.com",
+         "line": 38,
+         "rawfrom": "Flar, Jason (SIG-SDG) <JFlar@exchange.ml.com>\n",
+         "source": "email",
+         "to": "Bankerd, Victoria (ICD-SF) <VBankerd@exchange.ml.com>; Megow, Joseph A"
+      },
+      {
+         "from": "jflar@bloomberg.net",
+         "line": 57,
+         "rawfrom": "JASON FLAR, MERRILL LYNCH/SAN DI [SMTP:JFLAR@bloomberg.net]\n",
+         "source": "email",
+         "to": "JFLAR@EXCHANGE.ML.COM"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/_sent_mail/707.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "anabel.soria@travelpark.com"
+      },
+      {
+         "from": "anabel.soria@travelpark.com",
+         "line": 25,
+         "rawfrom": "Anabel Soria <anabel.soria@travelpark.com> on 08/11/2000 10:00:22 AM\n",
+         "source": "email",
+         "to": "\"'Darron.C.Giron@enron.com'\" <Darron.C.Giron@enron.com>"
+      },
+      {
+         "from": "darron.c.giron@enron.com",
+         "line": 40,
+         "rawfrom": " Darron.C.Giron@enron.com[SMTP:Darron.C.Giron@enron.com]\n",
+         "source": "email",
+         "to": "anabel.soria@travelpark.com"
+      },
+      {
+         "from": "anabel.soria@travelpark.com",
+         "line": 56,
+         "rawfrom": "anabel.soria@travelpark.com",
+         "source": "valid",
+         "to": "\"'Darron.c.giron@enron.com'\" <Darron.c.giron@enron.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/_sent_mail/194.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "hollyw@email.msn.com, kristi.giron@cfisd.net, smmayers@earthlink.net"
+      },
+      {
+         "from": "love@cl.uh.edu",
+         "line": 55,
+         "rawfrom": "\"Love, Dianne\" <love@cl.uh.edu>\n",
+         "source": "email",
+         "to": "\"'plove570@cs.com'\" <plove570@cs.com>"
+      },
+      {
+         "from": "annie@ala.nu",
+         "line": 67,
+         "rawfrom": "Andrea Oliver [SMTP:annie@ala.nu]\n",
+         "source": "email",
+         "to": "Shirley Mitchell"
+      },
+      {
+         "from": "leila@ala.nu",
+         "line": 74,
+         "rawfrom": "\"Leila\" <leila@ala.nu>\n",
+         "source": "email",
+         "to": "\"betty stringfellow\" <bstring@ala.nu>; \"bonnie posey\""
+      },
+      {
+         "from": "te066538@yahoo.com",
+         "line": 84,
+         "rawfrom": "E.J. Eiteljorge <te066538@yahoo.com>\n",
+         "source": "email",
+         "to": "Jan Fox <janbillfox@yahoo.com>; Teri Gillette <bladetlg@aol.com>;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/_sent_mail/733.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@pdq.net"
+      },
+      {
+         "from": "dkerr2@email.msn.com",
+         "line": 38,
+         "rawfrom": "\"dkerr2\" <dkerr2@email.msn.com>\n",
+         "source": "email",
+         "to": "<hollyw@email.msn.com>"
+      },
+      {
+         "from": "mandyh@warpwebtech.com",
+         "line": 46,
+         "rawfrom": "\"Amanda M. Hissey\" <mandyh@warpwebtech.com>\n",
+         "source": "email",
+         "to": "\"Trace Torrence\" <tracer1@pdq.net>; \"Rhonda Spaulding\""
+      },
+      {
+         "from": "jimreniers@email.msn.com",
+         "line": 59,
+         "rawfrom": "jimreniers [mailto:jimreniers@email.msn.com]\n",
+         "source": "email",
+         "to": "Beridon Leon; Bowman, Bill; Davis, Bob L; Davis bob HOME; Fairchild"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/_sent_mail/148.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "patrick.ryder@enron.com, smmayers@earthlink.net, scott.crowell@us.cgeyc.com,"
+      },
+      {
+         "from": "grant.w@mindspring.com",
+         "line": 44,
+         "rawfrom": "\"grant whipple\" <grant.w@mindspring.com>\n",
+         "source": "email",
+         "to": "\"Carlos Giron\" <cgiron@mindspring.com>"
+      },
+      {
+         "from": "glennmill@juno.com",
+         "line": 82,
+         "rawfrom": "Glenn A  Miller [mailto:glennmill@juno.com] \n",
+         "source": "email",
+         "to": "JanetMoshier@cruisesinc.com; Piponi@aol.com; kperry@family.net;"
+      },
+      {
+         "from": "tpharry@flash.net",
+         "line": 93,
+         "rawfrom": "Terri Harry <tpharry@flash.net> \n",
+         "source": "email",
+         "to": "Undisclosed-recipients:;"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 113,
+         "rawfrom": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com> \n",
+         "source": "email",
+         "to": "\"'Jonah H.  Peretti'\" <peretti@media.mit.edu>"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 134,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu>  \n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com>"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 157,
+         "rawfrom": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com> \n",
+         "source": "email",
+         "to": "\"'Jonah H.  Peretti'\" <peretti@media.mit.edu>"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 171,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu>  \n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com>"
+      },
+      {
+         "from": "nikeid_personalize@nike.com",
+         "line": 209,
+         "rawfrom": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com> \n",
+         "source": "email",
+         "to": "\"'Jonah H.  Peretti'\" <peretti@media.mit.edu>"
+      },
+      {
+         "from": "peretti@media.mit.edu",
+         "line": 238,
+         "rawfrom": "\"Jonah H. Peretti\" <peretti@media.mit.edu>  \n",
+         "source": "email",
+         "to": "\"Personalize, NIKE iD\"  <nikeid_personalize@nike.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/_sent_mail/645.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "jackson.logan@enron.com"
+      },
+      {
+         "from": "jrham@worldnet.att.net",
+         "line": 73,
+         "rawfrom": "\"Jim  Hamilton\" <jrham@worldnet.att.net>\n",
+         "source": "email",
+         "to": "\"Alton Smith\" <altsmith@cisco.com>"
+      },
+      {
+         "from": "mtdburnett@hotmail.com",
+         "line": 90,
+         "rawfrom": "Martin Burnett <mtdburnett@hotmail.com>\n",
+         "source": "email",
+         "to": "barandbag@mediaone.net <barandbag@mediaone.net>; P015@persnet.navy.mil"
+      },
+      {
+         "from": "sbeanokie@tah-usa.net",
+         "line": 133,
+         "rawfrom": "\"Joe & Norma Morris\" <sbeanokie@tah-usa.net>\n",
+         "source": "email",
+         "to": "Undisclosed-Recipient:;@tah-usa.net"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/_sent_mail/449.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@pdq.net"
+      },
+      {
+         "from": "swarre02@coair.com",
+         "line": 43,
+         "rawfrom": "\"Warren, Stacy\" <swarre02@coair.com>\n",
+         "source": "email",
+         "to": "\"Ugly Boo (E-mail)\" <hollyw@email.msn.com>; \"Wanda Harding (E-mail)\""
+      },
+      {
+         "from": "pranshaw@ssusa.cc",
+         "line": 56,
+         "rawfrom": "Pete Ranshaw [mailto:pranshaw@ssusa.cc]\n",
+         "source": "email",
+         "to": "MARY JANE ADAMS; GreenEyes4949@aol.com"
+      },
+      {
+         "from": "bforr@ssusa.cc",
+         "line": 65,
+         "rawfrom": "Ben Orr [mailto:bforr@ssusa.cc]\n",
+         "source": "email",
+         "to": "Judy Camp; Todd Conger; Alice DeBuhr; Jim Faughn; Jeff Hartgrove;"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/_sent_mail/487.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@pdq.net"
+      },
+      {
+         "from": "bobbyo16@hotmail.com",
+         "line": 44,
+         "rawfrom": "\"Bobby O\" <bobbyo16@hotmail.com>\n",
+         "source": "email",
+         "to": "bhahn1@lsu.edu, bustma@hotmail.com, mikegiambrone@netscape.net,"
+      },
+      {
+         "from": "pktempleton@hotmail.com",
+         "line": 71,
+         "rawfrom": "\"Parker Templeton\" <pktempleton@hotmail.com>\n",
+         "source": "email",
+         "to": "Trenmat@aol.com, e-haik@home.com, brianroleblanc@aol.com,"
+      },
+      {
+         "from": "rsunstr@aol.com",
+         "line": 81,
+         "rawfrom": "Rsunstr@aol.com\n",
+         "source": "valid",
+         "to": "zz1286@hotmail.com, Richard.Bueche@jcbradford.com,"
+      },
+      {
+         "from": "bmess6944@aol.com",
+         "line": 102,
+         "rawfrom": "BMess6944@aol.com\n",
+         "source": "valid",
+         "to": "paxtonalbert@hotmail.com, brettbonnecaze@hotmail.com,"
+      },
+      {
+         "from": "bobbyo16@hotmail.com",
+         "line": 129,
+         "rawfrom": "\"Bobby O\" <bobbyo16@hotmail.com>\n",
+         "source": "email",
+         "to": "bhahn1@lsu.edu, bustma@hotmail.com, mikegiambrone@netscape.net,"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/_sent_mail/696.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "dgiron1@pdq.net"
+      },
+      {
+         "from": "dkerr2@email.msn.com",
+         "line": 37,
+         "rawfrom": "\"dkerr2\" <dkerr2@email.msn.com>\n",
+         "source": "email",
+         "to": "<hollyw@email.msn.com>"
+      },
+      {
+         "from": "stepht@nailor.com",
+         "line": 45,
+         "rawfrom": "\"Stephanie Thompson\" <stepht@nailor.com>\n",
+         "source": "email",
+         "to": "\"Ian Faria\" <farrell74@hotmail.com>; \"Duke Keller\""
+      },
+      {
+         "from": "victor.hall@wilcom.com",
+         "line": 65,
+         "rawfrom": "Hall, Victor <Victor.Hall@Wilcom.com>\n",
+         "source": "email",
+         "to": "'JNETT43@aol.com' <JNETT43@aol.com>; 'Jones, Bud'"
+      },
+      {
+         "from": "thebrat1964@hotmail.com",
+         "line": 89,
+         "rawfrom": "Cheryl H [mailto:thebrat1964@hotmail.com]\n",
+         "source": "email",
+         "to": "ajpie4@yahoo.com; victor.hall@wilcom.com; od2946@aol.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/_sent_mail/7.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "kwpope@pdq.net"
+      },
+      {
+         "from": "kwpope@pdq.net",
+         "line": 39,
+         "rawfrom": "\"Kent & Karen Pope\" <kwpope@pdq.net> on 05/10/2001 11:39:45 AM\n",
+         "source": "email",
+         "to": "\"Dan Kessler\" <dan@vcrhouston.com>, \"Darron C. Giron\""
+      },
+      {
+         "from": "elizabeth.watsky@bakeratlas.com",
+         "line": 50,
+         "rawfrom": "Watsky, Elizabeth <Elizabeth.Watsky@bakeratlas.com>\n",
+         "source": "email",
+         "to": "'yvette_sepulveda@foleys.com' <yvette_sepulveda@foleys.com>;"
+      },
+      {
+         "from": "msyoung@tmh.tmc.edu",
+         "line": 61,
+         "rawfrom": "Young, Melissa [mailto:MSYoung@tmh.tmc.edu]\n",
+         "source": "email",
+         "to": "'Cheri Thomas'; 'Dad'; 'Elizabeth - work'; 'Stephen-Home'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/_sent_mail/647.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "greg.couch@enron.com"
+      },
+      {
+         "from": "jrham@worldnet.att.net",
+         "line": 47,
+         "rawfrom": "\"Jim  Hamilton\" <jrham@worldnet.att.net>\n",
+         "source": "email",
+         "to": "\"Alton Smith\" <altsmith@cisco.com>"
+      },
+      {
+         "from": "mtdburnett@hotmail.com",
+         "line": 64,
+         "rawfrom": "Martin Burnett <mtdburnett@hotmail.com>\n",
+         "source": "email",
+         "to": "barandbag@mediaone.net <barandbag@mediaone.net>; P015@persnet.navy.mil"
+      },
+      {
+         "from": "sbeanokie@tah-usa.net",
+         "line": 107,
+         "rawfrom": "\"Joe & Norma Morris\" <sbeanokie@tah-usa.net>\n",
+         "source": "email",
+         "to": "Undisclosed-Recipient:;@tah-usa.net"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/giron-d/_sent_mail/501.",
+   "hops": [
+      {
+         "from": "darron.giron@enron.com",
+         "line": 4,
+         "rawfrom": "darron.giron@enron.com\r\n",
+         "source": "valid",
+         "to": "kristi.giron@cfisd.net, smmayers@earthlink.net"
+      },
+      {
+         "from": "phil.hooper@msl.redstone.army.mil",
+         "line": 46,
+         "rawfrom": "\"Phil Hooper\" <Phil.Hooper@msl.redstone.army.mil>\n",
+         "source": "email",
+         "to": "<km5km@avsia.com>, \"Bob Hammons\" <Bob.Hammons@msl.redstone.army.mil>,"
+      },
+      {
+         "from": "greg.parker@rdec.redstone.army.mil",
+         "line": 63,
+         "rawfrom": "\"Parker, Greg\" <Greg.Parker@rdec.redstone.army.mil>\n",
+         "source": "email",
+         "to": "\"Dillon, John T\" <John.Dillon@rdec.redstone.army.mil>,        \"Owen, Phil"
+      },
+      {
+         "from": "dlhorst@bellsouth.net",
+         "line": 93,
+         "rawfrom": "Derek Horst [mailto:dlhorst@bellsouth.net]\n",
+         "source": "email",
+         "to": "Amy Williams; Lewis White; Darryl Wells; Stan Tillman; Rick Shotts; Mark"
+      }
+   ],
+   "skipped": 2
+}
+]

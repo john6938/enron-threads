@@ -1,0 +1,71 @@
+[
+{
+   "file": "/home/jb/maildir/motley-m/inbox/ene_portland/middle_market/30.",
+   "hops": [
+      {
+         "from": "dave.fuller@enron.com",
+         "line": 4,
+         "rawfrom": "dave.fuller@enron.com\r\n",
+         "source": "valid",
+         "to": "tim.belden@enron.com, matt.motley@enron.com"
+      },
+      {
+         "from": "danjames@mediaone.net",
+         "line": 22,
+         "rawfrom": "Dan James [mailto:danjames@mediaone.net]\n",
+         "source": "email",
+         "to": "Dan Bennewitz; Dave Boyer; Todd Cronan; Stillman Tom (E-mail); Sant"
+      },
+      {
+         "from": "danjames@mediaone.net",
+         "line": 33,
+         "rawfrom": " <danjames@mediaone.net>\n",
+         "source": "email",
+         "to": "kbriscoe@loweenterprises.com, Phil@burgessproperties.com, shd@netvigator.com, kquinne@mindspring.com, natalie_fair@att.net, ellen@skiportillo.com, danjames@mediaone.net, njannotta@gtcr.com, lkind@pacbell.net, Bruce.Knecht@news.wsj.com, Kathy_Levin@i2.com, dralphs@attglobal.net, Wslus@aol.com, mwehrle@mcjunkin.com, BettinaLZ@aol.com"
+      },
+      {
+         "from": "b12atwater@aol.com",
+         "line": 42,
+         "rawfrom": " <B12ATWATER@aol.com>\n",
+         "source": "email",
+         "to": "guerroc@yahoo.com, jlhartwell@msn.com, hensonj@home.com, Majames@aol.com, pete.newell@attglobal.net, Whee1@aol.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/motley-m/inbox/64.",
+   "hops": [
+      {
+         "from": "bryan@oklobbyist.com",
+         "line": 4,
+         "rawfrom": "bryan@oklobbyist.com\r\n",
+         "source": "valid",
+         "to": "matt.motley@enron.com"
+      },
+      {
+         "from": "dbrown5428@aol.com",
+         "line": 22,
+         "rawfrom": "DBrown5428@aol.com [mailto:DBrown5428@aol.com] \n",
+         "source": "email",
+         "to": "bruceday@oklawyer.com; bryan@oklobbyist.com; Dan Cooney; David@walterspi.com; davis@okoha.com; okfanda@mindspring.com; LanghusJ@sullcrom.com; Brian Maddy; otieann@oklobbyist.com"
+      },
+      {
+         "from": "lssohn@earthlink.net",
+         "line": 31,
+         "rawfrom": " <lssohn@earthlink.net>\n",
+         "source": "email",
+         "to": "Sohn, Pam <PSohn@TimesFreePress.com>, Dana Brown <dbrown5428@aol.com>"
+      },
+      {
+         "from": "sydneygsmith@msn.com",
+         "line": 40,
+         "rawfrom": "\"sydney smith\" <sydneygsmith@msn.com> \n",
+         "source": "email",
+         "to": "DBrown5428@aol.com, cgcsmith@bellsouth.net, bill.gailey@sciatl.com,"
+      }
+   ],
+   "skipped": 0
+}
+]

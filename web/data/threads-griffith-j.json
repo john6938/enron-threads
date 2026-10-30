@@ -1,0 +1,1380 @@
+[
+{
+   "file": "/home/jb/maildir/griffith-j/personal_contacts/10.",
+   "hops": [
+      {
+         "from": "mtitus@myfirstlink.net",
+         "line": 4,
+         "rawfrom": "mtitus@myfirstlink.net\r\n",
+         "source": "valid",
+         "to": "john.griffith@enron.com"
+      },
+      {
+         "from": "john.griffith@enron.com",
+         "line": 29,
+         "rawfrom": "<John.Griffith@enron.com>\n",
+         "source": "email",
+         "to": "<mtitus@myfirstlink.net>"
+      },
+      {
+         "from": "jeff.young@paconsulting.com",
+         "line": 42,
+         "rawfrom": "    Jeff Young <Jeff.Young@PAConsulting.com>@ENRON\n",
+         "source": "email",
+         "to": "Griffith, John"
+      },
+      {
+         "from": "john.griffith@enron.com",
+         "line": 54,
+         "rawfrom": "John.Griffith@enron.com [mailto:John.Griffith@enron.com]\n",
+         "source": "email",
+         "to": "Jeff Young"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/personal_contacts/12.",
+   "hops": [
+      {
+         "from": "georgehuan@hotmail.com",
+         "line": 4,
+         "rawfrom": "georgehuan@hotmail.com\r\n",
+         "source": "valid",
+         "to": "john.griffith@enron.com"
+      },
+      {
+         "from": "john.griffith@enron.com",
+         "line": 30,
+         "rawfrom": "\"Griffith, John\" <John.Griffith@ENRON.com>\n",
+         "source": "email",
+         "to": "<georgehuan@hotmail.com>"
+      },
+      {
+         "from": "jeff.young@paconsulting.com",
+         "line": 45,
+         "rawfrom": "Jeff Young <Jeff.Young@PAConsulting.com>@ENRON\n",
+         "source": "email",
+         "to": "Griffith, John"
+      },
+      {
+         "from": "john.griffith@enron.com",
+         "line": 57,
+         "rawfrom": "John.Griffith@enron.com [mailto:John.Griffith@enron.com]\n",
+         "source": "email",
+         "to": "Jeff Young"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/personal_contacts/7.",
+   "hops": [
+      {
+         "from": "loftuslea@worldnet.att.net",
+         "line": 4,
+         "rawfrom": "loftuslea@worldnet.att.net\r\n",
+         "source": "valid",
+         "to": "john.griffith@enron.com"
+      },
+      {
+         "from": "john.griffith@enron.com",
+         "line": 26,
+         "rawfrom": "John.Griffith@enron.com [mailto:John.Griffith@enron.com]\n",
+         "source": "email",
+         "to": "Loftuslea@worldnet.att.net"
+      },
+      {
+         "from": "jeff.young@paconsulting.com",
+         "line": 40,
+         "rawfrom": "    Jeff Young <Jeff.Young@PAConsulting.com>@ENRON\n",
+         "source": "email",
+         "to": "Griffith, John"
+      },
+      {
+         "from": "john.griffith@enron.com",
+         "line": 52,
+         "rawfrom": "John.Griffith@enron.com [mailto:John.Griffith@enron.com]\n",
+         "source": "email",
+         "to": "Jeff Young"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/all_documents/364.",
+   "hops": [
+      {
+         "from": "efitts@webtv.net",
+         "line": 4,
+         "rawfrom": "efitts@webtv.net\r\n",
+         "source": "valid",
+         "to": "hoot61@yahoo.com, jrb49a@aol.com, jblanton@ev1.net, donnice@swbell.net,"
+      },
+      {
+         "from": "edwinfitts@hotmail.com",
+         "line": 37,
+         "rawfrom": "\"Edwin Fitts\" <edwinfitts@hotmail.com>\n",
+         "source": "email",
+         "to": "efitts@webtv.net"
+      },
+      {
+         "from": "osears@hotmail.com",
+         "line": 52,
+         "rawfrom": "\"Owen Sears\" <osears@hotmail.com>\n",
+         "source": "email",
+         "to": "charris1369@hotmail.com, edwinfitts@hotmail.com, jsears@wescosps.com"
+      },
+      {
+         "from": "eastwoodgl@yahoo.com",
+         "line": 60,
+         "rawfrom": "Gary Eastwood <eastwoodgl@yahoo.com>\n",
+         "source": "email",
+         "to": "AJ Field <big_dog_50@hotmail.com>,  Doris Barrett"
+      },
+      {
+         "from": "scott1@nts-online.net",
+         "line": 89,
+         "rawfrom": "\"Scott Irlbeck\" <scott1@nts-online.net>\n",
+         "source": "email",
+         "to": "\"Gary Eastwood\" <eastwoodgl@yahoo.com>, \"Scott Bice\" <SBices@aol.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/deleted_items/1151.",
+   "hops": [
+      {
+         "from": "john.griffith@enron.com",
+         "line": 4,
+         "rawfrom": "john.griffith@enron.com\r\n",
+         "source": "valid",
+         "to": "griff@odessapumps.com"
+      },
+      {
+         "from": "griff@odessapumps.com",
+         "line": 22,
+         "rawfrom": "\tMike Griffith <Griff@odessapumps.com>@ENRON  \n",
+         "source": "email",
+         "to": "Griffith, John"
+      },
+      {
+         "from": "john.griffith@enron.com",
+         "line": 31,
+         "rawfrom": "John.Griffith@enron.com [mailto:John.Griffith@enron.com]\n",
+         "source": "email",
+         "to": "Mike Griffith"
+      },
+      {
+         "from": "griff@odessapumps.com",
+         "line": 40,
+         "rawfrom": "  Mike Griffith <Griff@odessapumps.com>@ENRON\n",
+         "source": "email",
+         "to": "Griffith, John"
+      },
+      {
+         "from": "john.griffith@enron.com",
+         "line": 55,
+         "rawfrom": "John.Griffith@enron.com [mailto:John.Griffith@enron.com]\n",
+         "source": "email",
+         "to": "Mike Griffith"
+      },
+      {
+         "from": "griff@odessapumps.com",
+         "line": 85,
+         "rawfrom": "  Mike Griffith <Griff@odessapumps.com>@ENRON\n",
+         "source": "email",
+         "to": "Griffith, John"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/deleted_items/1152.",
+   "hops": [
+      {
+         "from": "john.griffith@enron.com",
+         "line": 4,
+         "rawfrom": "john.griffith@enron.com\r\n",
+         "source": "valid",
+         "to": "griff@odessapumps.com"
+      },
+      {
+         "from": "griff@odessapumps.com",
+         "line": 22,
+         "rawfrom": "\tMike Griffith <Griff@odessapumps.com>@ENRON  \n",
+         "source": "email",
+         "to": "Griffith, John"
+      },
+      {
+         "from": "john.griffith@enron.com",
+         "line": 35,
+         "rawfrom": "John.Griffith@enron.com [mailto:John.Griffith@enron.com]\n",
+         "source": "email",
+         "to": "Mike Griffith"
+      },
+      {
+         "from": "griff@odessapumps.com",
+         "line": 59,
+         "rawfrom": "  Mike Griffith <Griff@odessapumps.com>@ENRON\n",
+         "source": "email",
+         "to": "Griffith, John"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/deleted_items/253.",
+   "hops": [
+      {
+         "from": "griff@odessapumps.com",
+         "line": 4,
+         "rawfrom": "griff@odessapumps.com\r\n",
+         "source": "valid",
+         "to": "e-mail <.anita@enron.com>, e-mail <.ashlee@enron.com>,"
+      },
+      {
+         "from": "glenn.lankford@natoil.com",
+         "line": 30,
+         "rawfrom": "Lankford, Glenn  [mailto:Glenn.Lankford@natoil.com]\n",
+         "source": "email",
+         "to": "Jack Boone; Buxton, Dana; Cheatwood, Brenda; Larry Childs  (E-mail); Earsom, Roger; Mike Griffith; Jefferson, Joy; Davin Lankford (E-mail);  Kevin Strabala (E-mail)"
+      },
+      {
+         "from": "alankford@dxpe.com",
+         "line": 39,
+         "rawfrom": "Alice  Lankford [mailto:alankford@dxpe.com]\n",
+         "source": "email",
+         "to": "Lankford,  Glenn"
+      },
+      {
+         "from": "ansaco2@intellex.com",
+         "line": 47,
+         "rawfrom": " Kathy Cox  [SMTP:ansaco2@intellex.com]\n",
+         "source": "email",
+         "to": "Alice  Lankford"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/deleted_items/276.",
+   "hops": [
+      {
+         "from": "ampaez@earthlink.net",
+         "line": 4,
+         "rawfrom": "ampaez@earthlink.net\r\n",
+         "source": "valid",
+         "to": "john.griffith@enron.com"
+      },
+      {
+         "from": "john.griffith@enron.com",
+         "line": 22,
+         "rawfrom": "John.Griffith@enron.com\n",
+         "source": "valid",
+         "to": "ampaez@earthlink.net"
+      },
+      {
+         "from": "ampaez@earthlink.net",
+         "line": 31,
+         "rawfrom": "  Angelica Paez <ampaez@earthlink.net>@ENRON\n",
+         "source": "email",
+         "to": "Griffith, John"
+      },
+      {
+         "from": "john.griffith@enron.com",
+         "line": 41,
+         "rawfrom": "\"Griffith, John\" <John.Griffith@ENRON.com>\n",
+         "source": "email",
+         "to": "<ampaez@earthlink.net>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/deleted_items/1146.",
+   "hops": [
+      {
+         "from": "griff@odessapumps.com",
+         "line": 4,
+         "rawfrom": "griff@odessapumps.com\r\n",
+         "source": "valid",
+         "to": "john.griffith@enron.com"
+      },
+      {
+         "from": "john.griffith@enron.com",
+         "line": 22,
+         "rawfrom": "John.Griffith@enron.com [mailto:John.Griffith@enron.com]\n",
+         "source": "email",
+         "to": "Mike Griffith"
+      },
+      {
+         "from": "griff@odessapumps.com",
+         "line": 31,
+         "rawfrom": "  Mike Griffith <Griff@odessapumps.com>@ENRON\n",
+         "source": "email",
+         "to": "Griffith, John"
+      },
+      {
+         "from": "john.griffith@enron.com",
+         "line": 41,
+         "rawfrom": "John.Griffith@enron.com [mailto:John.Griffith@enron.com]\n",
+         "source": "email",
+         "to": "Mike Griffith"
+      },
+      {
+         "from": "griff@odessapumps.com",
+         "line": 50,
+         "rawfrom": "  Mike Griffith <Griff@odessapumps.com>@ENRON\n",
+         "source": "email",
+         "to": "Griffith, John"
+      },
+      {
+         "from": "john.griffith@enron.com",
+         "line": 68,
+         "rawfrom": "John.Griffith@enron.com [mailto:John.Griffith@enron.com]\n",
+         "source": "email",
+         "to": "Mike Griffith"
+      },
+      {
+         "from": "griff@odessapumps.com",
+         "line": 102,
+         "rawfrom": "  Mike Griffith <Griff@odessapumps.com>@ENRON\n",
+         "source": "email",
+         "to": "Griffith, John"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/deleted_items/275.",
+   "hops": [
+      {
+         "from": "ampaez@earthlink.net",
+         "line": 4,
+         "rawfrom": "ampaez@earthlink.net\r\n",
+         "source": "valid",
+         "to": "john.griffith@enron.com"
+      },
+      {
+         "from": "john.griffith@enron.com",
+         "line": 22,
+         "rawfrom": "John.Griffith@enron.com\n",
+         "source": "valid",
+         "to": "ampaez@earthlink.net"
+      },
+      {
+         "from": "ampaez@earthlink.net",
+         "line": 31,
+         "rawfrom": "  Angelica Paez <ampaez@earthlink.net>@ENRON\n",
+         "source": "email",
+         "to": "Griffith, John"
+      },
+      {
+         "from": "john.griffith@enron.com",
+         "line": 41,
+         "rawfrom": "\"Griffith, John\" <John.Griffith@ENRON.com>\n",
+         "source": "email",
+         "to": "<ampaez@earthlink.net>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/deleted_items/391.",
+   "hops": [
+      {
+         "from": "griff@odessapumps.com",
+         "line": 4,
+         "rawfrom": "griff@odessapumps.com\r\n",
+         "source": "valid",
+         "to": "bell.connie@enron.com, boone.jack@enron.com, swanson.jackie@enron.com,"
+      },
+      {
+         "from": "kkboers@hilconet.com",
+         "line": 31,
+         "rawfrom": "Michelle Robinson [mailto:kkboers@hilconet.com]\n",
+         "source": "email",
+         "to": "Mike Griffith"
+      },
+      {
+         "from": "srobbins@bioassay.com",
+         "line": 38,
+         "rawfrom": "\"Sheila K. Robbins\" <SRobbins@Bioassay.com>\n",
+         "source": "email",
+         "to": "\"Michelle Robinson\" <kkboers@hilconet.com>; \"Debby L. Bell\""
+      },
+      {
+         "from": "jtullous@wmgltd.com",
+         "line": 47,
+         "rawfrom": "\"Jennifer Tullous\" <JTullous@wmgltd.com>\n",
+         "source": "email",
+         "to": "<Alex4King@hotmail.com>; <Tullous@lewis.army.mil>;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/deleted_items/1167.",
+   "hops": [
+      {
+         "from": "jhgriff@earthlink.net",
+         "line": 4,
+         "rawfrom": "jhgriff@earthlink.net\r\n",
+         "source": "valid",
+         "to": "john.griffith@enron.com"
+      },
+      {
+         "from": "thoffman@rochelle.net",
+         "line": 24,
+         "rawfrom": "\"Todd Hoffman\" <thoffman@rochelle.net>\n",
+         "source": "email",
+         "to": "\"Angelica Marie Paez\" <jhgriff@earthlink.net>"
+      },
+      {
+         "from": "jhgriff@earthlink.net",
+         "line": 32,
+         "rawfrom": "Angelica Marie Paez [mailto:jhgriff@earthlink.net]\n",
+         "source": "email",
+         "to": "Todd Hoffman"
+      },
+      {
+         "from": "thoffman@rochelle.net",
+         "line": 40,
+         "rawfrom": "\"Todd Hoffman\" <thoffman@rochelle.net>\n",
+         "source": "email",
+         "to": "\"Angelica Marie Paez\" <jhgriff@earthlink.net>"
+      },
+      {
+         "from": "jhgriff@earthlink.net",
+         "line": 49,
+         "rawfrom": "Angelica Marie Paez [mailto:jhgriff@earthlink.net]\n",
+         "source": "email",
+         "to": "thoffman@rochelle.net"
+      },
+      {
+         "from": "thoffman@rochelle.net",
+         "line": 57,
+         "rawfrom": "thoffman@rochelle.net\n",
+         "source": "valid",
+         "to": "jhgriff@earthlink.net"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/deleted_items/385.",
+   "hops": [
+      {
+         "from": "griff@odessapumps.com",
+         "line": 4,
+         "rawfrom": "griff@odessapumps.com\r\n",
+         "source": "valid",
+         "to": "e-mail <.anita@enron.com>, e-mail <.brian@enron.com>,"
+      },
+      {
+         "from": "ashlee@kcac.net",
+         "line": 30,
+         "rawfrom": "Ashlee Pfeiffer [mailto:ashlee@kcac.net]\n",
+         "source": "email",
+         "to": "Mike Griffith"
+      },
+      {
+         "from": "perri.madden@tobin.com",
+         "line": 38,
+         "rawfrom": "\"Perri Madden\" <Perri.Madden@tobin.com>\n",
+         "source": "email",
+         "to": "<ashlee@kcac.net>"
+      },
+      {
+         "from": "hpelfrey@anlt.com",
+         "line": 48,
+         "rawfrom": "Pelfrey, Heather [SMTP:hpelfrey@ANLT.com]\n",
+         "source": "email",
+         "to": "'Alex A'; 'Alicia Reeves'; 'Jana at home'; 'MOM'; 'Perri Madden';"
+      },
+      {
+         "from": "tim487@aol.com",
+         "line": 67,
+         "rawfrom": "TIM487@aol.com [mailto:TIM487@aol.com]\n",
+         "source": "email",
+         "to": "bmagna@worldnet.att.net; filmmonkey@excite.com; jbremser@kc.rr.com;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/deleted_items/221.",
+   "hops": [
+      {
+         "from": "griff@odessapumps.com",
+         "line": 4,
+         "rawfrom": "griff@odessapumps.com\r\n",
+         "source": "valid",
+         "to": "johnson.charles@enron.com, mcfadden.cody@enron.com, bell.connie@enron.com,"
+      },
+      {
+         "from": "briank@nwol.net",
+         "line": 35,
+         "rawfrom": "Brian Knighten [mailto:briank@nwol.net]\n",
+         "source": "email",
+         "to": "Mike Griffith"
+      },
+      {
+         "from": "lonmahan@hotmail.com",
+         "line": 44,
+         "rawfrom": "Lon Mahan [mailto:lonmahan@hotmail.com]\n",
+         "source": "email",
+         "to": "braudadley@hotmail.com; bhall@hanover-co.com; lucas_brad@yahoo.com;"
+      },
+      {
+         "from": "mahann@txol.net",
+         "line": 58,
+         "rawfrom": "\"nancy mahan\" <mahann@txol.net>\n",
+         "source": "email",
+         "to": "\"Lon Mahan\" <lonmahan@hotmail.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/deleted_items/1150.",
+   "hops": [
+      {
+         "from": "john.griffith@enron.com",
+         "line": 4,
+         "rawfrom": "john.griffith@enron.com\r\n",
+         "source": "valid",
+         "to": "jhgriff@earthlink.net"
+      },
+      {
+         "from": "jhgriff@earthlink.net",
+         "line": 26,
+         "rawfrom": "\tAngelica Marie Paez <jhgriff@earthlink.net>@ENRON  \n",
+         "source": "email",
+         "to": "Griffith, John"
+      },
+      {
+         "from": "thoffman@rochelle.net",
+         "line": 36,
+         "rawfrom": "\"Todd Hoffman\" <thoffman@rochelle.net>\n",
+         "source": "email",
+         "to": "\"Angelica Marie Paez\" <jhgriff@earthlink.net>"
+      },
+      {
+         "from": "jhgriff@earthlink.net",
+         "line": 44,
+         "rawfrom": "Angelica Marie Paez [mailto:jhgriff@earthlink.net]\n",
+         "source": "email",
+         "to": "Todd Hoffman"
+      },
+      {
+         "from": "thoffman@rochelle.net",
+         "line": 52,
+         "rawfrom": "\"Todd Hoffman\" <thoffman@rochelle.net>\n",
+         "source": "email",
+         "to": "\"Angelica Marie Paez\" <jhgriff@earthlink.net>"
+      },
+      {
+         "from": "jhgriff@earthlink.net",
+         "line": 61,
+         "rawfrom": "Angelica Marie Paez [mailto:jhgriff@earthlink.net]\n",
+         "source": "email",
+         "to": "thoffman@rochelle.net"
+      },
+      {
+         "from": "thoffman@rochelle.net",
+         "line": 69,
+         "rawfrom": "thoffman@rochelle.net\n",
+         "source": "valid",
+         "to": "jhgriff@earthlink.net"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/deleted_items/375.",
+   "hops": [
+      {
+         "from": "alex.villarreal@enron.com",
+         "line": 4,
+         "rawfrom": "alex.villarreal@enron.com\r\n",
+         "source": "valid",
+         "to": "john.griffith@enron.com"
+      },
+      {
+         "from": "bkirkman@papadocs.com",
+         "line": 45,
+         "rawfrom": "Bob & Barb Kirkman  [mailto:bkirkman@papadocs.com]\n",
+         "source": "email",
+         "to": "sbellm@ducoa.com"
+      },
+      {
+         "from": "clerk@johnkking.com",
+         "line": 52,
+         "rawfrom": "John King  [mailto:Clerk@johnkking.com]\n",
+         "source": "email",
+         "to": "Bob Kirkman"
+      },
+      {
+         "from": "jimandtina@clas.net",
+         "line": 76,
+         "rawfrom": "Jimand tina  [mailto:jimandtina@clas.net]\n",
+         "source": "email",
+         "to": "lizardgirl82@yahoo.com; Larry H Thacker; Karen Redfern; Kohle  Sanders; Larry & Pandy King; John L Evans; Evine and Lisa Volken; Doug  Toberman; Dad And Kate; Brandon.Maroon@aviano.af.mil; Bebill; andy & doug;  4Nancy Maroon; Amy Gruner; 2Eva M Sundrup; 3Connie Prater"
+      },
+      {
+         "from": "ambrown513@aol.com",
+         "line": 81,
+         "rawfrom": "AMBROWN513@aol.com   \n",
+         "source": "valid",
+         "to": "Angels625@aol.com  ; CamPurr2@aol.com  ; ccrook@houston.rr.com  ; Wishoncemore@aol.com  ; jerre@siriusnet.net  ; Girlene@flash.net  ;  KACIBUG@aol.com  ; Grannieg65@aol.com   ; Judyamcc@aol.com   ; Julie3431@aol.com  ; Lilyans@aol.com  ; LMRNAllen@hotmail.com  ; Sparks1A2@aol.com  ;  JLM1010DLA@aol.com  ; Jaymo5419@aol.com  ;  Rita.Gill@tinker.af.mil  ; nnajnokc@webtv.net"
+      },
+      {
+         "from": "bkirkman@papadocs.com",
+         "line": 108,
+         "rawfrom": "Bob & Barb Kirkman  [mailto:bkirkman@papadocs.com]\n",
+         "source": "email",
+         "to": "White, Sandra"
+      },
+      {
+         "from": "bkirkman@papadocs.com",
+         "line": 114,
+         "rawfrom": "Bob & Barb Kirkman  [mailto:bkirkman@papadocs.com]\n",
+         "source": "email",
+         "to": "john@johnkking.com"
+      },
+      {
+         "from": "kfry@abelink.com",
+         "line": 120,
+         "rawfrom": "The Fry Family  [mailto:kfry@abelink.com]\n",
+         "source": "email",
+         "to": "bkirkman@papadocs.com; candy1963@msn.com; cowboys_rock@msn.com;  vharmon@sgcontainers.com"
+      },
+      {
+         "from": "scarlson@patrickengineering.com",
+         "line": 126,
+         "rawfrom": " scarlson@patrickengineering.com [mailto:scarlson@patrickengineering.com]  \n",
+         "source": "email",
+         "to": "aduncan@patrickengineering.com; bbrueckman@patrickengineering.com;  charli_bird@21stcentury.net; dbshea@gallatinriver.net;  ecarlson@patrickengineering.com; kfry@abelink.com; kimmirenea@hotmail.com;  lmcdaniel@patrickengineering.com; llindaman@patrickengineering.com;  cmaffei@patrickengineering.com; mfrancis@patrickengineering.com;  ewilford@rocketmail.com; molague@patrickengineering.com;  ewilford@rocketmail.com; scharpie@patrickengineering.com;  ttews@patrickengineering.com"
+      },
+      {
+         "from": "mcarlson4@prodigy.net",
+         "line": 132,
+         "rawfrom": "mcarlson4@prodigy.net  [mailto:mcarlson4@prodigy.net]\n",
+         "source": "email",
+         "to": "Steven; Tammie Brown; Carlson, Stacy; Shelley Washington;  Shaylene Donegan; Scott & Jennifer Lamaster; Rhonda Dunnivan; Marc; Kim  Brunk; Kim Anderson; Gayle Young; Donnie; Crystal; Chris & Susan; Colleen G  Carroll; Agness Allcorn"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/deleted_items/1145.",
+   "hops": [
+      {
+         "from": "griff@odessapumps.com",
+         "line": 4,
+         "rawfrom": "griff@odessapumps.com\r\n",
+         "source": "valid",
+         "to": "john.griffith@enron.com"
+      },
+      {
+         "from": "john.griffith@enron.com",
+         "line": 23,
+         "rawfrom": "John.Griffith@enron.com [mailto:John.Griffith@enron.com]\n",
+         "source": "email",
+         "to": "Mike Griffith"
+      },
+      {
+         "from": "griff@odessapumps.com",
+         "line": 32,
+         "rawfrom": "  Mike Griffith <Griff@odessapumps.com>@ENRON\n",
+         "source": "email",
+         "to": "Griffith, John"
+      },
+      {
+         "from": "john.griffith@enron.com",
+         "line": 47,
+         "rawfrom": "John.Griffith@enron.com [mailto:John.Griffith@enron.com]\n",
+         "source": "email",
+         "to": "Mike Griffith"
+      },
+      {
+         "from": "griff@odessapumps.com",
+         "line": 77,
+         "rawfrom": "  Mike Griffith <Griff@odessapumps.com>@ENRON\n",
+         "source": "email",
+         "to": "Griffith, John"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/deleted_items/1173.",
+   "hops": [
+      {
+         "from": "ampaez@earthlink.net",
+         "line": 4,
+         "rawfrom": "ampaez@earthlink.net\r\n",
+         "source": "valid",
+         "to": "john.griffith@enron.com"
+      },
+      {
+         "from": "john.griffith@enron.com",
+         "line": 22,
+         "rawfrom": "John.Griffith@enron.com\n",
+         "source": "valid",
+         "to": "ampaez@earthlink.net"
+      },
+      {
+         "from": "ampaez@earthlink.net",
+         "line": 34,
+         "rawfrom": "  Angelica Paez <ampaez@earthlink.net>@ENRON\n",
+         "source": "email",
+         "to": "Griffith, John"
+      },
+      {
+         "from": "john.griffith@enron.com",
+         "line": 41,
+         "rawfrom": "John.Griffith@enron.com\n",
+         "source": "valid",
+         "to": "ampaez@earthlink.net"
+      },
+      {
+         "from": "ampaez@earthlink.net",
+         "line": 50,
+         "rawfrom": "  Angelica Paez <ampaez@earthlink.net>@ENRON\n",
+         "source": "email",
+         "to": "Griffith, John"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/deleted_items/386.",
+   "hops": [
+      {
+         "from": "griff@odessapumps.com",
+         "line": 4,
+         "rawfrom": "griff@odessapumps.com\r\n",
+         "source": "valid",
+         "to": "e-mail <.anita@enron.com>, e-mail <.brian@enron.com>,"
+      },
+      {
+         "from": "ashlee@kcac.net",
+         "line": 27,
+         "rawfrom": "Ashlee Pfeiffer [mailto:ashlee@kcac.net]\n",
+         "source": "email",
+         "to": "Mike Griffith"
+      },
+      {
+         "from": "perri.madden@tobin.com",
+         "line": 36,
+         "rawfrom": "\"Perri Madden\" <Perri.Madden@tobin.com>\n",
+         "source": "email",
+         "to": "<ashlee@kcac.net>"
+      },
+      {
+         "from": "dj1@wsimaps.com",
+         "line": 46,
+         "rawfrom": "DJ Gonzalez [SMTP:dj1@wsimaps.com]\n",
+         "source": "email",
+         "to": "'Aaron'; 'Butch and Mamie'; 'Danielsahn and bunch'; 'Frost';"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/deleted_items/1166.",
+   "hops": [
+      {
+         "from": "jhgriff@earthlink.net",
+         "line": 4,
+         "rawfrom": "jhgriff@earthlink.net\r\n",
+         "source": "valid",
+         "to": "john.griffith@enron.com"
+      },
+      {
+         "from": "john.griffith@enron.com",
+         "line": 23,
+         "rawfrom": "John.Griffith@enron.com\n",
+         "source": "valid",
+         "to": "jhgriff@earthlink.net"
+      },
+      {
+         "from": "jhgriff@earthlink.net",
+         "line": 31,
+         "rawfrom": "  Angelica Marie Paez <jhgriff@earthlink.net>@ENRON\n",
+         "source": "email",
+         "to": "Griffith, John"
+      },
+      {
+         "from": "thoffman@rochelle.net",
+         "line": 40,
+         "rawfrom": "\"Todd Hoffman\" <thoffman@rochelle.net>\n",
+         "source": "email",
+         "to": "\"Angelica Marie Paez\" <jhgriff@earthlink.net>"
+      },
+      {
+         "from": "jhgriff@earthlink.net",
+         "line": 52,
+         "rawfrom": "Angelica Marie Paez [mailto:jhgriff@earthlink.net]\n",
+         "source": "email",
+         "to": "Todd Hoffman"
+      },
+      {
+         "from": "thoffman@rochelle.net",
+         "line": 63,
+         "rawfrom": "\"Todd Hoffman\" <thoffman@rochelle.net>\n",
+         "source": "email",
+         "to": "\"Angelica Marie Paez\" <jhgriff@earthlink.net>"
+      },
+      {
+         "from": "jhgriff@earthlink.net",
+         "line": 74,
+         "rawfrom": "Angelica Marie Paez [mailto:jhgriff@earthlink.net]\n",
+         "source": "email",
+         "to": "thoffman@rochelle.net"
+      },
+      {
+         "from": "thoffman@rochelle.net",
+         "line": 84,
+         "rawfrom": "thoffman@rochelle.net\n",
+         "source": "valid",
+         "to": "jhgriff@earthlink.net"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/deleted_items/260.",
+   "hops": [
+      {
+         "from": "john.griffith@enron.com",
+         "line": 4,
+         "rawfrom": "john.griffith@enron.com\r\n",
+         "source": "valid",
+         "to": "ampaez@earthlink.net"
+      },
+      {
+         "from": "ampaez@earthlink.net",
+         "line": 26,
+         "rawfrom": "\tAngelica Paez <ampaez@earthlink.net>@ENRON  \n",
+         "source": "email",
+         "to": "Griffith, John"
+      },
+      {
+         "from": "john.griffith@enron.com",
+         "line": 34,
+         "rawfrom": "John.Griffith@enron.com\n",
+         "source": "valid",
+         "to": "ampaez@earthlink.net"
+      },
+      {
+         "from": "ampaez@earthlink.net",
+         "line": 43,
+         "rawfrom": "  Angelica Paez <ampaez@earthlink.net>@ENRON\n",
+         "source": "email",
+         "to": "Griffith, John"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/deleted_items/1181.",
+   "hops": [
+      {
+         "from": "john.griffith@enron.com",
+         "line": 4,
+         "rawfrom": "john.griffith@enron.com\r\n",
+         "source": "valid",
+         "to": "ampaez@earthlink.net"
+      },
+      {
+         "from": "ampaez@earthlink.net",
+         "line": 28,
+         "rawfrom": "\tAngelica Paez <ampaez@earthlink.net>@ENRON  \n",
+         "source": "email",
+         "to": "Griffith, John"
+      },
+      {
+         "from": "john.griffith@enron.com",
+         "line": 36,
+         "rawfrom": "John.Griffith@enron.com\n",
+         "source": "valid",
+         "to": "ampaez@earthlink.net"
+      },
+      {
+         "from": "ampaez@earthlink.net",
+         "line": 45,
+         "rawfrom": "  Angelica Paez <ampaez@earthlink.net>@ENRON\n",
+         "source": "email",
+         "to": "Griffith, John"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/deleted_items/1180.",
+   "hops": [
+      {
+         "from": "john.griffith@enron.com",
+         "line": 4,
+         "rawfrom": "john.griffith@enron.com\r\n",
+         "source": "valid",
+         "to": "ampaez@earthlink.net"
+      },
+      {
+         "from": "ampaez@earthlink.net",
+         "line": 24,
+         "rawfrom": "\tAngelica Paez <ampaez@earthlink.net>@ENRON  \n",
+         "source": "email",
+         "to": "Griffith, John"
+      },
+      {
+         "from": "john.griffith@enron.com",
+         "line": 32,
+         "rawfrom": "John.Griffith@enron.com\n",
+         "source": "valid",
+         "to": "ampaez@earthlink.net"
+      },
+      {
+         "from": "ampaez@earthlink.net",
+         "line": 44,
+         "rawfrom": "  Angelica Paez <ampaez@earthlink.net>@ENRON\n",
+         "source": "email",
+         "to": "Griffith, John"
+      },
+      {
+         "from": "john.griffith@enron.com",
+         "line": 51,
+         "rawfrom": "John.Griffith@enron.com\n",
+         "source": "valid",
+         "to": "ampaez@earthlink.net"
+      },
+      {
+         "from": "ampaez@earthlink.net",
+         "line": 60,
+         "rawfrom": "  Angelica Paez <ampaez@earthlink.net>@ENRON\n",
+         "source": "email",
+         "to": "Griffith, John"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/sent_items/62.",
+   "hops": [
+      {
+         "from": "john.griffith@enron.com",
+         "line": 4,
+         "rawfrom": "john.griffith@enron.com\r\n",
+         "source": "valid",
+         "to": "ampaez@earthlink.net"
+      },
+      {
+         "from": "ampaez@earthlink.net",
+         "line": 28,
+         "rawfrom": "\tAngelica Paez <ampaez@earthlink.net>@ENRON  \n",
+         "source": "email",
+         "to": "Griffith, John"
+      },
+      {
+         "from": "john.griffith@enron.com",
+         "line": 36,
+         "rawfrom": "John.Griffith@enron.com\n",
+         "source": "valid",
+         "to": "ampaez@earthlink.net"
+      },
+      {
+         "from": "ampaez@earthlink.net",
+         "line": 45,
+         "rawfrom": "  Angelica Paez <ampaez@earthlink.net>@ENRON\n",
+         "source": "email",
+         "to": "Griffith, John"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/sent_items/63.",
+   "hops": [
+      {
+         "from": "john.griffith@enron.com",
+         "line": 4,
+         "rawfrom": "john.griffith@enron.com\r\n",
+         "source": "valid",
+         "to": "ampaez@earthlink.net"
+      },
+      {
+         "from": "ampaez@earthlink.net",
+         "line": 24,
+         "rawfrom": "\tAngelica Paez <ampaez@earthlink.net>@ENRON  \n",
+         "source": "email",
+         "to": "Griffith, John"
+      },
+      {
+         "from": "john.griffith@enron.com",
+         "line": 32,
+         "rawfrom": "John.Griffith@enron.com\n",
+         "source": "valid",
+         "to": "ampaez@earthlink.net"
+      },
+      {
+         "from": "ampaez@earthlink.net",
+         "line": 44,
+         "rawfrom": "  Angelica Paez <ampaez@earthlink.net>@ENRON\n",
+         "source": "email",
+         "to": "Griffith, John"
+      },
+      {
+         "from": "john.griffith@enron.com",
+         "line": 51,
+         "rawfrom": "John.Griffith@enron.com\n",
+         "source": "valid",
+         "to": "ampaez@earthlink.net"
+      },
+      {
+         "from": "ampaez@earthlink.net",
+         "line": 60,
+         "rawfrom": "  Angelica Paez <ampaez@earthlink.net>@ENRON\n",
+         "source": "email",
+         "to": "Griffith, John"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/funny/44.",
+   "hops": [
+      {
+         "from": "alex.villarreal@enron.com",
+         "line": 4,
+         "rawfrom": "alex.villarreal@enron.com\r\n",
+         "source": "valid",
+         "to": "john.griffith@enron.com"
+      },
+      {
+         "from": "bkirkman@papadocs.com",
+         "line": 45,
+         "rawfrom": "Bob & Barb Kirkman  [mailto:bkirkman@papadocs.com]\n",
+         "source": "email",
+         "to": "sbellm@ducoa.com"
+      },
+      {
+         "from": "clerk@johnkking.com",
+         "line": 52,
+         "rawfrom": "John King  [mailto:Clerk@johnkking.com]\n",
+         "source": "email",
+         "to": "Bob Kirkman"
+      },
+      {
+         "from": "jimandtina@clas.net",
+         "line": 76,
+         "rawfrom": "Jimand tina  [mailto:jimandtina@clas.net]\n",
+         "source": "email",
+         "to": "lizardgirl82@yahoo.com; Larry H Thacker; Karen Redfern; Kohle  Sanders; Larry & Pandy King; John L Evans; Evine and Lisa Volken; Doug  Toberman; Dad And Kate; Brandon.Maroon@aviano.af.mil; Bebill; andy & doug;  4Nancy Maroon; Amy Gruner; 2Eva M Sundrup; 3Connie Prater"
+      },
+      {
+         "from": "ambrown513@aol.com",
+         "line": 81,
+         "rawfrom": "AMBROWN513@aol.com   \n",
+         "source": "valid",
+         "to": "Angels625@aol.com  ; CamPurr2@aol.com  ; ccrook@houston.rr.com  ; Wishoncemore@aol.com  ; jerre@siriusnet.net  ; Girlene@flash.net  ;  KACIBUG@aol.com  ; Grannieg65@aol.com   ; Judyamcc@aol.com   ; Julie3431@aol.com  ; Lilyans@aol.com  ; LMRNAllen@hotmail.com  ; Sparks1A2@aol.com  ;  JLM1010DLA@aol.com  ; Jaymo5419@aol.com  ;  Rita.Gill@tinker.af.mil  ; nnajnokc@webtv.net"
+      },
+      {
+         "from": "bkirkman@papadocs.com",
+         "line": 108,
+         "rawfrom": "Bob & Barb Kirkman  [mailto:bkirkman@papadocs.com]\n",
+         "source": "email",
+         "to": "White, Sandra"
+      },
+      {
+         "from": "bkirkman@papadocs.com",
+         "line": 114,
+         "rawfrom": "Bob & Barb Kirkman  [mailto:bkirkman@papadocs.com]\n",
+         "source": "email",
+         "to": "john@johnkking.com"
+      },
+      {
+         "from": "kfry@abelink.com",
+         "line": 120,
+         "rawfrom": "The Fry Family  [mailto:kfry@abelink.com]\n",
+         "source": "email",
+         "to": "bkirkman@papadocs.com; candy1963@msn.com; cowboys_rock@msn.com;  vharmon@sgcontainers.com"
+      },
+      {
+         "from": "scarlson@patrickengineering.com",
+         "line": 126,
+         "rawfrom": " scarlson@patrickengineering.com [mailto:scarlson@patrickengineering.com]  \n",
+         "source": "email",
+         "to": "aduncan@patrickengineering.com; bbrueckman@patrickengineering.com;  charli_bird@21stcentury.net; dbshea@gallatinriver.net;  ecarlson@patrickengineering.com; kfry@abelink.com; kimmirenea@hotmail.com;  lmcdaniel@patrickengineering.com; llindaman@patrickengineering.com;  cmaffei@patrickengineering.com; mfrancis@patrickengineering.com;  ewilford@rocketmail.com; molague@patrickengineering.com;  ewilford@rocketmail.com; scharpie@patrickengineering.com;  ttews@patrickengineering.com"
+      },
+      {
+         "from": "mcarlson4@prodigy.net",
+         "line": 132,
+         "rawfrom": "mcarlson4@prodigy.net  [mailto:mcarlson4@prodigy.net]\n",
+         "source": "email",
+         "to": "Steven; Tammie Brown; Carlson, Stacy; Shelley Washington;  Shaylene Donegan; Scott & Jennifer Lamaster; Rhonda Dunnivan; Marc; Kim  Brunk; Kim Anderson; Gayle Young; Donnie; Crystal; Chris & Susan; Colleen G  Carroll; Agness Allcorn"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/funny/40.",
+   "hops": [
+      {
+         "from": "griff@odessapumps.com",
+         "line": 4,
+         "rawfrom": "griff@odessapumps.com\r\n",
+         "source": "valid",
+         "to": "e-mail <.anita@enron.com>, e-mail <.brian@enron.com>,"
+      },
+      {
+         "from": "ashlee@kcac.net",
+         "line": 30,
+         "rawfrom": "Ashlee Pfeiffer [mailto:ashlee@kcac.net]\n",
+         "source": "email",
+         "to": "Mike Griffith"
+      },
+      {
+         "from": "perri.madden@tobin.com",
+         "line": 38,
+         "rawfrom": "\"Perri Madden\" <Perri.Madden@tobin.com>\n",
+         "source": "email",
+         "to": "<ashlee@kcac.net>"
+      },
+      {
+         "from": "hpelfrey@anlt.com",
+         "line": 48,
+         "rawfrom": "Pelfrey, Heather [SMTP:hpelfrey@ANLT.com]\n",
+         "source": "email",
+         "to": "'Alex A'; 'Alicia Reeves'; 'Jana at home'; 'MOM'; 'Perri Madden';"
+      },
+      {
+         "from": "tim487@aol.com",
+         "line": 67,
+         "rawfrom": "TIM487@aol.com [mailto:TIM487@aol.com]\n",
+         "source": "email",
+         "to": "bmagna@worldnet.att.net; filmmonkey@excite.com; jbremser@kc.rr.com;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/funny/39.",
+   "hops": [
+      {
+         "from": "griff@odessapumps.com",
+         "line": 4,
+         "rawfrom": "griff@odessapumps.com\r\n",
+         "source": "valid",
+         "to": "bell.connie@enron.com, boone.jack@enron.com, swanson.jackie@enron.com,"
+      },
+      {
+         "from": "kkboers@hilconet.com",
+         "line": 31,
+         "rawfrom": "Michelle Robinson [mailto:kkboers@hilconet.com]\n",
+         "source": "email",
+         "to": "Mike Griffith"
+      },
+      {
+         "from": "srobbins@bioassay.com",
+         "line": 38,
+         "rawfrom": "\"Sheila K. Robbins\" <SRobbins@Bioassay.com>\n",
+         "source": "email",
+         "to": "\"Michelle Robinson\" <kkboers@hilconet.com>; \"Debby L. Bell\""
+      },
+      {
+         "from": "jtullous@wmgltd.com",
+         "line": 47,
+         "rawfrom": "\"Jennifer Tullous\" <JTullous@wmgltd.com>\n",
+         "source": "email",
+         "to": "<Alex4King@hotmail.com>; <Tullous@lewis.army.mil>;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/funny/77.",
+   "hops": [
+      {
+         "from": "eric.moon@enron.com",
+         "line": 4,
+         "rawfrom": "eric.moon@enron.com\r\n",
+         "source": "valid",
+         "to": "john.griffith@enron.com"
+      },
+      {
+         "from": "etjmoon@prodigy.net",
+         "line": 22,
+         "rawfrom": "\t\"Tami, Eric and Jake Moon\" <etjmoon@prodigy.net>@ENRON  \n",
+         "source": "email",
+         "to": "<Undisclosed-Recipient:@pimout3-int.prodigy.net;>"
+      },
+      {
+         "from": "deltuck@aol.com",
+         "line": 58,
+         "rawfrom": "Deltuck@aol.com\n",
+         "source": "valid",
+         "to": "JPHSHH@aol.com"
+      },
+      {
+         "from": "cynphil@earthlink.net",
+         "line": 72,
+         "rawfrom": "cynphil <cynphil@earthlink.net>\n",
+         "source": "email",
+         "to": "Penny Wierzbicki <jwierz4626@aol.com>, Ann and Ralph Weedon"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/funny/8.",
+   "hops": [
+      {
+         "from": "efitts@webtv.net",
+         "line": 4,
+         "rawfrom": "efitts@webtv.net\r\n",
+         "source": "valid",
+         "to": "hoot61@yahoo.com, jrb49a@aol.com, jblanton@ev1.net, donnice@swbell.net,"
+      },
+      {
+         "from": "edwinfitts@hotmail.com",
+         "line": 37,
+         "rawfrom": "\"Edwin Fitts\" <edwinfitts@hotmail.com>\n",
+         "source": "email",
+         "to": "efitts@webtv.net"
+      },
+      {
+         "from": "osears@hotmail.com",
+         "line": 52,
+         "rawfrom": "\"Owen Sears\" <osears@hotmail.com>\n",
+         "source": "email",
+         "to": "charris1369@hotmail.com, edwinfitts@hotmail.com, jsears@wescosps.com"
+      },
+      {
+         "from": "eastwoodgl@yahoo.com",
+         "line": 60,
+         "rawfrom": "Gary Eastwood <eastwoodgl@yahoo.com>\n",
+         "source": "email",
+         "to": "AJ Field <big_dog_50@hotmail.com>,  Doris Barrett"
+      },
+      {
+         "from": "scott1@nts-online.net",
+         "line": 89,
+         "rawfrom": "\"Scott Irlbeck\" <scott1@nts-online.net>\n",
+         "source": "email",
+         "to": "\"Gary Eastwood\" <eastwoodgl@yahoo.com>, \"Scott Bice\" <SBices@aol.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/funny/41.",
+   "hops": [
+      {
+         "from": "griff@odessapumps.com",
+         "line": 4,
+         "rawfrom": "griff@odessapumps.com\r\n",
+         "source": "valid",
+         "to": "e-mail <.anita@enron.com>, e-mail <.brian@enron.com>,"
+      },
+      {
+         "from": "ashlee@kcac.net",
+         "line": 27,
+         "rawfrom": "Ashlee Pfeiffer [mailto:ashlee@kcac.net]\n",
+         "source": "email",
+         "to": "Mike Griffith"
+      },
+      {
+         "from": "perri.madden@tobin.com",
+         "line": 36,
+         "rawfrom": "\"Perri Madden\" <Perri.Madden@tobin.com>\n",
+         "source": "email",
+         "to": "<ashlee@kcac.net>"
+      },
+      {
+         "from": "dj1@wsimaps.com",
+         "line": 46,
+         "rawfrom": "DJ Gonzalez [SMTP:dj1@wsimaps.com]\n",
+         "source": "email",
+         "to": "'Aaron'; 'Butch and Mamie'; 'Danielsahn and bunch'; 'Frost';"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/griffith-j/discussion_threads/340.",
+   "hops": [
+      {
+         "from": "efitts@webtv.net",
+         "line": 4,
+         "rawfrom": "efitts@webtv.net\r\n",
+         "source": "valid",
+         "to": "hoot61@yahoo.com, jrb49a@aol.com, jblanton@ev1.net, donnice@swbell.net,"
+      },
+      {
+         "from": "edwinfitts@hotmail.com",
+         "line": 37,
+         "rawfrom": "\"Edwin Fitts\" <edwinfitts@hotmail.com>\n",
+         "source": "email",
+         "to": "efitts@webtv.net"
+      },
+      {
+         "from": "osears@hotmail.com",
+         "line": 52,
+         "rawfrom": "\"Owen Sears\" <osears@hotmail.com>\n",
+         "source": "email",
+         "to": "charris1369@hotmail.com, edwinfitts@hotmail.com, jsears@wescosps.com"
+      },
+      {
+         "from": "eastwoodgl@yahoo.com",
+         "line": 60,
+         "rawfrom": "Gary Eastwood <eastwoodgl@yahoo.com>\n",
+         "source": "email",
+         "to": "AJ Field <big_dog_50@hotmail.com>,  Doris Barrett"
+      },
+      {
+         "from": "scott1@nts-online.net",
+         "line": 89,
+         "rawfrom": "\"Scott Irlbeck\" <scott1@nts-online.net>\n",
+         "source": "email",
+         "to": "\"Gary Eastwood\" <eastwoodgl@yahoo.com>, \"Scott Bice\" <SBices@aol.com>"
+      }
+   ],
+   "skipped": 0
+}
+]

@@ -1,0 +1,71 @@
+[
+{
+   "file": "/home/jb/maildir/townsend-j/inbox/78.",
+   "hops": [
+      {
+         "from": "pereira@houston.rr.com",
+         "line": 4,
+         "rawfrom": "pereira@houston.rr.com\r\n",
+         "source": "valid",
+         "to": "judy.townsend@enron.com"
+      },
+      {
+         "from": "karen.ferazzi@verizon.net",
+         "line": 24,
+         "rawfrom": "<karen.ferazzi@verizon.net>\n",
+         "source": "email",
+         "to": "<pereira@houston.rr.com>; <Maria.Pavlou@ENRON.com>; <LFeraz@msn.com>;"
+      },
+      {
+         "from": "eganholmes@aol.com",
+         "line": 33,
+         "rawfrom": "EganHolmes@aol.com\n",
+         "source": "valid",
+         "to": "Dylconmom@aol.com,  docegan@ev1.net,  karen.ferazzi@verizon.net,"
+      },
+      {
+         "from": "collinsclan@houston.rr.com",
+         "line": 50,
+         "rawfrom": "\"The Collins\" <collinsclan@houston.rr.com>\n",
+         "source": "email",
+         "to": "\"Freddy Bradshaw\" <ftbhouse@msn.com>,        \"Bobbie Collins\" <Bobbacollins@cs.com>,        \"reenie collins\" <reenie.collins@tenethealth.com>,        <EganHolmes@aol.com>, \"Jimmie Holder\" <jrholder53@aol.com>,        \"jamie holder\" <jthbeattu@aol.com>,        \"sally janacej\" <Janacek@texasnet.com>,        \"gretchen nagaitis\" <gretchen.nagaitis@eng.sun.com>,        \"brenda peabody\" <102501.2033@compuserve.com>,        \"Amy Proegler\" <azp77429@houston.rr.com>,        \"lanie thornton\" <L-thornton@tamu.edu>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/townsend-j/inbox/95.",
+   "hops": [
+      {
+         "from": "laurie.l.johnson@williams.com",
+         "line": 4,
+         "rawfrom": "laurie.l.johnson@williams.com\r\n",
+         "source": "valid",
+         "to": "judy.townsend@enron.com"
+      },
+      {
+         "from": "judy.townsend@enron.com",
+         "line": 24,
+         "rawfrom": "  Townsend, Judy [SMTP:Judy.Townsend@enron.com] \n",
+         "source": "email",
+         "to": "Johnson, Laurie L"
+      },
+      {
+         "from": "postmaster@williams.com",
+         "line": 32,
+         "rawfrom": "        System Administrator <postmaster@williams.com>@ENRON  \n",
+         "source": "email",
+         "to": "Townsend, Judy"
+      },
+      {
+         "from": "judy.townsend@enron.com",
+         "line": 56,
+         "rawfrom": "\"Townsend, Judy\" <Judy.Townsend@enron.com> \n",
+         "source": "email",
+         "to": "Lauire.L.Johnson@williams.com"
+      }
+   ],
+   "skipped": 1
+}
+]

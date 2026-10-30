@@ -1,0 +1,176 @@
+[
+{
+   "file": "/home/jb/maildir/delainey-d/all_documents/857.",
+   "hops": [
+      {
+         "from": "david.delainey@enron.com",
+         "line": 4,
+         "rawfrom": "david.delainey@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.palmer@enron.com"
+      },
+      {
+         "from": "keith.miceli@enron.com",
+         "line": 87,
+         "rawfrom": "Keith.Miceli@enron.com [mailto:Keith.Miceli@enron.com]\n",
+         "source": "email",
+         "to": "Moreno, Jenalia"
+      },
+      {
+         "from": "jenalia.moreno@chron.com",
+         "line": 102,
+         "rawfrom": "\"Moreno, Jenalia\" <Jenalia.Moreno@chron.com> on 12/12/2000 05:29:55 PM\n",
+         "source": "email",
+         "to": "\"'Keith.Miceli@enron.com'\" <Keith.Miceli@enron.com>"
+      },
+      {
+         "from": "keith.miceli@enron.com",
+         "line": 137,
+         "rawfrom": "Keith.Miceli@enron.com [mailto:Keith.Miceli@enron.com]\n",
+         "source": "email",
+         "to": "jena.moreno@chron.com"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/delainey-d/sent/826.",
+   "hops": [
+      {
+         "from": "david.delainey@enron.com",
+         "line": 4,
+         "rawfrom": "david.delainey@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.palmer@enron.com"
+      },
+      {
+         "from": "keith.miceli@enron.com",
+         "line": 87,
+         "rawfrom": "Keith.Miceli@enron.com [mailto:Keith.Miceli@enron.com]\n",
+         "source": "email",
+         "to": "Moreno, Jenalia"
+      },
+      {
+         "from": "jenalia.moreno@chron.com",
+         "line": 102,
+         "rawfrom": "\"Moreno, Jenalia\" <Jenalia.Moreno@chron.com> on 12/12/2000 05:29:55 PM\n",
+         "source": "email",
+         "to": "\"'Keith.Miceli@enron.com'\" <Keith.Miceli@enron.com>"
+      },
+      {
+         "from": "keith.miceli@enron.com",
+         "line": 137,
+         "rawfrom": "Keith.Miceli@enron.com [mailto:Keith.Miceli@enron.com]\n",
+         "source": "email",
+         "to": "jena.moreno@chron.com"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/delainey-d/sent_items/15.",
+   "hops": [
+      {
+         "from": "w..delainey@enron.com",
+         "line": 4,
+         "rawfrom": "w..delainey@enron.com\r\n",
+         "source": "valid",
+         "to": "vicki.sharp@enron.com"
+      },
+      {
+         "from": "scott.potterack@owens-ill.com",
+         "line": 22,
+         "rawfrom": "SCOTT POTTERACK [mailto:Scott.Potterack@owens-ill.com]\n",
+         "source": "email",
+         "to": "david.delainey@enron.com"
+      },
+      {
+         "from": "scott.potterack@owens-ill.com",
+         "line": 39,
+         "rawfrom": "scott.potterack@owens-ill.com",
+         "source": "valid",
+         "to": "Scott.Potterack"
+      },
+      {
+         "from": "scott.potterack@owens-ill.com",
+         "line": 82,
+         "rawfrom": "\"SCOTT POTTERACK\" <Scott.Potterack@owens-ill.com>\n",
+         "source": "email",
+         "to": "michael.mann@enron.com, david.delaine@enron.com"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/delainey-d/discussion_threads/1231.",
+   "hops": [
+      {
+         "from": "david.delainey@enron.com",
+         "line": 4,
+         "rawfrom": "david.delainey@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.palmer@enron.com"
+      },
+      {
+         "from": "keith.miceli@enron.com",
+         "line": 87,
+         "rawfrom": "Keith.Miceli@enron.com [mailto:Keith.Miceli@enron.com]\n",
+         "source": "email",
+         "to": "Moreno, Jenalia"
+      },
+      {
+         "from": "jenalia.moreno@chron.com",
+         "line": 102,
+         "rawfrom": "\"Moreno, Jenalia\" <Jenalia.Moreno@chron.com> on 12/12/2000 05:29:55 PM\n",
+         "source": "email",
+         "to": "\"'Keith.Miceli@enron.com'\" <Keith.Miceli@enron.com>"
+      },
+      {
+         "from": "keith.miceli@enron.com",
+         "line": 137,
+         "rawfrom": "Keith.Miceli@enron.com [mailto:Keith.Miceli@enron.com]\n",
+         "source": "email",
+         "to": "jena.moreno@chron.com"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/delainey-d/_sent_mail/821.",
+   "hops": [
+      {
+         "from": "david.delainey@enron.com",
+         "line": 4,
+         "rawfrom": "david.delainey@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.palmer@enron.com"
+      },
+      {
+         "from": "keith.miceli@enron.com",
+         "line": 87,
+         "rawfrom": "Keith.Miceli@enron.com [mailto:Keith.Miceli@enron.com]\n",
+         "source": "email",
+         "to": "Moreno, Jenalia"
+      },
+      {
+         "from": "jenalia.moreno@chron.com",
+         "line": 102,
+         "rawfrom": "\"Moreno, Jenalia\" <Jenalia.Moreno@chron.com> on 12/12/2000 05:29:55 PM\n",
+         "source": "email",
+         "to": "\"'Keith.Miceli@enron.com'\" <Keith.Miceli@enron.com>"
+      },
+      {
+         "from": "keith.miceli@enron.com",
+         "line": 137,
+         "rawfrom": "Keith.Miceli@enron.com [mailto:Keith.Miceli@enron.com]\n",
+         "source": "email",
+         "to": "jena.moreno@chron.com"
+      }
+   ],
+   "skipped": 4
+}
+]

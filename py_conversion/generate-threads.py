@@ -71,6 +71,8 @@ def main():
     from_ = ''
     failed = found = lineno = 0
     first = True
+    message_id = date_str = subject = ''
+    in_headers = False
     for line in sys.stdin:
         lineno += 1
         if line.startswith('FFFFIIIILLLLEEEE'):
@@ -78,14 +80,28 @@ def main():
                 if not first:
                     print(',')
                 first = False
-                print_object({'file': conv, 'hops': hops, 'skipped': len(failures)})
+                print_object({'date': date_str, 'file': conv, 'hops': hops,
+                              'message_id': message_id, 'skipped': len(failures),
+                              'subject': subject})
             if show_failures and failures:
                 print_object({'file': conv, 'succeeded': len(hops), 'failures': failures})
             hops, failures = [], []
             parts = line.split()
             conv = parts[1] if len(parts) > 1 else None
             lineno = 0
+            message_id = date_str = subject = ''
+            in_headers = True
             continue
+        if in_headers:
+            stripped = line.rstrip('\r\n')
+            if stripped == '':
+                in_headers = False
+            elif stripped.startswith('Message-ID:'):
+                message_id = stripped[len('Message-ID:'):].strip()
+            elif stripped.startswith('Date:'):
+                date_str = stripped[len('Date:'):].strip()
+            elif stripped.startswith('Subject:'):
+                subject = stripped[len('Subject:'):].strip()
         if re.search(r'(?<!-)From:', line):
             from_ = re.sub(r'.*From: (.*)', r'\1', line)
         elif re.search(r'(?<!-)Forwarded by', line):

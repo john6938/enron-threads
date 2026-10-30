@@ -1,0 +1,1135 @@
+[
+{
+   "file": "/home/jb/maildir/ruscitti-k/inbox/44.",
+   "hops": [
+      {
+         "from": "tsarhatt@adaptivebroadband.com",
+         "line": 4,
+         "rawfrom": "tsarhatt@adaptivebroadband.com\r\n",
+         "source": "valid",
+         "to": "kevin.ruscitti@enron.com"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 55,
+         "rawfrom": "Kevin.Ruscitti@enron.com [mailto:Kevin.Ruscitti@enron.com]\n",
+         "source": "email",
+         "to": "Sarhatt, Tim"
+      },
+      {
+         "from": "tsarhatt@adaptivebroadband.com",
+         "line": 84,
+         "rawfrom": "  \"Sarhatt, Tim\" <tsarhatt@adaptivebroadband.com>@ENRON\n",
+         "source": "email",
+         "to": "'tpshaheen@email.msn.com'; Kevin Ruscitti"
+      },
+      {
+         "from": "tpshaheen@email.msn.com",
+         "line": 107,
+         "rawfrom": "Timothy P. Shaheen  [mailto:tpshaheen@email.msn.com]\n",
+         "source": "email",
+         "to": "Sarhatt, Tim; Kevin Ruscitti"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/ruscitti-k/inbox/96.",
+   "hops": [
+      {
+         "from": "larryb@amerexenergy.com",
+         "line": 4,
+         "rawfrom": "larryb@amerexenergy.com\r\n",
+         "source": "valid",
+         "to": "kevin.ruscitti@enron.com"
+      },
+      {
+         "from": "gayland@amerexenergy.com",
+         "line": 20,
+         "rawfrom": "\"Gayland Lee\" <gayland@amerexenergy.com>\n",
+         "source": "email",
+         "to": "\"Doug Kuni\" <dougk@amerexenergy.com>; <larryb@amerexenergy.com>"
+      },
+      {
+         "from": "scot.thompson@mirant.com",
+         "line": 28,
+         "rawfrom": "\"Thompson, Scot\" <scot.thompson@mirant.com>\n",
+         "source": "email",
+         "to": "\"'Gayland Lee'\" <gayland@amerexenergy.com>"
+      },
+      {
+         "from": "gayland@amerexenergy.com",
+         "line": 38,
+         "rawfrom": "Gayland Lee [mailto:gayland@amerexenergy.com]\n",
+         "source": "email",
+         "to": "Doug Kuni; gilbert lee; frank picciarelli; Scot Thompson; tim"
+      },
+      {
+         "from": "blee3@houston.rr.com",
+         "line": 46,
+         "rawfrom": "\"Beverly Lee\" <blee3@houston.rr.com>\n",
+         "source": "email",
+         "to": "\"GAYLAND LEE\" <gayland@amerexenergy.com>"
+      },
+      {
+         "from": "sundialx3@yahoo.com",
+         "line": 54,
+         "rawfrom": "\"Janie\" <sundialx3@yahoo.com>\n",
+         "source": "email",
+         "to": "\"Janie\" <sundialx3@yahoo.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/ruscitti-k/inbox/191.",
+   "hops": [
+      {
+         "from": "richard.j.moller@marshmc.com",
+         "line": 4,
+         "rawfrom": "richard.j.moller@marshmc.com\r\n",
+         "source": "valid",
+         "to": "kevin.ruscitti@enron.com"
+      },
+      {
+         "from": "richard.j.moller@marshmc.com",
+         "line": 39,
+         "rawfrom": "Richard Moller [mailto:Richard.J.Moller@marshmc.com]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "richard.j.moller@marshmc.com",
+         "line": 67,
+         "rawfrom": "Richard Moller [mailto:Richard.J.Moller@marshmc.com]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 105,
+         "rawfrom": "From:\tKevin.Ruscitti@enron.com\n",
+         "source": "email",
+         "to": "Richard Moller/NYC-NY/US/Marsh/MMC@MMC"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/ruscitti-k/inbox/39.",
+   "hops": [
+      {
+         "from": "martin.cuilla@enron.com",
+         "line": 4,
+         "rawfrom": "martin.cuilla@enron.com\r\n",
+         "source": "valid",
+         "to": "s..shively@enron.com, kevin.ruscitti@enron.com, h..lewis@enron.com,"
+      },
+      {
+         "from": "mcontant@cypressasset.com",
+         "line": 23,
+         "rawfrom": "\t\"Michael D. Contant\" <mcontant@cypressasset.com>@ENRON [mailto:IMCEANOTES-+22Michael+20D+2E+20Contant+22+20+3Cmcontant+40cypressasset+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Cuilla, Martin"
+      },
+      {
+         "from": "jnaples@brobeck.com",
+         "line": 33,
+         "rawfrom": "\"Naples, Joseph J.\" <JNaples@brobeck.com>\n",
+         "source": "email",
+         "to": "\"'carlos'\" <csoltero@mcginnislaw.com>,\t\"'drew'\" <ADinovo@velaw.com>,\t\"'contant'\" <mcontant@cypressasset.com>,\t\"'clay'\" <cplatt@graycary.com>,\t\"'dimitri'\" <dkarhu@houston.rr.com>,\t\"'george'\" <GONZGY@bracepatt.com>,\t\"'glatter'\" <jglatter@whhf.com>,\t\"'joe'\" <joe_graham@kirkland.com>,\t\"'murr'\" <gmurr@fulbright.com>,\t\"'vic'\" <vhardy@orrick.com>,\t\"'ray'\" <Ray.Kerlick@roystonlaw.com>"
+      },
+      {
+         "from": "andy@mbst.com",
+         "line": 63,
+         "rawfrom": "Andrew Tenenbaum [mailto:andy@mbst.com]\n",
+         "source": "email",
+         "to": "John Melideo (E-mail); Warren Lazarow (E-mail); Jonathan G. Shapiro"
+      },
+      {
+         "from": "sylvie.motz@delta.com",
+         "line": 74,
+         "rawfrom": "Motz, Sylvie [mailto:Sylvie.Motz@delta.com]\n",
+         "source": "email",
+         "to": "'planetchang@yahoo.com'; 'dkim@winston.com'; 'Eun Hee Pai';"
+      },
+      {
+         "from": "csparks@nyc.rr.com",
+         "line": 90,
+         "rawfrom": "Carilyn Sparks <csparks@nyc.rr.com>\n",
+         "source": "email",
+         "to": "Amy Ford <Amy_Ford@firstar.com>, Barry Bryant"
+      },
+      {
+         "from": "karenyoung19@hotmail.com",
+         "line": 102,
+         "rawfrom": "karenyoung19@hotmail.com",
+         "source": "valid",
+         "to": "Johannes Juette/PA/EU/ShS@ShSDOMAIN"
+      },
+      {
+         "from": "maureen@cavallocapital.com",
+         "line": 197,
+         "rawfrom": "Ong, Maureen [mailto:Maureen@cavallocapital.com]\n",
+         "source": "email",
+         "to": "Julia Kim (E-mail); Philip Utsch (E-mail); Richard Carty (E-mail);"
+      },
+      {
+         "from": "twaugh@hbk.com",
+         "line": 207,
+         "rawfrom": "Tom Waugh [mailto:twaugh@hbk.com]\n",
+         "source": "email",
+         "to": "Tadd Chessen (E-mail); Taylor McGowan (E-mail); Michael Fein"
+      },
+      {
+         "from": "matt.waddell@morganstanley.com",
+         "line": 230,
+         "rawfrom": "W. Matthew Waddell [mailto:Matt.Waddell@morganstanley.com]=20\n",
+         "source": "email",
+         "to": "Tim Ryan"
+      },
+      {
+         "from": "jonathan.langer@gs.com",
+         "line": 252,
+         "rawfrom": "Langer, Jonathan [mailto:jonathan.langer@gs.com]\n",
+         "source": "email",
+         "to": "'Robert Langer'"
+      },
+      {
+         "from": "samuel.greene@drkw.com",
+         "line": 302,
+         "rawfrom": "samuel.greene@drkw.com [mailto:samuel.greene@drkw.com]\n",
+         "source": "email",
+         "to": "jason.horowitz@fxminc.com; salter_james@jpmorgan.com;"
+      },
+      {
+         "from": "dmcnulty@exchange.ml.com",
+         "line": 384,
+         "rawfrom": "McNulty, Derek (IBK-NY) [mailto:DMcNulty@exchange.ML.com]\n",
+         "source": "email",
+         "to": "'paul.brown@csfb.com'; 'dz@msdcapital.com';"
+      },
+      {
+         "from": "mokyoung_hyun@hotmail.com",
+         "line": 413,
+         "rawfrom": "  Mokyoung Hyun [SMTP:mokyoung_hyun@hotmail.com]\n",
+         "source": "email",
+         "to": "mhyun2@exchange.ml.com"
+      },
+      {
+         "from": "olivia.ha@gs.com",
+         "line": 428,
+         "rawfrom": "\"Ha, Olivia\" <Olivia.Ha@gs.com>\n",
+         "source": "email",
+         "to": "\"'TITI'\" <ohkee@ms.com>, \"'Mokyoung!'\""
+      },
+      {
+         "from": "troh@lehman.com",
+         "line": 452,
+         "rawfrom": "Roh, Thomas L [mailto:troh@lehman.com]\n",
+         "source": "email",
+         "to": "'albert.park@gs.com'; 'jseo@broadview.com'; 'haidee.lee@ubsw.com';"
+      },
+      {
+         "from": "plevine@regionalhealthgroup.com",
+         "line": 505,
+         "rawfrom": " Peter Levine [mailto:plevine@regionalhealthgroup.com]\n",
+         "source": "email",
+         "to": "Andrew Cavanna; David Zorub; Eric Reiter"
+      },
+      {
+         "from": "pstanberry@onebox.com",
+         "line": 580,
+         "rawfrom": " parker stanberry [SMTP:pstanberry@onebox.com]\n",
+         "source": "email",
+         "to": "michael.goller@jpmorganpartners.com;"
+      },
+      {
+         "from": "pchung@thecarlylegroup.co.kr",
+         "line": 642,
+         "rawfrom": "Peter Chung <pchung@thecarlylegroup.co.kr>\n",
+         "source": "email",
+         "to": "\"'james_graff@rsco.com'\" <james_graff@rsco.com>,"
+      }
+   ],
+   "skipped": 21
+}
+,
+{
+   "file": "/home/jb/maildir/ruscitti-k/inbox/197.",
+   "hops": [
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 4,
+         "rawfrom": "conwayfp@navair.navy.mil\r\n",
+         "source": "valid",
+         "to": "kevin.ruscitti@enron.com"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 41,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 68,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 86,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 95,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/ruscitti-k/inbox/192.",
+   "hops": [
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 4,
+         "rawfrom": "conwayfp@navair.navy.mil\r\n",
+         "source": "valid",
+         "to": "kevin.ruscitti@enron.com"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 34,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 53,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 100,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 113,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 136,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 183,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 214,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 241,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 259,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 268,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/ruscitti-k/inbox/11.",
+   "hops": [
+      {
+         "from": "bgozz@yahoo.com",
+         "line": 4,
+         "rawfrom": "bgozz@yahoo.com\r\n",
+         "source": "valid",
+         "to": "curry.dee@enron.com, definis.rob@enron.com, doughty.ed@enron.com,"
+      },
+      {
+         "from": "dings62@aol.com",
+         "line": 38,
+         "rawfrom": "DINGS62@aol.com\n",
+         "source": "valid",
+         "to": "MBell24484@aol.com, Cripi285@cs.com, PmBck@aol.com, RICHIEEB@aol.com,        CARDDWEEB@aol.com, BE2157@aol.com, Mhe19@aol.com, BGOZZ@yahoo.com,        SENSI29@aol.com, richardfleishman@home.com, ecma@palm.net,        BigStu427@aol.com, GTMTMAN@cs.com"
+      },
+      {
+         "from": "kalamazoostu@yahoo.com",
+         "line": 54,
+         "rawfrom": "Stuart Borris <kalamazoostu@yahoo.com>\n",
+         "source": "email",
+         "to": "Mhe19@aol.com, FlogtheGolfer@aol.com, larae_mobley@neumann.edu,        LikCandy19@aol.com, TedBo@medcmp.com, Vernetia@aol.com,        DINGS62@aol.com, BE2157@aol.com, Mba1958@aol.com, Slammer1989@aol.com,        Zepbabe@aol.com, mcleason@worldnet.att.net, CARDDWEEB@aol.com"
+      },
+      {
+         "from": "flogthegolfer@aol.com",
+         "line": 72,
+         "rawfrom": "FlogtheGolfer@aol.com\n",
+         "source": "valid",
+         "to": "DJAWJA@aol.com, sanart@localnet.com,"
+      },
+      {
+         "from": "ndelich@aol.com",
+         "line": 99,
+         "rawfrom": "Ndelich@aol.com\n",
+         "source": "valid",
+         "to": "cmabrahams@sc.rr.com, yorkiemom@att.ne,"
+      },
+      {
+         "from": "paynejandj@aol.com",
+         "line": 135,
+         "rawfrom": "PayneJandJ@aol.com\n",
+         "source": "valid",
+         "to": "d.bowen@mindspring.com, burnsk36@earthlink.net,"
+      },
+      {
+         "from": "cmabrahams@sc.rr.com",
+         "line": 152,
+         "rawfrom": "\"Caryn Abrahams\" <cmabrahams@sc.rr.com>\n",
+         "source": "email",
+         "to": "<swanson71@mindspring.com>,"
+      },
+      {
+         "from": "carlislescott@hotmail.com",
+         "line": 201,
+         "rawfrom": "\"CARLISLE SCOTT\" <carlislescott@hotmail.com>\n",
+         "source": "email",
+         "to": "<DJordan@nmbm.sccoast.net>; <lvlylina@home.com>;"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/ruscitti-k/deleted_items/56.",
+   "hops": [
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 4,
+         "rawfrom": "conwayfp@navair.navy.mil\r\n",
+         "source": "valid",
+         "to": "kevin.ruscitti@enron.com"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 48,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 61,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 84,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 131,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 162,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 189,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 207,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 216,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/ruscitti-k/deleted_items/60.",
+   "hops": [
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 4,
+         "rawfrom": "conwayfp@navair.navy.mil\r\n",
+         "source": "valid",
+         "to": "kevin.ruscitti@enron.com"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 34,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 81,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 112,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 139,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 157,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 166,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/ruscitti-k/sent_items/49.",
+   "hops": [
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 4,
+         "rawfrom": "kevin.ruscitti@enron.com\r\n",
+         "source": "valid",
+         "to": "'conway@enron.com, conwayfp@navair.navy.mil"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 31,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 66,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 79,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 102,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 149,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 180,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 207,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 225,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 234,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/ruscitti-k/sent_items/52.",
+   "hops": [
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 4,
+         "rawfrom": "kevin.ruscitti@enron.com\r\n",
+         "source": "valid",
+         "to": "'conway@enron.com, conwayfp@navair.navy.mil"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 47,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 75,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 102,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 120,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 129,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/ruscitti-k/sent_items/56.",
+   "hops": [
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 4,
+         "rawfrom": "kevin.ruscitti@enron.com\r\n",
+         "source": "valid",
+         "to": "'conway@enron.com, conwayfp@navair.navy.mil"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 40,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 57,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 66,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/ruscitti-k/sent_items/51.",
+   "hops": [
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 4,
+         "rawfrom": "kevin.ruscitti@enron.com\r\n",
+         "source": "valid",
+         "to": "'conway@enron.com, conwayfp@navair.navy.mil"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 26,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 47,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 94,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 125,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 152,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 170,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 179,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/ruscitti-k/sent_items/69.",
+   "hops": [
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 4,
+         "rawfrom": "kevin.ruscitti@enron.com\r\n",
+         "source": "valid",
+         "to": "conway77@earthlink.net"
+      },
+      {
+         "from": "conway77@earthlink.net",
+         "line": 32,
+         "rawfrom": "Frank P. Conway [mailto:conway77@earthlink.net]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 51,
+         "rawfrom": "Kevin.Ruscitti@enron.com\n",
+         "source": "valid",
+         "to": "conway77@earthlink.net"
+      },
+      {
+         "from": "conway77@earthlink.net",
+         "line": 66,
+         "rawfrom": "  \"Frank P. Conway\" <conway77@earthlink.net>@ENRON\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin; to@gull.mail.pas.earthlink.net"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/ruscitti-k/sent_items/36.",
+   "hops": [
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 4,
+         "rawfrom": "kevin.ruscitti@enron.com\r\n",
+         "source": "valid",
+         "to": "martin.cuilla@enron.com"
+      },
+      {
+         "from": "mcontant@cypressasset.com",
+         "line": 35,
+         "rawfrom": "\t\"Michael D. Contant\" <mcontant@cypressasset.com>@ENRON [mailto:IMCEANOTES-+22Michael+20D+2E+20Contant+22+20+3Cmcontant+40cypressasset+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Cuilla, Martin"
+      },
+      {
+         "from": "jnaples@brobeck.com",
+         "line": 45,
+         "rawfrom": "\"Naples, Joseph J.\" <JNaples@brobeck.com>\n",
+         "source": "email",
+         "to": "\"'carlos'\" <csoltero@mcginnislaw.com>,\t\"'drew'\" <ADinovo@velaw.com>,\t\"'contant'\" <mcontant@cypressasset.com>,\t\"'clay'\" <cplatt@graycary.com>,\t\"'dimitri'\" <dkarhu@houston.rr.com>,\t\"'george'\" <GONZGY@bracepatt.com>,\t\"'glatter'\" <jglatter@whhf.com>,\t\"'joe'\" <joe_graham@kirkland.com>,\t\"'murr'\" <gmurr@fulbright.com>,\t\"'vic'\" <vhardy@orrick.com>,\t\"'ray'\" <Ray.Kerlick@roystonlaw.com>"
+      },
+      {
+         "from": "andy@mbst.com",
+         "line": 75,
+         "rawfrom": "Andrew Tenenbaum [mailto:andy@mbst.com]\n",
+         "source": "email",
+         "to": "John Melideo (E-mail); Warren Lazarow (E-mail); Jonathan G. Shapiro"
+      },
+      {
+         "from": "sylvie.motz@delta.com",
+         "line": 86,
+         "rawfrom": "Motz, Sylvie [mailto:Sylvie.Motz@delta.com]\n",
+         "source": "email",
+         "to": "'planetchang@yahoo.com'; 'dkim@winston.com'; 'Eun Hee Pai';"
+      },
+      {
+         "from": "csparks@nyc.rr.com",
+         "line": 102,
+         "rawfrom": "Carilyn Sparks <csparks@nyc.rr.com>\n",
+         "source": "email",
+         "to": "Amy Ford <Amy_Ford@firstar.com>, Barry Bryant"
+      },
+      {
+         "from": "karenyoung19@hotmail.com",
+         "line": 114,
+         "rawfrom": "karenyoung19@hotmail.com",
+         "source": "valid",
+         "to": "Johannes Juette/PA/EU/ShS@ShSDOMAIN"
+      },
+      {
+         "from": "maureen@cavallocapital.com",
+         "line": 209,
+         "rawfrom": "Ong, Maureen [mailto:Maureen@cavallocapital.com]\n",
+         "source": "email",
+         "to": "Julia Kim (E-mail); Philip Utsch (E-mail); Richard Carty (E-mail);"
+      },
+      {
+         "from": "twaugh@hbk.com",
+         "line": 219,
+         "rawfrom": "Tom Waugh [mailto:twaugh@hbk.com]\n",
+         "source": "email",
+         "to": "Tadd Chessen (E-mail); Taylor McGowan (E-mail); Michael Fein"
+      },
+      {
+         "from": "matt.waddell@morganstanley.com",
+         "line": 242,
+         "rawfrom": "W. Matthew Waddell [mailto:Matt.Waddell@morganstanley.com]=20\n",
+         "source": "email",
+         "to": "Tim Ryan"
+      },
+      {
+         "from": "jonathan.langer@gs.com",
+         "line": 264,
+         "rawfrom": "Langer, Jonathan [mailto:jonathan.langer@gs.com]\n",
+         "source": "email",
+         "to": "'Robert Langer'"
+      },
+      {
+         "from": "samuel.greene@drkw.com",
+         "line": 314,
+         "rawfrom": "samuel.greene@drkw.com [mailto:samuel.greene@drkw.com]\n",
+         "source": "email",
+         "to": "jason.horowitz@fxminc.com; salter_james@jpmorgan.com;"
+      },
+      {
+         "from": "dmcnulty@exchange.ml.com",
+         "line": 396,
+         "rawfrom": "McNulty, Derek (IBK-NY) [mailto:DMcNulty@exchange.ML.com]\n",
+         "source": "email",
+         "to": "'paul.brown@csfb.com'; 'dz@msdcapital.com';"
+      },
+      {
+         "from": "mokyoung_hyun@hotmail.com",
+         "line": 425,
+         "rawfrom": "  Mokyoung Hyun [SMTP:mokyoung_hyun@hotmail.com]\n",
+         "source": "email",
+         "to": "mhyun2@exchange.ml.com"
+      },
+      {
+         "from": "olivia.ha@gs.com",
+         "line": 440,
+         "rawfrom": "\"Ha, Olivia\" <Olivia.Ha@gs.com>\n",
+         "source": "email",
+         "to": "\"'TITI'\" <ohkee@ms.com>, \"'Mokyoung!'\""
+      },
+      {
+         "from": "troh@lehman.com",
+         "line": 464,
+         "rawfrom": "Roh, Thomas L [mailto:troh@lehman.com]\n",
+         "source": "email",
+         "to": "'albert.park@gs.com'; 'jseo@broadview.com'; 'haidee.lee@ubsw.com';"
+      },
+      {
+         "from": "plevine@regionalhealthgroup.com",
+         "line": 517,
+         "rawfrom": " Peter Levine [mailto:plevine@regionalhealthgroup.com]\n",
+         "source": "email",
+         "to": "Andrew Cavanna; David Zorub; Eric Reiter"
+      },
+      {
+         "from": "pstanberry@onebox.com",
+         "line": 592,
+         "rawfrom": " parker stanberry [SMTP:pstanberry@onebox.com]\n",
+         "source": "email",
+         "to": "michael.goller@jpmorganpartners.com;"
+      },
+      {
+         "from": "pchung@thecarlylegroup.co.kr",
+         "line": 654,
+         "rawfrom": "Peter Chung <pchung@thecarlylegroup.co.kr>\n",
+         "source": "email",
+         "to": "\"'james_graff@rsco.com'\" <james_graff@rsco.com>,"
+      }
+   ],
+   "skipped": 22
+}
+,
+{
+   "file": "/home/jb/maildir/ruscitti-k/sent_items/39.",
+   "hops": [
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 4,
+         "rawfrom": "kevin.ruscitti@enron.com\r\n",
+         "source": "valid",
+         "to": "smitter@smitter.com"
+      },
+      {
+         "from": "smitter@smitter.com",
+         "line": 31,
+         "rawfrom": "Steve Smith [mailto:smitter@smitter.com]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 42,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "smitter@smitter.com"
+      },
+      {
+         "from": "smitter@smitter.com",
+         "line": 56,
+         "rawfrom": "Steve Smith [mailto:smitter@smitter.com]\n",
+         "source": "email",
+         "to": "Steve Smith (E-mail); Pete Rose (E-mail); Lynne Bartron (E-mail);"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/ruscitti-k/sent_items/41.",
+   "hops": [
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 4,
+         "rawfrom": "kevin.ruscitti@enron.com\r\n",
+         "source": "valid",
+         "to": "ktruscitti@hotmail.com"
+      },
+      {
+         "from": "ktruscitti@hotmail.com",
+         "line": 24,
+         "rawfrom": "keith ruscitti [mailto:ktruscitti@hotmail.com]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 40,
+         "rawfrom": "\"Ruscitti, Kevin\" <Kevin.Ruscitti@ENRON.com>\n",
+         "source": "email",
+         "to": "\"keith ruscitti\" <ktruscitti@hotmail.com>"
+      },
+      {
+         "from": "ktruscitti@hotmail.com",
+         "line": 68,
+         "rawfrom": "keith ruscitti [mailto:ktruscitti@hotmail.com]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/ruscitti-k/sent_items/47.",
+   "hops": [
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 4,
+         "rawfrom": "kevin.ruscitti@enron.com\r\n",
+         "source": "valid",
+         "to": "'conway@enron.com, conwayfp@navair.navy.mil"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 37,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 58,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 77,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 124,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 137,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 160,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 207,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 238,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 265,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      },
+      {
+         "from": "kevin.ruscitti@enron.com",
+         "line": 283,
+         "rawfrom": "Ruscitti, Kevin [mailto:Kevin.Ruscitti@ENRON.com]\n",
+         "source": "email",
+         "to": "Conway, Frank P"
+      },
+      {
+         "from": "conwayfp@navair.navy.mil",
+         "line": 292,
+         "rawfrom": "Conway, Frank P [mailto:ConwayFP@navair.navy.mil]\n",
+         "source": "email",
+         "to": "Ruscitti, Kevin"
+      }
+   ],
+   "skipped": 0
+}
+]

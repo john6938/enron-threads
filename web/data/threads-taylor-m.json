@@ -1,0 +1,5489 @@
+[
+{
+   "file": "/home/jb/maildir/taylor-m/monmouth/7.",
+   "hops": [
+      {
+         "from": "mark_kopinski@americancentury.com",
+         "line": 4,
+         "rawfrom": "mark_kopinski@americancentury.com\r\n",
+         "source": "valid",
+         "to": "mark.taylor@enron.com"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 28,
+         "rawfrom": "Mark.Taylor@enron.com on 04/09/2000 12:16:17 PM\n",
+         "source": "email",
+         "to": "Mark Kopinski/INTL/ACIM/americancentury@americancentury"
+      },
+      {
+         "from": "mark_kopinski@americancentury.com",
+         "line": 44,
+         "rawfrom": "Mark_Kopinski@americancentury.com on 04/06/2000 07:29:40 AM\n",
+         "source": "email",
+         "to": "Mark.Taylor@enron.com"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 61,
+         "rawfrom": "Mark.Taylor@enron.com on 04/05/2000 11:26:21 AM\n",
+         "source": "email",
+         "to": "Mark Kopinski/INTL/ACIM/americancentury@americancentury"
+      },
+      {
+         "from": "mark_kopinski@americancentury.com",
+         "line": 77,
+         "rawfrom": "Mark_Kopinski@americancentury.com on 04/05/2000 08:37:49 AM\n",
+         "source": "email",
+         "to": "\"Mark Taylor\" <Mark.Taylor@enron.com>"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 101,
+         "rawfrom": "\"Mark Taylor\" <Mark.Taylor@enron.com> on 04/04/2000 06:38:46 PM\n",
+         "source": "email",
+         "to": "Mark Kopinski/INTL/ACIM/americancentury@americancentury"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/inbox/trevor/26.",
+   "hops": [
+      {
+         "from": "trevor.woods@enron.com",
+         "line": 4,
+         "rawfrom": "trevor.woods@enron.com\r\n",
+         "source": "valid",
+         "to": "oppenheimer.'david@enron.com"
+      },
+      {
+         "from": "doppenheimer@natsource.com",
+         "line": 23,
+         "rawfrom": "\tDavid Oppenheimer <doppenheimer@natsource.com>@ENRON  \n",
+         "source": "email",
+         "to": "Woods, Trevor"
+      },
+      {
+         "from": "trevor.woods@enron.com",
+         "line": 37,
+         "rawfrom": "Trevor.Woods@enron.com [mailto:Trevor.Woods@enron.com]\n",
+         "source": "email",
+         "to": "doppenheimer@natsource.com; Michael.E.Taylor@enron.com"
+      },
+      {
+         "from": "doppenheimer@natsource.com",
+         "line": 49,
+         "rawfrom": "  David Oppenheimer <doppenheimer@natsource.com>@ENRON\n",
+         "source": "email",
+         "to": "Woods, Trevor"
+      },
+      {
+         "from": "trevor.woods@enron.com",
+         "line": 59,
+         "rawfrom": "Trevor.Woods@enron.com [mailto:Trevor.Woods@enron.com]\n",
+         "source": "email",
+         "to": "doppenheimer@natsource.com"
+      },
+      {
+         "from": "doppenheimer@natsource.com",
+         "line": 69,
+         "rawfrom": "  David Oppenheimer <doppenheimer@natsource.com>@ENRON\n",
+         "source": "email",
+         "to": "Woods, Trevor"
+      },
+      {
+         "from": "trevor.woods@enron.com",
+         "line": 79,
+         "rawfrom": "Trevor.Woods@enron.com [mailto:Trevor.Woods@enron.com]\n",
+         "source": "email",
+         "to": "doppenheimer@natsource.com"
+      },
+      {
+         "from": "doppenheimer@natsource.com",
+         "line": 88,
+         "rawfrom": "  David Oppenheimer <doppenheimer@natsource.com>@ENRON\n",
+         "source": "email",
+         "to": "Woods, Trevor"
+      },
+      {
+         "from": "trevor.woods@enron.com",
+         "line": 98,
+         "rawfrom": "Trevor.Woods@enron.com [mailto:Trevor.Woods@enron.com]\n",
+         "source": "email",
+         "to": "doppenheimer@natsource.com"
+      },
+      {
+         "from": "doppenheimer@natsource.com",
+         "line": 110,
+         "rawfrom": "  David Oppenheimer <doppenheimer@natsource.com>@ENRON\n",
+         "source": "email",
+         "to": "Woods, Trevor"
+      },
+      {
+         "from": "trevor.woods@enron.com",
+         "line": 137,
+         "rawfrom": "Trevor.Woods@enron.com [mailto:Trevor.Woods@enron.com]\n",
+         "source": "email",
+         "to": "doppenheimer@natsource.com"
+      },
+      {
+         "from": "doppenheimer@natsource.com",
+         "line": 149,
+         "rawfrom": "  David Oppenheimer <doppenheimer@natsource.com>@ENRON\n",
+         "source": "email",
+         "to": "Woods, Trevor"
+      },
+      {
+         "from": "trevor.woods@enron.com",
+         "line": 157,
+         "rawfrom": "Trevor.Woods@enron.com [mailto:Trevor.Woods@enron.com]\n",
+         "source": "email",
+         "to": "doppenheimer@natsource.com"
+      },
+      {
+         "from": "doppenheimer@natsource.com",
+         "line": 167,
+         "rawfrom": "  David Oppenheimer <doppenheimer@natsource.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor"
+      },
+      {
+         "from": "trevor.woods@enron.com",
+         "line": 181,
+         "rawfrom": "Trevor.Woods@enron.com\n",
+         "source": "valid",
+         "to": "doppenheimer@natsource.com"
+      },
+      {
+         "from": "doppenheimer@natsource.com",
+         "line": 195,
+         "rawfrom": "  David Oppenheimer <doppenheimer@natsource.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/inbox/social/166.",
+   "hops": [
+      {
+         "from": "doug.block@halliburton.com",
+         "line": 4,
+         "rawfrom": "doug.block@halliburton.com\r\n",
+         "source": "valid",
+         "to": "e.taylor@enron.com"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 22,
+         "rawfrom": "> From:\tTaylor, Michael E [SMTP:Michael.E.Taylor@ENRON.com]\n",
+         "source": "email",
+         "to": "Doug Block"
+      },
+      {
+         "from": "doug.block@halliburton.com",
+         "line": 30,
+         "rawfrom": "Doug Block [mailto:Doug.Block@Halliburton.com]\n",
+         "source": "email",
+         "to": "Taylor, Michael E"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 53,
+         "rawfrom": "> > From:\tTaylor, Michael E [SMTP:Michael.E.Taylor@ENRON.com]\n",
+         "source": "email",
+         "to": "Doug Block"
+      },
+      {
+         "from": "doug.block@halliburton.com",
+         "line": 63,
+         "rawfrom": "Doug Block [mailto:Doug.Block@Halliburton.com]\n",
+         "source": "email",
+         "to": "Taylor, Michael E"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 72,
+         "rawfrom": "> > > From:\tTaylor, Michael E [SMTP:Michael.E.Taylor@ENRON.com]\n",
+         "source": "email",
+         "to": "doug.block@halliburton.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/inbox/social/54.",
+   "hops": [
+      {
+         "from": "jay.vandenberg@enron.com",
+         "line": 4,
+         "rawfrom": "jay.vandenberg@enron.com\r\n",
+         "source": "valid",
+         "to": "e.taylor@enron.com"
+      },
+      {
+         "from": "khanson@broadjump.com",
+         "line": 22,
+         "rawfrom": "\t\"Kristen Hanson\" <khanson@broadjump.com>@ENRON  \n",
+         "source": "email",
+         "to": "Vandenberg, Jay"
+      },
+      {
+         "from": "jay.vandenberg@enron.com",
+         "line": 41,
+         "rawfrom": "Jay.Vandenberg@enron.com [mailto:Jay.Vandenberg@enron.com]\n",
+         "source": "email",
+         "to": "Kristen Hanson"
+      },
+      {
+         "from": "khanson@broadjump.com",
+         "line": 59,
+         "rawfrom": "  \"Kristen Hanson\" <khanson@broadjump.com>@ENRON\n",
+         "source": "email",
+         "to": "Vandenberg, Jay"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/inbox/social/165.",
+   "hops": [
+      {
+         "from": "doug.block@halliburton.com",
+         "line": 4,
+         "rawfrom": "doug.block@halliburton.com\r\n",
+         "source": "valid",
+         "to": "e.taylor@enron.com"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 32,
+         "rawfrom": "> From:\tTaylor, Michael E [SMTP:Michael.E.Taylor@ENRON.com]\n",
+         "source": "email",
+         "to": "Doug Block"
+      },
+      {
+         "from": "doug.block@halliburton.com",
+         "line": 41,
+         "rawfrom": "Doug Block [mailto:Doug.Block@Halliburton.com]\n",
+         "source": "email",
+         "to": "Taylor, Michael E"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 50,
+         "rawfrom": "> > From:\tTaylor, Michael E [SMTP:Michael.E.Taylor@ENRON.com]\n",
+         "source": "email",
+         "to": "doug.block@halliburton.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/inbox/tnrcc/4.",
+   "hops": [
+      {
+         "from": "jparks@tnrcc.state.tx.us",
+         "line": 4,
+         "rawfrom": "jparks@tnrcc.state.tx.us\r\n",
+         "source": "valid",
+         "to": "e.taylor@enron.com"
+      },
+      {
+         "from": "jparks@tnrcc.state.tx.us",
+         "line": 30,
+         "rawfrom": "Jim Parks [mailto:JPARKS@tnrcc.state.tx.us] \n",
+         "source": "email",
+         "to": "Taylor, Michael E"
+      },
+      {
+         "from": "jparks@tnrcc.state.tx.us",
+         "line": 65,
+         "rawfrom": "Jim Parks [mailto:JPARKS@tnrcc.state.tx.us] \n",
+         "source": "email",
+         "to": "Taylor, Michael E"
+      },
+      {
+         "from": "jparks@tnrcc.state.tx.us",
+         "line": 135,
+         "rawfrom": "Jim Parks [mailto:JPARKS@tnrcc.state.tx.us] \n",
+         "source": "email",
+         "to": "Taylor, Michael E"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/inbox/102.",
+   "hops": [
+      {
+         "from": "jfpottercys@worldnet.att.net",
+         "line": 4,
+         "rawfrom": "jfpottercys@worldnet.att.net\r\n",
+         "source": "valid",
+         "to": "legal <.taylor@enron.com>"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 34,
+         "rawfrom": "Taylor, Mark E (Legal) [mailto:Mark.Taylor@ENRON.com]\n",
+         "source": "email",
+         "to": "jfpottercys@worldnet.att.net"
+      },
+      {
+         "from": "jfpottercys@worldnet.att.net",
+         "line": 63,
+         "rawfrom": "\t\"Joel F. Potter\" <jfpottercys@worldnet.att.net>@ENRON\n",
+         "source": "email",
+         "to": "Taylor, Mark E (Legal)"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 86,
+         "rawfrom": "Taylor, Mark E (Legal) [mailto:Mark.Taylor@ENRON.com]\n",
+         "source": "email",
+         "to": "jfpottercys@worldnet.att.net"
+      },
+      {
+         "from": "jfpottercys@worldnet.att.net",
+         "line": 105,
+         "rawfrom": "\t\"Joel F. Potter\" <jfpottercys@worldnet.att.net>@ENRON\n",
+         "source": "email",
+         "to": "Taylor, Mark E (Legal)"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 125,
+         "rawfrom": "Taylor, Mark E (Legal) [mailto:Mark.Taylor@ENRON.com]\n",
+         "source": "email",
+         "to": "jfpottercys@att.net"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/inbox/john_mas/3.",
+   "hops": [
+      {
+         "from": "trevor.woods@enron.com",
+         "line": 4,
+         "rawfrom": "trevor.woods@enron.com\r\n",
+         "source": "valid",
+         "to": "john.massey@enron.com, e.taylor@enron.com"
+      },
+      {
+         "from": "gazuela@worldbank.org",
+         "line": 30,
+         "rawfrom": "\tgazuela@worldbank.org@ENRON  \n",
+         "source": "email",
+         "to": "Massey II, John"
+      },
+      {
+         "from": "john.massey@enron.com",
+         "line": 48,
+         "rawfrom": "John.Massey@enron.com on 09/26/2001 09:28:09 AM\n",
+         "source": "email",
+         "to": "Gazuela@Worldbank.Org"
+      },
+      {
+         "from": "gazuela@worldbank.org",
+         "line": 68,
+         "rawfrom": "  gazuela@worldbank.org@ENRON\n",
+         "source": "email",
+         "to": "Massey II, John"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/inbox/290.",
+   "hops": [
+      {
+         "from": "carol.st.@enron.com",
+         "line": 4,
+         "rawfrom": "carol.st.@enron.com\r\n",
+         "source": "valid",
+         "to": "elizabeth.sager@enron.com, legal <.taylor@enron.com>"
+      },
+      {
+         "from": "simon.firth@linklaters.com",
+         "line": 43,
+         "rawfrom": "\t\"Firth, Simon N\" <simon.firth@Linklaters.com>@ENRON  \n",
+         "source": "email",
+         "to": "Saxena, Rahul; Firth, Simon N"
+      },
+      {
+         "from": "rahul.saxena@enron.com",
+         "line": 94,
+         "rawfrom": "Saxena, Rahul [mailto:rahul.saxena@enron.com]\n",
+         "source": "email",
+         "to": "simon.firth@linklaters.com"
+      },
+      {
+         "from": "steven.bunkin@gs.com",
+         "line": 137,
+         "rawfrom": "\t\"Bunkin, Steven\" <steven.bunkin@gs.com>@ENRON\n",
+         "source": "email",
+         "to": "St. Clair, Carol; Heard, Marie"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/inbox/167.",
+   "hops": [
+      {
+         "from": "steve.ellis@gs.com",
+         "line": 4,
+         "rawfrom": "steve.ellis@gs.com\r\n",
+         "source": "valid",
+         "to": "scarey@isda.org, bunkin@enron.com, steven.bunkin@gs.com,"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 39,
+         "rawfrom": "Stacy Carey [mailto:SCAREY@ISDA.ORG]\n",
+         "source": "email",
+         "to": "Bunkin, Steven"
+      },
+      {
+         "from": "amy.siedenburg@gs.com",
+         "line": 71,
+         "rawfrom": "Siedenburg, Amy [mailto:amy.siedenburg@gs.com]\n",
+         "source": "email",
+         "to": "'Stacy Carey'"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 90,
+         "rawfrom": "Stacy Carey [mailto:SCAREY@ISDA.ORG]\n",
+         "source": "email",
+         "to": "Amy Siedenburg"
+      },
+      {
+         "from": "amy.siedenburg@gs.com",
+         "line": 102,
+         "rawfrom": "Siedenburg, Amy [mailto:amy.siedenburg@gs.com]\n",
+         "source": "email",
+         "to": "'Stacy Carey'"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 113,
+         "rawfrom": "Stacy Carey [mailto:SCAREY@ISDA.ORG]\n",
+         "source": "email",
+         "to": "Bob Mancini; Amy Siedenburg"
+      },
+      {
+         "from": "robert.mancini@gs.com",
+         "line": 124,
+         "rawfrom": "Mancini, Robert [mailto:robert.mancini@gs.com]\n",
+         "source": "email",
+         "to": "'amy.siedenburg@gs.com'"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 137,
+         "rawfrom": "Stacy Carey <SCAREY@ISDA.ORG>\n",
+         "source": "email",
+         "to": "Bob Mancini <robert.mancini@gs.com>; 'STEVEN BUNKIN'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/inbox/173.",
+   "hops": [
+      {
+         "from": "amy.siedenburg@gs.com",
+         "line": 4,
+         "rawfrom": "amy.siedenburg@gs.com\r\n",
+         "source": "valid",
+         "to": "ellis@enron.com, steve.ellis@gs.com, scarey@isda.org, bunkin@enron.com,"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 52,
+         "rawfrom": "Stacy Carey [mailto:SCAREY@ISDA.ORG]\n",
+         "source": "email",
+         "to": "Bunkin, Steven"
+      },
+      {
+         "from": "amy.siedenburg@gs.com",
+         "line": 85,
+         "rawfrom": "Siedenburg, Amy [mailto:amy.siedenburg@gs.com]\n",
+         "source": "email",
+         "to": "'Stacy Carey'"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 105,
+         "rawfrom": "Stacy Carey [mailto:SCAREY@ISDA.ORG]\n",
+         "source": "email",
+         "to": "Amy Siedenburg"
+      },
+      {
+         "from": "amy.siedenburg@gs.com",
+         "line": 117,
+         "rawfrom": "Siedenburg, Amy [mailto:amy.siedenburg@gs.com]\n",
+         "source": "email",
+         "to": "'Stacy Carey'"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 128,
+         "rawfrom": "Stacy Carey [mailto:SCAREY@ISDA.ORG]\n",
+         "source": "email",
+         "to": "Bob Mancini; Amy Siedenburg"
+      },
+      {
+         "from": "robert.mancini@gs.com",
+         "line": 139,
+         "rawfrom": "Mancini, Robert [mailto:robert.mancini@gs.com]\n",
+         "source": "email",
+         "to": "'amy.siedenburg@gs.com'"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 152,
+         "rawfrom": "Stacy Carey <SCAREY@ISDA.ORG>\n",
+         "source": "email",
+         "to": "Bob Mancini <robert.mancini@gs.com>; 'STEVEN BUNKIN'"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/inbox/ev/27.",
+   "hops": [
+      {
+         "from": "kkennedy@dynastymotorcar.com",
+         "line": 4,
+         "rawfrom": "kkennedy@dynastymotorcar.com\r\n",
+         "source": "valid",
+         "to": "e.taylor@enron.com"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 26,
+         "rawfrom": "Taylor, Michael E [mailto:Michael.E.Taylor@ENRON.com]\n",
+         "source": "email",
+         "to": "Kelly Kennedy"
+      },
+      {
+         "from": "kkennedy@dynastymotorcar.com",
+         "line": 40,
+         "rawfrom": "Kelly Kennedy [mailto:kkennedy@dynastymotorcar.com]\n",
+         "source": "email",
+         "to": "Taylor, Michael E"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 54,
+         "rawfrom": "Taylor, Michael E [mailto:Michael.E.Taylor@ENRON.com]\n",
+         "source": "email",
+         "to": "Kelly Kennedy"
+      },
+      {
+         "from": "kkennedy@dynastymotorcar.com",
+         "line": 65,
+         "rawfrom": "Kelly Kennedy [mailto:kkennedy@dynastymotorcar.com]\n",
+         "source": "email",
+         "to": "Taylor, Michael E"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 77,
+         "rawfrom": "Taylor, Michael E [mailto:Michael.E.Taylor@ENRON.com]\n",
+         "source": "email",
+         "to": "Kelly Kennedy"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/inbox/ev/18.",
+   "hops": [
+      {
+         "from": "kkennedy@dynastymotorcar.com",
+         "line": 4,
+         "rawfrom": "kkennedy@dynastymotorcar.com\r\n",
+         "source": "valid",
+         "to": "e.taylor@enron.com"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 27,
+         "rawfrom": "Taylor, Michael E [mailto:Michael.E.Taylor@ENRON.com]\n",
+         "source": "email",
+         "to": "Kelly Kennedy"
+      },
+      {
+         "from": "kkennedy@dynastymotorcar.com",
+         "line": 38,
+         "rawfrom": "Kelly Kennedy [mailto:kkennedy@dynastymotorcar.com]\n",
+         "source": "email",
+         "to": "Taylor, Michael E"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 50,
+         "rawfrom": "Taylor, Michael E [mailto:Michael.E.Taylor@ENRON.com]\n",
+         "source": "email",
+         "to": "Kelly Kennedy"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/inbox/ev/22.",
+   "hops": [
+      {
+         "from": "cshulock@arb.ca.gov",
+         "line": 4,
+         "rawfrom": "cshulock@arb.ca.gov\r\n",
+         "source": "valid",
+         "to": "e.taylor@enron.com"
+      },
+      {
+         "from": "cshulock@arb.ca.gov",
+         "line": 32,
+         "rawfrom": "Chuck Shulock [mailto:cshulock@arb.ca.gov]\n",
+         "source": "email",
+         "to": "Taylor, Michael E"
+      },
+      {
+         "from": "cshulock@arb.ca.gov",
+         "line": 75,
+         "rawfrom": "Chuck Shulock [mailto:cshulock@arb.ca.gov]\n",
+         "source": "email",
+         "to": "Taylor, Michael E"
+      },
+      {
+         "from": "cshulock@arb.ca.gov",
+         "line": 96,
+         "rawfrom": "Chuck Shulock [mailto:cshulock@arb.ca.gov]\n",
+         "source": "email",
+         "to": "Taylor, Michael E"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/inbox/ev/23.",
+   "hops": [
+      {
+         "from": "cshulock@arb.ca.gov",
+         "line": 4,
+         "rawfrom": "cshulock@arb.ca.gov\r\n",
+         "source": "valid",
+         "to": "e.taylor@enron.com"
+      },
+      {
+         "from": "cshulock@arb.ca.gov",
+         "line": 50,
+         "rawfrom": "Chuck Shulock [mailto:cshulock@arb.ca.gov]\n",
+         "source": "email",
+         "to": "Taylor, Michael E"
+      },
+      {
+         "from": "cshulock@arb.ca.gov",
+         "line": 93,
+         "rawfrom": "Chuck Shulock [mailto:cshulock@arb.ca.gov]\n",
+         "source": "email",
+         "to": "Taylor, Michael E"
+      },
+      {
+         "from": "cshulock@arb.ca.gov",
+         "line": 114,
+         "rawfrom": "Chuck Shulock [mailto:cshulock@arb.ca.gov]\n",
+         "source": "email",
+         "to": "Taylor, Michael E"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/inbox/nox_model/websites/1.",
+   "hops": [
+      {
+         "from": "trevor.woods@enron.com",
+         "line": 4,
+         "rawfrom": "trevor.woods@enron.com\r\n",
+         "source": "valid",
+         "to": "e.taylor@enron.com"
+      },
+      {
+         "from": "lsutaylor@hotmail.com",
+         "line": 32,
+         "rawfrom": "mike taylor [mailto:lsutaylor@hotmail.com]\n",
+         "source": "email",
+         "to": "Taylor, Michael E"
+      },
+      {
+         "from": "aabbott@cox.rr.com",
+         "line": 40,
+         "rawfrom": "Ande Abbott <aabbott@cox.rr.com>\n",
+         "source": "email",
+         "to": "mike taylor <lsutaylor@hotmail.com>"
+      },
+      {
+         "from": "lsutaylor@hotmail.com",
+         "line": 77,
+         "rawfrom": "\"mike taylor\" <lsutaylor@hotmail.com>\n",
+         "source": "email",
+         "to": "andea@erols.com"
+      },
+      {
+         "from": "aabbott@cox.rr.com",
+         "line": 101,
+         "rawfrom": "Ande Abbott <aabbott@cox.rr.com>\n",
+         "source": "email",
+         "to": "mike taylor <lsutaylor@hotmail.com> Subject: Re: SCR installations"
+      },
+      {
+         "from": "lsutaylor@hotmail.com",
+         "line": 136,
+         "rawfrom": "\"mike taylor\" <lsutaylor@hotmail.com> > Date: Fri, 27 Jul 2001\n",
+         "source": "email",
+         "to": "andea@erols.com > Subject: SCR installations > >"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/inbox/nox_model/24.",
+   "hops": [
+      {
+         "from": "lsutaylor@hotmail.com",
+         "line": 4,
+         "rawfrom": "lsutaylor@hotmail.com\r\n",
+         "source": "valid",
+         "to": "e.taylor@enron.com"
+      },
+      {
+         "from": "aabbott@cox.rr.com",
+         "line": 21,
+         "rawfrom": "Ande Abbott <aabbott@cox.rr.com>\n",
+         "source": "email",
+         "to": "mike taylor <lsutaylor@hotmail.com>"
+      },
+      {
+         "from": "lsutaylor@hotmail.com",
+         "line": 58,
+         "rawfrom": "\"mike taylor\" <lsutaylor@hotmail.com>\n",
+         "source": "email",
+         "to": "andea@erols.com"
+      },
+      {
+         "from": "aabbott@cox.rr.com",
+         "line": 82,
+         "rawfrom": "Ande Abbott <aabbott@cox.rr.com>\n",
+         "source": "email",
+         "to": "mike taylor <lsutaylor@hotmail.com> Subject: Re: SCR installations"
+      },
+      {
+         "from": "lsutaylor@hotmail.com",
+         "line": 117,
+         "rawfrom": "\"mike taylor\" <lsutaylor@hotmail.com> > Date: Fri, 27 Jul 2001\n",
+         "source": "email",
+         "to": "andea@erols.com > Subject: SCR installations > >"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/uk_trading/17.",
+   "hops": [
+      {
+         "from": "mark.elliott@enron.com",
+         "line": 4,
+         "rawfrom": "mark.elliott@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.taylor@enron.com"
+      },
+      {
+         "from": "susan.gill@omgroup.com",
+         "line": 43,
+         "rawfrom": " susan.gill@omgroup.com                           05/11/99 05:21 PM\n",
+         "source": "email",
+         "to": "melliott@enron.co.uk"
+      },
+      {
+         "from": "melliott@enron.co.uk",
+         "line": 67,
+         "rawfrom": "melliott@enron.co.uk on 11/05/99 09:02:06\n",
+         "source": "email",
+         "to": "Susan Gill/OMLX/OMGROUP@OMGROUP"
+      },
+      {
+         "from": "susan.gill@omgroup.com",
+         "line": 152,
+         "rawfrom": " susan.gill@omgroup.com\n",
+         "source": "valid",
+         "to": "melliott@enron.co.uk"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/3462.",
+   "hops": [
+      {
+         "from": "paul.goddard@enron.com",
+         "line": 4,
+         "rawfrom": "paul.goddard@enron.com\r\n",
+         "source": "valid",
+         "to": "sbrown@velaw.com"
+      },
+      {
+         "from": "justin.boyd@enron.com",
+         "line": 241,
+         "rawfrom": "Justin.Boyd@enron.com [mailto:Justin.Boyd@enron.com]\n",
+         "source": "email",
+         "to": "sbrown@velaw.com"
+      },
+      {
+         "from": "sbrown@velaw.com",
+         "line": 336,
+         "rawfrom": " \"Brown, W. Scott\" <sbrown@velaw.com>                           \n",
+         "source": "email",
+         "to": "\"'Justin.Boyd@enron.com'\" <Justin.Boyd@enron.com>"
+      },
+      {
+         "from": "justin.boyd@enron.com",
+         "line": 367,
+         "rawfrom": "Justin.Boyd@enron.com [mailto:Justin.Boyd@enron.com]\n",
+         "source": "email",
+         "to": "sbrown@velaw.com"
+      },
+      {
+         "from": "sbrown@velaw.com",
+         "line": 490,
+         "rawfrom": " \"Brown, W. Scott\" <sbrown@velaw.com>                           \n",
+         "source": "email",
+         "to": "\"'Justin.Boyd@enron.com'\" <Justin.Boyd@enron.com>"
+      },
+      {
+         "from": "justin.boyd@enron.com",
+         "line": 521,
+         "rawfrom": "Justin.Boyd@enron.com [mailto:Justin.Boyd@enron.com]\n",
+         "source": "email",
+         "to": "sbrown@velaw.com"
+      },
+      {
+         "from": "justin.boyd@enron.com",
+         "line": 642,
+         "rawfrom": "Justin.Boyd@enron.com [mailto:Justin.Boyd@enron.com]\n",
+         "source": "email",
+         "to": "sbrown@velaw.com"
+      },
+      {
+         "from": "justin.boyd@enron.com",
+         "line": 765,
+         "rawfrom": "Justin.Boyd@enron.com [mailto:Justin.Boyd@enron.com]\n",
+         "source": "email",
+         "to": "sbrown@velaw.com"
+      },
+      {
+         "from": "sbrown@velaw.com",
+         "line": 829,
+         "rawfrom": "\"Brown, W. Scott\" <sbrown@velaw.com>\n",
+         "source": "email",
+         "to": "\"'Peter Quine (E-mail)'\" <peter@yesyes.com>"
+      },
+      {
+         "from": "sbrown@velaw.com",
+         "line": 927,
+         "rawfrom": " \"Brown, W. Scott\" <sbrown@velaw.com>                           \n",
+         "source": "email",
+         "to": "\"Justin Boyd (E-mail)\" <Justin.Boyd@enron.com>"
+      },
+      {
+         "from": "justin.boyd@enron.com",
+         "line": 989,
+         "rawfrom": "Justin.Boyd@enron.com [mailto:Justin.Boyd@enron.com]\n",
+         "source": "email",
+         "to": "sbrown@velaw.com"
+      },
+      {
+         "from": "sbrown@velaw.com",
+         "line": 1053,
+         "rawfrom": "\"Brown, W. Scott\" <sbrown@velaw.com>\n",
+         "source": "email",
+         "to": "\"'Peter Quine (E-mail)'\" <peter@yesyes.com>"
+      }
+   ],
+   "skipped": 33
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/8205.",
+   "hops": [
+      {
+         "from": "carlos.alatorre@enron.com",
+         "line": 4,
+         "rawfrom": "carlos.alatorre@enron.com\r\n",
+         "source": "valid",
+         "to": "bhendry@houston.rr.com, brent.hendry@enron.com"
+      },
+      {
+         "from": "bhendry@houston.rr.com",
+         "line": 46,
+         "rawfrom": " \"Brent Hendry\" <bhendry@houston.rr.com>@ENRON \n",
+         "source": "email",
+         "to": "Carter, Carl; Lees, Lisa"
+      },
+      {
+         "from": "araspe@elementre.com",
+         "line": 57,
+         "rawfrom": "<ARaspe@elementre.com>\n",
+         "source": "email",
+         "to": "<bhendry@houston.rr.com>"
+      },
+      {
+         "from": "araspe@elementre.com",
+         "line": 105,
+         "rawfrom": "<ARaspe@elementre.com>\n",
+         "source": "email",
+         "to": "<bhendry@houston.rr.com>"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/276.",
+   "hops": [
+      {
+         "from": "mark.elliott@enron.com",
+         "line": 4,
+         "rawfrom": "mark.elliott@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.taylor@enron.com"
+      },
+      {
+         "from": "susan.gill@omgroup.com",
+         "line": 43,
+         "rawfrom": " susan.gill@omgroup.com                           05/11/99 05:21 PM\n",
+         "source": "email",
+         "to": "melliott@enron.co.uk"
+      },
+      {
+         "from": "melliott@enron.co.uk",
+         "line": 67,
+         "rawfrom": "melliott@enron.co.uk on 11/05/99 09:02:06\n",
+         "source": "email",
+         "to": "Susan Gill/OMLX/OMGROUP@OMGROUP"
+      },
+      {
+         "from": "susan.gill@omgroup.com",
+         "line": 152,
+         "rawfrom": " susan.gill@omgroup.com\n",
+         "source": "valid",
+         "to": "melliott@enron.co.uk"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/1101.",
+   "hops": [
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 4,
+         "rawfrom": "louise.kitchen@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.taylor@enron.com"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 28,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 73,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 124,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 172,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 213,
+         "rawfrom": "David Krunnfusz <dkrunnfusz@agency.com>\n",
+         "source": "email",
+         "to": "mfried@agency.com"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 262,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 293,
+         "rawfrom": "David Krunnfusz <dkrunnfusz@agency.com>\n",
+         "source": "email",
+         "to": "nspraker <nspraker@agency.com>, pherring@agency.com,  mcoover@agency.com,"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 348,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 385,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 494,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "David Forster/LON/ECT@ECT"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 561,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 684,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/1512.",
+   "hops": [
+      {
+         "from": "shari.stack@enron.com",
+         "line": 4,
+         "rawfrom": "shari.stack@enron.com\r\n",
+         "source": "valid",
+         "to": "susan.bailey@enron.com, carol.clair@enron.com, sara.shackleton@enron.com"
+      },
+      {
+         "from": "t.yamauchi@itochu.com",
+         "line": 88,
+         "rawfrom": "\"tsutomu yamauchi\" <t.yamauchi@itochu.com> on 03/02/2000 12:43:15 PM\n",
+         "source": "email",
+         "to": "<Scott.M.Shields@enron.com>"
+      },
+      {
+         "from": "scott.m.shields@enron.com",
+         "line": 111,
+         "rawfrom": "<Scott.M.Shields@enron.com>\n",
+         "source": "email",
+         "to": "<t.yamauchi@itochu.com>"
+      },
+      {
+         "from": "t.yamauchi@itochu.com",
+         "line": 132,
+         "rawfrom": "\"tsutomu yamauchi\" <t.yamauchi@itochu.com> on 03/01/2000 09:56:50 AM\n",
+         "source": "email",
+         "to": "\"Shields, Scott (Enron)\" <Scott.M.Shields@enron.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/1102.",
+   "hops": [
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 4,
+         "rawfrom": "louise.kitchen@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.taylor@enron.com"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 41,
+         "rawfrom": " dkrunnfusz <dkrunnfusz@agency.com>                           14/09/99 \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 110,
+         "rawfrom": " David Krunnfusz <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 174,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/979.",
+   "hops": [
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "mark.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "cindy_evangelista@cemexusa.com"
+      },
+      {
+         "from": "cindy_evangelista@cemexusa.com",
+         "line": 25,
+         "rawfrom": "\"CINDY EVANGELISTA\" <CINDY_EVANGELISTA@cemexusa.com> on 12/20/99 10:17:18 AM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 42,
+         "rawfrom": "\"Mark Taylor\" <mtaylo1@ect.enron.com> on 12/20/99 10:09:22 PM\n",
+         "source": "email",
+         "to": "CINDY EVANGELISTA@CEMEX"
+      },
+      {
+         "from": "cindy_evangelista@cemexusa.com",
+         "line": 65,
+         "rawfrom": "\"CINDY EVANGELISTA\" <CINDY_EVANGELISTA@cemexusa.com> on 12/20/99 09:19:53 AM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 87,
+         "rawfrom": "\"Mark Taylor\" <mtaylo1@ect.enron.com> on 12/20/99 08:34:26 PM\n",
+         "source": "email",
+         "to": "GARY BURNS@CEMEX"
+      },
+      {
+         "from": "gary_burns@cemexusa.com",
+         "line": 106,
+         "rawfrom": "\"GARY BURNS\" <GARY_BURNS@cemexusa.com> on 12/17/99 01:40:46 PM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 147,
+         "rawfrom": "\"Mark Taylor\" <mtaylo1@ect.enron.com> on 12/15/99 11:29:49 PM\n",
+         "source": "email",
+         "to": "GARY BURNS@CEMEX"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/3183.",
+   "hops": [
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "mark.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "john.viverito@enron.com"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 244,
+         "rawfrom": "yamato.konishi@ibjbank.co.jp",
+         "source": "valid",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "teruyo.suzuki@ibjbank.co.jp",
+         "line": 275,
+         "rawfrom": "\"Teruyo Suzuki\" <teruyo.suzuki@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 284,
+         "rawfrom": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "john.viverito@enron.com",
+         "line": 317,
+         "rawfrom": "<John.Viverito@enron.com>\r\n",
+         "source": "email",
+         "to": "<yamato.konishi@ibjbank.co.jp>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/3122.",
+   "hops": [
+      {
+         "from": "john.viverito@enron.com",
+         "line": 4,
+         "rawfrom": "john.viverito@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.taylor@enron.com"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 58,
+         "rawfrom": "yamato.konishi@ibjbank.co.jp",
+         "source": "valid",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "teruyo.suzuki@ibjbank.co.jp",
+         "line": 89,
+         "rawfrom": "\"Teruyo Suzuki\" <teruyo.suzuki@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 98,
+         "rawfrom": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "john.viverito@enron.com",
+         "line": 131,
+         "rawfrom": "<John.Viverito@enron.com>\r\n",
+         "source": "email",
+         "to": "<yamato.konishi@ibjbank.co.jp>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/3166.",
+   "hops": [
+      {
+         "from": "john.viverito@enron.com",
+         "line": 4,
+         "rawfrom": "john.viverito@enron.com\r\n",
+         "source": "valid",
+         "to": "tom.bruce-jones@enron.com"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 98,
+         "rawfrom": "yamato.konishi@ibjbank.co.jp",
+         "source": "valid",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "teruyo.suzuki@ibjbank.co.jp",
+         "line": 129,
+         "rawfrom": "\"Teruyo Suzuki\" <teruyo.suzuki@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 138,
+         "rawfrom": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "john.viverito@enron.com",
+         "line": 171,
+         "rawfrom": "<John.Viverito@enron.com>\r\n",
+         "source": "email",
+         "to": "<yamato.konishi@ibjbank.co.jp>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/1760.",
+   "hops": [
+      {
+         "from": "mark_kopinski@americancentury.com",
+         "line": 4,
+         "rawfrom": "mark_kopinski@americancentury.com\r\n",
+         "source": "valid",
+         "to": "mark.taylor@enron.com"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 28,
+         "rawfrom": "Mark.Taylor@enron.com on 04/09/2000 12:16:17 PM\n",
+         "source": "email",
+         "to": "Mark Kopinski/INTL/ACIM/americancentury@americancentury"
+      },
+      {
+         "from": "mark_kopinski@americancentury.com",
+         "line": 44,
+         "rawfrom": "Mark_Kopinski@americancentury.com on 04/06/2000 07:29:40 AM\n",
+         "source": "email",
+         "to": "Mark.Taylor@enron.com"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 61,
+         "rawfrom": "Mark.Taylor@enron.com on 04/05/2000 11:26:21 AM\n",
+         "source": "email",
+         "to": "Mark Kopinski/INTL/ACIM/americancentury@americancentury"
+      },
+      {
+         "from": "mark_kopinski@americancentury.com",
+         "line": 77,
+         "rawfrom": "Mark_Kopinski@americancentury.com on 04/05/2000 08:37:49 AM\n",
+         "source": "email",
+         "to": "\"Mark Taylor\" <Mark.Taylor@enron.com>"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 101,
+         "rawfrom": "\"Mark Taylor\" <Mark.Taylor@enron.com> on 04/04/2000 06:38:46 PM\n",
+         "source": "email",
+         "to": "Mark Kopinski/INTL/ACIM/americancentury@americancentury"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/859.",
+   "hops": [
+      {
+         "from": "gpier@doubleclick.net",
+         "line": 4,
+         "rawfrom": "gpier@doubleclick.net\r\n",
+         "source": "valid",
+         "to": "mark.taylor@enron.com, gpier@doubleclick.net"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 42,
+         "rawfrom": "Mark Taylor [SMTP:mtaylo1@ect.enron.com]\n",
+         "source": "email",
+         "to": "Pier, Greg"
+      },
+      {
+         "from": "gpier@doubleclick.net",
+         "line": 64,
+         "rawfrom": "\"Pier, Greg\" <gpier@doubleclick.net> on 11/17/99 09:38:44 PM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT, Bruce Hutt <bhutt@ankarcapital.com>"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 81,
+         "rawfrom": "    Mark Taylor [SMTP:mtaylo1@ect.enron.com]\n",
+         "source": "email",
+         "to": "Bruce Hutt"
+      },
+      {
+         "from": "bhutt@ankarcapital.com",
+         "line": 128,
+         "rawfrom": "\"Bruce Hutt\" <bhutt@ankarcapital.com> on 11/17/99 06:07:19 PM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT, gpier@doubleclick.net"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 183,
+         "rawfrom": "Mark Taylor <mtaylo1@ect.enron.com>\n",
+         "source": "email",
+         "to": "gpier@doubleclick.net <gpier@doubleclick.net>; Bruce Hutt"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/772.",
+   "hops": [
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "mark.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "gpier@doubleclick.net"
+      },
+      {
+         "from": "gpier@doubleclick.net",
+         "line": 29,
+         "rawfrom": "\"Pier, Greg\" <gpier@doubleclick.net> on 10/26/99 04:01:46 PM\n",
+         "source": "email",
+         "to": "\"'Bruce Hutt'\" <bhutt@ankarcapital.com>, Mark Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from": "bhutt@ankarcapital.com",
+         "line": 40,
+         "rawfrom": "Bruce Hutt [SMTP:bhutt@ankarcapital.com]\n",
+         "source": "email",
+         "to": "Mark Taylor"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 47,
+         "rawfrom": "Mark Taylor <mtaylo1@ect.enron.com>\n",
+         "source": "email",
+         "to": "Bruce Hutt <bhutt@ankarcapital.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/974.",
+   "hops": [
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "mark.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "cindy_evangelista@cemexusa.com"
+      },
+      {
+         "from": "cindy_evangelista@cemexusa.com",
+         "line": 30,
+         "rawfrom": "\"CINDY EVANGELISTA\" <CINDY_EVANGELISTA@cemexusa.com> on 12/20/99 09:19:53 AM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 52,
+         "rawfrom": "\"Mark Taylor\" <mtaylo1@ect.enron.com> on 12/20/99 08:34:26 PM\n",
+         "source": "email",
+         "to": "GARY BURNS@CEMEX"
+      },
+      {
+         "from": "gary_burns@cemexusa.com",
+         "line": 71,
+         "rawfrom": "\"GARY BURNS\" <GARY_BURNS@cemexusa.com> on 12/17/99 01:40:46 PM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 112,
+         "rawfrom": "\"Mark Taylor\" <mtaylo1@ect.enron.com> on 12/15/99 11:29:49 PM\n",
+         "source": "email",
+         "to": "GARY BURNS@CEMEX"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/3322.",
+   "hops": [
+      {
+         "from": "jonathan.whitehead@enron.com",
+         "line": 4,
+         "rawfrom": "jonathan.whitehead@enron.com\r\n",
+         "source": "valid",
+         "to": "john.suttle@enron.com"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 516,
+         "rawfrom": "yamato.konishi@ibjbank.co.jp",
+         "source": "valid",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "teruyo.suzuki@ibjbank.co.jp",
+         "line": 547,
+         "rawfrom": "\"Teruyo Suzuki\" <teruyo.suzuki@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 556,
+         "rawfrom": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "john.viverito@enron.com",
+         "line": 589,
+         "rawfrom": "<John.Viverito@enron.com>\r\n",
+         "source": "email",
+         "to": "<yamato.konishi@ibjbank.co.jp>"
+      }
+   ],
+   "skipped": 10
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/3531.",
+   "hops": [
+      {
+         "from": "jane.mcbride@enron.com",
+         "line": 4,
+         "rawfrom": "jane.mcbride@enron.com\r\n",
+         "source": "valid",
+         "to": "alan.aronowitz@enron.com"
+      },
+      {
+         "from": "jane.mcbride@enron.com",
+         "line": 112,
+         "rawfrom": "Jane.McBride@enron.com [mailto:Jane.McBride@enron.com]\n",
+         "source": "email",
+         "to": "Izumi Sato; wani@mywm.co.jp"
+      },
+      {
+         "from": "yo.yamanishi@enron.com",
+         "line": 168,
+         "rawfrom": "Yo.Yamanishi@enron.com",
+         "source": "valid",
+         "to": "<Jane.McBride@enron.com>"
+      },
+      {
+         "from": "jane.mcbride@enron.com",
+         "line": 215,
+         "rawfrom": "Jane.McBride@enron.com [mailto:Jane.McBride@enron.com]\n",
+         "source": "email",
+         "to": "isato@mywm.co.jp"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/3444.",
+   "hops": [
+      {
+         "from": "justin.boyd@enron.com",
+         "line": 4,
+         "rawfrom": "justin.boyd@enron.com\r\n",
+         "source": "valid",
+         "to": "sbrown@velaw.com"
+      },
+      {
+         "from": "sbrown@velaw.com",
+         "line": 40,
+         "rawfrom": " \"Brown, W. Scott\" <sbrown@velaw.com>                           \n",
+         "source": "email",
+         "to": "\"Justin Boyd (E-mail)\" <Justin.Boyd@enron.com>"
+      },
+      {
+         "from": "justin.boyd@enron.com",
+         "line": 102,
+         "rawfrom": "Justin.Boyd@enron.com [mailto:Justin.Boyd@enron.com]\n",
+         "source": "email",
+         "to": "sbrown@velaw.com"
+      },
+      {
+         "from": "sbrown@velaw.com",
+         "line": 166,
+         "rawfrom": "\"Brown, W. Scott\" <sbrown@velaw.com>\n",
+         "source": "email",
+         "to": "\"'Peter Quine (E-mail)'\" <peter@yesyes.com>"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/1754.",
+   "hops": [
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "mark.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "mark_kopinski@americancentury.com"
+      },
+      {
+         "from": "mark_kopinski@americancentury.com",
+         "line": 25,
+         "rawfrom": "Mark_Kopinski@americancentury.com on 04/06/2000 07:29:40 AM\n",
+         "source": "email",
+         "to": "Mark.Taylor@enron.com"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 42,
+         "rawfrom": "Mark.Taylor@enron.com on 04/05/2000 11:26:21 AM\n",
+         "source": "email",
+         "to": "Mark Kopinski/INTL/ACIM/americancentury@americancentury"
+      },
+      {
+         "from": "mark_kopinski@americancentury.com",
+         "line": 58,
+         "rawfrom": "Mark_Kopinski@americancentury.com on 04/05/2000 08:37:49 AM\n",
+         "source": "email",
+         "to": "\"Mark Taylor\" <Mark.Taylor@enron.com>"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 82,
+         "rawfrom": "\"Mark Taylor\" <Mark.Taylor@enron.com> on 04/04/2000 06:38:46 PM\n",
+         "source": "email",
+         "to": "Mark Kopinski/INTL/ACIM/americancentury@americancentury"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/121.",
+   "hops": [
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "mark.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "yao.apasu@enron.com, sara.shackleton@enron.com"
+      },
+      {
+         "from": "xtrials@optioninvestor.com",
+         "line": 28,
+         "rawfrom": " xtrials@optioninvestor.com (Option Investor Newsletter     Trials=\r\n",
+         "source": "email",
+         "to": "Option Investor Newsletter Trials <xtrials@optioninvestor.com>"
+      },
+      {
+         "from": "xtrials@optioninvestor.com",
+         "line": 596,
+         "rawfrom": " xtrials@optioninvestor.com (Option Investor Newsletter     Trials=\r\n",
+         "source": "email",
+         "to": "Option Investor Newsletter Trials <xtrials@optioninvestor.com>"
+      },
+      {
+         "from": "xtrials@optioninvestor.com",
+         "line": 1164,
+         "rawfrom": " xtrials@optioninvestor.com (Option Investor Newsletter     Trials=\r\n",
+         "source": "email",
+         "to": "Option Investor Newsletter Trials <xtrials@optioninvestor.com>"
+      },
+      {
+         "from": "xtrials@optioninvestor.com",
+         "line": 1776,
+         "rawfrom": " xtrials@optioninvestor.com (Option Investor Newsletter     Trials=\r\n",
+         "source": "email",
+         "to": "Option Investor Newsletter Trials <xtrials@optioninvestor.com>"
+      },
+      {
+         "from": "xtrials@optioninvestor.com",
+         "line": 2462,
+         "rawfrom": " xtrials@optioninvestor.com (Option Investor Newsletter     Trials=\r\n",
+         "source": "email",
+         "to": "Option Investor Newsletter Trials <xtrials@optioninvestor.com>"
+      },
+      {
+         "from": "xtrials@optioninvestor.com",
+         "line": 3200,
+         "rawfrom": " xtrials@optioninvestor.com (Option Investor Newsletter   =\r\n",
+         "source": "email",
+         "to": "Option Investor Newsletter Trials <xtria="
+      },
+      {
+         "from": "xtrials@optioninvestor.com",
+         "line": 3590,
+         "rawfrom": " xtrials@optioninvestor.com (Option I=\r\n",
+         "source": "email",
+         "to": "Option Investor New="
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/858.",
+   "hops": [
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "mark.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "gpier@doubleclick.net"
+      },
+      {
+         "from": "gpier@doubleclick.net",
+         "line": 28,
+         "rawfrom": "\"Pier, Greg\" <gpier@doubleclick.net> on 11/17/99 09:38:44 PM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT, Bruce Hutt <bhutt@ankarcapital.com>"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 44,
+         "rawfrom": "Mark Taylor [SMTP:mtaylo1@ect.enron.com]\n",
+         "source": "email",
+         "to": "Bruce Hutt"
+      },
+      {
+         "from": "bhutt@ankarcapital.com",
+         "line": 80,
+         "rawfrom": "\"Bruce Hutt\" <bhutt@ankarcapital.com> on 11/17/99 06:07:19 PM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT, gpier@doubleclick.net"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 128,
+         "rawfrom": "Mark Taylor <mtaylo1@ect.enron.com>\n",
+         "source": "email",
+         "to": "gpier@doubleclick.net <gpier@doubleclick.net>; Bruce Hutt"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/2631.",
+   "hops": [
+      {
+         "from": "ted.bockius@ivita.com",
+         "line": 4,
+         "rawfrom": "ted.bockius@ivita.com\r\n",
+         "source": "valid",
+         "to": "mark.taylor@enron.com"
+      },
+      {
+         "from": "amy.cornell@compaq.com",
+         "line": 33,
+         "rawfrom": "? Cornell, Amy [mailto:Amy.Cornell@COMPAQ.com] \n",
+         "source": "email",
+         "to": "???? 'Sharon Brass'"
+      },
+      {
+         "from": "sharon.brass@ivita.com",
+         "line": 44,
+         "rawfrom": "From:?? Sharon Brass [mailto:Sharon.Brass@ivita.com] \n",
+         "source": "email",
+         "to": "???? Cornell, Amy"
+      },
+      {
+         "from": "amy.cornell@compaq.com",
+         "line": 58,
+         "rawfrom": "From:?? Cornell, Amy [ mailto:Amy.Cornell@COMPAQ.com \n",
+         "source": "email",
+         "to": "???? Levy, Saym; 'Sharon Brass'; 'Sharon Fothergill'; Riley, Natalie;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/980.",
+   "hops": [
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "mark.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 49,
+         "rawfrom": "\"Mark Taylor\" <mtaylo1@ect.enron.com> on 12/21/99 09:44:13 PM\n",
+         "source": "email",
+         "to": "CINDY EVANGELISTA@CEMEX"
+      },
+      {
+         "from": "cindy_evangelista@cemexusa.com",
+         "line": 67,
+         "rawfrom": "\"CINDY EVANGELISTA\" <CINDY_EVANGELISTA@cemexusa.com> on 12/20/99 10:17:18 AM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 84,
+         "rawfrom": "\"Mark Taylor\" <mtaylo1@ect.enron.com> on 12/20/99 10:09:22 PM\n",
+         "source": "email",
+         "to": "CINDY EVANGELISTA@CEMEX"
+      },
+      {
+         "from": "cindy_evangelista@cemexusa.com",
+         "line": 107,
+         "rawfrom": "\"CINDY EVANGELISTA\" <CINDY_EVANGELISTA@cemexusa.com> on 12/20/99 09:19:53 AM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 129,
+         "rawfrom": "\"Mark Taylor\" <mtaylo1@ect.enron.com> on 12/20/99 08:34:26 PM\n",
+         "source": "email",
+         "to": "GARY BURNS@CEMEX"
+      },
+      {
+         "from": "gary_burns@cemexusa.com",
+         "line": 148,
+         "rawfrom": "\"GARY BURNS\" <GARY_BURNS@cemexusa.com> on 12/17/99 01:40:46 PM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 189,
+         "rawfrom": "\"Mark Taylor\" <mtaylo1@ect.enron.com> on 12/15/99 11:29:49 PM\n",
+         "source": "email",
+         "to": "GARY BURNS@CEMEX"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/3280.",
+   "hops": [
+      {
+         "from": "john.viverito@enron.com",
+         "line": 4,
+         "rawfrom": "john.viverito@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.taylor@enron.com"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 389,
+         "rawfrom": "yamato.konishi@ibjbank.co.jp",
+         "source": "valid",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "teruyo.suzuki@ibjbank.co.jp",
+         "line": 420,
+         "rawfrom": "\"Teruyo Suzuki\" <teruyo.suzuki@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 429,
+         "rawfrom": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "john.viverito@enron.com",
+         "line": 462,
+         "rawfrom": "<John.Viverito@enron.com>\r\n",
+         "source": "email",
+         "to": "<yamato.konishi@ibjbank.co.jp>"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/2632.",
+   "hops": [
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "mark.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "ted.bockius@ivita.com"
+      },
+      {
+         "from": "ted.bockius@ivita.com",
+         "line": 25,
+         "rawfrom": "Ted Bockius <Ted.Bockius@ivita.com>\n",
+         "source": "email",
+         "to": "\"'mark.taylor@enron.com'\" <mark.taylor@enron.com>"
+      },
+      {
+         "from": "amy.cornell@compaq.com",
+         "line": 48,
+         "rawfrom": "? Cornell, Amy [mailto:Amy.Cornell@COMPAQ.com] \n",
+         "source": "email",
+         "to": "???? 'Sharon Brass'"
+      },
+      {
+         "from": "sharon.brass@ivita.com",
+         "line": 59,
+         "rawfrom": "From:?? Sharon Brass [mailto:Sharon.Brass@ivita.com] \n",
+         "source": "email",
+         "to": "???? Cornell, Amy"
+      },
+      {
+         "from": "amy.cornell@compaq.com",
+         "line": 73,
+         "rawfrom": "From:?? Cornell, Amy [ mailto:Amy.Cornell@COMPAQ.com \n",
+         "source": "email",
+         "to": "???? Levy, Saym; 'Sharon Brass'; 'Sharon Fothergill'; Riley, Natalie;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/3323.",
+   "hops": [
+      {
+         "from": "jonathan.whitehead@enron.com",
+         "line": 4,
+         "rawfrom": "jonathan.whitehead@enron.com\r\n",
+         "source": "valid",
+         "to": "john.suttle@enron.com"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 541,
+         "rawfrom": "yamato.konishi@ibjbank.co.jp",
+         "source": "valid",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "teruyo.suzuki@ibjbank.co.jp",
+         "line": 572,
+         "rawfrom": "\"Teruyo Suzuki\" <teruyo.suzuki@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 581,
+         "rawfrom": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "john.viverito@enron.com",
+         "line": 614,
+         "rawfrom": "<John.Viverito@enron.com>\r\n",
+         "source": "email",
+         "to": "<yamato.konishi@ibjbank.co.jp>"
+      }
+   ],
+   "skipped": 10
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/3124.",
+   "hops": [
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "mark.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "john.suttle@enron.com"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 65,
+         "rawfrom": "yamato.konishi@ibjbank.co.jp",
+         "source": "valid",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "teruyo.suzuki@ibjbank.co.jp",
+         "line": 96,
+         "rawfrom": "\"Teruyo Suzuki\" <teruyo.suzuki@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 105,
+         "rawfrom": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "john.viverito@enron.com",
+         "line": 138,
+         "rawfrom": "<John.Viverito@enron.com>\r\n",
+         "source": "email",
+         "to": "<yamato.konishi@ibjbank.co.jp>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/1359.",
+   "hops": [
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "mark.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "marc_cutler@bmc.com"
+      },
+      {
+         "from": "marc_cutler@bmc.com",
+         "line": 26,
+         "rawfrom": "\"Cutler, Marc\" <Marc_Cutler@bmc.com> on 02/22/2000 05:00:55 PM\n",
+         "source": "email",
+         "to": "\"'Mark Taylor'\" <Mark.Taylor@enron.com>"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 36,
+         "rawfrom": "Mark Taylor [mailto:Mark.Taylor@enron.com]\n",
+         "source": "email",
+         "to": "Cutler, Marc"
+      },
+      {
+         "from": "marc_cutler@bmc.com",
+         "line": 53,
+         "rawfrom": "\"Cutler, Marc\" <Marc_Cutler@bmc.com> on 02/22/2000 04:15:23 PM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/857.",
+   "hops": [
+      {
+         "from": "gpier@doubleclick.net",
+         "line": 4,
+         "rawfrom": "gpier@doubleclick.net\r\n",
+         "source": "valid",
+         "to": "mark.taylor@enron.com, bhutt@ankarcapital.com"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 29,
+         "rawfrom": "Mark Taylor [SMTP:mtaylo1@ect.enron.com]\n",
+         "source": "email",
+         "to": "Bruce Hutt"
+      },
+      {
+         "from": "bhutt@ankarcapital.com",
+         "line": 65,
+         "rawfrom": "\"Bruce Hutt\" <bhutt@ankarcapital.com> on 11/17/99 06:07:19 PM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT, gpier@doubleclick.net"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 113,
+         "rawfrom": "Mark Taylor <mtaylo1@ect.enron.com>\n",
+         "source": "email",
+         "to": "gpier@doubleclick.net <gpier@doubleclick.net>; Bruce Hutt"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/3327.",
+   "hops": [
+      {
+         "from": "john.suttle@enron.com",
+         "line": 4,
+         "rawfrom": "john.suttle@enron.com\r\n",
+         "source": "valid",
+         "to": "jonathan.whitehead@enron.com"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 597,
+         "rawfrom": "yamato.konishi@ibjbank.co.jp",
+         "source": "valid",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "teruyo.suzuki@ibjbank.co.jp",
+         "line": 628,
+         "rawfrom": "\"Teruyo Suzuki\" <teruyo.suzuki@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 637,
+         "rawfrom": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "john.viverito@enron.com",
+         "line": 670,
+         "rawfrom": "<John.Viverito@enron.com>\r\n",
+         "source": "email",
+         "to": "<yamato.konishi@ibjbank.co.jp>"
+      }
+   ],
+   "skipped": 11
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/all_documents/778.",
+   "hops": [
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "mark.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "bhutt@ankarcapital.com"
+      },
+      {
+         "from": "bhutt@ankarcapital.com",
+         "line": 44,
+         "rawfrom": "\"Bruce Hutt\" <bhutt@ankarcapital.com> on 10/27/99 02:35:29 PM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT, \"Pier, Greg\" <gpier@doubleclick.net>"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 64,
+         "rawfrom": "Mark Taylor <mtaylo1@ect.enron.com>\n",
+         "source": "email",
+         "to": "Pier, Greg <gpier@doubleclick.net>"
+      },
+      {
+         "from": "gpier@doubleclick.net",
+         "line": 85,
+         "rawfrom": "gpier@doubleclick.net",
+         "source": "valid",
+         "to": "\"'Bruce Hutt'\" <bhutt@ankarcapital.com>, Mark Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from": "bhutt@ankarcapital.com",
+         "line": 96,
+         "rawfrom": "    Bruce Hutt [SMTP:bhutt@ankarcapital.com]\n",
+         "source": "email",
+         "to": "Mark Taylor"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 103,
+         "rawfrom": "Mark Taylor <mtaylo1@ect.enron.com>\n",
+         "source": "email",
+         "to": "Bruce Hutt <bhutt@ankarcapital.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent/697.",
+   "hops": [
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "mark.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "cindy_evangelista@cemexusa.com"
+      },
+      {
+         "from": "cindy_evangelista@cemexusa.com",
+         "line": 25,
+         "rawfrom": "\"CINDY EVANGELISTA\" <CINDY_EVANGELISTA@cemexusa.com> on 12/20/99 10:17:18 AM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 42,
+         "rawfrom": "\"Mark Taylor\" <mtaylo1@ect.enron.com> on 12/20/99 10:09:22 PM\n",
+         "source": "email",
+         "to": "CINDY EVANGELISTA@CEMEX"
+      },
+      {
+         "from": "cindy_evangelista@cemexusa.com",
+         "line": 65,
+         "rawfrom": "\"CINDY EVANGELISTA\" <CINDY_EVANGELISTA@cemexusa.com> on 12/20/99 09:19:53 AM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 87,
+         "rawfrom": "\"Mark Taylor\" <mtaylo1@ect.enron.com> on 12/20/99 08:34:26 PM\n",
+         "source": "email",
+         "to": "GARY BURNS@CEMEX"
+      },
+      {
+         "from": "gary_burns@cemexusa.com",
+         "line": 106,
+         "rawfrom": "\"GARY BURNS\" <GARY_BURNS@cemexusa.com> on 12/17/99 01:40:46 PM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 147,
+         "rawfrom": "\"Mark Taylor\" <mtaylo1@ect.enron.com> on 12/15/99 11:29:49 PM\n",
+         "source": "email",
+         "to": "GARY BURNS@CEMEX"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent/1340.",
+   "hops": [
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "mark.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "john.viverito@enron.com"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 244,
+         "rawfrom": "yamato.konishi@ibjbank.co.jp",
+         "source": "valid",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "teruyo.suzuki@ibjbank.co.jp",
+         "line": 275,
+         "rawfrom": "\"Teruyo Suzuki\" <teruyo.suzuki@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 284,
+         "rawfrom": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "john.viverito@enron.com",
+         "line": 317,
+         "rawfrom": "<John.Viverito@enron.com>\r\n",
+         "source": "email",
+         "to": "<yamato.konishi@ibjbank.co.jp>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent/1318.",
+   "hops": [
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "mark.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "john.suttle@enron.com"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 65,
+         "rawfrom": "yamato.konishi@ibjbank.co.jp",
+         "source": "valid",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "teruyo.suzuki@ibjbank.co.jp",
+         "line": 96,
+         "rawfrom": "\"Teruyo Suzuki\" <teruyo.suzuki@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 105,
+         "rawfrom": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "john.viverito@enron.com",
+         "line": 138,
+         "rawfrom": "<John.Viverito@enron.com>\r\n",
+         "source": "email",
+         "to": "<yamato.konishi@ibjbank.co.jp>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent/698.",
+   "hops": [
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "mark.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "tana.jones@enron.com"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 49,
+         "rawfrom": "\"Mark Taylor\" <mtaylo1@ect.enron.com> on 12/21/99 09:44:13 PM\n",
+         "source": "email",
+         "to": "CINDY EVANGELISTA@CEMEX"
+      },
+      {
+         "from": "cindy_evangelista@cemexusa.com",
+         "line": 67,
+         "rawfrom": "\"CINDY EVANGELISTA\" <CINDY_EVANGELISTA@cemexusa.com> on 12/20/99 10:17:18 AM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 84,
+         "rawfrom": "\"Mark Taylor\" <mtaylo1@ect.enron.com> on 12/20/99 10:09:22 PM\n",
+         "source": "email",
+         "to": "CINDY EVANGELISTA@CEMEX"
+      },
+      {
+         "from": "cindy_evangelista@cemexusa.com",
+         "line": 107,
+         "rawfrom": "\"CINDY EVANGELISTA\" <CINDY_EVANGELISTA@cemexusa.com> on 12/20/99 09:19:53 AM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 129,
+         "rawfrom": "\"Mark Taylor\" <mtaylo1@ect.enron.com> on 12/20/99 08:34:26 PM\n",
+         "source": "email",
+         "to": "GARY BURNS@CEMEX"
+      },
+      {
+         "from": "gary_burns@cemexusa.com",
+         "line": 148,
+         "rawfrom": "\"GARY BURNS\" <GARY_BURNS@cemexusa.com> on 12/17/99 01:40:46 PM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 189,
+         "rawfrom": "\"Mark Taylor\" <mtaylo1@ect.enron.com> on 12/15/99 11:29:49 PM\n",
+         "source": "email",
+         "to": "GARY BURNS@CEMEX"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent/864.",
+   "hops": [
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "mark.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "marc_cutler@bmc.com"
+      },
+      {
+         "from": "marc_cutler@bmc.com",
+         "line": 26,
+         "rawfrom": "\"Cutler, Marc\" <Marc_Cutler@bmc.com> on 02/22/2000 05:00:55 PM\n",
+         "source": "email",
+         "to": "\"'Mark Taylor'\" <Mark.Taylor@enron.com>"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 36,
+         "rawfrom": "Mark Taylor [mailto:Mark.Taylor@enron.com]\n",
+         "source": "email",
+         "to": "Cutler, Marc"
+      },
+      {
+         "from": "marc_cutler@bmc.com",
+         "line": 53,
+         "rawfrom": "\"Cutler, Marc\" <Marc_Cutler@bmc.com> on 02/22/2000 04:15:23 PM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent/111.",
+   "hops": [
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "mark.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "yao.apasu@enron.com, sara.shackleton@enron.com"
+      },
+      {
+         "from": "xtrials@optioninvestor.com",
+         "line": 28,
+         "rawfrom": " xtrials@optioninvestor.com (Option Investor Newsletter     Trials=\r\n",
+         "source": "email",
+         "to": "Option Investor Newsletter Trials <xtrials@optioninvestor.com>"
+      },
+      {
+         "from": "xtrials@optioninvestor.com",
+         "line": 596,
+         "rawfrom": " xtrials@optioninvestor.com (Option Investor Newsletter     Trials=\r\n",
+         "source": "email",
+         "to": "Option Investor Newsletter Trials <xtrials@optioninvestor.com>"
+      },
+      {
+         "from": "xtrials@optioninvestor.com",
+         "line": 1164,
+         "rawfrom": " xtrials@optioninvestor.com (Option Investor Newsletter     Trials=\r\n",
+         "source": "email",
+         "to": "Option Investor Newsletter Trials <xtrials@optioninvestor.com>"
+      },
+      {
+         "from": "xtrials@optioninvestor.com",
+         "line": 1776,
+         "rawfrom": " xtrials@optioninvestor.com (Option Investor Newsletter     Trials=\r\n",
+         "source": "email",
+         "to": "Option Investor Newsletter Trials <xtrials@optioninvestor.com>"
+      },
+      {
+         "from": "xtrials@optioninvestor.com",
+         "line": 2462,
+         "rawfrom": " xtrials@optioninvestor.com (Option Investor Newsletter     Trials=\r\n",
+         "source": "email",
+         "to": "Option Investor Newsletter Trials <xtrials@optioninvestor.com>"
+      },
+      {
+         "from": "xtrials@optioninvestor.com",
+         "line": 3200,
+         "rawfrom": " xtrials@optioninvestor.com (Option Investor Newsletter   =\r\n",
+         "source": "email",
+         "to": "Option Investor Newsletter Trials <xtria="
+      },
+      {
+         "from": "xtrials@optioninvestor.com",
+         "line": 3590,
+         "rawfrom": " xtrials@optioninvestor.com (Option I=\r\n",
+         "source": "email",
+         "to": "Option Investor New="
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent/693.",
+   "hops": [
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "mark.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "cindy_evangelista@cemexusa.com"
+      },
+      {
+         "from": "cindy_evangelista@cemexusa.com",
+         "line": 30,
+         "rawfrom": "\"CINDY EVANGELISTA\" <CINDY_EVANGELISTA@cemexusa.com> on 12/20/99 09:19:53 AM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 52,
+         "rawfrom": "\"Mark Taylor\" <mtaylo1@ect.enron.com> on 12/20/99 08:34:26 PM\n",
+         "source": "email",
+         "to": "GARY BURNS@CEMEX"
+      },
+      {
+         "from": "gary_burns@cemexusa.com",
+         "line": 71,
+         "rawfrom": "\"GARY BURNS\" <GARY_BURNS@cemexusa.com> on 12/17/99 01:40:46 PM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 112,
+         "rawfrom": "\"Mark Taylor\" <mtaylo1@ect.enron.com> on 12/15/99 11:29:49 PM\n",
+         "source": "email",
+         "to": "GARY BURNS@CEMEX"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent/582.",
+   "hops": [
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "mark.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "gpier@doubleclick.net"
+      },
+      {
+         "from": "gpier@doubleclick.net",
+         "line": 29,
+         "rawfrom": "\"Pier, Greg\" <gpier@doubleclick.net> on 10/26/99 04:01:46 PM\n",
+         "source": "email",
+         "to": "\"'Bruce Hutt'\" <bhutt@ankarcapital.com>, Mark Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from": "bhutt@ankarcapital.com",
+         "line": 40,
+         "rawfrom": "Bruce Hutt [SMTP:bhutt@ankarcapital.com]\n",
+         "source": "email",
+         "to": "Mark Taylor"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 47,
+         "rawfrom": "Mark Taylor <mtaylo1@ect.enron.com>\n",
+         "source": "email",
+         "to": "Bruce Hutt <bhutt@ankarcapital.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent/625.",
+   "hops": [
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "mark.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "gpier@doubleclick.net"
+      },
+      {
+         "from": "gpier@doubleclick.net",
+         "line": 28,
+         "rawfrom": "\"Pier, Greg\" <gpier@doubleclick.net> on 11/17/99 09:38:44 PM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT, Bruce Hutt <bhutt@ankarcapital.com>"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 44,
+         "rawfrom": "Mark Taylor [SMTP:mtaylo1@ect.enron.com]\n",
+         "source": "email",
+         "to": "Bruce Hutt"
+      },
+      {
+         "from": "bhutt@ankarcapital.com",
+         "line": 80,
+         "rawfrom": "\"Bruce Hutt\" <bhutt@ankarcapital.com> on 11/17/99 06:07:19 PM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT, gpier@doubleclick.net"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 128,
+         "rawfrom": "Mark Taylor <mtaylo1@ect.enron.com>\n",
+         "source": "email",
+         "to": "gpier@doubleclick.net <gpier@doubleclick.net>; Bruce Hutt"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent/961.",
+   "hops": [
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "mark.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "mark_kopinski@americancentury.com"
+      },
+      {
+         "from": "mark_kopinski@americancentury.com",
+         "line": 25,
+         "rawfrom": "Mark_Kopinski@americancentury.com on 04/06/2000 07:29:40 AM\n",
+         "source": "email",
+         "to": "Mark.Taylor@enron.com"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 42,
+         "rawfrom": "Mark.Taylor@enron.com on 04/05/2000 11:26:21 AM\n",
+         "source": "email",
+         "to": "Mark Kopinski/INTL/ACIM/americancentury@americancentury"
+      },
+      {
+         "from": "mark_kopinski@americancentury.com",
+         "line": 58,
+         "rawfrom": "Mark_Kopinski@americancentury.com on 04/05/2000 08:37:49 AM\n",
+         "source": "email",
+         "to": "\"Mark Taylor\" <Mark.Taylor@enron.com>"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 82,
+         "rawfrom": "\"Mark Taylor\" <Mark.Taylor@enron.com> on 04/04/2000 06:38:46 PM\n",
+         "source": "email",
+         "to": "Mark Kopinski/INTL/ACIM/americancentury@americancentury"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent/587.",
+   "hops": [
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "mark.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "bhutt@ankarcapital.com"
+      },
+      {
+         "from": "bhutt@ankarcapital.com",
+         "line": 44,
+         "rawfrom": "\"Bruce Hutt\" <bhutt@ankarcapital.com> on 10/27/99 02:35:29 PM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT, \"Pier, Greg\" <gpier@doubleclick.net>"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 64,
+         "rawfrom": "Mark Taylor <mtaylo1@ect.enron.com>\n",
+         "source": "email",
+         "to": "Pier, Greg <gpier@doubleclick.net>"
+      },
+      {
+         "from": "gpier@doubleclick.net",
+         "line": 85,
+         "rawfrom": "gpier@doubleclick.net",
+         "source": "valid",
+         "to": "\"'Bruce Hutt'\" <bhutt@ankarcapital.com>, Mark Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from": "bhutt@ankarcapital.com",
+         "line": 96,
+         "rawfrom": "    Bruce Hutt [SMTP:bhutt@ankarcapital.com]\n",
+         "source": "email",
+         "to": "Mark Taylor"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 103,
+         "rawfrom": "Mark Taylor <mtaylo1@ect.enron.com>\n",
+         "source": "email",
+         "to": "Bruce Hutt <bhutt@ankarcapital.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent/1174.",
+   "hops": [
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "mark.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "ted.bockius@ivita.com"
+      },
+      {
+         "from": "ted.bockius@ivita.com",
+         "line": 25,
+         "rawfrom": "Ted Bockius <Ted.Bockius@ivita.com>\n",
+         "source": "email",
+         "to": "\"'mark.taylor@enron.com'\" <mark.taylor@enron.com>"
+      },
+      {
+         "from": "amy.cornell@compaq.com",
+         "line": 48,
+         "rawfrom": "? Cornell, Amy [mailto:Amy.Cornell@COMPAQ.com] \n",
+         "source": "email",
+         "to": "???? 'Sharon Brass'"
+      },
+      {
+         "from": "sharon.brass@ivita.com",
+         "line": 59,
+         "rawfrom": "From:?? Sharon Brass [mailto:Sharon.Brass@ivita.com] \n",
+         "source": "email",
+         "to": "???? Cornell, Amy"
+      },
+      {
+         "from": "amy.cornell@compaq.com",
+         "line": 73,
+         "rawfrom": "From:?? Cornell, Amy [ mailto:Amy.Cornell@COMPAQ.com \n",
+         "source": "email",
+         "to": "???? Levy, Saym; 'Sharon Brass'; 'Sharon Fothergill'; Riley, Natalie;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/notes_inbox/1490.",
+   "hops": [
+      {
+         "from": "jonathan.whitehead@enron.com",
+         "line": 4,
+         "rawfrom": "jonathan.whitehead@enron.com\r\n",
+         "source": "valid",
+         "to": "john.suttle@enron.com"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 541,
+         "rawfrom": "yamato.konishi@ibjbank.co.jp",
+         "source": "valid",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "teruyo.suzuki@ibjbank.co.jp",
+         "line": 572,
+         "rawfrom": "\"Teruyo Suzuki\" <teruyo.suzuki@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 581,
+         "rawfrom": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "john.viverito@enron.com",
+         "line": 614,
+         "rawfrom": "<John.Viverito@enron.com>\r\n",
+         "source": "email",
+         "to": "<yamato.konishi@ibjbank.co.jp>"
+      }
+   ],
+   "skipped": 10
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/notes_inbox/234.",
+   "hops": [
+      {
+         "from": "shari.stack@enron.com",
+         "line": 4,
+         "rawfrom": "shari.stack@enron.com\r\n",
+         "source": "valid",
+         "to": "susan.bailey@enron.com, carol.clair@enron.com, sara.shackleton@enron.com"
+      },
+      {
+         "from": "t.yamauchi@itochu.com",
+         "line": 88,
+         "rawfrom": "\"tsutomu yamauchi\" <t.yamauchi@itochu.com> on 03/02/2000 12:43:15 PM\n",
+         "source": "email",
+         "to": "<Scott.M.Shields@enron.com>"
+      },
+      {
+         "from": "scott.m.shields@enron.com",
+         "line": 111,
+         "rawfrom": "<Scott.M.Shields@enron.com>\n",
+         "source": "email",
+         "to": "<t.yamauchi@itochu.com>"
+      },
+      {
+         "from": "t.yamauchi@itochu.com",
+         "line": 132,
+         "rawfrom": "\"tsutomu yamauchi\" <t.yamauchi@itochu.com> on 03/01/2000 09:56:50 AM\n",
+         "source": "email",
+         "to": "\"Shields, Scott (Enron)\" <Scott.M.Shields@enron.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/notes_inbox/1494.",
+   "hops": [
+      {
+         "from": "john.suttle@enron.com",
+         "line": 4,
+         "rawfrom": "john.suttle@enron.com\r\n",
+         "source": "valid",
+         "to": "jonathan.whitehead@enron.com"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 597,
+         "rawfrom": "yamato.konishi@ibjbank.co.jp",
+         "source": "valid",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "teruyo.suzuki@ibjbank.co.jp",
+         "line": 628,
+         "rawfrom": "\"Teruyo Suzuki\" <teruyo.suzuki@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 637,
+         "rawfrom": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "john.viverito@enron.com",
+         "line": 670,
+         "rawfrom": "<John.Viverito@enron.com>\r\n",
+         "source": "email",
+         "to": "<yamato.konishi@ibjbank.co.jp>"
+      }
+   ],
+   "skipped": 11
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/notes_inbox/2182.",
+   "hops": [
+      {
+         "from": "carlos.alatorre@enron.com",
+         "line": 4,
+         "rawfrom": "carlos.alatorre@enron.com\r\n",
+         "source": "valid",
+         "to": "bhendry@houston.rr.com, brent.hendry@enron.com"
+      },
+      {
+         "from": "bhendry@houston.rr.com",
+         "line": 46,
+         "rawfrom": " \"Brent Hendry\" <bhendry@houston.rr.com>@ENRON \n",
+         "source": "email",
+         "to": "Carter, Carl; Lees, Lisa"
+      },
+      {
+         "from": "araspe@elementre.com",
+         "line": 57,
+         "rawfrom": "<ARaspe@elementre.com>\n",
+         "source": "email",
+         "to": "<bhendry@houston.rr.com>"
+      },
+      {
+         "from": "araspe@elementre.com",
+         "line": 105,
+         "rawfrom": "<ARaspe@elementre.com>\n",
+         "source": "email",
+         "to": "<bhendry@houston.rr.com>"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/notes_inbox/1598.",
+   "hops": [
+      {
+         "from": "paul.goddard@enron.com",
+         "line": 4,
+         "rawfrom": "paul.goddard@enron.com\r\n",
+         "source": "valid",
+         "to": "sbrown@velaw.com"
+      },
+      {
+         "from": "justin.boyd@enron.com",
+         "line": 241,
+         "rawfrom": "Justin.Boyd@enron.com [mailto:Justin.Boyd@enron.com]\n",
+         "source": "email",
+         "to": "sbrown@velaw.com"
+      },
+      {
+         "from": "sbrown@velaw.com",
+         "line": 336,
+         "rawfrom": " \"Brown, W. Scott\" <sbrown@velaw.com>                           \n",
+         "source": "email",
+         "to": "\"'Justin.Boyd@enron.com'\" <Justin.Boyd@enron.com>"
+      },
+      {
+         "from": "justin.boyd@enron.com",
+         "line": 367,
+         "rawfrom": "Justin.Boyd@enron.com [mailto:Justin.Boyd@enron.com]\n",
+         "source": "email",
+         "to": "sbrown@velaw.com"
+      },
+      {
+         "from": "sbrown@velaw.com",
+         "line": 490,
+         "rawfrom": " \"Brown, W. Scott\" <sbrown@velaw.com>                           \n",
+         "source": "email",
+         "to": "\"'Justin.Boyd@enron.com'\" <Justin.Boyd@enron.com>"
+      },
+      {
+         "from": "justin.boyd@enron.com",
+         "line": 521,
+         "rawfrom": "Justin.Boyd@enron.com [mailto:Justin.Boyd@enron.com]\n",
+         "source": "email",
+         "to": "sbrown@velaw.com"
+      },
+      {
+         "from": "justin.boyd@enron.com",
+         "line": 642,
+         "rawfrom": "Justin.Boyd@enron.com [mailto:Justin.Boyd@enron.com]\n",
+         "source": "email",
+         "to": "sbrown@velaw.com"
+      },
+      {
+         "from": "justin.boyd@enron.com",
+         "line": 765,
+         "rawfrom": "Justin.Boyd@enron.com [mailto:Justin.Boyd@enron.com]\n",
+         "source": "email",
+         "to": "sbrown@velaw.com"
+      },
+      {
+         "from": "sbrown@velaw.com",
+         "line": 829,
+         "rawfrom": "\"Brown, W. Scott\" <sbrown@velaw.com>\n",
+         "source": "email",
+         "to": "\"'Peter Quine (E-mail)'\" <peter@yesyes.com>"
+      },
+      {
+         "from": "sbrown@velaw.com",
+         "line": 927,
+         "rawfrom": " \"Brown, W. Scott\" <sbrown@velaw.com>                           \n",
+         "source": "email",
+         "to": "\"Justin Boyd (E-mail)\" <Justin.Boyd@enron.com>"
+      },
+      {
+         "from": "justin.boyd@enron.com",
+         "line": 989,
+         "rawfrom": "Justin.Boyd@enron.com [mailto:Justin.Boyd@enron.com]\n",
+         "source": "email",
+         "to": "sbrown@velaw.com"
+      },
+      {
+         "from": "sbrown@velaw.com",
+         "line": 1053,
+         "rawfrom": "\"Brown, W. Scott\" <sbrown@velaw.com>\n",
+         "source": "email",
+         "to": "\"'Peter Quine (E-mail)'\" <peter@yesyes.com>"
+      }
+   ],
+   "skipped": 33
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/notes_inbox/1361.",
+   "hops": [
+      {
+         "from": "john.viverito@enron.com",
+         "line": 4,
+         "rawfrom": "john.viverito@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.taylor@enron.com"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 58,
+         "rawfrom": "yamato.konishi@ibjbank.co.jp",
+         "source": "valid",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "teruyo.suzuki@ibjbank.co.jp",
+         "line": 89,
+         "rawfrom": "\"Teruyo Suzuki\" <teruyo.suzuki@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 98,
+         "rawfrom": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "john.viverito@enron.com",
+         "line": 131,
+         "rawfrom": "<John.Viverito@enron.com>\r\n",
+         "source": "email",
+         "to": "<yamato.konishi@ibjbank.co.jp>"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/notes_inbox/1643.",
+   "hops": [
+      {
+         "from": "jane.mcbride@enron.com",
+         "line": 4,
+         "rawfrom": "jane.mcbride@enron.com\r\n",
+         "source": "valid",
+         "to": "alan.aronowitz@enron.com"
+      },
+      {
+         "from": "jane.mcbride@enron.com",
+         "line": 112,
+         "rawfrom": "Jane.McBride@enron.com [mailto:Jane.McBride@enron.com]\n",
+         "source": "email",
+         "to": "Izumi Sato; wani@mywm.co.jp"
+      },
+      {
+         "from": "yo.yamanishi@enron.com",
+         "line": 168,
+         "rawfrom": "Yo.Yamanishi@enron.com",
+         "source": "valid",
+         "to": "<Jane.McBride@enron.com>"
+      },
+      {
+         "from": "jane.mcbride@enron.com",
+         "line": 215,
+         "rawfrom": "Jane.McBride@enron.com [mailto:Jane.McBride@enron.com]\n",
+         "source": "email",
+         "to": "isato@mywm.co.jp"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/notes_inbox/1584.",
+   "hops": [
+      {
+         "from": "justin.boyd@enron.com",
+         "line": 4,
+         "rawfrom": "justin.boyd@enron.com\r\n",
+         "source": "valid",
+         "to": "sbrown@velaw.com"
+      },
+      {
+         "from": "sbrown@velaw.com",
+         "line": 40,
+         "rawfrom": " \"Brown, W. Scott\" <sbrown@velaw.com>                           \n",
+         "source": "email",
+         "to": "\"Justin Boyd (E-mail)\" <Justin.Boyd@enron.com>"
+      },
+      {
+         "from": "justin.boyd@enron.com",
+         "line": 102,
+         "rawfrom": "Justin.Boyd@enron.com [mailto:Justin.Boyd@enron.com]\n",
+         "source": "email",
+         "to": "sbrown@velaw.com"
+      },
+      {
+         "from": "sbrown@velaw.com",
+         "line": 166,
+         "rawfrom": "\"Brown, W. Scott\" <sbrown@velaw.com>\n",
+         "source": "email",
+         "to": "\"'Peter Quine (E-mail)'\" <peter@yesyes.com>"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/notes_inbox/1032.",
+   "hops": [
+      {
+         "from": "ted.bockius@ivita.com",
+         "line": 4,
+         "rawfrom": "ted.bockius@ivita.com\r\n",
+         "source": "valid",
+         "to": "mark.taylor@enron.com"
+      },
+      {
+         "from": "amy.cornell@compaq.com",
+         "line": 33,
+         "rawfrom": "? Cornell, Amy [mailto:Amy.Cornell@COMPAQ.com] \n",
+         "source": "email",
+         "to": "???? 'Sharon Brass'"
+      },
+      {
+         "from": "sharon.brass@ivita.com",
+         "line": 44,
+         "rawfrom": "From:?? Sharon Brass [mailto:Sharon.Brass@ivita.com] \n",
+         "source": "email",
+         "to": "???? Cornell, Amy"
+      },
+      {
+         "from": "amy.cornell@compaq.com",
+         "line": 58,
+         "rawfrom": "From:?? Cornell, Amy [ mailto:Amy.Cornell@COMPAQ.com \n",
+         "source": "email",
+         "to": "???? Levy, Saym; 'Sharon Brass'; 'Sharon Fothergill'; Riley, Natalie;"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/notes_inbox/1461.",
+   "hops": [
+      {
+         "from": "john.viverito@enron.com",
+         "line": 4,
+         "rawfrom": "john.viverito@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.taylor@enron.com"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 389,
+         "rawfrom": "yamato.konishi@ibjbank.co.jp",
+         "source": "valid",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "teruyo.suzuki@ibjbank.co.jp",
+         "line": 420,
+         "rawfrom": "\"Teruyo Suzuki\" <teruyo.suzuki@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 429,
+         "rawfrom": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "john.viverito@enron.com",
+         "line": 462,
+         "rawfrom": "<John.Viverito@enron.com>\r\n",
+         "source": "email",
+         "to": "<yamato.konishi@ibjbank.co.jp>"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/notes_inbox/1389.",
+   "hops": [
+      {
+         "from": "john.viverito@enron.com",
+         "line": 4,
+         "rawfrom": "john.viverito@enron.com\r\n",
+         "source": "valid",
+         "to": "tom.bruce-jones@enron.com"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 98,
+         "rawfrom": "yamato.konishi@ibjbank.co.jp",
+         "source": "valid",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "teruyo.suzuki@ibjbank.co.jp",
+         "line": 129,
+         "rawfrom": "\"Teruyo Suzuki\" <teruyo.suzuki@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 138,
+         "rawfrom": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "john.viverito@enron.com",
+         "line": 171,
+         "rawfrom": "<John.Viverito@enron.com>\r\n",
+         "source": "email",
+         "to": "<yamato.konishi@ibjbank.co.jp>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/notes_inbox/26.",
+   "hops": [
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 4,
+         "rawfrom": "louise.kitchen@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.taylor@enron.com"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 28,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 73,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 124,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 172,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 213,
+         "rawfrom": "David Krunnfusz <dkrunnfusz@agency.com>\n",
+         "source": "email",
+         "to": "mfried@agency.com"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 262,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 293,
+         "rawfrom": "David Krunnfusz <dkrunnfusz@agency.com>\n",
+         "source": "email",
+         "to": "nspraker <nspraker@agency.com>, pherring@agency.com,  mcoover@agency.com,"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 348,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 385,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 494,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "David Forster/LON/ECT@ECT"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 561,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 684,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/notes_inbox/410.",
+   "hops": [
+      {
+         "from": "mark_kopinski@americancentury.com",
+         "line": 4,
+         "rawfrom": "mark_kopinski@americancentury.com\r\n",
+         "source": "valid",
+         "to": "mark.taylor@enron.com"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 28,
+         "rawfrom": "Mark.Taylor@enron.com on 04/09/2000 12:16:17 PM\n",
+         "source": "email",
+         "to": "Mark Kopinski/INTL/ACIM/americancentury@americancentury"
+      },
+      {
+         "from": "mark_kopinski@americancentury.com",
+         "line": 44,
+         "rawfrom": "Mark_Kopinski@americancentury.com on 04/06/2000 07:29:40 AM\n",
+         "source": "email",
+         "to": "Mark.Taylor@enron.com"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 61,
+         "rawfrom": "Mark.Taylor@enron.com on 04/05/2000 11:26:21 AM\n",
+         "source": "email",
+         "to": "Mark Kopinski/INTL/ACIM/americancentury@americancentury"
+      },
+      {
+         "from": "mark_kopinski@americancentury.com",
+         "line": 77,
+         "rawfrom": "Mark_Kopinski@americancentury.com on 04/05/2000 08:37:49 AM\n",
+         "source": "email",
+         "to": "\"Mark Taylor\" <Mark.Taylor@enron.com>"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 101,
+         "rawfrom": "\"Mark Taylor\" <Mark.Taylor@enron.com> on 04/04/2000 06:38:46 PM\n",
+         "source": "email",
+         "to": "Mark Kopinski/INTL/ACIM/americancentury@americancentury"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/notes_inbox/1489.",
+   "hops": [
+      {
+         "from": "jonathan.whitehead@enron.com",
+         "line": 4,
+         "rawfrom": "jonathan.whitehead@enron.com\r\n",
+         "source": "valid",
+         "to": "john.suttle@enron.com"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 516,
+         "rawfrom": "yamato.konishi@ibjbank.co.jp",
+         "source": "valid",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "teruyo.suzuki@ibjbank.co.jp",
+         "line": 547,
+         "rawfrom": "\"Teruyo Suzuki\" <teruyo.suzuki@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 556,
+         "rawfrom": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "john.viverito@enron.com",
+         "line": 589,
+         "rawfrom": "<John.Viverito@enron.com>\r\n",
+         "source": "email",
+         "to": "<yamato.konishi@ibjbank.co.jp>"
+      }
+   ],
+   "skipped": 10
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/deleted_items/405.",
+   "hops": [
+      {
+         "from": "amy.siedenburg@gs.com",
+         "line": 4,
+         "rawfrom": "amy.siedenburg@gs.com\r\n",
+         "source": "valid",
+         "to": "ellis@enron.com, steve.ellis@gs.com, scarey@isda.org, bunkin@enron.com,"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 52,
+         "rawfrom": "Stacy Carey [mailto:SCAREY@ISDA.ORG]\n",
+         "source": "email",
+         "to": "Bunkin, Steven"
+      },
+      {
+         "from": "amy.siedenburg@gs.com",
+         "line": 85,
+         "rawfrom": "Siedenburg, Amy [mailto:amy.siedenburg@gs.com]\n",
+         "source": "email",
+         "to": "'Stacy Carey'"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 105,
+         "rawfrom": "Stacy Carey [mailto:SCAREY@ISDA.ORG]\n",
+         "source": "email",
+         "to": "Amy Siedenburg"
+      },
+      {
+         "from": "amy.siedenburg@gs.com",
+         "line": 117,
+         "rawfrom": "Siedenburg, Amy [mailto:amy.siedenburg@gs.com]\n",
+         "source": "email",
+         "to": "'Stacy Carey'"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 128,
+         "rawfrom": "Stacy Carey [mailto:SCAREY@ISDA.ORG]\n",
+         "source": "email",
+         "to": "Bob Mancini; Amy Siedenburg"
+      },
+      {
+         "from": "robert.mancini@gs.com",
+         "line": 139,
+         "rawfrom": "Mancini, Robert [mailto:robert.mancini@gs.com]\n",
+         "source": "email",
+         "to": "'amy.siedenburg@gs.com'"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 152,
+         "rawfrom": "Stacy Carey <SCAREY@ISDA.ORG>\n",
+         "source": "email",
+         "to": "Bob Mancini <robert.mancini@gs.com>; 'STEVEN BUNKIN'"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/deleted_items/592.",
+   "hops": [
+      {
+         "from": "trevor.woods@enron.com",
+         "line": 4,
+         "rawfrom": "trevor.woods@enron.com\r\n",
+         "source": "valid",
+         "to": "e.taylor@enron.com"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 23,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 42,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 61,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 82,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/deleted_items/657.",
+   "hops": [
+      {
+         "from": "lsutaylor@hotmail.com",
+         "line": 4,
+         "rawfrom": "lsutaylor@hotmail.com\r\n",
+         "source": "valid",
+         "to": "e.taylor@enron.com"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 21,
+         "rawfrom": "\"Taylor, Michael E\" <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "\"mike taylor\" <lsutaylor@hotmail.com>"
+      },
+      {
+         "from": "lsutaylor@hotmail.com",
+         "line": 34,
+         "rawfrom": "mike taylor [mailto:lsutaylor@hotmail.com]\n",
+         "source": "email",
+         "to": "Taylor, Michael E"
+      },
+      {
+         "from": "jessica.l.bishop@dynegy.com",
+         "line": 42,
+         "rawfrom": "Jessica.L.Bishop@dynegy.com\n",
+         "source": "valid",
+         "to": "\"mike taylor\" <lsutaylor@hotmail.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/deleted_items/152.",
+   "hops": [
+      {
+         "from": "tedbockius@spherion.com",
+         "line": 4,
+         "rawfrom": "tedbockius@spherion.com\r\n",
+         "source": "valid",
+         "to": "legal <.taylor@enron.com>"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 47,
+         "rawfrom": "Mark.Taylor@enron.com [mailto:Mark.Taylor@enron.com]\n",
+         "source": "email",
+         "to": "TedBockius@spherion.com"
+      },
+      {
+         "from": "tedbockius@spherion.com",
+         "line": 61,
+         "rawfrom": "  \"Bockius,Ted\" <TedBockius@spherion.com>@ENRON\n",
+         "source": "email",
+         "to": "Taylor, Mark E (Legal)"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 81,
+         "rawfrom": "Taylor, Mark E (Legal) [mailto:Mark.Taylor@ENRON.com]\n",
+         "source": "email",
+         "to": "tedbockius@spherion.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/deleted_items/652.",
+   "hops": [
+      {
+         "from": "doug.block@halliburton.com",
+         "line": 4,
+         "rawfrom": "doug.block@halliburton.com\r\n",
+         "source": "valid",
+         "to": "e.taylor@enron.com"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 22,
+         "rawfrom": "> From:\tTaylor, Michael E [SMTP:Michael.E.Taylor@ENRON.com]\n",
+         "source": "email",
+         "to": "Doug Block"
+      },
+      {
+         "from": "doug.block@halliburton.com",
+         "line": 30,
+         "rawfrom": "Doug Block [mailto:Doug.Block@Halliburton.com]\n",
+         "source": "email",
+         "to": "Taylor, Michael E"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 53,
+         "rawfrom": "> > From:\tTaylor, Michael E [SMTP:Michael.E.Taylor@ENRON.com]\n",
+         "source": "email",
+         "to": "Doug Block"
+      },
+      {
+         "from": "doug.block@halliburton.com",
+         "line": 63,
+         "rawfrom": "Doug Block [mailto:Doug.Block@Halliburton.com]\n",
+         "source": "email",
+         "to": "Taylor, Michael E"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 72,
+         "rawfrom": "> > > From:\tTaylor, Michael E [SMTP:Michael.E.Taylor@ENRON.com]\n",
+         "source": "email",
+         "to": "doug.block@halliburton.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/deleted_items/572.",
+   "hops": [
+      {
+         "from": "trevor.woods@enron.com",
+         "line": 4,
+         "rawfrom": "trevor.woods@enron.com\r\n",
+         "source": "valid",
+         "to": "e.taylor@enron.com"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 23,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 42,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 61,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/deleted_items/590.",
+   "hops": [
+      {
+         "from": "trevor.woods@enron.com",
+         "line": 4,
+         "rawfrom": "trevor.woods@enron.com\r\n",
+         "source": "valid",
+         "to": "e.taylor@enron.com"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 23,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 46,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 65,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 84,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 105,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/deleted_items/653.",
+   "hops": [
+      {
+         "from": "doug.block@halliburton.com",
+         "line": 4,
+         "rawfrom": "doug.block@halliburton.com\r\n",
+         "source": "valid",
+         "to": "e.taylor@enron.com"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 32,
+         "rawfrom": "> From:\tTaylor, Michael E [SMTP:Michael.E.Taylor@ENRON.com]\n",
+         "source": "email",
+         "to": "Doug Block"
+      },
+      {
+         "from": "doug.block@halliburton.com",
+         "line": 41,
+         "rawfrom": "Doug Block [mailto:Doug.Block@Halliburton.com]\n",
+         "source": "email",
+         "to": "Taylor, Michael E"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 50,
+         "rawfrom": "> > From:\tTaylor, Michael E [SMTP:Michael.E.Taylor@ENRON.com]\n",
+         "source": "email",
+         "to": "doug.block@halliburton.com"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/deleted_items/51.",
+   "hops": [
+      {
+         "from": "scarey@isda.org",
+         "line": 4,
+         "rawfrom": "scarey@isda.org\r\n",
+         "source": "valid",
+         "to": "amy.siedenburg@gs.com, ellis@enron.com, steve.ellis@gs.com,"
+      },
+      {
+         "from": "amy.siedenburg@gs.com",
+         "line": 50,
+         "rawfrom": "Siedenburg, Amy [mailto:amy.siedenburg@gs.com]\n",
+         "source": "email",
+         "to": "'Stacy Carey'"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 69,
+         "rawfrom": "Stacy Carey [mailto:SCAREY@ISDA.ORG]\n",
+         "source": "email",
+         "to": "Amy Siedenburg"
+      },
+      {
+         "from": "amy.siedenburg@gs.com",
+         "line": 81,
+         "rawfrom": "Siedenburg, Amy [mailto:amy.siedenburg@gs.com]\n",
+         "source": "email",
+         "to": "'Stacy Carey'"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 92,
+         "rawfrom": "Stacy Carey [mailto:SCAREY@ISDA.ORG]\n",
+         "source": "email",
+         "to": "Bob Mancini; Amy Siedenburg"
+      },
+      {
+         "from": "robert.mancini@gs.com",
+         "line": 103,
+         "rawfrom": "Mancini, Robert [mailto:robert.mancini@gs.com]\n",
+         "source": "email",
+         "to": "'amy.siedenburg@gs.com'"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 116,
+         "rawfrom": "Stacy Carey <SCAREY@ISDA.ORG>\n",
+         "source": "email",
+         "to": "Bob Mancini <robert.mancini@gs.com>; 'STEVEN BUNKIN'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/deleted_items/586.",
+   "hops": [
+      {
+         "from": "trevor.woods@enron.com",
+         "line": 4,
+         "rawfrom": "trevor.woods@enron.com\r\n",
+         "source": "valid",
+         "to": "e.taylor@enron.com"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 23,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 44,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 64,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 83,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 102,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/deleted_items/574.",
+   "hops": [
+      {
+         "from": "trevor.woods@enron.com",
+         "line": 4,
+         "rawfrom": "trevor.woods@enron.com\r\n",
+         "source": "valid",
+         "to": "e.taylor@enron.com"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 23,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 43,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 62,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 81,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/deleted_items/564.",
+   "hops": [
+      {
+         "from": "trevor.woods@enron.com",
+         "line": 4,
+         "rawfrom": "trevor.woods@enron.com\r\n",
+         "source": "valid",
+         "to": "e.taylor@enron.com"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 23,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 47,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 66,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/deleted_items/605.",
+   "hops": [
+      {
+         "from": "trevor.woods@enron.com",
+         "line": 4,
+         "rawfrom": "trevor.woods@enron.com\r\n",
+         "source": "valid",
+         "to": "e.taylor@enron.com"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 23,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 42,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 63,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      }
+   ],
+   "skipped": 2
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/deleted_items/596.",
+   "hops": [
+      {
+         "from": "trevor.woods@enron.com",
+         "line": 4,
+         "rawfrom": "trevor.woods@enron.com\r\n",
+         "source": "valid",
+         "to": "e.taylor@enron.com"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 23,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 42,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 65,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 88,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 107,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 126,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 147,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/deleted_items/594.",
+   "hops": [
+      {
+         "from": "trevor.woods@enron.com",
+         "line": 4,
+         "rawfrom": "trevor.woods@enron.com\r\n",
+         "source": "valid",
+         "to": "e.taylor@enron.com"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 23,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 46,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 69,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 88,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 107,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 128,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/archive/11_99/35.",
+   "hops": [
+      {
+         "from": "gpier@doubleclick.net",
+         "line": 4,
+         "rawfrom": "gpier@doubleclick.net\r\n",
+         "source": "valid",
+         "to": "mark.taylor@enron.com, gpier@doubleclick.net"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 42,
+         "rawfrom": "Mark Taylor [SMTP:mtaylo1@ect.enron.com]\n",
+         "source": "email",
+         "to": "Pier, Greg"
+      },
+      {
+         "from": "gpier@doubleclick.net",
+         "line": 64,
+         "rawfrom": "\"Pier, Greg\" <gpier@doubleclick.net> on 11/17/99 09:38:44 PM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT, Bruce Hutt <bhutt@ankarcapital.com>"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 81,
+         "rawfrom": "    Mark Taylor [SMTP:mtaylo1@ect.enron.com]\n",
+         "source": "email",
+         "to": "Bruce Hutt"
+      },
+      {
+         "from": "bhutt@ankarcapital.com",
+         "line": 128,
+         "rawfrom": "\"Bruce Hutt\" <bhutt@ankarcapital.com> on 11/17/99 06:07:19 PM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT, gpier@doubleclick.net"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 183,
+         "rawfrom": "Mark Taylor <mtaylo1@ect.enron.com>\n",
+         "source": "email",
+         "to": "gpier@doubleclick.net <gpier@doubleclick.net>; Bruce Hutt"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/archive/11_99/34.",
+   "hops": [
+      {
+         "from": "gpier@doubleclick.net",
+         "line": 4,
+         "rawfrom": "gpier@doubleclick.net\r\n",
+         "source": "valid",
+         "to": "mark.taylor@enron.com, bhutt@ankarcapital.com"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 29,
+         "rawfrom": "Mark Taylor [SMTP:mtaylo1@ect.enron.com]\n",
+         "source": "email",
+         "to": "Bruce Hutt"
+      },
+      {
+         "from": "bhutt@ankarcapital.com",
+         "line": 65,
+         "rawfrom": "\"Bruce Hutt\" <bhutt@ankarcapital.com> on 11/17/99 06:07:19 PM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT, gpier@doubleclick.net"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 113,
+         "rawfrom": "Mark Taylor <mtaylo1@ect.enron.com>\n",
+         "source": "email",
+         "to": "gpier@doubleclick.net <gpier@doubleclick.net>; Bruce Hutt"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/archive/9_00/85.",
+   "hops": [
+      {
+         "from": "john.viverito@enron.com",
+         "line": 4,
+         "rawfrom": "john.viverito@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.taylor@enron.com"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 389,
+         "rawfrom": "yamato.konishi@ibjbank.co.jp",
+         "source": "valid",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "teruyo.suzuki@ibjbank.co.jp",
+         "line": 420,
+         "rawfrom": "\"Teruyo Suzuki\" <teruyo.suzuki@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>"
+      },
+      {
+         "from": "yamato.konishi@ibjbank.co.jp",
+         "line": 429,
+         "rawfrom": "\"Yamato Konishi\" <yamato.konishi@ibjbank.co.jp>\r\n",
+         "source": "email",
+         "to": "<John.Viverito@enron.com>"
+      },
+      {
+         "from": "john.viverito@enron.com",
+         "line": 462,
+         "rawfrom": "<John.Viverito@enron.com>\r\n",
+         "source": "email",
+         "to": "<yamato.konishi@ibjbank.co.jp>"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/archive/1_00/15.",
+   "hops": [
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 4,
+         "rawfrom": "louise.kitchen@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.taylor@enron.com"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 28,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 73,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 124,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 172,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 213,
+         "rawfrom": "David Krunnfusz <dkrunnfusz@agency.com>\n",
+         "source": "email",
+         "to": "mfried@agency.com"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 262,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 293,
+         "rawfrom": "David Krunnfusz <dkrunnfusz@agency.com>\n",
+         "source": "email",
+         "to": "nspraker <nspraker@agency.com>, pherring@agency.com,  mcoover@agency.com,"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 348,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 385,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 494,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "David Forster/LON/ECT@ECT"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 561,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 684,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/archive/2001_07/32.",
+   "hops": [
+      {
+         "from": "raislerk@sullcrom.com",
+         "line": 4,
+         "rawfrom": "raislerk@sullcrom.com\r\n",
+         "source": "valid",
+         "to": "legal <.taylor@enron.com>"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 22,
+         "rawfrom": "Mark.Taylor@ENRON.com [mailto:Mark.Taylor@ENRON.com]\n",
+         "source": "email",
+         "to": "raislerk@sullcrom.com"
+      },
+      {
+         "from": "ernest.patrikis@aig.com",
+         "line": 33,
+         "rawfrom": "\t\"Patrikis, Ernest\" <Ernest.Patrikis@AIG.com>@ENRON\n",
+         "source": "email",
+         "to": "'Stacy Carey'; US REGULATORY COMMITTEE"
+      },
+      {
+         "from": "scarey@isda.org",
+         "line": 49,
+         "rawfrom": "> \tFrom:\tStacy Carey [SMTP:SCAREY@ISDA.ORG]\n",
+         "source": "email",
+         "to": "US REGULATORY COMMITTEE"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/archive/2001_07/37.",
+   "hops": [
+      {
+         "from": "scarey@isda.org",
+         "line": 4,
+         "rawfrom": "scarey@isda.org\r\n",
+         "source": "valid",
+         "to": "scarey@isda.org, 'powell@enron.com, james.powell@gs.com,"
+      },
+      {
+         "from": "james.powell@gs.com",
+         "line": 113,
+         "rawfrom": "Powell, James [mailto:James.Powell@gs.com]\n",
+         "source": "email",
+         "to": "'Katia D'Hulster'; Stacy Carey"
+      },
+      {
+         "from": "kdhulster@isda-eur.org",
+         "line": 124,
+         "rawfrom": "Katia D'Hulster [mailto:kdhulster@ISDA-EUR.ORG]\n",
+         "source": "email",
+         "to": "Powell, James; 'christophe.chassard@rwetrading.com';"
+      },
+      {
+         "from": "james.powell@gs.com",
+         "line": 158,
+         "rawfrom": "Powell, James [mailto:James.Powell@gs.com]\n",
+         "source": "email",
+         "to": "'kdhulster@isda-eur.org'"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/archive/2001_07/10.",
+   "hops": [
+      {
+         "from": "scarey@isda.org",
+         "line": 4,
+         "rawfrom": "scarey@isda.org\r\n",
+         "source": "valid",
+         "to": "james'.'powell@enron.com, d'hulster.katia@enron.com, carey.stacy@enron.com,"
+      },
+      {
+         "from": "james.powell@gs.com",
+         "line": 61,
+         "rawfrom": "Powell, James [mailto:James.Powell@gs.com]\n",
+         "source": "email",
+         "to": "'Katia D'Hulster'; Stacy Carey"
+      },
+      {
+         "from": "kdhulster@isda-eur.org",
+         "line": 72,
+         "rawfrom": "Katia D'Hulster [mailto:kdhulster@ISDA-EUR.ORG]\n",
+         "source": "email",
+         "to": "Powell, James; 'christophe.chassard@rwetrading.com';"
+      },
+      {
+         "from": "james.powell@gs.com",
+         "line": 106,
+         "rawfrom": "Powell, James [mailto:James.Powell@gs.com]\n",
+         "source": "email",
+         "to": "'kdhulster@isda-eur.org'"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/archive/2001_11/71.",
+   "hops": [
+      {
+         "from": "marcus.nettelton@enron.com",
+         "line": 4,
+         "rawfrom": "marcus.nettelton@enron.com\r\n",
+         "source": "valid",
+         "to": "julia.murray@enron.com, legal <.taylor@enron.com>"
+      },
+      {
+         "from": "sbehrend@llgm.com",
+         "line": 30,
+         "rawfrom": "Samuel Behrends [mailto:SBEHREND@LLGM.COM]\n",
+         "source": "email",
+         "to": "Nettelton, Marcus; Catherine McCarthy"
+      },
+      {
+         "from": "cpmccart@llgm.com",
+         "line": 92,
+         "rawfrom": "Catherine McCarthy [mailto:CPMCCART@LLGM.COM] \n",
+         "source": "email",
+         "to": "Nettelton, Marcus"
+      },
+      {
+         "from": "cpmccart@llgm.com",
+         "line": 128,
+         "rawfrom": "Catherine McCarthy [mailto:CPMCCART@LLGM.COM] \n",
+         "source": "email",
+         "to": "Nettelton, Marcus"
+      },
+      {
+         "from": "sbehrend@llgm.com",
+         "line": 186,
+         "rawfrom": "Samuel Behrends [mailto:SBEHREND@LLGM.COM] \n",
+         "source": "email",
+         "to": "Nettelton, Marcus"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/archive/november1999/35.",
+   "hops": [
+      {
+         "from": "gpier@doubleclick.net",
+         "line": 4,
+         "rawfrom": "gpier@doubleclick.net\r\n",
+         "source": "valid",
+         "to": "mark.taylor@enron.com, gpier@doubleclick.net"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 42,
+         "rawfrom": "Mark Taylor [SMTP:mtaylo1@ect.enron.com]\n",
+         "source": "email",
+         "to": "Pier, Greg"
+      },
+      {
+         "from": "gpier@doubleclick.net",
+         "line": 64,
+         "rawfrom": "\"Pier, Greg\" <gpier@doubleclick.net> on 11/17/99 09:38:44 PM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT, Bruce Hutt <bhutt@ankarcapital.com>"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 81,
+         "rawfrom": "    Mark Taylor [SMTP:mtaylo1@ect.enron.com]\n",
+         "source": "email",
+         "to": "Bruce Hutt"
+      },
+      {
+         "from": "bhutt@ankarcapital.com",
+         "line": 128,
+         "rawfrom": "\"Bruce Hutt\" <bhutt@ankarcapital.com> on 11/17/99 06:07:19 PM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT, gpier@doubleclick.net"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 183,
+         "rawfrom": "Mark Taylor <mtaylo1@ect.enron.com>\n",
+         "source": "email",
+         "to": "gpier@doubleclick.net <gpier@doubleclick.net>; Bruce Hutt"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/archive/november1999/34.",
+   "hops": [
+      {
+         "from": "gpier@doubleclick.net",
+         "line": 4,
+         "rawfrom": "gpier@doubleclick.net\r\n",
+         "source": "valid",
+         "to": "mark.taylor@enron.com, bhutt@ankarcapital.com"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 29,
+         "rawfrom": "Mark Taylor [SMTP:mtaylo1@ect.enron.com]\n",
+         "source": "email",
+         "to": "Bruce Hutt"
+      },
+      {
+         "from": "bhutt@ankarcapital.com",
+         "line": 65,
+         "rawfrom": "\"Bruce Hutt\" <bhutt@ankarcapital.com> on 11/17/99 06:07:19 PM\n",
+         "source": "email",
+         "to": "Mark Taylor/HOU/ECT@ECT, gpier@doubleclick.net"
+      },
+      {
+         "from": "mtaylo1@ect.enron.com",
+         "line": 113,
+         "rawfrom": "Mark Taylor <mtaylo1@ect.enron.com>\n",
+         "source": "email",
+         "to": "gpier@doubleclick.net <gpier@doubleclick.net>; Bruce Hutt"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent_items/567.",
+   "hops": [
+      {
+         "from": "e.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "e.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "doug.block@halliburton.com"
+      },
+      {
+         "from": "doug.block@halliburton.com",
+         "line": 24,
+         "rawfrom": "Doug Block [mailto:Doug.Block@Halliburton.com]\n",
+         "source": "email",
+         "to": "Taylor, Michael E"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 34,
+         "rawfrom": "> From:\tTaylor, Michael E [SMTP:Michael.E.Taylor@ENRON.com]\n",
+         "source": "email",
+         "to": "Doug Block"
+      },
+      {
+         "from": "doug.block@halliburton.com",
+         "line": 44,
+         "rawfrom": "Doug Block [mailto:Doug.Block@Halliburton.com]\n",
+         "source": "email",
+         "to": "Taylor, Michael E"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent_items/470.",
+   "hops": [
+      {
+         "from": ".taylor@enron.com",
+         "line": 4,
+         "rawfrom": "legal <.taylor@enron.com>\r\n",
+         "source": "email",
+         "to": "stuart.ogg@weil.com"
+      },
+      {
+         "from": "stuart.ogg@weil.com",
+         "line": 22,
+         "rawfrom": "\tstuart.ogg@weil.com@ENRON  \n",
+         "source": "email",
+         "to": "Taylor, Mark E (Legal)"
+      },
+      {
+         "from": "stuart.ogg@weil.com",
+         "line": 49,
+         "rawfrom": "  stuart.ogg@weil.com@ENRON\n",
+         "source": "email",
+         "to": "Taylor, Mark E (Legal)"
+      },
+      {
+         "from": "stuart.ogg@weil.com",
+         "line": 83,
+         "rawfrom": "  stuart.ogg@weil.com@ENRON\n",
+         "source": "email",
+         "to": "Taylor, Mark E (Legal)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent_items/542.",
+   "hops": [
+      {
+         "from": "e.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "e.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "trevor.woods@enron.com"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 34,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 53,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 72,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent_items/50.",
+   "hops": [
+      {
+         "from": ".taylor@enron.com",
+         "line": 4,
+         "rawfrom": "legal <.taylor@enron.com>\r\n",
+         "source": "email",
+         "to": "veronica_brock@hotmail.com"
+      },
+      {
+         "from": "veronica_brock@hotmail.com",
+         "line": 22,
+         "rawfrom": "\t\"Veronica Brock\" <veronica_brock@hotmail.com>@ENRON [mailto:IMCEANOTES-+22Veronica+20Brock+22+20+3Cveronica+5Fbrock+40hotmail+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "kcommercial@aol.com; cmckeish@hotmail.com; aquarius80817@yahoo.com; george.pinkowski@fritz.com; hmclaren27@aol.com; gannie58@hotmail.com; john.lopez@fritz.com; joseph.fenner@chrobinson.com; MICLOS6@prodigy.net; Taylor, Mark E (Legal); michael.sevey@fritz.com; nicole744@hotmail.com; dispatch@gulfwindsintl.com; fossasrafael@yahoo.com; robin.smith@chrobinson.com; stephendubois@ev1.net; taffy.milligan@enron.com; tsr@flash.net; tgslawref@ev1.net; ttoecmia@aol.com; trevor@natco-1.com; stone@centex.net"
+      },
+      {
+         "from": "lpj75@hotmail.com",
+         "line": 29,
+         "rawfrom": "\"LaKiffanie Jackson\" <lpj75@hotmail.com>\n",
+         "source": "email",
+         "to": "PANSYLAW@HOTMAIL.COM, VERONICA_BROCK@HOTMAIL.COM, GANNIE58@HOTMAIL.COM"
+      },
+      {
+         "from": "sj1917@sbc.com",
+         "line": 38,
+         "rawfrom": "\"JACKSON, SHANTA L (SBCSI)\" <sj1917@sbc.com>\n",
+         "source": "email",
+         "to": "keny40@msn.com, lpj75@hotmail.com, claysh@hotmail.com,"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent_items/544.",
+   "hops": [
+      {
+         "from": "e.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "e.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "trevor.woods@enron.com"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 34,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 54,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 73,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 92,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent_items/551.",
+   "hops": [
+      {
+         "from": "e.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "e.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "trevor.woods@enron.com"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 32,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 55,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 78,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 97,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 116,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 137,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent_items/550.",
+   "hops": [
+      {
+         "from": "e.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "e.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "trevor.woods@enron.com"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 36,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 59,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 78,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 97,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 118,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      }
+   ],
+   "skipped": 5
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent_items/62.",
+   "hops": [
+      {
+         "from": ".taylor@enron.com",
+         "line": 4,
+         "rawfrom": "legal <.taylor@enron.com>\r\n",
+         "source": "email",
+         "to": "mkopinski@prodigy.net"
+      },
+      {
+         "from": "mkopinski@prodigy.net",
+         "line": 22,
+         "rawfrom": "\t\"Kopinski Family\" <MKopinski@prodigy.net>@ENRON [mailto:IMCEANOTES-+22Kopinski+20Family+22+20+3CMKopinski+40prodigy+2Enet+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Taylor, Mark E (Legal)"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 33,
+         "rawfrom": "<Mark.Taylor@enron.com>\n",
+         "source": "email",
+         "to": "<MKopinski@prodigy.net>"
+      },
+      {
+         "from": "mkopinski@prodigy.net",
+         "line": 49,
+         "rawfrom": "  \"Kopinski Family\" <MKopinski@prodigy.net>@ENRON\n",
+         "source": "email",
+         "to": "Taylor, Mark E (Legal)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent_items/113.",
+   "hops": [
+      {
+         "from": ".taylor@enron.com",
+         "line": 4,
+         "rawfrom": "legal <.taylor@enron.com>\r\n",
+         "source": "email",
+         "to": "jfpottercys@worldnet.att.net"
+      },
+      {
+         "from": "jfpottercys@worldnet.att.net",
+         "line": 34,
+         "rawfrom": "\t\"Joel F. Potter\" <jfpottercys@worldnet.att.net>@ENRON [mailto:IMCEANOTES-+22Joel+20F+2E+20Potter+22+20+3Cjfpottercys+40worldnet+2Eatt+2Enet+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Taylor, Mark E (Legal)"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 55,
+         "rawfrom": "Taylor, Mark E (Legal) [mailto:Mark.Taylor@ENRON.com]\n",
+         "source": "email",
+         "to": "jfpottercys@worldnet.att.net"
+      },
+      {
+         "from": "jfpottercys@worldnet.att.net",
+         "line": 72,
+         "rawfrom": "\t\"Joel F. Potter\" <jfpottercys@worldnet.att.net>@ENRON\n",
+         "source": "email",
+         "to": "Taylor, Mark E (Legal)"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 92,
+         "rawfrom": "Taylor, Mark E (Legal) [mailto:Mark.Taylor@ENRON.com]\n",
+         "source": "email",
+         "to": "jfpottercys@att.net"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent_items/66.",
+   "hops": [
+      {
+         "from": ".taylor@enron.com",
+         "line": 4,
+         "rawfrom": "legal <.taylor@enron.com>\r\n",
+         "source": "email",
+         "to": "mcgovernw@sec.gov"
+      },
+      {
+         "from": "mcgovernw@sec.gov",
+         "line": 38,
+         "rawfrom": "\t\"McGovern, William\" <McGovernW@SEC.GOV>@ENRON [mailto:IMCEANOTES-+22McGovern+2C+20William+22+20+3CMcGovernW+40SEC+2EGOV+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Taylor, Mark E (Legal)"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 58,
+         "rawfrom": "Mark.Taylor@enron.com [mailto:Mark.Taylor@enron.com]\n",
+         "source": "email",
+         "to": "McGovernW@SEC.GOV"
+      },
+      {
+         "from": "mcgovernw@sec.gov",
+         "line": 112,
+         "rawfrom": "  \"McGovern, William\" <McGovernW@SEC.GOV>@ENRON\n",
+         "source": "email",
+         "to": "Taylor, Mark E (Legal)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent_items/537.",
+   "hops": [
+      {
+         "from": "e.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "e.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "trevor.woods@enron.com"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 36,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 60,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 79,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent_items/489.",
+   "hops": [
+      {
+         "from": ".taylor@enron.com",
+         "line": 4,
+         "rawfrom": "legal <.taylor@enron.com>\r\n",
+         "source": "email",
+         "to": "trish.lindloff@weil.com"
+      },
+      {
+         "from": "trish.lindloff@weil.com",
+         "line": 22,
+         "rawfrom": "\ttrish.lindloff@weil.com@ENRON  \n",
+         "source": "email",
+         "to": "Taylor, Mark E (Legal)"
+      },
+      {
+         "from": "trish.lindloff@weil.com",
+         "line": 59,
+         "rawfrom": "trish.lindloff@weil.com\n",
+         "source": "valid",
+         "to": "\"Andrew L. Stidd\" <astidd@gssnyc.com>"
+      },
+      {
+         "from": "trish.lindloff@weil.com",
+         "line": 111,
+         "rawfrom": "trish.lindloff@weil.com\n",
+         "source": "valid",
+         "to": "\"Andrew L. Stidd\" <astidd@gssnyc.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent_items/546.",
+   "hops": [
+      {
+         "from": "e.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "e.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "trevor.woods@enron.com"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 32,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 51,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 72,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent_items/12.",
+   "hops": [
+      {
+         "from": ".taylor@enron.com",
+         "line": 4,
+         "rawfrom": "legal <.taylor@enron.com>\r\n",
+         "source": "email",
+         "to": "edward.sacks@enron.com, darren.vanek@enron.com"
+      },
+      {
+         "from": "aababp@pplweb.com",
+         "line": 54,
+         "rawfrom": "aababp@pplweb.com [mailto:aababp@pplweb.com]\n",
+         "source": "email",
+         "to": "Vanek, Darren"
+      },
+      {
+         "from": "darren.vanek@enron.com",
+         "line": 77,
+         "rawfrom": "Darren.Vanek@enron.com [mailto:Darren.Vanek@enron.com]\n",
+         "source": "email",
+         "to": "Babp, Alan A."
+      },
+      {
+         "from": "aababp@pplweb.com",
+         "line": 92,
+         "rawfrom": "aababp@pplweb.com [mailto:aababp@pplweb.com]\n",
+         "source": "email",
+         "to": "Vanek, Darren"
+      }
+   ],
+   "skipped": 3
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent_items/126.",
+   "hops": [
+      {
+         "from": ".taylor@enron.com",
+         "line": 4,
+         "rawfrom": "legal <.taylor@enron.com>\r\n",
+         "source": "email",
+         "to": "suzanne.ferlic@enron.com"
+      },
+      {
+         "from": "jamie.wood@rbos.com",
+         "line": 43,
+         "rawfrom": "WOOD, Jamie, FM [mailto:Jamie.Wood@rbos.com]\n",
+         "source": "email",
+         "to": "Ferlic, Suzanne"
+      },
+      {
+         "from": "suzanne.ferlic@enron.com",
+         "line": 61,
+         "rawfrom": "Ferlic, Suzanne [mailto:suzanne.ferlic@enron.com]\n",
+         "source": "email",
+         "to": "WOOD, Jamie, FM"
+      },
+      {
+         "from": "jamie.wood@rbos.com",
+         "line": 78,
+         "rawfrom": "WOOD, Jamie, FM [mailto:Jamie.Wood@rbos.com]\n",
+         "source": "email",
+         "to": "Ferlic, Suzanne"
+      },
+      {
+         "from": "suzanne.ferlic@enron.com",
+         "line": 92,
+         "rawfrom": "Ferlic, Suzanne [ mailto:suzanne.ferlic@enron.com\n",
+         "source": "email",
+         "to": "WOOD, Jamie, FM"
+      },
+      {
+         "from": "jamie.wood@rbos.com",
+         "line": 109,
+         "rawfrom": "WOOD, Jamie, FM [ mailto:Jamie.Wood@rbos.com\n",
+         "source": "email",
+         "to": "Ferlic, Suzanne"
+      },
+      {
+         "from": "suzanne.ferlic@enron.com",
+         "line": 132,
+         "rawfrom": "Ferlic, Suzanne [ mailto:suzanne.ferlic@enron.com\n",
+         "source": "email",
+         "to": "WOOD, Jamie, FM"
+      },
+      {
+         "from": "jamie.wood@rbos.com",
+         "line": 150,
+         "rawfrom": "WOOD, Jamie, FM [ mailto:Jamie.Wood@rbos.com\n",
+         "source": "email",
+         "to": "Ferlic, Suzanne"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent_items/117.",
+   "hops": [
+      {
+         "from": ".taylor@enron.com",
+         "line": 4,
+         "rawfrom": "legal <.taylor@enron.com>\r\n",
+         "source": "email",
+         "to": "tedbockius@spherion.com"
+      },
+      {
+         "from": "jfpottercys@worldnet.att.net",
+         "line": 42,
+         "rawfrom": "\t\"Joel F. Potter\" <jfpottercys@worldnet.att.net>@ENRON [mailto:IMCEANOTES-+22Joel+20F+2E+20Potter+22+20+3Cjfpottercys+40worldnet+2Eatt+2Enet+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Taylor, Mark E (Legal)"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 63,
+         "rawfrom": "Taylor, Mark E (Legal) [mailto:Mark.Taylor@ENRON.com]\n",
+         "source": "email",
+         "to": "jfpottercys@worldnet.att.net"
+      },
+      {
+         "from": "jfpottercys@worldnet.att.net",
+         "line": 80,
+         "rawfrom": "\t\"Joel F. Potter\" <jfpottercys@worldnet.att.net>@ENRON\n",
+         "source": "email",
+         "to": "Taylor, Mark E (Legal)"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 100,
+         "rawfrom": "Taylor, Mark E (Legal) [mailto:Mark.Taylor@ENRON.com]\n",
+         "source": "email",
+         "to": "jfpottercys@att.net"
+      }
+   ],
+   "skipped": 1
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent_items/482.",
+   "hops": [
+      {
+         "from": ".taylor@enron.com",
+         "line": 4,
+         "rawfrom": "legal <.taylor@enron.com>\r\n",
+         "source": "email",
+         "to": "dhudanish@brobeck.com"
+      },
+      {
+         "from": "dhudanish@brobeck.com",
+         "line": 22,
+         "rawfrom": "\t\"Hudanish, David M.\" <DHudanish@brobeck.com>@ENRON  \n",
+         "source": "email",
+         "to": "Taylor, Mark E (Legal)"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 35,
+         "rawfrom": "Mark.Taylor@enron.com [mailto:Mark.Taylor@enron.com]\n",
+         "source": "email",
+         "to": "DHudanish@brobeck.com"
+      },
+      {
+         "from": "dhudanish@brobeck.com",
+         "line": 48,
+         "rawfrom": "  \"Hudanish, David M.\" <DHudanish@brobeck.com>@ENRON\n",
+         "source": "email",
+         "to": "Taylor, Mark E (Legal)"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent_items/353.",
+   "hops": [
+      {
+         "from": ".taylor@enron.com",
+         "line": 4,
+         "rawfrom": "legal <.taylor@enron.com>\r\n",
+         "source": "email",
+         "to": "dan@treebeards.com, jamie@treebeards.com"
+      },
+      {
+         "from": "dan@treebeards.com",
+         "line": 24,
+         "rawfrom": "\t\"Dan@treebeards.com\" <dan@treebeards.com>@ENRON [mailto:IMCEANOTES-+22Dan+40treebeards+2Ecom+22+20+3Cdan+40treebeards+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "source": "email",
+         "to": "Taylor, Mark E (Legal)"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 31,
+         "rawfrom": "<Mark.Taylor@enron.com>\n",
+         "source": "email",
+         "to": "<dan@treebeards.com>"
+      },
+      {
+         "from": "dan@treebeards.com",
+         "line": 54,
+         "rawfrom": "  \"Dan@treebeards.com\" <dan@treebeards.com>@ENRON\n",
+         "source": "email",
+         "to": "Taylor, Mark E (Legal)"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 64,
+         "rawfrom": "<mark.taylor@enron.com>\n",
+         "source": "email",
+         "to": "<dan@treebeards.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/sent_items/547.",
+   "hops": [
+      {
+         "from": "e.taylor@enron.com",
+         "line": 4,
+         "rawfrom": "e.taylor@enron.com\r\n",
+         "source": "valid",
+         "to": "trevor.woods@enron.com"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 36,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 55,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 74,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      },
+      {
+         "from": "michael.e.taylor@enron.com",
+         "line": 95,
+         "rawfrom": "Taylor, Michael E <Michael.E.Taylor@ENRON.com>\n",
+         "source": "email",
+         "to": "Woods, Trevor <Trevor.Woods@ENRON.com>"
+      }
+   ],
+   "skipped": 4
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/online_trading/159.",
+   "hops": [
+      {
+         "from": "louise.kitchen@enron.com",
+         "line": 4,
+         "rawfrom": "louise.kitchen@enron.com\r\n",
+         "source": "valid",
+         "to": "mark.taylor@enron.com"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 41,
+         "rawfrom": " dkrunnfusz <dkrunnfusz@agency.com>                           14/09/99 \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 110,
+         "rawfrom": " David Krunnfusz <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      },
+      {
+         "from": "dkrunnfusz@agency.com",
+         "line": 174,
+         "rawfrom": " \"Dave Krunnfusz\" <dkrunnfusz@agency.com>                           \n",
+         "source": "email",
+         "to": "lkitchen@enron.co.uk"
+      }
+   ],
+   "skipped": 6
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/travel/4.",
+   "hops": [
+      {
+         "from": "jfpottercys@worldnet.att.net",
+         "line": 4,
+         "rawfrom": "jfpottercys@worldnet.att.net\r\n",
+         "source": "valid",
+         "to": "legal <.taylor@enron.com>"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 35,
+         "rawfrom": "Taylor, Mark E (Legal) [mailto:Mark.Taylor@ENRON.com]\n",
+         "source": "email",
+         "to": "jfpottercys@worldnet.att.net"
+      },
+      {
+         "from": "jfpottercys@worldnet.att.net",
+         "line": 52,
+         "rawfrom": "\t\"Joel F. Potter\" <jfpottercys@worldnet.att.net>@ENRON\n",
+         "source": "email",
+         "to": "Taylor, Mark E (Legal)"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 72,
+         "rawfrom": "Taylor, Mark E (Legal) [mailto:Mark.Taylor@ENRON.com]\n",
+         "source": "email",
+         "to": "jfpottercys@att.net"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/travel/26.",
+   "hops": [
+      {
+         "from": "dan@treebeards.com",
+         "line": 4,
+         "rawfrom": "dan@treebeards.com\r\n",
+         "source": "valid",
+         "to": "legal <.taylor@enron.com>"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 21,
+         "rawfrom": "<Mark.Taylor@enron.com>\n",
+         "source": "email",
+         "to": "<dan@treebeards.com>"
+      },
+      {
+         "from": "dan@treebeards.com",
+         "line": 44,
+         "rawfrom": "  \"Dan@treebeards.com\" <dan@treebeards.com>@ENRON\n",
+         "source": "email",
+         "to": "Taylor, Mark E (Legal)"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 54,
+         "rawfrom": "<mark.taylor@enron.com>\n",
+         "source": "email",
+         "to": "<dan@treebeards.com>"
+      }
+   ],
+   "skipped": 0
+}
+,
+{
+   "file": "/home/jb/maildir/taylor-m/travel/28.",
+   "hops": [
+      {
+         "from": "dan@treebeards.com",
+         "line": 4,
+         "rawfrom": "dan@treebeards.com\r\n",
+         "source": "valid",
+         "to": "legal <.taylor@enron.com>"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 22,
+         "rawfrom": "<Mark.Taylor@enron.com>\n",
+         "source": "email",
+         "to": "<dan@treebeards.com>; <jamie@treebeards.com>"
+      },
+      {
+         "from": "dan@treebeards.com",
+         "line": 51,
+         "rawfrom": "  \"Dan@treebeards.com\" <dan@treebeards.com>@ENRON\n",
+         "source": "email",
+         "to": "Taylor, Mark E (Legal)"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 58,
+         "rawfrom": "<Mark.Taylor@enron.com>\n",
+         "source": "email",
+         "to": "<dan@treebeards.com>"
+      },
+      {
+         "from": "dan@treebeards.com",
+         "line": 88,
+         "rawfrom": "  \"Dan@treebeards.com\" <dan@treebeards.com>@ENRON\n",
+         "source": "email",
+         "to": "Taylor, Mark E (Legal)"
+      },
+      {
+         "from": "mark.taylor@enron.com",
+         "line": 100,
+         "rawfrom": "<mark.taylor@enron.com>\n",
+         "source": "email",
+         "to": "<dan@treebeards.com>"
+      }
+   ],
+   "skipped": 0
+}
+]
